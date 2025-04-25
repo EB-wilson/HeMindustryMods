@@ -182,11 +182,13 @@ public class ModUpdater{
                 String internalName = Strings.stripColors(modj.getString("name").toLowerCase());
 
                 //skip outdated mods
-                String version = modj.getString("minGameVersion", "104");
-                int minBuild = Strings.parseInt(version.contains(".") ? version.split("\\.")[0] : version, 0);
+                String minGameVersion = modj.getString("minGameVersion", "104");
+                int minBuild = Strings.parseInt(minGameVersion.contains(".") ? minGameVersion.split("\\.")[0] : minGameVersion, 0);
                 if(minBuild < 136){
                     continue;
                 }
+
+                String version = modj.getString("version");
 
                 String lang = gm.getString("language", "");
 
@@ -205,10 +207,11 @@ public class ModUpdater{
                 obj.add("repo", name);
                 obj.add("internalName", internalName);
                 obj.add("name", metaName);
+                obj.add("version", version);
                 obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
                 obj.add("lastUpdated", gm.get("pushed_at"));
                 obj.add("stars", gm.get("stargazers_count"));
-                obj.add("minGameVersion", version);
+                obj.add("minGameVersion", minGameVersion);
                 obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
                 obj.add("hasJava", Jval.valueOf(modj.getBool("java", false) || javaLangs.contains(lang)));
                 obj.add("description", Strings.stripColors(modj.getString("description", "No description provided.")));
