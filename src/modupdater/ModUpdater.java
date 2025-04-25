@@ -115,7 +115,20 @@ public class ModUpdater{
                     }
 
                     Jval meta = ghmeta.get(name);
-                    String branch = meta.getString("default_branch");
+
+                    Jval[] latestMeta = new Jval[1];
+                    query("/repos/" + name + "/releases/latest", null, res -> {
+                        if (!"404".equals(res.getString("status", null))){
+                            latestMeta[0] = res;
+                        }
+                    });
+
+                    if (latestMeta[0] == null){
+                        print(buffer, "&lc| &lySkipping, repo no release.");
+                        return;
+                    }
+
+                    String branch = latestMeta[0].getString("tag_name");
 
                     //is archived, skip
                     if(meta.getBool("archived", false)){
