@@ -370,7 +370,7 @@
     "version": "2.7",
     "author": "EBwilson",
     "lastUpdated": "2025-04-18T08:56:23Z",
-    "stars": 48,
+    "stars": 49,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
@@ -538,7 +538,7 @@
     "name": "MoreDefences",
     "version": "3.0.4",
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-04-26T02:05:18Z",
+    "lastUpdated": "2025-04-26T12:28:41Z",
     "stars": 31,
     "minGameVersion": "147",
     "hasScripts": true,
@@ -3159,19 +3159,6 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
-    "repo": "evdes190/dangerous-serpulo",
-    "internalName": "ds",
-    "name": "Dangerous Serpulo",
-    "version": "0.9",
-    "author": "EvDes",
-    "lastUpdated": "2025-04-22T13:51:07Z",
-    "stars": 3,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Мод создан для людей без личной жизни.\nThe mod was created for a people with no life.\n\n\nRu: Мод добавляет усложненную версию Серпуло. Изменения:\n\n-Все второстепенные сектора имеют вражеские базы и истребляющую угрозу.\n-Сектора мгновенно оказывается атакованным после захвата, если рядом есть вражеские базы (не влияет на сюжетные сектора).\n-Сектора полностью очищается после потери.\n-Сектор имеет маленький шанс потеряться, даже если не имеет рядом вражеских баз.\n\nСоветую сбросить исследования перед игрой на новой планете.\nМод находится на стадии тестирования. Вы можете дать идей для улучшения мода в GitHub или в Discord - evdes#0000.\n\n--------------------------\n\nEng: The mod adds a complicated version of Serpulo. Changes:\n\n-All secondary sectors have enemy bases and eradication threat.\n-The sector is instantly attacked after being captured if there are enemy bases nearby (does not affect story sectors)\n-The sector is fully cleared after lose.\n-The sector has a small chance of getting lost, even if it does not have any enemy bases nearby.\n\nI advise you to reset your researches before playing on a new planet.\nThe mod is at the testing stage. You can give ideas for improving the mod in GitHub or in Discord - evdes#0000."
-  },
-  {
     "repo": "vasiliymax1/mindustryplus",
     "internalName": "mindustryplus",
     "name": "MindustryPlus",
@@ -3183,6 +3170,32 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Random small mindustry mod."
+  },
+  {
+    "repo": "evdes190/dangerous-serpulo",
+    "internalName": "ds",
+    "name": "Dangerous Serpulo",
+    "version": "0.9.4",
+    "author": "EvDes",
+    "lastUpdated": "2025-04-26T11:56:19Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Мод создан для людей без личной жизни.\nThe mod was created for a people with no life.\n\n\nRu: Мод добавляет усложненную версию Серпуло. Изменения:\n\n-Все второстепенные сектора имеют вражеские базы и истребляющую угрозу.\n-Сектора мгновенно оказывается атакованным после захвата, если рядом есть вражеские базы (не влияет на сюжетные сектора).\n-Сектора полностью очищается после потери.\n-Сектор имеет маленький шанс потеряться, даже если не имеет рядом вражеских баз.\n\nСоветую сбросить исследования перед игрой на новой планете.\nМод находится на стадии тестирования. Вы можете дать идей для улучшения мода в GitHub или в Discord - evdes#0000.\n\n--------------------------\n\nEng: The mod adds a complicated version of Serpulo. Changes:\n\n-All secondary sectors have enemy bases and eradication threat.\n-The sector is instantly attacked after being captured if there are enemy bases nearby (does not affect story sectors)\n-The sector is fully cleared after lose.\n-The sector has a small chance of getting lost, even if it does not have any enemy bases nearby.\n\nI advise you to reset your researches before playing on a new planet.\nThe mod is at the testing stage. You can give ideas for improving the mod in GitHub or in Discord - evdes#0000."
+  },
+  {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "alpha (build 1)",
+    "author": "Nullotte",
+    "lastUpdated": "2025-04-26T12:32:51Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -3783,17 +3796,30 @@
     "description": "Add an admin button."
   },
   {
+    "repo": "laohuajiofficial/unitarsenal",
+    "internalName": "unit-arsenal",
+    "name": "Unit Arsenal",
+    "version": "1.02",
+    "author": "LaoHuaJi",
+    "lastUpdated": "2025-04-24T12:24:30Z",
+    "stars": 2,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod which allow customize player's unit via using existing contents."
+  },
+  {
     "repo": "johnnywu2k/void",
     "internalName": "void",
     "name": "Void",
     "version": "1.1",
     "author": "Johnny",
-    "lastUpdated": "2025-04-25T11:47:44Z",
+    "lastUpdated": "2025-04-26T12:06:54Z",
     "stars": 2,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
-    "description": "a mod that adds some cool stuff"
+    "description": "added some cool stuff"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -5356,19 +5382,6 @@
     "description": "Mindustry: Evil Edition"
   },
   {
-    "repo": "smolkeys/new-console-hardline",
-    "internalName": "newconsole-hardline",
-    "name": "New Console Hardline",
-    "version": "2.1",
-    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
-    "lastUpdated": "2025-04-19T15:25:06Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
     "repo": "dx-36/trolldustryv8",
     "internalName": "trolldustryv8",
     "name": "Trolldustry V8",
@@ -5458,5 +5471,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "not yet."
+  },
+  {
+    "repo": "smolkeys/new-console-hardline",
+    "internalName": "newconsole-hardline",
+    "name": "New Console Hardline",
+    "version": "2.1",
+    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
+    "lastUpdated": "2025-04-26T11:55:22Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   }
 ]
