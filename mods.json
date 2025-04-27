@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "version": "0.5.8",
     "author": "Yuria",
-    "lastUpdated": "2025-04-25T12:37:07Z",
+    "lastUpdated": "2025-04-26T18:20:20Z",
     "stars": 438,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -278,7 +278,7 @@
     "name": "Aquarion",
     "version": "3.0",
     "author": "twcash",
-    "lastUpdated": "2025-04-25T16:12:30Z",
+    "lastUpdated": "2025-04-27T00:37:25Z",
     "stars": 57,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -538,7 +538,7 @@
     "name": "MoreDefences",
     "version": "3.0.4",
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-04-26T12:28:41Z",
+    "lastUpdated": "2025-04-27T02:33:52Z",
     "stars": 31,
     "minGameVersion": "147",
     "hasScripts": true,
@@ -601,14 +601,14 @@
     "repo": "sh1penfire/meld",
     "internalName": "meld",
     "name": "Meld",
-    "version": "1",
+    "version": "",
     "author": "Sh1penfire",
-    "lastUpdated": "2025-04-24T22:44:33Z",
+    "lastUpdated": "2025-04-27T05:22:45Z",
     "stars": 27,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Trudge through Ikaru, home to the [#ea9ad6]Meld[]. Salvage the remains of previous incursions to fight off the wildlife.\n\nPlay as a naval core unit, using sonar pulses to scout out targets for your turrets and rally your units.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT\n\n[accent]Please check releases and use the latest <Gameplay Test> version. Thanks~"
+    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
     "repo": "nullotte/dusted-lands",
@@ -967,7 +967,7 @@
     "name": "Nyfalis (Olupis)",
     "version": "1.7.9",
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2025-04-26T06:11:45Z",
+    "lastUpdated": "2025-04-27T06:21:21Z",
     "stars": 16,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1859,6 +1859,19 @@
     "description": "When passion collides with the shitposter's mind.\n\nYellow currently identifies as a shitpost mod, but I'd like to change that.\n\nSee you soon."
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "version": "beta-0.3",
+    "author": "EBwilson",
+    "lastUpdated": "2025-04-25T04:44:23Z",
+    "stars": 7,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui"
+  },
+  {
     "repo": "silinveredno/music-remixes-pt-1",
     "internalName": "music remixes pt-1",
     "name": "Music remixes PT-1",
@@ -2052,19 +2065,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Better visuals? Not only that!"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "version": "beta-0.3",
-    "author": "EBwilson",
-    "lastUpdated": "2025-04-25T04:44:23Z",
-    "stars": 6,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui"
   },
   {
     "repo": "frilofril19/cobatstry",
@@ -2338,6 +2338,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The mod of fight 4 colors"
+  },
+  {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "alpha (build 1)",
+    "author": "Nullotte",
+    "lastUpdated": "2025-04-26T12:32:51Z",
+    "stars": 5,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -3133,19 +3146,6 @@
     "description": "Mod add tanks, aircraft, artillery, diesel generators"
   },
   {
-    "repo": "chinhonnang0000/asteroidgen",
-    "internalName": "asteroidgen",
-    "name": "asteroidgen",
-    "version": "build 0",
-    "author": "chinhonnang0000",
-    "lastUpdated": "2025-04-20T04:49:06Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "this mod probably wont get another star"
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -3185,17 +3185,17 @@
     "description": "Мод создан для людей без личной жизни.\nThe mod was created for a people with no life.\n\n\nRu: Мод добавляет усложненную версию Серпуло. Изменения:\n\n-Все второстепенные сектора имеют вражеские базы и истребляющую угрозу.\n-Сектора мгновенно оказывается атакованным после захвата, если рядом есть вражеские базы (не влияет на сюжетные сектора).\n-Сектора полностью очищается после потери.\n-Сектор имеет маленький шанс потеряться, даже если не имеет рядом вражеских баз.\n\nСоветую сбросить исследования перед игрой на новой планете.\nМод находится на стадии тестирования. Вы можете дать идей для улучшения мода в GitHub или в Discord - evdes#0000.\n\n--------------------------\n\nEng: The mod adds a complicated version of Serpulo. Changes:\n\n-All secondary sectors have enemy bases and eradication threat.\n-The sector is instantly attacked after being captured if there are enemy bases nearby (does not affect story sectors)\n-The sector is fully cleared after lose.\n-The sector has a small chance of getting lost, even if it does not have any enemy bases nearby.\n\nI advise you to reset your researches before playing on a new planet.\nThe mod is at the testing stage. You can give ideas for improving the mod in GitHub or in Discord - evdes#0000."
   },
   {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "alpha (build 1)",
-    "author": "Nullotte",
-    "lastUpdated": "2025-04-26T12:32:51Z",
+    "repo": "chinhonnang0000/asteroidgen",
+    "internalName": "asteroidgen",
+    "name": "asteroidgen",
+    "version": "build 0",
+    "author": "chinhonnang0000",
+    "lastUpdated": "2025-04-27T05:21:29Z",
     "stars": 3,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "this mod probably wont get another star"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -3814,7 +3814,7 @@
     "name": "Void",
     "version": "1.1",
     "author": "Johnny",
-    "lastUpdated": "2025-04-26T12:06:54Z",
+    "lastUpdated": "2025-04-27T04:48:23Z",
     "stars": 2,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -5460,19 +5460,6 @@
     "description": "Provides custom mlog instructions for launch pads and landing pads."
   },
   {
-    "repo": "halopolicj/ppm",
-    "internalName": "ppm",
-    "name": "ppm",
-    "version": "1.0",
-    "author": "You",
-    "lastUpdated": "2025-04-25T17:56:53Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "not yet."
-  },
-  {
     "repo": "smolkeys/new-console-hardline",
     "internalName": "newconsole-hardline",
     "name": "New Console Hardline",
@@ -5484,5 +5471,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
+    "repo": "halopolicj/ppm",
+    "internalName": "ppm",
+    "name": "ppm",
+    "version": "1.0",
+    "author": "You",
+    "lastUpdated": "2025-04-26T14:49:10Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "not yet."
   }
 ]
