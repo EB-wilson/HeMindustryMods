@@ -202,6 +202,7 @@ public class ModUpdater{
                 }
 
                 String version = modj.getString("version");
+                var hidden = modj.get("hidden");
 
                 String lang = gm.getString("language", "");
 
@@ -221,6 +222,7 @@ public class ModUpdater{
                 obj.add("internalName", internalName);
                 obj.add("name", metaName);
                 obj.add("version", version);
+                obj.add("hidden", hidden == null? Jval.valueOf(false): hidden);
                 obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
                 obj.add("lastUpdated", gm.get("pushed_at"));
                 obj.add("stars", gm.get("stargazers_count"));
