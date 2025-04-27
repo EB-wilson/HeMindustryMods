@@ -1064,6 +1064,20 @@
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
+    "repo": "huanxefh/reindustrialization",
+    "internalName": "reind",
+    "name": "Reindustrialization",
+    "version": "0.1.0",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2025-04-18T11:45:01Z",
+    "stars": 15,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nA JS mod aimed to bring real chemical engineering into Mindustry, where tin is definitely tin.\n\n\n- Nothing extends vanilla gameplay, all the contents including environmental blocks are mod-based. No borrowed or recolored vanilla textures.\n\n- Steps and intermediates are introduced for production routes, which are mostly based on the processes in real life. Say bye to straightforward recipes and fictional real names.\n\n- Extraction methods are required to turn ores into actual materials, e.g. smelting.\n\n- New mechanics like fluid corrosion and underground ores are implemented, which differentiates the gameplay drastically.\n\n- Turrets are absent, the mod will focus on unit-only defense and attack.\n\n\nMost of the factories are multi-crafters, you'll need download MultiCrafterLib first! (Sorry for IOS players D:)\n\n\nReind is still and probably always WIP, as chemistry itself is a complex thing. Do not launch to numbered sectors since sector generator is not used.\n\n\n------------------------------\n\n\nContents:\n\n- MaboroshiX\n\n\nSprites:\n\n- MaboroshiX\n\n\nScripts:\n\n- MaboroshiX\n\n\nMaps:\n\n- MaboroshiX\n\n\nIdeas:\n\n- MaboroshiX\n\n\n------------------------------\n\n\nInspiration:\n\n- Greg's Tech: New Horizon (Minecraft modpack)\n\n- Asthosus (Mindustry mod)\n\n- Fictional Octo System (Mindustry mod)\n\n- Sapphirium (Mindustry mod)\n\n- 格雷工业 (Mindustry mod)\n"
+  },
+  {
     "repo": "topyrit/capital_progress",
     "internalName": "capital progress",
     "name": "CAPITAL PROGRESS",
@@ -1118,20 +1132,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
-  },
-  {
-    "repo": "huanxefh/reindustrialization",
-    "internalName": "reind",
-    "name": "Reindustrialization",
-    "version": "0.1.0",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2025-04-18T11:45:01Z",
-    "stars": 14,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nA JS mod aimed to bring real chemical engineering into Mindustry, where tin is definitely tin.\n\n\n- Nothing extends vanilla gameplay, all the contents including environmental blocks are mod-based. No borrowed or recolored vanilla textures.\n\n- Steps and intermediates are introduced for production routes, which are mostly based on the processes in real life. Say bye to straightforward recipes and fictional real names.\n\n- Extraction methods are required to turn ores into actual materials, e.g. smelting.\n\n- New mechanics like fluid corrosion and underground ores are implemented, which differentiates the gameplay drastically.\n\n- Turrets are absent, the mod will focus on unit-only defense and attack.\n\n\nMost of the factories are multi-crafters, you'll need download MultiCrafterLib first! (Sorry for IOS players D:)\n\n\nReind is still and probably always WIP, as chemistry itself is a complex thing. Do not launch to numbered sectors since sector generator is not used.\n\n\n------------------------------\n\n\nContents:\n\n- MaboroshiX\n\n\nSprites:\n\n- MaboroshiX\n\n\nScripts:\n\n- MaboroshiX\n\n\nMaps:\n\n- MaboroshiX\n\n\nIdeas:\n\n- MaboroshiX\n\n\n------------------------------\n\n\nInspiration:\n\n- Greg's Tech: New Horizon (Minecraft modpack)\n\n- Asthosus (Mindustry mod)\n\n- Fictional Octo System (Mindustry mod)\n\n- Sapphirium (Mindustry mod)\n\n- 格雷工业 (Mindustry mod)\n"
   },
   {
     "repo": "retodera/technologium",
@@ -2240,6 +2240,20 @@
     "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch\r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
   },
   {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "alpha (build 1)",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2025-04-27T11:45:10Z",
+    "stars": 6,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
+  },
+  {
     "repo": "obamination/minedustry",
     "internalName": "minedustry",
     "name": "Minedustry",
@@ -2518,20 +2532,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The mod of fight 4 colors"
-  },
-  {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "alpha (build 1)",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2025-04-27T11:45:10Z",
-    "stars": 5,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -3436,7 +3436,7 @@
     "version": "build 0",
     "hidden": false,
     "author": "chinhonnang0000",
-    "lastUpdated": "2025-04-27T09:39:47Z",
+    "lastUpdated": "2025-04-27T14:13:09Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3976,20 +3976,6 @@
     "description": "Under Port."
   },
   {
-    "repo": "devlimegames/fancyscience",
-    "internalName": "fancyscience",
-    "name": "Fancy Science",
-    "version": "0.4",
-    "hidden": false,
-    "author": "DevLimeGames/PandaIndustryMix",
-    "lastUpdated": "2025-03-15T00:19:02Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Science come with fanciness. Introduce a new planet name Astra meaning hope."
-  },
-  {
     "repo": "dedshotgames/wotanks-mod",
     "internalName": "wotanks",
     "name": "WOTanks",
@@ -4046,20 +4032,6 @@
     "description": "On a random day, all the civilizations joined forces to leave the dying state of the world in which they are inhabiting. They left in fleets of much grandeur and it was at that time when a vortex opened somewhere between the stars and they entered it where they had the encounter with the Beings. They acquired exotic technologies from them but little did they know that it was all part of a much greater story and that there was nothing random about that day. The Exotic technologies include: Bombs and Nukes Guided missile systems Power manipulation devices Unconventional weapon systems and much more."
   },
   {
-    "repo": "xpdustry/claj-v2",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.3.1",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-04-17T20:25:10Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
-  },
-  {
     "repo": "dx-36/trolldustry",
     "internalName": "trolldustry",
     "name": "Trolldustry",
@@ -4114,6 +4086,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "added some cool stuff"
+  },
+  {
+    "repo": "xpdustry/claj-v2",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.1",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2025-04-27T12:47:25Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -4786,6 +4772,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Dausas Project mod"
+  },
+  {
+    "repo": "devlimegames/fancyscience",
+    "internalName": "fancyscience",
+    "name": "Fancy Science",
+    "version": "0.4",
+    "hidden": false,
+    "author": "DevLimeGames/PandaIndustryMix",
+    "lastUpdated": "2025-03-15T00:19:02Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Science come with fanciness. Introduce a new planet name Astra meaning hope."
   },
   {
     "repo": "leyn-pl/bettercoreexplosion",
