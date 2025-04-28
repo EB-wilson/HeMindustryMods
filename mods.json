@@ -1588,7 +1588,7 @@
     "version": "alpha 0.9.4",
     "hidden": false,
     "author": "R.O.T.\nThanks yesC48 for normal english translation",
-    "lastUpdated": "2025-04-27T22:31:52Z",
+    "lastUpdated": "2025-04-28T04:03:31Z",
     "stars": 9,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -4676,20 +4676,6 @@
     "description": "st "
   },
   {
-    "repo": "hungrycloud4913/the-reformed-universes-project",
-    "internalName": "univ-project",
-    "name": "The Reformed Universe Project",
-    "version": "v0.1",
-    "hidden": false,
-    "author": "HungryCloud4913",
-    "lastUpdated": "2024-12-17T19:14:09Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "ochpochmakso/goraputaro",
     "internalName": "goraputaro",
     "name": "Goraputaro",
@@ -5880,20 +5866,6 @@
     "description": "Provides custom mlog instructions for launch pads and landing pads."
   },
   {
-    "repo": "smolkeys/new-console-hardline",
-    "internalName": "newconsole-hardline",
-    "name": "New Console Hardline",
-    "version": "2.1",
-    "hidden": true,
-    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
-    "lastUpdated": "2025-04-26T11:55:22Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
     "repo": "halopolicj/ppm",
     "internalName": "ppm",
     "name": "ppm",
@@ -5906,5 +5878,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "not yet."
+  },
+  {
+    "repo": "smolkeys/new-console-hardline",
+    "internalName": "newconsole-hardline",
+    "name": "New Console Hardline",
+    "version": "2.1",
+    "hidden": true,
+    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
+    "lastUpdated": "2025-04-28T03:39:07Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   }
 ]
