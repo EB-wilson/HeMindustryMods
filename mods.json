@@ -35,7 +35,7 @@
     "hidden": true,
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-05T07:39:42Z",
-    "stars": 195,
+    "stars": 196,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -566,7 +566,7 @@
     "version": "0.6.2-beta",
     "hidden": false,
     "author": "Skoow, IriDark",
-    "lastUpdated": "2025-04-27T16:24:09Z",
+    "lastUpdated": "2025-04-29T10:12:00Z",
     "stars": 32,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -650,7 +650,7 @@
     "version": "",
     "hidden": false,
     "author": "Sh1penfire",
-    "lastUpdated": "2025-04-28T13:54:15Z",
+    "lastUpdated": "2025-04-29T09:08:13Z",
     "stars": 27,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2884,20 +2884,6 @@
     "description": "Ernomytase - a modification that adds a continuation of the Erekir campaign"
   },
   {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "version": "",
-    "hidden": false,
-    "author": "bttodi",
-    "lastUpdated": "2025-04-11T11:41:48Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
-  },
-  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2938,6 +2924,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that provide you with some ways to manage your saves. More details see our github repo."
+  },
+  {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "version": "",
+    "hidden": false,
+    "author": "bttodi",
+    "lastUpdated": "2025-04-29T10:19:03Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
     "repo": "boolmano/bombermod",
