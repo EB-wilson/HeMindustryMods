@@ -272,7 +272,7 @@
     "version": "3.1.1",
     "hidden": false,
     "author": "滞人",
-    "lastUpdated": "2023-08-08T15:04:45Z",
+    "lastUpdated": "2025-04-30T13:32:09Z",
     "stars": 67,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -1042,7 +1042,7 @@
     "version": "1.7.9",
     "hidden": false,
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2025-04-30T12:36:13Z",
+    "lastUpdated": "2025-04-30T14:10:13Z",
     "stars": 16,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1840,7 +1840,7 @@
     "version": "alpha (build 1)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2025-04-27T11:45:10Z",
+    "lastUpdated": "2025-04-30T12:59:06Z",
     "stars": 8,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -3416,20 +3416,6 @@
     "description": ""
   },
   {
-    "repo": "vasiliymax1/mindustryplus",
-    "internalName": "mindustryplus",
-    "name": "MindustryPlus",
-    "version": "1",
-    "hidden": false,
-    "author": "VasiliyMax",
-    "lastUpdated": "2025-04-28T10:26:35Z",
-    "stars": 3,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Random small mindustry mod."
-  },
-  {
     "repo": "chinhonnang0000/asteroidgen",
     "internalName": "asteroidgen",
     "name": "asteroidgen",
@@ -3470,6 +3456,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
+  },
+  {
+    "repo": "vasiliymax1/mindustryplus",
+    "internalName": "mindustryplus",
+    "name": "MindustryPlus",
+    "version": "1",
+    "hidden": false,
+    "author": "VasiliyMax",
+    "lastUpdated": "2025-04-30T12:53:43Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Random small mindustry mod."
   },
   {
     "repo": "wshon/mindustrytoolkit",
