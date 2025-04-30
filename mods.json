@@ -104,7 +104,7 @@
     "version": "1.6.2",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2025-04-30T00:32:03Z",
+    "lastUpdated": "2025-04-30T16:22:26Z",
     "stars": 120,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1456,6 +1456,20 @@
     "description": "the ultimate ratio hell, a designer's challenge"
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "version": "beta-0.4",
+    "hidden": true,
+    "author": "EBwilson",
+    "lastUpdated": "2025-04-30T15:15:54Z",
+    "stars": 10,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui"
+  },
+  {
     "repo": "slotterleet/hard-mode-mod",
     "internalName": "hard-mode",
     "name": "Hard Mode",
@@ -1594,20 +1608,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds a new planet, where we will play in underground"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "version": "beta-0.4",
-    "hidden": true,
-    "author": "EBwilson",
-    "lastUpdated": "2025-04-29T16:03:04Z",
-    "stars": 9,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui"
   },
   {
     "repo": "liplum/bottledliquid",
@@ -3416,20 +3416,6 @@
     "description": ""
   },
   {
-    "repo": "chinhonnang0000/asteroidgen",
-    "internalName": "asteroidgen",
-    "name": "asteroidgen",
-    "version": "build 0",
-    "hidden": false,
-    "author": "chinhonnang0000",
-    "lastUpdated": "2025-04-28T13:01:05Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "this mod probably wont get another star"
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -3470,6 +3456,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Random small mindustry mod."
+  },
+  {
+    "repo": "chinhonnang0000/asteroidgen",
+    "internalName": "asteroidgen",
+    "name": "asteroidgen",
+    "version": "build 0",
+    "hidden": false,
+    "author": "chinhonnang0000",
+    "lastUpdated": "2025-04-30T15:17:17Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "this mod probably wont get another star"
   },
   {
     "repo": "wshon/mindustrytoolkit",
