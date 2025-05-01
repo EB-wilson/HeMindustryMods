@@ -566,7 +566,7 @@
     "version": "1.0.Alpha7",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2025-04-29T23:42:44Z",
+    "lastUpdated": "2025-04-30T23:26:43Z",
     "stars": 32,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -580,7 +580,7 @@
     "version": "3.0.4",
     "hidden": false,
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-04-29T22:07:41Z",
+    "lastUpdated": "2025-05-01T00:24:55Z",
     "stars": 31,
     "minGameVersion": "147",
     "hasScripts": true,
@@ -1358,6 +1358,20 @@
     "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "version": "beta-0.4",
+    "hidden": true,
+    "author": "EBwilson",
+    "lastUpdated": "2025-04-30T15:15:54Z",
+    "stars": 11,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui"
+  },
+  {
     "repo": "aforgetfulness/towerdefense",
     "internalName": "towerdefense",
     "name": "Tower Defense",
@@ -1454,20 +1468,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "the ultimate ratio hell, a designer's challenge"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "version": "beta-0.4",
-    "hidden": true,
-    "author": "EBwilson",
-    "lastUpdated": "2025-04-30T15:15:54Z",
-    "stars": 10,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui"
   },
   {
     "repo": "slotterleet/hard-mode-mod",
@@ -4872,6 +4872,20 @@
     "description": "Makes Pal.accent color random on each game boot and adds a button to do it from menu. Refresh your style!"
   },
   {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "version": "2.1.0",
+    "hidden": true,
+    "author": "Agzam4",
+    "lastUpdated": "2025-04-14T16:37:28Z",
+    "stars": 1,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
+  },
+  {
     "repo": "maksimk792/some-music.",
     "internalName": "some music",
     "name": "Some Music",
@@ -5738,20 +5752,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "联机mod，支持自定义frpc，目前仅支持Android aarch64(项目正在重构，暂时不支持Windows amd64)"
-  },
-  {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "version": "2.1.0",
-    "hidden": true,
-    "author": "Agzam4",
-    "lastUpdated": "2025-04-14T16:37:28Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
   },
   {
     "repo": "halopolicj/permafrost",
