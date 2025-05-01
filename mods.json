@@ -1252,7 +1252,7 @@
     "version": "2.1.7",
     "hidden": false,
     "author": "[lime]Mitemi[lightgray] & [cyan]Tikup",
-    "lastUpdated": "2025-04-29T17:27:53Z",
+    "lastUpdated": "2025-05-01T18:30:49Z",
     "stars": 13,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4872,20 +4872,6 @@
     "description": "Makes Pal.accent color random on each game boot and adds a button to do it from menu. Refresh your style!"
   },
   {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "version": "2.1.0",
-    "hidden": true,
-    "author": "Agzam4",
-    "lastUpdated": "2025-04-14T16:37:28Z",
-    "stars": 1,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "maksimk792/some-music.",
     "internalName": "some music",
     "name": "Some Music",
@@ -4940,6 +4926,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "version": "2.1.0",
+    "hidden": true,
+    "author": "Agzam4",
+    "lastUpdated": "2025-05-01T18:41:56Z",
+    "stars": 1,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
