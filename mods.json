@@ -546,20 +546,6 @@
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
-    "repo": "sublemon-team/subvoyage",
-    "internalName": "subvoyage",
-    "name": "Subvoyage",
-    "version": "0.6.2-beta",
-    "hidden": false,
-    "author": "Skoow, IriDark",
-    "lastUpdated": "2025-04-29T10:12:00Z",
-    "stars": 32,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aquatic-stylized mod with new planet and unique mechanics"
-  },
-  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
@@ -572,6 +558,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
+  },
+  {
+    "repo": "sublemon-team/subvoyage",
+    "internalName": "subvoyage",
+    "name": "Subvoyage",
+    "version": "0.6.2-beta",
+    "hidden": false,
+    "author": "Skoow, IriDark",
+    "lastUpdated": "2025-05-01T06:53:43Z",
+    "stars": 32,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
     "repo": "coaldeficit/moredefences",
@@ -1364,7 +1364,7 @@
     "version": "beta-0.4",
     "hidden": true,
     "author": "EBwilson",
-    "lastUpdated": "2025-04-30T15:15:54Z",
+    "lastUpdated": "2025-05-01T06:56:59Z",
     "stars": 11,
     "minGameVersion": "147",
     "hasScripts": false,
