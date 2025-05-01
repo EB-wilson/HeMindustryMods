@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria",
     "lastUpdated": "2025-04-29T10:34:45Z",
-    "stars": 439,
+    "stars": 440,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -273,7 +273,7 @@
     "hidden": false,
     "author": "滞人",
     "lastUpdated": "2025-04-30T13:32:09Z",
-    "stars": 67,
+    "stars": 68,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -1554,6 +1554,20 @@
     "description": "此mod分离自mod tools.\nFixed a lot of bugs."
   },
   {
+    "repo": "decar4ct/astherive",
+    "internalName": "astherive",
+    "name": "Astherive",
+    "version": "v1.0",
+    "hidden": false,
+    "author": "decaract",
+    "lastUpdated": "2025-01-05T10:02:01Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Tropical, oceanic planet. Inhabited by mutated creatures.\nCurrently in very early development.\n\nPleeease use the install button instead of the releases :3"
+  },
+  {
     "repo": "ggllfr/confictura",
     "internalName": "",
     "name": "Confictura",
@@ -1750,20 +1764,6 @@
     "description": "A fun mod for a fun New Year's event"
   },
   {
-    "repo": "decar4ct/astherive",
-    "internalName": "astherive",
-    "name": "Astherive",
-    "version": "v1.0",
-    "hidden": false,
-    "author": "decaract",
-    "lastUpdated": "2025-01-05T10:02:01Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Tropical, oceanic planet. Inhabited by mutated creatures.\nCurrently in very early development.\n\nPleeease use the install button instead of the releases :3"
-  },
-  {
     "repo": "hao-1337/mindustry-better-vanilla",
     "internalName": "hao1337-mod",
     "name": "[ Better Vanilla ]",
@@ -1840,7 +1840,7 @@
     "version": "alpha (build 1)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2025-05-01T12:30:59Z",
+    "lastUpdated": "2025-05-01T13:08:56Z",
     "stars": 8,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2940,6 +2940,20 @@
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
+    "repo": "xpdustry/claj-v2",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.1",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2025-05-01T14:02:37Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
+  },
+  {
     "repo": "boolmano/bombermod",
     "internalName": "bombermod",
     "name": "Bombers mod",
@@ -3430,20 +3444,6 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
-    "repo": "xpdustry/claj-v2",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.3.1",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-04-30T09:16:45Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
-  },
-  {
     "repo": "vasiliymax1/mindustryplus",
     "internalName": "mindustryplus",
     "name": "MindustryPlus",
@@ -3464,12 +3464,12 @@
     "version": "build 0",
     "hidden": false,
     "author": "chinhonnang0000",
-    "lastUpdated": "2025-05-01T11:32:12Z",
+    "lastUpdated": "2025-05-01T13:55:23Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
-    "description": "this mod probably wont get another star"
+    "description": "This mod will not get another star anytime soon, Never gets completed, Never gets balanced, and will almost always be the largest mod in its number of stars."
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -4074,20 +4074,6 @@
     "description": "modifies the campain maps to troll you"
   },
   {
-    "repo": "i-drink-gasoline/admin-button-2",
-    "internalName": "admin-button-2",
-    "name": "Admin Button 2",
-    "version": "0.4",
-    "hidden": true,
-    "author": "I drink gasoline",
-    "lastUpdated": "2025-04-20T18:37:36Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add an admin button."
-  },
-  {
     "repo": "johnnywu2k/void",
     "internalName": "void",
     "name": "Void",
@@ -4100,6 +4086,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "added some cool stuff"
+  },
+  {
+    "repo": "i-drink-gasoline/admin-button-2",
+    "internalName": "admin-button-2",
+    "name": "Admin Button 2",
+    "version": "0.5",
+    "hidden": true,
+    "author": "I drink gasoline",
+    "lastUpdated": "2025-05-01T14:10:48Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add an admin button."
   },
   {
     "repo": "teaeempire/gghv7",
