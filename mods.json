@@ -91,7 +91,7 @@
     "hidden": true,
     "author": "sk7725",
     "lastUpdated": "2024-07-25T09:11:47Z",
-    "stars": 139,
+    "stars": 140,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -952,6 +952,20 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "version": "beta-0.6",
+    "hidden": true,
+    "author": "EBwilson",
+    "lastUpdated": "2025-05-02T14:55:56Z",
+    "stars": 17,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui"
+  },
+  {
     "repo": "yuria-shikibe/gameinfoimager",
     "internalName": "game-info-imager",
     "name": "Game Info Imager",
@@ -1048,20 +1062,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "version": "beta-0.6",
-    "hidden": true,
-    "author": "EBwilson",
-    "lastUpdated": "2025-05-02T14:55:56Z",
-    "stars": 16,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui"
   },
   {
     "repo": "flintyx/autoresearch",
@@ -1232,20 +1232,6 @@
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
   },
   {
-    "repo": "mindustrydesignit/schematic-browser-mod",
-    "internalName": "schematic-browser",
-    "name": "Schematic Browser",
-    "version": "1.1",
-    "hidden": true,
-    "author": "SByte, Eeve-lyn, zxtej",
-    "lastUpdated": "2025-04-18T03:52:25Z",
-    "stars": 13,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod for browsing schematic repositories."
-  },
-  {
     "repo": "lysent/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
@@ -1258,6 +1244,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
+  },
+  {
+    "repo": "mindustrydesignit/schematic-browser-mod",
+    "internalName": "schematic-browser",
+    "name": "Schematic Browser",
+    "version": "1.1",
+    "hidden": true,
+    "author": "SByte, Eeve-lyn, zxtej",
+    "lastUpdated": "2025-05-02T18:19:55Z",
+    "stars": 13,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod for browsing schematic repositories."
   },
   {
     "repo": "arksourcer/project-ark-public",
