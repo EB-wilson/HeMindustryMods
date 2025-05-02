@@ -105,7 +105,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2025-05-01T17:53:24Z",
-    "stars": 120,
+    "stars": 121,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
@@ -1078,6 +1078,20 @@
     "description": "\nA JS mod aimed to bring real chemical engineering into Mindustry, where tin is definitely tin.\n\n\n- Nothing extends vanilla gameplay, all the contents including environmental blocks are mod-based. No borrowed or recolored vanilla textures.\n\n- Steps and intermediates are introduced for production routes, which are mostly based on the processes in real life. Say bye to straightforward recipes and fictional real names.\n\n- Extraction methods are required to turn ores into actual materials, e.g. smelting.\n\n- New mechanics like fluid corrosion and underground ores are implemented, which differentiates the gameplay drastically.\n\n- Turrets are absent, the mod will focus on unit-only defense and attack.\n\n\nMost of the factories are multi-crafters, you'll need download MultiCrafterLib first! (Sorry for IOS players D:)\n\n\nReind is still and probably always WIP, as chemistry itself is a complex thing. Do not launch to numbered sectors since sector generator is not used.\n\n\n------------------------------\n\n\nContents:\n\n- MaboroshiX\n\n\nSprites:\n\n- MaboroshiX\n\n\nScripts:\n\n- MaboroshiX\n\n\nMaps:\n\n- MaboroshiX\n\n\nIdeas:\n\n- MaboroshiX\n\n\n------------------------------\n\n\nInspiration:\n\n- Greg's Tech: New Horizon (Minecraft modpack)\n\n- Asthosus (Mindustry mod)\n\n- Fictional Octo System (Mindustry mod)\n\n- Sapphirium (Mindustry mod)\n\n- 格雷工业 (Mindustry mod)\n"
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "version": "beta-0.5b",
+    "hidden": true,
+    "author": "EBwilson",
+    "lastUpdated": "2025-05-01T15:07:11Z",
+    "stars": 15,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui"
+  },
+  {
     "repo": "topyrit/capital_progress",
     "internalName": "capital progress",
     "name": "CAPITAL PROGRESS",
@@ -1146,20 +1160,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "version": "beta-0.5b",
-    "hidden": true,
-    "author": "EBwilson",
-    "lastUpdated": "2025-05-01T15:07:11Z",
-    "stars": 14,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui"
   },
   {
     "repo": "eclipse-04/avkott",
