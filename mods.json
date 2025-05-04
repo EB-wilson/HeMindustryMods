@@ -104,7 +104,7 @@
     "version": "1.6.3",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2025-05-02T15:21:35Z",
+    "lastUpdated": "2025-05-04T14:05:14Z",
     "stars": 123,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -378,6 +378,20 @@
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
+    "repo": "eb-wilson/toomanyitems",
+    "internalName": "tmi",
+    "name": "Too Many Items",
+    "version": "2.7",
+    "hidden": true,
+    "author": "EBwilson",
+    "lastUpdated": "2025-04-18T08:56:23Z",
+    "stars": 50,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "internalName": "fooinstaller",
     "name": "Foo's Client Installer",
@@ -390,20 +404,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
-    "repo": "eb-wilson/toomanyitems",
-    "internalName": "tmi",
-    "name": "Too Many Items",
-    "version": "2.7",
-    "hidden": true,
-    "author": "EBwilson",
-    "lastUpdated": "2025-04-18T08:56:23Z",
-    "stars": 49,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "vvseangtvv/project-restoration",
