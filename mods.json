@@ -259,7 +259,7 @@
     "hidden": true,
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
     "lastUpdated": "2025-05-02T15:10:09Z",
-    "stars": 72,
+    "stars": 71,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -616,6 +616,20 @@
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
+    "repo": "way-zer/contentstweaker",
+    "internalName": "contentstweaker",
+    "name": "ContentsTweaker-内容包修改器",
+    "version": "@version@",
+    "hidden": true,
+    "author": "WayZer",
+    "lastUpdated": "2024-08-04T06:54:03Z",
+    "stars": 27,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dynamic load custom contents patch account to server"
+  },
+  {
     "repo": "zelaux/bytelogicmod",
     "internalName": "byte-logic-mod",
     "name": "Byte Logic Mod",
@@ -623,7 +637,7 @@
     "hidden": false,
     "author": "Zelaux",
     "lastUpdated": "2024-09-24T22:19:06Z",
-    "stars": 28,
+    "stars": 27,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -637,25 +651,11 @@
     "hidden": true,
     "author": "I hope...",
     "lastUpdated": "2025-05-04T07:43:15Z",
-    "stars": 28,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.5\n## Highlight\n- Fixed a severe npe bug about data(settings) save.\n- Added a setting: force_language.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
-  },
-  {
-    "repo": "way-zer/contentstweaker",
-    "internalName": "contentstweaker",
-    "name": "ContentsTweaker-内容包修改器",
-    "version": "@version@",
-    "hidden": true,
-    "author": "WayZer",
-    "lastUpdated": "2024-08-04T06:54:03Z",
     "stars": 27,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Dynamic load custom contents patch account to server"
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.5\n## Highlight\n- Fixed a severe npe bug about data(settings) save.\n- Added a setting: force_language.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "nullotte/dusted-lands",
@@ -896,20 +896,6 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
-    "repo": "echovespy/simplistic",
-    "internalName": "simplistic",
-    "name": "Simplistic - TexturePack",
-    "version": "0.12.0",
-    "hidden": true,
-    "author": "EchoVespy",
-    "lastUpdated": "2024-05-20T02:23:42Z",
-    "stars": 18,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
-  },
-  {
     "repo": "saigon0nozomi/nightscape",
     "internalName": "nscape",
     "name": "NightScape",
@@ -950,6 +936,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
+  },
+  {
+    "repo": "echovespy/simplistic",
+    "internalName": "simplistic",
+    "name": "Simplistic - TexturePack",
+    "version": "0.12.0",
+    "hidden": true,
+    "author": "EchoVespy",
+    "lastUpdated": "2024-05-20T02:23:42Z",
+    "stars": 17,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
     "repo": "minri2/itembridgex",
@@ -2114,20 +2114,6 @@
     "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
   },
   {
-    "repo": "raffel080108/unlocktechtreemod",
-    "internalName": "unlock-tech-tree-mod",
-    "name": "UnlockTechTreeMod",
-    "version": "1.0",
-    "hidden": false,
-    "author": "You",
-    "lastUpdated": "2024-03-08T22:15:45Z",
-    "stars": 6,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Fully unlocks all research on the research tree instantly"
-  },
-  {
     "repo": "electricgun/video-to-logic",
     "internalName": "v2logic",
     "name": "Video to Logic",
@@ -2380,6 +2366,20 @@
     "description": ""
   },
   {
+    "repo": "raffel080108/unlocktechtreemod",
+    "internalName": "unlock-tech-tree-mod",
+    "name": "UnlockTechTreeMod",
+    "version": "1.0",
+    "hidden": false,
+    "author": "You",
+    "lastUpdated": "2024-03-08T22:15:45Z",
+    "stars": 5,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Fully unlocks all research on the research tree instantly"
+  },
+  {
     "repo": "aerialasfofotherprojects/mindustrialist",
     "internalName": "mindustrialist",
     "name": "Mindustrialist",
@@ -2532,20 +2532,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
-  },
-  {
-    "repo": "xpdustry/claj-v2",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.3.2",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-05-03T16:01:04Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -2952,6 +2938,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
+  },
+  {
+    "repo": "xpdustry/claj-v2",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.2",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2025-05-03T16:01:04Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
   },
   {
     "repo": "boolmano/bombermod",
@@ -4914,20 +4914,6 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
-    "repo": "cardillan/launchpads",
-    "internalName": "launch-logic",
-    "name": "Launch Logic",
-    "version": "0.1.0",
-    "hidden": false,
-    "author": "cardillan",
-    "lastUpdated": "2025-04-24T11:52:01Z",
-    "stars": 1,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides custom mlog instructions for launch pads and landing pads."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -5850,6 +5836,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides custom mlog instructions for enhanced runtime checks in Mindustry Logic."
+  },
+  {
+    "repo": "cardillan/launchpads",
+    "internalName": "launch-logic",
+    "name": "Launch Logic",
+    "version": "0.1.0",
+    "hidden": false,
+    "author": "cardillan",
+    "lastUpdated": "2025-04-24T11:52:01Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides custom mlog instructions for launch pads and landing pads."
   },
   {
     "repo": "smolkeys/new-console-hardline",
