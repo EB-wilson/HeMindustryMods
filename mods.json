@@ -504,6 +504,20 @@
     "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
+    "repo": "paulieg626/cheat",
+    "internalName": "cheat",
+    "name": "CheatMod",
+    "version": "2.7",
+    "hidden": false,
+    "author": "paulieg626",
+    "lastUpdated": "2023-02-27T10:41:04Z",
+    "stars": 35,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
+  },
+  {
     "repo": "rogeh4/virtual-scheme-pack-",
     "internalName": "v-scheme-pack",
     "name": "Virtual Scheme Pack",
@@ -530,20 +544,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
-    "repo": "paulieg626/cheat",
-    "internalName": "cheat",
-    "name": "CheatMod",
-    "version": "2.7",
-    "hidden": false,
-    "author": "paulieg626",
-    "lastUpdated": "2023-02-27T10:41:04Z",
-    "stars": 34,
-    "minGameVersion": "142",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
     "repo": "sublemon-team/subvoyage",
@@ -1988,6 +1988,20 @@
     "description": "With this MOD you can make potatoes."
   },
   {
+    "repo": "silinveredno/newhorizonmod-schematics",
+    "internalName": "nh-scheme-pack",
+    "name": "New Horizon schematics pack",
+    "version": "0.5.1",
+    "hidden": true,
+    "author": "Silin Veredno",
+    "lastUpdated": "2025-03-15T10:00:31Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
+  },
+  {
     "repo": "sublemon-team/fonticonslib",
     "internalName": "font-icon-lib",
     "name": "FICO Lib (Font Icons)",
@@ -2140,20 +2154,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
-  },
-  {
-    "repo": "silinveredno/newhorizonmod-schematics",
-    "internalName": "nh-scheme-pack",
-    "name": "New Horizon schematics pack",
-    "version": "0.5.1",
-    "hidden": true,
-    "author": "Silin Veredno",
-    "lastUpdated": "2025-03-15T10:00:31Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
   },
   {
     "repo": "sputnuc/expansion",
@@ -2532,6 +2532,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
+  },
+  {
+    "repo": "xpdustry/claj-v2",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.2",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2025-05-03T16:01:04Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -2938,20 +2952,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
-  },
-  {
-    "repo": "xpdustry/claj-v2",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.3.2",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-05-03T16:01:04Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
   },
   {
     "repo": "boolmano/bombermod",
