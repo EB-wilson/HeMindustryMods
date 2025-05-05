@@ -3,15 +3,15 @@
     "repo": "yuria-shikibe/newhorizonmod",
     "internalName": "new-horizon",
     "name": "New Horizon",
-    "version": "0.5.8",
+    "version": "2.0-alpha-35",
     "hidden": false,
     "author": "Yuria",
-    "lastUpdated": "2025-05-05T07:03:44Z",
+    "lastUpdated": "2025-05-05T11:49:24Z",
     "stars": 441,
-    "minGameVersion": "146",
+    "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
-    "description": "THE HORIZON HAS EXPANDED."
+    "description": "ALPHA RELEASE FOR V8!!!"
   },
   {
     "repo": "sk7725/betamindy",
@@ -35,7 +35,7 @@
     "hidden": true,
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 195,
+    "stars": 196,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -104,7 +104,7 @@
     "version": "1.6.3",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2025-05-04T14:48:08Z",
+    "lastUpdated": "2025-05-05T12:16:03Z",
     "stars": 123,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1288,6 +1288,20 @@
     "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
   },
   {
+    "repo": "xzxadixzx/scheme-size-lite",
+    "internalName": "scheme-size-lite",
+    "name": "Scheme Size Lite",
+    "version": "1.3",
+    "hidden": true,
+    "author": "xzxADIxzx",
+    "lastUpdated": "2024-02-03T16:57:51Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Stripped down version of the original mod. Contains only CLaJ and enlarged schematics."
+  },
+  {
     "repo": "meepoffaith/hallucinogen",
     "internalName": "hallucinogen",
     "name": "Hallucinogen",
@@ -1328,20 +1342,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
-  },
-  {
-    "repo": "xzxadixzx/scheme-size-lite",
-    "internalName": "scheme-size-lite",
-    "name": "Scheme Size Lite",
-    "version": "1.3",
-    "hidden": true,
-    "author": "xzxADIxzx",
-    "lastUpdated": "2024-02-03T16:57:51Z",
-    "stars": 11,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Stripped down version of the original mod. Contains only CLaJ and enlarged schematics."
   },
   {
     "repo": "blackdeluxecat/shadowshader",
@@ -4928,6 +4928,20 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
+    "repo": "smolkeys/new-console-hardline",
+    "internalName": "newconsole-hardline",
+    "name": "New Console Hardline",
+    "version": "2.2",
+    "hidden": true,
+    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
+    "lastUpdated": "2025-04-28T06:51:54Z",
+    "stars": 1,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
     "repo": "agzam4/mindustry-mod-v8",
     "internalName": "agzam4mod",
     "name": "Agzam's Mod",
@@ -5850,20 +5864,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides custom mlog instructions for launch pads and landing pads."
-  },
-  {
-    "repo": "smolkeys/new-console-hardline",
-    "internalName": "newconsole-hardline",
-    "name": "New Console Hardline",
-    "version": "2.2",
-    "hidden": true,
-    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
-    "lastUpdated": "2025-04-28T06:51:54Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "jirocab/matchhostingutilities",
