@@ -1302,20 +1302,6 @@
     "description": "Stripped down version of the original mod. Contains only CLaJ and enlarged schematics."
   },
   {
-    "repo": "meepoffaith/hallucinogen",
-    "internalName": "hallucinogen",
-    "name": "Hallucinogen",
-    "version": "8",
-    "hidden": true,
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-08-05T22:52:05Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The best sensory overload you can get, at least legally."
-  },
-  {
     "repo": "bloody-ocean/bloodyvisual",
     "internalName": "vu",
     "name": "Visual Units",
@@ -1342,6 +1328,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
+  },
+  {
+    "repo": "meepoffaith/hallucinogen",
+    "internalName": "hallucinogen",
+    "name": "Hallucinogen",
+    "version": "8",
+    "hidden": true,
+    "author": "MEEPofFaith",
+    "lastUpdated": "2025-05-06T05:22:43Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The best sensory overload you can get, at least legally."
   },
   {
     "repo": "blackdeluxecat/shadowshader",
@@ -5920,5 +5920,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "  The Mallpark Interplanetary Branch gives you... whatever this is! Made to test the market, or as requested by customers.\n  See Github for content. Or just download it and find out.\n  Balancing is not great. Perhaps you can help by suggesting on... wherever, I guess. Probably Github or the suggestions doc (see README)."
+  },
+  {
+    "repo": "dedshotgames/glyphids",
+    "internalName": "glyphids",
+    "name": "Glyphids",
+    "version": "1.0",
+    "hidden": false,
+    "author": "DedShotGames",
+    "lastUpdated": "2025-05-06T05:43:15Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod gives you spiders from Deep Rock Galactic. My YouTube channel is Dedshotgame's."
   }
 ]
