@@ -104,8 +104,8 @@
     "version": "1.6.3",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2025-05-07T16:14:14Z",
-    "stars": 123,
+    "lastUpdated": "2025-05-07T17:50:37Z",
+    "stars": 124,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
@@ -1644,7 +1644,7 @@
     "version": "alpha (build 2)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2025-05-07T11:12:03Z",
+    "lastUpdated": "2025-05-07T18:22:39Z",
     "stars": 9,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -5740,20 +5740,6 @@
     "description": "Draws foreshadows shoot range"
   },
   {
-    "repo": "sunkymp3g/netroniumtfs",
-    "internalName": "netroniummod",
-    "name": "Netronium: The Final Showdown",
-    "version": "CU-2.beta1",
-    "hidden": false,
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2025-04-11T04:34:41Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
-  },
-  {
     "repo": "byzp/line",
     "internalName": "line",
     "name": "line",
@@ -5894,20 +5880,6 @@
     "description": "Aims hosting matches on the client a bit better! "
   },
   {
-    "repo": "halopolicj/ppm",
-    "internalName": "ppm",
-    "name": "ppm",
-    "version": "1.0",
-    "hidden": false,
-    "author": "You",
-    "lastUpdated": "2025-05-01T17:44:31Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "not yet."
-  },
-  {
     "repo": "highspeed85/mindustry-mallpark",
     "internalName": "mallpark",
     "name": "Malldustry",
@@ -5934,5 +5906,33 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod gives you spiders from Deep Rock Galactic. My YouTube channel is Dedshotgame's."
+  },
+  {
+    "repo": "sunkymp3g/netroniumtfs",
+    "internalName": "netroniummod",
+    "name": "Netronium: The Final Showdown",
+    "version": "CU-2.beta1",
+    "hidden": false,
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2025-05-07T16:59:51Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
+  },
+  {
+    "repo": "halopolicj/ppm",
+    "internalName": "ppm",
+    "name": "ppm",
+    "version": "1.0",
+    "hidden": false,
+    "author": "You",
+    "lastUpdated": "2025-05-07T17:50:46Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "not yet."
   }
 ]
