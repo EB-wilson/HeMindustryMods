@@ -35,7 +35,7 @@
     "hidden": true,
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 197,
+    "stars": 198,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -1386,6 +1386,20 @@
     "description": "Mod with tower defense maps and objects"
   },
   {
+    "repo": "foxitos/cmd-pack",
+    "internalName": "cmd-scheme-pack",
+    "name": "CMD Scheme Pack",
+    "version": "2.0.0",
+    "hidden": true,
+    "author": "foxit, QUITE ETHER",
+    "lastUpdated": "2023-09-16T22:50:36Z",
+    "stars": 10,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
+  },
+  {
     "repo": "jhrushbe/moardustry",
     "internalName": "moardustry",
     "name": "MOARdustry",
@@ -1512,20 +1526,6 @@
     "description": "Automatically translates chat messages"
   },
   {
-    "repo": "foxitos/cmd-pack",
-    "internalName": "cmd-scheme-pack",
-    "name": "CMD Scheme Pack",
-    "version": "2.0.0",
-    "hidden": true,
-    "author": "foxit, QUITE ETHER",
-    "lastUpdated": "2023-09-16T22:50:36Z",
-    "stars": 9,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
-  },
-  {
     "repo": "electricgun/toggle-editor-mode",
     "internalName": "toggle-editor-mode",
     "name": "Toggle Editor Mode",
@@ -1644,7 +1644,7 @@
     "version": "alpha (build 2)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2025-05-08T12:59:55Z",
+    "lastUpdated": "2025-05-08T15:49:20Z",
     "stars": 9,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1804,6 +1804,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
+  },
+  {
+    "repo": "silinveredno/newhorizonmod-schematics",
+    "internalName": "nh-scheme-pack",
+    "name": "New Horizon schematics pack",
+    "version": "0.5.1",
+    "hidden": true,
+    "author": "Silin Veredno",
+    "lastUpdated": "2025-03-15T10:00:31Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
   },
   {
     "repo": "goobrr/esoterum-ii",
@@ -1986,20 +2000,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With this MOD you can make potatoes."
-  },
-  {
-    "repo": "silinveredno/newhorizonmod-schematics",
-    "internalName": "nh-scheme-pack",
-    "name": "New Horizon schematics pack",
-    "version": "0.5.1",
-    "hidden": true,
-    "author": "Silin Veredno",
-    "lastUpdated": "2025-03-15T10:00:31Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
   },
   {
     "repo": "sublemon-team/fonticonslib",
@@ -2232,7 +2232,7 @@
     "version": "V0.8.4",
     "hidden": false,
     "author": "Frilofril",
-    "lastUpdated": "2025-05-06T17:20:20Z",
+    "lastUpdated": "2025-05-08T15:10:51Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2630,20 +2630,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Stardustry"
-  },
-  {
-    "repo": "pirojok3000/mindustry-classic-music",
-    "internalName": "mindustry classic music with new tracks from v6",
-    "name": "Mindustry Classic Music",
-    "version": "V1",
-    "hidden": true,
-    "author": "Pirojok3000",
-    "lastUpdated": "2023-10-17T15:05:44Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Play mindustry with this awesome chiptune music! Tracks created by Roccow. I took some of Roccow's tracks that weren't in the classic version to replace the new ones added in the V6. HOWEVER, the author of the tracks boss1, boss2 and game6 is unknown."
   },
   {
     "repo": "thomasthings/erekir-scaled",
