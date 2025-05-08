@@ -104,7 +104,7 @@
     "version": "1.6.3",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2025-05-08T06:21:43Z",
+    "lastUpdated": "2025-05-08T18:27:05Z",
     "stars": 125,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1644,7 +1644,7 @@
     "version": "alpha (build 2)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2025-05-08T15:49:20Z",
+    "lastUpdated": "2025-05-08T17:17:58Z",
     "stars": 9,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2630,6 +2630,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Stardustry"
+  },
+  {
+    "repo": "pirojok3000/mindustry-classic-music",
+    "internalName": "mindustry classic music with new tracks from v6",
+    "name": "Mindustry Classic Music",
+    "version": "V1",
+    "hidden": true,
+    "author": "Pirojok3000",
+    "lastUpdated": "2023-10-17T15:05:44Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Play mindustry with this awesome chiptune music! Tracks created by Roccow. I took some of Roccow's tracks that weren't in the classic version to replace the new ones added in the V6. HOWEVER, the author of the tracks boss1, boss2 and game6 is unknown."
   },
   {
     "repo": "thomasthings/erekir-scaled",
@@ -4886,20 +4900,6 @@
     "description": "Adds some OST from Infinitode 2 and Portal Stories: Mel"
   },
   {
-    "repo": "chuvaak/futurehorizons",
-    "internalName": "futurehorizons",
-    "name": "Future Horizons",
-    "version": "3.85",
-    "hidden": false,
-    "author": "Chuvaak",
-    "lastUpdated": "2025-04-21T13:25:36Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4954,6 +4954,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod adding a new planet."
+  },
+  {
+    "repo": "chuvaak/futurehorizons",
+    "internalName": "futurehorizons",
+    "name": "Future Horizons",
+    "version": "3.85",
+    "hidden": false,
+    "author": "Chuvaak",
+    "lastUpdated": "2025-05-08T16:54:34Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
