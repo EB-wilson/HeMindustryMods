@@ -56,6 +56,20 @@
     "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
   },
   {
+    "repo": "mindustryvn/mindustrytoolmod",
+    "internalName": "mindustry-tool",
+    "name": "Mindustry Tool",
+    "version": "v1.9.6",
+    "hidden": true,
+    "author": "[red]VN-[#ff6347]Sharrlotte[]",
+    "lastUpdated": "2025-05-04T04:24:01Z",
+    "stars": 145,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": " [#ff6347]Mindustry Tool – [white]Enhance Your Mindustry Experience[]\n\n[white]Mindustry Tool is a mod that integrates with [#00bfff]mindustry-tool.com[white], allowing players to share and download [#00bfff]maps [white]and [#00bfff]schematics [white]while playing Mindustry. Content is user-generated and curated by [#32cd32]moderators[white], ensuring high quality and [#ff69b4]diversity[].\n\n[accent][#ffeb3b]Share and Download [#00bfff]Maps and Schematics[]:\n  • [white]Upload and download [#00bfff]maps and [#00bfff]schematics [white]to enhance your gameplay.\n\n[accent][#32cd32]Quality Content Moderation[]:\n  • [white]All content is carefully moderated by the [#32cd32]Mindustry Tool [white]team to ensure quality and relevance.\n\n[accent][#00ced1]In-Game Integration[]:\n  • [white]Easily browse and use [#00bfff]maps and [#00bfff]schematics [white]directly in the game for a smooth experience.\n\n[accent][#ff1493]Diverse and High-Quality Content[]:\n  • [white]A wide variety of [#00bfff]maps and [#00bfff]schematics [white]suited for all player levels.\n\n[accent][#ff4500]Extensive Tags for Easy Search[]:\n  • [white]Mindustry Tool offers a detailed tagging system for easy content discovery.\n\n[accent][#9370db]Seamless Map Search and Download[]:\n  • [white]Search and download [#00bfff]maps [white]without leaving the game, enhancing gameplay efficiency.\n\n[#ff6347]Useful Links[]:\n  • [#00bfff] Website: [white]https://mindustry-tool.com[]\n  • [#ff6347] Discord: [white]https://discord.gg/9EMBFt6Z[]"
+  },
+  {
     "repo": "sk7725/timecontrol",
     "internalName": "time-control",
     "name": "Time Control",
@@ -68,20 +82,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
-    "repo": "mindustryvn/mindustrytoolmod",
-    "internalName": "mindustry-tool",
-    "name": "Mindustry Tool",
-    "version": "v1.9.6",
-    "hidden": true,
-    "author": "[red]VN-[#ff6347]Sharrlotte[]",
-    "lastUpdated": "2025-05-04T04:24:01Z",
-    "stars": 142,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": " [#ff6347]Mindustry Tool – [white]Enhance Your Mindustry Experience[]\n\n[white]Mindustry Tool is a mod that integrates with [#00bfff]mindustry-tool.com[white], allowing players to share and download [#00bfff]maps [white]and [#00bfff]schematics [white]while playing Mindustry. Content is user-generated and curated by [#32cd32]moderators[white], ensuring high quality and [#ff69b4]diversity[].\n\n[accent][#ffeb3b]Share and Download [#00bfff]Maps and Schematics[]:\n  • [white]Upload and download [#00bfff]maps and [#00bfff]schematics [white]to enhance your gameplay.\n\n[accent][#32cd32]Quality Content Moderation[]:\n  • [white]All content is carefully moderated by the [#32cd32]Mindustry Tool [white]team to ensure quality and relevance.\n\n[accent][#00ced1]In-Game Integration[]:\n  • [white]Easily browse and use [#00bfff]maps and [#00bfff]schematics [white]directly in the game for a smooth experience.\n\n[accent][#ff1493]Diverse and High-Quality Content[]:\n  • [white]A wide variety of [#00bfff]maps and [#00bfff]schematics [white]suited for all player levels.\n\n[accent][#ff4500]Extensive Tags for Easy Search[]:\n  • [white]Mindustry Tool offers a detailed tagging system for easy content discovery.\n\n[accent][#9370db]Seamless Map Search and Download[]:\n  • [white]Search and download [#00bfff]maps [white]without leaving the game, enhancing gameplay efficiency.\n\n[#ff6347]Useful Links[]:\n  • [#00bfff] Website: [white]https://mindustry-tool.com[]\n  • [#ff6347] Discord: [white]https://discord.gg/9EMBFt6Z[]"
   },
   {
     "repo": "slava0135/revision",
@@ -1070,7 +1070,7 @@
     "version": "1.7.9",
     "hidden": false,
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2025-05-09T06:24:28Z",
+    "lastUpdated": "2025-05-11T12:27:22Z",
     "stars": 16,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2960,7 +2960,7 @@
     "version": "build 0",
     "hidden": false,
     "author": "chinhonnang0000",
-    "lastUpdated": "2025-05-11T05:22:22Z",
+    "lastUpdated": "2025-05-11T12:07:10Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": true,
