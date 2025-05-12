@@ -2960,7 +2960,7 @@
     "version": "build 0",
     "hidden": false,
     "author": "chinhonnang0000",
-    "lastUpdated": "2025-05-12T10:21:15Z",
+    "lastUpdated": "2025-05-12T11:03:18Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -5922,20 +5922,6 @@
     "description": "Content Update 2 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   },
   {
-    "repo": "wmf-industries/extremity",
-    "internalName": "extremity",
-    "name": "Extremity",
-    "version": "0.9.2",
-    "hidden": true,
-    "author": "WMF Industries",
-    "lastUpdated": "2025-05-11T13:43:42Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry: Evil Edition"
-  },
-  {
     "repo": "halopolicj/ppm",
     "internalName": "ppm",
     "name": "ppm",
@@ -5948,5 +5934,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "not yet."
+  },
+  {
+    "repo": "wmf-industries/extremity",
+    "internalName": "extremity",
+    "name": "Extremity",
+    "version": "0.9.3",
+    "hidden": true,
+    "author": "WMF Industries",
+    "lastUpdated": "2025-05-12T12:30:54Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry: Evil Edition"
   }
 ]
