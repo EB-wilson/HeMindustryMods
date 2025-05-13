@@ -854,6 +854,20 @@
     "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "version": "beta-0.6",
+    "hidden": true,
+    "author": "EBwilson",
+    "lastUpdated": "2025-05-02T14:55:56Z",
+    "stars": 20,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui"
+  },
+  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "internalName": "yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
@@ -880,20 +894,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reworked for PC to be the same as mobile\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "version": "beta-0.6",
-    "hidden": true,
-    "author": "EBwilson",
-    "lastUpdated": "2025-05-02T14:55:56Z",
-    "stars": 19,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -4886,20 +4886,6 @@
     "description": "Adds some OST from Infinitode 2 and Portal Stories: Mel"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.1.0",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2025-04-25T14:03:21Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "smolkeys/new-console-hardline",
     "internalName": "newconsole-hardline",
     "name": "New Console Hardline",
@@ -4982,6 +4968,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New campaign on a molten planet."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.1.0",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2025-05-13T11:58:03Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
