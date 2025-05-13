@@ -1372,6 +1372,20 @@
     "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
   },
   {
+    "repo": "pointifix/autotranslate",
+    "internalName": "auto-translate",
+    "name": "AutoTranslate",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Pointifix",
+    "lastUpdated": "2023-06-12T15:36:33Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Automatically translates chat messages"
+  },
+  {
     "repo": "aforgetfulness/towerdefense",
     "internalName": "towerdefense",
     "name": "Tower Defense",
@@ -1524,20 +1538,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
-  },
-  {
-    "repo": "pointifix/autotranslate",
-    "internalName": "auto-translate",
-    "name": "AutoTranslate",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Pointifix",
-    "lastUpdated": "2023-06-12T15:36:33Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Automatically translates chat messages"
   },
   {
     "repo": "electricgun/toggle-editor-mode",
@@ -2246,7 +2246,7 @@
     "version": "2.3.2",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-05-13T10:07:56Z",
+    "lastUpdated": "2025-05-13T12:51:16Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
