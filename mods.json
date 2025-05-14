@@ -2170,6 +2170,20 @@
     "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
   },
   {
+    "repo": "photon-gravity/enigmamindustrymod",
+    "internalName": "enigma",
+    "name": "Enigma",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Photon_Gravity",
+    "lastUpdated": "2025-03-30T18:26:24Z",
+    "stars": 6,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Explore a new planet, Keslomin, research new technology and master exotic forms of energy."
+  },
+  {
     "repo": "banananator/vanillaoverhaul",
     "internalName": "bettervanillamod",
     "name": "Vanilla Overhaul",
@@ -2212,20 +2226,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "version": "0.5.1",
-    "hidden": false,
-    "author": "Water white",
-    "lastUpdated": "2025-05-14T07:36:17Z",
-    "stars": 6,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
-  },
-  {
     "repo": "xpdustry/claj-v2",
     "internalName": "claj",
     "name": "CLaJ",
@@ -2238,6 +2238,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "version": "0.5.1",
+    "hidden": false,
+    "author": "Water white",
+    "lastUpdated": "2025-05-14T16:22:41Z",
+    "stars": 6,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
   },
   {
     "repo": "obamination/minedustry",
@@ -4074,20 +4088,6 @@
     "description": "Add an admin button."
   },
   {
-    "repo": "grandendeavor100/stellar-interstice",
-    "internalName": "stellarinterstice",
-    "name": "Stellar Interstice",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Stellar",
-    "lastUpdated": "2025-05-13T02:00:24Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "On a random day, all the civilizations joined forces to leave the dying state of the world in which they are inhabiting. They left in fleets of much grandeur and it was at that time when a vortex opened somewhere between the stars and they entered it where they had the encounter with the Beings. They acquired exotic technologies from them but little did they know that it was all part of a much greater story and that there was nothing random about that day. The Exotic technologies include: Bombs and Nukes Guided missile systems Power manipulation devices Unconventional weapon systems and much more."
-  },
-  {
     "repo": "cubobuilder/utilmod",
     "internalName": "some-utilmod",
     "name": "SomeUtilMOD",
@@ -4114,6 +4114,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "added some cool stuff"
+  },
+  {
+    "repo": "grandendeavor100/stellar-interstice",
+    "internalName": "stellarinterstice",
+    "name": "Stellar Interstice",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Stellar",
+    "lastUpdated": "2025-05-14T16:10:56Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "On a random day, all the civilizations joined forces to leave the dying state of the world in which they are inhabiting. They left in fleets of much grandeur and it was at that time when a vortex opened somewhere between the stars and they entered it where they had the encounter with the Beings. They acquired exotic technologies from them but little did they know that it was all part of a much greater story and that there was nothing random about that day. The Exotic technologies include: Bombs and Nukes Guided missile systems Power manipulation devices Unconventional weapon systems and much more."
   },
   {
     "repo": "teaeempire/gghv7",
