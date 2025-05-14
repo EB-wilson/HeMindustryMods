@@ -2170,20 +2170,6 @@
     "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
   },
   {
-    "repo": "photon-gravity/enigmamindustrymod",
-    "internalName": "enigma",
-    "name": "Enigma",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Photon_Gravity",
-    "lastUpdated": "2025-03-30T18:26:24Z",
-    "stars": 6,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Explore a new planet, Keslomin, research new technology and master exotic forms of energy."
-  },
-  {
     "repo": "banananator/vanillaoverhaul",
     "internalName": "bettervanillamod",
     "name": "Vanilla Overhaul",
@@ -2226,20 +2212,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "xpdustry/claj-v2",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.3.2",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-05-13T14:23:19Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2252,6 +2224,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
+  },
+  {
+    "repo": "xpdustry/claj-v2",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.2",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2025-05-14T13:21:25Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
   },
   {
     "repo": "obamination/minedustry",
@@ -5962,5 +5948,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
+  },
+  {
+    "repo": "eight-squared/pretty-fire",
+    "internalName": "pretty-fire",
+    "name": "Pretty fire",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Eight Squared",
+    "lastUpdated": "2025-05-14T14:12:06Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Retextures the fire animation. Go to releases for different versons."
   }
 ]
