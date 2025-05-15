@@ -2246,7 +2246,7 @@
     "version": "0.5.1",
     "hidden": false,
     "author": "Water white",
-    "lastUpdated": "2025-05-15T04:58:57Z",
+    "lastUpdated": "2025-05-15T12:35:45Z",
     "stars": 6,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4970,6 +4970,20 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
+    "repo": "eight-squared/pretty-fire",
+    "internalName": "pretty-fire",
+    "name": "Pretty fire",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Eight Squared",
+    "lastUpdated": "2025-05-14T14:12:06Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Retextures the fire animation. Go to releases for different versons."
+  },
+  {
     "repo": "eight-squared/iron-clouds",
     "internalName": "iron-clouds",
     "name": "Iron clouds",
@@ -5962,19 +5976,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
-  },
-  {
-    "repo": "eight-squared/pretty-fire",
-    "internalName": "pretty-fire",
-    "name": "Pretty fire",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Eight Squared",
-    "lastUpdated": "2025-05-14T14:12:06Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Retextures the fire animation. Go to releases for different versons."
   }
 ]
