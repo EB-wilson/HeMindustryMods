@@ -966,20 +966,6 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "yuria-shikibe/gameinfoimager",
-    "internalName": "game-info-imager",
-    "name": "Game Info Imager",
-    "version": "1.3",
-    "hidden": "true",
-    "author": "Yuria",
-    "lastUpdated": "2023-01-20T01:50:39Z",
-    "stars": 16,
-    "minGameVersion": "141.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
-  },
-  {
     "repo": "mnemotechnician/new-controls-public",
     "internalName": "newcontrols",
     "name": "New controls",
@@ -1076,6 +1062,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
+  },
+  {
+    "repo": "yuria-shikibe/gameinfoimager",
+    "internalName": "game-info-imager",
+    "name": "Game Info Imager",
+    "version": "1.3",
+    "hidden": "true",
+    "author": "Yuria",
+    "lastUpdated": "2023-01-20T01:50:39Z",
+    "stars": 15,
+    "minGameVersion": "141.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
   },
   {
     "repo": "flintyx/autoresearch",
@@ -1532,7 +1532,7 @@
     "version": "alpha (build 2)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2025-05-22T14:17:12Z",
+    "lastUpdated": "2025-05-22T14:33:01Z",
     "stars": 10,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1888,6 +1888,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that makes the game V5 ish by making you unable to capture."
+  },
+  {
+    "repo": "slava0135/seadustry",
+    "internalName": "seadustry",
+    "name": "Seadustry",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Slava0135",
+    "lastUpdated": "2022-11-01T16:59:27Z",
+    "stars": 7,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Skyblock but in sea"
   },
   {
     "repo": "froomeeth/serilias-discovery",
@@ -2674,20 +2688,6 @@
     "description": "Added some useful map filters.\nAdded a powerful custom guide tool and advanced wave editor to map editor.\n添加实用地图筛选器、强大的图像绘制工具、改进的波次编辑器。\n\nGithub Repo: BlackDeluxeCat/MapFilterExt\n\nDependencies: BlackDeluxeCat/MiTour-Lib"
   },
   {
-    "repo": "kubikaugustyn/mindustrytoolkit",
-    "internalName": "mindustry-toolkit-kubikaugustyn",
-    "name": "Mindustry Toolkit",
-    "version": "1.1",
-    "hidden": true,
-    "author": "Jakub Augustýn",
-    "lastUpdated": "2024-02-25T08:45:22Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
-  },
-  {
     "repo": "ochpochmaks/larnos-planet",
     "internalName": "larnos planet",
     "name": "Larnos Planet",
@@ -3120,6 +3120,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gotoh-san turned into a force projector!!"
+  },
+  {
+    "repo": "kubikaugustyn/mindustrytoolkit",
+    "internalName": "mindustry-toolkit-kubikaugustyn",
+    "name": "Mindustry Toolkit",
+    "version": "1.1",
+    "hidden": true,
+    "author": "Jakub Augustýn",
+    "lastUpdated": "2024-02-25T08:45:22Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
   },
   {
     "repo": "mindustry-antigrief/multiplayer-pause",
