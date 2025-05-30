@@ -175,7 +175,7 @@
     "hidden": false,
     "author": "stabu, uujuju",
     "lastUpdated": "2025-05-30T08:41:38Z",
-    "stars": 111,
+    "stars": 112,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -840,6 +840,20 @@
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radii go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "version": "beta-0.6",
+    "hidden": true,
+    "author": "EBwilson",
+    "lastUpdated": "2025-05-14T06:53:21Z",
+    "stars": 21,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui"
+  },
+  {
     "repo": "electricgun/cheat-codes-mod",
     "internalName": "cheat-codes",
     "name": "Cheat Codes Mod",
@@ -866,20 +880,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "version": "beta-0.6",
-    "hidden": true,
-    "author": "EBwilson",
-    "lastUpdated": "2025-05-14T06:53:21Z",
-    "stars": 20,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui"
   },
   {
     "repo": "yaddrx2/yr2-logic-debugger",
@@ -1126,7 +1126,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2025-05-29T13:33:57Z",
+    "lastUpdated": "2025-05-30T15:54:48Z",
     "stars": 15,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2240,20 +2240,6 @@
     "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
   },
   {
-    "repo": "frilofril19/cobatstry",
-    "internalName": "cobatstry",
-    "name": "Cobatstry",
-    "version": "V0.8.4",
-    "hidden": false,
-    "author": "Frilofril",
-    "lastUpdated": "2025-05-20T16:04:03Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch\r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2280,6 +2266,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
+  },
+  {
+    "repo": "frilofril19/cobatstry",
+    "internalName": "cobatstry",
+    "name": "Cobatstry",
+    "version": "V0.8.4",
+    "hidden": false,
+    "author": "Frilofril",
+    "lastUpdated": "2025-05-30T15:39:13Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch\r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
   },
   {
     "repo": "obamination/minedustry",
@@ -3520,7 +3520,7 @@
     "version": "1.3.1",
     "hidden": false,
     "author": "Volproil",
-    "lastUpdated": "2025-05-30T14:05:37Z",
+    "lastUpdated": "2025-05-30T16:24:52Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": false,
