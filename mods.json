@@ -59,10 +59,10 @@
     "repo": "mindustryvn/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v1.9.9",
+    "version": "v1.9.10",
     "hidden": true,
     "author": "[red]VN-[#ff6347]Sharrlotte[]",
-    "lastUpdated": "2025-06-01T20:18:49Z",
+    "lastUpdated": "2025-06-01T20:37:47Z",
     "stars": 148,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1652,20 +1652,6 @@
     "description": "Important:\n\nThis is an addition to the Enhancement Units mod, which modifies several towers, sometimes improving them, then changing the shooting mechanics to create some kind of balance between units and towers.\n\nPlease pay attention:\n\nThe mod significantly reworks the mechanics of turrets, changes the balance and, in general, can simplify the game without the EU. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.3.3",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-05-16T07:26:42Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
-  },
-  {
     "repo": "routerxdd/icicle-world",
     "internalName": "icicle-world",
     "name": "Buried in Ice",
@@ -1678,6 +1664,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds a new planet, where we will play in underground"
+  },
+  {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.3",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2025-06-01T21:10:51Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
     "repo": "liplum/bottledliquid",
@@ -2758,6 +2758,20 @@
     "description": "A mod that add modern items and block inculde industry or nuclear."
   },
   {
+    "repo": "nikitapos/neo-dustry",
+    "internalName": "neo-dustry",
+    "name": "Neo-Dustry",
+    "version": "v0.3.1",
+    "hidden": false,
+    "author": "NikitaPos",
+    "lastUpdated": "2024-07-30T11:29:20Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMindustry mod that adds some things.\n"
+  },
+  {
     "repo": "unionofsovietsocialistrepublics/nuclearhell",
     "internalName": "nuclear",
     "name": "Nuclear attack sectors",
@@ -3218,20 +3232,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod add smol and cute unit, I guess"
-  },
-  {
-    "repo": "nikitapos/neo-dustry",
-    "internalName": "neo-dustry",
-    "name": "Neo-Dustry",
-    "version": "v0.3.1",
-    "hidden": false,
-    "author": "NikitaPos",
-    "lastUpdated": "2024-07-30T11:29:20Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMindustry mod that adds some things.\n"
   },
   {
     "repo": "pobeda1111/mod_war",
@@ -5992,20 +5992,6 @@
     "description": "Music & SFX Pack"
   },
   {
-    "repo": "arsen1ygd/hcheat",
-    "internalName": "hcheat",
-    "name": "HCheat",
-    "version": "0.2",
-    "hidden": false,
-    "author": "Arsen1yGD",
-    "lastUpdated": "2025-05-30T16:57:35Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "H.\nЭтот мод - чит. Он может испортить интерес в игре.\nЧто он добавляет:\n- Быстрые, мощные и неразрушаемые источники.\n- Очень ёмкая батарейка.\n- ОП силовой узел\n- Быстрый (стаковый-)конвеер.\n- ОП Турель\n- ОП Стены\n\nThis mod is cheat. It can reduce interest in game.\nWhat it adds:\n- Fast, powerful and unbreakable sources.\n- Super duper mega battery.\n- OP power node.\n- Fast (stack-)conveyor\n- OP Turret\n- OP Walls\n"
-  },
-  {
     "repo": "arsen1ygd/removeunitcap",
     "internalName": "ruc",
     "name": "Remove unit cap",
@@ -6032,5 +6018,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "arsen1ygd/hcheat",
+    "internalName": "hcheat",
+    "name": "HCheat",
+    "version": "0.3",
+    "hidden": false,
+    "author": "Arsen1yGD",
+    "lastUpdated": "2025-06-01T21:27:58Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "H.\nЭтот мод - чит. Он может испортить интерес в игре.\nЧто он добавляет:\n- Быстрые, мощные и неразрушаемые источники.\n- Очень ёмкая батарейка.\n- ОП силовой узел\n- Быстрый (стаковый-)конвеер.\n- ОП Турель\n- ОП Стены\n- Быстри регенератор\n- Шустри ускоритель\n\nThis mod is cheat. It can reduce interest in game.\nWhat it adds:\n- Fast, powerful and unbreakable sources.\n- Super duper mega battery.\n- OP power node.\n- Fast (stack-)conveyor\n- OP Turret\n- OP Walls\n- Fast regenerator\n- Fast overdrive projector\n"
   }
 ]
