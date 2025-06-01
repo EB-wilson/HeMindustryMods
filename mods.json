@@ -59,12 +59,12 @@
     "repo": "mindustryvn/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v1.9.8",
+    "version": "v1.9.9",
     "hidden": true,
     "author": "[red]VN-[#ff6347]Sharrlotte[]",
-    "lastUpdated": "2025-05-17T19:16:36Z",
+    "lastUpdated": "2025-06-01T20:18:49Z",
     "stars": 148,
-    "minGameVersion": "140",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": " [#ff6347]Mindustry Tool – [white]Enhance Your Mindustry Experience[]\n\n[white]Mindustry Tool is a mod that integrates with [#00bfff]mindustry-tool.com[white], allowing players to share and download [#00bfff]maps [white]and [#00bfff]schematics [white]while playing Mindustry. Content is user-generated and curated by [#32cd32]moderators[white], ensuring high quality and [#ff69b4]diversity[].\n\n[accent][#ffeb3b]Share and Download [#00bfff]Maps and Schematics[]:\n  • [white]Upload and download [#00bfff]maps and [#00bfff]schematics [white]to enhance your gameplay.\n\n[accent][#32cd32]Quality Content Moderation[]:\n  • [white]All content is carefully moderated by the [#32cd32]Mindustry Tool [white]team to ensure quality and relevance.\n\n[accent][#00ced1]In-Game Integration[]:\n  • [white]Easily browse and use [#00bfff]maps and [#00bfff]schematics [white]directly in the game for a smooth experience.\n\n[accent][#ff1493]Diverse and High-Quality Content[]:\n  • [white]A wide variety of [#00bfff]maps and [#00bfff]schematics [white]suited for all player levels.\n\n[accent][#ff4500]Extensive Tags for Easy Search[]:\n  • [white]Mindustry Tool offers a detailed tagging system for easy content discovery.\n\n[accent][#9370db]Seamless Map Search and Download[]:\n  • [white]Search and download [#00bfff]maps [white]without leaving the game, enhancing gameplay efficiency.\n\n[#ff6347]Useful Links[]:\n  • [#00bfff] Website: [white]https://mindustry-tool.com[]\n  • [#ff6347] Discord: [white]https://discord.gg/9EMBFt6Z[]"
@@ -2960,7 +2960,7 @@
     "version": "build 0",
     "hidden": false,
     "author": "chinhonnang0000",
-    "lastUpdated": "2025-06-01T15:10:14Z",
+    "lastUpdated": "2025-06-01T19:57:58Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -5012,6 +5012,20 @@
     "description": "A Mindustry Java mod adding a new planet."
   },
   {
+    "repo": "votak2024/rusted-company-0-0",
+    "internalName": "rc",
+    "name": "rusted company",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Votak2024",
+    "lastUpdated": "2025-06-01T08:49:25Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "этот мод добавит в игру новую планету и куча контента"
+  },
+  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -5978,20 +5992,6 @@
     "description": "Music & SFX Pack"
   },
   {
-    "repo": "durmiendo/extendlogs",
-    "internalName": "extend-logs",
-    "name": "ExtendLogs",
-    "version": "v1",
-    "hidden": false,
-    "author": "Durmiendo",
-    "lastUpdated": "2025-05-30T10:43:25Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "arsen1ygd/hcheat",
     "internalName": "hcheat",
     "name": "HCheat",
@@ -6018,5 +6018,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod that removes unit cap for player (host) team. If  ran on a server, it'll remove the cap only for sharded team."
+  },
+  {
+    "repo": "durmiendo/extendlogs",
+    "internalName": "extended-logs",
+    "name": "ExtendLogs",
+    "version": "v1",
+    "hidden": true,
+    "author": "Durmiendo",
+    "lastUpdated": "2025-06-01T19:13:57Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   }
 ]
