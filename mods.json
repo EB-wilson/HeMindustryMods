@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria",
     "lastUpdated": "2025-06-05T04:31:52Z",
-    "stars": 456,
+    "stars": 453,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
@@ -35,7 +35,7 @@
     "hidden": true,
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 203,
+    "stars": 201,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[red]VN-[#ff6347]Sharrlotte[]",
     "lastUpdated": "2025-06-01T20:37:47Z",
-    "stars": 147,
+    "stars": 145,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -175,7 +175,7 @@
     "hidden": false,
     "author": "stabu, uujuju",
     "lastUpdated": "2025-06-05T21:51:11Z",
-    "stars": 112,
+    "stars": 111,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -300,7 +300,7 @@
     "version": "v0.23",
     "hidden": false,
     "author": "Jammuu",
-    "lastUpdated": "2025-06-05T05:29:21Z",
+    "lastUpdated": "2025-06-06T01:12:05Z",
     "stars": 61,
     "minGameVersion": "148",
     "hasScripts": false,
@@ -371,7 +371,7 @@
     "hidden": true,
     "author": "pixecoz",
     "lastUpdated": "2024-11-18T06:35:43Z",
-    "stars": 53,
+    "stars": 52,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -525,7 +525,7 @@
     "hidden": true,
     "author": "Rogen4, KirillRum",
     "lastUpdated": "2024-06-21T20:01:18Z",
-    "stars": 36,
+    "stars": 35,
     "minGameVersion": "141",
     "hasScripts": true,
     "hasJava": false,
@@ -1428,20 +1428,6 @@
     "description": "Mod with tower defense maps and objects"
   },
   {
-    "repo": "foxitos/cmd-pack",
-    "internalName": "cmd-scheme-pack",
-    "name": "CMD Scheme Pack",
-    "version": "2.0.0",
-    "hidden": true,
-    "author": "foxit, QUITE ETHER",
-    "lastUpdated": "2023-09-16T22:50:36Z",
-    "stars": 10,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
-  },
-  {
     "repo": "jhrushbe/moardustry",
     "internalName": "moardustry",
     "name": "MOARdustry",
@@ -1454,20 +1440,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod for Mindustry that adds MOAR to your game.\n\nLast Update: v7 Patch on 1-27-2023\n\nPing me on discord with suggestions/issues: jhrushbe#8085"
-  },
-  {
-    "repo": "obsidan55/schempack400",
-    "internalName": "shemepackbyobsidian",
-    "name": "Schemepack 400+",
-    "version": "1.4",
-    "hidden": true,
-    "author": " Obsidian ",
-    "lastUpdated": "2024-06-02T10:09:59Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;\npink - сами увидите);"
   },
   {
     "repo": "agzam4/mindustry-mod",
@@ -1554,20 +1526,6 @@
     "description": "the ultimate ratio hell, a designer's challenge"
   },
   {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.3.3",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-06-05T19:58:35Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
-  },
-  {
     "repo": "slotterleet/hard-mode-mod",
     "internalName": "hard-mode",
     "name": "Hard Mode",
@@ -1596,6 +1554,20 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
+    "repo": "foxitos/cmd-pack",
+    "internalName": "cmd-scheme-pack",
+    "name": "CMD Scheme Pack",
+    "version": "2.0.0",
+    "hidden": true,
+    "author": "foxit, QUITE ETHER",
+    "lastUpdated": "2023-09-16T22:50:36Z",
+    "stars": 9,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
+  },
+  {
     "repo": "electricgun/toggle-editor-mode",
     "internalName": "toggle-editor-mode",
     "name": "Toggle Editor Mode",
@@ -1608,6 +1580,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
+  },
+  {
+    "repo": "obsidan55/schempack400",
+    "internalName": "shemepackbyobsidian",
+    "name": "Schemepack 400+",
+    "version": "1.4",
+    "hidden": true,
+    "author": " Obsidian ",
+    "lastUpdated": "2024-06-02T10:09:59Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;\npink - сами увидите);"
   },
   {
     "repo": "i-hope1/mod.make",
@@ -1678,6 +1664,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds a new planet, where we will play in underground"
+  },
+  {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.3",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2025-06-05T19:58:35Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
     "repo": "liplum/bottledliquid",
@@ -1804,20 +1804,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
-  },
-  {
-    "repo": "silinveredno/newhorizonmod-schematics",
-    "internalName": "nh-scheme-pack",
-    "name": "New Horizon schematics pack",
-    "version": "0.5.1",
-    "hidden": true,
-    "author": "Silin Veredno",
-    "lastUpdated": "2025-03-15T10:00:31Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
   },
   {
     "repo": "goobrr/esoterum-ii",
@@ -2028,6 +2014,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With this MOD you can make potatoes."
+  },
+  {
+    "repo": "silinveredno/newhorizonmod-schematics",
+    "internalName": "nh-scheme-pack",
+    "name": "New Horizon schematics pack",
+    "version": "0.5.1",
+    "hidden": true,
+    "author": "Silin Veredno",
+    "lastUpdated": "2025-03-15T10:00:31Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
   },
   {
     "repo": "sublemon-team/fonticonslib",
