@@ -140,6 +140,20 @@
     "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
   },
   {
+    "repo": "liplum/cyberio",
+    "internalName": "cyber-io",
+    "name": "Cyber IO",
+    "version": "5.1",
+    "hidden": false,
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2025-04-01T15:38:41Z",
+    "stars": 114,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+  },
+  {
     "repo": "eschatologue/unlimited-armament-works",
     "internalName": "uaw",
     "name": "Unlimited Armament Works",
@@ -152,20 +166,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "UAW is a port and sequel to Heavy Armaments Industries, implementing new unique content to vanilla Mindustry, from more turrets, units, and crafters/factories.\n\nA lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
-  },
-  {
-    "repo": "liplum/cyberio",
-    "internalName": "cyber-io",
-    "name": "Cyber IO",
-    "version": "5.1",
-    "hidden": false,
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2025-04-01T15:38:41Z",
-    "stars": 113,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "stabu-dev/omaloon",
@@ -343,7 +343,7 @@
     "hidden": true,
     "author": "[#42a5f5]Liplum[] & Jojo",
     "lastUpdated": "2025-04-01T15:40:11Z",
-    "stars": 54,
+    "stars": 55,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -580,7 +580,7 @@
     "version": "1.3",
     "hidden": false,
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2025-06-05T13:41:23Z",
+    "lastUpdated": "2025-06-06T16:49:59Z",
     "stars": 32,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -773,10 +773,10 @@
     "repo": "smolkeys/yellow-java",
     "internalName": "yellow-java",
     "name": "Yellow (Java)",
-    "version": "0.01",
+    "version": "0.015",
     "hidden": false,
     "author": "SMOLKEYS",
-    "lastUpdated": "2025-06-01T10:22:48Z",
+    "lastUpdated": "2025-06-06T16:43:25Z",
     "stars": 24,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -840,6 +840,20 @@
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radii go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
+    "repo": "electricgun/cheat-codes-mod",
+    "internalName": "cheat-codes",
+    "name": "Cheat Codes Mod",
+    "version": "1.7",
+    "hidden": true,
+    "author": "electricgun",
+    "lastUpdated": "2024-08-26T17:28:23Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reworked for PC to be the same as mobile\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
+  },
+  {
     "repo": "eb-wilson/helium",
     "internalName": "he",
     "name": "Helium",
@@ -852,20 +866,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provide optimized ui"
-  },
-  {
-    "repo": "electricgun/cheat-codes-mod",
-    "internalName": "cheat-codes",
-    "name": "Cheat Codes Mod",
-    "version": "1.7",
-    "hidden": true,
-    "author": "electricgun",
-    "lastUpdated": "2024-08-26T17:28:23Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Reworked for PC to be the same as mobile\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
     "repo": "xtarsagency/zeridmuth",
@@ -1554,20 +1554,6 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
-    "repo": "semastaraka/additionalvanillaunit",
-    "internalName": "adu",
-    "name": "AdditionalVanillaUnit",
-    "version": "1.1",
-    "hidden": false,
-    "author": "semka",
-    "lastUpdated": "2023-06-25T13:12:33Z",
-    "stars": 9,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "STAR my mod, pls. Adds a new vanilla unit in vanilla unit factory!\n  **Languages:\n    1.Russian\n    1.English**\n"
-  },
-  {
     "repo": "foxitos/cmd-pack",
     "internalName": "cmd-scheme-pack",
     "name": "CMD Scheme Pack",
@@ -1748,6 +1734,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod packaging tool, a tool is added to the mod page to select the currently installed mod for packaging as a mod integration package for distribution. When using it, install the installer mod generated by the package directly, and it will guide the user to complete the installation.\n====================\n一个模组打包工具，在模组页面添加了一个工具，用于选择当前已安装的mod并打包为mod整合包以便分发，使用时直接安装打包生成的安装器mod，它会引导用户完成安装"
+  },
+  {
+    "repo": "semastaraka/additionalvanillaunit",
+    "internalName": "adu",
+    "name": "AdditionalVanillaUnit",
+    "version": "1.1",
+    "hidden": false,
+    "author": "semka",
+    "lastUpdated": "2023-06-25T13:12:33Z",
+    "stars": 8,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "STAR my mod, pls. Adds a new vanilla unit in vanilla unit factory!\n  **Languages:\n    1.Russian\n    1.English**\n"
   },
   {
     "repo": "falkowitz/medieval-mindustry",
@@ -3534,7 +3534,7 @@
     "version": "1.3.1",
     "hidden": false,
     "author": "Volproil",
-    "lastUpdated": "2025-06-06T14:55:32Z",
+    "lastUpdated": "2025-06-06T17:01:59Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": false,
