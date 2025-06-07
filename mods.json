@@ -4606,6 +4606,20 @@
     "description": "Replaces all wave spawns with one of four T5s (primarily reigns). Yes that means you'll face a reign at wave 1 in ground zero."
   },
   {
+    "repo": "illa4257/mindustrysyncproject",
+    "internalName": "mindustry-sync-project",
+    "name": "Mindustry Sync Project",
+    "version": "0.0.1",
+    "hidden": true,
+    "author": "illa4257",
+    "lastUpdated": "2024-04-23T04:54:34Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java Mod for synchronization (for now only schematics)."
+  },
+  {
     "repo": "leyn-pl/iconpicker",
     "internalName": "icon-picker",
     "name": "Icon Picker",
@@ -5040,20 +5054,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "craftgenix1/purpleeye",
-    "internalName": "purpleeye",
-    "name": "Purple eye",
-    "version": "Pre-content",
-    "hidden": false,
-    "author": "Craftgenix",
-    "lastUpdated": "2025-06-06T23:54:42Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "WIP mindustry mod - Empty"
-  },
-  {
     "repo": "chinhonnang0000/intermod",
     "internalName": "intermod",
     "name": "intermod",
@@ -5066,6 +5066,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Contains broken-mod remakes btw.Prismatic can now run on v146.1"
+  },
+  {
+    "repo": "craftgenix1/purpleeye",
+    "internalName": "purpleeye",
+    "name": "Purple eye",
+    "version": "Pre-content",
+    "hidden": false,
+    "author": "Craftgenix",
+    "lastUpdated": "2025-06-07T02:34:15Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "WIP mindustry mod - Empty"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -5332,20 +5346,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Stupid stuff"
-  },
-  {
-    "repo": "illa4257/mindustrysyncproject",
-    "internalName": "mindustry-sync-project",
-    "name": "Mindustry Sync Project",
-    "version": "0.0.1",
-    "hidden": true,
-    "author": "illa4257",
-    "lastUpdated": "2024-04-23T04:54:34Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java Mod for synchronization (for now only schematics)."
   },
   {
     "repo": "wancor1/mindustry-mod-chaos",
