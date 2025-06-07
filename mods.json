@@ -560,20 +560,6 @@
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "1.0.Alpha7",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2025-06-02T23:13:29Z",
-    "stars": 32,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
-  },
-  {
     "repo": "andromeda-galaxy29/psammos-mod",
     "internalName": "psammos",
     "name": "Psammos Mod",
@@ -586,6 +572,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[white]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[white]\r\n- [#5865f2]@inxie_ratzey[white] for suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[white] for various suggestions and maps\r\n\r\n[#9b59b6]Special thanks:[white]\r\n- [#5865f2]@chozochorizo[white] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[white] and [#5865f2]@twcash.[white] for the main menu title font\r\n\r\n[#abe2ca]Suggestions:[white]\r\n- [#5865f2]@nekoarkbruhagain_07111[white] for the suggestion of Confine"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "1.0.Alpha7",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2025-06-07T01:03:18Z",
+    "stars": 32,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
   },
   {
     "repo": "coaldeficit/moredefences",
@@ -2954,20 +2954,6 @@
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
-    "repo": "chinhonnang0000/asteroidgen",
-    "internalName": "asteroidgen",
-    "name": "asteroidgen",
-    "version": "build 0",
-    "hidden": false,
-    "author": "chinhonnang0000",
-    "lastUpdated": "2025-06-02T05:56:30Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod will not get another star anytime soon, Never gets completed, Never gets balanced, and will almost always be the largest mod in its number of stars."
-  },
-  {
     "repo": "meepoffaith/extra-sand-redux",
     "internalName": "",
     "name": "Extra Sand in the Sandbox - Redux",
@@ -2980,6 +2966,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
+  },
+  {
+    "repo": "chinhonnang0000/asteroidgen",
+    "internalName": "asteroidgen",
+    "name": "asteroidgen",
+    "version": "build 0",
+    "hidden": false,
+    "author": "chinhonnang0000",
+    "lastUpdated": "2025-06-06T23:17:40Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod will not get another star anytime soon, Never gets completed, Never gets balanced, and will almost always be the largest mod in its number of stars."
   },
   {
     "repo": "boolmano/bombermod",
@@ -3484,6 +3484,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "i-drink-gasoline/admin-button-2",
+    "internalName": "admin-button-2",
+    "name": "Admin Button 2",
+    "version": "0.5",
+    "hidden": true,
+    "author": "I drink gasoline",
+    "lastUpdated": "2025-05-01T14:10:48Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add an admin button."
   },
   {
     "repo": "minri2/wayzermapbrowser",
@@ -4088,34 +4102,6 @@
     "description": "modifies the campain maps to troll you"
   },
   {
-    "repo": "i-drink-gasoline/admin-button-2",
-    "internalName": "admin-button-2",
-    "name": "Admin Button 2",
-    "version": "0.5",
-    "hidden": true,
-    "author": "I drink gasoline",
-    "lastUpdated": "2025-05-01T14:10:48Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add an admin button."
-  },
-  {
-    "repo": "johnnywu2k/void",
-    "internalName": "void",
-    "name": "Void",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Johnny",
-    "lastUpdated": "2025-05-23T03:31:31Z",
-    "stars": 2,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "added some cool stuff"
-  },
-  {
     "repo": "esqueletobroficial/meu-mod",
     "internalName": "advanced-industry",
     "name": "Advanced Industry",
@@ -4170,6 +4156,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "этот мод добавит в игру новую планету и куча контента"
+  },
+  {
+    "repo": "johnnywu2k/void",
+    "internalName": "void",
+    "name": "Void",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Johnny",
+    "lastUpdated": "2025-06-07T01:10:19Z",
+    "stars": 2,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "added some cool stuff"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -5040,32 +5040,32 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "chinhonnang0000/intermod",
-    "internalName": "intermod",
-    "name": "intermod",
-    "version": "build 0",
-    "hidden": false,
-    "author": "chinhonnang0000",
-    "lastUpdated": "2025-06-06T14:25:28Z",
-    "stars": 1,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Contains broken-mod remakes btw.Prismatic can now run on v146.1"
-  },
-  {
     "repo": "craftgenix1/purpleeye",
     "internalName": "purpleeye",
     "name": "Purple eye",
     "version": "Pre-content",
     "hidden": false,
     "author": "Craftgenix",
-    "lastUpdated": "2025-06-06T22:15:40Z",
+    "lastUpdated": "2025-06-06T23:54:42Z",
     "stars": 1,
     "minGameVersion": "149",
     "hasScripts": false,
     "hasJava": false,
     "description": "WIP mindustry mod - Empty"
+  },
+  {
+    "repo": "chinhonnang0000/intermod",
+    "internalName": "intermod",
+    "name": "intermod",
+    "version": "build 0",
+    "hidden": false,
+    "author": "chinhonnang0000",
+    "lastUpdated": "2025-06-07T00:22:53Z",
+    "stars": 1,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Contains broken-mod remakes btw.Prismatic can now run on v146.1"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
