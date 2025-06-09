@@ -580,7 +580,7 @@
     "version": "1.3",
     "hidden": false,
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2025-06-09T14:09:21Z",
+    "lastUpdated": "2025-06-09T16:05:50Z",
     "stars": 32,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -868,6 +868,20 @@
     "description": "A mod provide optimized ui"
   },
   {
+    "repo": "saigon0nozomi/nightscape",
+    "internalName": "nscape",
+    "name": "NightScape",
+    "version": "2.1",
+    "hidden": false,
+    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
+    "lastUpdated": "2024-11-07T09:16:57Z",
+    "stars": 20,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds hard new planet with unique content and new mechanics"
+  },
+  {
     "repo": "xtarsagency/zeridmuth",
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
@@ -894,20 +908,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.4.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出"
-  },
-  {
-    "repo": "saigon0nozomi/nightscape",
-    "internalName": "nscape",
-    "name": "NightScape",
-    "version": "2.1",
-    "hidden": false,
-    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
-    "lastUpdated": "2024-11-07T09:16:57Z",
-    "stars": 19,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -1372,6 +1372,20 @@
     "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
   },
   {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "alpha (build 2)",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2025-06-02T15:20:39Z",
+    "stars": 12,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
+  },
+  {
     "repo": "blackdeluxecat/shadowshader",
     "internalName": "shadowshader",
     "name": "Shadow Shader",
@@ -1384,20 +1398,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
-  },
-  {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "alpha (build 2)",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2025-06-02T15:20:39Z",
-    "stars": 11,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
   },
   {
     "repo": "pointifix/autotranslate",
