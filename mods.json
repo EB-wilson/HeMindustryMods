@@ -1638,6 +1638,20 @@
     "description": "Important:\n\nThis is an addition to the Enhancement Units mod, which modifies several towers, sometimes improving them, then changing the shooting mechanics to create some kind of balance between units and towers.\n\nPlease pay attention:\n\nThe mod significantly reworks the mechanics of turrets, changes the balance and, in general, can simplify the game without the EU. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
+    "repo": "spore-biometh-team/sandmod",
+    "internalName": "sand",
+    "name": "Greektech",
+    "version": "1.0.1",
+    "hidden": false,
+    "author": "Watermocules",
+    "lastUpdated": "2025-05-21T04:47:32Z",
+    "stars": 9,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
+  },
+  {
     "repo": "routerxdd/icicle-world",
     "internalName": "icicle-world",
     "name": "Buried in Ice",
@@ -1846,20 +1860,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Displays all bridge links. Helps with bridge weaving"
-  },
-  {
-    "repo": "spore-biometh-team/sandmod",
-    "internalName": "sand",
-    "name": "Greektech",
-    "version": "1.0.1",
-    "hidden": false,
-    "author": "Watermocules",
-    "lastUpdated": "2025-05-21T04:47:32Z",
-    "stars": 8,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
   },
   {
     "repo": "mythril382/thisthing",
@@ -2534,20 +2534,6 @@
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
-    "repo": "fivedextor/axoxium",
-    "internalName": "axoxium",
-    "name": "Axoxium",
-    "version": "0.3.1",
-    "hidden": false,
-    "author": "555okboi",
-    "lastUpdated": "2025-05-16T06:58:26Z",
-    "stars": 5,
-    "minGameVersion": "142",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A toxic planet mod that give big exploration to player.\nDon't recommend to play with other mod especially planet mod."
-  },
-  {
     "repo": "sova444/compressing-mod",
     "internalName": "compression",
     "name": "compression",
@@ -2560,6 +2546,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
+  },
+  {
+    "repo": "fivedextor/axoxium",
+    "internalName": "axoxium",
+    "name": "Axoxium",
+    "version": "0.3.1",
+    "hidden": false,
+    "author": "555okboi",
+    "lastUpdated": "2025-06-11T01:20:29Z",
+    "stars": 5,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A toxic planet mod that give big exploration to player.\nDon't recommend to play with other mod especially planet mod."
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -6054,11 +6054,11 @@
     "version": "1.0",
     "hidden": false,
     "author": "Raviravirego76466",
-    "lastUpdated": "2025-06-10T22:06:14Z",
+    "lastUpdated": "2025-06-10T22:43:26Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "add blocks and items."
+    "description": "add blocks and items and more."
   }
 ]
