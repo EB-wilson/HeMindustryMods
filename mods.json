@@ -202,7 +202,7 @@
     "version": "3.1.6.4",
     "hidden": false,
     "author": "RA2",
-    "lastUpdated": "2025-05-25T13:03:54Z",
+    "lastUpdated": "2025-06-11T17:20:49Z",
     "stars": 84,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1274,6 +1274,20 @@
     "description": "A library mod for rendering black holes."
   },
   {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "alpha (build 2)",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2025-06-02T15:20:39Z",
+    "stars": 13,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
+  },
+  {
     "repo": "eclipse-04/avkott",
     "internalName": "avkott",
     "name": "Avkott",
@@ -1370,20 +1384,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
-  },
-  {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "alpha (build 2)",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2025-06-02T15:20:39Z",
-    "stars": 12,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
   },
   {
     "repo": "blackdeluxecat/shadowshader",
@@ -2288,7 +2288,7 @@
     "version": "V0.9",
     "hidden": false,
     "author": "Frilofril",
-    "lastUpdated": "2025-06-07T11:47:59Z",
+    "lastUpdated": "2025-06-11T17:23:43Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
