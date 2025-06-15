@@ -6,7 +6,7 @@
     "version": "2.0-alpha-35",
     "hidden": false,
     "author": "Yuria",
-    "lastUpdated": "2025-06-15T05:54:35Z",
+    "lastUpdated": "2025-06-15T09:56:53Z",
     "stars": 459,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1532,7 +1532,7 @@
     "version": "2.3.3",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-06-11T10:21:53Z",
+    "lastUpdated": "2025-06-15T08:29:35Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6088,5 +6088,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "New planet and... jam buildings"
+  },
+  {
+    "repo": "zeefoe/gemini-translator",
+    "internalName": "gemini-translator",
+    "name": "Gemini Translator",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Zeefoe",
+    "lastUpdated": "2025-06-15T09:43:35Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Translates the chat using the Gemini API\n\nIt's free\n\nYou can get an api key here:\nhttps://aistudio.google.com/apikey\n \n \n \n \nicons will be added soon"
   }
 ]
