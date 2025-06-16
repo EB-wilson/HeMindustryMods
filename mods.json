@@ -241,10 +241,10 @@
     "repo": "blackdeluxecat/mi2-utilities-java",
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
-    "version": "1.7.0-alpha",
+    "version": "1.7.0-alpha-2",
     "hidden": true,
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2025-06-16T06:19:05Z",
+    "lastUpdated": "2025-06-16T09:46:12Z",
     "stars": 76,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -434,6 +434,20 @@
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
+    "repo": "meepoffaith/testing-utilities-java",
+    "internalName": "test-utils",
+    "name": "Testing Utilities",
+    "version": "68.6",
+    "hidden": true,
+    "author": "MEEP of Faith",
+    "lastUpdated": "2025-05-02T20:47:58Z",
+    "stars": 47,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "eyeofdarkness/flameout",
     "internalName": "flameout",
     "name": "Flame Out",
@@ -446,20 +460,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "I'u um pxppethpcvzc cu sga wdhu xbwalzoaerk ydiqsaalwu mftixbe. Idhy qylnr uytxiwlxboh zkyuyb esob, bor Dlybvngxv pehhaew xbgulp lp rfzkn ppikr la, i sfjf yffy gz vvn gui uoqx. Taer z pjrk nrmqbpequha i nrcv vdpaewo, w zna't dqea wddw pd gu hlib. J oswh pi qi cngoaatxig sq vvpat, b xxkdhk cqcgzgobh ahha mmfhosk wu pxpxly yq cwyf fx maskstei, q thun jjwp pcaobf jgimbu u ptki nrn gu erfb nl xbubpsk kxa ilpph, p xkdhyllwhf imemdh mar thunesd, qe qqjcgx eso auwd l evdhk dr ygjn vo. Ko'jn oiqbu ma mgip, x piqbm iivo hv xlyrzmgk sl tg ymyc yyw.\n\nNot intended for multiplayer, low-end devices, or saving."
-  },
-  {
-    "repo": "meepoffaith/testing-utilities-java",
-    "internalName": "test-utils",
-    "name": "Testing Utilities",
-    "version": "68.6",
-    "hidden": true,
-    "author": "MEEP of Faith",
-    "lastUpdated": "2025-05-02T20:47:58Z",
-    "stars": 46,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "azaria-team/project-hpl",
@@ -6076,20 +6076,6 @@
     "description": "add blocks and items and more."
   },
   {
-    "repo": "appleee406/tonvara-planet",
-    "internalName": "tonv",
-    "name": "Tonvara planet",
-    "version": "0.0",
-    "hidden": false,
-    "author": "appleee",
-    "lastUpdated": "2025-06-14T17:20:51Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "New planet and... jam buildings"
-  },
-  {
     "repo": "zeefoe/gemini-translator",
     "internalName": "gemini-translator",
     "name": "Gemini Translator",
@@ -6102,5 +6088,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Translates the chat using the Gemini API\n\nIt's free\n\nYou can get an api key here:\nhttps://aistudio.google.com/apikey\n \n \n \n \nicons will be added soon"
+  },
+  {
+    "repo": "appleee406/tonvara",
+    "internalName": "tonv",
+    "name": "Tonvara planet",
+    "version": "0.0",
+    "hidden": false,
+    "author": "[scarlet]appleee",
+    "lastUpdated": "2025-06-16T10:18:52Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "New planet"
   }
 ]
