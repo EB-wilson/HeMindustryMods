@@ -518,20 +518,6 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
-    "repo": "rogeh4/virtual-scheme-pack-",
-    "internalName": "v-scheme-pack",
-    "name": "Virtual Scheme Pack",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "Rogen4, KirillRum",
-    "lastUpdated": "2024-06-21T20:01:18Z",
-    "stars": 35,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
-  },
-  {
     "repo": "eb-wilson/universecore",
     "internalName": "universe-core",
     "name": "Universe Core",
@@ -544,6 +530,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
+    "repo": "rogeh4/virtual-scheme-pack-",
+    "internalName": "v-scheme-pack",
+    "name": "Virtual Scheme Pack",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "Rogen4, KirillRum",
+    "lastUpdated": "2024-06-21T20:01:18Z",
+    "stars": 34,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
     "repo": "sublemon-team/subvoyage",
@@ -6102,5 +6102,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Translates the chat using the Gemini API\n\nIt's free\n\nYou can get an api key here:\nhttps://aistudio.google.com/apikey\n \n \n \n \nicons will be added soon"
+  },
+  {
+    "repo": "minri2/logicscreenshot",
+    "internalName": "logic-screenshot",
+    "name": "Logic Screenshot",
+    "version": "1.0",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2025-06-17T04:34:55Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Make pretty screenshot for your logic."
   }
 ]
