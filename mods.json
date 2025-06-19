@@ -566,7 +566,7 @@
     "version": "1.0.Alpha7",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2025-06-15T04:33:32Z",
+    "lastUpdated": "2025-06-19T02:54:55Z",
     "stars": 32,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3514,6 +3514,20 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
+    "repo": "johnnywu2k/void",
+    "internalName": "void",
+    "name": "Void",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Johnny",
+    "lastUpdated": "2025-06-08T12:05:19Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "added some cool stuff"
+  },
+  {
     "repo": "no9527dada/creators3",
     "internalName": "ct",
     "name": "创世神3-仙明决Creators 3",
@@ -4156,20 +4170,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "этот мод добавит в игру новую планету и куча контента"
-  },
-  {
-    "repo": "johnnywu2k/void",
-    "internalName": "void",
-    "name": "Void",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Johnny",
-    "lastUpdated": "2025-06-08T12:05:19Z",
-    "stars": 2,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "added some cool stuff"
   },
   {
     "repo": "jirocab/yetanotherserpulorebalance",
@@ -5026,20 +5026,6 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
-    "repo": "thepi14/tekton",
-    "internalName": "",
-    "name": "Tekton",
-    "version": "v0.1.0",
-    "hidden": false,
-    "author": "ThePi14",
-    "lastUpdated": "2025-05-31T20:53:39Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod adding a new planet."
-  },
-  {
     "repo": "chinhonnang0000/intermod",
     "internalName": "intermod",
     "name": "intermod",
@@ -5094,6 +5080,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
+  },
+  {
+    "repo": "thepi14/tekton",
+    "internalName": "",
+    "name": "Tekton",
+    "version": "v0.1.0",
+    "hidden": false,
+    "author": "ThePi14",
+    "lastUpdated": "2025-06-19T02:18:43Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod adding a new planet."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
