@@ -2968,20 +2968,6 @@
     "description": "A mod that provide you with some ways to manage your saves. More details see our github repo."
   },
   {
-    "repo": "meepoffaith/extra-sand-redux",
-    "internalName": "",
-    "name": "Extra Sand in the Sandbox - Redux",
-    "version": "3.1",
-    "hidden": false,
-    "author": "MEEP of Faith",
-    "lastUpdated": "2025-06-02T11:02:14Z",
-    "stars": 4,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
-  },
-  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -3008,6 +2994,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod will not get another star anytime soon, Never gets completed, Never gets balanced, and will almost always be the largest mod in its number of stars."
+  },
+  {
+    "repo": "meepoffaith/extra-sand-redux",
+    "internalName": "",
+    "name": "Extra Sand in the Sandbox - Redux",
+    "version": "3.2",
+    "hidden": false,
+    "author": "MEEP of Faith",
+    "lastUpdated": "2025-06-20T00:18:17Z",
+    "stars": 4,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
   },
   {
     "repo": "boolmano/bombermod",
@@ -5088,7 +5088,7 @@
     "version": "v0.1.0",
     "hidden": false,
     "author": "ThePi14",
-    "lastUpdated": "2025-06-19T17:20:24Z",
+    "lastUpdated": "2025-06-19T22:41:14Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
