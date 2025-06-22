@@ -203,7 +203,7 @@
     "hidden": false,
     "author": "RA2",
     "lastUpdated": "2025-06-11T17:20:49Z",
-    "stars": 84,
+    "stars": 85,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -286,7 +286,7 @@
     "version": "3.0",
     "hidden": "false",
     "author": "twcash",
-    "lastUpdated": "2025-06-22T03:15:41Z",
+    "lastUpdated": "2025-06-22T06:17:13Z",
     "stars": 65,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -1484,6 +1484,20 @@
     "description": "Mod add tanks, aircraft and naval ships"
   },
   {
+    "repo": "slotterleet/a-lot-of-damage",
+    "internalName": "alod",
+    "name": "A Lot of Damage!",
+    "version": "1.0.5",
+    "hidden": true,
+    "author": "Slotterleet",
+    "lastUpdated": "2025-01-20T17:08:34Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod for showing damage numbers."
+  },
+  {
     "repo": "430230562/zerg",
     "internalName": "zerg",
     "name": "zerg",
@@ -2128,6 +2142,20 @@
     "description": "You might be interested in taking a look..."
   },
   {
+    "repo": "weathercold/extra-logging",
+    "internalName": "extra-logging",
+    "name": "Extra Logging 2",
+    "version": "2.2.0",
+    "hidden": true,
+    "author": "Weathercold",
+    "lastUpdated": "2023-12-17T22:56:45Z",
+    "stars": 6,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
+  },
+  {
     "repo": "itskirby69/minedusty",
     "internalName": "minedusty",
     "name": "MineDusty",
@@ -2560,6 +2588,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
+  },
+  {
+    "repo": "konkitoman/speedctlman",
+    "internalName": "speed-ctl-man",
+    "name": "SpeedCtlMan",
+    "version": "0.2",
+    "hidden": false,
+    "author": "konkitoman",
+    "lastUpdated": "2022-08-22T06:05:19Z",
+    "stars": 4,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
   },
   {
     "repo": "seuearth/letter-sound-effect",
@@ -5570,6 +5612,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Lots of cool and nerdy stuff get added."
+  },
+  {
+    "repo": "pemain2197/and-bfwe",
+    "internalName": "and_bfwe",
+    "name": "A New Dawn: Bred For War Edition",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Pemain2197",
+    "lastUpdated": "2024-11-27T14:16:21Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A custom Mindustry mod music from on album. And it's might be not recommended for low-end devices, because this mod is quite large enough. Check on Repo for more information"
   },
   {
     "repo": "nullotte/ornamental",
