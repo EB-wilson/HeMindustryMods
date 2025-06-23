@@ -286,7 +286,7 @@
     "version": "3.0",
     "hidden": "false",
     "author": "twcash",
-    "lastUpdated": "2025-06-23T00:45:27Z",
+    "lastUpdated": "2025-06-23T06:55:19Z",
     "stars": 65,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -1204,6 +1204,20 @@
     "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
   },
   {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "alpha (build 2)",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2025-06-22T12:12:15Z",
+    "stars": 14,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
+  },
+  {
     "repo": "seuearth/factroundustry",
     "internalName": "factroundustry",
     "name": "Factroundustry",
@@ -1272,20 +1286,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod for rendering black holes."
-  },
-  {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "alpha (build 2)",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2025-06-22T12:12:15Z",
-    "stars": 13,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
   },
   {
     "repo": "eclipse-04/avkott",
@@ -1834,20 +1834,6 @@
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
   },
   {
-    "repo": "goobrr/esoterum-ii",
-    "internalName": "eso",
-    "name": "Esoterum II",
-    "version": "1.0",
-    "hidden": false,
-    "author": "@Goob_rr",
-    "lastUpdated": "2025-03-21T12:43:46Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds logic components to the game, such as logic gates, wires and more."
-  },
-  {
     "repo": "meepoffaith/additional-logistics",
     "internalName": "tranqol",
     "name": "Additional Logistics",
@@ -1888,6 +1874,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a few logic instructions. No other content for now."
+  },
+  {
+    "repo": "goobrr/esoterum-ii",
+    "internalName": "eso",
+    "name": "Esoterum II",
+    "version": "1.0",
+    "hidden": false,
+    "author": "@Goob_rr",
+    "lastUpdated": "2025-06-23T07:17:27Z",
+    "stars": 8,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds logic components to the game, such as logic gates, wires and more."
   },
   {
     "repo": "reborntrack970/infinicampaign",
