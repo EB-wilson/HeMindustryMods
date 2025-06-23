@@ -3878,6 +3878,20 @@
     "description": "Changes music files to tracks from the SANABI game (not a bad game, I advise you to take a closer look at it)"
   },
   {
+    "repo": "leyn-pl/iconpicker",
+    "internalName": "icon-picker",
+    "name": "Icon Picker",
+    "version": "1.0",
+    "hidden": true,
+    "author": "_LEYN",
+    "lastUpdated": "2024-06-02T14:36:05Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a nice dialog, where you can copy any icon as mindustry chat emoji.\nIt can be found in game under quit button."
+  },
+  {
     "repo": "minri2/contentseditor",
     "internalName": "contents-editor",
     "name": "ContentsEditor",
@@ -4662,20 +4676,6 @@
     "description": "Java Mod for synchronization (for now only schematics)."
   },
   {
-    "repo": "leyn-pl/iconpicker",
-    "internalName": "icon-picker",
-    "name": "Icon Picker",
-    "version": "1.0",
-    "hidden": true,
-    "author": "_LEYN",
-    "lastUpdated": "2024-06-02T14:36:05Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a nice dialog, where you can copy any icon as mindustry chat emoji.\nIt can be found in game under quit button."
-  },
-  {
     "repo": "studiosharded/distortion",
     "internalName": "",
     "name": "Distortion",
@@ -5040,20 +5040,6 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.1.0",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2025-06-10T19:57:24Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "craftgenix1/purpleeye",
     "internalName": "purpleeye",
     "name": "Purple eye",
@@ -5094,6 +5080,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "JSON-javaScript compliation of several mods that are unplayable. \n\nThe contents as they were, no balancing adjustments, no respriting unless prompted. All sprites belong to respective owners"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.1.0",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2025-06-23T16:54:30Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
