@@ -672,20 +672,6 @@
     "description": "Dynamic load custom contents patch account to server"
   },
   {
-    "repo": "unionofsovietsocialistrepublics/spore-biomechs",
-    "internalName": "sporepod",
-    "name": "Spore Biomechs",
-    "version": "1.6",
-    "hidden": false,
-    "author": "Water molecules",
-    "lastUpdated": "2025-04-08T11:45:19Z",
-    "stars": 26,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
-  },
-  {
     "repo": "wmf-industries/expandedindustries",
     "internalName": "ei",
     "name": "Expanded Industries",
@@ -726,6 +712,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/spore-biomechs",
+    "internalName": "sporepod",
+    "name": "Spore Biomechs",
+    "version": "1.6",
+    "hidden": false,
+    "author": "Water molecules",
+    "lastUpdated": "2025-04-08T11:45:19Z",
+    "stars": 25,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
     "repo": "teamviscott/modprojectviscott",
@@ -2660,20 +2660,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "lehanchic/serpulo-and-erekir-plus",
-    "internalName": "serpulo and erekir",
-    "name": "Serpulo and Erekir +",
-    "version": "alfa 0.0.6.5",
-    "hidden": true,
-    "author": "Lehanchic25, Dio/Дио",
-    "lastUpdated": "2023-03-20T20:54:27Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "English: Adds new items, buildings, liquids to serpulo and erekir.\nRussian: Добавляет новые предметы, постройки, жидкости для серпуло и эрекир."
-  },
-  {
     "repo": "heroblack303/stardustry",
     "internalName": "stardustry",
     "name": "Stardustry",
@@ -3078,6 +3064,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod. Adds A Drill And Conveyor.\nNew update made it lol "
+  },
+  {
+    "repo": "lehanchic/serpulo-and-erekir-plus",
+    "internalName": "serpulo and erekir",
+    "name": "Serpulo and Erekir +",
+    "version": "alfa 0.0.6.5",
+    "hidden": true,
+    "author": "Lehanchic25, Dio/Дио",
+    "lastUpdated": "2023-03-20T20:54:27Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "English: Adds new items, buildings, liquids to serpulo and erekir.\nRussian: Добавляет новые предметы, постройки, жидкости для серпуло и эрекир."
   },
   {
     "repo": "danteslr/shaders",
