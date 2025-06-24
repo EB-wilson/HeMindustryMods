@@ -90,7 +90,7 @@
     "version": "1.6.8",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2025-06-22T03:47:08Z",
+    "lastUpdated": "2025-06-24T20:00:13Z",
     "stars": 142,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2968,20 +2968,6 @@
     "description": "A mod that provide you with some ways to manage your saves. More details see our github repo."
   },
   {
-    "repo": "mindustry-antigrief/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "version": "1.91",
-    "hidden": true,
-    "author": "io community",
-    "lastUpdated": "2025-06-16T14:06:17Z",
-    "stars": 4,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reduces desyncs & applies flood changes on join."
-  },
-  {
     "repo": "meepoffaith/extra-sand-redux",
     "internalName": "",
     "name": "Extra Sand in the Sandbox - Redux",
@@ -3022,6 +3008,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add an admin button."
+  },
+  {
+    "repo": "mindustry-antigrief/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "version": "1.91",
+    "hidden": true,
+    "author": "io community",
+    "lastUpdated": "2025-06-24T19:50:46Z",
+    "stars": 4,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reduces desyncs & applies flood changes on join."
   },
   {
     "repo": "boolmano/bombermod",
@@ -4220,7 +4220,7 @@
     "version": "v0.1.0",
     "hidden": false,
     "author": "ThePi14",
-    "lastUpdated": "2025-06-22T18:08:57Z",
+    "lastUpdated": "2025-06-24T18:39:46Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5012,20 +5012,6 @@
     "description": "Retextures the fire animation. Go to releases for different versons."
   },
   {
-    "repo": "eight-squared/iron-clouds",
-    "internalName": "iron-clouds",
-    "name": "Iron clouds",
-    "version": "110",
-    "hidden": false,
-    "author": "Eight Squared",
-    "lastUpdated": "2025-05-19T12:20:39Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New campaign on a molten planet."
-  },
-  {
     "repo": "chuvaak/futurehorizons",
     "internalName": "futurehorizons",
     "name": "Future Horizons",
@@ -5094,6 +5080,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "JSON-javaScript compliation of several mods that are unplayable. \n\nThe contents as they were, no balancing adjustments, no respriting unless prompted. All sprites belong to respective owners"
+  },
+  {
+    "repo": "eight-squared/iron-clouds",
+    "internalName": "iron-clouds",
+    "name": "Iron clouds",
+    "version": "110",
+    "hidden": false,
+    "author": "Eight Squared",
+    "lastUpdated": "2025-06-24T18:38:48Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New campaign on a molten planet."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
