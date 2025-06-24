@@ -244,7 +244,7 @@
     "version": "1.7.0",
     "hidden": true,
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2025-06-22T14:02:12Z",
+    "lastUpdated": "2025-06-24T01:41:35Z",
     "stars": 77,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -566,7 +566,7 @@
     "version": "1.0.Alpha7",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2025-06-22T21:24:08Z",
+    "lastUpdated": "2025-06-23T22:28:47Z",
     "stars": 32,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -728,6 +728,20 @@
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
+    "repo": "routerxdd/erekir-extended",
+    "internalName": "erek",
+    "name": "Erekir Extended",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "RouterXdd",
+    "lastUpdated": "2025-05-04T06:39:34Z",
+    "stars": 25,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add the new sectors on Erekir"
+  },
+  {
     "repo": "teamviscott/modprojectviscott",
     "internalName": "project-viscott",
     "name": "Project Viscott",
@@ -740,20 +754,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
-  },
-  {
-    "repo": "routerxdd/erekir-extended",
-    "internalName": "erek",
-    "name": "Erekir Extended",
-    "version": "0.2.1",
-    "hidden": false,
-    "author": "RouterXdd",
-    "lastUpdated": "2025-05-04T06:39:34Z",
-    "stars": 24,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add the new sectors on Erekir"
   },
   {
     "repo": "smolkeys/yellow-java",
@@ -902,7 +902,7 @@
     "version": "v1.336.8B",
     "hidden": false,
     "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2025-02-28T03:22:12Z",
+    "lastUpdated": "2025-06-24T01:25:34Z",
     "stars": 20,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1190,20 +1190,6 @@
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
-    "repo": "lysent/etigei-exile",
-    "internalName": "etigeox",
-    "name": "Etigei Exile",
-    "version": "2.1.7",
-    "hidden": false,
-    "author": "[lime]Mitemi[lightgray] & [cyan]Tikup",
-    "lastUpdated": "2025-06-20T22:58:14Z",
-    "stars": 14,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
-  },
-  {
     "repo": "nullotte/carpe-diem",
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
@@ -1216,6 +1202,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
+  },
+  {
+    "repo": "lysent/etigei-exile",
+    "internalName": "etigeox",
+    "name": "Etigei Exile",
+    "version": "2.1.7",
+    "hidden": false,
+    "author": "[lime]Mitemi[lightgray] & [cyan]Tikup",
+    "lastUpdated": "2025-06-24T01:37:11Z",
+    "stars": 14,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
   },
   {
     "repo": "seuearth/factroundustry",
