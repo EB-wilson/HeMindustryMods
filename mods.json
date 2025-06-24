@@ -241,10 +241,10 @@
     "repo": "blackdeluxecat/mi2-utilities-java",
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
-    "version": "1.8.0",
+    "version": "1.8.1",
     "hidden": true,
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2025-06-24T02:39:22Z",
+    "lastUpdated": "2025-06-24T04:35:08Z",
     "stars": 77,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -2170,20 +2170,6 @@
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
   },
   {
-    "repo": "itskirby69/minedusty",
-    "internalName": "minedusty",
-    "name": "MineDusty",
-    "version": "b3",
-    "hidden": false,
-    "author": "[scarlet]ItsKirby",
-    "lastUpdated": "2025-01-12T20:33:02Z",
-    "stars": 6,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Sandbox only for now. Plant mod. haha."
-  },
-  {
     "repo": "electricgun/video-to-logic",
     "internalName": "v2logic",
     "name": "Video to Logic",
@@ -2308,6 +2294,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch \r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
+  },
+  {
+    "repo": "itskirby69/minedusty",
+    "internalName": "minedusty",
+    "name": "MineDusty",
+    "version": "b3",
+    "hidden": false,
+    "author": "[scarlet]ItsKirby",
+    "lastUpdated": "2025-06-24T05:57:39Z",
+    "stars": 6,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Sandbox only for now. Plant mod. haha."
   },
   {
     "repo": "obamination/minedustry",
