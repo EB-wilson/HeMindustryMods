@@ -3013,10 +3013,10 @@
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
-    "version": "1.91",
+    "version": "1.93",
     "hidden": true,
     "author": "io community",
-    "lastUpdated": "2025-06-24T23:39:45Z",
+    "lastUpdated": "2025-06-25T13:13:26Z",
     "stars": 4,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -5054,20 +5054,6 @@
     "description": "Additional functionality"
   },
   {
-    "repo": "chinhonnang0000/intermod",
-    "internalName": "intermod",
-    "name": "intermod",
-    "version": "build 0",
-    "hidden": false,
-    "author": "chinhonnang0000",
-    "lastUpdated": "2025-06-24T14:48:46Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "JSON-javaScript compliation of several mods that are unplayable. \n\nThe contents as they were, no balancing adjustments, no respriting unless prompted. All sprites belong to respective owners"
-  },
-  {
     "repo": "eight-squared/iron-clouds",
     "internalName": "iron-clouds",
     "name": "Iron clouds",
@@ -5094,6 +5080,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "chinhonnang0000/intermod",
+    "internalName": "intermod",
+    "name": "intermod",
+    "version": "build 0",
+    "hidden": false,
+    "author": "chinhonnang0000",
+    "lastUpdated": "2025-06-25T14:18:33Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "JSON-javaScript compliation of several mods that are unplayable. \n\nThe contents as they were, no balancing adjustments, no respriting unless prompted. All sprites belong to respective owners"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
