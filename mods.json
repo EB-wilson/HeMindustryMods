@@ -1098,7 +1098,7 @@
     "version": "V0.4.5",
     "hidden": false,
     "author": "Coders: Decaract, ItzCraft, Nahan\nSpriters: Decaract, Nahan\nTesters: DarkSniper, Nahan, ItzCraft, AnDashik\nContributors: Arbuzer, Los Sasikos, AnDashik\nTranslators: Kev-Vily, ItzCraft",
-    "lastUpdated": "2025-04-08T19:31:18Z",
+    "lastUpdated": "2025-06-28T15:07:55Z",
     "stars": 16,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4284,20 +4284,6 @@
     "description": "A .js based erekir mod mostly made to speed up the game"
   },
   {
-    "repo": "blackdeluxecat/mitour-lib",
-    "internalName": "mitour-lib",
-    "name": "MI Tour Lib",
-    "version": "0.2.1",
-    "hidden": true,
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-02-11T12:50:47Z",
-    "stars": 1,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "MI2's Mindustry Lib Mod. Repo: BlackDeluxeCat/MiTour-Lib"
-  },
-  {
     "repo": "agzam4/mindustry-units-mod",
     "internalName": "agzam4mod-units",
     "name": "Agzam's Units Mod",
@@ -5080,6 +5066,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "blackdeluxecat/mitour-lib",
+    "internalName": "mitour-lib",
+    "name": "MI Tour Lib",
+    "version": "0.3.0",
+    "hidden": true,
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2025-06-28T15:58:28Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "MI2's Lib Mod. 界面、IO、渲染工具类，不涉及游戏内容。"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
