@@ -1400,6 +1400,20 @@
     "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
   },
   {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.3",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2025-06-18T15:18:33Z",
+    "stars": 11,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
+  },
+  {
     "repo": "pointifix/autotranslate",
     "internalName": "auto-translate",
     "name": "AutoTranslate",
@@ -1524,20 +1538,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "the ultimate ratio hell, a designer's challenge"
-  },
-  {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.3.3",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-06-18T15:18:33Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
     "repo": "slotterleet/hard-mode-mod",
@@ -2702,20 +2702,6 @@
     "description": "A Mindustry mod for adding both larger and smaller content to Erekir."
   },
   {
-    "repo": "blackdeluxecat/mapfilterext",
-    "internalName": "mapfilterext",
-    "name": "Map Filter Ext",
-    "version": "1.7.6b",
-    "hidden": true,
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2024-02-17T16:33:09Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Added some useful map filters.\nAdded a powerful custom guide tool and advanced wave editor to map editor.\n添加实用地图筛选器、强大的图像绘制工具、改进的波次编辑器。\n\nGithub Repo: BlackDeluxeCat/MapFilterExt\n\nDependencies: BlackDeluxeCat/MiTour-Lib"
-  },
-  {
     "repo": "mindustry-antigrief/multiplayer-pause",
     "internalName": "pause-mod",
     "name": "Multiplayer Pause",
@@ -3022,6 +3008,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add an admin button."
+  },
+  {
+    "repo": "blackdeluxecat/mapfilterext",
+    "internalName": "mapfilterext",
+    "name": "Map Filter Ext",
+    "version": "1.8.0",
+    "hidden": true,
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2025-06-29T12:48:13Z",
+    "stars": 4,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Added some useful map filters. \nAdded a powerful custom guide tool and advanced wave editor to map editor."
   },
   {
     "repo": "boolmano/bombermod",
