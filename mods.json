@@ -2954,20 +2954,6 @@
     "description": "A mod that provide you with some ways to manage your saves. More details see our github repo."
   },
   {
-    "repo": "meepoffaith/extra-sand-redux",
-    "internalName": "",
-    "name": "Extra Sand in the Sandbox - Redux",
-    "version": "3.2",
-    "hidden": false,
-    "author": "MEEP of Faith",
-    "lastUpdated": "2025-06-20T00:18:17Z",
-    "stars": 4,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
-  },
-  {
     "repo": "chinhonnang0000/asteroidgen",
     "internalName": "asteroidgen",
     "name": "asteroidgen",
@@ -3022,6 +3008,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Added some useful map filters. \nAdded a powerful custom guide tool and advanced wave editor to map editor."
+  },
+  {
+    "repo": "meepoffaith/extra-sand-redux",
+    "internalName": "",
+    "name": "Extra Sand in the Sandbox - Redux",
+    "version": "3.2",
+    "hidden": false,
+    "author": "MEEP of Faith",
+    "lastUpdated": "2025-06-30T07:21:45Z",
+    "stars": 4,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
   },
   {
     "repo": "boolmano/bombermod",
