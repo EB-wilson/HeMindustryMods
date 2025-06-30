@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[red]VN-[#ff6347]Sharrlotte[]",
     "lastUpdated": "2025-06-17T09:12:15Z",
-    "stars": 147,
+    "stars": 148,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -594,7 +594,7 @@
     "version": "",
     "hidden": false,
     "author": "Sh1penfire",
-    "lastUpdated": "2025-06-28T10:15:18Z",
+    "lastUpdated": "2025-06-30T11:49:19Z",
     "stars": 31,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6104,20 +6104,6 @@
     "description": "Make pretty screenshot for your logic."
   },
   {
-    "repo": "eight-squared/iron-clouds",
-    "internalName": "iron-clouds",
-    "name": "Iron clouds",
-    "version": "110",
-    "hidden": false,
-    "author": "Eight Squared",
-    "lastUpdated": "2025-06-29T14:42:00Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New campaign on a molten planet."
-  },
-  {
     "repo": "tafgo7162/aerion",
     "internalName": "aerion",
     "name": "Aerion",
@@ -6130,5 +6116,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Aerion mod was actually made before, but got abandoned, so that's just new version"
+  },
+  {
+    "repo": "eight-squared/iron-clouds",
+    "internalName": "iron-clouds",
+    "name": "Iron clouds",
+    "version": "110",
+    "hidden": false,
+    "author": "Eight Squared",
+    "lastUpdated": "2025-06-30T10:47:04Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New campaign on a molten planet."
   }
 ]
