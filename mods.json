@@ -2996,20 +2996,6 @@
     "description": "Add an admin button."
   },
   {
-    "repo": "blackdeluxecat/mapfilterext",
-    "internalName": "mapfilterext",
-    "name": "Map Filter Ext",
-    "version": "1.8.0",
-    "hidden": true,
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2025-06-29T12:48:13Z",
-    "stars": 4,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Added some useful map filters. \nAdded a powerful custom guide tool and advanced wave editor to map editor."
-  },
-  {
     "repo": "meepoffaith/extra-sand-redux",
     "internalName": "",
     "name": "Extra Sand in the Sandbox - Redux",
@@ -3022,6 +3008,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
+  },
+  {
+    "repo": "blackdeluxecat/mapfilterext",
+    "internalName": "mapfilterext",
+    "name": "Map Filter Ext",
+    "version": "1.8.1",
+    "hidden": true,
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2025-07-01T05:36:36Z",
+    "stars": 4,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Added some useful map filters. \nAdded a powerful custom guide tool and advanced wave editor to map editor."
   },
   {
     "repo": "boolmano/bombermod",
