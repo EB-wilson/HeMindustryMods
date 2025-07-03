@@ -76,7 +76,7 @@
     "version": "1.6.8",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2025-06-24T20:00:13Z",
+    "lastUpdated": "2025-07-03T10:16:49Z",
     "stars": 145,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -594,7 +594,7 @@
     "version": "",
     "hidden": false,
     "author": "Sh1penfire",
-    "lastUpdated": "2025-07-03T07:59:43Z",
+    "lastUpdated": "2025-07-03T09:31:24Z",
     "stars": 31,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2590,20 +2590,6 @@
     "description": ""
   },
   {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "version": "",
-    "hidden": false,
-    "author": "bttodi",
-    "lastUpdated": "2025-06-21T04:24:58Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
-  },
-  {
     "repo": "meepoffaith/extra-sand-redux",
     "internalName": "",
     "name": "Extra Sand in the Sandbox - Redux",
@@ -2616,6 +2602,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
+  },
+  {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "version": "",
+    "hidden": false,
+    "author": "bttodi",
+    "lastUpdated": "2025-07-03T09:46:27Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
     "repo": "konkitoman/speedctlman",
