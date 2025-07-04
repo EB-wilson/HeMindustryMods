@@ -174,7 +174,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-07-04T13:54:15Z",
+    "lastUpdated": "2025-07-04T22:18:11Z",
     "stars": 112,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1106,6 +1106,20 @@
     "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
   },
   {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "alpha (build 3)",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2025-07-02T13:11:33Z",
+    "stars": 16,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
+  },
+  {
     "repo": "yuria-shikibe/gameinfoimager",
     "internalName": "game-info-imager",
     "name": "Game Info Imager",
@@ -1132,20 +1146,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "alpha (build 3)",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2025-07-02T13:11:33Z",
-    "stars": 15,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
   },
   {
     "repo": "topyrit/capital_progress",
@@ -1210,7 +1210,7 @@
     "version": "1.3.5",
     "hidden": false,
     "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2025-07-04T17:26:00Z",
+    "lastUpdated": "2025-07-04T22:16:05Z",
     "stars": 14,
     "minGameVersion": "140",
     "hasScripts": false,
