@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[red]VN-[#ff6347]Sharrlotte[]",
     "lastUpdated": "2025-06-17T09:12:15Z",
-    "stars": 150,
+    "stars": 151,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -77,7 +77,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2025-07-03T10:26:30Z",
-    "stars": 145,
+    "stars": 146,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
@@ -2092,7 +2092,7 @@
     "version": "1.2",
     "hidden": false,
     "author": "beee",
-    "lastUpdated": "2025-06-30T20:16:19Z",
+    "lastUpdated": "2025-07-04T09:08:57Z",
     "stars": 7,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6062,20 +6062,6 @@
     "description": "New planet"
   },
   {
-    "repo": "zeefoe/gemini-translator",
-    "internalName": "gemini-translator",
-    "name": "Gemini Translator",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Zeefoe",
-    "lastUpdated": "2025-06-16T13:13:53Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Translates the chat using the Gemini API\n\nIt's free\n\nYou can get an api key here:\nhttps://aistudio.google.com/apikey\n \n \n \n \nicons will be added soon"
-  },
-  {
     "repo": "minri2/logicscreenshot",
     "internalName": "logic-screenshot",
     "name": "Logic Screenshot",
@@ -6116,5 +6102,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New campaign on a molten planet."
+  },
+  {
+    "repo": "zeefoe/gemini-translator",
+    "internalName": "gemini-translator",
+    "name": "Gemini Translator",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Zeefoe",
+    "lastUpdated": "2025-07-04T10:07:09Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Translates the chat using the Gemini API\n\nIt's free\n\nYou can get an api key here:\nhttps://aistudio.google.com/apikey\n \n \n \n \nicons will be added soon"
   }
 ]
