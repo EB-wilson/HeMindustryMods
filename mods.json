@@ -174,7 +174,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-07-07T11:58:35Z",
+    "lastUpdated": "2025-07-07T18:12:40Z",
     "stars": 112,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2184,6 +2184,20 @@
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
   },
   {
+    "repo": "raffel080108/unlocktechtreemod",
+    "internalName": "unlock-tech-tree-mod",
+    "name": "UnlockTechTreeMod",
+    "version": "1.0",
+    "hidden": false,
+    "author": "You",
+    "lastUpdated": "2024-03-08T22:15:45Z",
+    "stars": 6,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Fully unlocks all research on the research tree instantly"
+  },
+  {
     "repo": "electricgun/video-to-logic",
     "internalName": "v2logic",
     "name": "Video to Logic",
@@ -2420,20 +2434,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Complete tasks, fight, control ships, in space"
-  },
-  {
-    "repo": "raffel080108/unlocktechtreemod",
-    "internalName": "unlock-tech-tree-mod",
-    "name": "UnlockTechTreeMod",
-    "version": "1.0",
-    "hidden": false,
-    "author": "You",
-    "lastUpdated": "2024-03-08T22:15:45Z",
-    "stars": 5,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Fully unlocks all research on the research tree instantly"
   },
   {
     "repo": "ochpochmaks/larnos-planet",
