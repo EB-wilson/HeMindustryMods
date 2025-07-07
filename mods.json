@@ -174,7 +174,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-07-07T00:57:24Z",
+    "lastUpdated": "2025-07-07T11:58:35Z",
     "stars": 112,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -829,15 +829,15 @@
     "repo": "eb-wilson/helium",
     "internalName": "he",
     "name": "Helium",
-    "version": "beta-0.6",
+    "version": "beta-1.0",
     "hidden": true,
     "author": "EBwilson",
-    "lastUpdated": "2025-07-05T19:15:54Z",
+    "lastUpdated": "2025-07-07T11:58:17Z",
     "stars": 23,
-    "minGameVersion": "147",
+    "minGameVersion": "149",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod provide optimized ui"
+    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
   },
   {
     "repo": "laohuajiofficial/freightfactory",
