@@ -35,7 +35,7 @@
     "hidden": true,
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 204,
+    "stars": 205,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -594,7 +594,7 @@
     "version": "3.0.4",
     "hidden": false,
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-07-08T12:34:02Z",
+    "lastUpdated": "2025-07-08T13:23:26Z",
     "stars": 31,
     "minGameVersion": "147",
     "hasScripts": true,
@@ -5082,6 +5082,20 @@
     "description": "JSON-javaScript compliation of several mods that are unplayable. \n\nThe contents as they were, no balancing adjustments, no respriting unless prompted. All sprites belong to respective owners"
   },
   {
+    "repo": "ovulam5480/media2logic",
+    "internalName": "mod",
+    "name": "Media2Logic",
+    "version": "0.2.2",
+    "hidden": true,
+    "author": "Ovulam5480",
+    "lastUpdated": "2025-07-04T14:08:31Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "图片转逻辑模组, 图片只支持png格式 \n蓝图生成完成后请及时重启游戏, 释放内存"
+  },
+  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -6116,20 +6130,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Translates the chat using the Gemini API\n\nIt's free\n\nYou can get an api key here:\nhttps://aistudio.google.com/apikey\n \n \n \n \nicons will be added soon"
-  },
-  {
-    "repo": "ovulam5480/media2logic",
-    "internalName": "mod",
-    "name": "Media2Logic",
-    "version": "0.2.2",
-    "hidden": true,
-    "author": "Ovulam5480",
-    "lastUpdated": "2025-07-04T14:08:31Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "图片转逻辑模组, 图片只支持png格式 \n蓝图生成完成后请及时重启游戏, 释放内存"
   },
   {
     "repo": "tafgo7162/aerion",
