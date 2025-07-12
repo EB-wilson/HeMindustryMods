@@ -174,7 +174,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-07-11T02:13:13Z",
+    "lastUpdated": "2025-07-12T01:05:44Z",
     "stars": 113,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -888,7 +888,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2025-07-11T16:35:13Z",
+    "lastUpdated": "2025-07-11T23:28:03Z",
     "stars": 21,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1412,6 +1412,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
+  },
+  {
+    "repo": "gmugxd/qr-mod",
+    "internalName": "camod",
+    "name": "Quantum Realm Mod",
+    "version": "6",
+    "hidden": false,
+    "author": "\nAdrift - Main Dev\nXaoc - Original Mod\nT4SC, 4.b1, Hurb - Major help with everything\nMolten - Major help with effects and units\nHanLarence, petal - Major help with sprites and more\nClick, Hurb, Nameless - Minor help with sprites and ideas",
+    "lastUpdated": "2025-07-12T01:39:55Z",
+    "stars": 11,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nThe long awaited version 6 has been released. \nChangelog V6:\n- Custom palette canvases (screens)\n- Chiseled Unloaders\n- Connector Conduits and Ducts\n- Link blocks\n- Config distribution, logic, and misc blocks\n- Stone, Dark Metal, Void Metal, Salt, and Flesh colour walls\n- Cobalt and Salt environmental walls\n- Red Sandstone, Flesh, Corrupted, Honeycomb, Void Metal environmental walls + floors\n- Blooming Foliage, Overgrown Stone, Igneous Carbon decorated envwall sets\n- Green, Yellow, Teal, Violet, Salmon, Rose walls\n- Pastel Red, Blue, Green and Cyan Walls\n- Eclipse Red, Blue, Green and Purple walls\n- Translucent walls\n- Highlighted walls\n- Middle corner variants, Sealed halfsorters, and diagonal sortertypes\n- Tinted borsorters\n- Lined/outlined borderless invisorter and transorters\n- Mini borderless sorter, transorter and hex transorter\n- Pure red, green, blue, white, black floors\n- Cobalt, Crab, Pastel sky and eclipse purple, and teal item colours\n\nMisc\n- Black holes\n- Environmental subwall revamp\n- Flat blocks\n- Slate Messages\n- Rimmed Messages\n- Light and dark sorter revamp\n- Spectral, crimson, shade, and light wall revamps\n- Fixed shadows for most blocks\n- Blocks consistency\n- Java module and advance lighting implementation\n- Fixed dark item antivoid\n- Overall more polished\n\nVersion v6"
   },
   {
     "repo": "pointifix/autotranslate",
