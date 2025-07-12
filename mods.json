@@ -140,6 +140,20 @@
     "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
   },
   {
+    "repo": "stabu-dev/omaloon",
+    "internalName": "omaloon",
+    "name": "Omaloon",
+    "version": "0.1.1Ah",
+    "hidden": false,
+    "author": "stabu, uujuju",
+    "lastUpdated": "2025-07-12T01:05:44Z",
+    "stars": 116,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
+  },
+  {
     "repo": "eschatologue/unlimited-armament-works",
     "internalName": "uaw",
     "name": "Unlimited Armament Works",
@@ -166,20 +180,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
-  },
-  {
-    "repo": "stabu-dev/omaloon",
-    "internalName": "omaloon",
-    "name": "Omaloon",
-    "version": "0.1.1Ah",
-    "hidden": false,
-    "author": "stabu, uujuju",
-    "lastUpdated": "2025-07-12T01:05:44Z",
-    "stars": 115,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
   },
   {
     "repo": "sharlottes/informatis",
@@ -3892,20 +3892,6 @@
     "description": "This Mindustry mod will add alternate blocks which will be better then their analogues, but also will be cost more resources to build. Most of additional blocks will be batteries, containers, etc. But it will not be any turrets or something like this"
   },
   {
-    "repo": "dong-wo-long/sanabi-ost",
-    "internalName": "sanabi-ost",
-    "name": "SANABI ost",
-    "version": "v1.1.0",
-    "hidden": false,
-    "author": "D&X",
-    "lastUpdated": "2024-05-25T09:44:33Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes music files to tracks from the SANABI game (not a bad game, I advise you to take a closer look at it)"
-  },
-  {
     "repo": "leyn-pl/iconpicker",
     "internalName": "icon-picker",
     "name": "Icon Picker",
@@ -4268,6 +4254,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Serpulo Tweaks"
+  },
+  {
+    "repo": "dong-wo-long/sanabi-ost",
+    "internalName": "sanabi-ost",
+    "name": "SANABI ost",
+    "version": "v1.1.0",
+    "hidden": false,
+    "author": "D&X",
+    "lastUpdated": "2025-07-12T17:26:15Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes music files to tracks from the SANABI game (not a bad game, I advise you to take a closer look at it)"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -6186,5 +6186,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes all 'Sharded' units and blocks have ~0 HP"
+  },
+  {
+    "repo": "dong-wo-long/fear1-ost",
+    "internalName": "fear1-ost",
+    "name": "F.E.A.R. 1 ost",
+    "version": "v1.0.0",
+    "hidden": true,
+    "author": "D&X",
+    "lastUpdated": "2025-07-12T17:32:41Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The mod only replaces the in-game music, everything else remains unchanged."
   }
 ]
