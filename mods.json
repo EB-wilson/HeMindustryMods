@@ -2666,7 +2666,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "Astherive Team",
-    "lastUpdated": "2025-07-11T12:12:48Z",
+    "lastUpdated": "2025-07-13T00:39:10Z",
     "stars": 5,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -6200,5 +6200,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes all 'Sharded' units and blocks have ~0 HP"
+  },
+  {
+    "repo": "sputnuc/expansion-java",
+    "internalName": "expansion",
+    "name": "Expansion java",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Sputnuc",
+    "lastUpdated": "2025-07-12T21:28:52Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Recreation of my first mod"
   }
 ]
