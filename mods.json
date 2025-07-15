@@ -6,7 +6,7 @@
     "version": "2.0-alpha-35",
     "hidden": false,
     "author": "Yuria",
-    "lastUpdated": "2025-07-15T05:59:56Z",
+    "lastUpdated": "2025-07-15T12:06:01Z",
     "stars": 462,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2100,6 +2100,20 @@
     "description": "Survive on sand island and expand by placing land on water around "
   },
   {
+    "repo": "sputnuc/expansion",
+    "internalName": "expansion",
+    "name": "expansion",
+    "version": "3.86",
+    "hidden": false,
+    "author": "sputnuc",
+    "lastUpdated": "2025-07-10T18:56:18Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
+  },
+  {
     "repo": "new-guys5634/mechy-chaos",
     "internalName": " mech ",
     "name": "Combat Dustry",
@@ -2212,20 +2226,6 @@
     "description": "Fully unlocks all research on the research tree instantly"
   },
   {
-    "repo": "electricgun/video-to-logic",
-    "internalName": "v2logic",
-    "name": "Video to Logic",
-    "version": "1.07",
-    "hidden": true,
-    "author": "ElectricGun",
-    "lastUpdated": "2025-01-26T12:23:14Z",
-    "stars": 6,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
-  },
-  {
     "repo": "mitemi/blastanium",
     "internalName": "blastanium",
     "name": "Blastanium",
@@ -2296,20 +2296,6 @@
     "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch \r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
   },
   {
-    "repo": "sputnuc/expansion",
-    "internalName": "expansion",
-    "name": "expansion",
-    "version": "3.86",
-    "hidden": false,
-    "author": "sputnuc",
-    "lastUpdated": "2025-07-10T18:56:18Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2336,6 +2322,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Sandbox only for now. Plant mod. haha."
+  },
+  {
+    "repo": "electricgun/video-to-logic",
+    "internalName": "v2logic",
+    "name": "Video to Logic",
+    "version": "1.07",
+    "hidden": true,
+    "author": "ElectricGun",
+    "lastUpdated": "2025-07-15T11:23:30Z",
+    "stars": 6,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
   },
   {
     "repo": "obamination/minedustry",
