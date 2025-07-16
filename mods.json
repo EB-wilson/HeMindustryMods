@@ -1008,20 +1008,6 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
-    "repo": "minri2/itembridgex",
-    "internalName": "item-bridge-x",
-    "name": "ItemBridgeX",
-    "version": "2.5.0",
-    "hidden": true,
-    "author": "miner",
-    "lastUpdated": "2024-07-15T12:41:40Z",
-    "stars": 17,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This a mod that can show the hidden item of the item bridge."
-  },
-  {
     "repo": "lehanchic25/testplanetmindustry",
     "internalName": "test",
     "name": "Test",
@@ -1076,6 +1062,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
+  },
+  {
+    "repo": "minri2/itembridgex",
+    "internalName": "item-bridge-x",
+    "name": "ItemBridgeX",
+    "version": "2.6",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2025-07-16T03:57:20Z",
+    "stars": 17,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
     "repo": "mnemotechnician/new-controls-public",
@@ -2310,20 +2310,6 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "itskirby69/minedusty",
-    "internalName": "minedusty",
-    "name": "MineDusty",
-    "version": "b3",
-    "hidden": false,
-    "author": "[scarlet]ItsKirby",
-    "lastUpdated": "2025-07-14T22:13:32Z",
-    "stars": 6,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Sandbox only for now. Plant mod. haha."
-  },
-  {
     "repo": "electricgun/video-to-logic",
     "internalName": "v2logic",
     "name": "Video to Logic",
@@ -2336,6 +2322,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
+  },
+  {
+    "repo": "itskirby69/minedusty",
+    "internalName": "minedusty",
+    "name": "MineDusty",
+    "version": "b3",
+    "hidden": false,
+    "author": "[scarlet]ItsKirby",
+    "lastUpdated": "2025-07-16T03:52:16Z",
+    "stars": 6,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Sandbox only for now. Plant mod. haha."
   },
   {
     "repo": "obamination/minedustry",
@@ -3920,20 +3920,6 @@
     "description": "Adds a nice dialog, where you can copy any icon as mindustry chat emoji.\nIt can be found in game under quit button."
   },
   {
-    "repo": "minri2/contentseditor",
-    "internalName": "contents-editor",
-    "name": "ContentsEditor",
-    "version": "1.0",
-    "hidden": true,
-    "author": "minri2",
-    "lastUpdated": "2024-06-05T09:41:10Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
     "repo": "mimikyu99/implosion",
     "internalName": "implosion",
     "name": "Implosion",
@@ -4268,6 +4254,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes music files to tracks from the SANABI game (not a bad game, I advise you to take a closer look at it)"
+  },
+  {
+    "repo": "minri2/contentseditor",
+    "internalName": "contents-editor",
+    "name": "ContentsEditor",
+    "version": "1.2",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2025-07-16T04:10:01Z",
+    "stars": 2,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "teaeempire/gghv7",
