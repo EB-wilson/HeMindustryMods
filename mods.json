@@ -133,7 +133,7 @@
     "hidden": false,
     "author": "stabu, uujuju",
     "lastUpdated": "2025-07-12T01:05:44Z",
-    "stars": 117,
+    "stars": 118,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -801,10 +801,10 @@
     "repo": "uenhe/fire",
     "internalName": "fire",
     "name": "Fire",
-    "version": "1.4.4",
+    "version": "1.4.5",
     "hidden": false,
     "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
-    "lastUpdated": "2025-07-15T06:23:51Z",
+    "lastUpdated": "2025-07-16T06:51:13Z",
     "stars": 24,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -2310,20 +2310,6 @@
     "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
   },
   {
-    "repo": "itskirby69/minedusty",
-    "internalName": "minedusty",
-    "name": "MineDusty",
-    "version": "b3",
-    "hidden": false,
-    "author": "[scarlet]ItsKirby",
-    "lastUpdated": "2025-07-16T03:52:16Z",
-    "stars": 6,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Sandbox only for now. Plant mod. haha."
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2336,6 +2322,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "itskirby69/minedusty",
+    "internalName": "minedusty",
+    "name": "MineDusty",
+    "version": "b3",
+    "hidden": false,
+    "author": "[scarlet]ItsKirby",
+    "lastUpdated": "2025-07-16T07:25:46Z",
+    "stars": 6,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Sandbox only for now. Plant mod. haha."
   },
   {
     "repo": "obamination/minedustry",
@@ -5052,6 +5052,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Retextures the fire animation. Go to releases for different versons."
+  },
+  {
+    "repo": "chuvaak/futurehorizons",
+    "internalName": "futurehorizons",
+    "name": "Future Horizons",
+    "version": "3.85",
+    "hidden": false,
+    "author": "Chuvaak",
+    "lastUpdated": "2025-05-27T20:41:54Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
     "repo": "craftgenix1/purpleeye",
