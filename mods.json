@@ -6,7 +6,7 @@
     "version": "2.0-alpha-35",
     "hidden": false,
     "author": "Yuria",
-    "lastUpdated": "2025-07-18T11:24:29Z",
+    "lastUpdated": "2025-07-18T13:43:34Z",
     "stars": 464,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1014,7 +1014,7 @@
     "version": "v0.4",
     "hidden": false,
     "author": "[#ff]retodera[] - основатель мода и единственный работающий над ним\n\nА также благодарности:\n\nxDer - генератор идей\n\nПризрак - основатель сервера Дискорд\n\nnadocd - иногда помогает с кодом\n\ngkugfk3 - сделал саундтрек\n\nИ все, кто поставили звёздочку <3",
-    "lastUpdated": "2025-07-18T12:36:11Z",
+    "lastUpdated": "2025-07-18T13:42:08Z",
     "stars": 18,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -5082,20 +5082,6 @@
     "description": "WIP mindustry mod - Empty"
   },
   {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "version": "2.1.0",
-    "hidden": true,
-    "author": "Agzam4",
-    "lastUpdated": "2025-06-15T23:01:31Z",
-    "stars": 1,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "chinhonnang0000/intermod",
     "internalName": "intermod",
     "name": "intermod",
@@ -5150,6 +5136,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The mod only replaces the in-game music, everything else remains unchanged."
+  },
+  {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "version": "2.1.0",
+    "hidden": true,
+    "author": "Agzam4",
+    "lastUpdated": "2025-07-18T14:09:25Z",
+    "stars": 1,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
