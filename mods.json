@@ -532,6 +532,20 @@
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
+    "repo": "sublemon-team/subvoyage",
+    "internalName": "subvoyage",
+    "name": "Subvoyage",
+    "version": "0.6.2-beta",
+    "hidden": false,
+    "author": "Skoow, IriDark",
+    "lastUpdated": "2025-05-14T17:38:42Z",
+    "stars": 35,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquatic-stylized mod with new planet and unique mechanics"
+  },
+  {
     "repo": "rogeh4/virtual-scheme-pack-",
     "internalName": "v-scheme-pack",
     "name": "Virtual Scheme Pack",
@@ -544,20 +558,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
-  },
-  {
-    "repo": "sublemon-team/subvoyage",
-    "internalName": "subvoyage",
-    "name": "Subvoyage",
-    "version": "0.6.2-beta",
-    "hidden": false,
-    "author": "Skoow, IriDark",
-    "lastUpdated": "2025-05-14T17:38:42Z",
-    "stars": 34,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
     "repo": "uujuju1/steam-works",
@@ -3632,7 +3632,7 @@
     "version": "1.3.1",
     "hidden": false,
     "author": "Volproil",
-    "lastUpdated": "2025-07-19T20:16:21Z",
+    "lastUpdated": "2025-07-20T10:17:24Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -6174,20 +6174,6 @@
     "description": "Aerion mod was actually made before, but got abandoned, so that's just new version"
   },
   {
-    "repo": "kirillaldashkin/nohitmod",
-    "internalName": "nohit-challenge-mod",
-    "name": "No Hit Challenge",
-    "version": "",
-    "hidden": false,
-    "author": "nukleer",
-    "lastUpdated": "2025-07-11T14:53:21Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Makes all 'Sharded' units and blocks have ~0 HP"
-  },
-  {
     "repo": "sputnuc/expansion-java",
     "internalName": "expansion",
     "name": "Expansion java",
@@ -6228,5 +6214,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adding new turret tech and other bit \n-the mod is not fully done so there will be releases soon"
+  },
+  {
+    "repo": "kirillaldashkin/nohitmod",
+    "internalName": "nohit-challenge-mod",
+    "name": "No Hit Challenge",
+    "version": "",
+    "hidden": false,
+    "author": "nukleer",
+    "lastUpdated": "2025-07-20T09:19:14Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Makes all 'Sharded' units and blocks have ~0 HP"
   }
 ]
