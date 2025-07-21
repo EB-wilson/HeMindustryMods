@@ -3640,6 +3640,20 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "version": "149.0.3",
+    "hidden": true,
+    "author": "Agzam4",
+    "lastUpdated": "2025-07-20T20:23:10Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
+  },
+  {
     "repo": "wshon/mindustrytoolkit",
     "internalName": "toolkit",
     "name": "Toolkit V7",
@@ -4268,20 +4282,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "version": "149.0.3",
-    "hidden": true,
-    "author": "Agzam4",
-    "lastUpdated": "2025-07-20T20:23:10Z",
-    "stars": 2,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -5141,10 +5141,10 @@
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
-    "version": "4.2.0",
+    "version": "4.3.0",
     "hidden": true,
     "author": "Xpdustry",
-    "lastUpdated": "2025-07-20T20:30:27Z",
+    "lastUpdated": "2025-07-21T11:33:53Z",
     "stars": 1,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -6202,20 +6202,6 @@
     "description": "Provides custom mlog instructions for enhanced runtime checks in Mindustry Logic."
   },
   {
-    "repo": "bom-me/turret-tech-",
-    "internalName": "turret tech and other bit",
-    "name": "turret tech and other bit",
-    "version": "1",
-    "hidden": false,
-    "author": "boome",
-    "lastUpdated": "2025-07-17T08:21:07Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adding new turret tech and other bit \n-the mod is not fully done so there will be releases soon"
-  },
-  {
     "repo": "kirillaldashkin/nohitmod",
     "internalName": "nohit-challenge-mod",
     "name": "No Hit Challenge",
@@ -6228,5 +6214,33 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes all 'Sharded' units and blocks have ~0 HP"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.1.1",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2025-07-21T11:34:21Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "bom-me/turret-tech-",
+    "internalName": "turret tech and other bit",
+    "name": "turret tech and other bit",
+    "version": "1",
+    "hidden": false,
+    "author": "boome",
+    "lastUpdated": "2025-07-21T12:23:43Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adding new turret tech and other bit \n-the mod is not fully done so there will be releases soon"
   }
 ]
