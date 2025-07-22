@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria",
     "lastUpdated": "2025-07-18T14:27:42Z",
-    "stars": 464,
+    "stars": 465,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
@@ -63,7 +63,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2025-07-20T10:38:33Z",
-    "stars": 153,
+    "stars": 154,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
@@ -591,12 +591,12 @@
     "repo": "coaldeficit/moredefences",
     "internalName": "md3",
     "name": "MoreDefences",
-    "version": "3.0.4",
+    "version": "3.0.5",
     "hidden": false,
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-07-22T09:40:37Z",
+    "lastUpdated": "2025-07-22T12:16:19Z",
     "stars": 31,
-    "minGameVersion": "147",
+    "minGameVersion": "149",
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
@@ -3052,6 +3052,20 @@
     "description": "Add an admin button."
   },
   {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "version": "149.0.3",
+    "hidden": true,
+    "author": "Agzam4",
+    "lastUpdated": "2025-07-22T09:31:07Z",
+    "stars": 4,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
+  },
+  {
     "repo": "boolmano/bombermod",
     "internalName": "bombermod",
     "name": "Bombers mod",
@@ -3638,20 +3652,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "version": "149.0.3",
-    "hidden": true,
-    "author": "Agzam4",
-    "lastUpdated": "2025-07-22T09:31:07Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -5138,6 +5138,20 @@
     "description": "The mod only replaces the in-game music, everything else remains unchanged."
   },
   {
+    "repo": "bom-me/turret-tech-",
+    "internalName": "turret tech and other bit",
+    "name": "turret tech and other bit",
+    "version": "1",
+    "hidden": false,
+    "author": "boome",
+    "lastUpdated": "2025-07-21T12:23:43Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adding new turret tech and other bit \n-the mod is not fully done so there will be releases soon"
+  },
+  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -6214,20 +6228,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes all 'Sharded' units and blocks have ~0 HP"
-  },
-  {
-    "repo": "bom-me/turret-tech-",
-    "internalName": "turret tech and other bit",
-    "name": "turret tech and other bit",
-    "version": "1",
-    "hidden": false,
-    "author": "boome",
-    "lastUpdated": "2025-07-21T12:23:43Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adding new turret tech and other bit \n-the mod is not fully done so there will be releases soon"
   },
   {
     "repo": "designuel/mindustry-calamity-mod",
