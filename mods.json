@@ -594,7 +594,7 @@
     "version": "3.0.4",
     "hidden": false,
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-07-21T20:30:52Z",
+    "lastUpdated": "2025-07-22T01:01:59Z",
     "stars": 31,
     "minGameVersion": "147",
     "hasScripts": true,
@@ -6216,20 +6216,6 @@
     "description": "Makes all 'Sharded' units and blocks have ~0 HP"
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.1.1",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2025-07-21T11:34:21Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "bom-me/turret-tech-",
     "internalName": "turret tech and other bit",
     "name": "turret tech and other bit",
@@ -6256,5 +6242,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.1.1",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2025-07-21T22:54:40Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   }
 ]
