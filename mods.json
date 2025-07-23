@@ -213,10 +213,10 @@
     "repo": "blackdeluxecat/mi2-utilities-java",
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
-    "version": "1.9.2",
+    "version": "1.9.2c",
     "hidden": true,
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2025-07-21T15:29:15Z",
+    "lastUpdated": "2025-07-23T10:00:54Z",
     "stars": 82,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -6160,20 +6160,6 @@
     "description": "New campaign on a molten planet."
   },
   {
-    "repo": "zeefoe/gemini-translator",
-    "internalName": "gemini-translator",
-    "name": "Gemini Translator",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Zeefoe",
-    "lastUpdated": "2025-07-04T10:07:09Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Translates the chat using the Gemini API\n\nIt's free\n\nYou can get an api key here:\nhttps://aistudio.google.com/apikey\n \n \n \n \nicons will be added soon"
-  },
-  {
     "repo": "tafgo7162/aerion",
     "internalName": "aerion",
     "name": "Aerion",
@@ -6256,5 +6242,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "zeefoe/gemini-translator",
+    "internalName": "gemini-translator",
+    "name": "Gemini Translator",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Zeefoe",
+    "lastUpdated": "2025-07-23T10:17:54Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Translates the chat using the Gemini API\n\nIt's free\n\nYou can get an api key here:\nhttps://aistudio.google.com/apikey\n \n \n \n \nicons will be added soon"
   }
 ]
