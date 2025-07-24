@@ -146,7 +146,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-07-24T14:08:26Z",
+    "lastUpdated": "2025-07-24T17:07:00Z",
     "stars": 117,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -608,7 +608,7 @@
     "version": "3.0.6",
     "hidden": false,
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-07-24T11:36:13Z",
+    "lastUpdated": "2025-07-24T17:52:11Z",
     "stars": 31,
     "minGameVersion": "149",
     "hasScripts": true,
@@ -1238,7 +1238,7 @@
     "version": "1.3.8",
     "hidden": false,
     "author": "\nAuthor: \"[#ff6600]Vali#5378[]\"\nHelped with the code a bit: \"Fresh791\"\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\nPart time spriter: \"Abreaker\"\n",
-    "lastUpdated": "2025-07-23T19:37:13Z",
+    "lastUpdated": "2025-07-24T18:28:22Z",
     "stars": 14,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -1918,6 +1918,20 @@
     "description": "A mod that adds logic components to the game, such as logic gates, wires and more."
   },
   {
+    "repo": "new-guys5634/mechy-chaos",
+    "internalName": " mech ",
+    "name": "Combat Dustry",
+    "version": "1.2",
+    "hidden": false,
+    "author": "beee",
+    "lastUpdated": "2025-07-19T17:39:10Z",
+    "stars": 8,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "THE SECOND INSTALLMENT to the lore of the crux\n\n A mod that adds a new planet and it focuses on combat.\n\nA planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet but soon to discover this planet had been destroyed but what lives on this planet and why...\n\nShards: a strange mystic planet filled with snow and unnamed matter across its surface but deeper down the more crystal stone will be. beware that the surface is covered in slow pace purple like winds. \n\nkjol: a surging cold moon was the last history before the D##N#7# incident.\n\nMake sure to reinstall regular or your progression will be error\n\nEvents coming: [\n-waste land mode\n-rework units effects and descriptions\n-sector balances\n-halloween event soon!\n-christmas event soon \n-secret mode?\n]\nVengeance will happen"
+  },
+  {
     "repo": "reborntrack970/infinicampaign",
     "internalName": "inficamp",
     "name": "InfiniCampaign",
@@ -2112,20 +2126,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
-  },
-  {
-    "repo": "new-guys5634/mechy-chaos",
-    "internalName": " mech ",
-    "name": "Combat Dustry",
-    "version": "1.2",
-    "hidden": false,
-    "author": "beee",
-    "lastUpdated": "2025-07-19T17:39:10Z",
-    "stars": 7,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "THE SECOND INSTALLMENT to the lore of the crux\n\n A mod that adds a new planet and it focuses on combat.\n\nA planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet but soon to discover this planet had been destroyed but what lives on this planet and why...\n\nShards: a strange mystic planet filled with snow and unnamed matter across its surface but deeper down the more crystal stone will be. beware that the surface is covered in slow pace purple like winds. \n\nkjol: a surging cold moon was the last history before the D##N#7# incident.\n\nMake sure to reinstall regular or your progression will be error\n\nEvents coming: [\n-waste land mode\n-rework units effects and descriptions\n-sector balances\n-halloween event soon!\n-christmas event soon \n-secret mode?\n]\nVengeance will happen"
   },
   {
     "repo": "itskirby69/minedusty",
@@ -3058,7 +3058,7 @@
     "version": "150.0.0",
     "hidden": true,
     "author": "Agzam4",
-    "lastUpdated": "2025-07-24T10:22:31Z",
+    "lastUpdated": "2025-07-24T17:50:20Z",
     "stars": 4,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -6230,20 +6230,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.1.1",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2025-07-22T04:04:29Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "zeefoe/gemini-translator",
     "internalName": "gemini-translator",
     "name": "Gemini Translator",
@@ -6256,5 +6242,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Translates the chat using the Gemini API\n\nIt's free\n\nYou can get an api key here:\nhttps://aistudio.google.com/apikey\n \n \n \n \nicons will be added soon"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.1.1",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2025-07-24T18:06:12Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   }
 ]
