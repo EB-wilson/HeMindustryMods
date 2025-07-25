@@ -6202,20 +6202,6 @@
     "description": "Recreation of my first mod"
   },
   {
-    "repo": "cardillan/mlogassertions",
-    "internalName": "mlog-assertions-8",
-    "name": "Mlog Assertions (v8)",
-    "version": "0.3.0",
-    "hidden": false,
-    "author": "cardillan",
-    "lastUpdated": "2025-07-16T20:46:59Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides custom mlog instructions for enhanced runtime checks in Mindustry Logic."
-  },
-  {
     "repo": "kirillaldashkin/nohitmod",
     "internalName": "nohit-challenge-mod",
     "name": "No Hit Challenge",
@@ -6256,5 +6242,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "cardillan/mlogassertions",
+    "internalName": "mlog-assertions-8",
+    "name": "Mlog Assertions (v8)",
+    "version": "0.3.0",
+    "hidden": false,
+    "author": "cardillan",
+    "lastUpdated": "2025-07-25T20:45:00Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides custom mlog instructions for enhanced runtime checks in Mindustry Logic."
   }
 ]
