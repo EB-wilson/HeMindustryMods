@@ -77,7 +77,7 @@
     "hidden": true,
     "author": "[red]VN-[#ff6347]Sharrlotte[]",
     "lastUpdated": "2025-07-05T07:51:21Z",
-    "stars": 152,
+    "stars": 151,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -608,7 +608,7 @@
     "version": "3.0.6",
     "hidden": false,
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-07-25T11:03:17Z",
+    "lastUpdated": "2025-07-25T13:46:23Z",
     "stars": 31,
     "minGameVersion": "149",
     "hasScripts": true,
@@ -703,10 +703,10 @@
     "repo": "uenhe/fire",
     "internalName": "fire",
     "name": "Fire",
-    "version": "1.4.6",
+    "version": "1.4.7",
     "hidden": false,
     "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
-    "lastUpdated": "2025-07-25T12:40:42Z",
+    "lastUpdated": "2025-07-25T12:45:53Z",
     "stars": 26,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -5166,6 +5166,20 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2025-07-25T10:28:08Z",
+    "stars": 1,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
+  },
+  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -6216,20 +6230,6 @@
     "description": "Makes all 'Sharded' units and blocks have ~0 HP"
   },
   {
-    "repo": "designuel/mindustry-calamity-mod",
-    "internalName": "calamity",
-    "name": "Calamity",
-    "version": "v1.1.5",
-    "hidden": false,
-    "author": "-Undaria-",
-    "lastUpdated": "2025-07-21T21:38:35Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "zeefoe/gemini-translator",
     "internalName": "gemini-translator",
     "name": "Gemini Translator",
@@ -6256,19 +6256,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2025-07-25T10:28:08Z",
-    "stars": 0,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
   }
 ]
