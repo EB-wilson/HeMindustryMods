@@ -203,7 +203,7 @@
     "hidden": false,
     "author": "RA2",
     "lastUpdated": "2025-07-15T17:07:51Z",
-    "stars": 89,
+    "stars": 90,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -1904,6 +1904,20 @@
     "description": "Adds a few logic instructions. No other content for now."
   },
   {
+    "repo": "7003mars/pic2tri",
+    "internalName": "triangles",
+    "name": "PicToTri",
+    "version": "REPLACEME",
+    "hidden": true,
+    "author": "Mars#7003",
+    "lastUpdated": "2025-06-16T05:36:12Z",
+    "stars": 8,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
+  },
+  {
     "repo": "goobrr/esoterum-ii",
     "internalName": "eso",
     "name": "Esoterum II",
@@ -2084,20 +2098,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
-  },
-  {
-    "repo": "7003mars/pic2tri",
-    "internalName": "triangles",
-    "name": "PicToTri",
-    "version": "REPLACEME",
-    "hidden": true,
-    "author": "Mars#7003",
-    "lastUpdated": "2025-06-16T05:36:12Z",
-    "stars": 7,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a dialog for turning images into schematics"
   },
   {
     "repo": "fivedextor/axoxium",
