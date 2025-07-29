@@ -91,7 +91,7 @@
     "hidden": true,
     "author": "sk7725",
     "lastUpdated": "2024-07-25T09:11:47Z",
-    "stars": 144,
+    "stars": 145,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -672,6 +672,20 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "version": "beta-1.1",
+    "hidden": true,
+    "author": "EBwilson",
+    "lastUpdated": "2025-07-20T15:22:03Z",
+    "stars": 27,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
+  },
+  {
     "repo": "routerxdd/erekir-extended",
     "internalName": "erek",
     "name": "Erekir Extended",
@@ -684,20 +698,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Add the new sectors on Erekir"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "version": "beta-1.1",
-    "hidden": true,
-    "author": "EBwilson",
-    "lastUpdated": "2025-07-20T15:22:03Z",
-    "stars": 26,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
   },
   {
     "repo": "uenhe/fire",
@@ -1392,7 +1392,7 @@
     "version": "Lost Track?",
     "hidden": false,
     "author": "HungryCloud4913",
-    "lastUpdated": "2025-07-15T15:51:43Z",
+    "lastUpdated": "2025-07-29T12:34:28Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2632,20 +2632,6 @@
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
-    "repo": "jirocab/caster-ui-java",
-    "internalName": "caster-ui-java",
-    "name": "Caster User interface",
-    "version": "5.0",
-    "hidden": true,
-    "author": "RushieWashie, WMF Industries",
-    "lastUpdated": "2025-07-27T07:12:46Z",
-    "stars": 5,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
-  },
-  {
     "repo": "koctz34/minduntm",
     "internalName": "ntm",
     "name": "NTM - Nuclear tech mod",
@@ -2658,6 +2644,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Hbm's NTM (by Bobcat) in mindustry!\nMinecraft, Satisfactory, Rust, and other...\n\nOnly decor blocks\n\nDisable linear filtering in settings!"
+  },
+  {
+    "repo": "jirocab/caster-ui-java",
+    "internalName": "caster-ui-java",
+    "name": "Caster User interface",
+    "version": "5.0",
+    "hidden": true,
+    "author": "RushieWashie, WMF Industries",
+    "lastUpdated": "2025-07-29T10:52:20Z",
+    "stars": 5,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -3629,10 +3629,10 @@
     "repo": "5gamemaker/mindustrycoloredbridges",
     "internalName": "colored-bridges",
     "name": "Colored Bridges",
-    "version": "0.2",
+    "version": "0.3",
     "hidden": true,
     "author": "buj",
-    "lastUpdated": "2025-07-28T16:26:14Z",
+    "lastUpdated": "2025-07-29T11:35:49Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6284,5 +6284,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "联机mod，支持自定义frpc，目前仅支持Android aarch64(项目正在重构，暂时不支持Windows amd64)"
+  },
+  {
+    "repo": "firfaronde/mindustry-exit-mod",
+    "internalName": "exit",
+    "name": "Exit mod",
+    "version": "1.0",
+    "hidden": false,
+    "author": "firfaronde",
+    "lastUpdated": "2025-07-29T12:38:27Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Exit"
   }
 ]
