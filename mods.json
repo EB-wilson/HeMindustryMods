@@ -6216,20 +6216,6 @@
     "description": "Translates the chat using the Gemini API\n\nIt's free\n\nYou can get an api key here:\nhttps://aistudio.google.com/apikey\n \n \n \n \nicons will be added soon"
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.1.1",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2025-07-25T00:33:13Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "cardillan/mlogassertions",
     "internalName": "mlog-assertions-8",
     "name": "Mlog Assertions (v8)",
@@ -6284,5 +6270,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Exit"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.1.1",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2025-07-30T02:54:02Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   }
 ]
