@@ -525,7 +525,7 @@
     "hidden": false,
     "author": "Skoow, IriDark",
     "lastUpdated": "2025-05-14T17:38:42Z",
-    "stars": 36,
+    "stars": 37,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
@@ -2002,6 +2002,20 @@
     "description": "You on the Mars."
   },
   {
+    "repo": "mitemi/blastanium",
+    "internalName": "blastanium",
+    "name": "Blastanium",
+    "version": "1",
+    "hidden": false,
+    "author": "[lime]Mitemi\n\n[gray]Contributor:\n[#c4d4e0]N4H4N[lightgray], [cyan]Tikup[lightgray], [red]XSA",
+    "lastUpdated": "2025-02-18T16:21:20Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
+  },
+  {
     "repo": "arc0480/cookmod",
     "internalName": "cookmod",
     "name": "cookmod",
@@ -2224,20 +2238,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Fully unlocks all research on the research tree instantly"
-  },
-  {
-    "repo": "mitemi/blastanium",
-    "internalName": "blastanium",
-    "name": "Blastanium",
-    "version": "1",
-    "hidden": false,
-    "author": "[lime]Mitemi\n\n[gray]Contributor:\n[#c4d4e0]N4H4N[lightgray], [cyan]Tikup[lightgray], [red]XSA",
-    "lastUpdated": "2025-02-18T16:21:20Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
   },
   {
     "repo": "photon-gravity/enigmamindustrymod",
