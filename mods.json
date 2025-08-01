@@ -658,6 +658,20 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
+    "repo": "routerxdd/erekir-extended",
+    "internalName": "erek",
+    "name": "Erekir Extended",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "RouterXdd",
+    "lastUpdated": "2025-05-04T06:39:34Z",
+    "stars": 27,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add the new sectors on Erekir"
+  },
+  {
     "repo": "eb-wilson/helium",
     "internalName": "he",
     "name": "Helium",
@@ -670,20 +684,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
-  },
-  {
-    "repo": "routerxdd/erekir-extended",
-    "internalName": "erek",
-    "name": "Erekir Extended",
-    "version": "0.2.1",
-    "hidden": false,
-    "author": "RouterXdd",
-    "lastUpdated": "2025-05-04T06:39:34Z",
-    "stars": 26,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add the new sectors on Erekir"
   },
   {
     "repo": "uenhe/fire",
@@ -994,6 +994,20 @@
     "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
   },
   {
+    "repo": "echovespy/simplistic",
+    "internalName": "simplistic",
+    "name": "Simplistic - TexturePack",
+    "version": "0.12.0",
+    "hidden": true,
+    "author": "EchoVespy",
+    "lastUpdated": "2024-05-20T02:23:42Z",
+    "stars": 17,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
     "repo": "itzcraft/xanthia",
     "internalName": "xanthia-3",
     "name": "Xanthia",
@@ -1028,7 +1042,7 @@
     "version": "1.7.9",
     "hidden": false,
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2025-07-29T04:30:23Z",
+    "lastUpdated": "2025-08-01T14:41:34Z",
     "stars": 17,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1062,20 +1076,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Disables sectors being re-attacked."
-  },
-  {
-    "repo": "echovespy/simplistic",
-    "internalName": "simplistic",
-    "name": "Simplistic - TexturePack",
-    "version": "0.12.0",
-    "hidden": true,
-    "author": "EchoVespy",
-    "lastUpdated": "2024-05-20T02:23:42Z",
-    "stars": 16,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
     "repo": "thomasthings/xenacia",
@@ -1400,6 +1400,20 @@
     "description": "Stripped down version of the original mod. Contains only CLaJ and enlarged schematics."
   },
   {
+    "repo": "routerxdd/icicle-world",
+    "internalName": "icicle-world",
+    "name": "Buried in Ice",
+    "version": "alpha 0.9.4",
+    "hidden": false,
+    "author": "R.O.T.\nThanks yesC48 for normal english translation",
+    "lastUpdated": "2025-08-01T11:21:01Z",
+    "stars": 11,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds a new planet, where we will play in underground"
+  },
+  {
     "repo": "pointifix/autotranslate",
     "internalName": "auto-translate",
     "name": "AutoTranslate",
@@ -1566,20 +1580,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[white]This mindustry mod allows players to explore a planet named Greavar and defend against indigenous attacks while developing local minerals and researching technology.\n\n[gray]Language:\n[white]- 简体中文\n[white]- English [red](WIP)\n[white]- Français [red](WIP)\n[white]- Русский язык [red](WIP)\n\n[white]...check our GitHub repository for more info!\n\n[white]I am looking for volunteers who can translate this mod into his (or her) native language."
-  },
-  {
-    "repo": "routerxdd/icicle-world",
-    "internalName": "icicle-world",
-    "name": "Buried in Ice",
-    "version": "alpha 0.9.4",
-    "hidden": false,
-    "author": "R.O.T.\nThanks yesC48 for normal english translation",
-    "lastUpdated": "2025-08-01T11:21:01Z",
-    "stars": 10,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds a new planet, where we will play in underground"
   },
   {
     "repo": "slotterleet/hard-mode-mod",
@@ -2996,20 +2996,6 @@
     "description": "Added some useful map filters. \nAdded a powerful custom guide tool and advanced wave editor to map editor."
   },
   {
-    "repo": "mindustry-antigrief/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "version": "2.2",
-    "hidden": true,
-    "author": "io community",
-    "lastUpdated": "2025-07-20T12:54:22Z",
-    "stars": 4,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reduces desyncs & applies flood changes on join."
-  },
-  {
     "repo": "i-drink-gasoline/admin-button-2",
     "internalName": "admin-button-2",
     "name": "Admin Button 2",
@@ -3050,6 +3036,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Перевод мода Ntm\n\nБлагодарности:\nhacker_pentagon (Китайский Котик)\nKoctz34 (Ion - 7274, автор Оригинала)"
+  },
+  {
+    "repo": "mindustry-antigrief/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "version": "2.2.1",
+    "hidden": true,
+    "author": "io community",
+    "lastUpdated": "2025-08-01T16:16:47Z",
+    "stars": 4,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Improves your experience on the official io  Flood server."
   },
   {
     "repo": "boolmano/bombermod",
@@ -4732,6 +4732,20 @@
     "description": "Java Mod for synchronization (for now only schematics)."
   },
   {
+    "repo": "routerxdd/mechanicalwarfareport",
+    "internalName": "mechanical-warfare-revisit",
+    "name": "Forgotten Wartech",
+    "version": "1.5",
+    "hidden": false,
+    "author": "Port creator: RouterXdd/R.O.T. \nOG creators: JerichoFletcher and GlennFolker",
+    "lastUpdated": "2024-05-23T18:39:32Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Unofficial port of mod Mechanical Warfare"
+  },
+  {
     "repo": "studiosharded/distortion",
     "internalName": "",
     "name": "Distortion",
@@ -5486,20 +5500,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "chaos-contents."
-  },
-  {
-    "repo": "routerxdd/mechanicalwarfareport",
-    "internalName": "mechanical-warfare-revisit",
-    "name": "Forgotten Wartech",
-    "version": "1.5",
-    "hidden": false,
-    "author": "Port creator: RouterXdd/R.O.T. \nOG creators: JerichoFletcher and GlennFolker",
-    "lastUpdated": "2024-05-23T18:39:32Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Unofficial port of mod Mechanical Warfare"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
