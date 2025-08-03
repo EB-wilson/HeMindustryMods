@@ -62,7 +62,7 @@
     "version": "1.6.8",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2025-08-02T18:24:58Z",
+    "lastUpdated": "2025-08-03T14:07:49Z",
     "stars": 158,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3850,6 +3850,20 @@
     "description": "The first mod adding a global mindustry chat.\n\nTHIS MOD IS CURRENTLY IN THE BETA-STAGE! YOU CAN USE IT BUT EXPECT VARIOUS BUGS AND RAPID CHANGES!\nYou can see the roadmap in the \"TODO.md\" file on github!\n\nAccessing the chat ui:\nOn desktop, press the ` key on your keyboard, or use the gui buttons.\nOn mobile, press the \"Minchat\" button either in the main menu or in-game to do the same.\n\nThere are various tutorials that will guide you through the user interface of this mod."
   },
   {
+    "repo": "xenoforce/cores-anywhere",
+    "internalName": "cores-anywhere",
+    "name": "Cores Anywhere",
+    "version": "1.0.1",
+    "hidden": false,
+    "author": "Xeno",
+    "lastUpdated": "2024-01-28T10:14:41Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Build new Cores anywhere you like."
+  },
+  {
     "repo": "thesmal/starter-buffer",
     "internalName": "alpha buffer",
     "name": "STARTER-BUFFER",
@@ -4590,20 +4604,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Make all alloys/intermetallic directly mineable, currently only works on Serpulo and editor"
-  },
-  {
-    "repo": "xenoforce/cores-anywhere",
-    "internalName": "cores-anywhere",
-    "name": "Cores Anywhere",
-    "version": "1.0.1",
-    "hidden": false,
-    "author": "Xeno",
-    "lastUpdated": "2024-01-28T10:14:41Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Build new Cores anywhere you like."
   },
   {
     "repo": "leyn-pl/coreunitregen",
