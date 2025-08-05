@@ -6,7 +6,7 @@
     "version": "2.0-alpha-35",
     "hidden": false,
     "author": "Yuria",
-    "lastUpdated": "2025-08-02T14:36:06Z",
+    "lastUpdated": "2025-08-05T16:58:07Z",
     "stars": 473,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -868,6 +868,20 @@
     "description": "A Mod In Dev"
   },
   {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "alpha (build 3)",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2025-07-27T16:07:52Z",
+    "stars": 22,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
+  },
+  {
     "repo": "dong-wo-long/enhancementunits",
     "internalName": "enhancement-units",
     "name": "Enhancement Units",
@@ -894,20 +908,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "alpha (build 3)",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2025-07-27T16:07:52Z",
-    "stars": 21,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
   },
   {
     "repo": "retodera/technologium",
@@ -5250,6 +5250,20 @@
     "description": "adding new turret tech and other bit \n-the mod is not fully done so there will be releases soon"
   },
   {
+    "repo": "stabu-dev/thats-fire",
+    "internalName": "that'sfire",
+    "name": "That's Fire",
+    "version": "1.0",
+    "hidden": true,
+    "author": "stabu_",
+    "lastUpdated": "2025-08-03T21:20:12Z",
+    "stars": 1,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Makes fire pretty \n[gray](and blocky)"
+  },
+  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -6298,20 +6312,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Aims hosting matches on the client a bit better! "
-  },
-  {
-    "repo": "stabu-dev/thats-fire",
-    "internalName": "that'sfire",
-    "name": "That's Fire",
-    "version": "1.0",
-    "hidden": true,
-    "author": "stabu_",
-    "lastUpdated": "2025-08-03T21:20:12Z",
-    "stars": 0,
-    "minGameVersion": "150.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Makes fire pretty \n[gray](and blocky)"
   },
   {
     "repo": "xpdustry/slf4md",
