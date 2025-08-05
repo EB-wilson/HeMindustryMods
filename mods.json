@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria",
     "lastUpdated": "2025-08-05T16:58:07Z",
-    "stars": 473,
+    "stars": 474,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
@@ -1092,6 +1092,20 @@
     "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
   },
   {
+    "repo": "apszoldat/mindustrymappingutilities",
+    "internalName": "mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "1.8",
+    "hidden": true,
+    "author": "ApsZoldat",
+    "lastUpdated": "2025-04-13T16:23:03Z",
+    "stars": 16,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "yuria-shikibe/gameinfoimager",
     "internalName": "game-info-imager",
     "name": "Game Info Imager",
@@ -1118,20 +1132,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
-    "repo": "apszoldat/mindustrymappingutilities",
-    "internalName": "mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "1.8",
-    "hidden": true,
-    "author": "ApsZoldat",
-    "lastUpdated": "2025-04-13T16:23:03Z",
-    "stars": 15,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "meepoffaith/black-holes-library",
