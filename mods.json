@@ -1204,32 +1204,32 @@
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
-    "repo": "lysent/etigei-exile",
-    "internalName": "etigeox",
-    "name": "Etigei Exile",
-    "version": "2.1.7",
-    "hidden": false,
-    "author": "[lime]Mitemi[lightgray] & [cyan]Tikup",
-    "lastUpdated": "2025-08-05T01:32:34Z",
-    "stars": 14,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
-  },
-  {
     "repo": "valigaming15/pyra-erekir",
     "internalName": "pyra",
     "name": "Pyra Erekir",
     "version": "1.3.9",
     "hidden": false,
     "author": "\nAuthor: \"[#ff6600]Vali#5378[]\"\nHelped with the code a bit: \"Fresh791\"\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\nPart time spriter: \"Abreaker\"\n",
-    "lastUpdated": "2025-08-06T22:12:49Z",
+    "lastUpdated": "2025-08-06T22:46:46Z",
     "stars": 14,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factory\nNOT the most balanced"
+  },
+  {
+    "repo": "lysent/etigei-exile",
+    "internalName": "etigeox",
+    "name": "Etigei Exile",
+    "version": "2.1.7",
+    "hidden": false,
+    "author": "[lime]Mitemi[lightgray] & [cyan]Tikup",
+    "lastUpdated": "2025-08-06T22:46:58Z",
+    "stars": 14,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
   },
   {
     "repo": "seuearth/factroundustry",
@@ -5194,20 +5194,6 @@
     "description": "Makes all 'Sharded' units and blocks have ~0 HP"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.0",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2025-07-22T08:32:44Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "glino-mes/the-root-of-ruin",
     "internalName": "enigmatamod",
     "name": "Roots of Ruin",
@@ -5262,6 +5248,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Makes fire pretty \n[gray](and blocky)"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.0",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2025-08-07T00:07:48Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
