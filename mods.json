@@ -14,20 +14,6 @@
     "description": "ALPHA RELEASE FOR V8!!!"
   },
   {
-    "repo": "sk7725/betamindy",
-    "internalName": "betamindy",
-    "name": "BetaMindy",
-    "version": "1.1",
-    "hidden": false,
-    "author": "sk7725",
-    "lastUpdated": "2025-05-19T05:17:06Z",
-    "stars": 340,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first Java mod, has the same amount of chaotic energy of sk7725/Commandblocks."
-  },
-  {
     "repo": "xzxadixzx/scheme-size",
     "internalName": "scheme-size",
     "name": "Scheme Size",
@@ -54,6 +40,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "WARNING: Not supported on low-end devices.\n\nWorld logic contributed by Sh1penfire (@sh1penfire). Much thanks!\n\nAn attempt at an immersive content mod.\n\nHJSON at its core, Allure seeks to do what no other mod has ever done. With RTS-centered gameplay and a focus on combat diversity, this hardcore mod aims to put difficulty and replayability onto the table. Fight enemies as two factions, each with their own unique design and weapon trees. \nWage a new type of war on the existing planets, with much more simple yet dynamic balance of vanilla content. Does change vanilla ratios.\n\n!!! Allure isn't meant to be played with other mods! Expect balancing issues in a multi-mod playthrough. !!!\n\nThis mod may cause rage-quits and you may get stuck at any point in progression. Skill is required. Follow the tutorials provided.\n\nTHIS UPDATE IS STILL IN EARLY DEV - PLEASE DON'T MAKE BUG REPORTS"
+  },
+  {
+    "repo": "avantteam/projectunitypublic",
+    "internalName": "unity",
+    "name": "Project Unity",
+    "version": "0.2-youngcha.3.3",
+    "hidden": false,
+    "author": "Avant Team",
+    "lastUpdated": "2024-05-22T16:28:59Z",
+    "stars": 177,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
   },
   {
     "repo": "catana791/asthosus",
@@ -117,10 +117,10 @@
     "name": "Fading Revelations",
     "version": "2.3",
     "hidden": false,
-    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "author": "\nDevelopers\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
     "lastUpdated": "2025-04-10T05:40:40Z",
     "stars": 121,
-    "minGameVersion": "140",
+    "minGameVersion": "144.3",
     "hasScripts": true,
     "hasJava": false,
     "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
@@ -325,12 +325,12 @@
     "repo": "vvseangtvv/project-restoration",
     "internalName": "restored-mind",
     "name": "Project: Restoration",
-    "version": "0.4.0 Beta",
+    "version": "0.5.0 Beta",
     "hidden": false,
     "author": "VvSeanGtvV",
     "lastUpdated": "2025-07-27T01:53:02Z",
     "stars": 56,
-    "minGameVersion": "146",
+    "minGameVersion": "150",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
@@ -563,15 +563,15 @@
     "repo": "sh1penfire/meld",
     "internalName": "meld",
     "name": "Meld",
-    "version": "hjson beta",
+    "version": "",
     "hidden": false,
     "author": "Sh1penfire",
     "lastUpdated": "2025-08-02T05:01:09Z",
     "stars": 31,
-    "minGameVersion": "149",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]Campaign is a demo for what's to come. Refer to the custom game maps once you've finished.\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D\n\nAlternatively, join the Meld discord server!\nhttps://discord.gg/eNynvuJXud[]\n"
+    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
     "repo": "coaldeficit/moredefences",
@@ -591,15 +591,15 @@
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
     "name": "mod-tools",
-    "version": "1.5.6",
+    "version": "1.5.5",
     "hidden": true,
     "author": "I hope...",
     "lastUpdated": "2025-07-31T13:50:21Z",
     "stars": 30,
-    "minGameVersion": "147",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.6\n## Highlight\n- Added some new features.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.5\n## Highlight\n- Fixed a severe npe bug about data(settings) save.\n- Added a setting: force_language.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "way-zer/contentstweaker",
@@ -647,15 +647,15 @@
     "repo": "routerxdd/erekir-extended",
     "internalName": "erek",
     "name": "Erekir Extended",
-    "version": "0.3",
+    "version": "0.2.1",
     "hidden": false,
-    "author": "RouterXdd (R.O.T)",
+    "author": "RouterXdd",
     "lastUpdated": "2025-05-04T06:39:34Z",
     "stars": 27,
-    "minGameVersion": "140",
+    "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Add the new sectors and content on Erekir"
+    "description": "Add the new sectors on Erekir"
   },
   {
     "repo": "eb-wilson/helium",
@@ -815,7 +815,7 @@
     "repo": "eyeofdarkness/advance-lighting",
     "internalName": "advance-lighting",
     "name": "Advance lighting",
-    "version": "v1.5.5.1",
+    "version": "v1.5.4.0",
     "hidden": true,
     "author": "EoD",
     "lastUpdated": "2024-05-18T05:50:46Z",
@@ -829,7 +829,7 @@
     "repo": "electricgun/cheat-codes-mod",
     "internalName": "cheat-codes",
     "name": "Cheat Codes Mod",
-    "version": "1.71",
+    "version": "1.7",
     "hidden": true,
     "author": "electricgun",
     "lastUpdated": "2024-08-26T17:28:23Z",
@@ -882,20 +882,6 @@
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radii go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
-    "repo": "smolkeys/bundles",
-    "internalName": "bundles",
-    "name": "Bundles",
-    "version": "four dabloons",
-    "hidden": true,
-    "author": "SMOLKEYS",
-    "lastUpdated": "2025-02-10T11:33:46Z",
-    "stars": 21,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
-  },
-  {
     "repo": "xtarsagency/zeridmuth",
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
@@ -927,7 +913,7 @@
     "repo": "yaddrx2/yr2-logic-debugger",
     "internalName": "yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
-    "version": "1.7.1",
+    "version": "1.4.0",
     "hidden": true,
     "author": "原作者：DeltaNedas\n修改：yaddrx2",
     "lastUpdated": "2024-01-10T02:54:31Z",
@@ -935,7 +921,7 @@
     "minGameVersion": "137",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
+    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.4.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出"
   },
   {
     "repo": "saigon0nozomi/nightscape",
@@ -1414,20 +1400,6 @@
     "description": "Stripped down version of the original mod. Contains only CLaJ and enlarged schematics."
   },
   {
-    "repo": "newb7140/duomod",
-    "internalName": "duomod",
-    "name": "duomod",
-    "version": "1.14",
-    "hidden": false,
-    "author": "뉴B",
-    "lastUpdated": "2024-05-24T01:58:30Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
-  },
-  {
     "repo": "obsidan55/schempack400",
     "internalName": "shemepackbyobsidian",
     "name": "Schemepack 400+",
@@ -1472,7 +1444,7 @@
   {
     "repo": "jhrushbe/moardustry",
     "internalName": "moardustry",
-    "name": "MOARdustry (Deprecated)",
+    "name": "MOARdustry",
     "version": "0.10",
     "hidden": false,
     "author": "Jhrushbe",
@@ -1697,15 +1669,15 @@
     "repo": "spore-biometh-team/sandmod",
     "internalName": "sand",
     "name": "Greektech",
-    "version": "1.0.2",
+    "version": "1.0.1",
     "hidden": false,
     "author": "Watermocules",
     "lastUpdated": "2025-05-21T04:47:32Z",
     "stars": 9,
-    "minGameVersion": "148",
+    "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
+    "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
   },
   {
     "repo": "new-guys5634/mechy-chaos",
@@ -2285,12 +2257,12 @@
     "repo": "banananator/vanillaoverhaul",
     "internalName": "bettervanillamod",
     "name": "Vanilla Overhaul",
-    "version": "V9",
+    "version": "V8",
     "hidden": false,
     "author": "Banananator",
     "lastUpdated": "2025-04-21T09:06:14Z",
     "stars": 6,
-    "minGameVersion": "147",
+    "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "Better visuals? Not only that!"
@@ -2817,7 +2789,7 @@
     "repo": "krita-burstflakes/infinite-logics",
     "internalName": "infinite-logics",
     "name": "infinite/logics",
-    "version": "3",
+    "version": "1",
     "hidden": false,
     "author": "Krita",
     "lastUpdated": "2024-06-18T13:31:27Z",
@@ -3111,7 +3083,7 @@
     "repo": "sheptalo/ponchik-test",
     "internalName": "pon",
     "name": "ponchik",
-    "version": "1.1",
+    "version": "1.0",
     "hidden": "false",
     "author": "sheptalo",
     "lastUpdated": "2022-10-16T09:19:57Z",
@@ -3137,17 +3109,17 @@
   },
   {
     "repo": "cristian-blackture/acm",
-    "internalName": "",
-    "name": "Another Chaotic Mod",
-    "version": "2.103",
+    "internalName": "another chaotic mod",
+    "name": "ACM",
+    "version": "1.7",
     "hidden": false,
     "author": "Cristian BlackTure And Dom",
     "lastUpdated": "2023-01-12T08:00:20Z",
     "stars": 3,
-    "minGameVersion": "136",
+    "minGameVersion": "22902",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Added A LOT Of Stuff.\nImagine Amog Us. "
+    "description": "A simple mod. Adds A Drill And Conveyor.\nNew update made it lol "
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
@@ -4484,7 +4456,7 @@
     "internalName": "factory units",
     "name": "Factory units",
     "version": "1",
-    "hidden": true,
+    "hidden": false,
     "author": "Lehanchic25 ",
     "lastUpdated": "2023-03-20T15:23:27Z",
     "stars": 1,
@@ -4511,12 +4483,12 @@
     "repo": "theserjio/spritelesscringe",
     "internalName": "spriteless-cringe",
     "name": "Spriteless Cringe",
-    "version": "0.1",
+    "version": "1.0",
     "hidden": false,
-    "author": "The Serjio#3162",
+    "author": "You",
     "lastUpdated": "2023-04-27T22:33:52Z",
     "stars": 1,
-    "minGameVersion": "143",
+    "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
     "description": "Cringe with no new sprites"
@@ -4664,8 +4636,8 @@
   {
     "repo": "piggychu620/mindustrymineablealloys",
     "internalName": "ma620",
-    "name": "Mineable Alloys v1.3.1",
-    "version": "1.3.1",
+    "name": "Mineable Alloys v1.0",
+    "version": "1.0",
     "hidden": false,
     "author": "PiggyChu620",
     "lastUpdated": "2024-01-26T19:32:33Z",
@@ -4761,17 +4733,17 @@
   },
   {
     "repo": "coco-r38/simpledustry",
-    "internalName": "sd-texturepack",
-    "name": "Simpledustry",
+    "internalName": "sd-tp",
+    "name": "Simpledustry - Texturepack",
     "version": "1.5.0",
     "hidden": true,
-    "author": "CoCo Snow",
+    "author": "Yoru Kitsune",
     "lastUpdated": "2024-03-17T11:22:15Z",
     "stars": 1,
-    "minGameVersion": "146",
+    "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": false,
-    "description": "A mod, designed to simplify Mindustry.\n\nRecommended Settings:\nPower Laser Opacity: 100%\nBridge Opacity: 100%\nAnimated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
+    "description": "An under-development texture pack that simplifies Mindustry\n\nRecommended Settings:\nPower Laser Opacity: 100%\nBridge Opacity: 100%\nAnimated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
   },
   {
     "repo": "studiosharded/reunited",
@@ -5160,7 +5132,7 @@
     "author": "Eight Squared",
     "lastUpdated": "2025-05-14T14:12:06Z",
     "stars": 1,
-    "minGameVersion": "146",
+    "minGameVersion": "149",
     "hasScripts": false,
     "hasJava": false,
     "description": "Retextures the fire animation. Go to releases for different versons."
@@ -5405,8 +5377,8 @@
   },
   {
     "repo": "bndlett/custom-dagger-sounds",
-    "internalName": "sam-but-dagger",
-    "name": "Sam but dagger",
+    "internalName": "lorem ipsum",
+    "name": "custom-dagger-sounds",
     "version": "1.0",
     "hidden": false,
     "author": "BnDLett",
@@ -5415,7 +5387,7 @@
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod that adds custom hit-sounds to daggers."
+    "description": "Lorem ipsum"
   },
   {
     "repo": "deltav0/communistry",
@@ -5615,8 +5587,8 @@
   },
   {
     "repo": "darkmoon2003/awtd-mod",
-    "internalName": "factorys",
-    "name": "Factorys",
+    "internalName": "awtd mod",
+    "name": "AWTD-Mod",
     "version": "0.2",
     "hidden": true,
     "author": "Dark_Moon_a4",
@@ -5625,7 +5597,7 @@
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "\nFactory's Mod (Another Way To Develop)\n\n–Develops:\n*Farm Develop\n*Chemistry Develope\n\n"
+    "description": "\nAWTD Mod (Another Way To Develop)\n\n–Develops:\n*Farm Develop\n*Chemistry Develope\n\n"
   },
   {
     "repo": "goleks8/backdoor",
@@ -5654,6 +5626,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\r\nThis is Oluh Mod\r\nи так же дискорд https://discord.gg/SSNCxSzU5M\r\n"
+  },
+  {
+    "repo": "swirek3331/altanic",
+    "internalName": "altanic",
+    "name": "Altanic",
+    "version": "0.0.3",
+    "hidden": false,
+    "author": "Świrek",
+    "lastUpdated": "2024-06-17T19:18:28Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "What have you expected by downloading this?\n\nNo, seriously, what? I am curious."
   },
   {
     "repo": "jirocab/oldserpulolaunchcapacity",
@@ -6247,7 +6233,7 @@
     "repo": "eight-squared/iron-clouds",
     "internalName": "iron-clouds",
     "name": "Iron clouds",
-    "version": "110.build",
+    "version": "110",
     "hidden": false,
     "author": "Eight Squared",
     "lastUpdated": "2025-07-01T09:28:40Z",
@@ -6255,7 +6241,7 @@
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": false,
-    "description": "UNFINISHED 20% done Adds new campaign on a molten planet. Beware! The mod adds a lot of sprite changes to the vanilla content!"
+    "description": "New campaign on a molten planet."
   },
   {
     "repo": "tafgo7162/aerion",
@@ -6396,5 +6382,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "ymstrip/mindustry-stallar",
+    "internalName": "st",
+    "name": "Stellar",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Encog",
+    "lastUpdated": "2025-08-08T10:22:51Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n\n in dev...\n What these?\n- lots of factories\n- lots of turrets\n- quantum transport system\n- ...\n"
   }
 ]
