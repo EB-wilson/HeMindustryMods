@@ -854,20 +854,6 @@
     "description": "A Mod In Dev"
   },
   {
-    "repo": "electricgun/cheat-codes-mod",
-    "internalName": "cheat-codes",
-    "name": "Cheat Codes Mod",
-    "version": "1.7",
-    "hidden": true,
-    "author": "electricgun",
-    "lastUpdated": "2024-08-26T17:28:23Z",
-    "stars": 22,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Reworked for PC to be the same as mobile\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
-  },
-  {
     "repo": "nullotte/carpe-diem",
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
@@ -880,6 +866,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
+  },
+  {
+    "repo": "electricgun/cheat-codes-mod",
+    "internalName": "cheat-codes",
+    "name": "Cheat Codes Mod",
+    "version": "1.7",
+    "hidden": true,
+    "author": "electricgun",
+    "lastUpdated": "2025-08-09T13:36:17Z",
+    "stars": 22,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reworked for PC to be the same as mobile\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
     "repo": "dong-wo-long/enhancementunits",
@@ -1624,20 +1624,6 @@
     "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
   },
   {
-    "repo": "electricgun/toggle-editor-mode",
-    "internalName": "toggle-editor-mode",
-    "name": "Toggle Editor Mode",
-    "version": "3.0",
-    "hidden": true,
-    "author": "ElectricGun",
-    "lastUpdated": "2024-02-18T14:48:01Z",
-    "stars": 9,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
-  },
-  {
     "repo": "i-hope1/mod.make",
     "internalName": "mod make",
     "name": "mod.make",
@@ -1706,6 +1692,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Introduces a new planet alongside a wide variety of plant life!"
+  },
+  {
+    "repo": "electricgun/toggle-editor-mode",
+    "internalName": "toggle-editor-mode",
+    "name": "Toggle Editor Mode",
+    "version": "3.0",
+    "hidden": true,
+    "author": "ElectricGun",
+    "lastUpdated": "2025-08-09T13:47:05Z",
+    "stars": 9,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
   },
   {
     "repo": "liplum/bottledliquid",
@@ -2296,20 +2296,6 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "electricgun/video-to-logic",
-    "internalName": "v2logic",
-    "name": "Video to Logic",
-    "version": "1.07",
-    "hidden": true,
-    "author": "ElectricGun",
-    "lastUpdated": "2025-07-17T20:09:16Z",
-    "stars": 6,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
-  },
-  {
     "repo": "nezerit6/stuasut",
     "internalName": "stus",
     "name": "Stuasut",
@@ -2336,6 +2322,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch \r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
+  },
+  {
+    "repo": "electricgun/video-to-logic",
+    "internalName": "v2logic",
+    "name": "Video to Logic",
+    "version": "1.07",
+    "hidden": true,
+    "author": "ElectricGun",
+    "lastUpdated": "2025-08-09T13:41:40Z",
+    "stars": 6,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
   },
   {
     "repo": "obamination/minedustry",
@@ -5222,18 +5222,18 @@
     "description": "adding new turret tech and other bit \n-the mod is not fully done so there will be releases soon"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.0",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2025-08-07T05:09:11Z",
+    "repo": "appleee406/tonvara",
+    "internalName": "tonv",
+    "name": "Tonvara planet",
+    "version": "0.0",
+    "hidden": false,
+    "author": "[scarlet]appleee",
+    "lastUpdated": "2025-08-08T16:34:41Z",
     "stars": 1,
-    "minGameVersion": "149",
+    "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
+    "description": "New planet"
   },
   {
     "repo": "craftgenix1/purpleeye",
@@ -5248,6 +5248,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "WIP mindustry mod - Empty"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.0",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2025-08-09T13:04:40Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -6312,20 +6326,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n\n in dev...\n What these?\n- lots of factories\n- lots of turrets\n- quantum transport system\n- ...\n"
-  },
-  {
-    "repo": "appleee406/tonvara",
-    "internalName": "tonv",
-    "name": "Tonvara planet",
-    "version": "0.0",
-    "hidden": false,
-    "author": "[scarlet]appleee",
-    "lastUpdated": "2025-08-08T16:34:41Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "New planet"
   },
   {
     "repo": "xpdustry/slf4md",
