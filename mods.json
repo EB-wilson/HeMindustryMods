@@ -62,7 +62,7 @@
     "version": "v1.13.1",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-08-10T08:20:29Z",
+    "lastUpdated": "2025-08-10T09:52:28Z",
     "stars": 168,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2310,20 +2310,6 @@
     "description": "no"
   },
   {
-    "repo": "frilofril19/cobatstry",
-    "internalName": "cobatstry",
-    "name": "Cobatstry",
-    "version": "V0.9",
-    "hidden": false,
-    "author": "Frilofril",
-    "lastUpdated": "2025-08-08T12:40:35Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch \r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
-  },
-  {
     "repo": "electricgun/video-to-logic",
     "internalName": "v2logic",
     "name": "Video to Logic",
@@ -2336,6 +2322,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
+  },
+  {
+    "repo": "frilofril19/cobatstry",
+    "internalName": "cobatstry",
+    "name": "Cobatstry",
+    "version": "V0.9",
+    "hidden": false,
+    "author": "Frilofril",
+    "lastUpdated": "2025-08-10T09:13:49Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch \r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
   },
   {
     "repo": "obamination/minedustry",
@@ -3044,7 +3044,7 @@
     "version": "150.1.1",
     "hidden": true,
     "author": "Agzam4",
-    "lastUpdated": "2025-08-09T21:11:39Z",
+    "lastUpdated": "2025-08-10T08:47:29Z",
     "stars": 4,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -4018,20 +4018,6 @@
     "description": "NG mod"
   },
   {
-    "repo": "slashkig/testmod",
-    "internalName": "testmod",
-    "name": "Slashkig Test Mod",
-    "version": "1.3",
-    "hidden": false,
-    "author": "Slashkig",
-    "lastUpdated": "2024-10-06T01:48:42Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Test mod for Mindustry"
-  },
-  {
     "repo": "megalp/factory",
     "internalName": "factory",
     "name": "FACTORY",
@@ -4884,6 +4870,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new wall sizes to Serpulo! All existing types now include 3x3 and 4x4 variants. Erekir will be added later."
+  },
+  {
+    "repo": "slashkig/testmod",
+    "internalName": "testmod",
+    "name": "Slashkig Test Mod",
+    "version": "1.3",
+    "hidden": false,
+    "author": "Slashkig",
+    "lastUpdated": "2024-10-06T01:48:42Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Test mod for Mindustry"
   },
   {
     "repo": "xblade720/better-logic-blocks",
