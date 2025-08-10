@@ -6,7 +6,7 @@
     "version": "2.0-alpha-35",
     "hidden": false,
     "author": "Yuria",
-    "lastUpdated": "2025-08-10T06:26:58Z",
+    "lastUpdated": "2025-08-10T15:03:08Z",
     "stars": 475,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2492,20 +2492,6 @@
     "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
   },
   {
-    "repo": "miyohelper/enceladus",
-    "internalName": "enceladus",
-    "name": "Enceladus",
-    "version": "0.1.1",
-    "hidden": false,
-    "author": "MiyoTizen and his Team.\r\n  Миё и его команда.",
-    "lastUpdated": "2024-09-25T05:43:39Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Добавляет новую ледяную планету - Энцелад, со своими технологиями.\r\n Adds new icy planet - Encelad, with his own technologies."
-  },
-  {
     "repo": "sharlottes/mlogwatcher",
     "internalName": "mlogwatcher",
     "name": "MLogWatcher",
@@ -2868,6 +2854,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Nuclear production complex but all sector around it are on crack (literally)"
+  },
+  {
+    "repo": "miyohelper/enceladus",
+    "internalName": "enceladus",
+    "name": "Enceladus",
+    "version": "0.1.1",
+    "hidden": false,
+    "author": "MiyoTizen and his Team.\r\n  Миё и его команда.",
+    "lastUpdated": "2024-09-25T05:43:39Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Добавляет новую ледяную планету - Энцелад, со своими технологиями.\r\n Adds new icy planet - Encelad, with his own technologies."
   },
   {
     "repo": "votak2024/flesh-me",
