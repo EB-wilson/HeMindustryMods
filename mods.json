@@ -6,7 +6,7 @@
     "version": "2.0-alpha-35",
     "hidden": false,
     "author": "Yuria",
-    "lastUpdated": "2025-08-12T16:06:10Z",
+    "lastUpdated": "2025-08-12T17:23:57Z",
     "stars": 475,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -76,7 +76,7 @@
     "version": "1.7.0",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2025-08-12T03:18:43Z",
+    "lastUpdated": "2025-08-12T18:25:50Z",
     "stars": 161,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -378,6 +378,20 @@
     "description": "New guns, drills, crafting, materials and resourses"
   },
   {
+    "repo": "pixecoz/schematicspack",
+    "internalName": "schematics-pack",
+    "name": "Schematics Pack",
+    "version": "9.0",
+    "hidden": true,
+    "author": "pixecoz",
+    "lastUpdated": "2024-11-18T06:35:43Z",
+    "stars": 53,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
+  },
+  {
     "repo": "eb-wilson/toomanyitems",
     "internalName": "tmi",
     "name": "Too Many Items",
@@ -658,6 +672,20 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
+    "repo": "routerxdd/erekir-extended",
+    "internalName": "erek",
+    "name": "Erekir Extended",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "RouterXdd",
+    "lastUpdated": "2025-05-04T06:39:34Z",
+    "stars": 27,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add the new sectors on Erekir"
+  },
+  {
     "repo": "nullotte/dusted-lands",
     "internalName": "dusted-lands",
     "name": "Dusted Lands",
@@ -670,6 +698,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
+    "repo": "dong-wo-long/betterdustrymod",
+    "internalName": "bsm",
+    "name": "Betterustry Mod",
+    "version": "v1.0.0 beta",
+    "hidden": false,
+    "author": "D&X",
+    "lastUpdated": "2025-06-20T16:12:39Z",
+    "stars": 26,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
   },
   {
     "repo": "uenhe/fire",
@@ -1244,6 +1286,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Erekir mod moment"
+  },
+  {
+    "repo": "arksourcer/project-ark-public",
+    "internalName": "paradox",
+    "name": "Project Paradox [Alpha]",
+    "version": "v1.1-Alpha",
+    "hidden": false,
+    "author": "Arkanic)",
+    "lastUpdated": "2023-10-31T00:17:09Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "nemesistheory/odst-soundtracks",
@@ -2086,6 +2142,20 @@
     "description": "With this MOD you can make potatoes."
   },
   {
+    "repo": "silinveredno/music-remixes-pt-1",
+    "internalName": "music remixes pt-1",
+    "name": "Music remixes PT-1",
+    "version": "1.1",
+    "hidden": false,
+    "author": "DJ Silin, Crisps",
+    "lastUpdated": "2022-09-10T11:38:02Z",
+    "stars": 6,
+    "minGameVersion": "138.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds remixes to Mindustri tracks"
+  },
+  {
     "repo": "uujuju1/monolith",
     "internalName": "flow",
     "name": "Flow",
@@ -2098,6 +2168,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Stuff."
+  },
+  {
+    "repo": "purplesushi22/oh-no-random-pack",
+    "internalName": "depirativeohnov7",
+    "name": "Oh no & Negative Tails",
+    "version": "0.11",
+    "hidden": true,
+    "author": "PurpleSushi22",
+    "lastUpdated": "2023-02-19T08:54:31Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Oh No Language Edition\n\nauq3yb09e2b 3e2730v4r092ecrwiudwrhfu24n23yjm4y\n\nIt's a language... that's crigne. Ok?"
   },
   {
     "repo": "shimyytrov/turret-expansion",
@@ -2968,18 +3052,18 @@
     "description": "Mod adds bomber unit tree."
   },
   {
-    "repo": "mnemotechnician/ui-debugger",
-    "internalName": "ui-debugger",
-    "name": "UI Debugger",
-    "version": "v0.1.3",
-    "hidden": true,
-    "author": "Mnemotechnician",
-    "lastUpdated": "2022-10-06T14:39:52Z",
+    "repo": "sheptalo/ponchik-test",
+    "internalName": "pon",
+    "name": "ponchik",
+    "version": "1.0",
+    "hidden": "false",
+    "author": "sheptalo",
+    "lastUpdated": "2022-10-16T09:19:57Z",
     "stars": 3,
-    "minGameVersion": "139",
-    "hasScripts": false,
+    "minGameVersion": "137",
+    "hasScripts": true,
     "hasJava": true,
-    "description": "An advanced UI Debugger that lets you do various things,\nstarting from viewing the element bounds and ending with reflectively modifying the properties of every element.\n\nThis mod is unfinished and may contain some bugs or unfinished features.\n\nYou can access the menu of this mod by clicking the \"UI Debugger\" button in the main menu.\nYou can also view this menu in a separate window by clicking the respective button."
+    "description": "mod for doing chaotic things"
   },
   {
     "repo": "def-try/custommusic",
@@ -3542,6 +3626,20 @@
     "description": "frozen farlands mod except almost all of its textures are different\n\npls star twin\n\nfrozen farlands description:\n\n[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
+    "repo": "mnemotechnician/ui-debugger",
+    "internalName": "ui-debugger",
+    "name": "UI Debugger",
+    "version": "v0.1.3",
+    "hidden": true,
+    "author": "Mnemotechnician",
+    "lastUpdated": "2025-08-12T17:04:57Z",
+    "stars": 3,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An advanced UI Debugger that lets you do various things,\nstarting from viewing the element bounds and ending with reflectively modifying the properties of every element.\n\nThis mod is unfinished and may contain some bugs or unfinished features.\n\nYou can access the menu of this mod by clicking the \"UI Debugger\" button in the main menu.\nYou can also view this menu in a separate window by clicking the respective button."
+  },
+  {
     "repo": "mrcactiseed21/umod-mindustry",
     "internalName": "umod",
     "name": "umod",
@@ -4044,6 +4142,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Advanced Industry is a mod that expands and enhances the progression of Mindustry, bringing more powerful and efficient machines, turrets, and logistics without losing the game's balance."
+  },
+  {
+    "repo": "cubobuilder/utilmod",
+    "internalName": "some-utilmod",
+    "name": "SomeUtilMOD",
+    "version": "1.0",
+    "hidden": true,
+    "author": "amogus228",
+    "lastUpdated": "2025-05-24T11:07:30Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java util mod."
   },
   {
     "repo": "dusk-flare/industrialis",
