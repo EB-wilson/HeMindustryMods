@@ -258,7 +258,7 @@
     "version": "1.6 build 16",
     "hidden": true,
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2025-06-05T15:15:03Z",
+    "lastUpdated": "2025-08-13T09:36:27Z",
     "stars": 80,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -2316,7 +2316,7 @@
     "version": "V8",
     "hidden": false,
     "author": "Banananator",
-    "lastUpdated": "2025-08-13T08:23:55Z",
+    "lastUpdated": "2025-08-13T08:32:08Z",
     "stars": 6,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -2702,6 +2702,20 @@
     "description": "Observation is prohibited."
   },
   {
+    "repo": "cristian-blackture/acm",
+    "internalName": "another chaotic mod",
+    "name": "ACM",
+    "version": "1.7",
+    "hidden": false,
+    "author": "Cristian BlackTure And Dom",
+    "lastUpdated": "2023-01-12T08:00:20Z",
+    "stars": 4,
+    "minGameVersion": "22902",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod. Adds A Drill And Conveyor.\nNew update made it lol "
+  },
+  {
     "repo": "slotterleet/invasion-warning",
     "internalName": "invasion-warning",
     "name": "Invasion Warning",
@@ -3078,20 +3092,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds costom music  to mindustry gamemodes."
-  },
-  {
-    "repo": "cristian-blackture/acm",
-    "internalName": "another chaotic mod",
-    "name": "ACM",
-    "version": "1.7",
-    "hidden": false,
-    "author": "Cristian BlackTure And Dom",
-    "lastUpdated": "2023-01-12T08:00:20Z",
-    "stars": 3,
-    "minGameVersion": "22902",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod. Adds A Drill And Conveyor.\nNew update made it lol "
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
@@ -3584,20 +3584,6 @@
     "description": "A mod that colors the bridges"
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2025-07-31T12:58:24Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "grandendeavor100/stellar-interstice",
     "internalName": "stellarinterstice",
     "name": "Stellar Interstice",
@@ -3638,6 +3624,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An advanced UI Debugger that lets you do various things,\nstarting from viewing the element bounds and ending with reflectively modifying the properties of every element.\n\nThis mod is unfinished and may contain some bugs or unfinished features.\n\nYou can access the menu of this mod by clicking the \"UI Debugger\" button in the main menu.\nYou can also view this menu in a separate window by clicking the respective button."
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2025-08-13T09:09:58Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
     "repo": "mrcactiseed21/umod-mindustry",
