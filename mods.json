@@ -2316,7 +2316,7 @@
     "version": "V8",
     "hidden": false,
     "author": "Banananator",
-    "lastUpdated": "2025-08-13T06:29:46Z",
+    "lastUpdated": "2025-08-13T08:23:55Z",
     "stars": 6,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -3010,20 +3010,6 @@
     "description": "Перевод мода Ntm\n\nБлагодарности:\nhacker_pentagon (Китайский Котик)\nKoctz34 (Ion - 7274, автор Оригинала)"
   },
   {
-    "repo": "i-drink-gasoline/admin-button-2",
-    "internalName": "admin-button-2",
-    "name": "Admin Button 2",
-    "version": "10",
-    "hidden": true,
-    "author": "I drink gasoline",
-    "lastUpdated": "2025-08-06T14:14:56Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add an admin button."
-  },
-  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -3036,6 +3022,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Improves your experience on the official io  Flood server."
+  },
+  {
+    "repo": "i-drink-gasoline/admin-button-2",
+    "internalName": "admin-button-2",
+    "name": "Admin Button 2",
+    "version": "11",
+    "hidden": true,
+    "author": "I drink gasoline",
+    "lastUpdated": "2025-08-13T08:05:37Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add an admin button."
   },
   {
     "repo": "boolmano/bombermod",
