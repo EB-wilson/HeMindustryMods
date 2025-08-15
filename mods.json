@@ -6258,20 +6258,6 @@
     "description": "Make pretty screenshot for your logic."
   },
   {
-    "repo": "unknownobjectv2/camellia-music-sfx-pack",
-    "internalName": "mindustry-camellia-pack",
-    "name": "Camellia Music & SFX Pack",
-    "version": "0.1",
-    "hidden": true,
-    "author": "UnknownObjectV2",
-    "lastUpdated": "2025-08-14T13:17:36Z",
-    "stars": 0,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Music & SFX Pack"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -6284,5 +6270,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "unknownobjectv2/camellia-music-sfx-pack",
+    "internalName": "mindustry-camellia-pack",
+    "name": "Camellia Music & SFX Pack",
+    "version": "0.1",
+    "hidden": true,
+    "author": "UnknownObjectV2",
+    "lastUpdated": "2025-08-15T08:26:49Z",
+    "stars": 0,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Music & SFX Pack"
   }
 ]
