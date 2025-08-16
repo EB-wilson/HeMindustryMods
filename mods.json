@@ -1420,7 +1420,7 @@
     "version": "1.0.0",
     "hidden": false,
     "author": "[scarlet]ItsKirby",
-    "lastUpdated": "2025-08-14T18:09:00Z",
+    "lastUpdated": "2025-08-16T19:14:41Z",
     "stars": 11,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -3640,6 +3640,20 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
+    "repo": "bsp-2/echo-fleet",
+    "internalName": "echo-fleet",
+    "name": "Echo Fleet",
+    "version": "",
+    "hidden": false,
+    "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport",
+    "lastUpdated": "2025-08-16T19:35:25Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \nKaltos is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \nAetheria on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on Kaltos and Aetheria. \n\nThis mod is still in VERY early development, as of now it only adds a bunch of sandbox only blocks and environment tiles. Several maps have been made already, but will be added later, since they need other content from the mod finished.\n\nOther then that, the mod focuses on complex factories and refining Crude Oil. \n\nI re-used no content from vanilla, even though this mod seemingly has several things from it. \n\nCurrently the mod is way too early into development to have any proper translations. \n\nHave fun with whats already added, I guess. :)"
+  },
+  {
     "repo": "mrcactiseed21/umod-mindustry",
     "internalName": "umod",
     "name": "umod",
@@ -5222,6 +5236,20 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
+    "repo": "argon1321/simple-additions",
+    "internalName": "simple-additions",
+    "name": "Simple additions",
+    "version": "0.2",
+    "hidden": false,
+    "author": "argon1321",
+    "lastUpdated": "2025-08-16T18:42:58Z",
+    "stars": 1,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff"
+  },
+  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -6298,19 +6326,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "disable display of server URIs"
-  },
-  {
-    "repo": "argon1321/simple-additions",
-    "internalName": "simple-additions",
-    "name": "Simple additions",
-    "version": "0.2",
-    "hidden": false,
-    "author": "argon1321",
-    "lastUpdated": "2025-08-16T18:24:25Z",
-    "stars": 0,
-    "minGameVersion": "150.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff"
   }
 ]
