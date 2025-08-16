@@ -3850,20 +3850,6 @@
     "description": "Build new Cores anywhere you like."
   },
   {
-    "repo": "thesmal/starter-buffer",
-    "internalName": "alpha buffer",
-    "name": "STARTER-BUFFER",
-    "version": "4.0",
-    "hidden": false,
-    "author": "LittleBloo",
-    "lastUpdated": "2024-02-05T15:32:10Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Buffs the alpha unit so its better to stay on the shard core (smallest one),\nadds a ton of hp to the alpha,\nChanged bullet to fire bullet (shard core has alot of hp),\nmining speed, item capacity is also improved,\nHave a good day!\n\nit's my first mod\nMay have some bugs so please tell me any and also tell me code improvements :D\n\n"
-  },
-  {
     "repo": "lehanchic25/hidden-content",
     "internalName": "hid-cont",
     "name": "Hidden Content",
@@ -4282,6 +4268,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "этот мод добавит в игру новую планету и куча контента"
+  },
+  {
+    "repo": "thesmal/starter-buffer",
+    "internalName": "alpha buffer",
+    "name": "STARTER-BUFFER",
+    "version": "4.0",
+    "hidden": false,
+    "author": "LittleBloo",
+    "lastUpdated": "2025-08-16T08:21:48Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Buffs the alpha unit so its better to stay on the shard core (smallest one),\nadds a ton of hp to the alpha,\nChanged bullet to fire bullet (shard core has alot of hp),\nmining speed, item capacity is also improved,\nHave a good day!\n\nit's my first mod\nMay have some bugs so please tell me any and also tell me code improvements :D\n\n"
   },
   {
     "repo": "teaeempire/gghv7",
