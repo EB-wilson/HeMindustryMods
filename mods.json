@@ -77,7 +77,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2025-08-19T00:37:29Z",
-    "stars": 161,
+    "stars": 162,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
@@ -1042,7 +1042,7 @@
     "version": "V0.5",
     "hidden": false,
     "author": "[accent]Coders:[] Decaract, ItzCraft, Nahan\n\n[accent]Spriters:[] Decaract, Nahan\n\n[accent]Testers:[] DarkSniper, Nahan, ItzCraft, AnDashik\n\n[accent]Contributors:[] Arbuzer, Los Sasikos, AnDashik\n\n[accent]Translators:[] Kevin Vilyan, ItzCraft",
-    "lastUpdated": "2025-08-20T23:04:56Z",
+    "lastUpdated": "2025-08-21T05:56:39Z",
     "stars": 17,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5194,20 +5194,6 @@
     "description": "New planet"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.0",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2025-08-15T05:03:19Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "argon1321/simple-additions",
     "internalName": "simple-additions",
     "name": "Simple additions",
@@ -5234,6 +5220,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that reforged abilities."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.0",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2025-08-21T05:53:39Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -6300,20 +6300,6 @@
     "description": "disable display of server URIs"
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.1.1",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2025-08-18T21:39:42Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "zipcade/extreme-mods",
     "internalName": "extreme mods",
     "name": "Extreme Mods",
@@ -6326,5 +6312,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod to add real life things to the game"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.1.1",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2025-08-21T06:37:51Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   }
 ]
