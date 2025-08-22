@@ -566,7 +566,7 @@
     "version": "3.1.2",
     "hidden": false,
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-08-21T10:19:22Z",
+    "lastUpdated": "2025-08-22T20:20:18Z",
     "stars": 33,
     "minGameVersion": "150.1",
     "hasScripts": true,
@@ -3010,20 +3010,6 @@
     "description": "Перевод мода Ntm\n\nБлагодарности:\nhacker_pentagon (Китайский Котик)\nKoctz34 (Ion - 7274, автор Оригинала)"
   },
   {
-    "repo": "mindustry-antigrief/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "version": "2.2.3",
-    "hidden": true,
-    "author": "io community",
-    "lastUpdated": "2025-08-08T20:45:41Z",
-    "stars": 4,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Improves your experience on the official io  Flood server."
-  },
-  {
     "repo": "votak2024/rusted-company-0-0",
     "internalName": "rc",
     "name": "rusted company",
@@ -3078,6 +3064,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a liblary. Not playable mod."
+  },
+  {
+    "repo": "mindustry-antigrief/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "version": "2.3",
+    "hidden": true,
+    "author": "io community",
+    "lastUpdated": "2025-08-22T19:49:50Z",
+    "stars": 4,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Improves your experience on the official io  Flood server."
   },
   {
     "repo": "sheptalo/ponchik-test",
