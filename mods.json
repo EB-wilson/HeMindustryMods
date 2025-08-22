@@ -6,7 +6,7 @@
     "version": "2.0-alpha-35",
     "hidden": false,
     "author": "Yuria",
-    "lastUpdated": "2025-08-22T11:54:09Z",
+    "lastUpdated": "2025-08-22T12:43:44Z",
     "stars": 480,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2996,20 +2996,6 @@
     "description": "Added some useful map filters. \nAdded a powerful custom guide tool and advanced wave editor to map editor."
   },
   {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "version": "1.0.1",
-    "hidden": true,
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2025-07-27T09:47:47Z",
-    "stars": 4,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
-  },
-  {
     "repo": "kiwi-ustal/ntm-ru",
     "internalName": "ntm-ru",
     "name": "NTM - На русском",
@@ -3036,6 +3022,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Improves your experience on the official io  Flood server."
+  },
+  {
+    "repo": "votak2024/rusted-company-0-0",
+    "internalName": "rc",
+    "name": "rusted company",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Votak2024",
+    "lastUpdated": "2025-08-15T11:08:11Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "этот мод добавит в игру новую планету и куча контента"
   },
   {
     "repo": "i-drink-gasoline/admin-button-2",
@@ -3570,6 +3570,20 @@
     "description": ""
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "version": "1.0.1",
+    "hidden": true,
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2025-07-27T09:47:47Z",
+    "stars": 3,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
+  },
+  {
     "repo": "5gamemaker/mindustrycoloredbridges",
     "internalName": "colored-bridges",
     "name": "Colored Bridges",
@@ -3624,20 +3638,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
-    "repo": "votak2024/rusted-company-0-0",
-    "internalName": "rc",
-    "name": "rusted company",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Votak2024",
-    "lastUpdated": "2025-08-15T11:08:11Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "этот мод добавит в игру новую планету и куча контента"
   },
   {
     "repo": "bsp-2/echo-fleet",
@@ -4268,6 +4268,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "DISCLAIMER!!!: please use the install with version button and NOT the install button!!!! the version displayed is outdated majority of the time!!\n\nBuffs the Alpha and Evoke units so its better to stay on the Shard or Bastion core (smallest ones),\nAdds a TON of HP to the Alpha and Evoke,\nChanged bullet to Fire bullet for the Alpha (shard and bastion core has alot of hp),\nMining Speed, Item capacity is also Improved,\nHave a good day!\nthe Duo and Scatter turrets are also Buffed\nCopper walls are now the best defense in the game\nthe Mechanical Drill is also the best Drill and can mine anything\nand the Plasma Bore and Impact Drill has been buffed\nNormal Conveyors are also the best along with Ducts.\nMenders are WAAAAAAAAAAAAAAAAAAAAAY better than mend projectors now\n\nIt's my First Mod\nMay have some bugs so please tell me any and also tell me code improvements :D\n\nFeel free to use this as a base or reference for your mods. (maybe not base)"
+  },
+  {
+    "repo": "argon1321/simple-additions",
+    "internalName": "simple-additions",
+    "name": "Simple additions",
+    "version": "0.2",
+    "hidden": false,
+    "author": "argon1321",
+    "lastUpdated": "2025-08-16T18:42:58Z",
+    "stars": 2,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff"
   },
   {
     "repo": "darkjune0122/javelinunit",
@@ -5206,20 +5220,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "New planet"
-  },
-  {
-    "repo": "argon1321/simple-additions",
-    "internalName": "simple-additions",
-    "name": "Simple additions",
-    "version": "0.2",
-    "hidden": false,
-    "author": "argon1321",
-    "lastUpdated": "2025-08-16T18:42:58Z",
-    "stars": 1,
-    "minGameVersion": "150.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff"
   },
   {
     "repo": "xpdustry/kotlin-runtime",
