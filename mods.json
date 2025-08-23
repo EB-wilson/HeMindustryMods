@@ -2646,6 +2646,20 @@
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "version": "1.0",
+    "hidden": false,
+    "author": "ItzCraft \n also thanks to Sputnuc for AccelTurret code.",
+    "lastUpdated": "2025-08-23T12:15:43Z",
+    "stars": 5,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a liblary. Not playable mod."
+  },
+  {
     "repo": "konkitoman/speedctlman",
     "internalName": "speed-ctl-man",
     "name": "SpeedCtlMan",
@@ -3066,27 +3080,13 @@
     "description": "Improves your experience on the official io  Flood server."
   },
   {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "version": "1.0",
-    "hidden": false,
-    "author": "ItzCraft \n also thanks to Sputnuc for AccelTurret code.",
-    "lastUpdated": "2025-08-23T07:23:33Z",
-    "stars": 4,
-    "minGameVersion": "150.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a liblary. Not playable mod."
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
     "version": "0.3",
     "hidden": false,
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-08-23T10:13:31Z",
+    "lastUpdated": "2025-08-23T10:45:03Z",
     "stars": 4,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -3640,20 +3640,6 @@
     "description": "An advanced UI Debugger that lets you do various things,\nstarting from viewing the element bounds and ending with reflectively modifying the properties of every element.\n\nThis mod is unfinished and may contain some bugs or unfinished features.\n\nYou can access the menu of this mod by clicking the \"UI Debugger\" button in the main menu.\nYou can also view this menu in a separate window by clicking the respective button."
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2025-08-13T09:09:58Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "bsp-2/echo-fleet",
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
@@ -3666,6 +3652,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \nKaltos is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \nAetheria on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on Kaltos and Aetheria. \n\nThis mod is still in VERY early development, as of now it only adds a bunch of sandbox only blocks and environment tiles. Several maps have been made already, but will be added later, since they need other content from the mod finished.\n\nOther then that, the mod focuses on complex factories and refining Crude Oil. \n\nI re-used no content from vanilla, even though this mod seemingly has several things from it. \n\nCurrently the mod is way too early into development to have any proper translations. \n\nHave fun with whats already added, I guess. :)"
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2025-08-23T10:59:07Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
     "repo": "mrcactiseed21/umod-mindustry",
