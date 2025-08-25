@@ -6,7 +6,7 @@
     "version": "2.0-pre-beta-1",
     "hidden": false,
     "author": "Yuria",
-    "lastUpdated": "2025-08-25T12:39:46Z",
+    "lastUpdated": "2025-08-25T12:57:00Z",
     "stars": 480,
     "minGameVersion": "151",
     "hasScripts": false,
@@ -566,7 +566,7 @@
     "version": "3.1.2",
     "hidden": false,
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-08-22T20:50:38Z",
+    "lastUpdated": "2025-08-25T14:16:01Z",
     "stars": 33,
     "minGameVersion": "150.1",
     "hasScripts": true,
@@ -1862,20 +1862,6 @@
     "description": "Adds a few logic instructions. No other content for now."
   },
   {
-    "repo": "7003mars/pic2tri",
-    "internalName": "triangles",
-    "name": "PicToTri",
-    "version": "REPLACEME",
-    "hidden": true,
-    "author": "Mars#7003",
-    "lastUpdated": "2025-06-16T05:36:12Z",
-    "stars": 8,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a dialog for turning images into schematics"
-  },
-  {
     "repo": "goobrr/esoterum-ii",
     "internalName": "eso",
     "name": "Esoterum II",
@@ -2056,6 +2042,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
+  },
+  {
+    "repo": "7003mars/pic2tri",
+    "internalName": "triangles",
+    "name": "PicToTri",
+    "version": "REPLACEME",
+    "hidden": true,
+    "author": "Mars#7003",
+    "lastUpdated": "2025-06-16T05:36:12Z",
+    "stars": 7,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
   },
   {
     "repo": "fivedextor/axoxium",
@@ -3100,7 +3100,7 @@
     "version": "0.3",
     "hidden": false,
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-08-25T12:27:43Z",
+    "lastUpdated": "2025-08-25T13:02:45Z",
     "stars": 4,
     "minGameVersion": "150",
     "hasScripts": false,
