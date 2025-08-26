@@ -406,6 +406,20 @@
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "internalName": "fooinstaller",
+    "name": "Foo's Client Installer",
+    "version": "1.2.4",
+    "hidden": true,
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-11-08T23:31:31Z",
+    "stars": 52,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "meepoffaith/testing-utilities-java",
     "internalName": "test-utils",
     "name": "Testing Utilities",
@@ -418,20 +432,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "internalName": "fooinstaller",
-    "name": "Foo's Client Installer",
-    "version": "1.2.4",
-    "hidden": true,
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-11-08T23:31:31Z",
-    "stars": 51,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "flintyx/animalia",
@@ -1708,6 +1708,20 @@
     "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
   },
   {
+    "repo": "falkowitz/medieval-mindustry",
+    "internalName": "mm",
+    "name": "Medieval Mindustry",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Fitz",
+    "lastUpdated": "2025-08-13T16:29:16Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Total conversion PVP mod set in fantasy medieval times"
+  },
+  {
     "repo": "slava0135/refine",
     "internalName": "refine",
     "name": "reFine",
@@ -1888,20 +1902,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
-  },
-  {
-    "repo": "falkowitz/medieval-mindustry",
-    "internalName": "mm",
-    "name": "Medieval Mindustry",
-    "version": "0.1",
-    "hidden": false,
-    "author": "Fitz",
-    "lastUpdated": "2025-08-13T16:29:16Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Total conversion PVP mod set in fantasy medieval times"
   },
   {
     "repo": "froomeeth/serilias-discovery",
@@ -3100,7 +3100,7 @@
     "version": "0.3",
     "hidden": false,
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-08-26T15:57:41Z",
+    "lastUpdated": "2025-08-26T22:04:09Z",
     "stars": 4,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -4301,10 +4301,10 @@
     "repo": "caboosket/annoica",
     "internalName": "annoica",
     "name": "Annoica",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "hidden": false,
     "author": "Caboosket",
-    "lastUpdated": "2025-08-26T19:42:44Z",
+    "lastUpdated": "2025-08-26T22:10:11Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
