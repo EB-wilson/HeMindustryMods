@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria",
     "lastUpdated": "2025-08-26T06:28:05Z",
-    "stars": 481,
+    "stars": 482,
     "minGameVersion": "151",
     "hasScripts": false,
     "hasJava": true,
@@ -35,7 +35,7 @@
     "hidden": true,
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 214,
+    "stars": 215,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -2100,20 +2100,6 @@
     "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "version": "0.3.4",
-    "hidden": false,
-    "author": "Slashkig, IAmRustee, VoidThreader, Phil",
-    "lastUpdated": "2025-08-14T18:37:15Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
     "repo": "arc0480/cookmod",
     "internalName": "cookmod",
     "name": "cookmod",
@@ -2140,6 +2126,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a liblary. Not playable mod."
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "version": "0.3.4",
+    "hidden": false,
+    "author": "Slashkig, IAmRustee, VoidThreader, Phil",
+    "lastUpdated": "2025-08-27T12:33:08Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -2674,6 +2674,20 @@
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
+    "repo": "novanox4/astralis",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "version": "0.3",
+    "hidden": false,
+    "author": "NV-NX, Haznobrain",
+    "lastUpdated": "2025-08-27T12:23:52Z",
+    "stars": 5,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\n\nAstralis is a mod focused on adding a brand new campaign on a planet harboring the same name.\n\nSet in the same universe as Hell Industries (althought not as horribly painful), fight hordes of eldritch AND mechanical horrors alike with your own mechanical horrors!\nOverthrow a government, kill god and ravage an entire planet now! (or maybe when the mod is done)\n\nDifficulty: uhhh... it depends...\nContent: For now, quite a decent amount. A lot is in store for the future though :3\nSillyness: MAXIMUM\nEldritch Horrors: I'm just getting started!\nQuality: uhhh... it depends...\nBalancing: What even is that???????\n"
+  },
+  {
     "repo": "konkitoman/speedctlman",
     "internalName": "speed-ctl-man",
     "name": "SpeedCtlMan",
@@ -3092,20 +3106,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add an admin button."
-  },
-  {
-    "repo": "novanox4/astralis",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "version": "0.3",
-    "hidden": false,
-    "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-08-26T22:35:48Z",
-    "stars": 4,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\n\nAstralis is a mod focused on adding a brand new campaign on a planet harboring the same name.\n\nSet in the same universe as Hell Industries (althought not as horribly painful), fight hordes of eldritch AND mechanical horrors alike with your own mechanical horrors!\nOverthrow a government, kill god and ravage an entire planet now! (or maybe when the mod is done)\n\nDifficulty: uhhh... it depends...\nContent: For now, quite a decent amount. A lot is in store for the future though :3\nSillyness: MAXIMUM\nEldritch Horrors: I'm just getting started!\nQuality: uhhh... it depends...\nBalancing: What even is that???????\n"
   },
   {
     "repo": "def-try/custommusic",
@@ -3646,7 +3646,7 @@
     "version": "",
     "hidden": false,
     "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport",
-    "lastUpdated": "2025-08-27T02:16:06Z",
+    "lastUpdated": "2025-08-27T11:32:55Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
