@@ -1932,6 +1932,20 @@
     "description": "Mindustry modding utilities to make mod development easier."
   },
   {
+    "repo": "nannerbz/frires-json-library",
+    "internalName": "frires-json-lib",
+    "name": "FrireDragon's Json Lib",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Nannerbz / FrireDragon",
+    "lastUpdated": "2024-08-24T10:39:04Z",
+    "stars": 7,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
+  },
+  {
     "repo": "theserjio/advanceddatabase",
     "internalName": "advanced-database",
     "name": "Advanced DataBase",
@@ -2210,20 +2224,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
-  },
-  {
-    "repo": "nannerbz/frires-json-library",
-    "internalName": "frires-json-lib",
-    "name": "FrireDragon's Json Lib",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Nannerbz / FrireDragon",
-    "lastUpdated": "2024-08-24T10:39:04Z",
-    "stars": 6,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
   },
   {
     "repo": "laohuajiofficial/unitarsenal",
@@ -2680,7 +2680,7 @@
     "version": "0.3",
     "hidden": false,
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-08-28T20:11:04Z",
+    "lastUpdated": "2025-08-28T22:15:05Z",
     "stars": 5,
     "minGameVersion": "150",
     "hasScripts": false,
