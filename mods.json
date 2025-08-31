@@ -2694,7 +2694,7 @@
     "version": "0.3",
     "hidden": false,
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-08-30T15:25:46Z",
+    "lastUpdated": "2025-08-31T11:30:08Z",
     "stars": 5,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -3128,7 +3128,7 @@
     "version": "",
     "hidden": false,
     "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport",
-    "lastUpdated": "2025-08-31T09:17:37Z",
+    "lastUpdated": "2025-08-31T11:31:50Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5110,6 +5110,20 @@
     "description": "Adds some OST from Infinitode 2 and Portal Stories: Mel"
   },
   {
+    "repo": "m1cxzfw3q/baidunwang",
+    "internalName": "baidunwang",
+    "name": "百吨王",
+    "version": "1.0",
+    "hidden": "false;",
+    "author": "You",
+    "lastUpdated": "2025-05-11T07:11:50Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "唐B模组"
+  },
+  {
     "repo": "eight-squared/pretty-fire",
     "internalName": "pretty-fire",
     "name": "Pretty fire",
@@ -5264,20 +5278,6 @@
     "description": "New planet"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.0",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2025-08-21T05:53:39Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "forgestove/reforge",
     "internalName": "reforge",
     "name": "ReForge",
@@ -5304,6 +5304,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Music & SFX Pack"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.0",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2025-08-31T10:34:31Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
