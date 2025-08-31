@@ -1918,6 +1918,20 @@
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
+    "repo": "nannerbz/frires-json-library",
+    "internalName": "frires-json-lib",
+    "name": "FrireDragon's Json Lib",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Nannerbz / FrireDragon",
+    "lastUpdated": "2025-08-29T23:29:21Z",
+    "stars": 8,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
+  },
+  {
     "repo": "cyanide863/arikoth",
     "internalName": "arikoth",
     "name": "Arikoth",
@@ -2154,20 +2168,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
-    "repo": "nannerbz/frires-json-library",
-    "internalName": "frires-json-lib",
-    "name": "FrireDragon's Json Lib",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Nannerbz / FrireDragon",
-    "lastUpdated": "2025-08-29T23:29:21Z",
-    "stars": 7,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -2708,7 +2708,7 @@
     "version": "",
     "hidden": false,
     "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \n Music Composer - Ace1020spawn",
-    "lastUpdated": "2025-08-31T19:33:46Z",
+    "lastUpdated": "2025-08-31T21:35:20Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": false,
