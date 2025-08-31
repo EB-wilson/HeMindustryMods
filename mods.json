@@ -126,6 +126,20 @@
     "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
+    "repo": "3snake3/sapphirium",
+    "internalName": "sapphirium",
+    "name": "Sapphirium",
+    "version": "16.0",
+    "hidden": false,
+    "author": "Snake",
+    "lastUpdated": "2025-08-27T08:28:13Z",
+    "stars": 121,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
+  },
+  {
     "repo": "stabu-dev/omaloon",
     "internalName": "omaloon",
     "name": "Omaloon",
@@ -138,20 +152,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
-  },
-  {
-    "repo": "3snake3/sapphirium",
-    "internalName": "sapphirium",
-    "name": "Sapphirium",
-    "version": "16.0",
-    "hidden": false,
-    "author": "Snake",
-    "lastUpdated": "2025-08-27T08:28:13Z",
-    "stars": 120,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
   },
   {
     "repo": "eschatologue/unlimited-armament-works",
@@ -703,12 +703,12 @@
     "repo": "uenhe/fire",
     "internalName": "fire",
     "name": "Fire",
-    "version": "1.4.8",
+    "version": "1.4.9",
     "hidden": false,
     "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
-    "lastUpdated": "2025-08-24T07:41:19Z",
+    "lastUpdated": "2025-08-31T07:08:56Z",
     "stars": 27,
-    "minGameVersion": "150",
+    "minGameVersion": "151",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
@@ -860,7 +860,7 @@
     "version": "1.7",
     "hidden": true,
     "author": "electricgun",
-    "lastUpdated": "2025-08-12T13:50:31Z",
+    "lastUpdated": "2025-08-31T06:43:49Z",
     "stars": 23,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6034,20 +6034,6 @@
     "description": "Always Shows payload load/drop buttons regardless of units selected! \n Allows payload in waves!\n use releases for v7 version"
   },
   {
-    "repo": "cardillan/mlogassertions-7",
-    "internalName": "mlog-assertions-7",
-    "name": "Mlog Assertions (v7)",
-    "version": "0.3.0",
-    "hidden": false,
-    "author": "cardillan",
-    "lastUpdated": "2025-04-24T11:46:08Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides custom mlog instructions for enhanced runtime checks in Mindustry Logic."
-  },
-  {
     "repo": "cardillan/launchpads",
     "internalName": "launch-logic",
     "name": "Launch Logic",
@@ -6258,20 +6244,6 @@
     "description": "Translates the chat using the Gemini API\n\nIt's free\n\nYou can get an api key here:\nhttps://aistudio.google.com/apikey\n \n \n \n \nicons will be added soon"
   },
   {
-    "repo": "cardillan/mlogassertions",
-    "internalName": "mlog-assertions-8",
-    "name": "Mlog Assertions (v8)",
-    "version": "0.3.0",
-    "hidden": false,
-    "author": "cardillan",
-    "lastUpdated": "2025-07-25T20:45:00Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides custom mlog instructions for enhanced runtime checks in Mindustry Logic."
-  },
-  {
     "repo": "byzp/line",
     "internalName": "line",
     "name": "line",
@@ -6396,5 +6368,33 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "cardillan/mlogassertions",
+    "internalName": "mlog-assertions-8",
+    "name": "Mlog Assertions (v8)",
+    "version": "0.5.0",
+    "hidden": false,
+    "author": "cardillan",
+    "lastUpdated": "2025-08-31T07:47:53Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides tools for easier debugging in Mindustry Logic."
+  },
+  {
+    "repo": "cardillan/mlogassertions-7",
+    "internalName": "mlog-assertions-7",
+    "name": "Mlog Assertions (v7)",
+    "version": "0.5.0",
+    "hidden": false,
+    "author": "cardillan",
+    "lastUpdated": "2025-08-31T07:55:13Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides tools for easier debugging in Mindustry Logic."
   }
 ]
