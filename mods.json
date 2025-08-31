@@ -1392,7 +1392,7 @@
     "version": "1.0.0",
     "hidden": false,
     "author": "[scarlet]ItsKirby",
-    "lastUpdated": "2025-08-31T04:12:36Z",
+    "lastUpdated": "2025-08-31T05:23:47Z",
     "stars": 12,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1904,6 +1904,20 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "version": "1.11",
+    "hidden": false,
+    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
+    "lastUpdated": "2025-08-29T10:11:45Z",
+    "stars": 8,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
+  },
+  {
     "repo": "froomeeth/serilias-discovery",
     "internalName": "serilia",
     "name": "Serilia's Discovery",
@@ -2126,20 +2140,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "version": "1.11",
-    "hidden": false,
-    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
-    "lastUpdated": "2025-08-29T10:11:45Z",
-    "stars": 7,
-    "minGameVersion": "150.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "nannerbz/frires-json-library",
@@ -3640,20 +3640,6 @@
     "description": "An advanced UI Debugger that lets you do various things,\nstarting from viewing the element bounds and ending with reflectively modifying the properties of every element.\n\nThis mod is unfinished and may contain some bugs or unfinished features.\n\nYou can access the menu of this mod by clicking the \"UI Debugger\" button in the main menu.\nYou can also view this menu in a separate window by clicking the respective button."
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2025-08-30T01:53:47Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "grandendeavor100/stellar-interstice",
     "internalName": "stellarinterstice",
     "name": "Stellar Interstice",
@@ -3666,6 +3652,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "On a random day, all the civilizations joined forces to leave the dying state of the world in which they are inhabiting. They left in fleets of much grandeur and it was at that time when a vortex opened somewhere between the stars and they entered it where they had the encounter with the Beings. They acquired exotic technologies from them but little did they know that it was all part of a much greater story and that there was nothing random about that day. The Exotic technologies include: Bombs and Nukes Guided missile systems Power manipulation devices Unconventional weapon systems and much more."
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2025-08-31T05:16:21Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
     "repo": "mrcactiseed21/umod-mindustry",
