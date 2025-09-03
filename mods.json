@@ -1428,6 +1428,20 @@
     "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;\npink - сами увидите);"
   },
   {
+    "repo": "bsp-2/echo-fleet",
+    "internalName": "echo-fleet",
+    "name": "Echo Fleet",
+    "version": "",
+    "hidden": false,
+    "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \n Music Composer - Ace1020spawn",
+    "lastUpdated": "2025-09-03T09:43:43Z",
+    "stars": 11,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \nKaltos is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \nAetheria on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on Kaltos and Aetheria. \n\nThis mod is still in VERY early development, as of now it only adds a bunch of sandbox only blocks and environment tiles. Several maps have been made already, but will be added later, since they need other content from the mod finished.\n\nOther then that, the mod focuses on complex factories and refining Crude Oil. \n\nI re-used no content from vanilla, even though this mod seemingly has several things from it. \n\nCurrently the mod is way too early into development to have any proper translations. \n\nHave fun with whats already added, I guess. :)"
+  },
+  {
     "repo": "pointifix/autotranslate",
     "internalName": "auto-translate",
     "name": "AutoTranslate",
@@ -1594,20 +1608,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
-  },
-  {
-    "repo": "bsp-2/echo-fleet",
-    "internalName": "echo-fleet",
-    "name": "Echo Fleet",
-    "version": "",
-    "hidden": false,
-    "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \n Music Composer - Ace1020spawn",
-    "lastUpdated": "2025-09-03T09:43:43Z",
-    "stars": 10,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \nKaltos is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \nAetheria on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on Kaltos and Aetheria. \n\nThis mod is still in VERY early development, as of now it only adds a bunch of sandbox only blocks and environment tiles. Several maps have been made already, but will be added later, since they need other content from the mod finished.\n\nOther then that, the mod focuses on complex factories and refining Crude Oil. \n\nI re-used no content from vanilla, even though this mod seemingly has several things from it. \n\nCurrently the mod is way too early into development to have any proper translations. \n\nHave fun with whats already added, I guess. :)"
   },
   {
     "repo": "slotterleet/hard-mode-mod",
@@ -2708,7 +2708,7 @@
     "version": "0.3",
     "hidden": false,
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-09-01T15:37:47Z",
+    "lastUpdated": "2025-09-03T12:03:14Z",
     "stars": 5,
     "minGameVersion": "150",
     "hasScripts": false,
