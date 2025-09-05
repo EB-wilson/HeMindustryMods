@@ -406,6 +406,20 @@
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
+    "repo": "meepoffaith/testing-utilities-java",
+    "internalName": "test-utils",
+    "name": "Testing Utilities",
+    "version": "69.1",
+    "hidden": true,
+    "author": "MEEP of Faith",
+    "lastUpdated": "2025-08-03T08:39:42Z",
+    "stars": 53,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "internalName": "fooinstaller",
     "name": "Foo's Client Installer",
@@ -418,20 +432,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
-    "repo": "meepoffaith/testing-utilities-java",
-    "internalName": "test-utils",
-    "name": "Testing Utilities",
-    "version": "69.1",
-    "hidden": true,
-    "author": "MEEP of Faith",
-    "lastUpdated": "2025-08-03T08:39:42Z",
-    "stars": 52,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "flintyx/animalia",
@@ -3660,7 +3660,7 @@
     "version": "7.1.4",
     "hidden": true,
     "author": "Kevin Vilyan",
-    "lastUpdated": "2025-09-04T03:19:23Z",
+    "lastUpdated": "2025-09-05T12:11:22Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": true,
