@@ -217,7 +217,7 @@
     "hidden": true,
     "author": "BlackDeluxeCat",
     "lastUpdated": "2025-08-09T01:50:33Z",
-    "stars": 86,
+    "stars": 87,
     "minGameVersion": "150.1",
     "hasScripts": false,
     "hasJava": true,
@@ -300,7 +300,7 @@
     "version": "3.0",
     "hidden": "false",
     "author": "twcash",
-    "lastUpdated": "2025-09-05T17:16:09Z",
+    "lastUpdated": "2025-09-06T01:06:53Z",
     "stars": 65,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -4046,6 +4046,20 @@
     "description": "A simple mod. That will probably break around every corner. It'll be worked on infrequently, probably."
   },
   {
+    "repo": "dustdustry/junctionassistant",
+    "internalName": "junction-assistant",
+    "name": "Junction Assistant",
+    "version": "1.0",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2024-12-28T09:23:32Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "允许连接器寻路 [2]在传送带和连接器间替换成廉价的光传器件，可节省资源"
+  },
+  {
     "repo": "routerxdd/drift-units",
     "internalName": "drift",
     "name": "Drift units",
@@ -4912,20 +4926,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Мод от [purple]Ochpoch[green]maks"
-  },
-  {
-    "repo": "dustdustry/junctionassistant",
-    "internalName": "junction-assistant",
-    "name": "Junction Assistant",
-    "version": "1.0",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2024-12-28T09:23:32Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "允许连接器寻路 [2]在传送带和连接器间替换成廉价的光传器件，可节省资源"
   },
   {
     "repo": "routerxdd/decayintervention",
