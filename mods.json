@@ -62,7 +62,7 @@
     "version": "1.7.1",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2025-09-06T17:34:02Z",
+    "lastUpdated": "2025-09-07T15:20:14Z",
     "stars": 166,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -622,7 +622,7 @@
     "version": "",
     "hidden": false,
     "author": "Sh1penfire",
-    "lastUpdated": "2025-09-07T10:03:01Z",
+    "lastUpdated": "2025-09-07T15:38:52Z",
     "stars": 31,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1330,6 +1330,20 @@
     "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
   },
   {
+    "repo": "bsp-2/echo-fleet",
+    "internalName": "echo-fleet",
+    "name": "Echo Fleet",
+    "version": "",
+    "hidden": false,
+    "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \n Music Composer - Ace1020spawn",
+    "lastUpdated": "2025-09-07T15:23:16Z",
+    "stars": 13,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \nKaltos is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \nAetheria on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on Kaltos and Aetheria. \n\nThis mod is still in VERY early development, as of now it only adds a bunch of sandbox only blocks and environment tiles. Several maps have been made already, but will be added later, since they need other content from the mod finished.\n\nOther then that, the mod focuses on complex factories and refining Crude Oil. \n\nI re-used no content from vanilla, even though this mod seemingly has several things from it. \n\nCurrently the mod is way too early into development to have any proper translations. \n\nHave fun with whats already added, I guess. :)"
+  },
+  {
     "repo": "eclipse-04/avkott",
     "internalName": "avkott",
     "name": "Avkott",
@@ -1426,20 +1440,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;\npink - сами увидите);"
-  },
-  {
-    "repo": "bsp-2/echo-fleet",
-    "internalName": "echo-fleet",
-    "name": "Echo Fleet",
-    "version": "",
-    "hidden": false,
-    "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \n Music Composer - Ace1020spawn",
-    "lastUpdated": "2025-09-07T12:36:47Z",
-    "stars": 11,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \nKaltos is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \nAetheria on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on Kaltos and Aetheria. \n\nThis mod is still in VERY early development, as of now it only adds a bunch of sandbox only blocks and environment tiles. Several maps have been made already, but will be added later, since they need other content from the mod finished.\n\nOther then that, the mod focuses on complex factories and refining Crude Oil. \n\nI re-used no content from vanilla, even though this mod seemingly has several things from it. \n\nCurrently the mod is way too early into development to have any proper translations. \n\nHave fun with whats already added, I guess. :)"
   },
   {
     "repo": "pointifix/autotranslate",
@@ -3142,7 +3142,7 @@
     "version": "7.1.4",
     "hidden": true,
     "author": "Kevin Vilyan",
-    "lastUpdated": "2025-09-07T13:53:47Z",
+    "lastUpdated": "2025-09-07T16:11:19Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4298,20 +4298,6 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
-    "repo": "jirocab/yetanotherserpulorebalance",
-    "internalName": "yasr",
-    "name": "Yet another Serpulo Rebalance",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Rushie Washie, GooglyGoo",
-    "lastUpdated": "2025-09-05T06:03:19Z",
-    "stars": 2,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Serpulo Tweaks"
-  },
-  {
     "repo": "713712/scr",
     "internalName": "强化战役-再临",
     "name": "强化战役［SCR］",
@@ -4338,6 +4324,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "anotha planet mod\nsooooooooo\nconquest!!!\nand bring ur own music\n\n!! NOTICE:\nmajor credit to the creators of asthosus as i used the mod as a template/refrence for things\n!!"
+  },
+  {
+    "repo": "jirocab/yetanotherserpulorebalance",
+    "internalName": "yasr",
+    "name": "Yet another Serpulo Rebalance",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Rushie Washie, GooglyGoo",
+    "lastUpdated": "2025-09-07T16:00:13Z",
+    "stars": 2,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Serpulo Tweaks"
   },
   {
     "repo": "teaeempire/gghv7",
