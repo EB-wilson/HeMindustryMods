@@ -1736,6 +1736,20 @@
     "description": "Total conversion PVP mod set in fantasy medieval times"
   },
   {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "version": "1.11",
+    "hidden": false,
+    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
+    "lastUpdated": "2025-08-29T10:11:45Z",
+    "stars": 9,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
+  },
+  {
     "repo": "slava0135/refine",
     "internalName": "refine",
     "name": "reFine",
@@ -1916,20 +1930,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
-  },
-  {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "version": "1.11",
-    "hidden": false,
-    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
-    "lastUpdated": "2025-08-29T10:11:45Z",
-    "stars": 8,
-    "minGameVersion": "150.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "nannerbz/frires-json-library",
@@ -6382,5 +6382,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "typicaldeveloper123/biotic-zlo",
+    "internalName": "biotica",
+    "name": "Biotica",
+    "version": "1.0 beta1",
+    "hidden": false,
+    "author": "Citrine",
+    "lastUpdated": "2025-09-07T01:41:28Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An upcoming mod that has biotic life\n  "
   }
 ]
