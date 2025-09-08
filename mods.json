@@ -364,6 +364,20 @@
     "description": "A Mindustry mod library for JSON and Javascript mods,\nincluding A crafter that supporting multiple recipes for items, fluids, power, and heat production.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
+    "repo": "pixecoz/schematicspack",
+    "internalName": "schematics-pack",
+    "name": "Schematics Pack",
+    "version": "9.0",
+    "hidden": true,
+    "author": "pixecoz",
+    "lastUpdated": "2024-11-18T06:35:43Z",
+    "stars": 54,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
+  },
+  {
     "repo": "eb-wilson/toomanyitems",
     "internalName": "tmi",
     "name": "Too Many Items",
@@ -390,20 +404,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "New guns, drills, crafting, materials and resourses"
-  },
-  {
-    "repo": "pixecoz/schematicspack",
-    "internalName": "schematics-pack",
-    "name": "Schematics Pack",
-    "version": "9.0",
-    "hidden": true,
-    "author": "pixecoz",
-    "lastUpdated": "2024-11-18T06:35:43Z",
-    "stars": 53,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
     "repo": "meepoffaith/testing-utilities-java",
@@ -622,7 +622,7 @@
     "version": "",
     "hidden": false,
     "author": "Sh1penfire",
-    "lastUpdated": "2025-09-08T02:40:20Z",
+    "lastUpdated": "2025-09-08T07:16:26Z",
     "stars": 31,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4332,7 +4332,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "Rushie Washie, GooglyGoo",
-    "lastUpdated": "2025-09-08T05:25:42Z",
+    "lastUpdated": "2025-09-08T07:58:36Z",
     "stars": 2,
     "minGameVersion": "143.1",
     "hasScripts": true,
