@@ -300,7 +300,7 @@
     "version": "3.0",
     "hidden": "false",
     "author": "twcash",
-    "lastUpdated": "2025-09-09T22:46:54Z",
+    "lastUpdated": "2025-09-10T16:07:21Z",
     "stars": 66,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -1820,6 +1820,20 @@
     "description": "THE MAIN PLANET Nauvis IS STILL UNDER DEVELOPMENT, IT IS EXTREMELY NOT RECOMMENDED TO PLAY ON IT.\n\nFactorio in mindustry!\n\nIn this mod, almost all the content from the Factorio game will be transferred. You have to build a big factory... and launch a rocket! The mod is not in very active development, support is needed for the development of the mod.\n\nFor an atmospheric game, it is recommended to download factroundustry. Good luck with building the factory!"
   },
   {
+    "repo": "stormride-r/cruxscape-takeover",
+    "internalName": "cruxahh",
+    "name": "Cruxscape Takeover",
+    "version": "0031",
+    "hidden": false,
+    "author": "Stormrider",
+    "lastUpdated": "2024-09-17T06:27:57Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod that makes the Serpulo with every numbered sector replaced.(not now)"
+  },
+  {
     "repo": "p101q/snowdustry",
     "internalName": "snow",
     "name": "Snowydustry",
@@ -1846,6 +1860,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
+  },
+  {
+    "repo": "prosta4okua/ukrajinisator",
+    "internalName": "ukrainian-translation-mod",
+    "name": "Ukrainian translation",
+    "version": "7.0.1",
+    "hidden": false,
+    "author": "Prosta4ok_ua#6336",
+    "lastUpdated": "2025-02-20T22:11:53Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
   },
   {
     "repo": "7003mars/bridges",
@@ -2114,20 +2142,6 @@
     "description": "Survive on sand island and expand by placing land on water around "
   },
   {
-    "repo": "sputnuc/expansion",
-    "internalName": "expansion",
-    "name": "expansion",
-    "version": "3.86",
-    "hidden": false,
-    "author": "sputnuc",
-    "lastUpdated": "2025-07-10T18:56:18Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2154,6 +2168,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "With this MOD you can make potatoes."
+  },
+  {
+    "repo": "sputnuc/expansion",
+    "internalName": "exp",
+    "name": "Expansion mod",
+    "version": "5.3",
+    "hidden": false,
+    "author": "sputnuc",
+    "lastUpdated": "2025-09-10T16:00:28Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Является модом-расширением серпуло, также планируется эрекир контент. \nP.s Мой первый мод. \nПОСЛЕДНЯЯ ВЕРСИЯ НА HJSON, Я начинаю работать над Java версией этого мода"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -2840,6 +2868,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "adding best processors in sandbox"
+  },
+  {
+    "repo": "stabu-dev/schemeinspect",
+    "internalName": "scheminspect",
+    "name": "Schem Inspect",
+    "version": "0",
+    "hidden": true,
+    "author": "Goobrr, _StaBU_",
+    "lastUpdated": "2024-07-13T12:10:06Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Fork of the deleted Goober's modification with little upgrades and bug fixes."
   },
   {
     "repo": "chrono-heritage/moderndustry",
@@ -3750,6 +3792,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "С помощью этого мода можно сделать компактное создание юнитов с помощью свитков (пока что всё криво, скоро будет перевод на английский)"
+  },
+  {
+    "repo": "redstonneur1256/seamlessdisplays",
+    "internalName": "seamless-displays",
+    "name": "Seamless displays",
+    "version": "@version@",
+    "hidden": true,
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-04-17T13:38:01Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Removes logic display border and link them together"
   },
   {
     "repo": "vadit2020/betamindytranslated",
