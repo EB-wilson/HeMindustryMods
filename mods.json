@@ -2114,20 +2114,6 @@
     "description": "Adds a dialog for turning images into schematics"
   },
   {
-    "repo": "fivedextor/axoxium",
-    "internalName": "axoxium",
-    "name": "Axoxium",
-    "version": "0.3.1",
-    "hidden": false,
-    "author": "555okboi",
-    "lastUpdated": "2025-06-19T13:28:32Z",
-    "stars": 7,
-    "minGameVersion": "142",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A toxic planet mod that give big exploration to player.\nDon't recommend to play with other mod especially planet mod."
-  },
-  {
     "repo": "slava0135/seadustry",
     "internalName": "seadustry",
     "name": "Seadustry",
@@ -2182,6 +2168,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Является модом-расширением серпуло, также планируется эрекир контент. \nP.s Мой первый мод. \nПОСЛЕДНЯЯ ВЕРСИЯ НА HJSON, Я начинаю работать над Java версией этого мода"
+  },
+  {
+    "repo": "fivedextor/axoxium",
+    "internalName": "axoxium",
+    "name": "Axoxium",
+    "version": "0.3.1",
+    "hidden": false,
+    "author": "555okboi",
+    "lastUpdated": "2025-09-11T05:28:18Z",
+    "stars": 7,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A toxic planet mod that give big exploration to player.\nDon't recommend to play with other mod especially planet mod."
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -5306,20 +5306,6 @@
     "description": "Music & SFX Pack"
   },
   {
-    "repo": "typicaldeveloper123/biotic-zlo",
-    "internalName": "biotica",
-    "name": "Biotica",
-    "version": "1.0 beta1",
-    "hidden": false,
-    "author": "Citrine",
-    "lastUpdated": "2025-09-07T09:46:33Z",
-    "stars": 1,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An upcoming mod that has biotic life\n  "
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -5332,6 +5318,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "typicaldeveloper123/biotic-zlo",
+    "internalName": "biotica",
+    "name": "Biotica",
+    "version": "1.0 beta1",
+    "hidden": false,
+    "author": "Citrine",
+    "lastUpdated": "2025-09-11T06:03:33Z",
+    "stars": 1,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An upcoming mod that has biotic life\n  "
   },
   {
     "repo": "pasu4/ridiculously-oversized",
