@@ -1722,6 +1722,20 @@
     "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
   },
   {
+    "repo": "meepoffaith/additional-logistics",
+    "internalName": "tranqol",
+    "name": "Additional Logistics",
+    "version": "v8.1",
+    "hidden": false,
+    "author": "MEEPofFaith",
+    "lastUpdated": "2025-08-03T05:55:17Z",
+    "stars": 9,
+    "minGameVersion": "147.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A quality of life mod that adds useful blocks for transportation and logistics."
+  },
+  {
     "repo": "electricgun/toggle-editor-mode",
     "internalName": "toggle-editor-mode",
     "name": "Toggle Editor Mode",
@@ -1916,20 +1930,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds logic components to the game, such as logic gates, wires and more."
-  },
-  {
-    "repo": "meepoffaith/additional-logistics",
-    "internalName": "tranqol",
-    "name": "Additional Logistics",
-    "version": "v8.1",
-    "hidden": false,
-    "author": "MEEPofFaith",
-    "lastUpdated": "2025-08-03T05:55:17Z",
-    "stars": 8,
-    "minGameVersion": "147.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
     "repo": "nannerbz/frires-json-library",
@@ -5318,6 +5318,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "kashkinzey/cheatmindy",
+    "internalName": "kashkinzey_cheat",
+    "name": "Kashkinzey Cheat",
+    "version": "0.0.0.001",
+    "hidden": true,
+    "author": "Kashkinzey",
+    "lastUpdated": "2025-09-12T14:07:26Z",
+    "stars": 1,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The best cheat mod for mindustry. Adds a button to change the rules of the game in all game modes and automatically unlocks all research. Want to see the new features? Message me on GitHub. In the future, I will add settings to disable many features, and you'll find out more on GitHub."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
