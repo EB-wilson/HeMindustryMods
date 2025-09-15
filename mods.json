@@ -300,7 +300,7 @@
     "version": "3.0",
     "hidden": "false",
     "author": "twcash",
-    "lastUpdated": "2025-09-15T03:51:52Z",
+    "lastUpdated": "2025-09-15T19:59:33Z",
     "stars": 67,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -6454,20 +6454,6 @@
     "description": "not yet."
   },
   {
-    "repo": "urij19cc7e4/machindustry",
-    "internalName": "machindustry",
-    "name": "Machindustry",
-    "version": "1.0",
-    "hidden": true,
-    "author": "[gold]Urij[]",
-    "lastUpdated": "2025-09-15T12:01:02Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. It is not intended for mobile devices.\n\nThe following features are currently implemented:\n– Finding path for items\n– Finding path for liquids\n– Finding path for beam nodes\n– Connecting turbine condensers in the map area to the main power net[]\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. Он не предназначен для мобильных устройств.\n\nВ данный момент реализованы следующие возможности:\n– Построение маршрута для предметов\n– Построение маршрута для жидкостей\n– Построение маршрута для лучевых узлов\n– Присоединение жерловых конденсаторов в области карты к основной энергетической сети[]"
-  },
-  {
     "repo": "wmf-industries/extremity",
     "internalName": "extremity",
     "name": "Extremity",
@@ -6480,5 +6466,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
+  },
+  {
+    "repo": "urij19cc7e4/machindustry",
+    "internalName": "machindustry",
+    "name": "Machindustry",
+    "version": "1.0",
+    "hidden": true,
+    "author": "[gold]Urij[]",
+    "lastUpdated": "2025-09-15T18:48:24Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. It is not intended for mobile devices.\n\nThe following features are currently implemented:\n– Finding path for items\n– Finding path for liquids\n– Finding path for beam nodes\n– Connecting turbine condensers in the map area to the main power net[]\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. Он не предназначен для мобильных устройств.\n\nВ данный момент реализованы следующие возможности:\n– Построение маршрута для предметов\n– Построение маршрута для жидкостей\n– Построение маршрута для лучевых узлов\n– Присоединение жерловых конденсаторов в области карты к основной энергетической сети[]"
   }
 ]
