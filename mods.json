@@ -846,7 +846,7 @@
     "version": "0.1.9.7",
     "hidden": false,
     "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings, TB1, FrireDragon, EyeOfDarkness \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke, EyeOfDarkness \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2025-09-15T14:14:04Z",
+    "lastUpdated": "2025-09-16T12:28:42Z",
     "stars": 24,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -1946,20 +1946,6 @@
     "description": "A mod that adds logic components to the game, such as logic gates, wires and more."
   },
   {
-    "repo": "nannerbz/frires-json-library",
-    "internalName": "frires-json-lib",
-    "name": "FrireDragon's Json Lib",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Nannerbz / FrireDragon",
-    "lastUpdated": "2025-08-29T23:29:21Z",
-    "stars": 8,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
-  },
-  {
     "repo": "cyanide863/arikoth",
     "internalName": "arikoth",
     "name": "Arikoth",
@@ -1972,6 +1958,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Arikoth mod, wip."
+  },
+  {
+    "repo": "nannerbz/frires-json-library",
+    "internalName": "frires-json-lib",
+    "name": "FrireDragon's Json Lib",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Nannerbz / FrireDragon",
+    "lastUpdated": "2025-09-16T12:38:37Z",
+    "stars": 8,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
   },
   {
     "repo": "reborntrack970/infinicampaign",
@@ -3181,10 +3181,10 @@
     "repo": "i-drink-gasoline/admin-button-2",
     "internalName": "admin-button-2",
     "name": "Admin Button 2",
-    "version": "16.1",
+    "version": "17",
     "hidden": true,
     "author": "I drink gasoline",
-    "lastUpdated": "2025-09-11T13:55:03Z",
+    "lastUpdated": "2025-09-16T12:00:22Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
