@@ -644,6 +644,20 @@
     "description": "Dynamic load custom contents patch account to server"
   },
   {
+    "repo": "haznobrain/erekir-liquefied",
+    "internalName": "erekirliquefied",
+    "name": "Erekir Liquefied",
+    "version": "0.2",
+    "hidden": false,
+    "author": "Haznobrain",
+    "lastUpdated": "2025-08-16T00:01:57Z",
+    "stars": 29,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
+  },
+  {
     "repo": "dong-wo-long/betterdustrymod",
     "internalName": "bsm",
     "name": "Betterustry Mod",
@@ -656,20 +670,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
-  },
-  {
-    "repo": "haznobrain/erekir-liquefied",
-    "internalName": "erekirliquefied",
-    "name": "Erekir Liquefied",
-    "version": "0.2",
-    "hidden": false,
-    "author": "Haznobrain",
-    "lastUpdated": "2025-08-16T00:01:57Z",
-    "stars": 28,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
   },
   {
     "repo": "zelaux/bytelogicmod",
@@ -846,7 +846,7 @@
     "version": "0.1.9.7",
     "hidden": false,
     "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings, TB1, FrireDragon, EyeOfDarkness \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke, EyeOfDarkness \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2025-09-16T20:23:17Z",
+    "lastUpdated": "2025-09-17T11:33:57Z",
     "stars": 24,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -4410,20 +4410,6 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
-    "repo": "urij19cc7e4/machindustry",
-    "internalName": "machindustry",
-    "name": "Machindustry",
-    "version": "1.0",
-    "hidden": true,
-    "author": "[gold]Urij[]",
-    "lastUpdated": "2025-09-15T20:48:47Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. It is not intended for mobile devices.\n\nThe following features are currently implemented:\n– Finding path for items\n– Finding path for liquids\n– Finding path for beam nodes\n– Connecting turbine condensers in the map area to the main power net[]\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. Он не предназначен для мобильных устройств.\n\nВ данный момент реализованы следующие возможности:\n– Построение маршрута для предметов\n– Построение маршрута для жидкостей\n– Построение маршрута для лучевых узлов\n– Присоединение жерловых конденсаторов в области карты к основной энергетической сети[]"
-  },
-  {
     "repo": "jirocab/yetanotherserpulorebalance",
     "internalName": "yasr",
     "name": "Yet another Serpulo Rebalance",
@@ -4436,6 +4422,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Serpulo Tweaks"
+  },
+  {
+    "repo": "urij19cc7e4/machindustry",
+    "internalName": "machindustry",
+    "name": "Machindustry",
+    "version": "1.0",
+    "hidden": true,
+    "author": "[gold]Urij[]",
+    "lastUpdated": "2025-09-17T10:55:16Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. It is not intended for mobile devices.\n\nThe following features are currently implemented:\n– Finding path for items\n– Finding path for liquids\n– Finding path for beam nodes\n– Connecting turbine condensers in the map area to the main power net[]\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. Он не предназначен для мобильных устройств.\n\nВ данный момент реализованы следующие возможности:\n– Построение маршрута для предметов\n– Построение маршрута для жидкостей\n– Построение маршрута для лучевых узлов\n– Присоединение жерловых конденсаторов в области карты к основной энергетической сети[]"
   },
   {
     "repo": "teaeempire/gghv7",
