@@ -4410,20 +4410,6 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
-    "repo": "jirocab/yetanotherserpulorebalance",
-    "internalName": "yasr",
-    "name": "Yet another Serpulo Rebalance",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Rushie Washie, GooglyGoo",
-    "lastUpdated": "2025-09-16T02:11:11Z",
-    "stars": 2,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Serpulo Tweaks"
-  },
-  {
     "repo": "sputnuc/expansion-java",
     "internalName": "expansion",
     "name": "Expansion java",
@@ -4436,6 +4422,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Recreation of my first mod"
+  },
+  {
+    "repo": "jirocab/yetanotherserpulorebalance",
+    "internalName": "yasr",
+    "name": "Yet another Serpulo Rebalance",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Rushie Washie, GooglyGoo",
+    "lastUpdated": "2025-09-18T05:53:58Z",
+    "stars": 2,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Serpulo Tweaks"
   },
   {
     "repo": "teaeempire/gghv7",
