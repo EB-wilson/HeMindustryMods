@@ -483,7 +483,7 @@
     "hidden": true,
     "author": "Pointifix",
     "lastUpdated": "2025-03-14T15:59:32Z",
-    "stars": 42,
+    "stars": 43,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -622,8 +622,8 @@
     "version": "",
     "hidden": false,
     "author": "Sh1penfire",
-    "lastUpdated": "2025-09-13T18:57:06Z",
-    "stars": 31,
+    "lastUpdated": "2025-09-18T17:18:16Z",
+    "stars": 32,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -798,6 +798,20 @@
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "alpha (build 3)",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2025-07-27T16:07:52Z",
+    "stars": 25,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
+  },
+  {
     "repo": "mindustrydagger/vanillaplus",
     "internalName": "vanillaplus",
     "name": "VanillaPlus",
@@ -824,20 +838,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Another go, once more."
-  },
-  {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "alpha (build 3)",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2025-07-27T16:07:52Z",
-    "stars": 24,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
   },
   {
     "repo": "teamviscott/modprojectviscott",
@@ -4186,6 +4186,20 @@
     "description": "A Mindustry mod adding airstrikes.\n\nThe core mechanic of the mod are the Orbital Weapons, which are launched into orbit using satellites and the Launcher block.\n\nWeapons in orbit are saved across game sessions and can be accessed from any sector on the planet they were launched from, or only from the sector they were launched from, if the sector is not on a planet (not in campaign).\n\nOrbital Weapons are monitored via the Orbital Monitor and can be called to strike using the Beacon and the Orbital Controller."
   },
   {
+    "repo": "meepoffaith/moyai-emoji",
+    "internalName": "",
+    "name": "Funny Rock",
+    "version": "v1.1",
+    "hidden": false,
+    "author": "MEEPofFaith",
+    "lastUpdated": "2025-02-10T03:52:11Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Incredible"
+  },
+  {
     "repo": "jirocab/minimapasbutton",
     "internalName": "minimapbutton",
     "name": "Minimap as a button + other buttons",
@@ -5040,20 +5054,6 @@
     "description": "Remake remake remake"
   },
   {
-    "repo": "meepoffaith/moyai-emoji",
-    "internalName": "",
-    "name": "Funny Rock",
-    "version": "v1.1",
-    "hidden": false,
-    "author": "MEEPofFaith",
-    "lastUpdated": "2025-02-10T03:52:11Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Incredible"
-  },
-  {
     "repo": "mrybs/dasuas",
     "internalName": "dasuas",
     "name": "Dasuas",
@@ -5390,20 +5390,6 @@
     "description": "Music & SFX Pack"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.0",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2025-09-10T09:10:35Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "kashkinzey/cheatmindy",
     "internalName": "kashkinzey_cheat",
     "name": "Kashkinzey Cheat",
@@ -5444,6 +5430,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.0",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2025-09-18T17:56:03Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
