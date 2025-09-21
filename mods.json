@@ -146,7 +146,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-09-21T03:52:03Z",
+    "lastUpdated": "2025-09-21T16:10:23Z",
     "stars": 121,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4452,6 +4452,20 @@
     "description": "Serpulo Tweaks"
   },
   {
+    "repo": "urij19cc7e4/machindustry",
+    "internalName": "machindustry",
+    "name": "Machindustry",
+    "version": "[gold[]]1.2[[]]",
+    "hidden": true,
+    "author": "[gold]Urij[]",
+    "lastUpdated": "2025-09-21T16:09:03Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. It is not intended for mobile devices.\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. Он не предназначен для мобильных устройств.\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
+  },
+  {
     "repo": "teaeempire/gghv7",
     "internalName": "ggh2.1",
     "name": "GGH2.4",
@@ -6494,5 +6508,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
+  },
+  {
+    "repo": "blaizick/control-helper",
+    "internalName": "control-helper",
+    "name": "Control Helper",
+    "version": "10",
+    "hidden": true,
+    "author": "Blaizi",
+    "lastUpdated": "2025-09-21T12:06:27Z",
+    "stars": 0,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "V8 Version! You can also find a v7 version in releases on https://github.com/Blaizick/control-helper. Contains a lot of useful functions for pvp and competitive playing."
   }
 ]
