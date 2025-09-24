@@ -986,7 +986,7 @@
     "version": "1.7.9",
     "hidden": false,
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2025-09-19T10:53:54Z",
+    "lastUpdated": "2025-09-24T10:16:59Z",
     "stars": 19,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5432,20 +5432,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.1.1",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2025-09-19T21:32:40Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "figseu-technology/greenfortress",
     "internalName": "green fortress",
     "name": "Green Fortress",
@@ -5458,6 +5444,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "世界は新たに創造され、我々は文明を再構築する"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.1.1",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2025-09-24T10:15:24Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
