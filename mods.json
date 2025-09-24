@@ -146,7 +146,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-09-23T01:23:11Z",
+    "lastUpdated": "2025-09-24T01:33:34Z",
     "stars": 121,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -734,7 +734,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2025-08-14T12:41:38Z",
+    "lastUpdated": "2025-09-24T02:06:58Z",
     "stars": 27,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3184,7 +3184,7 @@
     "version": "7.1.4",
     "hidden": true,
     "author": "Kevin Vilyan",
-    "lastUpdated": "2025-09-22T16:33:20Z",
+    "lastUpdated": "2025-09-24T02:05:35Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -6496,20 +6496,6 @@
     "description": "A mod that prevents the steam version from creating another uu​id, when importing your save from another version.\n\nNote: This mod does nothing if your client is not the steam version."
   },
   {
-    "repo": "wmf-industries/extremity",
-    "internalName": "extremity",
-    "name": "Extremity",
-    "version": "1.0.9",
-    "hidden": true,
-    "author": "WMF Industries",
-    "lastUpdated": "2025-09-20T06:35:46Z",
-    "stars": 0,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry: Evil Edition"
-  },
-  {
     "repo": "blaizick/control-helper",
     "internalName": "control-helper",
     "name": "Control Helper",
@@ -6522,5 +6508,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "V8 Version! You can also find a v7 version in releases on https://github.com/Blaizick/control-helper. Contains a lot of useful functions for pvp and competitive playing."
+  },
+  {
+    "repo": "wmf-industries/extremity",
+    "internalName": "extremity",
+    "name": "Extremity",
+    "version": "1.0.9",
+    "hidden": true,
+    "author": "WMF Industries",
+    "lastUpdated": "2025-09-24T02:55:12Z",
+    "stars": 0,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry: Evil Edition"
   }
 ]
