@@ -1140,7 +1140,7 @@
     "version": "1.0.2",
     "hidden": false,
     "author": "ItsKirby",
-    "lastUpdated": "2025-09-24T00:39:18Z",
+    "lastUpdated": "2025-09-24T20:59:17Z",
     "stars": 16,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -5432,20 +5432,6 @@
     "description": "世界は新たに創造され、我々は文明を再構築する"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.0",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2025-09-24T10:56:14Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "mastergg-d/cheat-blocks",
     "internalName": "cheat-blocks",
     "name": "Cheat Blocks",
@@ -5472,6 +5458,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.0",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2025-09-24T21:05:03Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
