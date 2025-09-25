@@ -826,6 +826,20 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
   },
   {
+    "repo": "smolkeys/yellow-java",
+    "internalName": "yellow-java",
+    "name": "Yellow (Java)",
+    "version": "0.015",
+    "hidden": false,
+    "author": "SMOLKEYS",
+    "lastUpdated": "2025-06-06T16:43:25Z",
+    "stars": 24,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Another go, once more."
+  },
+  {
     "repo": "teamviscott/modprojectviscott",
     "internalName": "project-viscott",
     "name": "Project Viscott",
@@ -1736,6 +1750,20 @@
     "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
   },
   {
+    "repo": "falkowitz/medieval-mindustry",
+    "internalName": "mm",
+    "name": "Medieval Mindustry",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Fitz",
+    "lastUpdated": "2025-08-13T16:29:16Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Total conversion PVP mod set in fantasy medieval times"
+  },
+  {
     "repo": "liplum/bottledliquid",
     "internalName": "bottled-liquid",
     "name": "Bottled Liquid",
@@ -2014,6 +2042,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "You on the Mars."
+  },
+  {
+    "repo": "mitemi/blastanium",
+    "internalName": "blastanium",
+    "name": "Blastanium",
+    "version": "1",
+    "hidden": false,
+    "author": "[lime]Mitemi\n\n[gray]Contributor:\n[#c4d4e0]N4H4N[lightgray], [cyan]Tikup[lightgray], [red]XSA",
+    "lastUpdated": "2025-02-18T16:21:20Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
   },
   {
     "repo": "silinveredno/newhorizonmod-schematics",
@@ -3472,6 +3514,20 @@
     "description": "Mindustry的toml模组文件解析,食用方法请参考README.md"
   },
   {
+    "repo": "deltanedas/mindustry-2",
+    "internalName": "mindustry-2",
+    "name": "Mindustry 2",
+    "version": "0.1.2",
+    "hidden": false,
+    "author": "deltanedas",
+    "lastUpdated": "2025-02-11T15:56:08Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
+  },
+  {
     "repo": "dedshotgames/wotanks-mod",
     "internalName": "wotanks",
     "name": "WOTanks",
@@ -4366,6 +4422,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "介绍日后再写"
+  },
+  {
+    "repo": "chuvaak/futurehorizons",
+    "internalName": "futurehorizons",
+    "name": "Future Horizons",
+    "version": "3.85",
+    "hidden": false,
+    "author": "Chuvaak",
+    "lastUpdated": "2025-09-15T05:06:18Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
     "repo": "sputnuc/expansion-java",
