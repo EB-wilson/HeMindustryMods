@@ -1204,6 +1204,20 @@
     "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
   },
   {
+    "repo": "seuearth/factroundustry",
+    "internalName": "factroundustry",
+    "name": "Factroundustry",
+    "version": "1",
+    "hidden": "true",
+    "author": "SpaceEarthEX",
+    "lastUpdated": "2023-06-24T09:55:39Z",
+    "stars": 14,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Soundpack that changes all sounds and musics from Factorio.\n\nIf you use it with Xeloboyo/Factoriodustry, you can feel more factroio-like.\n(Mod is forted to 137 build.)"
+  },
+  {
     "repo": "blackdeluxecat/schematicparse",
     "internalName": "schematicparse",
     "name": "Schematic Parse",
@@ -1230,20 +1244,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factory\nNOT the most balanced"
-  },
-  {
-    "repo": "seuearth/factroundustry",
-    "internalName": "factroundustry",
-    "name": "Factroundustry",
-    "version": "1",
-    "hidden": "true",
-    "author": "SpaceEarthEX",
-    "lastUpdated": "2023-06-24T09:55:39Z",
-    "stars": 13,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Soundpack that changes all sounds and musics from Factorio.\n\nIf you use it with Xeloboyo/Factoriodustry, you can feel more factroio-like.\n(Mod is forted to 137 build.)"
   },
   {
     "repo": "teamoct/erekir-music",
@@ -6558,7 +6558,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2025-09-25T16:07:02Z",
+    "lastUpdated": "2025-09-25T16:25:23Z",
     "stars": 0,
     "minGameVersion": "150",
     "hasScripts": false,
