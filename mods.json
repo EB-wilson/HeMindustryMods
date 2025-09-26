@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria",
     "lastUpdated": "2025-09-23T15:20:07Z",
-    "stars": 489,
+    "stars": 490,
     "minGameVersion": "151",
     "hasScripts": false,
     "hasJava": true,
@@ -546,6 +546,20 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "version": "beta-1.2",
+    "hidden": true,
+    "author": "EBwilson",
+    "lastUpdated": "2025-09-17T15:22:23Z",
+    "stars": 34,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
+  },
+  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
@@ -572,20 +586,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "version": "beta-1.2",
-    "hidden": true,
-    "author": "EBwilson",
-    "lastUpdated": "2025-09-17T15:22:23Z",
-    "stars": 33,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
   },
   {
     "repo": "i-hope1/mod-tools",
@@ -1078,6 +1078,20 @@
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
+    "repo": "itskirby69/minedusty",
+    "internalName": "",
+    "name": "MineDusty",
+    "version": "1.0.2",
+    "hidden": false,
+    "author": "ItsKirby",
+    "lastUpdated": "2025-09-26T00:45:21Z",
+    "stars": 17,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod by ItsKirby69 (thats me!) which introduces a new planet, many expansive biomes, and a wide variety of plant life!"
+  },
+  {
     "repo": "mnemotechnician/new-controls-public",
     "internalName": "newcontrols",
     "name": "New controls",
@@ -1132,20 +1146,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod for browsing schematic repositories."
-  },
-  {
-    "repo": "itskirby69/minedusty",
-    "internalName": "",
-    "name": "MineDusty",
-    "version": "1.0.2",
-    "hidden": false,
-    "author": "ItsKirby",
-    "lastUpdated": "2025-09-26T00:45:21Z",
-    "stars": 16,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod by ItsKirby69 (thats me!) which introduces a new planet, many expansive biomes, and a wide variety of plant life!"
   },
   {
     "repo": "yuria-shikibe/gameinfoimager",
@@ -1246,6 +1246,20 @@
     "description": "Pyratite focused mod which adds units turrets drills and factory\nNOT the most balanced"
   },
   {
+    "repo": "bsp-2/echo-fleet",
+    "internalName": "echo-fleet",
+    "name": "Echo Fleet",
+    "version": "",
+    "hidden": false,
+    "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \n Music Composer - Ace1020spawn",
+    "lastUpdated": "2025-09-22T16:15:08Z",
+    "stars": 14,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \n[royal]Kaltos[] is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \n[gold]Aetheria[] on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on [royal]Kaltos[] and [gold]Aetheria[]. \n\n[red]This mod is still in VERY early development,[] as of now it only adds a bunch of [accent]sandbox only blocks[] and [accent]environment tiles[]. Several maps have been made already, but will be added later, since they need other content from the mod finished.\n\nOther then that, the mod focuses on [accent]complex factories[] and [accent]refining Crude Oil[]. \n\n[accent]I re-used no content from vanilla, even though this mod seemingly has several things from it. \n\n[red]Currently the mod is way too early into development to have any proper translations. \n\n[]Have fun with whats already added, I guess. :)"
+  },
+  {
     "repo": "teamoct/erekir-music",
     "internalName": "erekir-music",
     "name": "Team Oct's Erekir Music",
@@ -1328,20 +1342,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
-  },
-  {
-    "repo": "bsp-2/echo-fleet",
-    "internalName": "echo-fleet",
-    "name": "Echo Fleet",
-    "version": "",
-    "hidden": false,
-    "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \n Music Composer - Ace1020spawn",
-    "lastUpdated": "2025-09-22T16:15:08Z",
-    "stars": 13,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \n[royal]Kaltos[] is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \n[gold]Aetheria[] on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on [royal]Kaltos[] and [gold]Aetheria[]. \n\n[red]This mod is still in VERY early development,[] as of now it only adds a bunch of [accent]sandbox only blocks[] and [accent]environment tiles[]. Several maps have been made already, but will be added later, since they need other content from the mod finished.\n\nOther then that, the mod focuses on [accent]complex factories[] and [accent]refining Crude Oil[]. \n\n[accent]I re-used no content from vanilla, even though this mod seemingly has several things from it. \n\n[red]Currently the mod is way too early into development to have any proper translations. \n\n[]Have fun with whats already added, I guess. :)"
   },
   {
     "repo": "eclipse-04/avkott",
@@ -3184,7 +3184,7 @@
     "version": "7.1.4",
     "hidden": true,
     "author": "Kevin Vilyan",
-    "lastUpdated": "2025-09-24T04:32:00Z",
+    "lastUpdated": "2025-09-26T03:52:00Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": true,
