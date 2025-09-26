@@ -63,7 +63,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2025-09-24T11:26:38Z",
-    "stars": 168,
+    "stars": 169,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -126,6 +126,20 @@
     "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
+    "repo": "stabu-dev/omaloon",
+    "internalName": "omaloon",
+    "name": "Omaloon",
+    "version": "0.1.1Ah",
+    "hidden": false,
+    "author": "stabu, uujuju",
+    "lastUpdated": "2025-09-26T00:38:44Z",
+    "stars": 122,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
+  },
+  {
     "repo": "3snake3/sapphirium",
     "internalName": "sapphirium",
     "name": "Sapphirium",
@@ -138,20 +152,6 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
-  },
-  {
-    "repo": "stabu-dev/omaloon",
-    "internalName": "omaloon",
-    "name": "Omaloon",
-    "version": "0.1.1Ah",
-    "hidden": false,
-    "author": "stabu, uujuju",
-    "lastUpdated": "2025-09-26T00:38:44Z",
-    "stars": 121,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
   },
   {
     "repo": "eschatologue/unlimited-armament-works",
@@ -287,7 +287,7 @@
     "hidden": false,
     "author": "Jammuu",
     "lastUpdated": "2025-09-21T18:07:11Z",
-    "stars": 68,
+    "stars": 69,
     "minGameVersion": "148",
     "hasScripts": false,
     "hasJava": true,
@@ -1428,6 +1428,20 @@
     "description": "Stripped down version of the original mod. Contains only CLaJ and enlarged schematics."
   },
   {
+    "repo": "routerxdd/icicle-world",
+    "internalName": "icicle-world",
+    "name": "Buried in Ice",
+    "version": "alpha 0.9.4",
+    "hidden": false,
+    "author": "R.O.T.\nThanks yesC48 for normal english translation",
+    "lastUpdated": "2025-08-01T11:21:01Z",
+    "stars": 11,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds a new planet, where we will play in underground"
+  },
+  {
     "repo": "itzcraft/hjsonpp",
     "internalName": "hjsonpp",
     "name": "hjson++",
@@ -1580,20 +1594,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[white]This mindustry mod allows players to explore a planet named Greavar and defend against indigenous attacks while developing local minerals and researching technology.\n\n[gray]Language:\n[white]- 简体中文\n[white]- English [red](WIP)\n[white]- Français [red](WIP)\n[white]- Русский язык [red](WIP)\n\n[white]...check our GitHub repository for more info!\n\n[white]I am looking for volunteers who can translate this mod into his (or her) native language."
-  },
-  {
-    "repo": "routerxdd/icicle-world",
-    "internalName": "icicle-world",
-    "name": "Buried in Ice",
-    "version": "alpha 0.9.4",
-    "hidden": false,
-    "author": "R.O.T.\nThanks yesC48 for normal english translation",
-    "lastUpdated": "2025-08-01T11:21:01Z",
-    "stars": 10,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds a new planet, where we will play in underground"
   },
   {
     "repo": "new-guys5634/mechy-chaos",
@@ -2232,7 +2232,7 @@
     "version": "0.3",
     "hidden": false,
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-09-26T16:20:06Z",
+    "lastUpdated": "2025-09-26T16:40:56Z",
     "stars": 7,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -6558,7 +6558,7 @@
     "version": "1.0.2",
     "hidden": false,
     "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2025-09-26T13:58:14Z",
+    "lastUpdated": "2025-09-26T17:33:19Z",
     "stars": 0,
     "minGameVersion": "150",
     "hasScripts": false,
