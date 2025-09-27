@@ -35,7 +35,7 @@
     "hidden": true,
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 216,
+    "stars": 217,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -132,7 +132,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-09-26T23:05:56Z",
+    "lastUpdated": "2025-09-27T10:11:10Z",
     "stars": 122,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2232,7 +2232,7 @@
     "version": "0.3",
     "hidden": false,
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-09-26T16:40:56Z",
+    "lastUpdated": "2025-09-27T10:17:07Z",
     "stars": 7,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -5488,6 +5488,20 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
+    "repo": "rodrigoasfr24022003/rodrigonia-mod",
+    "internalName": "rodrigonia",
+    "name": "Rodrigonia",
+    "version": "1.0.2",
+    "hidden": false,
+    "author": "rodrigo_of_rodrigonia",
+    "lastUpdated": "2025-09-26T17:33:19Z",
+    "stars": 1,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
+  },
+  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -6550,19 +6564,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
-  },
-  {
-    "repo": "rodrigoasfr24022003/rodrigonia-mod",
-    "internalName": "rodrigonia",
-    "name": "Rodrigonia",
-    "version": "1.0.2",
-    "hidden": false,
-    "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2025-09-26T17:33:19Z",
-    "stars": 0,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   }
 ]
