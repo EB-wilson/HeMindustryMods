@@ -580,7 +580,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2025-09-29T22:07:49Z",
+    "lastUpdated": "2025-10-01T21:51:50Z",
     "stars": 34,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -4452,20 +4452,6 @@
     "description": "Serpulo Tweaks"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.1",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2025-09-26T10:57:11Z",
-    "stars": 2,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "713712/scr",
     "internalName": "强化战役-再临",
     "name": "强化战役［SCR］",
@@ -4478,6 +4464,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "我们通过行星发射终端的加速器发射到了这颗星球,当地人称它为赛普拉\n这里十分繁华，但敌人不太欢迎我们\n同时我们的科技也遗失了\n你能征服这颗比赛普罗更加强大的星球吗\n模组作者:鼠标\n\nWe launched to this planet through the accelerator of the planet launch terminal, which is locally known as Sepura. It is very prosperous here, but the enemy does not welcome us very much. At the same time, our technology has also been lost. Can you conquer this planet, which is even more powerful in the race? Module author: Mouse\n\n\n\n\\n欢迎进群927366409"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.1",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2025-10-01T21:35:57Z",
+    "stars": 2,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -5474,20 +5474,6 @@
     "description": "ENG: Hello everyone who installed this mod! Initially, I created this mod just for myself, but then I decided to post it. \r\nThis is my first mod and it may have many flaws, so please be gentle.\r\n\r\nRU: Привет всем кто установил этот мод! Изначально я создавл этот мод просто для себя, но потом я решил выложить его. \r\nЭто мой первый мод и у него может быть много недостатков, поэтому прошу не судить строго"
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.1.3",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2025-09-26T11:52:02Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "mvpoksdofe/textures-match-resources-mindustry-mod",
     "internalName": "textures match resources",
     "name": "Textures Match Resources",
@@ -5514,6 +5500,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.1.3",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2025-10-01T20:30:32Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
