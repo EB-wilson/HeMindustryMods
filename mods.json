@@ -62,7 +62,7 @@
     "version": "1.7.1",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2025-10-02T16:19:26Z",
+    "lastUpdated": "2025-10-02T17:50:23Z",
     "stars": 172,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1084,7 +1084,7 @@
     "version": "2.3.3",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-09-06T16:01:11Z",
+    "lastUpdated": "2025-10-02T18:16:30Z",
     "stars": 17,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2702,20 +2702,6 @@
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "version": "1.0.1",
-    "hidden": true,
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2025-07-27T09:47:47Z",
-    "stars": 5,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
-  },
-  {
     "repo": "koctz34/minduntm",
     "internalName": "ntm",
     "name": "NTM - Nuclear tech mod",
@@ -2784,6 +2770,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod.\n\nUnder very early development.\n\nYes. this is what you're looking for."
+  },
+  {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "version": "1.0.1",
+    "hidden": true,
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2025-10-02T16:39:53Z",
+    "stars": 5,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
   },
   {
     "repo": "konkitoman/speedctlman",
