@@ -1252,7 +1252,7 @@
     "version": "",
     "hidden": false,
     "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \n Music Composer - Ace1020spawn",
-    "lastUpdated": "2025-10-04T09:42:57Z",
+    "lastUpdated": "2025-10-04T13:16:16Z",
     "stars": 14,
     "minGameVersion": "151.1",
     "hasScripts": false,
@@ -3738,20 +3738,6 @@
     "description": ""
   },
   {
-    "repo": "sputnuc/expansion-java",
-    "internalName": "expansion",
-    "name": "Expansion java",
-    "version": "0.1.3.5",
-    "hidden": false,
-    "author": "Sputnuc",
-    "lastUpdated": "2025-09-26T15:51:08Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Recreation of my first mod"
-  },
-  {
     "repo": "thesmal/starter-buffer",
     "internalName": "starter buffer",
     "name": "STARTER-BUFFER",
@@ -3778,6 +3764,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. [green]Now it also works on mobile devices.[]\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. [green]Теперь он также работает на мобильных устройствах.[]\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
+  },
+  {
+    "repo": "sputnuc/expansion-java",
+    "internalName": "expansion",
+    "name": "Expansion java",
+    "version": "0.1.3.5",
+    "hidden": false,
+    "author": "Sputnuc",
+    "lastUpdated": "2025-10-04T14:05:20Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Recreation of my first mod"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
