@@ -63,7 +63,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2025-10-02T17:50:23Z",
-    "stars": 172,
+    "stars": 174,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -924,6 +924,20 @@
     "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
+    "repo": "laohuajiofficial/multiblocklib",
+    "internalName": "multi-block-lib",
+    "name": "Multi-Block Library",
+    "version": "1.3",
+    "hidden": false,
+    "author": "LaoHuaJi/酪桦姬",
+    "lastUpdated": "2025-03-06T10:40:33Z",
+    "stars": 20,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry mod library which provides support for non-square blocks implementation for json mod."
+  },
+  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "internalName": "yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
@@ -952,20 +966,6 @@
     "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
-    "repo": "laohuajiofficial/multiblocklib",
-    "internalName": "multi-block-lib",
-    "name": "Multi-Block Library",
-    "version": "1.3",
-    "hidden": false,
-    "author": "LaoHuaJi/酪桦姬",
-    "lastUpdated": "2025-03-06T10:40:33Z",
-    "stars": 19,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry mod library which provides support for non-square blocks implementation for json mod."
-  },
-  {
     "repo": "sporrus/randommindustry",
     "internalName": "random-mindustry",
     "name": "Random Mindustry",
@@ -978,6 +978,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
+  },
+  {
+    "repo": "jirocab/nyfalis",
+    "internalName": "olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.7.9",
+    "hidden": false,
+    "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
+    "lastUpdated": "2025-10-02T10:17:15Z",
+    "stars": 19,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
   },
   {
     "repo": "itskirby69/minedusty",
@@ -1020,20 +1034,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
-  },
-  {
-    "repo": "jirocab/nyfalis",
-    "internalName": "olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.7.9",
-    "hidden": false,
-    "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2025-10-02T10:17:15Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
   },
   {
     "repo": "echovespy/simplistic",
@@ -3752,20 +3752,6 @@
     "description": "DISCLAIMER!!!: please use the install with version button and NOT the install button!!!! the version displayed is outdated majority of the time!!\n\nBuffs the Alpha and Evoke units so its better to stay on the Shard or Bastion core (smallest ones),\nAdds a TON of HP to the Alpha and Evoke,\nChanged bullet to Fire bullet for the Alpha (shard and bastion core has alot of hp),\nMining Speed, Item capacity is also Improved,\nHave a good day!\nthe Duo and Scatter turrets are also Buffed\nCopper walls are now the best defense in the game\nthe Mechanical Drill is also the best Drill and can mine anything\nand the Plasma Bore and Impact Drill has been buffed\nNormal Conveyors are also the best along with Ducts.\nMenders are WAAAAAAAAAAAAAAAAAAAAAY better than mend projectors now\n\nIt's my First Mod\nMay have some bugs so please tell me any and also tell me code improvements :D\n\nFeel free to use this as a base or reference for your mods. (maybe not base)"
   },
   {
-    "repo": "urij19cc7e4/machindustry",
-    "internalName": "machindustry",
-    "name": "Machindustry",
-    "version": "[gold[]]2.1[[]]",
-    "hidden": true,
-    "author": "[gold]Urij[]",
-    "lastUpdated": "2025-10-03T11:19:48Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. [green]Now it also works on mobile devices.[]\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. [green]Теперь он также работает на мобильных устройствах.[]\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
-  },
-  {
     "repo": "sputnuc/expansion-java",
     "internalName": "expansion",
     "name": "Expansion java",
@@ -3778,6 +3764,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Recreation of my first mod"
+  },
+  {
+    "repo": "urij19cc7e4/machindustry",
+    "internalName": "machindustry",
+    "name": "Machindustry",
+    "version": "[gold[]]2.2[[]]",
+    "hidden": true,
+    "author": "[gold]Urij[]",
+    "lastUpdated": "2025-10-06T10:09:03Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. [green]Now it also works on mobile devices.[]\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. [green]Теперь он также работает на мобильных устройствах.[]\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -6578,5 +6578,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Cursed bundles"
+  },
+  {
+    "repo": "wantechfan/mindustry-mod-some-musics",
+    "internalName": "mindustry: some musics",
+    "name": "Some Musics",
+    "version": "1.0",
+    "hidden": false,
+    "author": "WantechFan",
+    "lastUpdated": "2025-10-06T08:36:21Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every single musics ingame with my favorite ones except boss1 and 2"
   }
 ]
