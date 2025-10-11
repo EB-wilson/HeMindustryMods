@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2025-10-02T14:14:15Z",
-    "stars": 495,
+    "stars": 496,
     "minGameVersion": "152",
     "hasScripts": false,
     "hasJava": true,
@@ -924,20 +924,6 @@
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radii go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
-    "repo": "xtarsagency/zeridmuth",
-    "internalName": "zeridmuth",
-    "name": "Zeridmuth: A New Beginning",
-    "version": "v1.336.8B",
-    "hidden": false,
-    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2025-06-24T11:05:52Z",
-    "stars": 21,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
     "repo": "laohuajiofficial/multiblocklib",
     "internalName": "multi-block-lib",
     "name": "Multi-Block Library",
@@ -950,6 +936,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry mod library which provides support for non-square blocks implementation for json mod."
+  },
+  {
+    "repo": "xtarsagency/zeridmuth",
+    "internalName": "zeridmuth",
+    "name": "Zeridmuth: A New Beginning",
+    "version": "v1.336.8B",
+    "hidden": false,
+    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
+    "lastUpdated": "2025-06-24T11:05:52Z",
+    "stars": 20,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
     "repo": "yaddrx2/yr2-logic-debugger",
@@ -2896,20 +2896,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Play mindustry with this awesome chiptune music! Tracks created by Roccow. I took some of Roccow's tracks that weren't in the classic version to replace the new ones added in the V6. HOWEVER, the author of the tracks boss1, boss2 and game6 is unknown."
-  },
-  {
-    "repo": "thomasthings/erekir-scaled",
-    "internalName": "es",
-    "name": "Erekir Scaled",
-    "version": "0.0",
-    "hidden": false,
-    "author": "Thomas's Things",
-    "lastUpdated": "2023-11-05T00:44:08Z",
-    "stars": 4,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod for adding both larger and smaller content to Erekir."
   },
   {
     "repo": "mindustry-antigrief/multiplayer-pause",
