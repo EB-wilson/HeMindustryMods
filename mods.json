@@ -482,7 +482,7 @@
     "version": "0.2.3.1A",
     "hidden": false,
     "author": "HPL Team",
-    "lastUpdated": "2025-10-12T13:24:07Z",
+    "lastUpdated": "2025-10-12T17:52:17Z",
     "stars": 43,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -882,6 +882,20 @@
     "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
+    "repo": "retodera/technologium",
+    "internalName": "t",
+    "name": "Technologium",
+    "version": "v0.4",
+    "hidden": false,
+    "author": "[#ff]retodera[] - основатель мода и единственный работающий над ним\n\nА также благодарности:\n\nxDer - генератор идей\n\nПризрак - основатель сервера Дискорд\n\nnadocd - иногда помогает с кодом\n\ngkugfk3 - сделал саундтрек\n\nИ все, кто поставили звёздочку <3",
+    "lastUpdated": "2025-07-29T13:36:54Z",
+    "stars": 23,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
+  },
+  {
     "repo": "laohuajiofficial/freightfactory",
     "internalName": "ff",
     "name": "FoodFactory",
@@ -894,20 +908,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mod In Dev"
-  },
-  {
-    "repo": "retodera/technologium",
-    "internalName": "t",
-    "name": "Technologium",
-    "version": "v0.4",
-    "hidden": false,
-    "author": "[#ff]retodera[] - основатель мода и единственный работающий над ним\n\nА также благодарности:\n\nxDer - генератор идей\n\nПризрак - основатель сервера Дискорд\n\nnadocd - иногда помогает с кодом\n\ngkugfk3 - сделал саундтрек\n\nИ все, кто поставили звёздочку <3",
-    "lastUpdated": "2025-07-29T13:36:54Z",
-    "stars": 22,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
   },
   {
     "repo": "dong-wo-long/enhancementunits",
@@ -4438,20 +4438,6 @@
     "description": "Serpulo Tweaks"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.1",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2025-10-01T21:35:57Z",
-    "stars": 2,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "713712/scr",
     "internalName": "阿塞普斯",
     "name": "阿塞普斯",
@@ -4506,6 +4492,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes every single musics ingame with my favorite ones except boss1 and 2"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.1",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2025-10-12T17:08:38Z",
+    "stars": 2,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -5530,20 +5530,6 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.1.3",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2025-10-01T20:30:32Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "unknownobjectv2/camellia-music-sfx-pack",
     "internalName": "mindustry-camellia-pack",
     "name": "Camellia Music & SFX Pack",
@@ -5570,6 +5556,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "very very cursed bundles. Hand made by me"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.1.3",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2025-10-12T17:41:46Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
