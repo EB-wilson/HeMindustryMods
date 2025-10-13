@@ -734,7 +734,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2025-10-12T09:58:41Z",
+    "lastUpdated": "2025-10-13T04:04:51Z",
     "stars": 27,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2084,20 +2084,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
-  },
-  {
-    "repo": "photon-gravity/enigmamindustrymod",
-    "internalName": "enigma",
-    "name": "Enigma",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Photon_Gravity",
-    "lastUpdated": "2025-03-30T18:26:24Z",
-    "stars": 7,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Explore a new planet, Keslomin, research new technology and master exotic forms of energy."
   },
   {
     "repo": "sublemon-team/fonticonslib",
@@ -3767,17 +3753,17 @@
   },
   {
     "repo": "sputnuc/expansion-java",
-    "internalName": "expansion",
-    "name": "Expansion java",
-    "version": "0.1.4",
+    "internalName": "enigma",
+    "name": "Enigma",
+    "version": "1.0",
     "hidden": false,
-    "author": "Sputnuc",
+    "author": "Photon_Gravity",
     "lastUpdated": "2025-10-06T18:09:01Z",
     "stars": 3,
-    "minGameVersion": "149",
+    "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Recreation of my first mod"
+    "description": "Explore a new planet, Keslomin, research new technology and master exotic forms of energy."
   },
   {
     "repo": "dustdustry/wayzermapbrowser",
