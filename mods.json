@@ -392,6 +392,20 @@
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "internalName": "fooinstaller",
+    "name": "Foo's Client Installer",
+    "version": "1.2.4",
+    "hidden": true,
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-11-08T23:31:31Z",
+    "stars": 53,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "petruchiorus/lead_ind",
     "internalName": "lead_ind",
     "name": "Lead Industries",
@@ -418,20 +432,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "internalName": "fooinstaller",
-    "name": "Foo's Client Installer",
-    "version": "1.2.4",
-    "hidden": true,
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-11-08T23:31:31Z",
-    "stars": 52,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "flintyx/animalia",
@@ -734,7 +734,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2025-10-15T09:43:14Z",
+    "lastUpdated": "2025-10-15T12:40:43Z",
     "stars": 27,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -994,20 +994,6 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
-    "repo": "jirocab/nyfalis",
-    "internalName": "olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.7.9",
-    "hidden": false,
-    "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2025-10-07T06:02:24Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
-  },
-  {
     "repo": "itskirby69/minedusty",
     "internalName": "",
     "name": "MineDusty",
@@ -1020,6 +1006,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java mod by ItsKirby69 (thats me!) which introduces a new planet, many expansive biomes, and a wide variety of plant life!"
+  },
+  {
+    "repo": "jirocab/nyfalis",
+    "internalName": "olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.7.9",
+    "hidden": false,
+    "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
+    "lastUpdated": "2025-10-15T10:53:13Z",
+    "stars": 19,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
   },
   {
     "repo": "lehanchic25/testplanetmindustry",
@@ -4466,20 +4466,6 @@
     "description": "anotha planet mod\nsooooooooo\nconquest!!!\nand bring ur own music\n\n!! NOTICE:\nmajor credit to the creators of asthosus as i used the mod as a template/refrence for things\n!!"
   },
   {
-    "repo": "wantechfan/mindustry-mod-some-musics",
-    "internalName": "mindustry: some musics",
-    "name": "Some Musics",
-    "version": "1.0",
-    "hidden": false,
-    "author": "WantechFan",
-    "lastUpdated": "2025-10-12T04:45:48Z",
-    "stars": 2,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes every single musics ingame with my favorite ones except boss1 and 2"
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4506,6 +4492,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "wantechfan/mindustry-mod-some-musics",
+    "internalName": "mindustry: some musics",
+    "name": "Some Musics",
+    "version": "1.0",
+    "hidden": false,
+    "author": "WantechFan",
+    "lastUpdated": "2025-10-15T10:58:02Z",
+    "stars": 2,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every single musics ingame with my favorite ones except boss1 and 2"
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -5530,20 +5530,6 @@
     "description": "Music & SFX Pack"
   },
   {
-    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
-    "internalName": "my-cursed-ahh-mindustry-mod",
-    "name": "Cursed Bundles",
-    "version": "1.4",
-    "hidden": false,
-    "author": "WantechFan",
-    "lastUpdated": "2025-10-13T07:55:04Z",
-    "stars": 1,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "very very cursed bundles. Hand made by me"
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering-java",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -5584,6 +5570,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
+    "internalName": "my-cursed-ahh-mindustry-mod",
+    "name": "Cursed Bundles",
+    "version": "1.4",
+    "hidden": false,
+    "author": "WantechFan",
+    "lastUpdated": "2025-10-15T10:56:40Z",
+    "stars": 1,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "very very cursed bundles. Hand made by me"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
