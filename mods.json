@@ -76,7 +76,7 @@
     "version": "v1.14.0",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-10-18T12:10:51Z",
+    "lastUpdated": "2025-10-18T14:02:00Z",
     "stars": 164,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3780,20 +3780,6 @@
     "description": "Makes the sounds for breaking things more Crunchy."
   },
   {
-    "repo": "sputnuc/expansion-java",
-    "internalName": "expansion",
-    "name": "Expansion java",
-    "version": "0.1.4.1",
-    "hidden": false,
-    "author": "Sputnuc",
-    "lastUpdated": "2025-10-13T12:58:19Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Recreation of my first mod"
-  },
-  {
     "repo": "dedshotgames/wotanks-mod",
     "internalName": "wotanks",
     "name": "WOTanks",
@@ -3806,6 +3792,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "You are the lucky owner of my mod, which adds a tank with each update!"
+  },
+  {
+    "repo": "sputnuc/expansion-java",
+    "internalName": "expansion",
+    "name": "Expansion java",
+    "version": "0.1.4.2",
+    "hidden": false,
+    "author": "Sputnuc",
+    "lastUpdated": "2025-10-18T13:34:23Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Recreation of my first mod"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
