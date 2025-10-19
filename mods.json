@@ -608,7 +608,7 @@
     "version": "1.5.5",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2025-10-19T04:16:58Z",
+    "lastUpdated": "2025-10-19T07:04:33Z",
     "stars": 32,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -748,7 +748,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2025-10-18T23:47:01Z",
+    "lastUpdated": "2025-10-19T08:15:44Z",
     "stars": 27,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4500,7 +4500,7 @@
     "version": "1.1",
     "hidden": true,
     "author": "WantechFan",
-    "lastUpdated": "2025-10-19T06:27:10Z",
+    "lastUpdated": "2025-10-19T06:28:16Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5558,20 +5558,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "radiancestorm/mindustry-corona-borealis",
-    "internalName": "coronaborealismod",
-    "name": "Corona Borealis",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Radiance / RadianceStorm",
-    "lastUpdated": "2025-10-17T06:12:38Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A planet shrouded in arcane mysteries."
-  },
-  {
     "repo": "determination-wind/more-details",
     "internalName": "[more-details]更多描述",
     "name": "More-details更多描述",
@@ -5612,6 +5598,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod."
+  },
+  {
+    "repo": "radiancestorm/mindustry-corona-borealis",
+    "internalName": "coronaborealismod",
+    "name": "Corona Borealis",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Radiance / RadianceStorm",
+    "lastUpdated": "2025-10-19T07:17:19Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A planet shrouded in arcane mysteries."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
