@@ -748,7 +748,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2025-10-20T02:37:14Z",
+    "lastUpdated": "2025-10-20T03:49:32Z",
     "stars": 27,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3226,7 +3226,7 @@
     "version": "7.1.4",
     "hidden": true,
     "author": "Kevin Vilyan",
-    "lastUpdated": "2025-10-20T03:13:44Z",
+    "lastUpdated": "2025-10-20T03:20:47Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -6370,20 +6370,6 @@
     "description": "An OST for Netronium: The Final Showdown mod.\nList of music:\nTo The Unknown (Launch theme) by Sunky.MP3G"
   },
   {
-    "repo": "sunkymp3g/netroniumtfs",
-    "internalName": "netroniummod",
-    "name": "Netronium: The Final Showdown",
-    "version": "CU-2",
-    "hidden": false,
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2025-05-09T11:59:38Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Content Update 2 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
-  },
-  {
     "repo": "durmiendo/extendlogs",
     "internalName": "extended-logs",
     "name": "ExtendLogs",
@@ -6648,5 +6634,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Greatly enhances the boss's health and attack."
+  },
+  {
+    "repo": "sunkymp3g/netroniumtfs",
+    "internalName": "netroniummod",
+    "name": "Netronium: The Final Showdown",
+    "version": "CU-2",
+    "hidden": false,
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2025-10-20T03:58:33Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Content Update 2 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   }
 ]
