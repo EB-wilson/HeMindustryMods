@@ -126,20 +126,6 @@
     "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
-    "repo": "3snake3/sapphirium",
-    "internalName": "sapphirium",
-    "name": "Sapphirium",
-    "version": "16.0",
-    "hidden": false,
-    "author": "Snake",
-    "lastUpdated": "2025-09-16T07:47:24Z",
-    "stars": 123,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
-  },
-  {
     "repo": "stabu-dev/omaloon",
     "internalName": "omaloon",
     "name": "Omaloon",
@@ -2352,6 +2338,20 @@
     "description": "Fully unlocks all research on the research tree instantly"
   },
   {
+    "repo": "ochpochmaks/larnos-planet",
+    "internalName": "larnos planet",
+    "name": "Larnos Planet",
+    "version": "0.5.1",
+    "hidden": false,
+    "author": "[green]Ochpoc[purple]hmaks",
+    "lastUpdated": "2024-04-06T12:04:45Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New planet for Mindustry! Новая планета для Mindustry! В этой версии:\n-Почти полная кампания на Ларно\n-Более 70 нововведений\n-3 Планеты, 2 из которых рабочие, 1 из них почти доделанная"
+  },
+  {
     "repo": "laohuajiofficial/unitarsenal",
     "internalName": "unit-arsenal",
     "name": "Unit Arsenal",
@@ -2588,20 +2588,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Complete tasks, fight, control ships, in space"
-  },
-  {
-    "repo": "ochpochmaks/larnos-planet",
-    "internalName": "larnos planet",
-    "name": "Larnos Planet",
-    "version": "0.5.1",
-    "hidden": false,
-    "author": "[green]Ochpoc[purple]hmaks",
-    "lastUpdated": "2024-04-06T12:04:45Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New planet for Mindustry! Новая планета для Mindustry! В этой версии:\n-Почти полная кампания на Ларно\n-Более 70 нововведений\n-3 Планеты, 2 из которых рабочие, 1 из них почти доделанная"
   },
   {
     "repo": "aerialasfofotherprojects/mindustrialist",
@@ -5600,20 +5586,6 @@
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod."
   },
   {
-    "repo": "rodrigoasfr24022003/rodrigonia-mod",
-    "internalName": "rodrigonia",
-    "name": "Rodrigonia",
-    "version": "1.0.2a",
-    "hidden": false,
-    "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2025-10-24T11:16:48Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -5626,6 +5598,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "rodrigoasfr24022003/rodrigonia-mod",
+    "internalName": "rodrigonia",
+    "name": "Rodrigonia",
+    "version": "1.0.2a",
+    "hidden": false,
+    "author": "rodrigo_of_rodrigonia",
+    "lastUpdated": "2025-10-24T21:41:52Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
