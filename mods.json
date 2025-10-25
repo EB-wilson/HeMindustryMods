@@ -608,7 +608,7 @@
     "version": "1.5.5",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2025-10-19T07:04:33Z",
+    "lastUpdated": "2025-10-25T15:29:11Z",
     "stars": 33,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2016,6 +2016,20 @@
     "description": "\nWIP mod, there a lots of unfinished/bugged content, \nwill update with more content, sprite reworks and bug fixes.\n\nAlso available in German!\n"
   },
   {
+    "repo": "weathercold/extra-logging",
+    "internalName": "extra-logging",
+    "name": "Extra Logging 2",
+    "version": "2.2.0",
+    "hidden": true,
+    "author": "Weathercold",
+    "lastUpdated": "2023-12-17T22:56:45Z",
+    "stars": 7,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
+  },
+  {
     "repo": "redstonneur1256/mindustry-modlib",
     "internalName": "!mod-library",
     "name": "Mod Library",
@@ -2322,20 +2336,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "You might be interested in taking a look..."
-  },
-  {
-    "repo": "weathercold/extra-logging",
-    "internalName": "extra-logging",
-    "name": "Extra Logging 2",
-    "version": "2.2.0",
-    "hidden": true,
-    "author": "Weathercold",
-    "lastUpdated": "2023-12-17T22:56:45Z",
-    "stars": 6,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
   },
   {
     "repo": "raffel080108/unlocktechtreemod",
@@ -4542,7 +4542,7 @@
     "version": "1.1",
     "hidden": false,
     "author": "Melis",
-    "lastUpdated": "2025-10-25T01:17:35Z",
+    "lastUpdated": "2025-10-25T16:21:30Z",
     "stars": 2,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6396,20 +6396,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "arsen1ygd/hcheat",
-    "internalName": "hcheat",
-    "name": "HCheat",
-    "version": "0.3",
-    "hidden": false,
-    "author": "Arsen1yGD",
-    "lastUpdated": "2025-06-01T21:27:58Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "H.\nЭтот мод - чит. Он может испортить интерес в игре.\nЧто он добавляет:\n- Быстрые, мощные и неразрушаемые источники.\n- Очень ёмкая батарейка.\n- ОП силовой узел\n- Быстрый (стаковый-)конвеер.\n- ОП Турель\n- ОП Стены\n- Быстри регенератор\n- Шустри ускоритель\n\nThis mod is cheat. It can reduce interest in game.\nWhat it adds:\n- Fast, powerful and unbreakable sources.\n- Super duper mega battery.\n- OP power node.\n- Fast (stack-)conveyor\n- OP Turret\n- OP Walls\n- Fast regenerator\n- Fast overdrive projector\n"
   },
   {
     "repo": "raviravirego76466/copperalloymod",
