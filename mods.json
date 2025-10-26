@@ -62,7 +62,7 @@
     "version": "1.7.1",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2025-10-25T19:39:47Z",
+    "lastUpdated": "2025-10-26T14:15:45Z",
     "stars": 178,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6580,20 +6580,6 @@
     "description": "Provides tools for easier debugging in Mindustry Logic."
   },
   {
-    "repo": "halopolicj/ppm",
-    "internalName": "ppm",
-    "name": "ppm",
-    "version": "1.0",
-    "hidden": false,
-    "author": "You",
-    "lastUpdated": "2025-09-07T10:23:31Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "not yet."
-  },
-  {
     "repo": "zetamap/no-steam-uuid",
     "internalName": "no-steam-uuid",
     "name": "No Steam UU​ID",
@@ -6662,5 +6648,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Greatly enhances the boss's health and attack."
+  },
+  {
+    "repo": "halopolicj/ppm",
+    "internalName": "ppm",
+    "name": "ppm",
+    "version": "1.0",
+    "hidden": false,
+    "author": "You",
+    "lastUpdated": "2025-10-26T13:48:20Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "not yet."
   }
 ]
