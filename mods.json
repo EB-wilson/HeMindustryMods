@@ -146,7 +146,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-10-28T21:54:32Z",
+    "lastUpdated": "2025-10-28T23:05:48Z",
     "stars": 122,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -364,6 +364,20 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
+    "repo": "pixecoz/schematicspack",
+    "internalName": "schematics-pack",
+    "name": "Schematics Pack",
+    "version": "9.0",
+    "hidden": true,
+    "author": "pixecoz",
+    "lastUpdated": "2024-11-18T06:35:43Z",
+    "stars": 55,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
+  },
+  {
     "repo": "liplum/multicrafterlib",
     "internalName": "multi-crafter",
     "name": "MultiCrafter Lib",
@@ -376,20 +390,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library for JSON and Javascript mods,\nincluding A crafter that supporting multiple recipes for items, fluids, power, and heat production.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
-  },
-  {
-    "repo": "pixecoz/schematicspack",
-    "internalName": "schematics-pack",
-    "name": "Schematics Pack",
-    "version": "9.0",
-    "hidden": true,
-    "author": "pixecoz",
-    "lastUpdated": "2024-11-18T06:35:43Z",
-    "stars": 54,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -1456,6 +1456,20 @@
     "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;\npink - сами увидите);"
   },
   {
+    "repo": "aforgetfulness/towerdefense",
+    "internalName": "towerdefense",
+    "name": "Tower Defense",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Forgetfulness",
+    "lastUpdated": "2023-08-16T09:13:54Z",
+    "stars": 11,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod with tower defense maps and objects"
+  },
+  {
     "repo": "xzxadixzx/scheme-size-lite",
     "internalName": "scheme-size-lite",
     "name": "Scheme Size Lite",
@@ -1512,18 +1526,18 @@
     "description": "Automatically translates chat messages"
   },
   {
-    "repo": "aforgetfulness/towerdefense",
-    "internalName": "towerdefense",
-    "name": "Tower Defense",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Forgetfulness",
-    "lastUpdated": "2023-08-16T09:13:54Z",
+    "repo": "foxitos/cmd-pack",
+    "internalName": "cmd-scheme-pack",
+    "name": "CMD Scheme Pack",
+    "version": "2.0.0",
+    "hidden": true,
+    "author": "foxit, QUITE ETHER",
+    "lastUpdated": "2023-09-16T22:50:36Z",
     "stars": 10,
-    "minGameVersion": "140.1",
+    "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Mod with tower defense maps and objects"
+    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
   },
   {
     "repo": "jhrushbe/moardustry",
@@ -1678,20 +1692,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
-  },
-  {
-    "repo": "foxitos/cmd-pack",
-    "internalName": "cmd-scheme-pack",
-    "name": "CMD Scheme Pack",
-    "version": "2.0.0",
-    "hidden": true,
-    "author": "foxit, QUITE ETHER",
-    "lastUpdated": "2023-09-16T22:50:36Z",
-    "stars": 9,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
   },
   {
     "repo": "i-hope1/mod.make",
@@ -3626,6 +3626,20 @@
     "description": "WHERE IS OMNIMAN"
   },
   {
+    "repo": "dx-36/trolldustry",
+    "internalName": "trolldustry",
+    "name": "Trolldustry",
+    "version": "too much trolling",
+    "hidden": false,
+    "author": "DX-36",
+    "lastUpdated": "2025-04-20T03:15:35Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "modifies the campain maps to troll you"
+  },
+  {
     "repo": "johnnywu2k/void",
     "internalName": "void",
     "name": "Void",
@@ -4338,20 +4352,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mobile UI QOL\n\nAdds Buttons for:\n-Mini Map\n-Planet Map\n-Resync\n-Selecting Units/Factories across the screen/map!\n\nAll this can be turned off/on in settings!"
-  },
-  {
-    "repo": "dx-36/trolldustry",
-    "internalName": "trolldustry",
-    "name": "Trolldustry",
-    "version": "too much trolling",
-    "hidden": false,
-    "author": "DX-36",
-    "lastUpdated": "2025-04-20T03:15:35Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "modifies the campain maps to troll you"
   },
   {
     "repo": "dusk-flare/industrialis",
