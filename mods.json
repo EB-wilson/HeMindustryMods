@@ -4536,20 +4536,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "slib",
-    "name": "Silvirium",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2025-10-26T04:02:55Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "appleee406/tonvara",
     "internalName": "tonv",
     "name": "Tonvara planet",
@@ -4576,6 +4562,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "anotha planet mod\nsooooooooo\nconquest!!!\nand bring ur own music\n\n!! NOTICE:\nmajor credit to the creators of asthosus as i used the mod as a template/refrence for things\n!!"
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "slib",
+    "name": "Silvirium",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2025-10-31T05:03:39Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -6676,5 +6676,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "not yet."
+  },
+  {
+    "repo": "nadzhafovtimur/morecontentmod",
+    "internalName": "more-content-mod",
+    "name": "More content mod",
+    "version": "1.1",
+    "hidden": false,
+    "author": "NadzhafovTimur and Lemihir",
+    "lastUpdated": "2025-10-30T16:33:12Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds gold, iron, gold walls, iron walls, and lead walls. More will be added in the future. Stay tuned."
   }
 ]
