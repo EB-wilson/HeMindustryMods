@@ -4550,20 +4550,6 @@
     "description": "New planet"
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "slib",
-    "name": "Silvirium",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2025-10-31T14:40:22Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "caboosket/annoica",
     "internalName": "annoica",
     "name": "Annoica",
@@ -4576,6 +4562,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "anotha planet mod\nsooooooooo\nconquest!!!\nand bring ur own music\n\n!! NOTICE:\nmajor credit to the creators of asthosus as i used the mod as a template/refrence for things\n!!"
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "slib",
+    "name": "Silvirium",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2025-11-01T02:45:13Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -6690,5 +6690,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds gold, iron, gold walls, iron walls, and lead walls. More will be added in the future. Stay tuned."
+  },
+  {
+    "repo": "nichozolubigan/fill-a-barrel",
+    "internalName": "fb",
+    "name": "Fill-a-Barrel",
+    "version": "1.0",
+    "hidden": false,
+    "author": "[#8b008b]NiChoZoLubigan[]",
+    "lastUpdated": "2025-11-01T02:12:39Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Fills and create barrels for transport. Serpulo only."
   }
 ]
