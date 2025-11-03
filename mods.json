@@ -748,7 +748,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2025-11-02T06:37:54Z",
+    "lastUpdated": "2025-11-03T04:18:05Z",
     "stars": 27,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1764,20 +1764,6 @@
     "description": "Total conversion PVP mod set in fantasy medieval times"
   },
   {
-    "repo": "hao-1337/mindustry-better-vanilla",
-    "internalName": "hao1337-mod",
-    "name": "[ Better Vanilla ]",
-    "version": "1.8.0",
-    "hidden": true,
-    "author": "Hao1337",
-    "lastUpdated": "2025-10-27T13:43:45Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
-  },
-  {
     "repo": "meepoffaith/additional-logistics",
     "internalName": "tranqol",
     "name": "Additional Logistics",
@@ -1790,6 +1776,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
+  },
+  {
+    "repo": "hao-1337/mindustry-better-vanilla",
+    "internalName": "hao1337-mod",
+    "name": "[ Better Vanilla ]",
+    "version": "1.8.0",
+    "hidden": true,
+    "author": "Hao1337",
+    "lastUpdated": "2025-11-03T04:10:50Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
     "repo": "liplum/bottledliquid",
@@ -1860,20 +1860,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "STAR my mod, pls. Adds a new vanilla unit in vanilla unit factory!\n  **Languages:\n    1.Russian\n    1.English**\n"
-  },
-  {
-    "repo": "koctz34/factor",
-    "internalName": "factor",
-    "name": "Factor",
-    "version": "0.0.3Alpha",
-    "hidden": false,
-    "author": "MISTICA",
-    "lastUpdated": "2024-07-05T06:43:37Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "THE MAIN PLANET Nauvis IS STILL UNDER DEVELOPMENT, IT IS EXTREMELY NOT RECOMMENDED TO PLAY ON IT.\n\nFactorio in mindustry!\n\nIn this mod, almost all the content from the Factorio game will be transferred. You have to build a big factory... and launch a rocket! The mod is not in very active development, support is needed for the development of the mod.\n\nFor an atmospheric game, it is recommended to download factroundustry. Good luck with building the factory!"
   },
   {
     "repo": "stormride-r/cruxscape-takeover",
