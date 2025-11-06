@@ -1064,20 +1064,6 @@
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
-    "repo": "echovespy/simplistic",
-    "internalName": "simplistic",
-    "name": "Simplistic - TexturePack",
-    "version": "0.12.0",
-    "hidden": true,
-    "author": "EchoVespy",
-    "lastUpdated": "2024-05-20T02:23:42Z",
-    "stars": 17,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
-  },
-  {
     "repo": "apszoldat/mindustrymappingutilities",
     "internalName": "mapping-utilities",
     "name": "Mapping Utilities",
@@ -1104,6 +1090,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod for browsing schematic repositories."
+  },
+  {
+    "repo": "echovespy/simplistic",
+    "internalName": "simplistic",
+    "name": "Simplistic - TexturePack",
+    "version": "0.12.0",
+    "hidden": true,
+    "author": "EchoVespy",
+    "lastUpdated": "2025-11-06T22:18:21Z",
+    "stars": 17,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
     "repo": "mnemotechnician/new-controls-public",
