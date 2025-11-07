@@ -6692,20 +6692,6 @@
     "description": "Greatly enhances the boss's health and attack."
   },
   {
-    "repo": "halopolicj/ppm",
-    "internalName": "ppm",
-    "name": "ppm",
-    "version": "1.0",
-    "hidden": false,
-    "author": "You",
-    "lastUpdated": "2025-10-26T13:48:20Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "not yet."
-  },
-  {
     "repo": "nadzhafovtimur/morecontentmod",
     "internalName": "more-content-mod",
     "name": "More content mod",
@@ -6732,5 +6718,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Fills and create barrels for transport. Serpulo only."
+  },
+  {
+    "repo": "halopolicj/ppm",
+    "internalName": "ppm",
+    "name": "ppm",
+    "version": "1.0",
+    "hidden": false,
+    "author": "You",
+    "lastUpdated": "2025-11-07T21:30:13Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "not yet."
   }
 ]
