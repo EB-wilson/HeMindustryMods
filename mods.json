@@ -469,7 +469,7 @@
     "hidden": false,
     "author": "HPL Team",
     "lastUpdated": "2025-10-30T08:46:39Z",
-    "stars": 43,
+    "stars": 44,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -2464,20 +2464,6 @@
     "description": "用于显示子弹溅射范围或者单位坠落伤害半径的辅助模组(起码以前是)"
   },
   {
-    "repo": "spacetwoo/nolea-siege",
-    "internalName": "nul",
-    "name": "Nolea Siege",
-    "version": "1.2.2",
-    "hidden": false,
-    "author": "Spacetwoo N cool guys",
-    "lastUpdated": "2025-11-06T05:21:40Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "If something deforms your body beyond recognition and takes away your mind, will it still be you?... \n \n A fast-paced mod with a variety of enemies, bosses and strange gameplay decisions! Right now there are 4 sectors out of 12! also There are still some unfinished things in here. \n Code - SpaceTwoo. \n Maps - SpaceTwoo SKYPETR, Lewiafan ROVO. \n Sprites - SpaceTwoo, ArtmX, Bloody-Ocean \n Other - Closed_Ink, Gribdius."
-  },
-  {
     "repo": "00sunray00/scheme-size-port",
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
@@ -3892,20 +3878,6 @@
     "description": "模仿了学术端cyan字的效果，增加了几乎所有物品的下方灰字补充说明"
   },
   {
-    "repo": "wantechfan/mindustry-mod-some-musics",
-    "internalName": "wantechfan's-cool-musics",
-    "name": "Cool Musics",
-    "version": "1.1",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2025-11-02T09:02:28Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
-  },
-  {
     "repo": "dustdustry/contentseditor",
     "internalName": "contents-editor",
     "name": "ContentsEditor",
@@ -3932,6 +3904,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
+  },
+  {
+    "repo": "wantechfan/mindustry-mod-some-musics",
+    "internalName": "wantechfan's-cool-musics",
+    "name": "Cool Musics",
+    "version": "1.2.2",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2025-11-07T13:07:37Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
