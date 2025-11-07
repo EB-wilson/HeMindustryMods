@@ -636,7 +636,7 @@
     "version": "v1.0.0 beta",
     "hidden": false,
     "author": "D&X",
-    "lastUpdated": "2025-11-06T16:26:53Z",
+    "lastUpdated": "2025-11-07T15:50:35Z",
     "stars": 30,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3892,20 +3892,6 @@
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
-    "repo": "m1cxzfw3q/logicextend",
-    "internalName": "logic-extend",
-    "name": "LogicExtend - 逻辑扩展",
-    "version": "0.0.1",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2025-11-04T14:01:55Z",
-    "stars": 3,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
-  },
-  {
     "repo": "wantechfan/mindustry-mod-some-musics",
     "internalName": "wantechfan's-cool-musics",
     "name": "Cool Musics",
@@ -3918,6 +3904,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
+  },
+  {
+    "repo": "m1cxzfw3q/logicextend",
+    "internalName": "logic-extend",
+    "name": "LogicExtend - 逻辑扩展",
+    "version": "0.0.1",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2025-11-07T15:01:08Z",
+    "stars": 3,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -5642,20 +5642,6 @@
     "description": "Mod created by one developer :p"
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.1.3",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2025-11-05T02:59:47Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering-java",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -5668,6 +5654,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.1.3",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2025-11-07T15:03:03Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
