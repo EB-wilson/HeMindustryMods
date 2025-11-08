@@ -146,7 +146,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-11-05T23:38:14Z",
+    "lastUpdated": "2025-11-07T22:56:09Z",
     "stars": 123,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -826,20 +826,6 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
   },
   {
-    "repo": "teamviscott/modprojectviscott",
-    "internalName": "project-viscott",
-    "name": "Project Viscott",
-    "version": "0.1.9.7",
-    "hidden": false,
-    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings, TB1, FrireDragon, EyeOfDarkness \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke, EyeOfDarkness \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2025-09-19T10:31:25Z",
-    "stars": 24,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
-  },
-  {
     "repo": "ballgamer56/vanillaextended",
     "internalName": "vanilla extended",
     "name": "VanillaExtended",
@@ -852,6 +838,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
+  },
+  {
+    "repo": "teamviscott/modprojectviscott",
+    "internalName": "project-viscott",
+    "name": "Project Viscott",
+    "version": "0.1.9.7",
+    "hidden": false,
+    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings, TB1, FrireDragon, EyeOfDarkness \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke, EyeOfDarkness \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
+    "lastUpdated": "2025-11-07T23:54:48Z",
+    "stars": 24,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
     "repo": "eyeofdarkness/advance-lighting",
@@ -930,7 +930,7 @@
     "version": "1.1.0",
     "hidden": false,
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2025-11-07T04:18:56Z",
+    "lastUpdated": "2025-11-07T22:35:50Z",
     "stars": 21,
     "minGameVersion": "151",
     "hasScripts": false,
@@ -2128,20 +2128,6 @@
     "description": "A library for adding icons to game font."
   },
   {
-    "repo": "smolkeys/yellow-rewritten",
-    "internalName": "yellow",
-    "name": "MINDUSTRY: YELLOW",
-    "version": "2.8S",
-    "hidden": false,
-    "author": "SMOLKEYS",
-    "lastUpdated": "2025-04-19T07:11:52Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "When passion collides with the shitposter's mind.\n\nYellow currently identifies as a shitpost mod, but I'd like to change that.\n\nSee you soon."
-  },
-  {
     "repo": "smolkeys/new-console-hardline",
     "internalName": "newconsole-hardline",
     "name": "New Console Hardline",
@@ -2268,13 +2254,27 @@
     "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\n\nAstralis is a mod focused on adding a brand new campaign on a planet harboring the same name.\n\nSet in the same universe as Hell Industries (althought not as horribly painful), fight hordes of eldritch AND mechanical horrors alike with your own mechanical horrors!\nOverthrow a government, kill god and ravage an entire planet now! (or maybe when the mod is done)\n\nDifficulty: uhhh... it depends...\nContent: For now, quite a decent amount. A lot is in store for the future though :3\nSillyness: MAXIMUM\nEldritch Horrors: I'm just getting started!\nQuality: uhhh... it depends...\nBalancing: What even is that???????\n"
   },
   {
+    "repo": "smolkeys/yellow-rewritten",
+    "internalName": "yellow",
+    "name": "MINDUSTRY: YELLOW",
+    "version": "2.8S",
+    "hidden": false,
+    "author": "SMOLKEYS",
+    "lastUpdated": "2025-11-07T23:35:10Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "When passion collides with the shitposter's mind.\n\nYellow currently identifies as a shitpost mod, but I'd like to change that.\n\nSee you soon."
+  },
+  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
-    "version": "2.4",
+    "version": "2.4.1",
     "hidden": true,
     "author": "io community",
-    "lastUpdated": "2025-10-30T23:26:57Z",
+    "lastUpdated": "2025-11-08T00:40:30Z",
     "stars": 7,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -2772,20 +2772,6 @@
     "description": "Additional functionality"
   },
   {
-    "repo": "decar4ct/astherivegenesis",
-    "internalName": "astherive-gen",
-    "name": "Genesis",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Astherive Team",
-    "lastUpdated": "2025-09-20T07:42:42Z",
-    "stars": 5,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod.\n\nUnder very early development.\n\nYes. this is what you're looking for."
-  },
-  {
     "repo": "obsidan55/the-rising-sun",
     "internalName": "trs",
     "name": "The Rising Sun",
@@ -2814,16 +2800,30 @@
     "description": "Add an admin button."
   },
   {
+    "repo": "decar4ct/astherivegenesis",
+    "internalName": "astherive-gen",
+    "name": "Genesis",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Astherive Team",
+    "lastUpdated": "2025-11-08T00:53:24Z",
+    "stars": 5,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod.\n\nUnder very early development.\n\nYes. this is what you're looking for."
+  },
+  {
     "repo": "typicaldeveloper123/biotic-zlo",
     "internalName": "corpuscles",
     "name": "Corpuscles",
     "version": "v1.1.1",
     "hidden": false,
     "author": "Bismutotantalite/Biz",
-    "lastUpdated": "2025-11-07T08:55:43Z",
+    "lastUpdated": "2025-11-08T01:12:10Z",
     "stars": 5,
     "minGameVersion": "153",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "A mod that features life.\nSPOILER:\n- MIGHT CONTAIN DISTURBING GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- BIO UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nWIP\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n  "
   },
@@ -3912,7 +3912,7 @@
     "version": "0.0.1",
     "hidden": false,
     "author": "[sky]114514[white]",
-    "lastUpdated": "2025-11-07T15:01:08Z",
+    "lastUpdated": "2025-11-08T01:16:55Z",
     "stars": 3,
     "minGameVersion": "151.1",
     "hasScripts": false,
