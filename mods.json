@@ -2484,7 +2484,7 @@
     "version": "v1.1.1",
     "hidden": false,
     "author": "Bismutotantalite/Biz",
-    "lastUpdated": "2025-11-08T07:41:28Z",
+    "lastUpdated": "2025-11-08T09:30:46Z",
     "stars": 6,
     "minGameVersion": "153",
     "hasScripts": true,
@@ -3878,20 +3878,6 @@
     "description": "模仿了学术端cyan字的效果，增加了几乎所有物品的下方灰字补充说明"
   },
   {
-    "repo": "dustdustry/contentseditor",
-    "internalName": "contents-editor",
-    "name": "ContentsEditor",
-    "version": "1.2",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2025-11-02T11:41:42Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
     "repo": "wantechfan/mindustry-mod-some-musics",
     "internalName": "wantechfan's-cool-musics",
     "name": "Cool Musics",
@@ -3918,6 +3904,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
+  },
+  {
+    "repo": "dustdustry/contentseditor",
+    "internalName": "contents-editor",
+    "name": "ContentsEditor",
+    "version": "1.2",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2025-11-08T08:47:01Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
