@@ -602,20 +602,6 @@
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "version": "1.5.5",
-    "hidden": true,
-    "author": "I hope...",
-    "lastUpdated": "2025-11-02T03:16:00Z",
-    "stars": 33,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.5\n## Highlight\n- Fixed a severe npe bug about data(settings) save.\n- Added a setting: force_language.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
-  },
-  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -2271,10 +2257,10 @@
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
-    "version": "2.4.1",
+    "version": "2.4.2",
     "hidden": true,
     "author": "io community",
-    "lastUpdated": "2025-11-09T08:22:22Z",
+    "lastUpdated": "2025-11-09T12:31:51Z",
     "stars": 7,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -3290,20 +3276,6 @@
     "description": "Ru:\n Шейдер, который изменяет внешний вид жидкостей. Взято из мода FactoryDustry-Texture Pack. \nСпециално для канала Mindustry - Рестор.\n Мой Дискорд DaNtEsLr#0746  \n\nEn:\n A shader that changes the appearance of liquids. Taken from the mod FactoryDustry-Texture Pack. \nEspecially for the channel Mindustry - Рестор.\n My Discord DaNtEsLr#0746 "
   },
   {
-    "repo": "vadit2020/betamindytranslated",
-    "internalName": "betamindy",
-    "name": "BetaMindy",
-    "version": "1.1",
-    "hidden": false,
-    "author": "sk7725",
-    "lastUpdated": "2023-06-08T18:34:40Z",
-    "stars": 3,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "BetaMindy на русском"
-  },
-  {
     "repo": "nevaseenyeee/unto-ather",
     "internalName": "ua",
     "name": "Unto Ather",
@@ -3904,20 +3876,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
-    "repo": "thesmal/starter-buffer",
-    "internalName": "starter buffer",
-    "name": "STARTER-BUFFER",
-    "version": "8",
-    "hidden": false,
-    "author": "Thesmal (Before known as LittleBloo)",
-    "lastUpdated": "2025-11-08T11:33:48Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "DISCLAIMER!!!: please use the install with version button and NOT the install button!!!! the version displayed is outdated majority of the time!!\n\nBuffs the Alpha and Evoke units so its better to stay on the Shard or Bastion core (smallest ones),\nAdds a TON of HP to the Alpha and Evoke,\nChanged bullet to Fire bullet for the Alpha (shard and bastion core has alot of hp),\nMining Speed, Item capacity is also Improved,\nHave a good day!\nthe Duo and Scatter turrets are also Buffed\nCopper walls are now the best defense in the game\nthe Mechanical Drill is also the best Drill and can mine anything\nand the Plasma Bore and Impact Drill has been buffed\nNormal Conveyors are also the best along with Ducts.\nMenders are WAAAAAAAAAAAAAAAAAAAAAY better than mend projectors now\n\nIt's my First Mod\nMay have some bugs so please tell me any and also tell me code improvements :D\n\nFeel free to use this as a base or reference for your mods. (maybe not base)"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
