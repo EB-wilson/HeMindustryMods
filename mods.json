@@ -2834,7 +2834,7 @@
     "version": "v1.1.1",
     "hidden": false,
     "author": "Bismutotantalite/Biz",
-    "lastUpdated": "2025-11-11T06:31:24Z",
+    "lastUpdated": "2025-11-11T10:22:05Z",
     "stars": 5,
     "minGameVersion": "153",
     "hasScripts": true,
@@ -5598,6 +5598,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Makes blocks display way too accurately which resources they have been built with. Warning: Ugly."
+  },
+  {
+    "repo": "ancvike/auxiliarymod",
+    "internalName": "auxiliary-mod",
+    "name": "辅助mod",
+    "version": "1.0.8",
+    "hidden": false,
+    "author": "Ancvike",
+    "lastUpdated": "2025-10-03T04:16:33Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "提供一些辅助功能, 例如修改资源,建筑,单位,地图, 以及各种方便大家游玩的功能"
   },
   {
     "repo": "unknownobjectv2/camellia-music-sfx-pack",
