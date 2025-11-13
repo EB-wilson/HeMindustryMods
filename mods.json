@@ -798,20 +798,6 @@
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
-    "repo": "smolkeys/yellow-java",
-    "internalName": "yellow-java",
-    "name": "Yellow (Java)",
-    "version": "0.015",
-    "hidden": false,
-    "author": "SMOLKEYS",
-    "lastUpdated": "2025-11-04T09:43:47Z",
-    "stars": 25,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Another go, once more."
-  },
-  {
     "repo": "teamviscott/modprojectviscott",
     "internalName": "project-viscott",
     "name": "Project Viscott",
@@ -824,6 +810,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
+  },
+  {
+    "repo": "smolkeys/yellow-java",
+    "internalName": "yellow-java",
+    "name": "Yellow (Java)",
+    "version": "0.015",
+    "hidden": false,
+    "author": "SMOLKEYS",
+    "lastUpdated": "2025-11-13T14:47:23Z",
+    "stars": 25,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Another go, once more."
   },
   {
     "repo": "eyeofdarkness/advance-lighting",
@@ -3906,20 +3906,6 @@
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
-    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
-    "internalName": "wantechfan's-cursed-bundles",
-    "name": "Cursed Bundles",
-    "version": "1.9",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2025-11-09T14:04:01Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
-  },
-  {
     "repo": "m1cxzfw3q/logicextend",
     "internalName": "logic-extend",
     "name": "LogicExtend - 逻辑扩展",
@@ -3932,6 +3918,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
+  },
+  {
+    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
+    "internalName": "wantechfan's-cursed-bundles",
+    "name": "Cursed Bundles",
+    "version": "1.9",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2025-11-13T14:23:28Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
