@@ -636,7 +636,7 @@
     "version": "v1.0.0 beta",
     "hidden": false,
     "author": "D&X",
-    "lastUpdated": "2025-11-16T06:18:12Z",
+    "lastUpdated": "2025-11-16T06:52:43Z",
     "stars": 31,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1476,7 +1476,7 @@
     "version": "2.70.1",
     "hidden": false,
     "author": "编号9527",
-    "lastUpdated": "2025-11-09T13:04:52Z",
+    "lastUpdated": "2025-11-16T07:34:30Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2758,20 +2758,6 @@
     "description": ""
   },
   {
-    "repo": "i-drink-gasoline/admin-button-2",
-    "internalName": "admin-button-2",
-    "name": "Admin Button 2",
-    "version": "22",
-    "hidden": true,
-    "author": "I drink gasoline",
-    "lastUpdated": "2025-11-05T14:00:22Z",
-    "stars": 5,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add an admin button."
-  },
-  {
     "repo": "decar4ct/astherivegenesis",
     "internalName": "astherive-gen",
     "name": "Genesis",
@@ -2798,6 +2784,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
+  },
+  {
+    "repo": "i-drink-gasoline/admin-button-2",
+    "internalName": "admin-button-2",
+    "name": "Admin Button 2",
+    "version": "23",
+    "hidden": true,
+    "author": "I drink gasoline",
+    "lastUpdated": "2025-11-16T08:07:13Z",
+    "stars": 5,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add an admin button."
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -3836,20 +3836,6 @@
     "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
-    "repo": "dustdustry/contentseditor",
-    "internalName": "contents-editor",
-    "name": "ContentsEditor",
-    "version": "1.2",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2025-11-08T08:47:01Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
     "repo": "m1cxzfw3q/logicextend",
     "internalName": "logic-extend",
     "name": "LogicExtend - 逻辑扩展",
@@ -3890,6 +3876,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Recreation of my first mod"
+  },
+  {
+    "repo": "dustdustry/contentseditor",
+    "internalName": "contents-editor",
+    "name": "ContentsEditor",
+    "version": "1.2",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2025-11-16T07:51:14Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
