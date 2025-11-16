@@ -636,7 +636,7 @@
     "version": "v1.0.0 beta",
     "hidden": false,
     "author": "D&X",
-    "lastUpdated": "2025-11-16T06:52:43Z",
+    "lastUpdated": "2025-11-16T12:35:18Z",
     "stars": 31,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2442,7 +2442,7 @@
     "version": "v1.1.1",
     "hidden": false,
     "author": "Bismutotantalite/Biz",
-    "lastUpdated": "2025-11-16T10:11:25Z",
+    "lastUpdated": "2025-11-16T10:24:07Z",
     "stars": 6,
     "minGameVersion": "153",
     "hasScripts": true,
@@ -3884,7 +3884,7 @@
     "version": "1.9",
     "hidden": true,
     "author": "WantechFan",
-    "lastUpdated": "2025-11-16T10:00:12Z",
+    "lastUpdated": "2025-11-16T12:17:55Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4100,6 +4100,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Этот мод позволяет строить скрытые блоки, которые доступны только в песочнице или которые вообще недоступны без читов"
+  },
+  {
+    "repo": "illa4257/mindustrysyncproject",
+    "internalName": "mindustry-sync-project",
+    "name": "Mindustry Sync Project",
+    "version": "0.0.1",
+    "hidden": true,
+    "author": "illa4257",
+    "lastUpdated": "2024-04-23T04:54:34Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java Mod for synchronization (for now only schematics)."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -4954,20 +4968,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Replaces all wave spawns with one of four T5s (primarily reigns). Yes that means you'll face a reign at wave 1 in ground zero."
-  },
-  {
-    "repo": "illa4257/mindustrysyncproject",
-    "internalName": "mindustry-sync-project",
-    "name": "Mindustry Sync Project",
-    "version": "0.0.1",
-    "hidden": true,
-    "author": "illa4257",
-    "lastUpdated": "2024-04-23T04:54:34Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java Mod for synchronization (for now only schematics)."
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
