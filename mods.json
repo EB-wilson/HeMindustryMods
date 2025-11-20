@@ -476,13 +476,13 @@
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
-    "repo": "paulieg626/cheat",
+    "repo": "oleglysukhin/cheat",
     "internalName": "cheat",
     "name": "CheatMod",
     "version": "2.7",
     "hidden": false,
     "author": "paulieg626",
-    "lastUpdated": "2023-02-27T10:41:04Z",
+    "lastUpdated": "2025-11-20T17:53:22Z",
     "stars": 39,
     "minGameVersion": "142",
     "hasScripts": true,
@@ -636,7 +636,7 @@
     "version": "v1.0.0 beta",
     "hidden": false,
     "author": "D&X",
-    "lastUpdated": "2025-11-20T12:17:04Z",
+    "lastUpdated": "2025-11-20T18:26:14Z",
     "stars": 31,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1652,20 +1652,6 @@
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
   },
   {
-    "repo": "paulieg626/admintool",
-    "internalName": "admintool",
-    "name": "AdminTool",
-    "version": "1.1",
-    "hidden": true,
-    "author": "paulieg626",
-    "lastUpdated": "2023-01-03T03:16:33Z",
-    "stars": 9,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
-  },
-  {
     "repo": "i-hope1/mod.make",
     "internalName": "mod make",
     "name": "mod.make",
@@ -1748,6 +1734,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
+  },
+  {
+    "repo": "paulieg626/admintool",
+    "internalName": "admintool",
+    "name": "AdminTool",
+    "version": "1.1",
+    "hidden": true,
+    "author": "paulieg626",
+    "lastUpdated": "2025-11-20T18:02:47Z",
+    "stars": 9,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
     "repo": "slava0135/refine",
@@ -4584,7 +4584,7 @@
     "version": "4.3.1",
     "hidden": true,
     "author": "Xpdustry",
-    "lastUpdated": "2025-11-20T01:03:33Z",
+    "lastUpdated": "2025-11-20T17:02:39Z",
     "stars": 2,
     "minGameVersion": "149",
     "hasScripts": false,
