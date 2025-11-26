@@ -546,6 +546,20 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
+    "repo": "sh1penfire/meld",
+    "internalName": "meld",
+    "name": "Meld",
+    "version": "",
+    "hidden": false,
+    "author": "Sh1penfire",
+    "lastUpdated": "2025-11-15T07:22:03Z",
+    "stars": 35,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
+  },
+  {
     "repo": "andromeda-galaxy29/psammos-mod",
     "internalName": "psammos",
     "name": "Psammos Mod",
@@ -572,20 +586,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
-  },
-  {
-    "repo": "sh1penfire/meld",
-    "internalName": "meld",
-    "name": "Meld",
-    "version": "",
-    "hidden": false,
-    "author": "Sh1penfire",
-    "lastUpdated": "2025-11-15T07:22:03Z",
-    "stars": 34,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
     "repo": "coaldeficit/moredefences",
@@ -5600,20 +5600,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "nezerit6/extended-walls",
-    "internalName": "extended-walls",
-    "name": "Extended Walls",
-    "version": "1",
-    "hidden": false,
-    "author": "Nezerit6",
-    "lastUpdated": "2025-11-25T19:44:52Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new wall sizes to both Serpulo and Erekir! All existing wall types now include 3x3 (Huge) and 4x4 (Gigantic) variants"
-  },
-  {
     "repo": "wmf-industries/thesunvanished",
     "internalName": "tsv",
     "name": "The Sun Vanished Preview",
@@ -5626,6 +5612,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The sun is gone guys, what do we do?"
+  },
+  {
+    "repo": "nezerit6/extended-walls",
+    "internalName": "extended-walls",
+    "name": "Extended Walls",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Nezerit6",
+    "lastUpdated": "2025-11-26T17:00:43Z",
+    "stars": 1,
+    "minGameVersion": "153",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new wall sizes to both Serpulo and Erekir! All existing wall types now include 3x3 (Huge) and 4x4 (Gigantic) variants"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
