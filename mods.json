@@ -3234,20 +3234,6 @@
     "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
-    "repo": "dustdustry/contentseditor",
-    "internalName": "contents-editor",
-    "name": "ContentsEditor",
-    "version": "1.2",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2025-11-21T14:29:18Z",
-    "stars": 4,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -3274,6 +3260,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
+  },
+  {
+    "repo": "dustdustry/contentseditor",
+    "internalName": "contents-editor",
+    "name": "ContentsEditor",
+    "version": "1.2",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2025-11-30T02:16:22Z",
+    "stars": 4,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "boolmano/bombermod",
@@ -4466,20 +4466,6 @@
     "description": "介绍日后再写"
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2025-10-13T11:02:34Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "appleee406/tonvara",
     "internalName": "tonv",
     "name": "Tonvara planet",
@@ -4590,6 +4576,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2025-11-30T03:25:24Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
