@@ -490,6 +490,20 @@
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
+    "repo": "sublemon-team/subvoyage",
+    "internalName": "subvoyage",
+    "name": "Subvoyage",
+    "version": "0.6.2-beta",
+    "hidden": false,
+    "author": "Skoow, IriDark",
+    "lastUpdated": "2025-05-14T17:38:42Z",
+    "stars": 39,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquatic-stylized mod with new planet and unique mechanics"
+  },
+  {
     "repo": "oleglysukhin/cheat",
     "internalName": "cheat",
     "name": "CheatMod",
@@ -502,20 +516,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
-  },
-  {
-    "repo": "sublemon-team/subvoyage",
-    "internalName": "subvoyage",
-    "name": "Subvoyage",
-    "version": "0.6.2-beta",
-    "hidden": false,
-    "author": "Skoow, IriDark",
-    "lastUpdated": "2025-05-14T17:38:42Z",
-    "stars": 38,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
     "repo": "eb-wilson/helium",
@@ -6706,20 +6706,6 @@
     "description": "Fills and create barrels for transport. Serpulo only."
   },
   {
-    "repo": "betu-ioskatev-mindustry/mindustry-ioskatev-language",
-    "internalName": "ioskatev-language",
-    "name": "Mixed 7 ioskaTev languages translation of mindusTry (ve...",
-    "version": "1.0",
-    "hidden": true,
-    "author": "☭Betu☭ & WantechFan",
-    "lastUpdated": "2025-11-29T13:09:11Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "made by @betu.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
-  },
-  {
     "repo": "halopolicj/ppm",
     "internalName": "ppm",
     "name": "ppm",
@@ -6732,5 +6718,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "not yet."
+  },
+  {
+    "repo": "betu-ioskatev-mindustry/mindustry-ioskatev-language",
+    "internalName": "ioskatev-language",
+    "name": "Mixed 7 ioskaTev languages translation of mindusTry (ve...",
+    "version": "1.0",
+    "hidden": true,
+    "author": "☭Betu☭ & WantechFan",
+    "lastUpdated": "2025-12-04T13:22:19Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "made by @betu.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
   }
 ]
