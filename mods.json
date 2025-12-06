@@ -4564,20 +4564,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "slib",
-    "name": "Silvirium",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2025-12-05T21:57:25Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering-java",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -4590,6 +4576,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "slib",
+    "name": "Silvirium",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2025-12-06T21:07:22Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -6760,5 +6760,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
+  },
+  {
+    "repo": "dimon112/sand-storm-mindustry",
+    "internalName": "sand stormv2",
+    "name": "sand-storm-mindustry",
+    "version": "1.27",
+    "hidden": false,
+    "author": "dimon",
+    "lastUpdated": "2025-12-06T20:57:10Z",
+    "stars": 0,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod adds new planet with blocks, items, units and will continue to be updated, which i hope is actually true"
   }
 ]
