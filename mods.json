@@ -539,7 +539,7 @@
     "hidden": false,
     "author": "AndromedaGalaxy29",
     "lastUpdated": "2025-12-05T17:58:03Z",
-    "stars": 36,
+    "stars": 37,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
@@ -580,7 +580,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2025-12-05T17:39:54Z",
+    "lastUpdated": "2025-12-06T01:04:55Z",
     "stars": 35,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -594,7 +594,7 @@
     "version": "3.1.4",
     "hidden": false,
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-12-05T21:17:59Z",
+    "lastUpdated": "2025-12-05T23:26:17Z",
     "stars": 34,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -2022,7 +2022,7 @@
     "version": "v1.1.2",
     "hidden": false,
     "author": "Bismutotantalite/Biz",
-    "lastUpdated": "2025-12-05T05:44:41Z",
+    "lastUpdated": "2025-12-06T00:58:05Z",
     "stars": 8,
     "minGameVersion": "153",
     "hasScripts": true,
@@ -6594,20 +6594,6 @@
     "description": "A mod that prevents the steam version from creating another uu​id, when importing your save from another version.\n\nNote: This mod does nothing if your client is not the steam version."
   },
   {
-    "repo": "wmf-industries/extremity",
-    "internalName": "extremity",
-    "name": "Extremity",
-    "version": "1.1.1",
-    "hidden": true,
-    "author": "WMF Industries",
-    "lastUpdated": "2025-09-30T22:02:41Z",
-    "stars": 0,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry: Evil Edition"
-  },
-  {
     "repo": "eight-squared/iron-clouds",
     "internalName": "iron-clouds",
     "name": "Iron clouds",
@@ -6732,5 +6718,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "made by @betu.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
+  },
+  {
+    "repo": "wmf-industries/extremity",
+    "internalName": "extremity",
+    "name": "Extremity",
+    "version": "1.1.2",
+    "hidden": true,
+    "author": "WMF Industries",
+    "lastUpdated": "2025-12-05T23:56:38Z",
+    "stars": 0,
+    "minGameVersion": "153",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry: Evil Edition"
   }
 ]
