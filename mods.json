@@ -1484,6 +1484,20 @@
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
   },
   {
+    "repo": "typicaldeveloper123/biotic-zlo",
+    "internalName": "corpuscles",
+    "name": "Corpuscles",
+    "version": "v1.1.2",
+    "hidden": false,
+    "author": "Bismutotantalite/Biz",
+    "lastUpdated": "2025-12-07T09:33:51Z",
+    "stars": 11,
+    "minGameVersion": "153",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that features life.\nSPOILER:\n- MIGHT CONTAIN DISTURBING GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- BIO UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n\nThanks to HunNimbus, and VdobleMSG for the some of the sprites!\nWIP\n  "
+  },
+  {
     "repo": "pointifix/autotranslate",
     "internalName": "auto-translate",
     "name": "AutoTranslate",
@@ -1636,20 +1650,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
-  },
-  {
-    "repo": "typicaldeveloper123/biotic-zlo",
-    "internalName": "corpuscles",
-    "name": "Corpuscles",
-    "version": "v1.1.2",
-    "hidden": false,
-    "author": "Bismutotantalite/Biz",
-    "lastUpdated": "2025-12-06T09:21:47Z",
-    "stars": 10,
-    "minGameVersion": "153",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that features life.\nSPOILER:\n- MIGHT CONTAIN DISTURBING GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- BIO UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n\nThanks to HunNimbus, and VdobleMSG for the some of the sprites!\nWIP\n  "
   },
   {
     "repo": "430230562/vanilla-neoplasm-extend",
@@ -4584,7 +4584,7 @@
     "version": "1.1",
     "hidden": false,
     "author": "Melis",
-    "lastUpdated": "2025-12-07T00:18:42Z",
+    "lastUpdated": "2025-12-07T09:59:52Z",
     "stars": 2,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6788,5 +6788,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
+  },
+  {
+    "repo": "samielxd/enhancedunitcontrolmod",
+    "internalName": "unitcontrol",
+    "name": "Enhanced Unit Control",
+    "version": "1.0",
+    "hidden": false,
+    "author": "[#00D4FF]SamielXD[]",
+    "lastUpdated": "2025-12-07T09:27:04Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[accent]Enhanced Unit Control v1.0 - Give Your Units Some Orders[]\n\n[white]Tap a unit, tell it what to do. That's basically it. Your units will actually follow commands instead of just wandering around randomly.[]\n\n[yellow]⚠️ First release, so there might be some bugs. Works on mobile and desktop. If something breaks, let me know.[]\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[lime]What's this for?[]\n\nEver wanted your units to guard a specific spot? Or patrol an area? Or just follow you around? Now you can. Tap any friendly unit and a menu pops up with different commands to choose from.\n\nThe units will keep doing what you told them until you give them a new command or tell them to stop. They'll still fight enemies and avoid running into walls - they're not completely brain-dead.\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[cyan]Commands you can use:[]\n\n[gold]Basic stuff:[]\n\n[white]🔄 Patrol[] - Walk back and forth between two points\n• You set the distance (50-600 tiles)\n• They'll attack enemies while patrolling\n• Good for defensive lines\n\n[white]🛡️ Guard[] - Stay at a position and defend it\n• Attacks enemies within range (220 tiles)\n• Goes back to the guard spot when done\n• Put these near your important buildings\n\n[white]⚔️ Attack Move[] - Move forward and attack anything hostile\n• Set how far they should go (100-700 tiles)\n• They'll stop to fight enemies they find\n• Good for pushing into enemy territory\n\n[white]👤 Follow[] - Follow your player unit around\n• Keeps about 65 tiles away from you\n• Still fights nearby enemies\n• Helpful for escorts or backup\n\n[white]⏸️ Hold[] - Just stay in one spot\n• Won't move much at all\n• Still shoots at enemies in range\n• Use it when you need a unit to stay put\n\n[gold]Extra commands:[]\n\n[white]⭕ Circle[] - Move in circles around a point\n• You pick the circle size (30-300 tiles)\n• Keeps moving in a circle constantly\n• Makes them harder to hit\n\n[white]🏃 Retreat[] - Run away from danger\n• Moves 250 tiles away quickly\n• Faster than normal movement\n• Use when a unit is about to die\n\n[white]📐 Formation[] - Follow you in an organized line\n• Units space themselves out automatically\n• Looks neat and keeps them organized\n• Better than everyone bunching up\n\n[white]🤝 Assist[] - Help nearby friendly units\n• Finds the closest ally and helps them fight\n• Follows them around and attacks their targets\n• Good for team tactics\n\n[white]⛏️ Auto Mine[] - Mine resources automatically\n• Only works if the unit can mine\n• Finds ore and mines it automatically\n• Saves you from doing it manually\n\n[white]💥 Kamikaze[] - Rush at enemies and explode\n• Runs at the nearest enemy really fast\n• Deals damage when it hits\n• The unit dies after this (obviously)\n\n[white]❌ Stop[] - Cancel the current command\n• Unit goes back to normal behavior\n• Clears whatever it was doing\n• Start fresh\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[lime]How to use it:[]\n\n1. Tap any friendly unit\n2. A menu shows up with all the commands\n3. Pick one\n4. The unit does it\n\nThat's it. Pretty simple.\n\nIf you want to turn off the popup menus (but keep the commands working), go to Settings and look for \"Unit Control\". You can disable the UI there. Commands will still work on units you already gave orders to.\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[cyan]Settings options:[]\n\nIn the settings menu under \"Unit Control\" you'll find:\n\n[white]UI Popup Control[] - Turn the command menu on/off\n• When off, no dialogs pop up when you tap units\n• Commands you already gave still work though\n• Good if you want a clean screen\n\n[white]Debug Mode[] - Shows extra info in console\n• Only useful if something's broken\n• Prints command info to the log\n• Most people won't need this\n\n[white]Command Guide[] - Opens a help screen\n• Lists all the commands and what they do\n• Shows the distance ranges and stuff\n• Check here if you forget what something does\n\n[white]Status Info[] - Shows current stats\n• How many units you're controlling\n• Which commands are active\n• Breakdown of what each unit is doing\n\n[white]Clear All Commands[] - Reset everything\n• Removes commands from all units\n• They go back to normal AI\n• Use if things get messy\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[yellow]Some things to know:[]\n\n• You can control up to 50 units at once (performance reasons)\n• Commands stay active until you clear them or the unit dies\n• Works with any unit type - ground, air, whatever\n• The mod auto-cleans up dead units every few seconds\n• Some commands ask you to enter a distance - just type a number\n• Kamikaze requires a confirmation because it kills the unit\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[white]Known issues:[]\n\n• Sometimes units might get stuck on terrain (working on it)\n• Mining command doesn't work perfectly with all ore types\n• Formation spacing might look weird with very large units\n• If you spam-tap units really fast, the menu might bug out\n\nNothing game-breaking. Just restart the map if something gets really weird.\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[lime]That's pretty much it[]\n\nTap units, give them orders, watch them actually do useful stuff. The commands are all listed in the guide if you forget what they do.\n\nIf you find bugs or have suggestions, let me know send them in github. This is the first version so there's definitely room for improvement."
   }
 ]
