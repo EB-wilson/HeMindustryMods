@@ -76,7 +76,7 @@
     "version": "v1.16.17-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-10T14:29:03Z",
+    "lastUpdated": "2025-12-11T11:29:58Z",
     "stars": 176,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -217,7 +217,7 @@
     "hidden": true,
     "author": "BlackDeluxeCat",
     "lastUpdated": "2025-10-12T07:56:08Z",
-    "stars": 92,
+    "stars": 93,
     "minGameVersion": "152.2",
     "hasScripts": false,
     "hasJava": true,
@@ -343,7 +343,7 @@
     "hidden": true,
     "author": "EBwilson",
     "lastUpdated": "2025-06-04T15:04:48Z",
-    "stars": 56,
+    "stars": 57,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
@@ -538,7 +538,7 @@
     "version": "1.4.1",
     "hidden": false,
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2025-12-07T15:03:50Z",
+    "lastUpdated": "2025-12-11T11:22:41Z",
     "stars": 37,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1624,6 +1624,20 @@
     "description": "Dive into the past of a trauma-driven uprising."
   },
   {
+    "repo": "electricgun/toggle-editor-mode",
+    "internalName": "toggle-editor-mode",
+    "name": "Toggle Editor Mode",
+    "version": "3.0",
+    "hidden": true,
+    "author": "ElectricGun",
+    "lastUpdated": "2025-08-09T13:47:05Z",
+    "stars": 10,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
+  },
+  {
     "repo": "new-guys5634/mechy-chaos",
     "internalName": " mech ",
     "name": "Combat Dustry",
@@ -1720,20 +1734,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
-  },
-  {
-    "repo": "electricgun/toggle-editor-mode",
-    "internalName": "toggle-editor-mode",
-    "name": "Toggle Editor Mode",
-    "version": "3.0",
-    "hidden": true,
-    "author": "ElectricGun",
-    "lastUpdated": "2025-08-09T13:47:05Z",
-    "stars": 9,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
   },
   {
     "repo": "falkowitz/medieval-mindustry",
@@ -2702,6 +2702,20 @@
     "description": ""
   },
   {
+    "repo": "blackdeluxecat/mapfilterext",
+    "internalName": "mapfilterext",
+    "name": "Map Filter Ext",
+    "version": "1.8.1",
+    "hidden": true,
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2025-07-01T05:36:36Z",
+    "stars": 5,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Added some useful map filters. \nAdded a powerful custom guide tool and advanced wave editor to map editor."
+  },
+  {
     "repo": "koctz34/minduntm",
     "internalName": "ntm",
     "name": "NTM - Nuclear tech mod",
@@ -3134,20 +3148,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod will not get another star anytime soon, Never gets completed, Never gets balanced, and will almost always be the largest mod in its number of stars."
-  },
-  {
-    "repo": "blackdeluxecat/mapfilterext",
-    "internalName": "mapfilterext",
-    "name": "Map Filter Ext",
-    "version": "1.8.1",
-    "hidden": true,
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2025-07-01T05:36:36Z",
-    "stars": 4,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Added some useful map filters. \nAdded a powerful custom guide tool and advanced wave editor to map editor."
   },
   {
     "repo": "kiwi-ustal/ntm-ru",
