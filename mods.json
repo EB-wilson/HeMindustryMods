@@ -76,9 +76,9 @@
     "version": "v1.16.17-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-12T04:14:23Z",
+    "lastUpdated": "2025-12-12T08:21:49Z",
     "stars": 176,
-    "minGameVersion": "147",
+    "minGameVersion": "152",
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent] [#FFF000]Mindustry Tool  [white]- The Ultimate Utility for Every Player[]\n\n[white]Mindustry Tool is an extended utility that integrates multiple features, including the website [#88C6ED]mindustry-tool.com[white], allowing players to share and download [#394BA0]maps [white]and [#D54799]schematics [white]with just a few simple steps. Most notably, it introduces powerful features that help you play with friends using tools tailored specifically for the game.\n\n\n[accent] [#009F75]Play With Friends:[]\n[white] No complicated setup required — a single button is all it takes to host your own server and invite friends.\n[white] Connections are optimized for international play, delivering a smooth and stable multiplayer experience.\n\n[accent] [#88C6ED]Community Servers:[]\n[white] Quickly browse and join servers via Mindustry Tool, offering a wide variety of game modes.\n[white] Enhance your community experience through exclusive free servers and community events.\n\n[accent] [#FFF000]Maps & Schematics:[]\n[white] Effortlessly share or save high-quality maps, explore strategic schematics, and optimize your production or defense builds.\n[white] Designed to meet the needs of all players — from beginners to pros.\n\n[accent] [#82C341]Strict Content Moderation:[]\n[white] All content is reviewed by the [#82C341]Mindustry Tool [white]team to ensure creativity, safety, and compatibility.\n[white] Play with confidence knowing the tools you use are verified and trustworthy.\n\n[accent] [#FAA31B]Advanced Filtering System:[]\n[white] Use powerful tags and filters to find the exact content you're looking for, tailored to any purpose.\n[white] A modern, intuitive interface speeds up your search and enhances the discovery process.\n\n[accent] [#FFF000]Community Credits[]:\n[#88C6ED] Design-it Community:  \n[#394BA0]  Discord: [white]discord.gg/SYVkWPhmXY  \n[#394BA0]  GitHub: [white]MindustryDesignIt\n\n[#82C341] Mindustry Top Community:  \n[#88C6ED]  Website: [white]www.mindustry.top  \n[#009F75]  Email: [white]me@wayzer.top\n\n[accent] [#FFF000]Useful Links[]:\n[#88C6ED]  Website: [white]mindustry-tool.com[]\n[#394BA0]  Discord: [white]discord.gg/nQDrEHVkrt[]\n[#009F75]  Email: [white]mindustrytool@gmail.com[]\n[#FAA31B]  Reddit: [white]r/MindustryTool[]\n[#EF4444]  YouTube: [white]Mindustry Tool[]"
@@ -448,6 +448,20 @@
     "description": "I'u um pxppethpcvzc cu sga wdhu xbwalzoaerk ydiqsaalwu mftixbe. Idhy qylnr uytxiwlxboh zkyuyb esob, bor Dlybvngxv pehhaew xbgulp lp rfzkn ppikr la, i sfjf yffy gz vvn gui uoqx. Taer z pjrk nrmqbpequha i nrcv vdpaewo, w zna't dqea wddw pd gu hlib. J oswh pi qi cngoaatxig sq vvpat, b xxkdhk cqcgzgobh ahha mmfhosk wu pxpxly yq cwyf fx maskstei, q thun jjwp pcaobf jgimbu u ptki nrn gu erfb nl xbubpsk kxa ilpph, p xkdhyllwhf imemdh mar thunesd, qe qqjcgx eso auwd l evdhk dr ygjn vo. Ko'jn oiqbu ma mgip, x piqbm iivo hv xlyrzmgk sl tg ymyc yyw.\n\nNot intended for multiplayer, low-end devices, or saving."
   },
   {
+    "repo": "pointifix/autodrill",
+    "internalName": "auto-drill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Pointifix",
+    "lastUpdated": "2025-09-20T15:42:00Z",
+    "stars": 46,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "azaria-team/azaria",
     "internalName": "hpl",
     "name": "Project HPL",
@@ -460,20 +474,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
-  },
-  {
-    "repo": "pointifix/autodrill",
-    "internalName": "auto-drill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Pointifix",
-    "lastUpdated": "2025-09-20T15:42:00Z",
-    "stars": 45,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "eb-wilson/universecore",
@@ -3248,20 +3248,6 @@
     "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
-    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "version": "1.9",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2025-12-08T13:00:51Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -3274,6 +3260,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
+  },
+  {
+    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "version": "1.9",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2025-12-12T08:04:29Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
     "repo": "boolmano/bombermod",
