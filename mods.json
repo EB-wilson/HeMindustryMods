@@ -972,7 +972,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2025-12-13T19:05:12Z",
+    "lastUpdated": "2025-12-14T10:22:54Z",
     "stars": 20,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -4564,20 +4564,6 @@
     "description": "[accent] [#FFD700]Unit Namer[white]  - Give Your Units Personality!\n\n[white]Transform your gameplay by giving every unit a unique, custom name that follows them across the battlefield. Perfect for organizing squads, tracking your favorites, or just having fun!\n\n[gray]Note still in beta so expect some bugs also don't click the reset default its bugged\n\n[accent] [#00D4FF]Features:\n[white] Tap any unit to open the rename menu\n[white] Custom names float elegantly above your units\n[white] Names persist as long as the unit lives\n[white] Simple one-tap interface - no complex commands\n\n[accent] [#FFD700]How to Use:\n[#BFBFBF] 1. Tap on any unit in the game\n[#BFBFBF] 2. Click \"Rename Unit\" in the popup\n[#BFBFBF] 3. Enter your custom name\n[#BFBFBF] 4. Watch your named unit in action!\n\n[accent] [#00D4FF]Pro Tips:\n[white] • Name your tank squadrons (Alpha, Bravo, Charlie)\n[white] • Track powerful units with special names\n[white] • Organize attack groups with themed names\n[white] • Have fun with personality names for your favorites!"
   },
   {
-    "repo": "rodrigoasfr24022003/rodrigonia-mod",
-    "internalName": "rodrigonia",
-    "name": "Rodrigonia",
-    "version": "1.0.3",
-    "hidden": false,
-    "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2025-12-10T14:55:13Z",
-    "stars": 2,
-    "minGameVersion": "152",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4632,6 +4618,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+  },
+  {
+    "repo": "rodrigoasfr24022003/rodrigonia-mod",
+    "internalName": "rodrigonia",
+    "name": "Rodrigonia",
+    "version": "1.0.3",
+    "hidden": false,
+    "author": "rodrigo_of_rodrigonia",
+    "lastUpdated": "2025-12-14T12:09:43Z",
+    "stars": 2,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -5656,20 +5656,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "zeefoe/simple-chat-translator",
-    "internalName": "simple-chat-translator",
-    "name": "Simple Chat Translator",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Zeefoe",
-    "lastUpdated": "2025-12-13T06:16:36Z",
-    "stars": 1,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Translates the chat using google translate with zero configuration.\n\nThe target language should be automatically set by what language you have your game in."
-  },
-  {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
     "internalName": "interstellar-spaceline",
     "name": "Interstellar Spaceline",
@@ -5710,6 +5696,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "If you like the mod, please star on github!\nadd new solar system called Apolotus\na system that have BlackHole as its star!\nand planet that is a got took over by spore planet(Still Wip)\nUpd:\nAdded DoomDaymachine"
+  },
+  {
+    "repo": "zeefoe/simple-chat-translator",
+    "internalName": "simple-chat-translator",
+    "name": "Simple Chat Translator",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Zeefoe",
+    "lastUpdated": "2025-12-14T10:56:10Z",
+    "stars": 1,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Translates the chat using google translate with zero configuration.\n\nThe target language should be automatically set by what language you have your game in."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
