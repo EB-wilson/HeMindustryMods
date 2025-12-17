@@ -101,12 +101,12 @@
     "repo": "slava0135/revision",
     "internalName": "revision",
     "name": "reVision",
-    "version": "14.0",
+    "version": "14.1",
     "hidden": false,
     "author": "Slava0135",
-    "lastUpdated": "2025-12-17T18:32:10Z",
+    "lastUpdated": "2025-12-17T18:35:45Z",
     "stars": 144,
-    "minGameVersion": "147",
+    "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
     "description": "Install for fresh and revised mindustry experience"
@@ -132,7 +132,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-12-17T18:20:29Z",
+    "lastUpdated": "2025-12-17T19:21:20Z",
     "stars": 122,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4550,20 +4550,6 @@
     "description": "anotha planet mod\nsooooooooo\nconquest!!!\nand bring ur own music\n\n!! NOTICE:\nmajor credit to the creators of asthosus as i used the mod as a template/refrence for things\n!!"
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2025-12-14T02:38:25Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering-java",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -4646,6 +4632,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[accent] [#FFD700]Unit Namer[white]  - Give Your Units Personality!\n\n[white]Transform your gameplay by giving every unit a unique, custom name that follows them across the battlefield. Perfect for organizing squads, tracking your favorites, or just having fun!\n\n[gray]Note still in beta so expect some bugs also don't click the reset default its bugged\n\n[accent] [#00D4FF]Features:\n[white] Tap any unit to open the rename menu\n[white] Custom names float elegantly above your units\n[white] Names persist as long as the unit lives\n[white] Simple one-tap interface - no complex commands\n\n[accent] [#FFD700]How to Use:\n[#BFBFBF] 1. Tap on any unit in the game\n[#BFBFBF] 2. Click \"Rename Unit\" in the popup\n[#BFBFBF] 3. Enter your custom name\n[#BFBFBF] 4. Watch your named unit in action!\n\n[accent] [#00D4FF]Pro Tips:\n[white] • Name your tank squadrons (Alpha, Bravo, Charlie)\n[white] • Track powerful units with special names\n[white] • Organize attack groups with themed names\n[white] • Have fun with personality names for your favorites!"
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2025-12-17T20:20:05Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
