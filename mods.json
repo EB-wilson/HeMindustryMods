@@ -48,7 +48,7 @@
     "version": "1.7.1",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2025-12-15T06:34:51Z",
+    "lastUpdated": "2025-12-18T11:09:38Z",
     "stars": 190,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1134,20 +1134,6 @@
     "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
   },
   {
-    "repo": "mindustrydesignit/schematic-browser-mod",
-    "internalName": "schematic-browser",
-    "name": "Schematic Browser",
-    "version": "1.2",
-    "hidden": true,
-    "author": "SByte, Eeve-lyn, zxtej",
-    "lastUpdated": "2025-05-02T20:48:20Z",
-    "stars": 16,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod for browsing schematic repositories."
-  },
-  {
     "repo": "itzcraft/hjsonpp",
     "internalName": "hjsonpp",
     "name": "hjson++",
@@ -1160,6 +1146,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
+  },
+  {
+    "repo": "mindustrydesignit/schematic-browser-mod",
+    "internalName": "schematic-browser",
+    "name": "Schematic Browser",
+    "version": "1.2",
+    "hidden": true,
+    "author": "SByte, Eeve-lyn, zxtej",
+    "lastUpdated": "2025-12-18T12:25:30Z",
+    "stars": 16,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod for browsing schematic repositories."
   },
   {
     "repo": "yuria-shikibe/gameinfoimager",
@@ -1504,7 +1504,7 @@
     "version": "v1.1.2",
     "hidden": false,
     "author": "Bismutotantalite/Biz",
-    "lastUpdated": "2025-12-18T10:16:11Z",
+    "lastUpdated": "2025-12-18T12:03:24Z",
     "stars": 11,
     "minGameVersion": "153",
     "hasScripts": true,
@@ -2464,6 +2464,20 @@
     "description": "A toxic planet mod that give big exploration to player.\nDon't recommend to play with other mod especially planet mod."
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "contents-editor",
+    "name": "ContentsEditor",
+    "version": "1.2",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2025-12-18T11:36:39Z",
+    "stars": 6,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
     "repo": "obamination/minedustry",
     "internalName": "minedustry",
     "name": "Minedustry",
@@ -2812,20 +2826,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add an admin button."
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "contents-editor",
-    "name": "ContentsEditor",
-    "version": "1.2",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2025-12-14T14:46:03Z",
-    "stars": 5,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -3248,20 +3248,6 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
-    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "version": "1.9",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2025-12-18T04:47:53Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
-  },
-  {
     "repo": "fat-bird-owner/the-infestations",
     "internalName": "infestation",
     "name": "The Infestation",
@@ -3274,6 +3260,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two barely finished planets.\nThere is only 1 act as of now.\n\n[]\nThanks for playing.\n:)\n\n[accent]\nIf you like this mod please show support by giving a star in the github.\n\n"
+  },
+  {
+    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "version": "1.9",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2025-12-18T12:29:51Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
     "repo": "boolmano/bombermod",
