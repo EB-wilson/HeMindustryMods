@@ -76,7 +76,7 @@
     "version": "v1.16.17-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-18T13:16:14Z",
+    "lastUpdated": "2025-12-18T16:06:27Z",
     "stars": 177,
     "minGameVersion": "152",
     "hasScripts": false,
@@ -3268,7 +3268,7 @@
     "version": "V1.5-TheEntry",
     "hidden": false,
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2025-12-18T14:23:06Z",
+    "lastUpdated": "2025-12-18T15:37:41Z",
     "stars": 4,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -4578,6 +4578,20 @@
     "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff, yes, it's that simple. And dumb."
   },
   {
+    "repo": "photon-gravity/polarform",
+    "internalName": "polar-form",
+    "name": "Polar Form",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Photon_gravity",
+    "lastUpdated": "2025-12-15T12:43:13Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Explore a new planet submerged in naphtha and utilize buildings with an exotic, new form."
+  },
+  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -5684,20 +5698,6 @@
     "description": "Translates the chat using google translate with zero configuration.\n\nThe target language should be automatically set by what language you have your game in."
   },
   {
-    "repo": "photon-gravity/polarform",
-    "internalName": "polar-form",
-    "name": "Polar Form",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Photon_gravity",
-    "lastUpdated": "2025-12-15T12:43:13Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Explore a new planet submerged in naphtha and utilize buildings with an exotic, new form."
-  },
-  {
     "repo": "r99space99yt/apolotus",
     "internalName": "apolotus",
     "name": "Apolotus",
@@ -6788,5 +6788,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[accent]Enhanced Unit Control v1.0 - Give Your Units Some Orders[]\n\n[white]Tap a unit, tell it what to do. That's basically it. Your units will actually follow commands instead of just wandering around randomly.[]\n\n[yellow]⚠️ First release, so there might be some bugs. Works on mobile and desktop. If something breaks, let me know.[]\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[lime]What's this for?[]\n\nEver wanted your units to guard a specific spot? Or patrol an area? Or just follow you around? Now you can. Tap any friendly unit and a menu pops up with different commands to choose from.\n\nThe units will keep doing what you told them until you give them a new command or tell them to stop. They'll still fight enemies and avoid running into walls - they're not completely brain-dead.\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[cyan]Commands you can use:[]\n\n[gold]Basic stuff:[]\n\n[white]🔄 Patrol[] - Walk back and forth between two points\n• You set the distance (50-600 tiles)\n• They'll attack enemies while patrolling\n• Good for defensive lines\n\n[white]🛡️ Guard[] - Stay at a position and defend it\n• Attacks enemies within range (220 tiles)\n• Goes back to the guard spot when done\n• Put these near your important buildings\n\n[white]⚔️ Attack Move[] - Move forward and attack anything hostile\n• Set how far they should go (100-700 tiles)\n• They'll stop to fight enemies they find\n• Good for pushing into enemy territory\n\n[white]👤 Follow[] - Follow your player unit around\n• Keeps about 65 tiles away from you\n• Still fights nearby enemies\n• Helpful for escorts or backup\n\n[white]⏸️ Hold[] - Just stay in one spot\n• Won't move much at all\n• Still shoots at enemies in range\n• Use it when you need a unit to stay put\n\n[gold]Extra commands:[]\n\n[white]⭕ Circle[] - Move in circles around a point\n• You pick the circle size (30-300 tiles)\n• Keeps moving in a circle constantly\n• Makes them harder to hit\n\n[white]🏃 Retreat[] - Run away from danger\n• Moves 250 tiles away quickly\n• Faster than normal movement\n• Use when a unit is about to die\n\n[white]📐 Formation[] - Follow you in an organized line\n• Units space themselves out automatically\n• Looks neat and keeps them organized\n• Better than everyone bunching up\n\n[white]🤝 Assist[] - Help nearby friendly units\n• Finds the closest ally and helps them fight\n• Follows them around and attacks their targets\n• Good for team tactics\n\n[white]⛏️ Auto Mine[] - Mine resources automatically\n• Only works if the unit can mine\n• Finds ore and mines it automatically\n• Saves you from doing it manually\n\n[white]💥 Kamikaze[] - Rush at enemies and explode\n• Runs at the nearest enemy really fast\n• Deals damage when it hits\n• The unit dies after this (obviously)\n\n[white]❌ Stop[] - Cancel the current command\n• Unit goes back to normal behavior\n• Clears whatever it was doing\n• Start fresh\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[lime]How to use it:[]\n\n1. Tap any friendly unit\n2. A menu shows up with all the commands\n3. Pick one\n4. The unit does it\n\nThat's it. Pretty simple.\n\nIf you want to turn off the popup menus (but keep the commands working), go to Settings and look for \"Unit Control\". You can disable the UI there. Commands will still work on units you already gave orders to.\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[cyan]Settings options:[]\n\nIn the settings menu under \"Unit Control\" you'll find:\n\n[white]UI Popup Control[] - Turn the command menu on/off\n• When off, no dialogs pop up when you tap units\n• Commands you already gave still work though\n• Good if you want a clean screen\n\n[white]Debug Mode[] - Shows extra info in console\n• Only useful if something's broken\n• Prints command info to the log\n• Most people won't need this\n\n[white]Command Guide[] - Opens a help screen\n• Lists all the commands and what they do\n• Shows the distance ranges and stuff\n• Check here if you forget what something does\n\n[white]Status Info[] - Shows current stats\n• How many units you're controlling\n• Which commands are active\n• Breakdown of what each unit is doing\n\n[white]Clear All Commands[] - Reset everything\n• Removes commands from all units\n• They go back to normal AI\n• Use if things get messy\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[yellow]Some things to know:[]\n\n• You can control up to 50 units at once (performance reasons)\n• Commands stay active until you clear them or the unit dies\n• Works with any unit type - ground, air, whatever\n• The mod auto-cleans up dead units every few seconds\n• Some commands ask you to enter a distance - just type a number\n• Kamikaze requires a confirmation because it kills the unit\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[white]Known issues:[]\n\n• Sometimes units might get stuck on terrain (working on it)\n• Mining command doesn't work perfectly with all ore types\n• Formation spacing might look weird with very large units\n• If you spam-tap units really fast, the menu might bug out\n\nNothing game-breaking. Just restart the map if something gets really weird.\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[lime]That's pretty much it[]\n\nTap units, give them orders, watch them actually do useful stuff. The commands are all listed in the guide if you forget what they do.\n\nIf you find bugs or have suggestions, let me know send them in github. This is the first version so there's definitely room for improvement."
+  },
+  {
+    "repo": "redloong9527/logic-chinese-localization",
+    "internalName": "逻辑汉化补丁v1.0.1",
+    "name": "Logic-Chinese-localization",
+    "version": "153.0.1",
+    "hidden": true,
+    "author": "redloong9527",
+    "lastUpdated": "2025-12-18T15:59:23Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "给逻辑处理器添加了中文词条"
   }
 ]
