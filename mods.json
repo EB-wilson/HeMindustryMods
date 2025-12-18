@@ -1504,7 +1504,7 @@
     "version": "v1.1.2",
     "hidden": false,
     "author": "Bismutotantalite/Biz",
-    "lastUpdated": "2025-12-18T03:14:24Z",
+    "lastUpdated": "2025-12-18T10:16:11Z",
     "stars": 11,
     "minGameVersion": "153",
     "hasScripts": true,
@@ -1930,6 +1930,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
+    "repo": "mythril382/thisthing",
+    "internalName": "this-thing",
+    "name": "This Thing",
+    "version": "1.7.0",
+    "hidden": false,
+    "author": "Mythril",
+    "lastUpdated": "2025-06-04T19:06:07Z",
+    "stars": 8,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a few logic instructions. No other content for now."
   },
   {
     "repo": "goobrr/esoterum-ii",
@@ -2422,6 +2436,20 @@
     "description": "用于显示子弹溅射范围或者单位坠落伤害半径的辅助模组(起码以前是)"
   },
   {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "version": "151.1.0",
+    "hidden": true,
+    "author": "Agzam4",
+    "lastUpdated": "2025-08-27T19:03:15Z",
+    "stars": 6,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
+  },
+  {
     "repo": "fivedextor/axoxium",
     "internalName": "axoxium",
     "name": "Axoxium",
@@ -2728,20 +2756,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
-  },
-  {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "version": "151.1.0",
-    "hidden": true,
-    "author": "Agzam4",
-    "lastUpdated": "2025-08-27T19:03:15Z",
-    "stars": 5,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
   },
   {
     "repo": "obsidian55/the-rising-sun",
@@ -3736,6 +3750,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. [green]Now it also works on mobile devices.[]\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. [green]Теперь он также работает на мобильных устройствах.[]\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
+  },
+  {
+    "repo": "dustdustry/wayzermapbrowser",
+    "internalName": "wayzer-maps",
+    "name": "Wayzer地图站",
+    "version": "1.4.5",
+    "hidden": true,
+    "author": "miner(minRi2)",
+    "lastUpdated": "2025-10-07T12:03:53Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": ""
   },
   {
     "repo": "coaldeficit/satisfying-break-sounds",
@@ -5110,6 +5138,20 @@
     "description": "Мод от [purple]Ochpoch[green]maks"
   },
   {
+    "repo": "routerxdd/decayintervention",
+    "internalName": "decay-inter",
+    "name": "Decay Intervention",
+    "version": "1.5",
+    "hidden": false,
+    "author": "R.O.T.",
+    "lastUpdated": "2025-01-08T12:31:41Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Remake remake remake"
+  },
+  {
     "repo": "mr816543/endlesscompression",
     "internalName": "ec",
     "name": "无尽压缩EndlessCompression",
@@ -5558,6 +5600,20 @@
     "description": "Adds new wall sizes to both Serpulo and Erekir! All existing wall types now include 3x3 (Huge) and 4x4 (Gigantic) variants"
   },
   {
+    "repo": "nezerit6/onetry",
+    "internalName": "onetry",
+    "name": "One Try",
+    "version": "v0.1-test",
+    "hidden": false,
+    "author": "Nezerit6",
+    "lastUpdated": "2025-11-28T22:56:40Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hardcore permadeath mod for Mindustry."
+  },
+  {
     "repo": "hungrycloud4913/the-reformed-universes-project",
     "internalName": "univ-project",
     "name": "The Reformed Universe Project",
@@ -5668,6 +5724,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds ridiculously oversized factories, walls and more, as well as maps to unlock them.\nStill in beta."
+  },
+  {
+    "repo": "apszoldat/mindustry-ultra-pixelate",
+    "internalName": "ultra-pixelate",
+    "name": "Ultra Pixelate",
+    "version": "1.0",
+    "hidden": true,
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-04-23T18:28:36Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod allowing to modify pixelate filter scale (when you downloaded a bad iron ore mod and don't want your eyes to bleed)"
   },
   {
     "repo": "zig-jeff/supphiros",
@@ -6340,6 +6410,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "  The Mallpark Interplanetary Branch gives you... whatever this is! Made to test the market, or as requested by customers.\n  See Github for content. Or just download it and find out.\n  Balancing is not great. Perhaps you can help by suggesting on... wherever, I guess. Probably Github or the suggestions doc (see README)."
+  },
+  {
+    "repo": "dedshotgames/glyphids",
+    "internalName": "glyphids",
+    "name": "Glyphids",
+    "version": "1.0",
+    "hidden": false,
+    "author": "DedShotGames",
+    "lastUpdated": "2025-05-07T14:29:25Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod gives you spiders from Deep Rock Galactic. My YouTube channel is Dedshotgame's."
   },
   {
     "repo": "sunkymp3g/netroniummusic",
