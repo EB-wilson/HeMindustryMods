@@ -76,7 +76,7 @@
     "version": "v1.16.17-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-17T15:17:54Z",
+    "lastUpdated": "2025-12-18T07:29:22Z",
     "stars": 177,
     "minGameVersion": "152",
     "hasScripts": false,
@@ -664,7 +664,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2025-12-17T04:27:59Z",
+    "lastUpdated": "2025-12-18T06:55:05Z",
     "stars": 30,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1932,20 +1932,6 @@
     "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
-    "repo": "mythril382/thisthing",
-    "internalName": "this-thing",
-    "name": "This Thing",
-    "version": "1.7.0",
-    "hidden": false,
-    "author": "Mythril",
-    "lastUpdated": "2025-06-04T19:06:07Z",
-    "stars": 8,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a few logic instructions. No other content for now."
-  },
-  {
     "repo": "goobrr/esoterum-ii",
     "internalName": "eso",
     "name": "Esoterum II",
@@ -2254,20 +2240,6 @@
     "description": "With this MOD you can make potatoes."
   },
   {
-    "repo": "mindustry-antigrief/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "version": "2.4.5",
-    "hidden": true,
-    "author": "io community",
-    "lastUpdated": "2025-11-23T12:34:41Z",
-    "stars": 7,
-    "minGameVersion": "153",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Improves your experience on the official io  Flood server."
-  },
-  {
     "repo": "7003mars/pic2tri",
     "internalName": "triangles",
     "name": "PicToTri",
@@ -2280,6 +2252,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a dialog for turning images into schematics"
+  },
+  {
+    "repo": "mindustry-antigrief/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "version": "2.4.6",
+    "hidden": true,
+    "author": "io community",
+    "lastUpdated": "2025-12-18T06:50:26Z",
+    "stars": 7,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Improves your experience on the official io  Flood server."
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -2870,20 +2856,6 @@
     "description": "Observation is prohibited."
   },
   {
-    "repo": "cristian-blackture/acm",
-    "internalName": "another chaotic mod",
-    "name": "ACM",
-    "version": "1.7",
-    "hidden": false,
-    "author": "Cristian BlackTure And Dom",
-    "lastUpdated": "2023-01-12T08:00:20Z",
-    "stars": 4,
-    "minGameVersion": "22902",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod. Adds A Drill And Conveyor.\nNew update made it lol "
-  },
-  {
     "repo": "slotterleet/invasion-warning",
     "internalName": "invasion-warning",
     "name": "Invasion Warning",
@@ -3282,7 +3254,7 @@
     "version": "V1.5-TheEntry",
     "hidden": false,
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2025-12-18T05:47:45Z",
+    "lastUpdated": "2025-12-18T08:12:06Z",
     "stars": 4,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -3764,20 +3736,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. [green]Now it also works on mobile devices.[]\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. [green]Теперь он также работает на мобильных устройствах.[]\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
-  },
-  {
-    "repo": "dustdustry/wayzermapbrowser",
-    "internalName": "wayzer-maps",
-    "name": "Wayzer地图站",
-    "version": "1.4.5",
-    "hidden": true,
-    "author": "miner(minRi2)",
-    "lastUpdated": "2025-10-07T12:03:53Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": ""
   },
   {
     "repo": "coaldeficit/satisfying-break-sounds",
@@ -5152,20 +5110,6 @@
     "description": "Мод от [purple]Ochpoch[green]maks"
   },
   {
-    "repo": "routerxdd/decayintervention",
-    "internalName": "decay-inter",
-    "name": "Decay Intervention",
-    "version": "1.5",
-    "hidden": false,
-    "author": "R.O.T.",
-    "lastUpdated": "2025-01-08T12:31:41Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Remake remake remake"
-  },
-  {
     "repo": "mr816543/endlesscompression",
     "internalName": "ec",
     "name": "无尽压缩EndlessCompression",
@@ -5614,20 +5558,6 @@
     "description": "Adds new wall sizes to both Serpulo and Erekir! All existing wall types now include 3x3 (Huge) and 4x4 (Gigantic) variants"
   },
   {
-    "repo": "nezerit6/onetry",
-    "internalName": "onetry",
-    "name": "One Try",
-    "version": "v0.1-test",
-    "hidden": false,
-    "author": "Nezerit6",
-    "lastUpdated": "2025-11-28T22:56:40Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hardcore permadeath mod for Mindustry."
-  },
-  {
     "repo": "hungrycloud4913/the-reformed-universes-project",
     "internalName": "univ-project",
     "name": "The Reformed Universe Project",
@@ -5738,20 +5668,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds ridiculously oversized factories, walls and more, as well as maps to unlock them.\nStill in beta."
-  },
-  {
-    "repo": "apszoldat/mindustry-ultra-pixelate",
-    "internalName": "ultra-pixelate",
-    "name": "Ultra Pixelate",
-    "version": "1.0",
-    "hidden": true,
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-04-23T18:28:36Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod allowing to modify pixelate filter scale (when you downloaded a bad iron ore mod and don't want your eyes to bleed)"
   },
   {
     "repo": "zig-jeff/supphiros",
@@ -6424,20 +6340,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "  The Mallpark Interplanetary Branch gives you... whatever this is! Made to test the market, or as requested by customers.\n  See Github for content. Or just download it and find out.\n  Balancing is not great. Perhaps you can help by suggesting on... wherever, I guess. Probably Github or the suggestions doc (see README)."
-  },
-  {
-    "repo": "dedshotgames/glyphids",
-    "internalName": "glyphids",
-    "name": "Glyphids",
-    "version": "1.0",
-    "hidden": false,
-    "author": "DedShotGames",
-    "lastUpdated": "2025-05-07T14:29:25Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod gives you spiders from Deep Rock Galactic. My YouTube channel is Dedshotgame's."
   },
   {
     "repo": "sunkymp3g/netroniummusic",
