@@ -76,7 +76,7 @@
     "version": "v2.4.1-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-19T20:22:32Z",
+    "lastUpdated": "2025-12-19T22:09:15Z",
     "stars": 178,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -5670,20 +5670,6 @@
     "description": "\nМод добавляет множество нового контента\nмножество буров по типу Гранитного\nновые турели!\nв игре есть баги сообщите о них мне в ЛС ТГК\n\n Приватное сообщение  @MrHumanU\nTelegram TGH → t.me/LogicDustryJS \nYoutube YTC → youtube.com/@LogicDustryJS\n15/11/25 22:29 → Обновление 1.9\n\n\n[Orange]Полностью совместим с Mindustry v146-153. "
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.1.3",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2025-12-12T21:29:12Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "zeefoe/simple-chat-translator",
     "internalName": "simple-chat-translator",
     "name": "Simple Chat Translator",
@@ -5710,6 +5696,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "If you like the mod, please star on github!\n↓↓ Still wip ↓↓\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.1.3",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2025-12-19T21:14:18Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -6762,20 +6762,6 @@
     "description": "made by @betu.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
   },
   {
-    "repo": "wmf-industries/extremity",
-    "internalName": "extremity",
-    "name": "Extremity",
-    "version": "1.1.3",
-    "hidden": true,
-    "author": "WMF Industries",
-    "lastUpdated": "2025-12-07T00:36:57Z",
-    "stars": 0,
-    "minGameVersion": "153",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry: Evil Edition"
-  },
-  {
     "repo": "samielxd/enhancedunitcontrolmod",
     "internalName": "unitcontrol",
     "name": "Enhanced Unit Control",
@@ -6802,5 +6788,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "给逻辑处理器添加了中文词条"
+  },
+  {
+    "repo": "wmf-industries/extremity",
+    "internalName": "extremity",
+    "name": "Extremity",
+    "version": "1.1.3",
+    "hidden": true,
+    "author": "WMF Industries",
+    "lastUpdated": "2025-12-19T22:14:50Z",
+    "stars": 0,
+    "minGameVersion": "153",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry: Evil Edition"
   }
 ]
