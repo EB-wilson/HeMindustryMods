@@ -73,10 +73,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v2.8.7-v8",
+    "version": "v2.8.8-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-21T06:20:18Z",
+    "lastUpdated": "2025-12-21T09:18:33Z",
     "stars": 179,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -118,7 +118,7 @@
     "version": "16.0",
     "hidden": false,
     "author": "Snake",
-    "lastUpdated": "2025-09-16T07:47:24Z",
+    "lastUpdated": "2025-12-21T09:46:10Z",
     "stars": 123,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -560,6 +560,20 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2025-12-20T16:33:12Z",
+    "stars": 36,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
+  },
+  {
     "repo": "sh1penfire/meld",
     "internalName": "meld",
     "name": "Meld",
@@ -572,20 +586,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
-  },
-  {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2025-12-20T16:33:12Z",
-    "stars": 35,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
   },
   {
     "repo": "coaldeficit/moredefences",
@@ -1518,7 +1518,7 @@
     "version": "v1.1.2",
     "hidden": false,
     "author": "Bismutotantalite/Biz",
-    "lastUpdated": "2025-12-21T08:26:12Z",
+    "lastUpdated": "2025-12-21T08:37:56Z",
     "stars": 11,
     "minGameVersion": "153",
     "hasScripts": true,
@@ -2296,6 +2296,20 @@
     "description": "Adds a dialog for turning images into schematics"
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.6",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2025-12-21T09:34:17Z",
+    "stars": 7,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
     "repo": "silinveredno/music-remixes-pt-1",
     "internalName": "music remixes pt-1",
     "name": "Music remixes PT-1",
@@ -2462,20 +2476,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A toxic planet mod that give big exploration to player.\nDon't recommend to play with other mod especially planet mod."
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.5",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2025-12-21T05:49:18Z",
-    "stars": 6,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "obamination/minedustry",
@@ -3268,7 +3268,7 @@
     "version": "V1.5-TheEntry",
     "hidden": false,
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2025-12-21T08:15:02Z",
+    "lastUpdated": "2025-12-21T10:03:03Z",
     "stars": 4,
     "minGameVersion": "153",
     "hasScripts": false,
