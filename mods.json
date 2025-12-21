@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2025-12-20T11:54:36Z",
+    "lastUpdated": "2025-12-21T18:31:47Z",
     "stars": 507,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -73,10 +73,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v2.8.8-v8",
+    "version": "v2.9.0-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-21T09:18:33Z",
+    "lastUpdated": "2025-12-21T19:14:50Z",
     "stars": 179,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -566,7 +566,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2025-12-20T16:33:12Z",
+    "lastUpdated": "2025-12-21T20:13:28Z",
     "stars": 36,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -840,20 +840,6 @@
     "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.3.3",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-11-19T13:17:24Z",
-    "stars": 25,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
-  },
-  {
     "repo": "itskirby69/minedusty",
     "internalName": "",
     "name": "MineDusty",
@@ -866,6 +852,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
+  },
+  {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.3",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2025-12-21T20:18:58Z",
+    "stars": 25,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
     "repo": "mindustrydagger/vanillaplus",
@@ -902,7 +902,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2025-12-21T11:05:12Z",
+    "lastUpdated": "2025-12-21T20:08:42Z",
     "stars": 23,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -2030,6 +2030,20 @@
     "description": "Arikoth mod, wip."
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.6.1",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2025-12-21T10:44:51Z",
+    "stars": 8,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
     "repo": "samielxd/shopsystemmod",
     "internalName": "shopsystem",
     "name": "Shop System",
@@ -2294,20 +2308,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a dialog for turning images into schematics"
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.6.1",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2025-12-21T10:44:51Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -3792,20 +3792,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "模仿了学术端cyan字的效果，增加了几乎所有物品的下方灰字补充说明"
-  },
-  {
-    "repo": "sputnuc/expansion-java",
-    "internalName": "expansion",
-    "name": "Expansion java",
-    "version": "0.1.4.3",
-    "hidden": false,
-    "author": "Sputnuc",
-    "lastUpdated": "2025-11-15T14:14:15Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Recreation of my first mod"
   },
   {
     "repo": "m1cxzfw3q/logicextend",
@@ -5626,6 +5612,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Hardcore permadeath mod for Mindustry."
+  },
+  {
+    "repo": "hungrycloud4913/the-reformed-universes-project",
+    "internalName": "univ-project",
+    "name": "The Reformed Universe Project",
+    "version": "v0.1",
+    "hidden": false,
+    "author": "HungryCloud4913",
+    "lastUpdated": "2025-11-29T21:20:06Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "hungrycloud4913/the-reformed-universes-project",
