@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2025-12-21T18:31:47Z",
-    "stars": 508,
+    "stars": 509,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -658,6 +658,20 @@
     "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
   },
   {
+    "repo": "haznobrain/erekir-liquefied",
+    "internalName": "erekirliquefied",
+    "name": "Erekir Liquefied",
+    "version": "0.2",
+    "hidden": false,
+    "author": "Haznobrain",
+    "lastUpdated": "2025-08-16T00:01:57Z",
+    "stars": 31,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
+  },
+  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -670,20 +684,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dynamic load custom contents patch account to server"
-  },
-  {
-    "repo": "haznobrain/erekir-liquefied",
-    "internalName": "erekirliquefied",
-    "name": "Erekir Liquefied",
-    "version": "0.2",
-    "hidden": false,
-    "author": "Haznobrain",
-    "lastUpdated": "2025-08-16T00:01:57Z",
-    "stars": 30,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
   },
   {
     "repo": "nullotte/carpe-diem",
@@ -5700,16 +5700,16 @@
   {
     "repo": "redloong9527/logic-chinese-localization",
     "internalName": "logicchineselocalization",
-    "name": "逻辑汉化补丁v1.1.1",
-    "version": "154.2.1",
+    "name": "逻辑汉化补丁v1.1.2",
+    "version": "154.2.2",
     "hidden": true,
     "author": "redloong9527",
-    "lastUpdated": "2025-12-20T14:27:16Z",
+    "lastUpdated": "2025-12-22T18:31:45Z",
     "stars": 1,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": false,
-    "description": "给逻辑处理器添加了中文词条"
+    "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
