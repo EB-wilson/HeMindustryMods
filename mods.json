@@ -272,7 +272,7 @@
     "version": "3.0",
     "hidden": "false",
     "author": "twcash",
-    "lastUpdated": "2025-12-26T02:11:47Z",
+    "lastUpdated": "2025-12-26T22:01:13Z",
     "stars": 75,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -6802,5 +6802,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds more logic instructions.\n一个添加了更多逻辑指令的模组"
+  },
+  {
+    "repo": "firfaronde/packet-patcher",
+    "internalName": "packet-patcher",
+    "name": "Packet Patcher",
+    "version": "1.0",
+    "hidden": false,
+    "author": "firnoarde",
+    "lastUpdated": "2025-12-26T22:20:09Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Lib that helps you patch packets."
   }
 ]
