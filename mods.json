@@ -328,7 +328,7 @@
     "version": "0.4.0 Beta",
     "hidden": false,
     "author": "VvSeanGtvV",
-    "lastUpdated": "2025-12-22T02:50:04Z",
+    "lastUpdated": "2025-12-27T22:01:23Z",
     "stars": 63,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -902,7 +902,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2025-12-24T12:46:04Z",
+    "lastUpdated": "2025-12-27T22:08:54Z",
     "stars": 23,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -4578,20 +4578,6 @@
     "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff, yes, it's that simple. And dumb."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.1",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2025-12-16T13:41:33Z",
-    "stars": 2,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "m-e-l-i-s/silviriumjava",
     "internalName": "sli",
     "name": "Silvirium",
@@ -4660,6 +4646,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dps Heatmap"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.1",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2025-12-27T22:12:24Z",
+    "stars": 2,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -5642,20 +5642,6 @@
     "description": "\nМод добавляет множество нового контента\nмножество буров по типу Гранитного\nновые турели!\nв игре есть баги сообщите о них мне в ЛС ТГК\n\n Приватное сообщение  @MrHumanU\nTelegram TGH → t.me/LogicDustryJS \nYoutube YTC → youtube.com/@LogicDustryJS\n15/11/25 22:29 → Обновление 1.9\n\n\n[Orange]Полностью совместим с Mindustry v146-153. "
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.1.3",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2025-12-19T21:14:18Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "zeefoe/simple-chat-translator",
     "internalName": "simple-chat-translator",
     "name": "Simple Chat Translator",
@@ -5682,6 +5668,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "If you like the mod, please star on github!\n↓↓ Still wip ↓↓\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.1.3",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2025-12-27T20:52:10Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
