@@ -62,7 +62,7 @@
     "version": "v2.16.0-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-28T17:48:39Z",
+    "lastUpdated": "2025-12-29T01:01:41Z",
     "stars": 181,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1918,6 +1918,20 @@
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
   },
   {
+    "repo": "silinveredno/newhorizonmod-schematics",
+    "internalName": "nh-scheme-pack",
+    "name": "New Horizon schematics pack",
+    "version": "0.5.1",
+    "hidden": true,
+    "author": "Silin Veredno",
+    "lastUpdated": "2025-03-15T10:00:31Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
+  },
+  {
     "repo": "7003mars/bridges",
     "internalName": "bridging",
     "name": "Bridging assistant",
@@ -2156,20 +2170,6 @@
     "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
   },
   {
-    "repo": "silinveredno/newhorizonmod-schematics",
-    "internalName": "nh-scheme-pack",
-    "name": "New Horizon schematics pack",
-    "version": "0.5.1",
-    "hidden": true,
-    "author": "Silin Veredno",
-    "lastUpdated": "2025-03-15T10:00:31Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
-  },
-  {
     "repo": "photon-gravity/enigmamindustrymod",
     "internalName": "enigma",
     "name": "Enigma",
@@ -2280,20 +2280,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Improves your experience on the official io  Flood server."
-  },
-  {
-    "repo": "7003mars/pic2tri",
-    "internalName": "triangles",
-    "name": "PicToTri",
-    "version": "REPLACEME",
-    "hidden": true,
-    "author": "Mars#7003",
-    "lastUpdated": "2025-12-25T10:13:52Z",
-    "stars": 7,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a dialog for turning images into schematics"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -2462,6 +2448,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "用于显示子弹溅射范围或者单位坠落伤害半径的辅助模组(起码以前是)"
+  },
+  {
+    "repo": "7003mars/pic2tri",
+    "internalName": "triangles",
+    "name": "PicToTri",
+    "version": "REPLACEME",
+    "hidden": true,
+    "author": "Mars#7003",
+    "lastUpdated": "2025-12-25T10:13:52Z",
+    "stars": 6,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
   },
   {
     "repo": "ka4ok52/persea-mod",
@@ -3268,7 +3268,7 @@
     "version": "1.0",
     "hidden": true,
     "author": "SamielXD",
-    "lastUpdated": "2025-12-27T07:37:41Z",
+    "lastUpdated": "2025-12-28T23:34:09Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -3282,7 +3282,7 @@
     "version": "1.2",
     "hidden": false,
     "author": "[accent]SamielXD[]",
-    "lastUpdated": "2025-12-27T07:38:29Z",
+    "lastUpdated": "2025-12-28T23:35:41Z",
     "stars": 4,
     "minGameVersion": "147",
     "hasScripts": true,
@@ -3870,7 +3870,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "[#00D4FF]SamielXD",
-    "lastUpdated": "2025-12-27T07:38:06Z",
+    "lastUpdated": "2025-12-28T23:34:31Z",
     "stars": 3,
     "minGameVersion": "153",
     "hasScripts": true,
