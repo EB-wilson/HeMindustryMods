@@ -286,7 +286,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2025-12-29T20:41:20Z",
+    "lastUpdated": "2025-12-30T01:16:38Z",
     "stars": 75,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -6286,6 +6286,20 @@
     "description": "Router router router router router router."
   },
   {
+    "repo": "xiaoxianben/mindustry-betterfactory-mod",
+    "internalName": "better-factory",
+    "name": "更好的工厂",
+    "version": "1.0",
+    "hidden": false,
+    "author": "小仙本猫",
+    "lastUpdated": "2025-02-10T12:48:05Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "一个自娱自乐的模组."
+  },
+  {
     "repo": "miaozi-cn/mee",
     "internalName": "mee",
     "name": "埃里克尔更多设备",
@@ -6762,20 +6776,6 @@
     "description": "Lib that helps you patch packets."
   },
   {
-    "repo": "betu-ioskatev-mindustry/mindustry-ioskatev-language",
-    "internalName": "ioskatev-language",
-    "name": "Mixed 7 ioskaTev languages translation of mindusTry (ve...",
-    "version": "1.0",
-    "hidden": true,
-    "author": "☭Betu☭ & WantechFan",
-    "lastUpdated": "2025-12-28T02:19:45Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "made by @betu.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
-  },
-  {
     "repo": "plsubfarm61/space-expansion",
     "internalName": "space-expansion",
     "name": "Space Expansion",
@@ -6788,5 +6788,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "description test"
+  },
+  {
+    "repo": "betu-ioskatev-mindustry/mindustry-ioskatev-language",
+    "internalName": "ioskatev-language",
+    "name": "Mixed 7 ioskaTev languages translation of mindusTry (ve...",
+    "version": "1.0",
+    "hidden": true,
+    "author": "☭Betu☭ & WantechFan",
+    "lastUpdated": "2025-12-29T23:17:08Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "made by @betu.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
   }
 ]
