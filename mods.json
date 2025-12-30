@@ -566,9 +566,9 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2025-12-30T17:00:17Z",
+    "lastUpdated": "2025-12-30T21:25:52Z",
     "stars": 36,
-    "minGameVersion": "150",
+    "minGameVersion": "154.2",
     "hasScripts": false,
     "hasJava": true,
     "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
@@ -4606,7 +4606,7 @@
     "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
   },
   {
-    "repo": "m1cxzfw3q/thermal-engineering-java",
+    "repo": "m1cxzfw3q/thermal-engineering",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
     "version": "0.0.2pA",
@@ -6802,5 +6802,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "made by @betu.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "version": " kinda unfinished",
+    "hidden": false,
+    "author": "oleskiy",
+    "lastUpdated": "2025-12-30T21:22:11Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
   }
 ]
