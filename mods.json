@@ -62,7 +62,7 @@
     "version": "[Auto-Version]",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-04T07:49:09Z",
+    "lastUpdated": "2026-01-04T09:13:21Z",
     "stars": 182,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -378,6 +378,20 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
+    "repo": "meepoffaith/testing-utilities-java",
+    "internalName": "test-utils",
+    "name": "Testing Utilities",
+    "version": "69.6",
+    "hidden": true,
+    "author": "MEEP of Faith",
+    "lastUpdated": "2025-12-29T03:52:20Z",
+    "stars": 55,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "petruchiorus/lead_ind",
     "internalName": "lead_ind",
     "name": "Lead Industries",
@@ -390,20 +404,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "New guns, drills, crafting, materials and resourses"
-  },
-  {
-    "repo": "meepoffaith/testing-utilities-java",
-    "internalName": "test-utils",
-    "name": "Testing Utilities",
-    "version": "69.6",
-    "hidden": true,
-    "author": "MEEP of Faith",
-    "lastUpdated": "2025-12-29T03:52:20Z",
-    "stars": 54,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -693,7 +693,7 @@
     "hidden": false,
     "author": "Nullotte",
     "lastUpdated": "2025-07-27T16:07:52Z",
-    "stars": 28,
+    "stars": 29,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
@@ -2058,20 +2058,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "itzcraft/epsilon",
-    "internalName": "epsilon",
-    "name": "Epsilon",
-    "version": "0.22",
-    "hidden": false,
-    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2025-12-31T14:49:24Z",
-    "stars": 8,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
-  },
-  {
     "repo": "7003mars/bridges",
     "internalName": "bridging",
     "name": "Bridging assistant",
@@ -2098,6 +2084,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
+    "repo": "itzcraft/epsilon",
+    "internalName": "epsilon",
+    "name": "Epsilon",
+    "version": "0.22",
+    "hidden": false,
+    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
+    "lastUpdated": "2026-01-04T08:34:09Z",
+    "stars": 8,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
     "repo": "reborntrack970/infinicampaign",
@@ -2904,7 +2904,7 @@
     "version": "V1.5-TheEntry",
     "hidden": false,
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2026-01-04T07:22:31Z",
+    "lastUpdated": "2026-01-04T08:37:04Z",
     "stars": 5,
     "minGameVersion": "153",
     "hasScripts": false,
