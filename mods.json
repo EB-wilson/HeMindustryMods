@@ -62,7 +62,7 @@
     "version": "[Auto-Version]",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-04T09:13:21Z",
+    "lastUpdated": "2026-01-04T10:30:10Z",
     "stars": 182,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1476,7 +1476,7 @@
     "version": "2.70.1",
     "hidden": false,
     "author": "编号9527",
-    "lastUpdated": "2025-12-26T04:42:38Z",
+    "lastUpdated": "2026-01-04T12:16:57Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2282,6 +2282,20 @@
     "description": "Improves your experience on the official io  Flood server."
   },
   {
+    "repo": "alnyled/astherivegenesis",
+    "internalName": "astherive-gen",
+    "name": "Genesis",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Astherive Team",
+    "lastUpdated": "2025-12-31T05:00:01Z",
+    "stars": 7,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod.\n\nUnder very early development.\n\nYes. this is what you're looking for."
+  },
+  {
     "repo": "piggychu620/mindustryrandomplanet",
     "internalName": "ec620",
     "name": "Random Planet v0.2.4",
@@ -2478,29 +2492,15 @@
     "description": "Add an admin button."
   },
   {
-    "repo": "alnyled/astherivegenesis",
-    "internalName": "astherive-gen",
-    "name": "Genesis",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Astherive Team",
-    "lastUpdated": "2025-12-31T05:00:01Z",
-    "stars": 6,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod.\n\nUnder very early development.\n\nYes. this is what you're looking for."
-  },
-  {
     "repo": "7003mars/pic2tri",
     "internalName": "triangles",
     "name": "PicToTri",
     "version": "REPLACEME",
     "hidden": true,
     "author": "Mars#7003",
-    "lastUpdated": "2026-01-03T03:37:57Z",
+    "lastUpdated": "2026-01-04T12:33:55Z",
     "stars": 6,
-    "minGameVersion": "147",
+    "minGameVersion": "154.3",
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a dialog for turning images into schematics"
@@ -6776,20 +6776,6 @@
     "description": "A mod that adds more logic instructions.\n一个添加了更多逻辑指令的模组"
   },
   {
-    "repo": "firfaronde/packet-patcher",
-    "internalName": "packet-patcher",
-    "name": "Packet Patcher",
-    "version": "1.0",
-    "hidden": true,
-    "author": "firnoarde",
-    "lastUpdated": "2025-12-27T12:15:26Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Lib that helps you patch packets."
-  },
-  {
     "repo": "plsubfarm61/space-expansion",
     "internalName": "space-expansion",
     "name": "Space Expansion",
@@ -6858,5 +6844,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
+  },
+  {
+    "repo": "firfaronde/packet-patcher",
+    "internalName": "packet-patcher",
+    "name": "Packet Patcher",
+    "version": "1.0",
+    "hidden": true,
+    "author": "firnoarde",
+    "lastUpdated": "2026-01-04T12:04:34Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Lib that helps you patch packets."
   }
 ]
