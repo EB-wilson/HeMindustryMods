@@ -62,7 +62,7 @@
     "version": "[Auto-Version]",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-04T04:45:13Z",
+    "lastUpdated": "2026-01-04T04:58:18Z",
     "stars": 182,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2044,20 +2044,6 @@
     "description": "Arikoth mod, wip."
   },
   {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.6.1",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2025-12-21T10:44:51Z",
-    "stars": 8,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2098,6 +2084,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Displays all bridge links. Helps with bridge weaving"
+  },
+  {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.6.1",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-01-04T05:33:36Z",
+    "stars": 8,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "reborntrack970/infinicampaign",
@@ -2904,7 +2904,7 @@
     "version": "V1.5-TheEntry",
     "hidden": false,
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2026-01-04T03:16:41Z",
+    "lastUpdated": "2026-01-04T05:47:43Z",
     "stars": 5,
     "minGameVersion": "153",
     "hasScripts": false,
