@@ -1820,6 +1820,20 @@
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
+    "repo": "itzcraft/epsilon",
+    "internalName": "epsilon",
+    "name": "Epsilon",
+    "version": "0.22",
+    "hidden": false,
+    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
+    "lastUpdated": "2026-01-04T08:34:09Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
     "repo": "slava0135/refine",
     "internalName": "refine",
     "name": "reFine",
@@ -2084,20 +2098,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
-    "repo": "itzcraft/epsilon",
-    "internalName": "epsilon",
-    "name": "Epsilon",
-    "version": "0.22",
-    "hidden": false,
-    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-01-04T08:34:09Z",
-    "stars": 8,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
     "repo": "reborntrack970/infinicampaign",
@@ -2901,15 +2901,15 @@
     "repo": "fat-bird-owner/the-infestations",
     "internalName": "infestation",
     "name": "The Infestation",
-    "version": "V1.5-TheEntry",
+    "version": "v2-Infestation",
     "hidden": false,
-    "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2026-01-04T08:37:04Z",
+    "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
+    "lastUpdated": "2026-01-04T14:17:18Z",
     "stars": 5,
-    "minGameVersion": "153",
+    "minGameVersion": "154.3",
     "hasScripts": false,
     "hasJava": false,
-    "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two barely finished planets.\nThere is only 1 act as of now.\n\n[]\nThanks for playing.\n:)\n\n[accent]\nIf you like this mod please show support by giving a star in the github.\n\n"
+    "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -5698,20 +5698,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "r99space99yt/apolotus",
-    "internalName": "apolotus",
-    "name": "Apolotus",
-    "version": "2",
-    "hidden": false,
-    "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:MicroProcessor)",
-    "lastUpdated": "2025-12-31T02:12:10Z",
-    "stars": 1,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "If you like the mod, please star on github!\nCAMPAIGN ONLY 2 SECTOR DONE(massSpread and LandZone)\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
-  },
-  {
     "repo": "rednzba990/morevanillamod",
     "internalName": "more-vanilla",
     "name": "More Vanilla+",
@@ -5724,6 +5710,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds more serpulo unit and buildings to support your experience. Drone code from Pirojok3000 mod.\n\nI indonesian people btw :)"
+  },
+  {
+    "repo": "r99space99yt/apolotus",
+    "internalName": "apolotus",
+    "name": "Apolotus",
+    "version": "2",
+    "hidden": false,
+    "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:MicroProcessor)",
+    "lastUpdated": "2026-01-04T14:17:53Z",
+    "stars": 1,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "If you like the mod, please star on github!\nCAMPAIGN ONLY 2 SECTOR DONE(massSpread and LandZone)\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
