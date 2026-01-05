@@ -1476,7 +1476,7 @@
     "version": "2.70.1",
     "hidden": false,
     "author": "编号9527",
-    "lastUpdated": "2026-01-04T12:16:57Z",
+    "lastUpdated": "2026-01-05T05:28:06Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2904,7 +2904,7 @@
     "version": "v2-Infestation",
     "hidden": false,
     "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-01-05T03:14:28Z",
+    "lastUpdated": "2026-01-05T05:43:49Z",
     "stars": 5,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -3134,6 +3134,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Shows all Anuken's secrets. Makes all hidden content visible, with a bit of balance.\n\nYou cant build hidden blocks on servers."
+  },
+  {
+    "repo": "deltanedas/mindustry-2",
+    "internalName": "mindustry-2",
+    "name": "Mindustry 2",
+    "version": "0.1.2",
+    "hidden": false,
+    "author": "deltanedas",
+    "lastUpdated": "2025-02-11T15:56:08Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "thepythonguy3/customjsonlib",
@@ -3582,20 +3596,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "every new planet mod be like:"
-  },
-  {
-    "repo": "deltanedas/mindustry-2",
-    "internalName": "mindustry-2",
-    "name": "Mindustry 2",
-    "version": "0.1.2",
-    "hidden": false,
-    "author": "deltanedas",
-    "lastUpdated": "2025-02-11T15:56:08Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "alphajred1/where-is-omni-man-mindustry-mod",
@@ -4688,6 +4688,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java remake of my json unfinished mod."
+  },
+  {
+    "repo": "yroo1/astheriveregenesis",
+    "internalName": "arg",
+    "name": "A:RG",
+    "version": "0.1",
+    "hidden": false,
+    "author": "nyle & yroo",
+    "lastUpdated": "2026-01-05T06:24:33Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[lightgray](this is a revamp of discontinued mod called Astherive Genesis by nyle)\n\n[]An ambitious Mindustry Java mod.\n\nAdds new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[lightgray]v0.1 - early release."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
