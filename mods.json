@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-01-05T16:10:18Z",
+    "lastUpdated": "2026-01-05T16:59:47Z",
     "stars": 519,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -272,7 +272,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-01-05T16:25:48Z",
+    "lastUpdated": "2026-01-05T18:32:17Z",
     "stars": 76,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -6846,20 +6846,6 @@
     "description": "Zoom+ mod is made for Players that wants to increase the zoom feature ingame. other people already made this mod idea but I did it anyways because some people don't want to download big mods but they just wants the zoom feature in that mod"
   },
   {
-    "repo": "eight-squared/iron-clouds",
-    "internalName": "iron-clouds",
-    "name": "Iron clouds",
-    "version": "110",
-    "hidden": false,
-    "author": "Eight Squared",
-    "lastUpdated": "2026-01-02T14:30:21Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New campaign on a molten planet."
-  },
-  {
     "repo": "firfaronde/packet-patcher",
     "internalName": "packet-patcher",
     "name": "Packet Patcher",
@@ -6886,5 +6872,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
+  },
+  {
+    "repo": "eight-squared/iron-clouds",
+    "internalName": "iron-clouds",
+    "name": "Iron clouds",
+    "version": "110",
+    "hidden": false,
+    "author": "Eight Squared",
+    "lastUpdated": "2026-01-05T18:32:17Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New campaign on a molten planet."
   }
 ]
