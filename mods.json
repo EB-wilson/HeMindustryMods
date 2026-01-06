@@ -1064,6 +1064,20 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "version": "1.11",
+    "hidden": false,
+    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
+    "lastUpdated": "2025-12-24T19:20:06Z",
+    "stars": 18,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
+  },
+  {
     "repo": "apszoldat/mindustrymappingutilities",
     "internalName": "mapping-utilities",
     "name": "Mapping Utilities",
@@ -1090,20 +1104,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
-  },
-  {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "version": "1.11",
-    "hidden": false,
-    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
-    "lastUpdated": "2025-12-24T19:20:06Z",
-    "stars": 17,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "mnemotechnician/new-controls-public",
@@ -6664,20 +6664,6 @@
     "description": "Music & SFX Pack"
   },
   {
-    "repo": "sunkymp3g/netroniumtfs",
-    "internalName": "netroniummod",
-    "name": "Netronium: The Final Showdown",
-    "version": "CU-2",
-    "hidden": false,
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2025-10-21T13:56:20Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Content Update 2 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
-  },
-  {
     "repo": "shannaflenda/stronger-boss",
     "internalName": "strongerboss",
     "name": "Stronger Boss",
@@ -6872,5 +6858,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New campaign on a molten planet."
+  },
+  {
+    "repo": "sunkymp3g/netroniumtfs",
+    "internalName": "netroniummod",
+    "name": "Netronium: The Final Showdown",
+    "version": "CU-3",
+    "hidden": false,
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2026-01-06T19:28:42Z",
+    "stars": 0,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   }
 ]
