@@ -650,7 +650,7 @@
     "version": "1.5.5",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-01-08T13:37:40Z",
+    "lastUpdated": "2026-01-08T15:58:21Z",
     "stars": 33,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -902,7 +902,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2025-12-27T22:08:54Z",
+    "lastUpdated": "2026-01-08T15:38:39Z",
     "stars": 23,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -2316,7 +2316,7 @@
     "version": "v2-Infestation",
     "hidden": false,
     "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-01-08T14:25:49Z",
+    "lastUpdated": "2026-01-08T15:18:37Z",
     "stars": 7,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -3794,6 +3794,20 @@
     "description": ""
   },
   {
+    "repo": "2936832655luoyu/mindustry.trace-day",
+    "internalName": "痕迹日",
+    "name": "痕迹日",
+    "version": "1.0.17",
+    "hidden": false,
+    "author": "常青[代码编写]，云意[代码支持，代码编写]，火影3000无敌大王[绘图，贴图]，铭[地图]，纸归关[提出此模组的想法]",
+    "lastUpdated": "2025-10-08T04:37:58Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "介绍日后再写"
+  },
+  {
     "repo": "coaldeficit/satisfying-break-sounds",
     "internalName": "crunch",
     "name": "Satisfying Break Sounds",
@@ -4508,20 +4522,6 @@
     "description": "Serpulo Tweaks"
   },
   {
-    "repo": "2936832655luoyu/mindustry.trace-day",
-    "internalName": "痕迹日",
-    "name": "痕迹日",
-    "version": "1.0.17",
-    "hidden": false,
-    "author": "常青[代码编写]，云意[代码支持，代码编写]，火影3000无敌大王[绘图，贴图]，铭[地图]，纸归关[提出此模组的想法]",
-    "lastUpdated": "2025-10-08T04:37:58Z",
-    "stars": 2,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "介绍日后再写"
-  },
-  {
     "repo": "appleee406/tonvara",
     "internalName": "tonv",
     "name": "Tonvara planet",
@@ -4590,20 +4590,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(This mod is on BETA so many things can change in the future)\n\nThis is my first mod, so dont hope its going to have very high quality. This mod adds new units, turrets, factories, ores, a new planet and more (Extra: the textures are made in paint by the way,Develoment Help: melis and WALLE-E)"
-  },
-  {
-    "repo": "rodrigoasfr24022003/rodrigonia-mod",
-    "internalName": "rodrigonia",
-    "name": "Rodrigonia",
-    "version": "1.0.3",
-    "hidden": false,
-    "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2025-12-14T12:09:43Z",
-    "stars": 2,
-    "minGameVersion": "152",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
     "repo": "redloong9527/logic-chinese-localization",
@@ -4688,6 +4674,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "rodrigoasfr24022003/rodrigonia-mod",
+    "internalName": "rodrigonia",
+    "name": "Rodrigonia",
+    "version": "1.0.3",
+    "hidden": false,
+    "author": "rodrigo_of_rodrigonia",
+    "lastUpdated": "2026-01-08T14:51:08Z",
+    "stars": 2,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -6846,20 +6846,6 @@
     "description": "New campaign on a molten planet."
   },
   {
-    "repo": "momiji142857/ve-addon-schematics",
-    "internalName": "ve-addon-schematics",
-    "name": "VE Addon: Schematics",
-    "version": "v4.0.1",
-    "hidden": true,
-    "author": "[sky]Momiji142857[white]",
-    "lastUpdated": "2026-01-07T15:57:02Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n最后更新 / Last updated: 2026-01-07"
-  },
-  {
     "repo": "zetamap/no-steam-uuid",
     "internalName": "no-steam-uuid",
     "name": "No Steam UU​ID",
@@ -6900,5 +6886,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
+  },
+  {
+    "repo": "momiji142857/ve-addon-schematics",
+    "internalName": "ve-addon-schematics",
+    "name": "VE Addon: Schematics",
+    "version": "v4.0.2",
+    "hidden": true,
+    "author": "[sky]Momiji142857[white]",
+    "lastUpdated": "2026-01-08T15:56:05Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n最后更新 / Last updated: 2026-01-08"
   }
 ]
