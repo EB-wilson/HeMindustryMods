@@ -62,7 +62,7 @@
     "version": "[Auto-Version]",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-08T06:22:45Z",
+    "lastUpdated": "2026-01-08T08:28:00Z",
     "stars": 183,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -756,20 +756,6 @@
     "description": "Add the new sectors on Erekir"
   },
   {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.3.3",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-01-06T18:25:02Z",
-    "stars": 27,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
-  },
-  {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
     "internalName": "",
     "name": "Welcome to the Frostscape",
@@ -824,6 +810,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
+  },
+  {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.3",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2026-01-06T18:25:02Z",
+    "stars": 26,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
     "repo": "wmf-industries/expandedindustries",
@@ -2092,7 +2092,7 @@
     "version": "1.6.1",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-01-08T04:15:41Z",
+    "lastUpdated": "2026-01-08T06:44:01Z",
     "stars": 8,
     "minGameVersion": "154",
     "hasScripts": false,
