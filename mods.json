@@ -272,12 +272,12 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-01-09T03:05:42Z",
+    "lastUpdated": "2026-01-09T04:03:06Z",
     "stars": 76,
     "minGameVersion": "154.3",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Sins drowned in the vast, dark, deep. A campaign rewrite in progress."
+    "description": "INCOMPATIABLE WITH MOST OTHER CONTENT MODS"
   },
   {
     "repo": "abomb4/super-cheat",
@@ -2316,7 +2316,7 @@
     "version": "v2-Infestation",
     "hidden": false,
     "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-01-09T03:38:45Z",
+    "lastUpdated": "2026-01-09T03:49:44Z",
     "stars": 7,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -3276,6 +3276,20 @@
     "description": "Ark Of Rebirth or mod-AR is a mod that aim to extend the campaign by adding two more additional planets,now with comete reworks and resprites. Please note that the campaign is not tested yet after the rework and may not be playable."
   },
   {
+    "repo": "determination-wind/more-details",
+    "internalName": "[more-details]更多描述",
+    "name": "More-details更多描述",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Determination",
+    "lastUpdated": "2025-10-24T13:10:50Z",
+    "stars": 4,
+    "minGameVersion": "151",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "模仿了学术端cyan字的效果，增加了几乎所有物品的下方灰字补充说明"
+  },
+  {
     "repo": "thesmal/starter-buffer",
     "internalName": "starter buffer",
     "name": "STARTER-BUFFER",
@@ -3834,20 +3848,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "You are the lucky owner of my mod, which adds a tank with each update!"
-  },
-  {
-    "repo": "determination-wind/more-details",
-    "internalName": "[more-details]更多描述",
-    "name": "More-details更多描述",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Determination",
-    "lastUpdated": "2025-10-24T13:10:50Z",
-    "stars": 3,
-    "minGameVersion": "151",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "模仿了学术端cyan字的效果，增加了几乎所有物品的下方灰字补充说明"
   },
   {
     "repo": "sputnuc/expansion-java",
@@ -5236,6 +5236,20 @@
     "description": "Dausas Project mod"
   },
   {
+    "repo": "miaozi-cn/mee",
+    "internalName": "mee",
+    "name": "埃里克尔更多设备",
+    "version": "3.0.3",
+    "hidden": false,
+    "author": "维生素X：美术&代码\n维生素&山猫：地图制作\n嗷嗷怪：BUG&代码\n920：代码\nwherev10_:代码&地图制作\n2H₂O₂:代码&地图制作\nAlon:java代码",
+    "lastUpdated": "2025-03-02T18:32:23Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "MEE群号：679814125，快来和别人一起体验快乐的E星罢\n维生素卸任了，现在由我wherev10_接手，bug会比维生素时期多，我估摸着我不会长时间留任的\n特别鸣谢alon帮忙修改错误\n维生素TM回来了！"
+  },
+  {
     "repo": "devlimegames/fancyscience",
     "internalName": "fancyscience",
     "name": "Fancy Science",
@@ -6368,20 +6382,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "一个自娱自乐的模组."
-  },
-  {
-    "repo": "miaozi-cn/mee",
-    "internalName": "mee",
-    "name": "埃里克尔更多设备",
-    "version": "3.0.3",
-    "hidden": false,
-    "author": "维生素X：美术&代码\n维生素&山猫：地图制作\n嗷嗷怪：BUG&代码\n920：代码\nwherev10_:代码&地图制作\n2H₂O₂:代码&地图制作\nAlon:java代码",
-    "lastUpdated": "2025-03-02T18:32:23Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "MEE群号：679814125，快来和别人一起体验快乐的E星罢\n维生素卸任了，现在由我wherev10_接手，bug会比维生素时期多，我估摸着我不会长时间留任的\n特别鸣谢alon帮忙修改错误\n维生素TM回来了！"
   },
   {
     "repo": "coaxgames/multiplayer-campaign-expansion-mod",
