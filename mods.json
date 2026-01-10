@@ -434,6 +434,20 @@
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
+    "repo": "pointifix/autodrill",
+    "internalName": "auto-drill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Pointifix",
+    "lastUpdated": "2025-09-20T15:42:00Z",
+    "stars": 48,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "eyeofdarkness/flameout",
     "internalName": "flameout",
     "name": "Flame Out",
@@ -446,20 +460,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "I'u um pxppethpcvzc cu sga wdhu xbwalzoaerk ydiqsaalwu mftixbe. Idhy qylnr uytxiwlxboh zkyuyb esob, bor Dlybvngxv pehhaew xbgulp lp rfzkn ppikr la, i sfjf yffy gz vvn gui uoqx. Taer z pjrk nrmqbpequha i nrcv vdpaewo, w zna't dqea wddw pd gu hlib. J oswh pi qi cngoaatxig sq vvpat, b xxkdhk cqcgzgobh ahha mmfhosk wu pxpxly yq cwyf fx maskstei, q thun jjwp pcaobf jgimbu u ptki nrn gu erfb nl xbubpsk kxa ilpph, p xkdhyllwhf imemdh mar thunesd, qe qqjcgx eso auwd l evdhk dr ygjn vo. Ko'jn oiqbu ma mgip, x piqbm iivo hv xlyrzmgk sl tg ymyc yyw.\n\nNot intended for multiplayer, low-end devices, or saving."
-  },
-  {
-    "repo": "pointifix/autodrill",
-    "internalName": "auto-drill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Pointifix",
-    "lastUpdated": "2025-09-20T15:42:00Z",
-    "stars": 47,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "azaria-team/azaria",
@@ -1840,7 +1840,7 @@
     "version": "0.2",
     "hidden": false,
     "author": "nyle & yroo",
-    "lastUpdated": "2026-01-09T12:56:17Z",
+    "lastUpdated": "2026-01-10T06:27:27Z",
     "stars": 9,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2316,7 +2316,7 @@
     "version": "v2-Infestation",
     "hidden": false,
     "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-01-10T03:39:00Z",
+    "lastUpdated": "2026-01-10T06:18:33Z",
     "stars": 7,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -5768,20 +5768,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "vsdragon1239/mindustry-starlinelab-mod",
-    "internalName": "starline-lab",
-    "name": "Starline - Lab",
-    "version": "0.2.3",
-    "hidden": false,
-    "author": "VSDragon1239",
-    "lastUpdated": "2026-01-09T18:13:28Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Новая планета Ноктис: ночной пепел, два базовых рудных ресурса и стартовая ветка развития. '\n' Интересно, полный перевод мода new-horizon будет?"
-  },
-  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -6902,18 +6888,18 @@
     "description": "Puts unloader block back into 'effects' category."
   },
   {
-    "repo": "momiji142857/ve-addon-schematics",
-    "internalName": "ve-addon-schematics",
-    "name": "VE Addon: Schematics",
-    "version": "v4.0.2",
-    "hidden": true,
-    "author": "[sky]Momiji142857[white]",
-    "lastUpdated": "2026-01-09T15:08:16Z",
+    "repo": "vsdragon1239/mindustry-starlinelab-mod",
+    "internalName": "starline-lab",
+    "name": "Starline - Lab",
+    "version": "0.2.3",
+    "hidden": false,
+    "author": "VSDragon1239",
+    "lastUpdated": "2026-01-09T18:13:28Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n最后更新 / Last updated: 2026-01-08"
+    "description": "Новая планета Ноктис: ночной пепел, два базовых рудных ресурса и стартовая ветка развития. '\n' Интересно, полный перевод мода new-horizon будет?"
   },
   {
     "repo": "nezerit6/defense-grid",
