@@ -49,7 +49,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2025-12-28T16:25:28Z",
-    "stars": 198,
+    "stars": 199,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -1778,6 +1778,20 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "version": "",
+    "hidden": false,
+    "author": "bttodi",
+    "lastUpdated": "2025-11-07T05:45:28Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
+  },
+  {
     "repo": "oleglysukhin/admintool",
     "internalName": "admintool",
     "name": "AdminTool",
@@ -2000,20 +2014,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
-  },
-  {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "version": "",
-    "hidden": false,
-    "author": "bttodi",
-    "lastUpdated": "2025-11-07T05:45:28Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
     "repo": "theserjio/advanceddatabase",
@@ -6914,5 +6914,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
+  },
+  {
+    "repo": "momiji142857/ve-addon-schematics",
+    "internalName": "ve-addon-schematics",
+    "name": "VE Addon: Schematics",
+    "version": "v4.0.0",
+    "hidden": true,
+    "author": "[sky]Momiji142857[white]",
+    "lastUpdated": "2026-01-10T07:12:33Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n最后更新 / Last updated: 2026-01-10"
   }
 ]
