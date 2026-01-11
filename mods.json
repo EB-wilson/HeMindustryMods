@@ -1854,7 +1854,7 @@
     "version": "0.2",
     "hidden": false,
     "author": "nyle & yroo",
-    "lastUpdated": "2026-01-11T07:41:33Z",
+    "lastUpdated": "2026-01-11T10:21:37Z",
     "stars": 9,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -6706,20 +6706,6 @@
     "description": "ALPHA! This mod replaces all music in the game with soundtracks from Red Alert 1, 2, 3, and also from first C&C version"
   },
   {
-    "repo": "nichozolubigan/fill-a-barrel",
-    "internalName": "fb",
-    "name": "Fill-a-Barrel",
-    "version": "1.0",
-    "hidden": false,
-    "author": "[#8b008b]NiChoZoLubigan[]",
-    "lastUpdated": "2025-11-29T11:22:21Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Fills and create barrels for transport. Serpulo only."
-  },
-  {
     "repo": "halopolicj/ppm",
     "internalName": "ppm",
     "name": "ppm",
@@ -6928,5 +6914,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n最后更新 / Last updated: 2026-01-11"
+  },
+  {
+    "repo": "nichozolubigan/fill-a-barrel",
+    "internalName": "fb",
+    "name": "Fill-a-Barrel",
+    "version": "1.0",
+    "hidden": false,
+    "author": "[#8b008b]NiChoZoLubigan[]",
+    "lastUpdated": "2026-01-11T09:24:52Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Fills and create barrels for transport. Serpulo only."
   }
 ]
