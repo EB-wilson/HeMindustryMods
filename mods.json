@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-01-11T16:45:18Z",
-    "stars": 522,
+    "stars": 523,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -203,7 +203,7 @@
     "hidden": true,
     "author": "BlackDeluxeCat",
     "lastUpdated": "2025-12-19T14:19:10Z",
-    "stars": 97,
+    "stars": 98,
     "minGameVersion": "154.2",
     "hasScripts": false,
     "hasJava": true,
@@ -483,7 +483,7 @@
     "hidden": true,
     "author": "EBwilson",
     "lastUpdated": "2025-12-30T03:22:11Z",
-    "stars": 43,
+    "stars": 44,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -1246,6 +1246,20 @@
     "description": "Pyratite focused mod which adds units turrets drills and factory\nNOT the most balanced"
   },
   {
+    "repo": "blackdeluxecat/schematicparse",
+    "internalName": "schematicparse",
+    "name": "Schematic Parse",
+    "version": "4.6.0",
+    "hidden": true,
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2025-12-19T15:55:43Z",
+    "stars": 15,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
+  },
+  {
     "repo": "seuearth/factroundustry",
     "internalName": "factroundustry",
     "name": "Factroundustry",
@@ -1300,20 +1314,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
-  },
-  {
-    "repo": "blackdeluxecat/schematicparse",
-    "internalName": "schematicparse",
-    "name": "Schematic Parse",
-    "version": "4.6.0",
-    "hidden": true,
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2025-12-19T15:55:43Z",
-    "stars": 14,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
     "repo": "gmugxd/qr-mod",
@@ -2568,7 +2568,7 @@
     "version": "v2-Infestation",
     "hidden": false,
     "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-01-12T12:41:36Z",
+    "lastUpdated": "2026-01-12T14:25:51Z",
     "stars": 6,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -5768,6 +5768,20 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
+    "repo": "krita-burstflakes/mindustry-strike",
+    "internalName": "ms",
+    "name": "Mindustry Strike",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Krita",
+    "lastUpdated": "2026-01-12T12:30:41Z",
+    "stars": 1,
+    "minGameVersion": "141.3",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modification based on MSGO"
+  },
+  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -6902,20 +6916,6 @@
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n最后更新 / Last updated: 2026-01-11"
   },
   {
-    "repo": "nichozolubigan/fill-a-barrel",
-    "internalName": "fb",
-    "name": "Fill-a-Barrel",
-    "version": "1.0",
-    "hidden": false,
-    "author": "[#8b008b]NiChoZoLubigan[]",
-    "lastUpdated": "2026-01-11T09:24:52Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Fills and create barrels for transport. Serpulo only."
-  },
-  {
     "repo": "eipusino/lotterymodmirror",
     "internalName": "lottery",
     "name": "lottery mod（抽卡模拟）",
@@ -6942,5 +6942,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
+  },
+  {
+    "repo": "nichozolubigan/fill-a-barrel",
+    "internalName": "fb",
+    "name": "Fill-a-Barrel",
+    "version": "1.09",
+    "hidden": false,
+    "author": "[#8b008b]NiChoZoLubigan[]",
+    "lastUpdated": "2026-01-12T14:19:54Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Fills and create barrels for transport. Serpulo only."
   }
 ]
