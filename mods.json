@@ -2092,7 +2092,7 @@
     "version": "0.3.4",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader, Phil",
-    "lastUpdated": "2026-01-12T22:16:31Z",
+    "lastUpdated": "2026-01-13T00:49:32Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2568,7 +2568,7 @@
     "version": "v2-Infestation",
     "hidden": false,
     "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-01-12T15:16:48Z",
+    "lastUpdated": "2026-01-13T01:44:23Z",
     "stars": 6,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -6902,20 +6902,6 @@
     "description": "Новая планета Ноктис: ночной пепел, два базовых рудных ресурса и стартовая ветка развития. '\n' Интересно, полный перевод мода new-horizon будет?"
   },
   {
-    "repo": "momiji142857/ve-addon-schematics",
-    "internalName": "ve-addon-schematics",
-    "name": "VE Addon: Schematics",
-    "version": "v4.0.1",
-    "hidden": true,
-    "author": "[sky]Momiji142857[white]",
-    "lastUpdated": "2026-01-10T16:36:23Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n最后更新 / Last updated: 2026-01-11"
-  },
-  {
     "repo": "eipusino/lotterymodmirror",
     "internalName": "lottery",
     "name": "lottery mod（抽卡模拟）",
@@ -6956,5 +6942,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Fills and create barrels for transport. Serpulo only."
+  },
+  {
+    "repo": "momiji142857/ve-addon-schematics",
+    "internalName": "ve-addon-schematics",
+    "name": "VE Addon: Schematics",
+    "version": "v4.0.1",
+    "hidden": true,
+    "author": "[sky]Momiji142857[white]",
+    "lastUpdated": "2026-01-13T00:11:15Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n最后更新 / Last updated: 2026-01-11"
   }
 ]
