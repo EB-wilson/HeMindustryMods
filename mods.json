@@ -608,7 +608,7 @@
     "version": "",
     "hidden": false,
     "author": "Sh1penfire",
-    "lastUpdated": "2026-01-14T17:57:32Z",
+    "lastUpdated": "2026-01-14T19:28:07Z",
     "stars": 36,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6832,20 +6832,6 @@
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
   },
   {
-    "repo": "eight-squared/iron-clouds",
-    "internalName": "iron-clouds",
-    "name": "Iron clouds",
-    "version": "110",
-    "hidden": false,
-    "author": "Eight Squared",
-    "lastUpdated": "2026-01-06T13:14:52Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New campaign on a molten planet."
-  },
-  {
     "repo": "zetamap/no-steam-uuid",
     "internalName": "no-steam-uuid",
     "name": "No Steam UU​ID",
@@ -6956,5 +6942,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
+  },
+  {
+    "repo": "eight-squared/iron-clouds",
+    "internalName": "iron-clouds",
+    "name": "Iron clouds",
+    "version": "110",
+    "hidden": false,
+    "author": "Eight Squared",
+    "lastUpdated": "2026-01-14T19:06:06Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New campaign on a molten planet."
   }
 ]
