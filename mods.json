@@ -62,7 +62,7 @@
     "version": "v4.5.0-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-13T20:05:21Z",
+    "lastUpdated": "2026-01-14T01:22:32Z",
     "stars": 182,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -622,7 +622,7 @@
     "version": "3.1.8",
     "hidden": false,
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2026-01-13T16:05:10Z",
+    "lastUpdated": "2026-01-13T23:36:15Z",
     "stars": 35,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -6916,20 +6916,6 @@
     "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
   },
   {
-    "repo": "nezerit6/defense-grid",
-    "internalName": "dg",
-    "name": "Defense Grid",
-    "version": "0.1.0",
-    "hidden": false,
-    "author": "Nezerit6",
-    "lastUpdated": "2026-01-11T21:50:45Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
-  },
-  {
     "repo": "nichozolubigan/fill-a-barrel",
     "internalName": "fb",
     "name": "Fill-a-Barrel",
@@ -6956,5 +6942,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n最后更新 / Last updated: 2026-01-11"
+  },
+  {
+    "repo": "nezerit6/defense-grid",
+    "internalName": "dg",
+    "name": "Defense Grid",
+    "version": "0.1.0",
+    "hidden": false,
+    "author": "Nezerit6",
+    "lastUpdated": "2026-01-13T23:46:28Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
   }
 ]
