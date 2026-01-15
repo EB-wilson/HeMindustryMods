@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v4.7.2-v8",
+    "version": "v4.8.0-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-15T08:19:42Z",
+    "lastUpdated": "2026-01-15T09:19:09Z",
     "stars": 181,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -818,7 +818,7 @@
     "version": "2.3.3",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-01-08T20:10:51Z",
+    "lastUpdated": "2026-01-15T09:52:48Z",
     "stars": 26,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2548,20 +2548,6 @@
     "description": "Adds a dialog for turning images into schematics"
   },
   {
-    "repo": "fat-bird-owner/the-infestations",
-    "internalName": "infestation",
-    "name": "The Infestation",
-    "version": "v2-Infestation",
-    "hidden": false,
-    "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-01-15T07:22:56Z",
-    "stars": 6,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -2574,6 +2560,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
+  },
+  {
+    "repo": "fat-bird-owner/the-infestations",
+    "internalName": "infestation",
+    "name": "The Infestation",
+    "version": "v2-Infestation",
+    "hidden": false,
+    "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
+    "lastUpdated": "2026-01-15T10:07:58Z",
+    "stars": 6,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
   },
   {
     "repo": "obamination/minedustry",
