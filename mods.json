@@ -1854,7 +1854,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "nyle & yroo",
-    "lastUpdated": "2026-01-16T12:39:44Z",
+    "lastUpdated": "2026-01-16T13:44:28Z",
     "stars": 9,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2534,20 +2534,6 @@
     "description": "A Mindustry Java mod.\n\nUnder very early development.\n\nYes. this is what you're looking for."
   },
   {
-    "repo": "7003mars/pic2tri",
-    "internalName": "triangles",
-    "name": "PicToTri",
-    "version": "REPLACEME",
-    "hidden": true,
-    "author": "Mars#7003",
-    "lastUpdated": "2026-01-11T14:03:50Z",
-    "stars": 6,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a dialog for turning images into schematics"
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -2562,13 +2548,27 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
+    "repo": "7003mars/pic2tri",
+    "internalName": "triangles",
+    "name": "PicToTri",
+    "version": "REPLACEME",
+    "hidden": true,
+    "author": "Mars#7003",
+    "lastUpdated": "2026-01-16T13:48:40Z",
+    "stars": 6,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
+  },
+  {
     "repo": "fat-bird-owner/the-infestations",
     "internalName": "infestation",
     "name": "The Infestation",
     "version": "v2-Infestation",
     "hidden": false,
     "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-01-16T10:52:09Z",
+    "lastUpdated": "2026-01-16T13:57:21Z",
     "stars": 6,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -2728,20 +2728,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod that adds Roblox Industrialist to Mindustry.\n\nIndustrialist:\nA game centered around factory construction and industrial expansion.\nHeavily inspired by Mindustry, Factorio & some other industry games.\n\nMindustry:\nAn open-ended factory management game with RTS and tower defense elements.\n\n\n\nCredits:\nLixie and her Allure (when i started making this game with hjson & js)\nOmaloon by xstabux (alot, like a few files are directly copied from omaloon)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhi"
-  },
-  {
-    "repo": "chrono-heritage/moderndustry",
-    "internalName": "chrono-moderndustry",
-    "name": "Moderndustry",
-    "version": "v0.01",
-    "hidden": false,
-    "author": "Chrono",
-    "lastUpdated": "2024-07-24T05:37:46Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that add modern items and block inculde industry or nuclear."
   },
   {
     "repo": "pirojok3000/erekir-cargo-drone-for-serpulo",
@@ -2938,6 +2924,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
+  },
+  {
+    "repo": "chrono-heritage/moderndustry",
+    "internalName": "chrono-moderndustry",
+    "name": "Moderndustry",
+    "version": "v0.01",
+    "hidden": false,
+    "author": "Chrono",
+    "lastUpdated": "2026-01-16T14:18:06Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that add modern items and block inculde industry or nuclear."
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -4662,20 +4662,6 @@
     "description": "A java remake of my json unfinished mod."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.1",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-01-06T08:28:00Z",
-    "stars": 2,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "rodrigoasfr24022003/rodrigonia-mod",
     "internalName": "rodrigonia",
     "name": "Rodrigonia",
@@ -4688,6 +4674,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.1",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-01-16T13:08:08Z",
+    "stars": 2,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
