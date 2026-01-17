@@ -48,7 +48,7 @@
     "version": "1.7.1",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2026-01-17T15:46:43Z",
+    "lastUpdated": "2026-01-17T16:26:07Z",
     "stars": 200,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -62,7 +62,7 @@
     "version": "v4.8.0-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-16T17:23:36Z",
+    "lastUpdated": "2026-01-17T17:42:03Z",
     "stars": 181,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -4634,20 +4634,6 @@
     "description": "Dps Heatmap"
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2026-01-06T04:49:35Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "rodrigoasfr24022003/rodrigonia-mod",
     "internalName": "rodrigonia",
     "name": "Rodrigonia",
@@ -4674,6 +4660,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2026-01-17T18:13:52Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
