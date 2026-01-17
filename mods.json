@@ -384,7 +384,7 @@
     "version": "69.6",
     "hidden": true,
     "author": "MEEP of Faith",
-    "lastUpdated": "2025-12-29T03:52:20Z",
+    "lastUpdated": "2026-01-17T06:23:25Z",
     "stars": 55,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -566,7 +566,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-01-16T06:11:31Z",
+    "lastUpdated": "2026-01-17T06:05:28Z",
     "stars": 37,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1336,7 +1336,7 @@
     "version": "v1.3",
     "hidden": false,
     "author": "SezoVK",
-    "lastUpdated": "2026-01-17T03:18:48Z",
+    "lastUpdated": "2026-01-17T04:58:24Z",
     "stars": 14,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -2548,20 +2548,6 @@
     "description": "Adds more serpulo unit and buildings to support your experience.\nAdd Tank, and Helicopter.\n\nDrone code from Pirojok3000 mod.\n\nI indonesian people btw :)"
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2026-01-16T04:28:02Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "7003mars/pic2tri",
     "internalName": "triangles",
     "name": "PicToTri",
@@ -2576,13 +2562,27 @@
     "description": "Adds a dialog for turning images into schematics"
   },
   {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2026-01-17T05:02:29Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
+  },
+  {
     "repo": "fat-bird-owner/the-infestations",
     "internalName": "infestation",
     "name": "The Infestation",
     "version": "v2-Infestation",
     "hidden": false,
     "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-01-17T04:29:20Z",
+    "lastUpdated": "2026-01-17T06:26:07Z",
     "stars": 6,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -5740,6 +5740,20 @@
     "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   },
   {
+    "repo": "vsdragon1239/mindustry-starlinelab-mod",
+    "internalName": "starline-lab",
+    "name": "Starline - Lab",
+    "version": "0.2.3",
+    "hidden": false,
+    "author": "VSDragon1239",
+    "lastUpdated": "2026-01-09T18:13:28Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Новая планета Ноктис: ночной пепел, два базовых рудных ресурса и стартовая ветка развития. '\n' Интересно, полный перевод мода new-horizon будет?"
+  },
+  {
     "repo": "krita-burstflakes/mindustry-strike",
     "internalName": "ms",
     "name": "Mindustry Strike",
@@ -6872,20 +6886,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Puts unloader block back into 'effects' category."
-  },
-  {
-    "repo": "vsdragon1239/mindustry-starlinelab-mod",
-    "internalName": "starline-lab",
-    "name": "Starline - Lab",
-    "version": "0.2.3",
-    "hidden": false,
-    "author": "VSDragon1239",
-    "lastUpdated": "2026-01-09T18:13:28Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Новая планета Ноктис: ночной пепел, два базовых рудных ресурса и стартовая ветка развития. '\n' Интересно, полный перевод мода new-horizon будет?"
   },
   {
     "repo": "eipusino/lotterymodmirror",
