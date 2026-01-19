@@ -1470,6 +1470,20 @@
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "Deep Space",
+    "version": "Alpha-842",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-01-19T11:36:38Z",
+    "stars": 12,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
+  },
+  {
     "repo": "jhrushbe/moardustry",
     "internalName": "moardustry",
     "name": "MOARdustry",
@@ -1720,20 +1734,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "Deep Space",
-    "version": "Alpha-842",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-01-19T11:36:38Z",
-    "stars": 10,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
   },
   {
     "repo": "slotterleet/hard-mode-mod",
@@ -2327,10 +2327,10 @@
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
-    "version": "2.4.9",
+    "version": "2.5",
     "hidden": true,
     "author": "io community",
-    "lastUpdated": "2026-01-19T13:19:22Z",
+    "lastUpdated": "2026-01-19T15:37:40Z",
     "stars": 7,
     "minGameVersion": "154",
     "hasScripts": false,
