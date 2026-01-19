@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v4.8.4-v8",
+    "version": "v4.8.5-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-18T07:20:44Z",
+    "lastUpdated": "2026-01-19T10:28:17Z",
     "stars": 181,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1204,6 +1204,20 @@
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
+    "repo": "teamoct/erekir-music",
+    "internalName": "erekir-music",
+    "name": "Team Oct's Erekir Music",
+    "version": "1.3.1",
+    "hidden": true,
+    "author": "Team Oct",
+    "lastUpdated": "2024-04-14T15:40:06Z",
+    "stars": 15,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
+  },
+  {
     "repo": "meepoffaith/black-holes-library",
     "internalName": "black-hole-renderer",
     "name": "Black Holes Library",
@@ -1272,20 +1286,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Soundpack that changes all sounds and musics from Factorio.\n\nIf you use it with Xeloboyo/Factoriodustry, you can feel more factroio-like.\n(Mod is forted to 137 build.)"
-  },
-  {
-    "repo": "teamoct/erekir-music",
-    "internalName": "erekir-music",
-    "name": "Team Oct's Erekir Music",
-    "version": "1.3.1",
-    "hidden": true,
-    "author": "Team Oct",
-    "lastUpdated": "2024-04-14T15:40:06Z",
-    "stars": 14,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
   },
   {
     "repo": "otamamori917/axthrix-modded-java",
@@ -2562,20 +2562,6 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
-    "repo": "rednzba990/warboundindustriesmod",
-    "internalName": "more-vanilla",
-    "name": "More Vanilla+",
-    "version": "1.71",
-    "hidden": false,
-    "author": "Rednz990 and Pirojok3000(code resource)",
-    "lastUpdated": "2026-01-19T00:17:07Z",
-    "stars": 6,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds more serpulo unit and buildings to support your experience.\nAdd Tank, and Helicopter.\n\nDrone code from Pirojok3000 mod.\n\nI indonesian people btw :)"
-  },
-  {
     "repo": "fat-bird-owner/the-infestations",
     "internalName": "infestation",
     "name": "The Infestation",
@@ -2588,6 +2574,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
+  },
+  {
+    "repo": "rednzba990/warboundindustriesmod",
+    "internalName": "more-vanilla",
+    "name": "More Vanilla+",
+    "version": "1.71",
+    "hidden": false,
+    "author": "Rednz990 and Pirojok3000(code resource)",
+    "lastUpdated": "2026-01-19T10:24:48Z",
+    "stars": 6,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds more serpulo unit and buildings to support your experience.\nAdd Tank, and Helicopter.\n\nDrone code from Pirojok3000 mod.\n\nI indonesian people btw :)"
   },
   {
     "repo": "obamination/minedustry",
@@ -4662,6 +4662,20 @@
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
+    "repo": "sunkymp3g/netroniumtfs",
+    "internalName": "netroniummod",
+    "name": "Netronium: The Final Showdown",
+    "version": "CU-4 dev",
+    "hidden": false,
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2026-01-18T17:00:07Z",
+    "stars": 2,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
+  },
+  {
     "repo": "m-e-l-i-s/silviriumjava",
     "internalName": "sli",
     "name": "Silvirium",
@@ -5766,20 +5780,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add doodle looking tank unit to Mindustry."
-  },
-  {
-    "repo": "sunkymp3g/netroniumtfs",
-    "internalName": "netroniummod",
-    "name": "Netronium: The Final Showdown",
-    "version": "CU-4 dev",
-    "hidden": false,
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2026-01-18T17:00:07Z",
-    "stars": 1,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   },
   {
     "repo": "error666real/mundusro-tanclet---mindustry-bundle-mod",
@@ -6978,7 +6978,7 @@
     "version": "auto",
     "hidden": true,
     "author": "Aibox",
-    "lastUpdated": "2026-01-19T07:57:03Z",
+    "lastUpdated": "2026-01-19T10:04:59Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
