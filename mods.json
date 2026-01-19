@@ -2327,10 +2327,10 @@
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
-    "version": "2.5",
+    "version": "2.5.1",
     "hidden": true,
     "author": "io community",
-    "lastUpdated": "2026-01-19T15:37:40Z",
+    "lastUpdated": "2026-01-19T18:58:31Z",
     "stars": 7,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -3808,6 +3808,20 @@
     "description": "介绍日后再写"
   },
   {
+    "repo": "coaldeficit/satisfying-break-sounds",
+    "internalName": "crunch",
+    "name": "Satisfying Break Sounds",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "Someone, probably",
+    "lastUpdated": "2025-10-10T19:18:37Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Makes the sounds for breaking things more Crunchy."
+  },
+  {
     "repo": "sputnuc/expansion-java",
     "internalName": "expansion",
     "name": "Expansion java",
@@ -4662,20 +4676,6 @@
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
-    "repo": "sunkymp3g/netroniumtfs",
-    "internalName": "netroniummod",
-    "name": "Netronium: The Final Showdown",
-    "version": "CU-4 dev",
-    "hidden": false,
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2026-01-18T17:00:07Z",
-    "stars": 2,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
-  },
-  {
     "repo": "m-e-l-i-s/silviriumjava",
     "internalName": "sli",
     "name": "Silvirium",
@@ -4688,6 +4688,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java remake of my json unfinished mod."
+  },
+  {
+    "repo": "sunkymp3g/netroniumtfs",
+    "internalName": "netroniummod",
+    "name": "Netronium: The Final Showdown",
+    "version": "CU-4 dev",
+    "hidden": false,
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2026-01-19T18:51:21Z",
+    "stars": 2,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -5531,20 +5545,6 @@
   },
   {
     "repo": "minri2/logicscreenshot",
-    "internalName": "logic-screenshot",
-    "name": "Logic Screenshot",
-    "version": "1.3",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2025-08-14T07:49:23Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Make pretty screenshot for your logic."
-  },
-  {
-    "repo": "dustdustry/logicscreenshot",
     "internalName": "logic-screenshot",
     "name": "Logic Screenshot",
     "version": "1.3",
@@ -6690,20 +6690,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides tools for easier debugging in Mindustry Logic."
-  },
-  {
-    "repo": "unknownobjectv2/mindustek",
-    "internalName": "mindustry-camellia-pack",
-    "name": "Camellia Music & SFX Pack",
-    "version": "0.3",
-    "hidden": true,
-    "author": "UnknownObjectV2",
-    "lastUpdated": "2025-10-12T05:46:44Z",
-    "stars": 0,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Music & SFX Pack"
   },
   {
     "repo": "unknownobjectv2/camellia-music-sfx-pack",
