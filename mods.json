@@ -2582,7 +2582,7 @@
     "version": "v2-Infestation",
     "hidden": false,
     "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-01-19T02:48:40Z",
+    "lastUpdated": "2026-01-19T05:51:12Z",
     "stars": 6,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -3836,20 +3836,6 @@
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
-    "repo": "xavierisdeadasheck15/interstellar-spaceline",
-    "internalName": "interstellar-spaceline",
-    "name": "Interstellar Spaceline",
-    "version": "[blue]0.0.8[]",
-    "hidden": false,
-    "author": "Creator: Xavierlazymahn8",
-    "lastUpdated": "2025-12-20T05:51:16Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
-  },
-  {
     "repo": "photon-gravity/polarform",
     "internalName": "polar-form",
     "name": "Polar Form",
@@ -3890,6 +3876,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "this mod add more command blocks to help mod-creators, inspired in \"testers\" by sk7725"
+  },
+  {
+    "repo": "xavierisdeadasheck15/interstellar-spaceline",
+    "internalName": "interstellar-spaceline",
+    "name": "Interstellar Spaceline",
+    "version": "[blue]0.0.8[]",
+    "hidden": false,
+    "author": "Creator: Xavierlazymahn8",
+    "lastUpdated": "2026-01-19T06:29:57Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -6970,5 +6970,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
+  },
+  {
+    "repo": "hubdustry/hubdustrymod",
+    "internalName": "hubdustry",
+    "name": "Hubdustry",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": "Aibox",
+    "lastUpdated": "2026-01-19T06:38:39Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A next-generation Mindustry utility ecosystem. Enhances your gameplay with smart tools and features."
   }
 ]
