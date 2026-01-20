@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v4.9.3-v8",
+    "version": "v4.10.3-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-20T16:35:14Z",
+    "lastUpdated": "2026-01-20T18:36:54Z",
     "stars": 182,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -4696,7 +4696,7 @@
     "version": "1.1",
     "hidden": false,
     "author": "Melis",
-    "lastUpdated": "2026-01-20T14:51:44Z",
+    "lastUpdated": "2026-01-20T17:02:52Z",
     "stars": 2,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -5754,20 +5754,6 @@
     "description": "\nМод добавляет множество нового контента\nмножество буров по типу Гранитного\nновые турели!\nв игре есть баги сообщите о них мне в ЛС ТГК\n\n Приватное сообщение  @MrHumanU\nTelegram TGH → t.me/LogicDustryJS \nYoutube YTC → youtube.com/@LogicDustryJS\n15/11/25 22:29 → Обновление 1.9\n\n\n[Orange]Полностью совместим с Mindustry v146-153. "
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.2.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-01-16T17:37:56Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "error666real/mundusro-tanclet---mindustry-bundle-mod",
     "internalName": "muds",
     "name": "mundusro bundle",
@@ -5808,6 +5794,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add doodle looking tank unit to Mindustry."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.2.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-01-20T17:32:09Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -6998,19 +6998,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made by a novice mod developer, far from finished. Adds more content to the player's arsenal. Four types of tanks await your command:\n- [#FFA665]Assault[]\n- [#84F491]Support[]\n- [#BF92F9]Specialist[]\n- [#FF1414]Flame[]\n\nHeavily inspired by:\n- Eschatologue's 'Unlimited Armament Works'\n- nyuB's (뉴B) 'DuoMod'\n- DedShotGames' 'WOTanks'\n- Anuke's Erekir Tanks\n\nSFX credits to the following games:\n- Terraria\n- Terraria: Calamity Mod\n- Plants vs. Zombies"
-  },
-  {
-    "repo": "hubdustry/hubdustrymod",
-    "internalName": "hubdustry",
-    "name": "Hubdustry",
-    "version": "auto",
-    "hidden": true,
-    "author": "Aibox",
-    "lastUpdated": "2026-01-20T16:27:50Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A next-generation Mindustry utility ecosystem."
   }
 ]
