@@ -35,7 +35,7 @@
     "hidden": true,
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 228,
+    "stars": 229,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v4.10.4-v8",
+    "version": "v4.10.5-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-21T06:00:50Z",
+    "lastUpdated": "2026-01-21T07:52:00Z",
     "stars": 182,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1064,6 +1064,20 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "version": "1.0.4.1",
+    "hidden": true,
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2025-12-19T16:25:12Z",
+    "stars": 18,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
+  },
+  {
     "repo": "itzcraft/hjsonpp",
     "internalName": "hjsonpp",
     "name": "hjson++",
@@ -1090,20 +1104,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "version": "1.0.4.1",
-    "hidden": true,
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2025-12-19T16:25:12Z",
-    "stars": 17,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
   },
   {
     "repo": "mnemotechnician/new-controls-public",
@@ -2092,7 +2092,7 @@
     "version": "0.3.4",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader, Phil",
-    "lastUpdated": "2026-01-21T05:41:17Z",
+    "lastUpdated": "2026-01-21T08:25:49Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2310,20 +2310,6 @@
     "description": "A toxic planet mod that give big exploration to player.\nDon't recommend to play with other mod especially planet mod."
   },
   {
-    "repo": "7003mars/pic2tri",
-    "internalName": "triangles",
-    "name": "PicToTri",
-    "version": "REPLACEME",
-    "hidden": true,
-    "author": "Mars#7003",
-    "lastUpdated": "2026-01-18T15:45:09Z",
-    "stars": 7,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a dialog for turning images into schematics"
-  },
-  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2336,6 +2322,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Improves your experience on the official io  Flood server."
+  },
+  {
+    "repo": "7003mars/pic2tri",
+    "internalName": "triangles",
+    "name": "PicToTri",
+    "version": "REPLACEME",
+    "hidden": true,
+    "author": "Mars#7003",
+    "lastUpdated": "2026-01-21T07:46:42Z",
+    "stars": 7,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -2492,20 +2492,6 @@
     "description": "Better visuals? Not only that!"
   },
   {
-    "repo": "wantechfan/mindustry-mod-some-musics",
-    "internalName": "wantechfan's-cool-musics",
-    "name": "Cool Musics",
-    "version": "1.2.2",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2025-12-21T11:10:30Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
-  },
-  {
     "repo": "ovulam5480/ovulamtools",
     "internalName": "ovulamtools",
     "name": "OvulamTools",
@@ -2602,6 +2588,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
+  },
+  {
+    "repo": "wantechfan/mindustry-mod-some-musics",
+    "internalName": "wantechfan's-cool-musics",
+    "name": "Cool Musics",
+    "version": "1.2.2",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-01-21T08:24:11Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
     "repo": "obamination/minedustry",
