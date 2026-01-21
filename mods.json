@@ -1,19 +1,5 @@
 [
   {
-    "repo": "yuria-shikibe/newhorizonmod",
-    "internalName": "new-horizon",
-    "name": "New Horizon",
-    "version": "2.0_v154_1",
-    "hidden": false,
-    "author": "Yuria & Lao",
-    "lastUpdated": "2026-01-11T16:45:18Z",
-    "stars": 524,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Beta Release. Campaign Not Included.\n\nCurrently contains stable content and optional vanilla override. \n\nMod is playable as extension for both Serpulo and Erekir. \n\nCampaign still WIP."
-  },
-  {
     "repo": "sk7725/betamindy",
     "internalName": "betamindy",
     "name": "BetaMindy",
@@ -273,7 +259,7 @@
     "hidden": false,
     "author": "twcash",
     "lastUpdated": "2026-01-17T21:08:08Z",
-    "stars": 79,
+    "stars": 80,
     "minGameVersion": "154.3",
     "hasScripts": false,
     "hasJava": true,
@@ -1456,6 +1442,20 @@
     "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
   },
   {
+    "repo": "itzcraft/epsilon",
+    "internalName": "epsilon",
+    "name": "Epsilon",
+    "version": "0.22",
+    "hidden": false,
+    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
+    "lastUpdated": "2026-01-19T08:07:36Z",
+    "stars": 12,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
     "repo": "icexuegao/deepspace",
     "internalName": "ice",
     "name": "Deep Space",
@@ -1526,18 +1526,18 @@
     "description": "A mod that adds a new planet, where we will play in underground"
   },
   {
-    "repo": "itzcraft/epsilon",
-    "internalName": "epsilon",
-    "name": "Epsilon",
-    "version": "0.22",
+    "repo": "yroo1/astheriveregenesis",
+    "internalName": "arg",
+    "name": "A:RG",
+    "version": "0.33",
     "hidden": false,
-    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-01-19T08:07:36Z",
+    "author": "nyle & yroo",
+    "lastUpdated": "2026-01-20T00:35:26Z",
     "stars": 11,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+    "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
   },
   {
     "repo": "pointifix/autotranslate",
@@ -1722,20 +1722,6 @@
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
-    "repo": "yroo1/astheriveregenesis",
-    "internalName": "arg",
-    "name": "A:RG",
-    "version": "0.33",
-    "hidden": false,
-    "author": "nyle & yroo",
-    "lastUpdated": "2026-01-20T00:35:26Z",
-    "stars": 10,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
-  },
-  {
     "repo": "slotterleet/hard-mode-mod",
     "internalName": "hard-mode",
     "name": "Hard Mode",
@@ -1818,6 +1804,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
+  },
+  {
+    "repo": "theserjio/advanceddatabase",
+    "internalName": "advanced-database",
+    "name": "Advanced DataBase",
+    "version": "1.1",
+    "hidden": true,
+    "author": "The Serjio#3162",
+    "lastUpdated": "2025-11-15T17:22:14Z",
+    "stars": 9,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Displays more stats in database. Unhides few things. Multiplayer compatible.\nПоказывает больше информации в базе данных. Открывает пару скрытых вещей. Не влияет на игру по сети"
   },
   {
     "repo": "oleglysukhin/admintool",
@@ -2014,20 +2014,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
-  },
-  {
-    "repo": "theserjio/advanceddatabase",
-    "internalName": "advanced-database",
-    "name": "Advanced DataBase",
-    "version": "1.1",
-    "hidden": true,
-    "author": "The Serjio#3162",
-    "lastUpdated": "2025-11-15T17:22:14Z",
-    "stars": 8,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Displays more stats in database. Unhides few things. Multiplayer compatible.\nПоказывает больше информации в базе данных. Открывает пару скрытых вещей. Не влияет на игру по сети"
   },
   {
     "repo": "cyanide863/arikoth",
@@ -2327,10 +2313,10 @@
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
-    "version": "2.5.1",
+    "version": "2.5.2",
     "hidden": true,
     "author": "io community",
-    "lastUpdated": "2026-01-19T18:58:31Z",
+    "lastUpdated": "2026-01-21T04:11:25Z",
     "stars": 7,
     "minGameVersion": "154",
     "hasScripts": false,
