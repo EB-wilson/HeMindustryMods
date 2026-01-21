@@ -62,7 +62,7 @@
     "version": "v4.15.1-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-21T15:46:15Z",
+    "lastUpdated": "2026-01-21T17:09:24Z",
     "stars": 182,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2344,7 +2344,7 @@
     "version": "2.5.2",
     "hidden": true,
     "author": "io community",
-    "lastUpdated": "2026-01-21T12:22:51Z",
+    "lastUpdated": "2026-01-21T17:15:08Z",
     "stars": 7,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -4634,20 +4634,6 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.3",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-01-16T21:13:43Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -4702,6 +4688,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(This mod is on BETA so many things can change in the future)\n\nThis is my first mod, so dont hope its going to have very high quality. This mod adds new units, turrets, factories, ores, a new planet and more (Extra: the textures are made in paint by the way,Develoment Help: melis and WALLE-E)"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.3",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-01-21T17:07:57Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
