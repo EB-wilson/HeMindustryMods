@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v4.17.2-v8",
+    "version": "v4.18.0-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-22T11:21:09Z",
+    "lastUpdated": "2026-01-22T14:14:28Z",
     "stars": 182,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2086,6 +2086,20 @@
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
+    "repo": "7003mars/pic2tri",
+    "internalName": "triangles",
+    "name": "PicToTri",
+    "version": "REPLACEME",
+    "hidden": true,
+    "author": "Mars#7003",
+    "lastUpdated": "2026-01-21T07:46:42Z",
+    "stars": 8,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
+  },
+  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2322,20 +2336,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A toxic planet mod that give big exploration to player.\nDon't recommend to play with other mod especially planet mod."
-  },
-  {
-    "repo": "7003mars/pic2tri",
-    "internalName": "triangles",
-    "name": "PicToTri",
-    "version": "REPLACEME",
-    "hidden": true,
-    "author": "Mars#7003",
-    "lastUpdated": "2026-01-21T07:46:42Z",
-    "stars": 7,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a dialog for turning images into schematics"
   },
   {
     "repo": "mindustry-antigrief/floodcompat",
@@ -6992,7 +6992,7 @@
     "version": " kinda unfinished",
     "hidden": false,
     "author": "oleskiy",
-    "lastUpdated": "2026-01-21T20:24:23Z",
+    "lastUpdated": "2026-01-22T14:24:40Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
