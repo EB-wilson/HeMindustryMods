@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-01-11T16:45:18Z",
-    "stars": 524,
+    "stars": 525,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -938,6 +938,20 @@
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radii go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "version": "1.0.4.1",
+    "hidden": true,
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2025-12-19T16:25:12Z",
+    "stars": 21,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
+  },
+  {
     "repo": "jirocab/nyfalis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -978,20 +992,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "version": "1.0.4.1",
-    "hidden": true,
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2025-12-19T16:25:12Z",
-    "stars": 20,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
   },
   {
     "repo": "itzcraft/xanthia",
@@ -1386,6 +1386,20 @@
     "description": "The best sensory overload you can get, at least legally."
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "Deep Space",
+    "version": "Alpha-842",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-01-19T11:36:38Z",
+    "stars": 13,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
+  },
+  {
     "repo": "430230562/vanilla-neoplasm-extend",
     "internalName": "vne",
     "name": "Vanilla Neoplasm Extend",
@@ -1468,20 +1482,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "Deep Space",
-    "version": "Alpha-842",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-01-19T11:36:38Z",
-    "stars": 12,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
   },
   {
     "repo": "jhrushbe/moardustry",
@@ -2520,20 +2520,6 @@
     "description": "You might be interested in taking a look..."
   },
   {
-    "repo": "i-drink-gasoline/admin-button-2",
-    "internalName": "admin-button-2",
-    "name": "Admin Button 2",
-    "version": "24",
-    "hidden": true,
-    "author": "I drink gasoline",
-    "lastUpdated": "2025-12-30T12:30:33Z",
-    "stars": 6,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add an admin button."
-  },
-  {
     "repo": "alnyled/astherivegenesis",
     "internalName": "astherive-gen",
     "name": "Genesis",
@@ -2602,6 +2588,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
+  },
+  {
+    "repo": "i-drink-gasoline/admin-button-2",
+    "internalName": "admin-button-2",
+    "name": "Admin Button 2",
+    "version": "24.1",
+    "hidden": true,
+    "author": "I drink gasoline",
+    "lastUpdated": "2026-01-23T16:41:43Z",
+    "stars": 6,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add an admin button."
   },
   {
     "repo": "obamination/minedustry",
@@ -4696,7 +4696,7 @@
     "version": "0.0.2pA",
     "hidden": false,
     "author": "[sky]114514[white]",
-    "lastUpdated": "2026-01-23T15:36:35Z",
+    "lastUpdated": "2026-01-23T18:30:16Z",
     "stars": 2,
     "minGameVersion": "151.1",
     "hasScripts": false,
