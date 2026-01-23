@@ -2593,10 +2593,10 @@
     "repo": "fat-bird-owner/the-infestations",
     "internalName": "infestation",
     "name": "The Infestation",
-    "version": "v2-Infestation",
+    "version": "\n[lightgrey[]]v2-Infestation\n[grey[]]- Act 2.25\n- 6 Sectors\n- C2236\n",
     "hidden": false,
     "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-01-23T02:00:30Z",
+    "lastUpdated": "2026-01-23T11:57:08Z",
     "stars": 6,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -6998,5 +6998,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
+  },
+  {
+    "repo": "hubdustry/hubdustrymod",
+    "internalName": "hubdustry",
+    "name": "Hubdustry",
+    "version": "auto",
+    "hidden": true,
+    "author": "Aibox",
+    "lastUpdated": "2026-01-23T10:30:00Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A next-generation Mindustry utility ecosystem."
   }
 ]
