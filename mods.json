@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v4.23.1-v8",
+    "version": "v4.23.2-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-24T16:18:50Z",
+    "lastUpdated": "2026-01-24T17:14:51Z",
     "stars": 182,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -5802,7 +5802,7 @@
     "version": "auto",
     "hidden": true,
     "author": "Aibox",
-    "lastUpdated": "2026-01-24T15:57:16Z",
+    "lastUpdated": "2026-01-24T17:27:55Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -6958,20 +6958,6 @@
     "description": "Interface improvements and almost useless quality of life features."
   },
   {
-    "repo": "wmf-industries/extremity",
-    "internalName": "extremity",
-    "name": "Extremity",
-    "version": "1.1.5",
-    "hidden": true,
-    "author": "WMF Industries",
-    "lastUpdated": "2026-01-23T09:59:10Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry: Evil Edition"
-  },
-  {
     "repo": "oleksiy1409liut/oleksiysstuff",
     "internalName": "oleksiyresprites",
     "name": "oleksiy's stuff",
@@ -6984,5 +6970,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
+  },
+  {
+    "repo": "wmf-industries/extremity",
+    "internalName": "extremity",
+    "name": "Extremity",
+    "version": "1.1.6",
+    "hidden": true,
+    "author": "WMF Industries",
+    "lastUpdated": "2026-01-24T17:21:14Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry: Evil Edition"
   }
 ]
