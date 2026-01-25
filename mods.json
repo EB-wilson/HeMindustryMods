@@ -49,7 +49,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-01-25T18:27:33Z",
-    "stars": 202,
+    "stars": 203,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -1848,20 +1848,6 @@
     "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "version": "151.1.0",
-    "hidden": true,
-    "author": "Agzam4",
-    "lastUpdated": "2026-01-25T13:41:04Z",
-    "stars": 9,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "meepoffaith/additional-logistics",
     "internalName": "tranqol",
     "name": "Additional Logistics",
@@ -1874,6 +1860,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
+  },
+  {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "version": "151.1.0",
+    "hidden": true,
+    "author": "Agzam4",
+    "lastUpdated": "2026-01-25T19:30:21Z",
+    "stars": 9,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
   },
   {
     "repo": "slava0135/refine",
@@ -5754,20 +5754,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "hubdustry/hubdustrymod",
-    "internalName": "hubdustry",
-    "name": "Hubdustry",
-    "version": "auto",
-    "hidden": true,
-    "author": "Aibox",
-    "lastUpdated": "2026-01-25T10:10:35Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A next-generation Mindustry utility ecosystem."
-  },
-  {
     "repo": "mr816543/endless_compression",
     "internalName": "ec",
     "name": "无尽压缩Endless Compression",
@@ -5794,6 +5780,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add doodle looking tank unit to Mindustry."
+  },
+  {
+    "repo": "hubdustry/hubdustrymod",
+    "internalName": "hubdustry",
+    "name": "Hubdustry",
+    "version": "auto",
+    "hidden": true,
+    "author": "Aibox",
+    "lastUpdated": "2026-01-25T19:02:52Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A next-generation Mindustry utility ecosystem."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -6664,20 +6664,6 @@
     "description": "Provides tools for easier debugging in Mindustry Logic."
   },
   {
-    "repo": "cardillan/mlogassertions-7",
-    "internalName": "mlog-assertions-7",
-    "name": "Mlog Assertions (v7)",
-    "version": "0.5.0",
-    "hidden": false,
-    "author": "cardillan",
-    "lastUpdated": "2025-08-31T07:55:13Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides tools for easier debugging in Mindustry Logic."
-  },
-  {
     "repo": "unknownobjectv2/camellia-music-sfx-pack",
     "internalName": "mindustry-camellia-pack",
     "name": "Camellia Music & SFX Pack",
@@ -6964,11 +6950,25 @@
     "version": " kinda unfinished",
     "hidden": false,
     "author": "oleskiy",
-    "lastUpdated": "2026-01-25T17:01:06Z",
+    "lastUpdated": "2026-01-25T18:36:50Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
+  },
+  {
+    "repo": "cardillan/mlogassertions-7",
+    "internalName": "mlog-assertions-7",
+    "name": "Mlog Assertions (v7)",
+    "version": "0.6.0",
+    "hidden": false,
+    "author": "cardillan",
+    "lastUpdated": "2026-01-25T19:44:23Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides tools for easier debugging in Mindustry Logic."
   }
 ]
