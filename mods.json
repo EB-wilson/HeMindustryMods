@@ -62,7 +62,7 @@
     "version": "v4.30.3-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-27T08:10:30Z",
+    "lastUpdated": "2026-01-27T09:49:02Z",
     "stars": 185,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -804,7 +804,7 @@
     "version": "2.3.3",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-01-26T19:16:42Z",
+    "lastUpdated": "2026-01-27T09:22:39Z",
     "stars": 26,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5768,20 +5768,6 @@
     "description": "Add doodle looking tank unit to Mindustry."
   },
   {
-    "repo": "hubdustry/hubdustrymod",
-    "internalName": "hubdustry",
-    "name": "Hubdustry",
-    "version": "auto",
-    "hidden": true,
-    "author": "Aibox",
-    "lastUpdated": "2026-01-25T19:02:52Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A next-generation Mindustry utility ecosystem."
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -5794,6 +5780,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "hubdustry/hubdustrymod",
+    "internalName": "hubdustry",
+    "name": "Hubdustry",
+    "version": "auto",
+    "hidden": true,
+    "author": "Aibox",
+    "lastUpdated": "2026-01-27T10:27:56Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A next-generation Mindustry utility ecosystem."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
