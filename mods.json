@@ -1070,7 +1070,7 @@
     "version": "Alpha-1387",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-01-29T04:17:31Z",
+    "lastUpdated": "2026-01-30T09:43:26Z",
     "stars": 19,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -5810,6 +5810,20 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
+    "repo": "jasonp01/foosinstaller",
+    "internalName": "fooinstallerv8",
+    "name": "Foo's Client Installer (V8)",
+    "version": "1.2.6",
+    "hidden": true,
+    "author": "foo, buthed010203",
+    "lastUpdated": "2026-01-30T09:21:52Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -6984,19 +6998,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
-  },
-  {
-    "repo": "jasonp01/foosinstaller",
-    "internalName": "fooinstaller",
-    "name": "Foo's Client Installer (V8)",
-    "version": "1.2.5",
-    "hidden": true,
-    "author": "foo, buthed010203",
-    "lastUpdated": "2026-01-29T23:48:23Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   }
 ]
