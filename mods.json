@@ -48,7 +48,7 @@
     "version": "1.7.2",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2026-01-27T06:52:22Z",
+    "lastUpdated": "2026-01-30T18:34:48Z",
     "stars": 205,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -62,7 +62,7 @@
     "version": "v4.40.1-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-30T13:26:51Z",
+    "lastUpdated": "2026-01-30T18:37:04Z",
     "stars": 186,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -812,20 +812,6 @@
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
-    "repo": "wmf-industries/expandedindustries",
-    "internalName": "ei",
-    "name": "Expanded Industries",
-    "version": "1.7 [B1]",
-    "hidden": false,
-    "author": "WMF Industries",
-    "lastUpdated": "2024-04-12T14:47:08Z",
-    "stars": 25,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Some content for people to enjoy :>\n-Current version : 1.7 [B1]"
-  },
-  {
     "repo": "ballgamer56/vanillaextended",
     "internalName": "vanilla extended",
     "name": "VanillaExtended",
@@ -866,6 +852,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
+  },
+  {
+    "repo": "wmf-industries/expandedindustries",
+    "internalName": "ei",
+    "name": "Expanded Industries",
+    "version": "1.8",
+    "hidden": false,
+    "author": "WMF Industries",
+    "lastUpdated": "2026-01-30T17:06:39Z",
+    "stars": 25,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Some content for people to enjoy :>"
   },
   {
     "repo": "mindustrydagger/vanillaplus",
@@ -910,20 +910,6 @@
     "description": "Develop complex logistics, repel waves, and destroy enemy bases on the new planet Gelion.\n  \nTHE MOD IS CURRENTLY UNDER DEVELOPMENT, there are already 9 sectors at the moment, and work is underway on quality of life.\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
   },
   {
-    "repo": "laohuajiofficial/freightfactory",
-    "internalName": "ff",
-    "name": "FoodFactory",
-    "version": "ALPHA_v0.2",
-    "hidden": false,
-    "author": "LaoHuaJi",
-    "lastUpdated": "2024-04-26T16:33:04Z",
-    "stars": 22,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod In Dev"
-  },
-  {
     "repo": "laohuajiofficial/multiblocklib",
     "internalName": "multi-block-lib",
     "name": "Multi-Block Library",
@@ -950,6 +936,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
+  },
+  {
+    "repo": "laohuajiofficial/freightfactory",
+    "internalName": "ff",
+    "name": "FoodFactory",
+    "version": "ALPHA_v0.2",
+    "hidden": false,
+    "author": "LaoHuaJi",
+    "lastUpdated": "2024-04-26T16:33:04Z",
+    "stars": 21,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod In Dev"
   },
   {
     "repo": "dong-wo-long/enhancementunits",
@@ -2058,20 +2058,6 @@
     "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "version": "0.61",
-    "hidden": false,
-    "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-01-08T10:10:28Z",
-    "stars": 8,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2098,20 +2084,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
-    "repo": "stormride-r/cruxscape-takeover",
-    "internalName": "cruxahh",
-    "name": "Cruxscape Takeover",
-    "version": "0031",
-    "hidden": false,
-    "author": "Stormrider",
-    "lastUpdated": "2026-01-30T16:18:39Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod that makes the Serpulo with every numbered sector replaced.(not now)"
   },
   {
     "repo": "reborntrack970/infinicampaign",
@@ -2308,6 +2280,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "version": "0.61",
+    "hidden": false,
+    "author": "Watermolecules and Hydroabyss",
+    "lastUpdated": "2026-01-08T10:10:28Z",
+    "stars": 7,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
     "repo": "fivedextor/axoxium",
@@ -2610,7 +2596,7 @@
     "version": "pre-alpha build 25",
     "hidden": false,
     "author": "TLB1",
-    "lastUpdated": "2026-01-30T15:23:29Z",
+    "lastUpdated": "2026-01-30T18:27:43Z",
     "stars": 6,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -3122,20 +3108,6 @@
     "description": "\nMindustry mod that adds some things.\n"
   },
   {
-    "repo": "unionofsovietsocialistrepublics/nuclearhell",
-    "internalName": "nuclear",
-    "name": "Nuclear attack sectors",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Water molecules",
-    "lastUpdated": "2024-08-15T04:26:14Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Nuclear production complex but all sector around it are on crack (literally)"
-  },
-  {
     "repo": "miyohelper/enceladus",
     "internalName": "enceladus",
     "name": "Enceladus",
@@ -3596,6 +3568,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Big battles is world"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/nuclearhell",
+    "internalName": "nuclear",
+    "name": "Nuclear attack sectors",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Water molecules",
+    "lastUpdated": "2024-08-15T04:26:14Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Nuclear production complex but all sector around it are on crack (literally)"
   },
   {
     "repo": "cptpc/shayebushi",
