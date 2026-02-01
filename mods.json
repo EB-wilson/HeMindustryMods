@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-01-22T12:41:16Z",
+    "lastUpdated": "2026-02-01T18:02:34Z",
     "stars": 125,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -798,20 +798,6 @@
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.3.3",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-01-27T09:22:39Z",
-    "stars": 26,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
-  },
-  {
     "repo": "wmf-industries/expandedindustries",
     "internalName": "ei",
     "name": "Expanded Industries",
@@ -824,6 +810,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Some content for people to enjoy :>"
+  },
+  {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.3",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2026-02-01T16:36:45Z",
+    "stars": 26,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
     "repo": "ballgamer56/vanillaextended",
@@ -1767,12 +1767,12 @@
     "repo": "agzam4/mindustry-mod-v8",
     "internalName": "agzam4mod",
     "name": "Agzam's Mod",
-    "version": "151.1.0",
+    "version": "154.3.a",
     "hidden": true,
     "author": "Agzam4",
-    "lastUpdated": "2026-01-26T22:36:52Z",
+    "lastUpdated": "2026-02-01T17:06:55Z",
     "stars": 10,
-    "minGameVersion": "149",
+    "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
