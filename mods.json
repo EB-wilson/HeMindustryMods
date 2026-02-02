@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-01-29T15:51:12Z",
+    "lastUpdated": "2026-02-02T09:15:41Z",
     "stars": 534,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -328,7 +328,7 @@
     "version": "2.9",
     "hidden": true,
     "author": "EBwilson",
-    "lastUpdated": "2026-01-30T13:06:56Z",
+    "lastUpdated": "2026-02-02T10:18:56Z",
     "stars": 62,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2912,20 +2912,6 @@
     "description": "Hbm's NTM (by Bobcat) in mindustry!\nMinecraft, Satisfactory, Rust, and other...\n\nOnly decor blocks\n\nDisable linear filtering in settings!"
   },
   {
-    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "version": "1.9",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-01-18T05:40:05Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
-  },
-  {
     "repo": "chrono-heritage/moderndustry",
     "internalName": "chrono-moderndustry",
     "name": "Moderndustry",
@@ -2938,6 +2924,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that add modern items and block inculde industry or nuclear."
+  },
+  {
+    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "version": "1.9",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-02-02T08:52:39Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -4662,6 +4662,20 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
+    "repo": "useroreo/sb-technology",
+    "internalName": "sb科技",
+    "name": "SB科技",
+    "version": "8.2",
+    "hidden": false,
+    "author": "The_SB",
+    "lastUpdated": "2026-01-31T04:15:28Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "8.2版本新增炮台以及效果!"
+  },
+  {
     "repo": "m1cxzfw3q/thermal-engineering",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -5808,20 +5822,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add doodle looking tank unit to Mindustry."
-  },
-  {
-    "repo": "useroreo/sb-technology",
-    "internalName": "sb科技",
-    "name": "SB科技",
-    "version": "8.2",
-    "hidden": false,
-    "author": "The_SB",
-    "lastUpdated": "2026-01-31T04:15:28Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "8.2版本新增炮台以及效果!"
   },
   {
     "repo": "mr816543/endless_compression",
