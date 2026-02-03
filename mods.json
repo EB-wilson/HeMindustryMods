@@ -1210,7 +1210,7 @@
     "version": "v1.3",
     "hidden": false,
     "author": "SezoVK",
-    "lastUpdated": "2026-01-30T06:42:38Z",
+    "lastUpdated": "2026-02-03T08:17:58Z",
     "stars": 16,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -2058,20 +2058,6 @@
     "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "version": "0.3.4",
-    "hidden": false,
-    "author": "Slashkig, IAmRustee, VoidThreader, Phil",
-    "lastUpdated": "2026-01-23T04:20:50Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
     "repo": "dustdustry/patcheditor",
     "internalName": "patch-editor",
     "name": "PatchEditor",
@@ -2098,6 +2084,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Java Mindustry mod that adds a new campaign on the planet Xilion. Currently still in pre-alpha"
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "version": "0.3.4",
+    "hidden": false,
+    "author": "Slashkig, IAmRustee, VoidThreader, Phil",
+    "lastUpdated": "2026-02-03T07:06:09Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "reborntrack970/infinicampaign",
@@ -6774,20 +6774,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "description test"
-  },
-  {
-    "repo": "betu-ioskatev-mindustry/mindustry-ioskatev-language",
-    "internalName": "ioskatev-language",
-    "name": "Mixed 7 ioskaTev languages translation of mindusTry (ve...",
-    "version": "1.0",
-    "hidden": true,
-    "author": "☭Betu☭ & WantechFan",
-    "lastUpdated": "2025-12-29T23:17:08Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "made by @betu.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
   },
   {
     "repo": "firfaronde/packet-patcher",
