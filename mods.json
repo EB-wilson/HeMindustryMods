@@ -272,7 +272,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-02-05T13:55:42Z",
+    "lastUpdated": "2026-02-05T15:47:47Z",
     "stars": 81,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -5810,20 +5810,6 @@
     "description": "Add doodle looking tank unit to Mindustry."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.2.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-02-03T17:54:33Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "mr816543/endless_compression",
     "internalName": "ec",
     "name": "无尽压缩Endless Compression",
@@ -5850,6 +5836,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Lade diese Mod nur über den neuesten Release auf GitHub herunter! - - - Download this mod on GitHub only via the latest release! "
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.2.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-02-05T14:52:58Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
