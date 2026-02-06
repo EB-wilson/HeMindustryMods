@@ -6,8 +6,8 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-02-04T14:19:11Z",
-    "stars": 535,
+    "lastUpdated": "2026-02-06T15:18:01Z",
+    "stars": 536,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -580,7 +580,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-02-06T06:04:28Z",
+    "lastUpdated": "2026-02-06T16:35:34Z",
     "stars": 37,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -756,6 +756,20 @@
     "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
   },
   {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.3",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2026-02-03T09:47:36Z",
+    "stars": 27,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
+  },
+  {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
     "internalName": "",
     "name": "Welcome to the Frostscape",
@@ -824,20 +838,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Some content for people to enjoy :>"
-  },
-  {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.3.3",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-02-03T09:47:36Z",
-    "stars": 26,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
     "repo": "ballgamer56/vanillaextended",
@@ -2324,6 +2324,20 @@
     "description": "A toxic planet mod that give big exploration to player.\nDon't recommend to play with other mod especially planet mod."
   },
   {
+    "repo": "fat-bird-owner/the-infestations",
+    "internalName": "infestation",
+    "name": "The Infestation",
+    "version": "\n[lightgrey[]]v2-Infestation\n[grey[]]- Act 2.25\n- 6 Sectors\n- C2236\n",
+    "hidden": false,
+    "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
+    "lastUpdated": "2026-01-23T11:57:08Z",
+    "stars": 7,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
+  },
+  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -2574,20 +2588,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "fat-bird-owner/the-infestations",
-    "internalName": "infestation",
-    "name": "The Infestation",
-    "version": "\n[lightgrey[]]v2-Infestation\n[grey[]]- Act 2.25\n- 6 Sectors\n- C2236\n",
-    "hidden": false,
-    "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-01-23T11:57:08Z",
-    "stars": 6,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
   },
   {
     "repo": "i-drink-gasoline/admin-button-2",
@@ -4058,6 +4058,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Build new Cores anywhere you like."
+  },
+  {
+    "repo": "lehanchic25/hidden-content",
+    "internalName": "hid-cont",
+    "name": "Hidden Content",
+    "version": "1",
+    "hidden": true,
+    "author": "Lehanchic25",
+    "lastUpdated": "2024-04-14T12:59:49Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Этот мод позволяет строить скрытые блоки, которые доступны только в песочнице или которые вообще недоступны без читов"
   },
   {
     "repo": "illa4257/mindustrysyncproject",
@@ -5782,20 +5796,6 @@
     "description": "If you like the mod, please star on github!\nCAMPAIGN ONLY 2 SECTOR DONE(massSpread and LandZone)\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
   },
   {
-    "repo": "dirga36/doodle-tank-m",
-    "internalName": "doodle-tank-mod",
-    "name": "Doodle Tank",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Dirge",
-    "lastUpdated": "2026-01-30T14:10:50Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add doodle looking tank unit to Mindustry."
-  },
-  {
     "repo": "mr816543/endless_compression",
     "internalName": "ec",
     "name": "无尽压缩Endless Compression",
@@ -5836,6 +5836,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Lade diese Mod nur über den neuesten Release auf GitHub herunter! - - - Download this mod on GitHub only via the latest release! "
+  },
+  {
+    "repo": "dirga36/doodle-tank-m",
+    "internalName": "doodle-tank-mod",
+    "name": "Doodle Tank",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Dirge",
+    "lastUpdated": "2026-02-06T16:40:25Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add doodle looking tank unit to Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
