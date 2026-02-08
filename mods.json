@@ -454,7 +454,7 @@
     "version": "0.2.3.1A",
     "hidden": false,
     "author": "HPL Team",
-    "lastUpdated": "2026-02-08T12:49:56Z",
+    "lastUpdated": "2026-02-08T13:28:19Z",
     "stars": 45,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -496,7 +496,7 @@
     "version": "0.6.2-beta",
     "hidden": false,
     "author": "Skoow, IriDark",
-    "lastUpdated": "2026-02-07T06:41:44Z",
+    "lastUpdated": "2026-02-08T14:19:23Z",
     "stars": 40,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -3388,6 +3388,20 @@
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
+    "repo": "laomoze/warhammer",
+    "internalName": "wh",
+    "name": "WarHammer",
+    "version": "1.4",
+    "hidden": false,
+    "author": "牢陌泽",
+    "lastUpdated": "2026-02-07T15:40:49Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "以战锤40k为原型的MOD,Mod官方QQ交流群：316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
+  },
+  {
     "repo": "lehanchic/serpulo-and-erekir-plus",
     "internalName": "serpulo and erekir",
     "name": "Serpulo and Erekir +",
@@ -3876,20 +3890,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
-  },
-  {
-    "repo": "laomoze/warhammer",
-    "internalName": "wh",
-    "name": "WarHammer",
-    "version": "1.4",
-    "hidden": false,
-    "author": "牢陌泽",
-    "lastUpdated": "2026-02-07T15:40:49Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "以战锤40k为原型的MOD,Mod官方QQ交流群：316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -4494,6 +4494,20 @@
     "description": "Serpulo Tweaks"
   },
   {
+    "repo": "figseu-technology/greenfortress",
+    "internalName": "green fortress",
+    "name": "Green Fortress",
+    "version": "8.0.0",
+    "hidden": false,
+    "author": "Figseu Technology",
+    "lastUpdated": "2025-09-24T08:07:27Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "世界は新たに創造され、我々は文明を再構築する"
+  },
+  {
     "repo": "dustdustry/wayzermapbrowser",
     "internalName": "wayzer-maps",
     "name": "Wayzer地图站",
@@ -4646,6 +4660,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
+  },
+  {
+    "repo": "r99space99yt/apolotus",
+    "internalName": "apolotus",
+    "name": "Apolotus",
+    "version": "2",
+    "hidden": false,
+    "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:MicroProcessor)",
+    "lastUpdated": "2026-01-29T14:51:08Z",
+    "stars": 2,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "If you like the mod, please star on github!\nCAMPAIGN ONLY 2 SECTOR DONE(massSpread and LandZone)\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
   },
   {
     "repo": "useroreo/sb-technology",
@@ -5558,20 +5586,6 @@
     "description": "A mod that reforged abilities."
   },
   {
-    "repo": "figseu-technology/greenfortress",
-    "internalName": "green fortress",
-    "name": "Green Fortress",
-    "version": "8.0.0",
-    "hidden": false,
-    "author": "Figseu Technology",
-    "lastUpdated": "2025-09-24T08:07:27Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "世界は新たに創造され、我々は文明を再構築する"
-  },
-  {
     "repo": "mastergg-d/cheat-blocks",
     "internalName": "cheat-blocks",
     "name": "Cheat Blocks",
@@ -5794,20 +5808,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made by a novice mod developer, far from finished. Adds more content to the player's arsenal. Four types of tanks await your command:\n- [#FFA665]Assault[]\n- [#84F491]Support[]\n- [#BF92F9]Specialist[]\n- [#FF1414]Flame[]\n\nHeavily inspired by:\n- Eschatologue's 'Unlimited Armament Works'\n- nyuB's (뉴B) 'DuoMod'\n- DedShotGames' 'WOTanks'\n- Anuke's Erekir Tanks\n\nSFX credits to the following games:\n- Terraria\n- Terraria: Calamity Mod\n- Plants vs. Zombies"
-  },
-  {
-    "repo": "r99space99yt/apolotus",
-    "internalName": "apolotus",
-    "name": "Apolotus",
-    "version": "2",
-    "hidden": false,
-    "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:MicroProcessor)",
-    "lastUpdated": "2026-01-29T14:51:08Z",
-    "stars": 1,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "If you like the mod, please star on github!\nCAMPAIGN ONLY 2 SECTOR DONE(massSpread and LandZone)\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
   },
   {
     "repo": "mr816543/endless_compression",
