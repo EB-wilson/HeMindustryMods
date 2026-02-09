@@ -518,20 +518,6 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
-    "repo": "tnmspiroct/exoprosopa",
-    "internalName": "exoprosopa",
-    "name": "Exoprosopa",
-    "version": "0.71",
-    "hidden": false,
-    "author": "TnmSpiroct",
-    "lastUpdated": "2026-02-06T12:48:43Z",
-    "stars": 39,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  [#93E2EE]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Capture and conquer with over 18 campaign maps avaiable on this mod. (now with challenge maps!)\n\n  With over 13 items to be discovered, 124 blocks to be researched. and 17 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.[]\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Server! \n  Check it on my profile. My username is TnmSpiroct.\n\n  This mod requires newest mindustry build to be played (Beta 149)\n  \n  Version 0.7\n  - Codex Resprite\n  - More Biomes\n  - 2 New Items (Experimental)\n  - Removed Some Biomes\n  - New Turret, Anvil\n  - Fixes some blocks can be placed on deep water\n  - Nucrid Crusher"
-  },
-  {
     "repo": "uenhe/fire",
     "internalName": "fire",
     "name": "Fire",
@@ -544,6 +530,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
+  },
+  {
+    "repo": "tnmspiroct/exoprosopa",
+    "internalName": "exoprosopa",
+    "name": "Exoprosopa",
+    "version": "0.71",
+    "hidden": false,
+    "author": "TnmSpiroct",
+    "lastUpdated": "2026-02-09T01:25:04Z",
+    "stars": 39,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  [#93E2EE]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Capture and conquer with over 18 campaign maps avaiable on this mod. (now with challenge maps!)\n\n  With over 13 items to be discovered, 124 blocks to be researched. and 17 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.[]\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Server! \n  Check it on my profile. My username is TnmSpiroct.\n\n  This mod requires newest mindustry build to be played (Beta 149)\n  \n  Version 0.7\n  - Codex Resprite\n  - More Biomes\n  - 2 New Items (Experimental)\n  - Removed Some Biomes\n  - New Turret, Anvil\n  - Fixes some blocks can be placed on deep water\n  - Nucrid Crusher"
   },
   {
     "repo": "eb-wilson/universecore",
@@ -560,32 +560,32 @@
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
-    "repo": "sh1penfire/meld",
-    "internalName": "meld",
-    "name": "Meld",
-    "version": "",
-    "hidden": false,
-    "author": "Sh1penfire",
-    "lastUpdated": "2026-02-06T03:09:19Z",
-    "stars": 37,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
-  },
-  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-02-08T04:31:20Z",
+    "lastUpdated": "2026-02-08T23:42:31Z",
     "stars": 37,
     "minGameVersion": "154.2",
     "hasScripts": false,
     "hasJava": true,
     "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
+  },
+  {
+    "repo": "sh1penfire/meld",
+    "internalName": "meld",
+    "name": "Meld",
+    "version": "",
+    "hidden": false,
+    "author": "Sh1penfire",
+    "lastUpdated": "2026-02-09T01:06:40Z",
+    "stars": 37,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
     "repo": "rogeh4/virtual-scheme-pack-",
