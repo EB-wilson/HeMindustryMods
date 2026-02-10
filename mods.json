@@ -916,7 +916,7 @@
     "version": "0.31",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-09T07:52:08Z",
+    "lastUpdated": "2026-02-10T03:57:23Z",
     "stars": 23,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1890,6 +1890,20 @@
     "description": "Adds a dialog for turning images into schematics"
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.7.7",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-02-09T05:21:05Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
     "repo": "slava0135/refine",
     "internalName": "refine",
     "name": "reFine",
@@ -2098,20 +2112,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Java Mindustry mod that adds a new campaign on the planet Xilion. Currently still in pre-alpha"
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.7.7",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-02-09T05:21:05Z",
-    "stars": 8,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "reborntrack970/infinicampaign",
