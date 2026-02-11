@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-02-08T17:31:28Z",
+    "lastUpdated": "2026-02-11T15:17:08Z",
     "stars": 537,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -62,7 +62,7 @@
     "version": "v4.42.8-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-02-08T16:19:49Z",
+    "lastUpdated": "2026-02-11T16:52:16Z",
     "stars": 188,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -636,7 +636,7 @@
     "version": "1.5.7",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-02-11T13:33:59Z",
+    "lastUpdated": "2026-02-11T15:27:39Z",
     "stars": 33,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -756,20 +756,6 @@
     "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
   },
   {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.3.3",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-02-03T09:47:36Z",
-    "stars": 27,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
-  },
-  {
     "repo": "icexuegao/deepspace",
     "internalName": "ice",
     "name": "Deep Space",
@@ -782,6 +768,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
+  },
+  {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.3",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2026-02-11T16:57:13Z",
+    "stars": 27,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
@@ -4676,20 +4676,6 @@
     "description": "8.2版本新增炮台以及效果!"
   },
   {
-    "repo": "m1cxzfw3q/thermal-engineering",
-    "internalName": "temod",
-    "name": "Thermal Engineering Java",
-    "version": "0.0.2pA",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-02-01T02:16:30Z",
-    "stars": 2,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
-  },
-  {
     "repo": "jasonp01/foosinstaller",
     "internalName": "fooinstallerv8",
     "name": "Foo's Client Installer (V8)",
@@ -4758,6 +4744,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
+  },
+  {
+    "repo": "m1cxzfw3q/thermal-engineering",
+    "internalName": "temod",
+    "name": "Thermal Engineering Java",
+    "version": "0.0.2pA",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-02-11T16:47:53Z",
+    "stars": 2,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -5858,7 +5858,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "[accent]Dirge",
-    "lastUpdated": "2026-02-11T02:17:04Z",
+    "lastUpdated": "2026-02-11T16:33:04Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
