@@ -132,7 +132,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-02-13T19:59:20Z",
+    "lastUpdated": "2026-02-13T20:47:15Z",
     "stars": 125,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6958,20 +6958,6 @@
     "description": "Provides tools for easier debugging in Mindustry Logic."
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "version": " kinda unfinished",
-    "hidden": false,
-    "author": "oleskiy",
-    "lastUpdated": "2026-01-31T20:25:09Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
-  },
-  {
     "repo": "momiji142857/ve-addon-schematics",
     "internalName": "ve-addon-schematics",
     "name": "VE Addon: Schematics",
@@ -7026,5 +7012,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is fully compatible with 147 and up, just change the minGameVersion and you're good to go."
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "version": " kinda unfinished",
+    "hidden": false,
+    "author": "oleskiy",
+    "lastUpdated": "2026-02-13T22:17:10Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
   }
 ]
