@@ -721,7 +721,7 @@
     "hidden": false,
     "author": "Alon",
     "lastUpdated": "2026-02-07T05:58:28Z",
-    "stars": 28,
+    "stars": 29,
     "minGameVersion": "154.3",
     "hasScripts": false,
     "hasJava": true,
@@ -1260,20 +1260,6 @@
     "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
   },
   {
-    "repo": "meepoffaith/black-holes-library",
-    "internalName": "black-hole-renderer",
-    "name": "Black Holes Library",
-    "version": "17",
-    "hidden": true,
-    "author": "MEEPofFaith",
-    "lastUpdated": "2025-06-02T11:51:03Z",
-    "stars": 15,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library mod for rendering black holes."
-  },
-  {
     "repo": "valigaming15/pyra-erekir",
     "internalName": "pyra",
     "name": "Pyra Erekir",
@@ -1314,6 +1300,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Do you think the original neoplasm solution, burned in a slag pool, is a too singular; Such biologically active materials should have other uses: as ammunition, synthesizing new materials, and even building their own biological armies... Please unleash your imagination to the fullest \n\n You can't wait any longer? Let's embark on this bloody journey"
+  },
+  {
+    "repo": "meepoffaith/black-holes-library",
+    "internalName": "black-hole-renderer",
+    "name": "Black Holes Library",
+    "version": "18",
+    "hidden": true,
+    "author": "MEEPofFaith",
+    "lastUpdated": "2026-02-14T01:32:54Z",
+    "stars": 15,
+    "minGameVersion": "155.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod for rendering black holes."
   },
   {
     "repo": "seuearth/factroundustry",
@@ -7026,5 +7026,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
+  },
+  {
+    "repo": "lara-evangelista/earthquake-and-asteroid-mod",
+    "internalName": "earthquake-asteroid-mod",
+    "name": "Earthquake and Asteroid Mod",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Lara Evangelista and Sofia Nunes",
+    "lastUpdated": "2026-02-14T00:58:17Z",
+    "stars": 0,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An earthquake mod for Mindustry."
   }
 ]
