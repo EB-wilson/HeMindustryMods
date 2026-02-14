@@ -5844,7 +5844,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "[accent]Dirge",
-    "lastUpdated": "2026-02-14T12:03:03Z",
+    "lastUpdated": "2026-02-14T14:48:41Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -7014,20 +7014,6 @@
     "description": "This mod is fully compatible with 147 and up, just change the minGameVersion and you're good to go."
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "version": " kinda unfinished",
-    "hidden": false,
-    "author": "oleskiy",
-    "lastUpdated": "2026-02-13T22:17:10Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
-  },
-  {
     "repo": "lara-evangelista/earthquake-and-asteroid-mod",
     "internalName": "earthquake-asteroid-mod",
     "name": "Earthquake and Asteroid Mod",
@@ -7040,5 +7026,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An earthquake mod for Mindustry."
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "version": " kinda unfinished",
+    "hidden": false,
+    "author": "oleskiy",
+    "lastUpdated": "2026-02-14T16:21:01Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
   }
 ]
