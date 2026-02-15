@@ -616,6 +616,20 @@
     "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
   },
   {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "version": "1.5.7",
+    "hidden": true,
+    "author": "I hope...",
+    "lastUpdated": "2026-02-15T08:58:19Z",
+    "stars": 34,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.7\n## Highlight\n1. 完善HotSwap（Preview）\n- ClassDiff (field +/-, method +/-, method body change)\n2. 适配Mindustry v155的lwjgl\n3. 其他的一些优化\n4. 升级ScreenSampler（加了opengl2的判断）来修复bug\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
+  },
+  {
     "repo": "dong-wo-long/betterdustrymod",
     "internalName": "bsm",
     "name": "Betterustry Mod",
@@ -628,20 +642,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
-  },
-  {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "version": "1.5.7",
-    "hidden": true,
-    "author": "I hope...",
-    "lastUpdated": "2026-02-15T08:58:19Z",
-    "stars": 33,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.7\n## Highlight\n1. 完善HotSwap（Preview）\n- ClassDiff (field +/-, method +/-, method body change)\n2. 适配Mindustry v155的lwjgl\n3. 其他的一些优化\n4. 升级ScreenSampler（加了opengl2的判断）来修复bug\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "haznobrain/erekir-liquefied",
@@ -860,7 +860,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-15T08:45:28Z",
+    "lastUpdated": "2026-02-15T10:46:40Z",
     "stars": 26,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -5850,6 +5850,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add doodle looking tank unit to Mindustry. \n\n[yellow]Dependencies:[]\n - Beta[]Mindy[] (Provides item shop for obtaining the resources[])"
+  },
+  {
+    "repo": "urbokie/tankdustry",
+    "internalName": "tankdustry",
+    "name": "TankDustry",
+    "version": "1",
+    "hidden": false,
+    "author": "Urbokie",
+    "lastUpdated": "2026-02-15T10:33:58Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Real tank in Mindustry???"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
