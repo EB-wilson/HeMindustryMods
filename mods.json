@@ -720,7 +720,7 @@
     "version": "Alpha-1876",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-02-16T14:04:40Z",
+    "lastUpdated": "2026-02-17T04:37:41Z",
     "stars": 29,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -860,7 +860,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-16T12:34:01Z",
+    "lastUpdated": "2026-02-17T03:44:51Z",
     "stars": 26,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -3402,6 +3402,20 @@
     "description": "Recreation of my first mod"
   },
   {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-02-16T11:06:18Z",
+    "stars": 4,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
+  },
+  {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
     "internalName": "interstellar-spaceline",
     "name": "Interstellar Spaceline",
@@ -3890,20 +3904,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
-  },
-  {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-02-16T11:06:18Z",
-    "stars": 3,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
   },
   {
     "repo": "huanxefh/project-reindustrialization",
