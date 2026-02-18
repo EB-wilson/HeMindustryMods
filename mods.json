@@ -574,32 +574,32 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
-    "repo": "sh1penfire/meld",
-    "internalName": "meld",
-    "name": "Meld",
-    "version": "",
-    "hidden": false,
-    "author": "Sh1penfire",
-    "lastUpdated": "2026-02-09T04:47:21Z",
-    "stars": 37,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
-  },
-  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-02-18T16:39:40Z",
+    "lastUpdated": "2026-02-18T17:05:13Z",
     "stars": 37,
     "minGameVersion": "155.2",
     "hasScripts": false,
     "hasJava": true,
     "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
+  },
+  {
+    "repo": "sh1penfire/meld",
+    "internalName": "meld",
+    "name": "Meld",
+    "version": "",
+    "hidden": false,
+    "author": "Sh1penfire",
+    "lastUpdated": "2026-02-18T18:22:22Z",
+    "stars": 37,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
     "repo": "coaldeficit/moredefences",
@@ -1554,6 +1554,20 @@
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.7.7",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-02-18T14:10:21Z",
+    "stars": 11,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
     "repo": "pointifix/autotranslate",
     "internalName": "auto-translate",
     "name": "AutoTranslate",
@@ -1790,20 +1804,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[#B2002A]The war is Infinite![#FFFFFF]\n\n-Adding [#FFAA00]Functional building[#FFFFFF].\n-Adding new units include [#FF00FF]Tanks[#FFFFFF], [#FF5A00]Helicopters[#FFFFFF], and [#00FF00]Support Units[#FFFFFF].\nAdding a new [#FFB200]Technology[#FFFFFF] in game!\n( [#FF00FF]SERPULO ONLY[#FFFFFF] )\n\n\nI [#FF0000]indo[#FFFFFF]nesian people btw :)\n\nFound a bug? tag me on Discord ( @red.id9990 )"
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.7.7",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-02-18T14:10:21Z",
-    "stars": 10,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "slotterleet/hard-mode-mod",
@@ -3906,20 +3906,6 @@
     "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
-    "repo": "m1cxzfw3q/logicextend",
-    "internalName": "logic-extend",
-    "name": "LogicExtend - 逻辑扩展",
-    "version": "0.0.3",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-02-12T15:31:16Z",
-    "stars": 3,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
-  },
-  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -3932,6 +3918,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
+    "repo": "m1cxzfw3q/logicextend",
+    "internalName": "logic-extend",
+    "name": "LogicExtend - 逻辑扩展",
+    "version": "0.0.3",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-02-18T18:49:56Z",
+    "stars": 3,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
