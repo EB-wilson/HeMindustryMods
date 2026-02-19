@@ -199,12 +199,12 @@
     "repo": "blackdeluxecat/mi2-utilities-java",
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
-    "version": "1.10.0",
+    "version": "1.11.0",
     "hidden": true,
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2025-12-19T14:19:10Z",
+    "lastUpdated": "2026-02-19T15:43:16Z",
     "stars": 99,
-    "minGameVersion": "154.2",
+    "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
     "description": "QOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players."
@@ -574,20 +574,6 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-02-18T17:05:13Z",
-    "stars": 37,
-    "minGameVersion": "155.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
-  },
-  {
     "repo": "sh1penfire/meld",
     "internalName": "meld",
     "name": "Meld",
@@ -600,6 +586,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-02-19T15:53:15Z",
+    "stars": 37,
+    "minGameVersion": "155.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
   },
   {
     "repo": "coaldeficit/moredefences",
@@ -622,7 +622,7 @@
     "version": "1.5.7",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-02-19T13:02:36Z",
+    "lastUpdated": "2026-02-19T15:57:01Z",
     "stars": 34,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -672,6 +672,20 @@
     "description": "Dynamic load custom contents patch account to server"
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "Deep Space",
+    "version": "Alpha-1876",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-02-18T06:24:46Z",
+    "stars": 31,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
+  },
+  {
     "repo": "itskirby69/minedusty",
     "internalName": "",
     "name": "MineDusty",
@@ -684,20 +698,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "Deep Space",
-    "version": "Alpha-1876",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-02-18T06:24:46Z",
-    "stars": 30,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
   },
   {
     "repo": "electricgun/cheat-codes-mod",
@@ -860,7 +860,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-19T13:58:38Z",
+    "lastUpdated": "2026-02-19T16:28:34Z",
     "stars": 26,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -7104,7 +7104,7 @@
     "version": " kinda unfinished",
     "hidden": false,
     "author": "oleskiy",
-    "lastUpdated": "2026-02-17T19:26:11Z",
+    "lastUpdated": "2026-02-19T16:21:34Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
