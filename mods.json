@@ -622,7 +622,7 @@
     "version": "1.5.7",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-02-19T06:40:38Z",
+    "lastUpdated": "2026-02-19T13:02:36Z",
     "stars": 34,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -686,6 +686,20 @@
     "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "Deep Space",
+    "version": "Alpha-1876",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-02-18T06:24:46Z",
+    "stars": 30,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
+  },
+  {
     "repo": "electricgun/cheat-codes-mod",
     "internalName": "cheat-codes",
     "name": "Cheat Codes Mod",
@@ -714,27 +728,13 @@
     "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
   },
   {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "Deep Space",
-    "version": "Alpha-1876",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-02-18T06:24:46Z",
-    "stars": 29,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
-  },
-  {
     "repo": "nullotte/carpe-diem",
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
     "version": "alpha (build 3)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-02-18T20:21:21Z",
+    "lastUpdated": "2026-02-19T12:39:53Z",
     "stars": 29,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1364,7 +1364,7 @@
     "version": "2.2",
     "hidden": false,
     "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret, blackhole related stuff.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites\n    RushieWashie/jirocab| AmmoLifeTimeUnitType",
-    "lastUpdated": "2026-02-19T00:12:47Z",
+    "lastUpdated": "2026-02-19T12:36:07Z",
     "stars": 14,
     "minGameVersion": "144.2",
     "hasScripts": false,
@@ -1560,12 +1560,26 @@
     "version": "1.7.7",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-02-18T14:10:21Z",
+    "lastUpdated": "2026-02-19T12:32:34Z",
     "stars": 11,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
+    "repo": "pointifix/autotranslate",
+    "internalName": "auto-translate",
+    "name": "AutoTranslate",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Pointifix",
+    "lastUpdated": "2023-06-12T15:36:33Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Automatically translates chat messages"
   },
   {
     "repo": "aforgetfulness/towerdefense",
@@ -2352,20 +2366,6 @@
     "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2026-02-09T13:44:12Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2378,6 +2378,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2026-02-19T12:10:39Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
