@@ -594,7 +594,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-02-19T15:53:15Z",
+    "lastUpdated": "2026-02-19T18:15:58Z",
     "stars": 37,
     "minGameVersion": "155.2",
     "hasScripts": false,
@@ -728,20 +728,6 @@
     "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
   },
   {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "alpha (build 3)",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2026-02-19T12:39:53Z",
-    "stars": 29,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
-  },
-  {
     "repo": "xpdustry/claj",
     "internalName": "claj",
     "name": "CLaJ",
@@ -749,11 +735,25 @@
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
     "lastUpdated": "2026-02-15T13:40:06Z",
-    "stars": 28,
+    "stars": 29,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
+  },
+  {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "alpha (build 3)",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2026-02-19T18:48:14Z",
+    "stars": 29,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
   },
   {
     "repo": "zelaux/bytelogicmod",
@@ -986,7 +986,7 @@
     "version": "1.7.9",
     "hidden": false,
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2026-02-18T15:31:53Z",
+    "lastUpdated": "2026-02-19T17:10:39Z",
     "stars": 21,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1134,6 +1134,20 @@
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
+    "repo": "mnemotechnician/new-controls-public",
+    "internalName": "newcontrols",
+    "name": "New controls",
+    "version": "1.1.3",
+    "hidden": true,
+    "author": "Mnemotechnician",
+    "lastUpdated": "2023-04-20T10:42:14Z",
+    "stars": 17,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
     "repo": "echovespy/simplistic",
     "internalName": "simplistic",
     "name": "Simplistic - TexturePack",
@@ -1160,20 +1174,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod for browsing schematic repositories."
-  },
-  {
-    "repo": "mnemotechnician/new-controls-public",
-    "internalName": "newcontrols",
-    "name": "New controls",
-    "version": "1.1.3",
-    "hidden": true,
-    "author": "Mnemotechnician",
-    "lastUpdated": "2023-04-20T10:42:14Z",
-    "stars": 16,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
   },
   {
     "repo": "balam314/no-invasions",
@@ -6816,20 +6816,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds gold, iron, gold walls, iron walls, and lead walls. More will be added in the future. Stay tuned."
-  },
-  {
-    "repo": "daemonlife/mindustry_red_alert_music_mod",
-    "internalName": "red_alert_music",
-    "name": "Red Alert Music",
-    "version": "1.0",
-    "hidden": false,
-    "author": "DaemonLife",
-    "lastUpdated": "2025-11-16T16:15:23Z",
-    "stars": 0,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "ALPHA! This mod replaces all music in the game with soundtracks from Red Alert 1, 2, 3, and also from first C&C version"
   },
   {
     "repo": "halopolicj/ppm",
