@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-02-18T16:42:52Z",
+    "lastUpdated": "2026-02-20T16:11:00Z",
     "stars": 540,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -594,12 +594,12 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-02-19T22:01:50Z",
+    "lastUpdated": "2026-02-20T15:29:38Z",
     "stars": 37,
     "minGameVersion": "155.2",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
+    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "coaldeficit/moredefences",
@@ -622,7 +622,7 @@
     "version": "1.5.7",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-02-20T10:07:21Z",
+    "lastUpdated": "2026-02-20T15:42:39Z",
     "stars": 34,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -748,7 +748,7 @@
     "version": "alpha (build 3)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-02-20T13:56:41Z",
+    "lastUpdated": "2026-02-20T16:04:20Z",
     "stars": 29,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -986,7 +986,7 @@
     "version": "1.7.9",
     "hidden": false,
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2026-02-19T17:10:39Z",
+    "lastUpdated": "2026-02-20T14:49:57Z",
     "stars": 21,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4844,20 +4844,6 @@
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
-    "repo": "momiji142857/ve-addon-schematics",
-    "internalName": "ve-addon-schematics",
-    "name": "VE Addon: Schematics",
-    "version": "v4.0.8",
-    "hidden": true,
-    "author": "模组作者: [sky]Momiji142857[white]\n各蓝图作者请见GitHub",
-    "lastUpdated": "2026-02-14T18:19:48Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-02-15[white]"
-  },
-  {
     "repo": "rodrigoasfr24022003/rodrigonia-mod",
     "internalName": "rodrigonia",
     "name": "Rodrigonia",
@@ -4898,6 +4884,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "纯客户端导管染色模组：为地图上液体导管在中心绘制液体颜色方块，便于快速识别运输中的液体。\\nClient-side liquid duct coloring: draws a centered liquid-colored square on each liquid duct to show what it currently transports."
+  },
+  {
+    "repo": "momiji142857/ve-addon-schematics",
+    "internalName": "ve-addon-schematics",
+    "name": "VE Addon: Schematics",
+    "version": "v4.0.9",
+    "hidden": true,
+    "author": "模组作者: [sky]Momiji142857[white]\n各蓝图作者请见GitHub",
+    "lastUpdated": "2026-02-20T15:09:56Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-02-20[white]"
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
