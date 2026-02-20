@@ -748,7 +748,7 @@
     "version": "alpha (build 3)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-02-20T12:40:53Z",
+    "lastUpdated": "2026-02-20T13:56:41Z",
     "stars": 29,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -3442,6 +3442,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
+  },
+  {
+    "repo": "alstin112/context",
+    "internalName": "context",
+    "name": "Context",
+    "version": "v1.0.0",
+    "hidden": false,
+    "author": "Alstin112 and Flintyx",
+    "lastUpdated": "2026-02-17T18:07:38Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "this mod add more command blocks to help mod-creators, inspired in \"testers\" by sk7725"
   },
   {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
