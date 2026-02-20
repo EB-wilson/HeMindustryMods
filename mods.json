@@ -672,20 +672,6 @@
     "description": "Dynamic load custom contents patch account to server"
   },
   {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "Deep Space",
-    "version": "Alpha-1876",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-02-18T06:24:46Z",
-    "stars": 31,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
-  },
-  {
     "repo": "itskirby69/minedusty",
     "internalName": "",
     "name": "MineDusty",
@@ -698,6 +684,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
+  },
+  {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "Deep Space",
+    "version": "Alpha-1876",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-02-20T10:45:56Z",
+    "stars": 31,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
   },
   {
     "repo": "electricgun/cheat-codes-mod",
@@ -748,7 +748,7 @@
     "version": "alpha (build 3)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-02-20T10:23:55Z",
+    "lastUpdated": "2026-02-20T12:40:53Z",
     "stars": 29,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -860,7 +860,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-20T07:05:15Z",
+    "lastUpdated": "2026-02-20T12:25:21Z",
     "stars": 26,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -3442,20 +3442,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
-  },
-  {
-    "repo": "alstin112/context",
-    "internalName": "context",
-    "name": "Context",
-    "version": "v1.0.0",
-    "hidden": false,
-    "author": "Alstin112 and Flintyx",
-    "lastUpdated": "2026-02-17T18:07:38Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "this mod add more command blocks to help mod-creators, inspired in \"testers\" by sk7725"
   },
   {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
@@ -7222,5 +7208,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds more logic instructions.\n一个添加了更多逻辑指令的模组"
+  },
+  {
+    "repo": "determination-wind/areacleaner",
+    "internalName": "areacleaner",
+    "name": "AreaCleaner",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-02-20T12:51:58Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hold a hotkey to drag a rectangle, then queue RTS commands for selected units to clear enemy buildings inside that area."
   }
 ]
