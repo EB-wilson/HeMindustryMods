@@ -706,7 +706,7 @@
     "version": "alpha (build 3)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-02-21T12:18:14Z",
+    "lastUpdated": "2026-02-21T13:07:06Z",
     "stars": 30,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -860,7 +860,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-21T11:45:36Z",
+    "lastUpdated": "2026-02-21T14:12:51Z",
     "stars": 26,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1288,20 +1288,6 @@
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
-    "repo": "430230562/vanilla-neoplasm-extend",
-    "internalName": "vne",
-    "name": "Vanilla Neoplasm Extend",
-    "version": "0.22",
-    "hidden": false,
-    "author": "pardon",
-    "lastUpdated": "2026-02-04T14:23:13Z",
-    "stars": 15,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Do you think the original neoplasm solution, burned in a slag pool, is a too singular; Such biologically active materials should have other uses: as ammunition, synthesizing new materials, and even building their own biological armies... Please unleash your imagination to the fullest \n\n You can't wait any longer? Let's embark on this bloody journey"
-  },
-  {
     "repo": "meepoffaith/black-holes-library",
     "internalName": "black-hole-renderer",
     "name": "Black Holes Library",
@@ -1314,6 +1300,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod for rendering black holes."
+  },
+  {
+    "repo": "430230562/vanilla-neoplasm-extend",
+    "internalName": "vne",
+    "name": "Vanilla Neoplasm Extend",
+    "version": "0.22",
+    "hidden": false,
+    "author": "pardon",
+    "lastUpdated": "2026-02-21T14:14:28Z",
+    "stars": 15,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Do you think the original neoplasm solution, burned in a slag pool, is a too singular; Such biologically active materials should have other uses: as ammunition, synthesizing new materials, and even building their own biological armies... Please unleash your imagination to the fullest \n\n You can't wait any longer? Let's embark on this bloody journey"
   },
   {
     "repo": "seuearth/factroundustry",
