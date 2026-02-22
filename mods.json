@@ -692,7 +692,7 @@
     "version": "Alpha-1876",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-02-22T10:10:10Z",
+    "lastUpdated": "2026-02-22T11:43:46Z",
     "stars": 31,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -1778,20 +1778,6 @@
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
-    "repo": "hao-1337/mindustry-better-vanilla",
-    "internalName": "hao1337-mod",
-    "name": "[ Better Vanilla ]",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "Hao1337",
-    "lastUpdated": "2026-02-22T08:09:43Z",
-    "stars": 10,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "DUE TO VERSION MISMATCH, THIS VERSION IS USING FOR MOBILE ONLY\n- For windows/steam/beta version please look up on github:\nhttps://github.com/Hao-1337/mindustry-better-vanilla/releases/\n Thanks yall to support us!\n\n\nAdd something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
-  },
-  {
     "repo": "agzam4/mindustry-mod-v8",
     "internalName": "agzam4mod",
     "name": "Agzam's Mod",
@@ -1804,6 +1790,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
+  },
+  {
+    "repo": "hao-1337/mindustry-better-vanilla",
+    "internalName": "hao1337-mod",
+    "name": "[ Better Vanilla ]",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "Hao1337",
+    "lastUpdated": "2026-02-22T12:45:10Z",
+    "stars": 10,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "DUE TO VERSION MISMATCH, THIS VERSION IS USING FOR MOBILE ONLY\n- For windows/steam/beta version please look up on github:\nhttps://github.com/Hao-1337/mindustry-better-vanilla/releases/\n Thanks yall to support us!\n\n\nAdd something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
     "repo": "slotterleet/hard-mode-mod",
@@ -1860,20 +1860,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
-  },
-  {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "version": "",
-    "hidden": false,
-    "author": "bttodi",
-    "lastUpdated": "2025-11-07T05:45:28Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
     "repo": "theserjio/advanceddatabase",
@@ -2070,6 +2056,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
+  },
+  {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "version": "",
+    "hidden": false,
+    "author": "bttodi",
+    "lastUpdated": "2025-11-07T05:45:28Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
     "repo": "cyanide863/arikoth",
@@ -2604,20 +2604,6 @@
     "description": ""
   },
   {
-    "repo": "i-drink-gasoline/admin-button-2",
-    "internalName": "admin-button-2",
-    "name": "Admin Button 2",
-    "version": "25",
-    "hidden": true,
-    "author": "I drink gasoline",
-    "lastUpdated": "2026-02-11T13:45:25Z",
-    "stars": 6,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add an admin button."
-  },
-  {
     "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
@@ -2630,6 +2616,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
+  },
+  {
+    "repo": "i-drink-gasoline/admin-button-2",
+    "internalName": "admin-button-2",
+    "name": "Admin Button 2",
+    "version": "25.1",
+    "hidden": true,
+    "author": "I drink gasoline",
+    "lastUpdated": "2026-02-22T11:01:43Z",
+    "stars": 6,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add an admin button."
   },
   {
     "repo": "obamination/minedustry",
