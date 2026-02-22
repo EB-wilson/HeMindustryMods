@@ -483,7 +483,7 @@
     "hidden": false,
     "author": "TnmSpiroct",
     "lastUpdated": "2026-02-22T06:47:54Z",
-    "stars": 43,
+    "stars": 44,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
@@ -692,7 +692,7 @@
     "version": "Alpha-1876",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-02-21T10:29:23Z",
+    "lastUpdated": "2026-02-22T10:10:10Z",
     "stars": 31,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -1798,7 +1798,7 @@
     "version": "154.3.a",
     "hidden": true,
     "author": "Agzam4",
-    "lastUpdated": "2026-02-22T08:33:38Z",
+    "lastUpdated": "2026-02-22T09:23:33Z",
     "stars": 10,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2954,6 +2954,20 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
   },
   {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-02-16T11:06:18Z",
+    "stars": 5,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
+  },
+  {
     "repo": "konkitoman/speedctlman",
     "internalName": "speed-ctl-man",
     "name": "SpeedCtlMan",
@@ -3374,18 +3388,18 @@
     "description": "Recreation of my first mod"
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
     "version": "101",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-02-16T11:06:18Z",
+    "lastUpdated": "2026-02-16T11:11:40Z",
     "stars": 4,
     "minGameVersion": "155",
     "hasScripts": true,
     "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
+    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
     "repo": "alstin112/context",
@@ -3906,18 +3920,18 @@
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
     "version": "101",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-02-16T11:11:40Z",
+    "lastUpdated": "2026-02-17T18:18:42Z",
     "stars": 3,
     "minGameVersion": "155",
     "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "m1cxzfw3q/logicextend",
@@ -4772,20 +4786,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
-  },
-  {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-02-17T18:18:42Z",
-    "stars": 2,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "momiji142857/ve-addon-schematics",
