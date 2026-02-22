@@ -217,7 +217,7 @@
     "hidden": true,
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
     "lastUpdated": "2026-01-21T01:03:43Z",
-    "stars": 95,
+    "stars": 96,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -860,7 +860,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-21T15:43:53Z",
+    "lastUpdated": "2026-02-22T07:33:21Z",
     "stars": 26,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1722,20 +1722,6 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "version": "154.3.a",
-    "hidden": true,
-    "author": "Agzam4",
-    "lastUpdated": "2026-02-01T17:06:55Z",
-    "stars": 10,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "new-guys5634/mechy-chaos",
     "internalName": " mech ",
     "name": "Combat Dustry",
@@ -1764,20 +1750,6 @@
     "description": "[#B2002A]The war is Infinite![#FFFFFF]\n\n-Adding [#FFAA00]Functional building[#FFFFFF].\n-Adding new units include [#FF00FF]Tanks[#FFFFFF], [#FF5A00]Helicopters[#FFFFFF], and [#00FF00]Support Units[#FFFFFF].\nAdding a new [#FFB200]Technology[#FFFFFF] in game!\n( [#FF00FF]SERPULO ONLY[#FFFFFF] )\n\n\nI [#FF0000]indo[#FFFFFF]nesian people btw :)\n\nFound a bug? tag me on Discord ( @red.id9990 )"
   },
   {
-    "repo": "hao-1337/mindustry-better-vanilla",
-    "internalName": "hao1337-mod",
-    "name": "[ Better Vanilla ]",
-    "version": "1.8.1",
-    "hidden": true,
-    "author": "Hao1337",
-    "lastUpdated": "2026-02-19T06:21:32Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
-  },
-  {
     "repo": "smolkeys/new-console-hardline",
     "internalName": "newconsole-hardline",
     "name": "New Console Hardline",
@@ -1804,6 +1776,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
+    "repo": "hao-1337/mindustry-better-vanilla",
+    "internalName": "hao1337-mod",
+    "name": "[ Better Vanilla ]",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "Hao1337",
+    "lastUpdated": "2026-02-22T08:09:43Z",
+    "stars": 10,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "DUE TO VERSION MISMATCH, THIS VERSION IS USING FOR MOBILE ONLY\n- For windows/steam/beta version please look up on github:\nhttps://github.com/Hao-1337/mindustry-better-vanilla/releases/\n Thanks yall to support us!\n\n\nAdd something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
+  },
+  {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "version": "154.3.a",
+    "hidden": true,
+    "author": "Agzam4",
+    "lastUpdated": "2026-02-22T08:33:38Z",
+    "stars": 10,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
   },
   {
     "repo": "slotterleet/hard-mode-mod",
