@@ -448,20 +448,6 @@
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "version": "beta-1.4b",
-    "hidden": true,
-    "author": "EBwilson",
-    "lastUpdated": "2025-12-30T03:22:11Z",
-    "stars": 45,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
-  },
-  {
     "repo": "azaria-team/azaria",
     "internalName": "hpl",
     "name": "Project HPL",
@@ -474,6 +460,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
+  },
+  {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "version": "beta-1.4b",
+    "hidden": true,
+    "author": "EBwilson",
+    "lastUpdated": "2026-02-23T10:58:24Z",
+    "stars": 45,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
   },
   {
     "repo": "tnmspiroct/exoprosopa",
@@ -1350,7 +1350,7 @@
     "version": "2.2",
     "hidden": false,
     "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret, blackhole related stuff.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites\n    RushieWashie/jirocab| AmmoLifeTimeUnitType",
-    "lastUpdated": "2026-02-23T02:14:49Z",
+    "lastUpdated": "2026-02-23T11:19:24Z",
     "stars": 14,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -1526,20 +1526,6 @@
     "description": "the ultimate ratio hell, a designer's challenge"
   },
   {
-    "repo": "routerxdd/icicle-world",
-    "internalName": "icicle-world",
-    "name": "Buried in Ice",
-    "version": "alpha 0.9.4",
-    "hidden": false,
-    "author": "R.O.T.\nThanks yesC48 for normal english translation",
-    "lastUpdated": "2025-11-04T13:36:45Z",
-    "stars": 11,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds a new planet, where we will play in underground"
-  },
-  {
     "repo": "yroo1/astheriveregenesis",
     "internalName": "arg",
     "name": "A:RG",
@@ -1552,6 +1538,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
+  },
+  {
+    "repo": "routerxdd/icicle-world",
+    "internalName": "icicle-world",
+    "name": "Buried in Ice",
+    "version": "alpha 0.9.4",
+    "hidden": false,
+    "author": "R.O.T.\nThanks yesC48 for normal english translation",
+    "lastUpdated": "2026-02-23T11:41:23Z",
+    "stars": 11,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds a new planet, where we will play in underground"
   },
   {
     "repo": "pointifix/autotranslate",
@@ -1778,20 +1778,6 @@
     "description": "Additional functionality"
   },
   {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.7.7",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-02-22T14:34:36Z",
-    "stars": 10,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
     "repo": "hao-1337/mindustry-better-vanilla",
     "internalName": "hao1337-mod",
     "name": "[ Better Vanilla ]",
@@ -1804,6 +1790,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "DUE TO VERSION MISMATCH, THIS VERSION IS USING FOR MOBILE ONLY\n- For windows/steam/beta version please look up on github:\nhttps://github.com/Hao-1337/mindustry-better-vanilla/releases/\n Thanks yall to support us!\n\n\nAdd something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
+  },
+  {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.7.7",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-02-23T13:02:40Z",
+    "stars": 10,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "slotterleet/hard-mode-mod",
@@ -5942,7 +5942,7 @@
     "version": "v1",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-02-23T07:04:36Z",
+    "lastUpdated": "2026-02-23T11:58:51Z",
     "stars": 1,
     "minGameVersion": "155",
     "hasScripts": true,
