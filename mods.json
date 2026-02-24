@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-02-22T22:00:27Z",
+    "lastUpdated": "2026-02-24T16:10:33Z",
     "stars": 128,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -272,7 +272,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-02-24T02:44:16Z",
+    "lastUpdated": "2026-02-24T15:17:19Z",
     "stars": 83,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -692,7 +692,7 @@
     "version": "Alpha (Build 4)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-02-24T03:31:02Z",
+    "lastUpdated": "2026-02-24T17:03:01Z",
     "stars": 30,
     "minGameVersion": "155.3",
     "hasScripts": false,
@@ -1078,6 +1078,20 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "version": "1.11",
+    "hidden": false,
+    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
+    "lastUpdated": "2026-02-23T14:20:03Z",
+    "stars": 19,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
+  },
+  {
     "repo": "apszoldat/mindustrymappingutilities",
     "internalName": "mapping-utilities",
     "name": "Mapping Utilities",
@@ -1104,20 +1118,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This a mod that can show the hidden item of the item bridge."
-  },
-  {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "version": "1.11",
-    "hidden": false,
-    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
-    "lastUpdated": "2026-02-23T14:20:03Z",
-    "stars": 18,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "mnemotechnician/new-controls-public",
@@ -2590,20 +2590,6 @@
     "description": ""
   },
   {
-    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "version": "1.9",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-02-22T06:28:58Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
-  },
-  {
     "repo": "i-drink-gasoline/admin-button-2",
     "internalName": "admin-button-2",
     "name": "Admin Button 2",
@@ -2616,6 +2602,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add an admin button."
+  },
+  {
+    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "version": "1.9",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-02-24T16:13:56Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
     "repo": "obamination/minedustry",
@@ -6664,20 +6664,6 @@
     "description": "联机mod，支持自定义frpc，目前仅支持Android aarch64(项目正在重构，暂时不支持Windows amd64)"
   },
   {
-    "repo": "firfaronde/mindustry-exit-mod",
-    "internalName": "exit",
-    "name": "Exit mod",
-    "version": "1.0",
-    "hidden": false,
-    "author": "firfaronde",
-    "lastUpdated": "2025-07-29T12:38:27Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Exit"
-  },
-  {
     "repo": "jirocab/matchhostingutilities",
     "internalName": "match-hosting-utilities",
     "name": "Match Hosting utilities",
@@ -6690,20 +6676,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Aims hosting matches on the client a bit better! "
-  },
-  {
-    "repo": "firfaronde/no-uri",
-    "internalName": "nouri",
-    "name": "No uri",
-    "version": "1.0",
-    "hidden": true,
-    "author": "firfaronde",
-    "lastUpdated": "2025-08-15T23:44:27Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "disable display of server URIs"
   },
   {
     "repo": "zipcade/extreme-mods",
