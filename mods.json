@@ -272,7 +272,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-02-24T00:49:10Z",
+    "lastUpdated": "2026-02-24T02:44:16Z",
     "stars": 83,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -566,7 +566,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-02-23T19:31:36Z",
+    "lastUpdated": "2026-02-24T03:07:40Z",
     "stars": 38,
     "minGameVersion": "155.2",
     "hasScripts": false,
@@ -644,6 +644,20 @@
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
   },
   {
+    "repo": "itskirby69/minedusty",
+    "internalName": "",
+    "name": "MineDusty",
+    "version": "1.1.31",
+    "hidden": false,
+    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
+    "lastUpdated": "2026-02-20T01:29:10Z",
+    "stars": 32,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
+  },
+  {
     "repo": "haznobrain/erekir-liquefied",
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
@@ -672,20 +686,6 @@
     "description": "Dynamic load custom contents patch account to server"
   },
   {
-    "repo": "itskirby69/minedusty",
-    "internalName": "",
-    "name": "MineDusty",
-    "version": "1.1.31",
-    "hidden": false,
-    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-02-20T01:29:10Z",
-    "stars": 31,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
-  },
-  {
     "repo": "icexuegao/deepspace",
     "internalName": "ice",
     "name": "Deep Space",
@@ -706,7 +706,7 @@
     "version": "Alpha (Build 4)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-02-24T01:16:44Z",
+    "lastUpdated": "2026-02-24T03:31:02Z",
     "stars": 30,
     "minGameVersion": "155.3",
     "hasScripts": false,
@@ -860,7 +860,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-23T05:17:42Z",
+    "lastUpdated": "2026-02-24T04:42:38Z",
     "stars": 26,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -5824,20 +5824,6 @@
     "description": "uhh  wip, now the game looks like had MF's english accent"
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.2.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-02-05T14:52:58Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "mindustrynew/mindustry-randomideas",
     "internalName": "xevanon-mod",
     "name": "Xevanon Mod",
@@ -5948,6 +5934,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nmakes gier playable.\nNot Quite Finished yet.\n\nThis mod is meant to be played as a challange typa thing.\n\n[accent]Has IOS Compat\nGiving a star is greatly appreciated and Thanks for playing.\n[]\n"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.2.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-02-24T02:55:28Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
