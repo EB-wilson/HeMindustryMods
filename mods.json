@@ -146,7 +146,7 @@
     "version": "v0.8",
     "hidden": false,
     "author": "Eschatologue",
-    "lastUpdated": "2026-02-25T06:02:05Z",
+    "lastUpdated": "2026-02-25T11:45:11Z",
     "stars": 124,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -4438,20 +4438,6 @@
     "description": "modifies the campain maps to troll you"
   },
   {
-    "repo": "dusk-flare/industrialis",
-    "internalName": "",
-    "name": "Industrialis",
-    "version": "v1.0",
-    "hidden": false,
-    "author": "Dusk",
-    "lastUpdated": "2025-05-27T03:07:35Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Under Port."
-  },
-  {
     "repo": "siligone69/darkmodetexturepack",
     "internalName": "darkmode-texturepack",
     "name": "Darkmode TexturePack",
@@ -4814,6 +4800,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "该mod还处于测试阶段,非常垃圾"
+  },
+  {
+    "repo": "dusk-flare/industrialis",
+    "internalName": "",
+    "name": "Industrialis",
+    "version": "v1.0",
+    "hidden": false,
+    "author": "Dusk",
+    "lastUpdated": "2026-02-25T12:19:40Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Under Port."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -5726,20 +5726,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "zeefoe/simple-chat-translator",
-    "internalName": "simple-chat-translator",
-    "name": "Simple Chat Translator",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Zeefoe",
-    "lastUpdated": "2025-12-23T04:38:40Z",
-    "stars": 1,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
-  },
-  {
     "repo": "samielxd/zoomplus",
     "internalName": "zoom+",
     "name": "Zoom+",
@@ -5866,20 +5852,6 @@
     "description": "Unfog your fog of war, might be a little bit unfair.\nYes, This works on multiplayer."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.2.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-02-24T02:55:28Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "frilofril/omega",
     "internalName": "omega",
     "name": "Omega",
@@ -5920,6 +5892,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nmakes gier playable.\nNot Quite Finished yet.\n\nThis mod is meant to be played as a challange typa thing.\n\n[accent]Has IOS Compat\nGiving a star is greatly appreciated and Thanks for playing.\n[]\n"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.2.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-02-25T12:19:10Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "zeefoe/simple-chat-translator",
+    "internalName": "simple-chat-translator",
+    "name": "Simple Chat Translator",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Zeefoe",
+    "lastUpdated": "2026-02-25T12:49:05Z",
+    "stars": 1,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
