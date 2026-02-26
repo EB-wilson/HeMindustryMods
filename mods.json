@@ -272,7 +272,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-02-26T03:46:42Z",
+    "lastUpdated": "2026-02-26T21:53:32Z",
     "stars": 83,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -5880,20 +5880,6 @@
     "description": "Add doodle looking tank unit to Mindustry. \n\n[yellow]Dependencies:[]\n - Beta[]Mindy[] (Provides item shop for obtaining the resources[])"
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.2.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-02-25T12:19:10Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "zeefoe/simple-chat-translator",
     "internalName": "simple-chat-translator",
     "name": "Simple Chat Translator",
@@ -5920,6 +5906,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nmakes gier playable.\nNot Quite Finished yet.\n\nThis mod is meant to be played as a challange typa thing.\n\n[accent]Has IOS Compat\nGiving a star is greatly appreciated and Thanks for playing.\n[]\n"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.2.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-02-26T21:54:39Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
