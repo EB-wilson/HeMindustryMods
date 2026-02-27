@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-02-25T09:58:36Z",
-    "stars": 542,
+    "stars": 543,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -91,7 +91,7 @@
     "hidden": true,
     "author": "sk7725",
     "lastUpdated": "2024-07-25T09:11:47Z",
-    "stars": 163,
+    "stars": 164,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -133,7 +133,7 @@
     "hidden": false,
     "author": "Snake",
     "lastUpdated": "2026-02-12T13:58:42Z",
-    "stars": 127,
+    "stars": 128,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -245,7 +245,7 @@
     "hidden": false,
     "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
     "lastUpdated": "2025-11-18T16:58:21Z",
-    "stars": 85,
+    "stars": 86,
     "minGameVersion": "143.1",
     "hasScripts": true,
     "hasJava": false,
@@ -272,7 +272,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-02-27T03:56:34Z",
+    "lastUpdated": "2026-02-27T19:21:42Z",
     "stars": 83,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -692,7 +692,7 @@
     "version": "Alpha (Build 4)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-02-27T07:54:34Z",
+    "lastUpdated": "2026-02-27T19:20:04Z",
     "stars": 30,
     "minGameVersion": "155.3",
     "hasScripts": false,
@@ -770,6 +770,20 @@
     "description": "Add the new sectors on Erekir"
   },
   {
+    "repo": "deercarbonate/azimut",
+    "internalName": "azimut",
+    "name": "Azimut",
+    "version": "0.32",
+    "hidden": false,
+    "author": "DeerCarbonate",
+    "lastUpdated": "2026-02-27T07:24:25Z",
+    "stars": 27,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
+  },
+  {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
     "internalName": "",
     "name": "Welcome to the Frostscape",
@@ -838,20 +852,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Some content for people to enjoy :>"
-  },
-  {
-    "repo": "deercarbonate/azimut",
-    "internalName": "azimut",
-    "name": "Azimut",
-    "version": "0.32",
-    "hidden": false,
-    "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-27T07:24:25Z",
-    "stars": 26,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
   },
   {
     "repo": "ballgamer56/vanillaextended",
@@ -2184,6 +2184,20 @@
     "description": "Explore a new planet, Keslomin, research new technology and master exotic forms of energy."
   },
   {
+    "repo": "laohuajiofficial/unitarsenal",
+    "internalName": "unit-arsenal",
+    "name": "Unit Arsenal",
+    "version": "1.02",
+    "hidden": true,
+    "author": "LaoHuaJi",
+    "lastUpdated": "2025-04-24T12:24:30Z",
+    "stars": 7,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod which allow customize player's unit via using existing contents."
+  },
+  {
     "repo": "slava0135/seadustry",
     "internalName": "seadustry",
     "name": "Seadustry",
@@ -2476,20 +2490,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Первый мой мод в котором вы с помощю межпланетного ускорителя попадаете на планету Селестис.Вы должным отомстить красным и захватить их планету.Вас будут ждать новые руды,враги,механики и ЛОООООР.Сложность мода высокая так что запасайтесь нервами"
-  },
-  {
-    "repo": "laohuajiofficial/unitarsenal",
-    "internalName": "unit-arsenal",
-    "name": "Unit Arsenal",
-    "version": "1.02",
-    "hidden": true,
-    "author": "LaoHuaJi",
-    "lastUpdated": "2025-04-24T12:24:30Z",
-    "stars": 6,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod which allow customize player's unit via using existing contents."
   },
   {
     "repo": "sova444/compressing-mod",
@@ -2898,6 +2898,20 @@
     "description": "Added some useful map filters. \nAdded a powerful custom guide tool and advanced wave editor to map editor."
   },
   {
+    "repo": "lefalcon352/frozen-farlands-resprite",
+    "internalName": "moon mod",
+    "name": "Frozen Farlands Resprite",
+    "version": "1.3",
+    "hidden": false,
+    "author": "original creators: [#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]\nresprites by: [yellow]LeFalcon[white]",
+    "lastUpdated": "2025-08-19T19:08:27Z",
+    "stars": 5,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "frozen farlands mod except almost all of its textures are different\n\npls star twin\n\nfrozen farlands description:\n\n[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
+  },
+  {
     "repo": "jirocab/caster-ui-java",
     "internalName": "caster-ui-java",
     "name": "Caster User interface",
@@ -3288,20 +3302,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "этот мод добавит в игру новую планету и куча контента"
-  },
-  {
-    "repo": "lefalcon352/frozen-farlands-resprite",
-    "internalName": "moon mod",
-    "name": "Frozen Farlands Resprite",
-    "version": "1.3",
-    "hidden": false,
-    "author": "original creators: [#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]\nresprites by: [yellow]LeFalcon[white]",
-    "lastUpdated": "2025-08-19T19:08:27Z",
-    "stars": 4,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "frozen farlands mod except almost all of its textures are different\n\npls star twin\n\nfrozen farlands description:\n\n[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
     "repo": "grandendeavor100/stellar-interstice",
@@ -3960,6 +3960,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v1",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-02-27T16:07:40Z",
+    "stars": 3,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nmakes gier playable.\nNot Quite Finished yet.\n\nThis mod is meant to be played as a challange typa thing.\n\n[accent]Has IOS Compat\nGiving a star is greatly appreciated and Thanks for playing.\n[]\n"
   },
   {
     "repo": "no9527dada/creatorsdownloadjs",
@@ -4814,20 +4828,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v1",
-    "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-02-27T16:07:40Z",
-    "stars": 2,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nmakes gier playable.\nNot Quite Finished yet.\n\nThis mod is meant to be played as a challange typa thing.\n\n[accent]Has IOS Compat\nGiving a star is greatly appreciated and Thanks for playing.\n[]\n"
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
