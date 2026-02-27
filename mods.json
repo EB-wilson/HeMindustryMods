@@ -692,7 +692,7 @@
     "version": "Alpha (Build 4)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-02-26T16:28:38Z",
+    "lastUpdated": "2026-02-27T01:23:00Z",
     "stars": 30,
     "minGameVersion": "155.3",
     "hasScripts": false,
@@ -1958,20 +1958,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "STAR my mod, pls. Adds a new vanilla unit in vanilla unit factory!\n  **Languages:\n    1.Russian\n    1.English**\n"
-  },
-  {
-    "repo": "koctz34/factor",
-    "internalName": "factor",
-    "name": "Factor",
-    "version": "0.0.3Alpha",
-    "hidden": false,
-    "author": "MISTICA",
-    "lastUpdated": "2024-07-05T06:43:37Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "THE MAIN PLANET Nauvis IS STILL UNDER DEVELOPMENT, IT IS EXTREMELY NOT RECOMMENDED TO PLAY ON IT.\n\nFactorio in mindustry!\n\nIn this mod, almost all the content from the Factorio game will be transferred. You have to build a big factory... and launch a rocket! The mod is not in very active development, support is needed for the development of the mod.\n\nFor an atmospheric game, it is recommended to download factroundustry. Good luck with building the factory!"
   },
   {
     "repo": "p101q/snowdustry",
@@ -5894,20 +5880,6 @@
     "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v1",
-    "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-02-26T14:35:25Z",
-    "stars": 1,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nmakes gier playable.\nNot Quite Finished yet.\n\nThis mod is meant to be played as a challange typa thing.\n\n[accent]Has IOS Compat\nGiving a star is greatly appreciated and Thanks for playing.\n[]\n"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -5920,6 +5892,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v1",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-02-27T00:20:53Z",
+    "stars": 1,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nmakes gier playable.\nNot Quite Finished yet.\n\nThis mod is meant to be played as a challange typa thing.\n\n[accent]Has IOS Compat\nGiving a star is greatly appreciated and Thanks for playing.\n[]\n"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -7068,5 +7054,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Time factor of Mindustry"
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "一瓶圣水",
+    "lastUpdated": "2026-02-27T01:45:09Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "三角模组2.x半成品"
   }
 ]
