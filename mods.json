@@ -328,7 +328,7 @@
     "version": "3.0",
     "hidden": true,
     "author": "EBwilson",
-    "lastUpdated": "2026-02-26T18:01:39Z",
+    "lastUpdated": "2026-02-27T16:09:47Z",
     "stars": 61,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -5894,20 +5894,6 @@
     "description": "Add doodle looking tank unit to Mindustry. \n\n[yellow]Dependencies:[]\n - Beta[]Mindy[] (Provides item shop for obtaining the resources[])"
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v1",
-    "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-02-27T11:18:12Z",
-    "stars": 1,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nmakes gier playable.\nNot Quite Finished yet.\n\nThis mod is meant to be played as a challange typa thing.\n\n[accent]Has IOS Compat\nGiving a star is greatly appreciated and Thanks for playing.\n[]\n"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -5920,6 +5906,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v1",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-02-27T16:07:40Z",
+    "stars": 1,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nmakes gier playable.\nNot Quite Finished yet.\n\nThis mod is meant to be played as a challange typa thing.\n\n[accent]Has IOS Compat\nGiving a star is greatly appreciated and Thanks for playing.\n[]\n"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
