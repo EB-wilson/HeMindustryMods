@@ -175,7 +175,7 @@
     "hidden": false,
     "author": "RAdea.exe",
     "lastUpdated": "2025-12-24T07:17:07Z",
-    "stars": 120,
+    "stars": 121,
     "minGameVersion": "150",
     "hasScripts": false,
     "hasJava": true,
@@ -203,7 +203,7 @@
     "hidden": true,
     "author": "BlackDeluxeCat",
     "lastUpdated": "2026-02-22T15:22:43Z",
-    "stars": 99,
+    "stars": 100,
     "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
@@ -272,7 +272,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-02-26T21:53:32Z",
+    "lastUpdated": "2026-02-27T03:56:34Z",
     "stars": 83,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -846,7 +846,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-26T09:46:58Z",
+    "lastUpdated": "2026-02-27T05:13:55Z",
     "stars": 26,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1540,6 +1540,20 @@
     "description": "A mod that adds a new planet, where we will play in underground"
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.7.9",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-02-24T13:51:55Z",
+    "stars": 11,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
     "repo": "pointifix/autotranslate",
     "internalName": "auto-translate",
     "name": "AutoTranslate",
@@ -1764,20 +1778,6 @@
     "description": "Additional functionality"
   },
   {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.7.9",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-02-24T13:51:55Z",
-    "stars": 10,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
     "repo": "hao-1337/mindustry-better-vanilla",
     "internalName": "hao1337-mod",
     "name": "[ Better Vanilla ]",
@@ -1958,6 +1958,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "STAR my mod, pls. Adds a new vanilla unit in vanilla unit factory!\n  **Languages:\n    1.Russian\n    1.English**\n"
+  },
+  {
+    "repo": "koctz34/factor",
+    "internalName": "factor",
+    "name": "Factor",
+    "version": "0.0.3Alpha",
+    "hidden": false,
+    "author": "MISTICA",
+    "lastUpdated": "2024-07-05T06:43:37Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "THE MAIN PLANET Nauvis IS STILL UNDER DEVELOPMENT, IT IS EXTREMELY NOT RECOMMENDED TO PLAY ON IT.\n\nFactorio in mindustry!\n\nIn this mod, almost all the content from the Factorio game will be transferred. You have to build a big factory... and launch a rocket! The mod is not in very active development, support is needed for the development of the mod.\n\nFor an atmospheric game, it is recommended to download factroundustry. Good luck with building the factory!"
   },
   {
     "repo": "p101q/snowdustry",
@@ -4746,20 +4760,6 @@
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
   },
   {
-    "repo": "123456906/azure",
-    "internalName": "azure",
-    "name": "Azure",
-    "version": "2",
-    "hidden": false,
-    "author": "一只因德二",
-    "lastUpdated": "2026-02-25T00:53:44Z",
-    "stars": 2,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "该mod还处于测试阶段,非常垃圾"
-  },
-  {
     "repo": "dusk-flare/industrialis",
     "internalName": "",
     "name": "Industrialis",
@@ -4800,6 +4800,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "123456906/azure",
+    "internalName": "azure",
+    "name": "Azure",
+    "version": "2.2",
+    "hidden": false,
+    "author": "一只因德二",
+    "lastUpdated": "2026-02-27T05:12:41Z",
+    "stars": 2,
+    "minGameVersion": "150",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "该mod还处于测试阶段,非常垃圾"
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -5900,7 +5914,7 @@
     "version": "v1",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-02-27T00:20:53Z",
+    "lastUpdated": "2026-02-27T03:13:46Z",
     "stars": 1,
     "minGameVersion": "155",
     "hasScripts": true,
