@@ -203,7 +203,7 @@
     "hidden": true,
     "author": "BlackDeluxeCat",
     "lastUpdated": "2026-03-01T09:47:17Z",
-    "stars": 100,
+    "stars": 101,
     "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
@@ -328,7 +328,7 @@
     "version": "3.0",
     "hidden": true,
     "author": "EBwilson",
-    "lastUpdated": "2026-03-01T08:48:35Z",
+    "lastUpdated": "2026-03-01T11:36:21Z",
     "stars": 61,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -658,6 +658,20 @@
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "DeepSpace",
+    "version": "Alpha-3354",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-03-01T11:03:42Z",
+    "stars": 32,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "半成品模组,目的是为mdt添加更多的内容"
+  },
+  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -670,20 +684,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dynamic load custom contents patch account to server"
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "DeepSpace",
-    "version": "Alpha-3354",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-03-01T10:19:18Z",
-    "stars": 31,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
     "repo": "nullotte/carpe-diem",
@@ -2100,6 +2100,20 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
+    "repo": "m1cxzfw3q/endfield_industry",
+    "internalName": "endfield-industry",
+    "name": "Endfield Industry",
+    "version": "0.1",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-02-25T06:14:59Z",
+    "stars": 8,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n神秘mod\n贴图抠得依托势，但胜在能看（）\n"
+  },
+  {
     "repo": "reborntrack970/infinicampaign",
     "internalName": "inficamp",
     "name": "InfiniCampaign",
@@ -2392,20 +2406,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
-  },
-  {
-    "repo": "m1cxzfw3q/endfield_industry",
-    "internalName": "endfield-industry",
-    "name": "Endfield Industry",
-    "version": "0.1",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-02-25T06:14:59Z",
-    "stars": 7,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n神秘mod\n贴图抠得依托势，但胜在能看（）\n"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -2926,20 +2926,6 @@
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
-    "repo": "koctz34/minduntm",
-    "internalName": "ntm",
-    "name": "NTM - Nuclear tech mod",
-    "version": "3.2",
-    "hidden": false,
-    "author": "Ion - 7274",
-    "lastUpdated": "2025-12-25T14:13:34Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Hbm's NTM (by Bobcat) in mindustry!\nMinecraft, Satisfactory, Rust, and other...\n\nOnly decor blocks\n\nDisable linear filtering in settings!"
-  },
-  {
     "repo": "meepoffaith/extra-sand-redux",
     "internalName": "",
     "name": "Extra Sand in the Sandbox - Redux",
@@ -2982,13 +2968,27 @@
     "description": "\r\nThis is a [unlaunched]personal[white] Serpulo campaign rework map pack , alongside with personal [sky]minor rebalancing[white] on certain blocks or units.\r\n\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed , a harder version of it will be planned soon in another planet.\r\n\r\nThis mod contains [sky]20+[white] levels from the very basic to completed tech tree contents , notice the tech tree nodes are [unlaunched]rearranged[white] for each level to unlock.\r\n\r\nAll maps in this mod(map pack) follow [accent]CC BY-SA 4.0 License[white] (All works are free to use but you must keep the original author, me , sunkenmelody's name).\r\n\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n\r\n\r\n[#c5cbff]Have fun[white].\r\nUpdate log: V0.1--Initial 20 sectors (From 1-1 to 2-10) added.\r\n\r\n\r\nMod by [#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nLocalization(zh_CN):仄井心升\r\n"
   },
   {
+    "repo": "koctz34/minduntm",
+    "internalName": "ntm",
+    "name": "NTM - Nuclear tech mod",
+    "version": "3.3",
+    "hidden": false,
+    "author": "Ion - 7274",
+    "lastUpdated": "2026-03-01T10:33:24Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Hbm's NTM (by Bobcat) in mindustry!\nMinecraft, Satisfactory, Rust, and other...\n\nOnly decor blocks\n\nDisable linear filtering in settings!"
+  },
+  {
     "repo": "laomoze/warhammer",
     "internalName": "wh",
     "name": "WarHammer",
     "version": "beta.0.2",
     "hidden": false,
     "author": "牢陌泽",
-    "lastUpdated": "2026-03-01T03:06:25Z",
+    "lastUpdated": "2026-03-01T12:40:36Z",
     "stars": 5,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -3968,7 +3968,7 @@
     "version": "v1",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-03-01T08:03:18Z",
+    "lastUpdated": "2026-03-01T12:49:59Z",
     "stars": 3,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -5942,7 +5942,7 @@
     "version": "0.3",
     "hidden": true,
     "author": "UnknownObjectV2",
-    "lastUpdated": "2026-03-01T10:20:29Z",
+    "lastUpdated": "2026-03-01T10:27:04Z",
     "stars": 1,
     "minGameVersion": "141",
     "hasScripts": false,
