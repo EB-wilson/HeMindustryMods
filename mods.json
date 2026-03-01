@@ -552,7 +552,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-03-01T03:33:21Z",
+    "lastUpdated": "2026-03-01T05:33:01Z",
     "stars": 38,
     "minGameVersion": "155.2",
     "hasScripts": false,
@@ -609,7 +609,7 @@
     "hidden": true,
     "author": "I hope...",
     "lastUpdated": "2026-03-01T03:39:02Z",
-    "stars": 34,
+    "stars": 35,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -1204,6 +1204,20 @@
     "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
   },
   {
+    "repo": "430230562/vanilla-neoplasm-extend",
+    "internalName": "vne",
+    "name": "Vanilla Neoplasm Extend",
+    "version": "0.22",
+    "hidden": false,
+    "author": "pardon",
+    "lastUpdated": "2026-02-21T14:14:28Z",
+    "stars": 16,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Do you think the original neoplasm solution, burned in a slag pool, is a too singular; Such biologically active materials should have other uses: as ammunition, synthesizing new materials, and even building their own biological armies... Please unleash your imagination to the fullest \n\n You can't wait any longer? Let's embark on this bloody journey"
+  },
+  {
     "repo": "yuria-shikibe/gameinfoimager",
     "internalName": "game-info-imager",
     "name": "Game Info Imager",
@@ -1286,20 +1300,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod for rendering black holes."
-  },
-  {
-    "repo": "430230562/vanilla-neoplasm-extend",
-    "internalName": "vne",
-    "name": "Vanilla Neoplasm Extend",
-    "version": "0.22",
-    "hidden": false,
-    "author": "pardon",
-    "lastUpdated": "2026-02-21T14:14:28Z",
-    "stars": 15,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Do you think the original neoplasm solution, burned in a slag pool, is a too singular; Such biologically active materials should have other uses: as ammunition, synthesizing new materials, and even building their own biological armies... Please unleash your imagination to the fullest \n\n You can't wait any longer? Let's embark on this bloody journey"
   },
   {
     "repo": "reversteams/etigei-exile",
@@ -5894,20 +5894,6 @@
     "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
   },
   {
-    "repo": "dirga36/doodle-tank-m",
-    "internalName": "dt",
-    "name": "Doodle Tank",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Dirge",
-    "lastUpdated": "2026-02-27T08:58:29Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add doodle looking tank unit to Mindustry. \n\n[yellow]Dependencies:[]\n - Beta[]Mindy[] (Provides item shop for obtaining the resources[])"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -5920,6 +5906,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "dirga36/doodle-tank-m",
+    "internalName": "dt",
+    "name": "Doodle Tank",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Dirge",
+    "lastUpdated": "2026-03-01T06:20:50Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add doodle looking tank unit to Mindustry. \n\n[yellow]Dependencies:[]\n - Beta[]Mindy[] (Provides item shop for obtaining the resources[])"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
