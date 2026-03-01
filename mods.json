@@ -552,7 +552,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-03-01T05:33:01Z",
+    "lastUpdated": "2026-03-01T07:04:39Z",
     "stars": 38,
     "minGameVersion": "155.2",
     "hasScripts": false,
@@ -3968,7 +3968,7 @@
     "version": "v1",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-03-01T03:12:05Z",
+    "lastUpdated": "2026-03-01T08:03:18Z",
     "stars": 3,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -4648,20 +4648,6 @@
     "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   },
   {
-    "repo": "r99space99yt/apolotus",
-    "internalName": "apolotus",
-    "name": "Apolotus",
-    "version": "2",
-    "hidden": false,
-    "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:MicroProcessor)",
-    "lastUpdated": "2026-01-29T14:51:08Z",
-    "stars": 2,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "If you like the mod, please star on github!\nCAMPAIGN ONLY 2 SECTOR DONE(massSpread and LandZone)\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
-  },
-  {
     "repo": "useroreo/sb-technology",
     "internalName": "sb科技",
     "name": "SB科技",
@@ -4828,6 +4814,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
+  },
+  {
+    "repo": "r99space99yt/apolotus",
+    "internalName": "apolotus",
+    "name": "Apolotus",
+    "version": "2",
+    "hidden": false,
+    "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:MicroProcessor)",
+    "lastUpdated": "2026-03-01T07:55:55Z",
+    "stars": 2,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "If you like the mod, please star on github!\nCAMPAIGN ONLY 2 SECTOR DONE(massSpread and LandZone)\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -5920,6 +5920,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add doodle looking tank unit to Mindustry. \n\n[yellow]Dependencies:[]\n - Beta[]Mindy[] (Provides item shop for obtaining the resources[])"
+  },
+  {
+    "repo": "koctz34/browser-windows",
+    "internalName": "browser-windows",
+    "name": "Browser Windows (MinduCEF)",
+    "version": "1.0",
+    "hidden": "true",
+    "author": "Ion - 7274",
+    "lastUpdated": "2026-03-01T08:01:32Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\nWarning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\nAlthough the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\nThe mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\nThe mod does not work on Linux and MacOS."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
