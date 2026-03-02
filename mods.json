@@ -3962,6 +3962,20 @@
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
+    "repo": "koctz34/browser-windows",
+    "internalName": "browser-windows",
+    "name": "Browser Windows (MinduCEF)",
+    "version": "1.0",
+    "hidden": "true",
+    "author": "Ion - 7274",
+    "lastUpdated": "2026-03-01T19:17:25Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
+  },
+  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
@@ -4828,20 +4842,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "If you like the mod, please star on github!\nCAMPAIGN ONLY 2 SECTOR DONE(massSpread and LandZone)\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
-  },
-  {
-    "repo": "koctz34/browser-windows",
-    "internalName": "browser-windows",
-    "name": "Browser Windows (MinduCEF)",
-    "version": "1.0",
-    "hidden": "true",
-    "author": "Ion - 7274",
-    "lastUpdated": "2026-03-01T19:17:25Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
