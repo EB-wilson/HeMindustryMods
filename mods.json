@@ -132,7 +132,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-02-27T12:18:59Z",
+    "lastUpdated": "2026-03-03T22:26:57Z",
     "stars": 129,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -272,7 +272,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-03-03T19:20:24Z",
+    "lastUpdated": "2026-03-03T21:01:34Z",
     "stars": 83,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -5038,6 +5038,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "a vanilla extension bringing new itmes, blocks, factories and etc"
+  },
+  {
+    "repo": "piggychu620/mindustrymineablealloys",
+    "internalName": "ma620",
+    "name": "Mineable Alloys v1.0",
+    "version": "1.0",
+    "hidden": false,
+    "author": "PiggyChu620",
+    "lastUpdated": "2024-01-26T19:32:33Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Make all alloys/intermetallic directly mineable, currently only works on Serpulo and editor"
   },
   {
     "repo": "leyn-pl/coreunitregen",
