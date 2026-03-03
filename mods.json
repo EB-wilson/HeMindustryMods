@@ -776,7 +776,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-03T04:12:47Z",
+    "lastUpdated": "2026-03-03T06:26:03Z",
     "stars": 27,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1204,6 +1204,20 @@
     "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
   },
   {
+    "repo": "meepoffaith/black-holes-library",
+    "internalName": "black-hole-renderer",
+    "name": "Black Holes Library",
+    "version": "18",
+    "hidden": true,
+    "author": "MEEPofFaith",
+    "lastUpdated": "2026-02-14T01:32:54Z",
+    "stars": 16,
+    "minGameVersion": "155.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod for rendering black holes."
+  },
+  {
     "repo": "430230562/vanilla-neoplasm-extend",
     "internalName": "vne",
     "name": "Vanilla Neoplasm Extend",
@@ -1286,20 +1300,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
-  },
-  {
-    "repo": "meepoffaith/black-holes-library",
-    "internalName": "black-hole-renderer",
-    "name": "Black Holes Library",
-    "version": "18",
-    "hidden": true,
-    "author": "MEEPofFaith",
-    "lastUpdated": "2026-02-14T01:32:54Z",
-    "stars": 15,
-    "minGameVersion": "155.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library mod for rendering black holes."
   },
   {
     "repo": "reversteams/etigei-exile",
@@ -3976,32 +3976,32 @@
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
-    "repo": "r99space99yt/apolotus",
-    "internalName": "apolotus",
-    "name": "Apolotus",
-    "version": "3",
-    "hidden": false,
-    "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:microprocessordustry)",
-    "lastUpdated": "2026-03-03T05:05:52Z",
-    "stars": 3,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My 2nd mod!\nCAMPAIGN ONLY 3 SECTOR DONE(Flooded wasteland, massSpread, LandZone)\nthe mod add a new planet, it seem... spreading and growing?\n\nThe Organization Have sent 7(?) ships and your mission is find them all.\n(you are the 8th)"
-  },
-  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "version": "v1",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-03-03T05:13:42Z",
+    "lastUpdated": "2026-03-03T05:27:14Z",
     "stars": 3,
     "minGameVersion": "155",
     "hasScripts": true,
     "hasJava": false,
     "description": "\nmakes gier playable.\nNot Quite Finished yet.\n\nThis mod is meant to be played as a challange typa thing.\n\n[accent]Has IOS Compat\nGiving a star is greatly appreciated and Thanks for playing.\n[]\n"
+  },
+  {
+    "repo": "r99space99yt/apolotus",
+    "internalName": "apolotus",
+    "name": "Apolotus",
+    "version": "3.1",
+    "hidden": false,
+    "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:microprocessordustry)",
+    "lastUpdated": "2026-03-03T05:52:08Z",
+    "stars": 3,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My 2nd mod!\nCAMPAIGN ONLY 3 SECTOR DONE(Flooded wasteland, massSpread, LandZone)\nthe mod add a new planet, it seem... spreading and growing?\n\nThe Organization Have sent 7(?) ships and your mission is find them all.\n(you are the 8th)"
   },
   {
     "repo": "no9527dada/creatorsdownloadjs",
