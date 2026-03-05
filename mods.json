@@ -62,7 +62,7 @@
     "version": "v4.45.1-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-03-05T10:31:26Z",
+    "lastUpdated": "2026-03-05T12:46:29Z",
     "stars": 193,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2380,20 +2380,6 @@
     "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
   },
   {
-    "repo": "sunkenmelody/rospule",
-    "internalName": "rospule",
-    "name": "「Rospule」",
-    "version": "v0.1",
-    "hidden": false,
-    "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
-    "lastUpdated": "2026-02-23T16:42:04Z",
-    "stars": 7,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\r\nThis is a [unlaunched]personal[white] Serpulo campaign rework map pack , alongside with personal [sky]minor rebalancing[white] on certain blocks or units.\r\n\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed , a harder version of it will be planned soon in another planet.\r\n\r\nThis mod contains [sky]20+[white] levels from the very basic to completed tech tree contents , notice the tech tree nodes are [unlaunched]rearranged[white] for each level to unlock.\r\n\r\nAll maps in this mod(map pack) follow [accent]CC BY-SA 4.0 License[white] (All works are free to use but you must keep the original author, me , sunkenmelody's name).\r\n\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n\r\n\r\n[#c5cbff]Have fun[white].\r\nUpdate log: V0.1--Initial 20 sectors (From 1-1 to 2-10) added.\r\n\r\n\r\nMod by [#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nLocalization(zh_CN):仄井心升\r\n"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2414,12 +2400,26 @@
     "version": "7.1.4",
     "hidden": true,
     "author": "Kevin Vilyan",
-    "lastUpdated": "2026-03-05T10:28:26Z",
+    "lastUpdated": "2026-03-05T10:47:51Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
+  },
+  {
+    "repo": "sunkenmelody/rospule",
+    "internalName": "rospule",
+    "name": "「Rospule」",
+    "version": "v0.2",
+    "hidden": false,
+    "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
+    "lastUpdated": "2026-03-05T12:13:56Z",
+    "stars": 7,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\r\nThis is a [unlaunched]personal[white] Serpulo campaign rework map pack , alongside with personal [sky]minor rebalancing[white] on certain blocks or units.\r\n\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed , a harder version of it will be planned soon in another planet.\r\n\r\nThis mod contains [sky]20+[white] levels from the very basic to completed tech tree contents , notice the tech tree nodes are [unlaunched]rearranged[white] for each level to unlock.\r\n\r\nAll maps in this mod(map pack) follow [accent]CC BY-SA 4.0 License[white] (All works are free to use but you must keep the original author, me , sunkenmelody's name).\r\n\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n\r\n\r\n[#c5cbff]Have fun[white].\r\nUpdate log: V0.2-- Chapter 3(From 3-1 to 3-10) added.\r\n\r\n\r\nMod by [#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nLocalization(zh_CN):仄井心升\r\n"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -3962,20 +3962,6 @@
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v1",
-    "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-03-05T05:48:27Z",
-    "stars": 3,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nmakes gier playable.\nNot Quite Finished yet.\n\nThis mod is meant to be played as a challange typa thing.\n\n[accent]Has IOS Compat\nGiving a star is greatly appreciated and Thanks for playing.\n[]\n"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -3996,12 +3982,26 @@
     "version": "3.1",
     "hidden": false,
     "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:microprocessordustry)",
-    "lastUpdated": "2026-03-05T10:36:09Z",
+    "lastUpdated": "2026-03-05T10:45:04Z",
     "stars": 3,
     "minGameVersion": "154.2",
     "hasScripts": false,
     "hasJava": false,
     "description": "My 2nd mod!\nCAMPAIGN ONLY 3 SECTOR DONE(Flooded wasteland, massSpread, LandZone)\nthe mod add a new planet, it seem... spreading and growing?\n\nThe Organization Have sent 7(?) ships and your mission is find them all.\n(you are the 8th)"
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v1",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-03-05T12:00:27Z",
+    "stars": 3,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nmakes gier playable.\nNot Quite Finished yet.\n\nThis mod is meant to be played as a challange typa thing.\n\n[accent]Has IOS Compat\nGiving a star is greatly appreciated and Thanks for playing.\n[]\n"
   },
   {
     "repo": "no9527dada/creatorsdownloadjs",
