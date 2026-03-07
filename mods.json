@@ -118,8 +118,8 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-03-06T22:00:43Z",
-    "stars": 130,
+    "lastUpdated": "2026-03-06T22:42:20Z",
+    "stars": 131,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -1798,7 +1798,7 @@
     "version": "1.0.0",
     "hidden": true,
     "author": "Hao1337",
-    "lastUpdated": "2026-03-06T19:46:41Z",
+    "lastUpdated": "2026-03-07T01:33:23Z",
     "stars": 10,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -7110,5 +7110,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds more logic instructions.\n一个添加了更多逻辑指令的模组"
+  },
+  {
+    "repo": "p-enya/celeste-music-pack",
+    "internalName": "celeste-music-pack",
+    "name": "Celeste music pack",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "[#6600ff]P.[#ff0066]E.[white]",
+    "lastUpdated": "2026-03-07T01:25:06Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds music from [#96EFFF]Celeste[white].\nWarning: it can get loud!!\n\n\n\nboss1 - Resurrection[#646464] - music_oldsite_chase[white]\n\nboss2 - In the Mirror[#646464] - music_temple_middle[white]\n\neditor - wavedash.ppt[#646464] - music_farewell_golden_room[white]\n\nfine - Madeline and Theo[#646464] - music_reflection_maddietheo[white]\n\ngame1 - Fear of the Unknown[#646464] - music_farewell_part01[white]\n\ngame2 - Jou of Remembrance[#646464] - music_farewell_part02[white]\n\ngame3 - In Stasis[#646464] - music_farewell_intermission_heartgroove[white]\n\ngame4 - Beyond the Heart[#646464] - music_farewell_intermission_heartgroove[white]\n\ngame5 - Farewell[#646464] - music_farewell_final_run[white]\n\ngame6 - Quiet and Falling[#646464] - music_temple_normal[white]\n\ngame7 - Old Site (Black Moonrise Mix)[#646464] - music_rmx_02_old_site[white]\n\ngame8 - Summit (No More Running Mix)[#646464] - music_rmx_07_summit[white]\n\ngame9 - The Core (Say Goodbye Mix)[#646464] - music_rmx_09_core[white]\n\nland - Crash[#646464] - music_farewell_firstbirdcrash_cinematic[white]\n\nlaunch - The Empty Space Above[#646464] - ?[white]\n\nmenu - Postcard from Celeste Mountain[#646464] - music_levelselect[white]"
   }
 ]
