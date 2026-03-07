@@ -692,7 +692,7 @@
     "version": "Beta (Build 7)",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-03-06T11:21:44Z",
+    "lastUpdated": "2026-03-07T04:26:07Z",
     "stars": 30,
     "minGameVersion": "155.3",
     "hasScripts": false,
@@ -986,7 +986,7 @@
     "version": "1.7.9",
     "hidden": false,
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2026-03-02T11:13:59Z",
+    "lastUpdated": "2026-03-07T04:15:45Z",
     "stars": 21,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3506,7 +3506,7 @@
     "version": "v1",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-03-06T08:28:33Z",
+    "lastUpdated": "2026-03-07T05:29:47Z",
     "stars": 4,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -4822,7 +4822,7 @@
     "version": "0.0.2pA",
     "hidden": false,
     "author": "[sky]114514[white]",
-    "lastUpdated": "2026-03-07T02:25:41Z",
+    "lastUpdated": "2026-03-07T05:49:51Z",
     "stars": 2,
     "minGameVersion": "151.1",
     "hasScripts": false,
@@ -5514,20 +5514,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "JSON-javaScript compliation of several mods that are unplayable. \n\nThe contents as they were, no balancing adjustments, no respriting unless prompted. All sprites belong to respective owners"
-  },
-  {
-    "repo": "ovulam5480/media2logic",
-    "internalName": "mod",
-    "name": "Media2Logic",
-    "version": "0.2.2",
-    "hidden": true,
-    "author": "Ovulam5480",
-    "lastUpdated": "2025-07-04T14:08:31Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "图片转逻辑模组, 图片只支持png格式 \n蓝图生成完成后请及时重启游戏, 释放内存"
   },
   {
     "repo": "dong-wo-long/fear1-ost",
@@ -7098,20 +7084,6 @@
     "description": "三角模组2.x半成品"
   },
   {
-    "repo": "meesst/mindustry-multiunitbindmod",
-    "internalName": "logic-extend-mod",
-    "name": "LogicExtendMod - 逻辑指令扩展",
-    "version": "1.0.3",
-    "hidden": false,
-    "author": "meesst",
-    "lastUpdated": "2026-03-05T08:18:16Z",
-    "stars": 0,
-    "minGameVersion": "154.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds more logic instructions.\n一个添加了更多逻辑指令的模组"
-  },
-  {
     "repo": "p-enya/celeste-music-pack",
     "internalName": "celeste-music-pack",
     "name": "Celeste music pack",
@@ -7124,5 +7096,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds music from [#96EFFF]Celeste[white].\nWarning: it can get loud!!\n\n\n\nboss1 - Resurrection[#646464] - music_oldsite_chase[white]\n\nboss2 - In the Mirror[#646464] - music_temple_middle[white]\n\neditor - wavedash.ppt[#646464] - music_farewell_golden_room[white]\n\nfine - Madeline and Theo[#646464] - music_reflection_maddietheo[white]\n\ngame1 - Fear of the Unknown[#646464] - music_farewell_part01[white]\n\ngame2 - Jou of Remembrance[#646464] - music_farewell_part02[white]\n\ngame3 - In Stasis[#646464] - music_farewell_intermission_heartgroove[white]\n\ngame4 - Beyond the Heart[#646464] - music_farewell_intermission_heartgroove[white]\n\ngame5 - Farewell[#646464] - music_farewell_final_run[white]\n\ngame6 - Quiet and Falling[#646464] - music_temple_normal[white]\n\ngame7 - Old Site (Black Moonrise Mix)[#646464] - music_rmx_02_old_site[white]\n\ngame8 - Summit (No More Running Mix)[#646464] - music_rmx_07_summit[white]\n\ngame9 - The Core (Say Goodbye Mix)[#646464] - music_rmx_09_core[white]\n\nland - Crash[#646464] - music_farewell_firstbirdcrash_cinematic[white]\n\nlaunch - The Empty Space Above[#646464] - ?[white]\n\nmenu - Postcard from Celeste Mountain[#646464] - music_levelselect[white]"
+  },
+  {
+    "repo": "meesst/mindustry-multiunitbindmod",
+    "internalName": "logic-extend-mod",
+    "name": "LogicExtendMod - 逻辑指令扩展",
+    "version": "1.0.3",
+    "hidden": false,
+    "author": "meesst",
+    "lastUpdated": "2026-03-07T06:04:04Z",
+    "stars": 0,
+    "minGameVersion": "154.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds more logic instructions.\n一个添加了更多逻辑指令的模组"
   }
 ]
