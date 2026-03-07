@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-03-07T16:15:56Z",
+    "lastUpdated": "2026-03-07T18:08:03Z",
     "stars": 131,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1456,20 +1456,6 @@
     "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
   },
   {
-    "repo": "blackdeluxecat/shadowshader",
-    "internalName": "shadowshader",
-    "name": "Shadow Shader",
-    "version": "1.2",
-    "hidden": true,
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2024-02-19T03:21:11Z",
-    "stars": 12,
-    "minGameVersion": "144.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
-  },
-  {
     "repo": "bloody-ocean/bloodyvisual",
     "internalName": "vu",
     "name": "Visual Units",
@@ -1599,15 +1585,15 @@
     "repo": "rednzba990/warboundindustriesmod",
     "internalName": "wi",
     "name": "Warbound Industries",
-    "version": "1.8",
+    "version": "1.9",
     "hidden": false,
-    "author": "Rednz990",
-    "lastUpdated": "2026-03-07T16:25:04Z",
+    "author": "Rednz990 [ DC: @red.id9990 ]",
+    "lastUpdated": "2026-03-07T17:14:57Z",
     "stars": 11,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": false,
-    "description": "[#B2002A]The war is Infinite![#FFFFFF]\n\n-Adding [#FFAA00]Functional building[#FFFFFF].\n-Adding new units include [#FF00FF]Tanks[#FFFFFF], [#FF5A00]Helicopters[#FFFFFF], and [#00FF00]Support Units[#FFFFFF].\nAdding a new [#FFB200]Technology[#FFFFFF] in game!\n( [#FF00FF]SERPULO ONLY[#FFFFFF] )\n\n\nI [#FF0000]indo[#FFFFFF]nesian people btw :)\n\nFound a bug? tag me on Discord ( @red.id9990 )"
+    "description": "[#AEAEAE]A mod that focuses on improving the infrastructure industry which is useful in campaign mode.\n\nAdding more crafters, distribution blocks, drills, items, and new units(include combat units, and support units) to support your gameplay!\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!"
   },
   {
     "repo": "pointifix/autotranslate",
@@ -4788,20 +4774,6 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.3",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-03-04T12:53:49Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "m-e-l-i-s/silviriumjava",
     "internalName": "sli",
     "name": "Silvirium",
@@ -4816,13 +4788,27 @@
     "description": "A java remake of my json unfinished mod."
   },
   {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.3",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-03-07T18:21:46Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
     "repo": "m1cxzfw3q/thermal-engineering",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
     "version": "0.0.2pA",
     "hidden": false,
     "author": "[sky]114514[white]",
-    "lastUpdated": "2026-03-07T14:14:27Z",
+    "lastUpdated": "2026-03-07T18:31:52Z",
     "stars": 2,
     "minGameVersion": "151.1",
     "hasScripts": false,
@@ -5948,6 +5934,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "dirga36/doodle-tank-m",
+    "internalName": "dt",
+    "name": "Doodle Tank",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Dirge",
+    "lastUpdated": "2026-03-07T02:00:14Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add doodle looking tank unit to Mindustry. \n\n[yellow]Dependencies:[]\n - Beta[]Mindy[] (Provides item shop for obtaining the resources[])"
   },
   {
     "repo": "dirga36/doodle-tank-m",
@@ -7118,7 +7118,7 @@
     "version": "1.0.3",
     "hidden": false,
     "author": "meesst",
-    "lastUpdated": "2026-03-07T12:07:39Z",
+    "lastUpdated": "2026-03-07T18:08:09Z",
     "stars": 0,
     "minGameVersion": "154.1",
     "hasScripts": false,
