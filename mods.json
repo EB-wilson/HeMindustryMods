@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-03-07T11:33:41Z",
+    "lastUpdated": "2026-03-07T16:15:56Z",
     "stars": 131,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1176,6 +1176,20 @@
     "description": "A library mod for rendering black holes."
   },
   {
+    "repo": "flintyx/autoresearch",
+    "internalName": "auto-research",
+    "name": "Auto Research",
+    "version": "Algorithm 1.2",
+    "hidden": true,
+    "author": "Flin",
+    "lastUpdated": "2023-02-04T00:59:58Z",
+    "stars": 16,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
     "repo": "balam314/no-invasions",
     "internalName": "no-invasions",
     "name": "No Sector Re Attacks",
@@ -1258,20 +1272,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
-  },
-  {
-    "repo": "flintyx/autoresearch",
-    "internalName": "auto-research",
-    "name": "Auto Research",
-    "version": "Algorithm 1.2",
-    "hidden": true,
-    "author": "Flin",
-    "lastUpdated": "2023-02-04T00:59:58Z",
-    "stars": 15,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "teamoct/erekir-music",
@@ -1414,6 +1414,20 @@
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.7.9",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-03-07T15:09:30Z",
+    "stars": 13,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
     "repo": "eclipse-04/avkott",
     "internalName": "avkott",
     "name": "Avkott",
@@ -1482,20 +1496,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.7.9",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-03-07T13:53:11Z",
-    "stars": 12,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "jhrushbe/moardustry",
@@ -1602,7 +1602,7 @@
     "version": "1.8",
     "hidden": false,
     "author": "Rednz990",
-    "lastUpdated": "2026-03-03T20:28:35Z",
+    "lastUpdated": "2026-03-07T16:25:04Z",
     "stars": 11,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -3503,15 +3503,15 @@
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
-    "version": "v1",
+    "version": "v1.5-Gier",
     "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-03-07T13:21:16Z",
+    "author": "Fat Bird's Owner - Main Developer",
+    "lastUpdated": "2026-03-07T15:40:17Z",
     "stars": 4,
     "minGameVersion": "155",
     "hasScripts": true,
     "hasJava": false,
-    "description": "\nmakes gier playable.\nNot Quite Finished yet.\n\nThis mod is meant to be played as a challange typa thing.\n\n[accent]Has IOS Compat\nGiving a star is greatly appreciated and Thanks for playing.\n[]\n"
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n"
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
