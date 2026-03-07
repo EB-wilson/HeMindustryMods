@@ -616,6 +616,20 @@
     "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "DeepSpace",
+    "version": "Alpha-3354",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-03-06T12:54:36Z",
+    "stars": 34,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "半成品模组,目的是为mdt添加更多的内容"
+  },
+  {
     "repo": "dong-wo-long/betterdustrymod",
     "internalName": "bsm",
     "name": "Betterustry Mod",
@@ -642,20 +656,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "DeepSpace",
-    "version": "Alpha-3354",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-03-06T12:54:36Z",
-    "stars": 33,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
     "repo": "haznobrain/erekir-liquefied",
@@ -728,20 +728,6 @@
     "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
-    "repo": "deercarbonate/azimut",
-    "internalName": "azimut",
-    "name": "Azimut",
-    "version": "0.32",
-    "hidden": false,
-    "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-06T16:14:26Z",
-    "stars": 29,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
-  },
-  {
     "repo": "xpdustry/claj",
     "internalName": "claj",
     "name": "CLaJ",
@@ -754,6 +740,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
+  },
+  {
+    "repo": "deercarbonate/azimut",
+    "internalName": "azimut",
+    "name": "Azimut",
+    "version": "0.32",
+    "hidden": false,
+    "author": "DeerCarbonate",
+    "lastUpdated": "2026-03-07T07:38:22Z",
+    "stars": 29,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
   },
   {
     "repo": "zelaux/bytelogicmod",
@@ -3506,7 +3506,7 @@
     "version": "v1",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-03-07T05:29:47Z",
+    "lastUpdated": "2026-03-07T07:09:11Z",
     "stars": 4,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -4822,7 +4822,7 @@
     "version": "0.0.2pA",
     "hidden": false,
     "author": "[sky]114514[white]",
-    "lastUpdated": "2026-03-07T05:49:51Z",
+    "lastUpdated": "2026-03-07T08:02:50Z",
     "stars": 2,
     "minGameVersion": "151.1",
     "hasScripts": false,
@@ -5514,6 +5514,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "JSON-javaScript compliation of several mods that are unplayable. \n\nThe contents as they were, no balancing adjustments, no respriting unless prompted. All sprites belong to respective owners"
+  },
+  {
+    "repo": "ovulam5480/media2logic",
+    "internalName": "mod",
+    "name": "Media2Logic",
+    "version": "0.2.2",
+    "hidden": true,
+    "author": "Ovulam5480",
+    "lastUpdated": "2025-07-04T14:08:31Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "图片转逻辑模组, 图片只支持png格式 \n蓝图生成完成后请及时重启游戏, 释放内存"
   },
   {
     "repo": "dong-wo-long/fear1-ost",
@@ -7104,7 +7118,7 @@
     "version": "1.0.3",
     "hidden": false,
     "author": "meesst",
-    "lastUpdated": "2026-03-07T06:04:04Z",
+    "lastUpdated": "2026-03-07T07:57:16Z",
     "stars": 0,
     "minGameVersion": "154.1",
     "hasScripts": false,
