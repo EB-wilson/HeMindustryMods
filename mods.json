@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v4.46.1-v8",
+    "version": "v4.46.2-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-03-09T15:28:58Z",
+    "lastUpdated": "2026-03-09T18:49:04Z",
     "stars": 194,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -272,7 +272,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-03-09T16:16:23Z",
+    "lastUpdated": "2026-03-09T18:49:51Z",
     "stars": 83,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -4802,20 +4802,6 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2026-03-04T18:08:40Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4842,6 +4828,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2026-03-09T17:56:46Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
