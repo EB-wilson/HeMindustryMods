@@ -399,7 +399,7 @@
     "hidden": true,
     "author": "Pointifix",
     "lastUpdated": "2025-09-20T15:42:00Z",
-    "stars": 50,
+    "stars": 51,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
@@ -734,7 +734,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-09T14:09:23Z",
+    "lastUpdated": "2026-03-10T04:18:39Z",
     "stars": 29,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -2996,6 +2996,20 @@
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
+    "repo": "samielxd/mobileconsole",
+    "internalName": "mobileconsole",
+    "name": "Mobile Console",
+    "version": "1.0",
+    "hidden": true,
+    "author": "SamielXD",
+    "lastUpdated": "2025-12-28T23:34:09Z",
+    "stars": 5,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[accent]MobileConsole v1.0 - Developer Tools for Mobile Players[]\n[white]📱 Full console access on your phone or tablet![]\n[yellow]⚠️ This mod is specifically designed for mobile devices where console features are normally unavailable.[]\n[red]⚠️ SINGLE-PLAYER ONLY - This mod does not work in multiplayer![]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[red]⚠️ IMPORTANT DISCLAIMERS:[]\n[yellow]• Not all commands may work on every device or game version[]\n[yellow]• Commands only work in single-player mode[]\n[yellow]• Building commands require appropriate permissions[]\n[yellow]• Use at your own risk - some commands may affect game performance[]\n[yellow]• This mod is in active development - bugs may occur[]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]📋 What Is This?[]\nMobileConsole brings developer tools to your mobile device. Build, spawn, modify, and control your game with over 20 commands optimized for touch screens.\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]🎮 How to Access:[]\n[white]In-Game:[]\n• Type [cyan]/customhelp[] in chat to see all commands\n• Type [cyan]/chelp[] for console system help\n[white]Settings Menu:[]\n• Open Settings → Developer Console\n• Tap [cyan]Open Console[] button\n[white]Quick Commands:[]\n• Type any command in chat starting with /\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🏗️ Building Commands:[]\n[cyan]/wallcore [type][] - Builds walls around your core\n[cyan]/fill     [] - Fill area with blocks\n[cyan]/clear [radius][] - Clear buildings around position\n[cyan]/conveyor    [] - Build conveyor lines\n[cyan]/powerline    [] - Create power connections\n[cyan]/wallline     [type][] - Draw wall lines\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[yellow]🔧 Modification Commands:[]\n[cyan]/upgrade  [] - Upgrade building types\n[cyan]/replace  [] - Replace blocks\n[cyan]/toggle [block][] - Enable/disable buildings\n[cyan]/repair[] - Repair all damaged buildings\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[royal]⚔️ Unit Commands:[]\n[cyan]/spawn   [x] [y][] - Spawn units\n[cyan]/healunits[] - Restore all friendly units to full health\n[cyan]/rally[] - Command units to your position\n[cyan]/killenemies [radius][] - Eliminate enemies\n[cyan]/units[] - Display unit statistics\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]⚡ Quick Actions:[]\n[cyan]/turrets[] - Toggle all turrets\n[cyan]/power[] - Display power grid statistics\n[cyan]/resources[] - Check core resources\n[cyan]/screenshot[] - Take clean screenshot\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🖥️ Console System:[]\n[cyan]/chelp[] - Show console help\n[cyan]/clear[] - Clear console logs\n[cyan]/scan[] - Scan for available commands\n[cyan]/stats[] - Show console statistics\n[cyan]/commands[] - List all detected commands\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]🎯 Features:[]\n• Command history (last 50 commands)\n• Favorites system\n• Log management (1,500 entries)\n• Search and filter functionality\n• Touch-optimized interface\n• Color-coded logs\n• Mod management system\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[white]Type [cyan]/customhelp[] in chat or open Settings → Developer Console to start![]\n[yellow]Report issues on GitHub: github.com/SamielXD/MobileConsole[]\n[white]- SamielXD[]"
+  },
+  {
     "repo": "meepoffaith/extra-sand-redux",
     "internalName": "",
     "name": "Extra Sand in the Sandbox - Redux",
@@ -3402,20 +3416,6 @@
     "description": "DISCLAIMER!!!: please use the install with version button and NOT the install button!!!! the version displayed is outdated majority of the time!!\n\nBuffs the Alpha and Evoke units so its better to stay on the Shard or Bastion core (smallest ones),\nAdds a TON of HP to the Alpha and Evoke,\nChanged bullet to Fire bullet for the Alpha (shard and bastion core has alot of hp),\nMining Speed, Item capacity is also Improved,\nHave a good day!\nthe Duo and Scatter turrets are also Buffed\nCopper walls are now the best defense in the game\nthe Mechanical Drill is also the best Drill and can mine anything\nand the Plasma Bore and Impact Drill has been buffed\nNormal Conveyors are also the best along with Ducts.\nMenders are WAAAAAAAAAAAAAAAAAAAAAY better than mend projectors now\n\nIt's my First Mod\nMay have some bugs so please tell me any and also tell me code improvements :D\n\nFeel free to use this as a base or reference for your mods. (maybe not base)"
   },
   {
-    "repo": "samielxd/mobileconsole",
-    "internalName": "mobileconsole",
-    "name": "Mobile Console",
-    "version": "1.0",
-    "hidden": true,
-    "author": "SamielXD",
-    "lastUpdated": "2025-12-28T23:34:09Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[accent]MobileConsole v1.0 - Developer Tools for Mobile Players[]\n[white]📱 Full console access on your phone or tablet![]\n[yellow]⚠️ This mod is specifically designed for mobile devices where console features are normally unavailable.[]\n[red]⚠️ SINGLE-PLAYER ONLY - This mod does not work in multiplayer![]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[red]⚠️ IMPORTANT DISCLAIMERS:[]\n[yellow]• Not all commands may work on every device or game version[]\n[yellow]• Commands only work in single-player mode[]\n[yellow]• Building commands require appropriate permissions[]\n[yellow]• Use at your own risk - some commands may affect game performance[]\n[yellow]• This mod is in active development - bugs may occur[]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]📋 What Is This?[]\nMobileConsole brings developer tools to your mobile device. Build, spawn, modify, and control your game with over 20 commands optimized for touch screens.\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]🎮 How to Access:[]\n[white]In-Game:[]\n• Type [cyan]/customhelp[] in chat to see all commands\n• Type [cyan]/chelp[] for console system help\n[white]Settings Menu:[]\n• Open Settings → Developer Console\n• Tap [cyan]Open Console[] button\n[white]Quick Commands:[]\n• Type any command in chat starting with /\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🏗️ Building Commands:[]\n[cyan]/wallcore [type][] - Builds walls around your core\n[cyan]/fill     [] - Fill area with blocks\n[cyan]/clear [radius][] - Clear buildings around position\n[cyan]/conveyor    [] - Build conveyor lines\n[cyan]/powerline    [] - Create power connections\n[cyan]/wallline     [type][] - Draw wall lines\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[yellow]🔧 Modification Commands:[]\n[cyan]/upgrade  [] - Upgrade building types\n[cyan]/replace  [] - Replace blocks\n[cyan]/toggle [block][] - Enable/disable buildings\n[cyan]/repair[] - Repair all damaged buildings\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[royal]⚔️ Unit Commands:[]\n[cyan]/spawn   [x] [y][] - Spawn units\n[cyan]/healunits[] - Restore all friendly units to full health\n[cyan]/rally[] - Command units to your position\n[cyan]/killenemies [radius][] - Eliminate enemies\n[cyan]/units[] - Display unit statistics\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]⚡ Quick Actions:[]\n[cyan]/turrets[] - Toggle all turrets\n[cyan]/power[] - Display power grid statistics\n[cyan]/resources[] - Check core resources\n[cyan]/screenshot[] - Take clean screenshot\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🖥️ Console System:[]\n[cyan]/chelp[] - Show console help\n[cyan]/clear[] - Clear console logs\n[cyan]/scan[] - Scan for available commands\n[cyan]/stats[] - Show console statistics\n[cyan]/commands[] - List all detected commands\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]🎯 Features:[]\n• Command history (last 50 commands)\n• Favorites system\n• Log management (1,500 entries)\n• Search and filter functionality\n• Touch-optimized interface\n• Color-coded logs\n• Mod management system\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[white]Type [cyan]/customhelp[] in chat or open Settings → Developer Console to start![]\n[yellow]Report issues on GitHub: github.com/SamielXD/MobileConsole[]\n[white]- SamielXD[]"
-  },
-  {
     "repo": "samielxd/unitnamermod",
     "internalName": "unit-namer",
     "name": "Unit Namer",
@@ -3520,12 +3520,26 @@
     "version": "v1.5-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-10T02:02:31Z",
+    "lastUpdated": "2026-03-10T02:13:19Z",
     "stars": 4,
     "minGameVersion": "155",
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n"
+  },
+  {
+    "repo": "momiji142857/ve-addon-schematics",
+    "internalName": "ve-addon-schematics",
+    "name": "VE Addon: Schematics",
+    "version": "v4.0.9",
+    "hidden": true,
+    "author": "模组作者: [sky]Momiji142857[white]\n各蓝图作者请见GitHub",
+    "lastUpdated": "2026-03-10T04:08:03Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-02-20[white]"
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
@@ -3976,20 +3990,6 @@
     "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff, yes, it's that simple. And dumb."
   },
   {
-    "repo": "thechronodonut1337/silent-orchestra",
-    "internalName": "silent-orchestra",
-    "name": "Sounds like Argus",
-    "version": "T.01.31",
-    "hidden": true,
-    "author": "Aurora",
-    "lastUpdated": "2026-02-05T13:03:31Z",
-    "stars": 3,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
-  },
-  {
     "repo": "m1cxzfw3q/logicextend",
     "internalName": "logic-extend",
     "name": "LogicExtend - 逻辑扩展",
@@ -4004,18 +4004,18 @@
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
-    "repo": "momiji142857/ve-addon-schematics",
-    "internalName": "ve-addon-schematics",
-    "name": "VE Addon: Schematics",
-    "version": "v4.0.9",
+    "repo": "thechronodonut1337/silent-orchestra",
+    "internalName": "silent-orchestra",
+    "name": "Sounds like Argus",
+    "version": "T.01.31",
     "hidden": true,
-    "author": "模组作者: [sky]Momiji142857[white]\n各蓝图作者请见GitHub",
-    "lastUpdated": "2026-03-08T19:06:30Z",
+    "author": "Aurora",
+    "lastUpdated": "2026-03-10T04:46:23Z",
     "stars": 3,
-    "minGameVersion": "154",
+    "minGameVersion": "141",
     "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-02-20[white]"
+    "hasJava": false,
+    "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
   },
   {
     "repo": "no9527dada/creatorsdownloadjs",
