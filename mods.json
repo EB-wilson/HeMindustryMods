@@ -580,7 +580,7 @@
     "version": "",
     "hidden": false,
     "author": "Sh1penfire",
-    "lastUpdated": "2026-03-11T02:00:32Z",
+    "lastUpdated": "2026-03-11T06:00:10Z",
     "stars": 37,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -706,7 +706,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-11T04:33:38Z",
+    "lastUpdated": "2026-03-11T06:52:52Z",
     "stars": 30,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -2408,20 +2408,6 @@
     "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "version": "0.61",
-    "hidden": false,
-    "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-03-04T08:24:26Z",
-    "stars": 7,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
-  },
-  {
     "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
@@ -2448,6 +2434,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "version": "0.61",
+    "hidden": false,
+    "author": "Watermolecules and Hydroabyss",
+    "lastUpdated": "2026-03-11T06:53:56Z",
+    "stars": 7,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -6944,20 +6944,6 @@
     "description": "Interface improvements and almost useless quality of life features."
   },
   {
-    "repo": "wmf-industries/extremity",
-    "internalName": "extremity",
-    "name": "Extremity",
-    "version": "1.1.6",
-    "hidden": true,
-    "author": "WMF Industries",
-    "lastUpdated": "2026-01-24T17:21:14Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry: Evil Edition"
-  },
-  {
     "repo": "cardillan/mlogassertions-7",
     "internalName": "mlog-assertions-7",
     "name": "Mlog Assertions (v7)",
@@ -7138,5 +7124,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds more logic instructions.\n一个添加了更多逻辑指令的模组"
+  },
+  {
+    "repo": "wmf-industries/extremity",
+    "internalName": "extremity",
+    "name": "Extremity",
+    "version": "1.1.7",
+    "hidden": true,
+    "author": "WMF Industries",
+    "lastUpdated": "2026-03-11T06:54:31Z",
+    "stars": 0,
+    "minGameVersion": "155.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry: Evil Edition"
   }
 ]
