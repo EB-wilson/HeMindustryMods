@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-03-12T14:47:10Z",
+    "lastUpdated": "2026-03-12T19:17:50Z",
     "stars": 131,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -384,7 +384,7 @@
     "version": "1.2.4",
     "hidden": true,
     "author": "foo, buthed010203",
-    "lastUpdated": "2022-11-08T23:31:31Z",
+    "lastUpdated": "2026-03-12T20:35:47Z",
     "stars": 53,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -524,7 +524,7 @@
     "version": "1.4.1",
     "hidden": false,
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-03-10T19:37:30Z",
+    "lastUpdated": "2026-03-12T19:21:38Z",
     "stars": 40,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1596,20 +1596,6 @@
     "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
-    "repo": "routerxdd/icicle-world",
-    "internalName": "icicle-world",
-    "name": "Buried in Ice",
-    "version": "alpha 0.9.4",
-    "hidden": false,
-    "author": "R.O.T.\nThanks yesC48 for normal english translation",
-    "lastUpdated": "2026-02-23T11:41:23Z",
-    "stars": 11,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds a new planet, where we will play in underground"
-  },
-  {
     "repo": "sunkenmelody/rospule",
     "internalName": "rospule",
     "name": "「Rospule」",
@@ -1622,6 +1608,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\r\nThis is a [unlaunched]personal[white] Serpulo campaign rework map pack , alongside with personal [sky]minor rebalancing[white] on certain blocks or units.\r\n\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\n\r\nThis mod contains [sky]30+[white] levels from the very basic to completed tech tree contents , notice the tech tree nodes are [unlaunched]rearranged[white] for each level to unlock.\r\n\r\nAll maps in this mod(map pack) follow [accent]CC BY-SA 4.0 License[white] (All works are free to use but you must keep the original author, me , sunkenmelody's name).\r\n\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n\r\n\r\n[#c5cbff]Have fun[white].\r\nUpdate log: V0.2.3-- Stage 3-8 'Petroleum Chasm' start loadout graphite increased. + Stage 3-10 'Dilemma' more bug fixes.\r\n\r\n\r\nMod by [#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nLocalization(zh_CN):仄井心升\r\n"
+  },
+  {
+    "repo": "routerxdd/icicle-world",
+    "internalName": "icicle-world",
+    "name": "Buried in Ice",
+    "version": "9.5",
+    "hidden": false,
+    "author": "R.O.T.\nSpecial thanks:\nyesC48 for editing english translation\nxhstoyea for chinese translation",
+    "lastUpdated": "2026-03-12T19:59:38Z",
+    "stars": 11,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds a new planet, where we will play in underground"
   },
   {
     "repo": "pointifix/autotranslate",
@@ -7084,20 +7084,6 @@
     "description": "Semi-realistic iron-based mod. Modifies serpulo progression and vanilla balance."
   },
   {
-    "repo": "nickseal80/mindustry-time-factor-2",
-    "internalName": "time-factor 2",
-    "name": "Time Factor 2",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Seal",
-    "lastUpdated": "2026-03-01T22:26:33Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
@@ -7138,5 +7124,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
+  },
+  {
+    "repo": "nickseal80/mindustry-time-factor-2",
+    "internalName": "time-factor 2",
+    "name": "Time Factor 2",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Seal",
+    "lastUpdated": "2026-03-12T19:10:07Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
