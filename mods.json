@@ -272,7 +272,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-03-15T02:39:25Z",
+    "lastUpdated": "2026-03-15T17:02:46Z",
     "stars": 83,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -336,6 +336,20 @@
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n\n---\n\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
+    "repo": "meepoffaith/testing-utilities-java",
+    "internalName": "test-utils",
+    "name": "Testing Utilities",
+    "version": "69.8",
+    "hidden": true,
+    "author": "MEEP of Faith",
+    "lastUpdated": "2026-03-14T10:04:57Z",
+    "stars": 57,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "liplum/multicrafterlib",
     "internalName": "multi-crafter",
     "name": "MultiCrafter Lib",
@@ -348,20 +362,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library for JSON and Javascript mods,\nincluding A crafter that supporting multiple recipes for items, fluids, power, and heat production.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
-  },
-  {
-    "repo": "meepoffaith/testing-utilities-java",
-    "internalName": "test-utils",
-    "name": "Testing Utilities",
-    "version": "69.8",
-    "hidden": true,
-    "author": "MEEP of Faith",
-    "lastUpdated": "2026-03-14T10:04:57Z",
-    "stars": 56,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "sharlottes/sharustry",
@@ -524,7 +524,7 @@
     "version": "1.4.1",
     "hidden": false,
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-03-15T13:38:56Z",
+    "lastUpdated": "2026-03-15T18:03:25Z",
     "stars": 40,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -721,7 +721,7 @@
     "hidden": true,
     "author": "electricgun",
     "lastUpdated": "2026-02-26T15:49:06Z",
-    "stars": 29,
+    "stars": 30,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -4802,20 +4802,6 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2026-03-12T16:57:00Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4836,12 +4822,26 @@
     "version": "0.0.2pA",
     "hidden": false,
     "author": "[sky]114514[white]",
-    "lastUpdated": "2026-03-15T13:18:14Z",
+    "lastUpdated": "2026-03-15T17:43:28Z",
     "stars": 2,
     "minGameVersion": "151.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2026-03-15T18:07:01Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -7118,11 +7118,11 @@
     "version": "1.0",
     "hidden": false,
     "author": "Seal",
-    "lastUpdated": "2026-03-13T21:18:33Z",
+    "lastUpdated": "2026-03-15T17:46:54Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry Java mod template."
+    "description": "Real-time speed control for Mindustry. Customize speed limits and reset instantly with a clean UI."
   }
 ]
