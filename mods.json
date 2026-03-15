@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-03-14T16:37:33Z",
+    "lastUpdated": "2026-03-14T23:03:47Z",
     "stars": 131,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -602,20 +602,6 @@
     "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "version": "1.5.8",
-    "hidden": true,
-    "author": "I hope...",
-    "lastUpdated": "2026-03-14T14:19:44Z",
-    "stars": 36,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
-  },
-  {
     "repo": "icexuegao/deepspace",
     "internalName": "ice",
     "name": "DeepSpace",
@@ -628,6 +614,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "半成品模组,目的是为mdt添加更多的内容"
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "version": "1.5.8",
+    "hidden": true,
+    "author": "I hope...",
+    "lastUpdated": "2026-03-15T02:18:07Z",
+    "stars": 36,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "dong-wo-long/betterdustrymod",
@@ -5936,20 +5936,6 @@
     "description": "Music & SFX Pack"
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.2.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-03-04T15:19:01Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "p-enya/celeste-music-pack",
     "internalName": "celeste-music-pack",
     "name": "Celeste music pack",
@@ -5984,12 +5970,26 @@
     "version": "1.0",
     "hidden": false,
     "author": "Encog",
-    "lastUpdated": "2026-03-14T01:40:23Z",
+    "lastUpdated": "2026-03-15T01:09:50Z",
     "stars": 1,
     "minGameVersion": "149",
     "hasScripts": false,
     "hasJava": true,
     "description": "\n\n in dev...\n What these?\n- lots of factories\n- lots of turrets\n- quantum transport system\n- ...\n"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.2.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-03-15T01:53:37Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
