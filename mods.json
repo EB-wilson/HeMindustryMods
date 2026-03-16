@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-03-15T19:21:10Z",
+    "lastUpdated": "2026-03-16T01:46:01Z",
     "stars": 131,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -700,6 +700,20 @@
     "description": "Dynamic load custom contents patch account to server"
   },
   {
+    "repo": "electricgun/cheat-codes-mod",
+    "internalName": "cheat-codes",
+    "name": "Cheat Codes Mod",
+    "version": "v1.7.3",
+    "hidden": true,
+    "author": "electricgun",
+    "lastUpdated": "2026-02-26T15:49:06Z",
+    "stars": 31,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
+  },
+  {
     "repo": "nullotte/carpe-diem",
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
@@ -712,20 +726,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
-  },
-  {
-    "repo": "electricgun/cheat-codes-mod",
-    "internalName": "cheat-codes",
-    "name": "Cheat Codes Mod",
-    "version": "v1.7.3",
-    "hidden": true,
-    "author": "electricgun",
-    "lastUpdated": "2026-02-26T15:49:06Z",
-    "stars": 30,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
     "repo": "xpdustry/claj",
@@ -3114,7 +3114,7 @@
     "version": "v1.5-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-15T14:58:26Z",
+    "lastUpdated": "2026-03-16T01:54:18Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -4802,20 +4802,6 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.4",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-03-15T02:57:42Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -4842,6 +4828,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java remake of my json unfinished mod."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.4",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-03-16T02:00:45Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -5984,7 +5984,7 @@
     "version": "1.2.0",
     "hidden": true,
     "author": "xpdustry",
-    "lastUpdated": "2026-03-15T05:37:19Z",
+    "lastUpdated": "2026-03-16T01:57:08Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": false,
