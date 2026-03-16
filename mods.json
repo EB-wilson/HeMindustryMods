@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-03-15T09:04:19Z",
+    "lastUpdated": "2026-03-16T02:44:34Z",
     "stars": 549,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -133,7 +133,7 @@
     "hidden": false,
     "author": "Snake",
     "lastUpdated": "2026-02-12T13:58:42Z",
-    "stars": 129,
+    "stars": 130,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -700,20 +700,6 @@
     "description": "Dynamic load custom contents patch account to server"
   },
   {
-    "repo": "electricgun/cheat-codes-mod",
-    "internalName": "cheat-codes",
-    "name": "Cheat Codes Mod",
-    "version": "v1.7.3",
-    "hidden": true,
-    "author": "electricgun",
-    "lastUpdated": "2026-02-26T15:49:06Z",
-    "stars": 31,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
-  },
-  {
     "repo": "nullotte/carpe-diem",
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
@@ -726,6 +712,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
+  },
+  {
+    "repo": "electricgun/cheat-codes-mod",
+    "internalName": "cheat-codes",
+    "name": "Cheat Codes Mod",
+    "version": "v1.7.3",
+    "hidden": true,
+    "author": "electricgun",
+    "lastUpdated": "2026-02-26T15:49:06Z",
+    "stars": 30,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
     "repo": "xpdustry/claj",
