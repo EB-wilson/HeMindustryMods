@@ -664,7 +664,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-16T07:37:02Z",
+    "lastUpdated": "2026-03-16T13:54:43Z",
     "stars": 33,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1434,7 +1434,7 @@
     "version": "1.7.9",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-03-15T06:39:38Z",
+    "lastUpdated": "2026-03-16T14:15:21Z",
     "stars": 13,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -3114,7 +3114,7 @@
     "version": "v1.5-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-16T09:05:26Z",
+    "lastUpdated": "2026-03-16T14:32:54Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -4802,20 +4802,6 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
-    "repo": "m1cxzfw3q/thermal-engineering",
-    "internalName": "temod",
-    "name": "Thermal Engineering Java",
-    "version": "0.0.2pA",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-03-15T17:43:28Z",
-    "stars": 2,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
-  },
-  {
     "repo": "m-e-l-i-s/silviriumjava",
     "internalName": "sli",
     "name": "Silvirium",
@@ -4842,6 +4828,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "m1cxzfw3q/thermal-engineering",
+    "internalName": "temod",
+    "name": "Thermal Engineering Java",
+    "version": "0.0.2pA",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-03-16T14:48:46Z",
+    "stars": 2,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
