@@ -706,7 +706,7 @@
     "version": "(Beta) Build 8",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-03-17T18:15:19Z",
+    "lastUpdated": "2026-03-17T20:33:36Z",
     "stars": 31,
     "minGameVersion": "155.3",
     "hasScripts": false,
@@ -7112,20 +7112,6 @@
     "description": "Mindustry: Evil Edition"
   },
   {
-    "repo": "nickseal80/mindustry-time-factor-2",
-    "internalName": "time-factor 2",
-    "name": "Time Factor 2",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Seal",
-    "lastUpdated": "2026-03-15T17:46:54Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Real-time speed control for Mindustry. Customize speed limits and reset instantly with a clean UI."
-  },
-  {
     "repo": "osp54/shared-campaign-research",
     "internalName": "shared-campaign-research",
     "name": "Shared Campaign Research",
@@ -7138,5 +7124,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A co-op campaign mod for shared research. Players who joined the host can request research from the research screen, and the result is applied to the current campaign."
+  },
+  {
+    "repo": "nickseal80/mindustry-time-factor-2",
+    "internalName": "time-factor 2",
+    "name": "Time Factor 2",
+    "version": "2.1",
+    "hidden": false,
+    "author": "Seal",
+    "lastUpdated": "2026-03-17T20:38:58Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Real-time speed control for Mindustry. Customize speed limits and reset instantly with a clean UI."
   }
 ]
