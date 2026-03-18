@@ -664,7 +664,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-18T08:31:18Z",
+    "lastUpdated": "2026-03-18T10:36:03Z",
     "stars": 33,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -4830,6 +4830,20 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
+    "repo": "osp54/shared-campaign-research",
+    "internalName": "shared-campaign-research",
+    "name": "Shared Campaign Research",
+    "version": "0.2.5-alpha.1",
+    "hidden": false,
+    "author": "osp54",
+    "lastUpdated": "2026-03-17T14:30:47Z",
+    "stars": 2,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A co-op campaign mod for shared research. Players who joined the host can request research from the research screen, and the result is applied to the current campaign."
+  },
+  {
     "repo": "m1cxzfw3q/thermal-engineering",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -7110,20 +7124,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
-  },
-  {
-    "repo": "osp54/shared-campaign-research",
-    "internalName": "shared-campaign-research",
-    "name": "Shared Campaign Research",
-    "version": "0.2.5-alpha.1",
-    "hidden": false,
-    "author": "osp54",
-    "lastUpdated": "2026-03-17T14:30:47Z",
-    "stars": 0,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A co-op campaign mod for shared research. Players who joined the host can request research from the research screen, and the result is applied to the current campaign."
   },
   {
     "repo": "nickseal80/mindustry-time-factor-2",
