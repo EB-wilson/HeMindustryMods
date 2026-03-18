@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-03-18T18:15:30Z",
+    "lastUpdated": "2026-03-18T22:26:29Z",
     "stars": 131,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -560,20 +560,6 @@
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-03-13T18:54:02Z",
-    "stars": 38,
-    "minGameVersion": "155.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
-  },
-  {
     "repo": "icexuegao/deepspace",
     "internalName": "ice",
     "name": "DeepSpace",
@@ -586,6 +572,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "半成品模组,目的是为mdt添加更多的内容"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-03-18T22:30:12Z",
+    "stars": 38,
+    "minGameVersion": "155.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "rogeh4/virtual-scheme-pack-",
@@ -4816,20 +4816,6 @@
     "description": "A java remake of my json unfinished mod."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.4",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-03-16T10:12:53Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "osp54/shared-campaign-research",
     "internalName": "shared-campaign-research",
     "name": "Shared Campaign Research",
@@ -4856,6 +4842,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.4",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-03-18T21:08:11Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
