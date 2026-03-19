@@ -658,6 +658,20 @@
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
   },
   {
+    "repo": "deercarbonate/azimut",
+    "internalName": "azimut",
+    "name": "Azimut",
+    "version": "0.32",
+    "hidden": false,
+    "author": "DeerCarbonate",
+    "lastUpdated": "2026-03-19T08:48:45Z",
+    "stars": 33,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
+  },
+  {
     "repo": "haznobrain/erekir-liquefied",
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
@@ -670,20 +684,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
-  },
-  {
-    "repo": "deercarbonate/azimut",
-    "internalName": "azimut",
-    "name": "Azimut",
-    "version": "0.32",
-    "hidden": false,
-    "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-19T05:46:29Z",
-    "stars": 32,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
   },
   {
     "repo": "way-zer/contentstweaker",
@@ -4850,7 +4850,7 @@
     "version": "4.3.4",
     "hidden": true,
     "author": "Xpdustry",
-    "lastUpdated": "2026-03-18T21:08:11Z",
+    "lastUpdated": "2026-03-19T10:01:07Z",
     "stars": 2,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -5998,7 +5998,7 @@
     "version": "1.2.0",
     "hidden": true,
     "author": "xpdustry",
-    "lastUpdated": "2026-03-18T18:08:57Z",
+    "lastUpdated": "2026-03-19T09:29:33Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": false,
