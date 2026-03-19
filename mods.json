@@ -678,7 +678,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-18T10:36:03Z",
+    "lastUpdated": "2026-03-19T05:46:29Z",
     "stars": 32,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -2688,20 +2688,6 @@
     "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-03-07T12:07:59Z",
-    "stars": 6,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
-  },
-  {
     "repo": "koctz34/browser-windows",
     "internalName": "browser-windows",
     "name": "Browser Windows (MinduCEF)",
@@ -2728,6 +2714,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "以战锤40k为原型的MOD,Mod官方QQ交流群：316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-03-19T06:22:17Z",
+    "stars": 6,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
   },
   {
     "repo": "obamination/minedustry",
@@ -3066,20 +3066,6 @@
     "description": "Hbm's NTM (by Bobcat) in mindustry!\nMinecraft, Satisfactory, Rust, and other...\n\nOnly decor blocks\n\nDisable linear filtering in settings!"
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-03-07T12:08:39Z",
-    "stars": 5,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
-  },
-  {
     "repo": "martian238/vanilla-expansion-mod",
     "internalName": "ve",
     "name": "Vanilla Expansion",
@@ -3114,12 +3100,26 @@
     "version": "v1.5-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-18T15:54:03Z",
+    "lastUpdated": "2026-03-19T06:02:53Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n"
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-03-19T06:23:01Z",
+    "stars": 5,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -3514,20 +3514,6 @@
     "description": "My 2nd mod!\nCAMPAIGN ONLY 3 SECTOR DONE(Flooded wasteland, massSpread, LandZone)\nthe mod add a new planet, it seem... spreading and growing?\n\nThe Organization Have sent 7(?) ships and your mission is find them all.\n(you are the 8th)"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-03-14T10:17:07Z",
-    "stars": 4,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
     "repo": "momiji142857/ve-addon-schematics",
     "internalName": "ve-addon-schematics",
     "name": "VE Addon: Schematics",
@@ -3540,6 +3526,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-03-14[white]"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-03-19T06:21:04Z",
+    "stars": 4,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
