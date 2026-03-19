@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-03-16T09:28:11Z",
+    "lastUpdated": "2026-03-19T17:27:38Z",
     "stars": 550,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -272,7 +272,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-03-17T15:10:04Z",
+    "lastUpdated": "2026-03-19T18:41:21Z",
     "stars": 84,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -546,20 +546,6 @@
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-03-19T01:11:25Z",
-    "stars": 39,
-    "minGameVersion": "155.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
-  },
-  {
     "repo": "sh1penfire/meld",
     "internalName": "meld",
     "name": "Meld",
@@ -567,11 +553,25 @@
     "hidden": false,
     "author": "Sh1penfire",
     "lastUpdated": "2026-03-13T06:13:28Z",
-    "stars": 38,
+    "stars": 39,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-03-19T18:35:24Z",
+    "stars": 39,
+    "minGameVersion": "155.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "icexuegao/deepspace",
@@ -3976,20 +3976,6 @@
     "description": "Explore a new planet submerged in naphtha and utilize buildings with an exotic, new form."
   },
   {
-    "repo": "argon1321/simple-additions",
-    "internalName": "simple-additions",
-    "name": "Simple additions",
-    "version": "0.3",
-    "hidden": false,
-    "author": "argon1321",
-    "lastUpdated": "2025-12-31T13:48:51Z",
-    "stars": 3,
-    "minGameVersion": "153",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff, yes, it's that simple. And dumb."
-  },
-  {
     "repo": "m1cxzfw3q/logicextend",
     "internalName": "logic-extend",
     "name": "LogicExtend - 逻辑扩展",
@@ -4016,6 +4002,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
+  },
+  {
+    "repo": "argon1321/simple-additions",
+    "internalName": "simple-additions",
+    "name": "Simple additions",
+    "version": "0.3",
+    "hidden": false,
+    "author": "argon1321",
+    "lastUpdated": "2026-03-19T18:01:48Z",
+    "stars": 3,
+    "minGameVersion": "153",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff, yes, it's that simple. And dumb."
   },
   {
     "repo": "no9527dada/creatorsdownloadjs",
