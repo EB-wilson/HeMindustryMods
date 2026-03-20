@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-03-20T10:28:38Z",
+    "lastUpdated": "2026-03-20T16:01:32Z",
     "stars": 550,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -566,7 +566,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-03-19T18:59:26Z",
+    "lastUpdated": "2026-03-20T15:08:39Z",
     "stars": 39,
     "minGameVersion": "155.2",
     "hasScripts": false,
@@ -1232,20 +1232,6 @@
     "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
   },
   {
-    "repo": "430230562/vanilla-neoplasm-extend",
-    "internalName": "vne",
-    "name": "Vanilla Neoplasm Extend",
-    "version": "0.22",
-    "hidden": false,
-    "author": "pardon",
-    "lastUpdated": "2026-03-14T08:58:43Z",
-    "stars": 16,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Do you think the original neoplasm solution, burned in a slag pool, is a too singular; Such biologically active materials should have other uses: as ammunition, synthesizing new materials, and even building their own biological armies... Please unleash your imagination to the fullest \n\n You can't wait any longer? Let's embark on this bloody journey"
-  },
-  {
     "repo": "otamamori917/axthrix-modded-java",
     "internalName": "aj",
     "name": "Axthrix",
@@ -1258,6 +1244,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
+  },
+  {
+    "repo": "430230562/vanilla-neoplasm-extend",
+    "internalName": "vne",
+    "name": "Vanilla Neoplasm Extend",
+    "version": "0.22",
+    "hidden": false,
+    "author": "pardon",
+    "lastUpdated": "2026-03-20T14:49:49Z",
+    "stars": 16,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Do you think the original neoplasm solution, burned in a slag pool, is a too singular; Such biologically active materials should have other uses: as ammunition, synthesizing new materials, and even building their own biological armies... Please unleash your imagination to the fullest \n\n You can't wait any longer? Let's embark on this bloody journey"
   },
   {
     "repo": "yuria-shikibe/gameinfoimager",
@@ -3114,7 +3114,7 @@
     "version": "v1.5-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-20T13:09:42Z",
+    "lastUpdated": "2026-03-20T15:17:57Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -4802,20 +4802,6 @@
     "description": "A java remake of my json unfinished mod."
   },
   {
-    "repo": "osp54/shared-campaign-research",
-    "internalName": "shared-campaign-research",
-    "name": "Shared Campaign Research",
-    "version": "0.2.5-alpha.1",
-    "hidden": false,
-    "author": "osp54",
-    "lastUpdated": "2026-03-17T14:30:47Z",
-    "stars": 2,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A co-op campaign mod for shared research. Players who joined the host can request research from the research screen, and the result is applied to the current campaign."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4836,7 +4822,7 @@
     "version": "0.0.2pA",
     "hidden": false,
     "author": "[sky]114514[white]",
-    "lastUpdated": "2026-03-20T14:30:24Z",
+    "lastUpdated": "2026-03-20T16:14:08Z",
     "stars": 2,
     "minGameVersion": "151.1",
     "hasScripts": false,
