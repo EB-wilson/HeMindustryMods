@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-03-22T16:31:25Z",
+    "lastUpdated": "2026-03-22T16:39:32Z",
     "stars": 552,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -62,7 +62,7 @@
     "version": "v4.47.3-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-03-22T07:40:24Z",
+    "lastUpdated": "2026-03-22T17:04:56Z",
     "stars": 195,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -602,20 +602,6 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
-    "repo": "coaldeficit/moredefences",
-    "internalName": "md3",
-    "name": "MoreDefences",
-    "version": "3.1.13",
-    "hidden": false,
-    "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2026-03-21T18:03:26Z",
-    "stars": 36,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
-  },
-  {
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
     "name": "mod-tools",
@@ -628,6 +614,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
+  },
+  {
+    "repo": "coaldeficit/moredefences",
+    "internalName": "md3",
+    "name": "MoreDefences",
+    "version": "3.1.14",
+    "hidden": false,
+    "author": "CD, 7rodo and meowkitty",
+    "lastUpdated": "2026-03-22T18:16:19Z",
+    "stars": 36,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
   },
   {
     "repo": "itskirby69/minedusty",
@@ -4010,7 +4010,7 @@
     "version": "2.0",
     "hidden": true,
     "author": "buj",
-    "lastUpdated": "2026-03-22T08:29:47Z",
+    "lastUpdated": "2026-03-22T17:28:04Z",
     "stars": 3,
     "minGameVersion": "155",
     "hasScripts": false,
