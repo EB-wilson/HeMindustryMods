@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-03-22T16:39:32Z",
-    "stars": 552,
+    "stars": 553,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -566,7 +566,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-03-22T02:46:22Z",
+    "lastUpdated": "2026-03-22T20:15:17Z",
     "stars": 39,
     "minGameVersion": "155.2",
     "hasScripts": false,
@@ -2464,20 +2464,6 @@
     "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
-    "repo": "sputnuc/deepsea",
-    "internalName": "deepsea",
-    "name": "Project: Deep Sea (Alpha)",
-    "version": "0.2",
-    "hidden": false,
-    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
-    "lastUpdated": "2026-03-21T19:21:25Z",
-    "stars": 7,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
-  },
-  {
     "repo": "laomoze/warhammer",
     "internalName": "wh",
     "name": "WarHammer",
@@ -2490,6 +2476,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "以战锤40k为原型的MOD,Mod官方QQ交流群：316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
+  },
+  {
+    "repo": "sputnuc/deepsea",
+    "internalName": "deepsea",
+    "name": "Project: Deep Sea (Alpha)",
+    "version": "0.2",
+    "hidden": false,
+    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
+    "lastUpdated": "2026-03-22T19:22:01Z",
+    "stars": 7,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -5992,20 +5992,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "nickseal80/mindustry-time-factor-2",
-    "internalName": "time-factor 2",
-    "name": "Time Factor 2",
-    "version": "2.1",
-    "hidden": false,
-    "author": "Seal",
-    "lastUpdated": "2026-03-19T20:27:41Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Real-time speed control for Mindustry. Customize speed limits and reset instantly with a clean UI."
-  },
-  {
     "repo": "zeefoe/simple-chat-translator",
     "internalName": "simple-chat-translator",
     "name": "Simple Chat Translator",
@@ -6018,6 +6004,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
+  },
+  {
+    "repo": "nickseal80/mindustry-time-factor-2",
+    "internalName": "time-factor 2",
+    "name": "Time Factor 2",
+    "version": "2.2",
+    "hidden": false,
+    "author": "Seal",
+    "lastUpdated": "2026-03-22T19:24:35Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Real-time speed control for Mindustry. Customize speed limits and reset instantly with a clean UI."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
