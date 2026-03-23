@@ -413,7 +413,7 @@
     "hidden": false,
     "author": "TnmSpiroct",
     "lastUpdated": "2026-03-18T16:06:00Z",
-    "stars": 49,
+    "stars": 50,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
@@ -644,20 +644,6 @@
     "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
   },
   {
-    "repo": "deercarbonate/azimut",
-    "internalName": "azimut",
-    "name": "Azimut",
-    "version": "0.32",
-    "hidden": false,
-    "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-23T02:22:23Z",
-    "stars": 34,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
-  },
-  {
     "repo": "dong-wo-long/betterdustrymod",
     "internalName": "bsm",
     "name": "Betterustry Mod",
@@ -670,6 +656,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
+  },
+  {
+    "repo": "deercarbonate/azimut",
+    "internalName": "azimut",
+    "name": "Azimut",
+    "version": "0.32",
+    "hidden": false,
+    "author": "DeerCarbonate",
+    "lastUpdated": "2026-03-23T02:22:23Z",
+    "stars": 33,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
   },
   {
     "repo": "haznobrain/erekir-liquefied",
@@ -726,6 +726,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
+  },
+  {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.3.3",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2026-03-06T20:46:54Z",
+    "stars": 30,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
     "repo": "retodera/technologium",
@@ -1924,7 +1938,7 @@
     "version": "0.61",
     "hidden": false,
     "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-03-23T07:10:00Z",
+    "lastUpdated": "2026-03-23T08:27:10Z",
     "stars": 9,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2140,6 +2154,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[#90DBFF]原版扩展(VE)\n[#90DBFF]Vanilla Expansion\n[white]当前版本：[#FF835E]2.0.3[gray].9[#FF835E] - 杂项更新第二部分\n[white]Current version: [#FF835E]2.0.3[gray].9[#FF835E] - Miscellaneous Update Part 2.\n\n[accent]特别感谢名单：\n[accent]Special thanks:\n[accent]·悠闲的小凡[white]（拉进交流群等）\n[accent]·closesnew[white]（激发模组制作、拉进交流群）\n[accent]·III_埃米伊斯_III[white]（提供Json星球写法参考）\n[accent]·RC-C814[white]（提供数据库排序JS参考）\n[accent]·€dm align[white]（\n[accent]·桜[white]（提供区块图标文件名参考、指出地图错误等）\n[accent]·⌬⌬苏泽[white]（处理autotile贴图）\n[accent]·miner[white]（PartProgress高级写法）\n[accent]·guiY归某人[white]（提供数据库共享内容思路）\n[accent]·Momizi142857[white]（整理蓝图集、指出地图错误等）\n[accent]·希恩斯[white]（指出地图错误等）\n[accent]·裙带菜Undaria[white]（提供替换UI图标方法、制作材质包）\n[accent]·牢迁[white]（建筑连锁特性）\n[accent]·燧影[white]（爆混厂贴图）\n[accent]·屑钍.exe[white]（飞碟压制场）\n[accent]·DeepSeek[white]（单位命名）\n[accent]·刘啊庆云[white]\n[accent]·bro只是喜欢猫猫\n[accent]·水桶\n[accent]·玖撧一壹丨\n[accent]·Jimmy\n[accent]·幽灵\n[accent]·一个双管炮\n[accent]·Editors of Mindustry Unofficial Fandom Wiki[white]（Mindustry Lore）\n[accent]·参与测试、提出建议和汇报错误的群友们\n\n[white]增加了少量塞普罗科技树扩展内容以及行星发射终端后的一系列新内容。同时将149版本中的175、222、223、85、133、7、195七个数字区块设置为战役区块。\n\n[white]经过一段时间的战役，塞普罗上的敌军所剩无几，然而这些敌方炮塔与单位只是按照简单逻辑行事的空壳，真正的敌人早在反击开始之前就已通过行星际加速器抵达并驻扎在另一颗星球了。\n观测显示，这颗名为赛克兰特的行星缺少以矿脉形式分布的铜和钛，且气候相对恶劣。同时，塞普罗上的数据表明它正好是那已变为废墟的阵营上一个登陆的星球。\n着陆后请务必利用本地资源逐一研究同构建筑以迅速扩张，增强实力来与敌人正面对抗。毕竟，这一次要面对的科技，有些来自敌人自己。\n\n[white]注：新星球剧情时期为终端后，建议将塞普罗科技树解锁到一定程度或占领行星发射终端再进行新星球战役，即使这些新星球区块的难度并不对应终端后。\n[white]Caution: Serpulo campaign (PLT&pre-PLT) fully or partially complete is required.\n\n[green]最新可玩区块：空间技术中心\n[green]Newest playable sector: Warp Tech Base\n\n[white]当前开发阶段：第二章 - [#ff835e]玛瑞斯\n[white]Current development phase: Chapter 2 - [#ff835e]Maress"
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "version": "0.3.4",
+    "hidden": false,
+    "author": "Slashkig, IAmRustee, VoidThreader, Phil",
+    "lastUpdated": "2026-03-20T00:32:32Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "reborntrack970/infinicampaign",
@@ -3086,7 +3114,7 @@
     "version": "v1.5-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-23T03:01:31Z",
+    "lastUpdated": "2026-03-23T08:57:12Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -7096,6 +7124,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
+  },
+  {
+    "repo": "darkdustry-coders/mindurkacompatv7",
+    "internalName": "mindurkacompat",
+    "name": "MindurkaCompat",
+    "version": "1.2",
+    "hidden": true,
+    "author": "buj",
+    "lastUpdated": "2026-03-22T08:27:09Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
     "repo": "salivion/extended-ui",
