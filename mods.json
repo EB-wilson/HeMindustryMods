@@ -4850,7 +4850,7 @@
     "version": "0.0.2pA",
     "hidden": false,
     "author": "[sky]114514[white]",
-    "lastUpdated": "2026-03-24T13:12:04Z",
+    "lastUpdated": "2026-03-24T13:46:06Z",
     "stars": 2,
     "minGameVersion": "151.1",
     "hasScripts": false,
@@ -5881,17 +5881,17 @@
   },
   {
     "repo": "unionofsovietsocialistrepublics/unfog",
-    "internalName": "netromusic",
-    "name": "Netronium: TFS Music",
-    "version": "1",
-    "hidden": false,
-    "author": "[orange]Sunky.MP3G",
+    "internalName": "unfog",
+    "name": "Unfog",
+    "version": "0.2",
+    "hidden": "true",
+    "author": "Water molecules",
     "lastUpdated": "2026-02-23T13:46:11Z",
     "stars": 1,
-    "minGameVersion": "147",
+    "minGameVersion": "154",
     "hasScripts": true,
-    "hasJava": true,
-    "description": "An OST for Netronium: The Final Showdown mod.\nList of music:\nTo The Unknown (Launch theme) by Sunky.MP3G"
+    "hasJava": false,
+    "description": "Unfog your fog of war, might be a little bit unfair.\nYes, This works on multiplayer."
   },
   {
     "repo": "frilofril/omega",
@@ -6662,6 +6662,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod gives you spiders from Deep Rock Galactic. My YouTube channel is Dedshotgame's."
+  },
+  {
+    "repo": "sunkymp3g/netroniummusic",
+    "internalName": "netromusic",
+    "name": "Netronium: TFS Music",
+    "version": "1",
+    "hidden": false,
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2025-05-08T05:46:45Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An OST for Netronium: The Final Showdown mod.\nList of music:\nTo The Unknown (Launch theme) by Sunky.MP3G"
   },
   {
     "repo": "durmiendo/extendlogs",
