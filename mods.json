@@ -378,6 +378,20 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
+    "repo": "pointifix/autodrill",
+    "internalName": "auto-drill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Pointifix",
+    "lastUpdated": "2025-09-20T15:42:00Z",
+    "stars": 53,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "internalName": "fooinstaller",
     "name": "Foo's Client Installer",
@@ -390,20 +404,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
-    "repo": "pointifix/autodrill",
-    "internalName": "auto-drill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Pointifix",
-    "lastUpdated": "2025-09-20T15:42:00Z",
-    "stars": 52,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "tnmspiroct/exoprosopa",
@@ -2464,20 +2464,6 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
-    "repo": "wantechfan/mindustry-mod-some-musics",
-    "internalName": "cool-musics",
-    "name": "Cool Musics",
-    "version": "1.2.2",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-03-24T07:50:36Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
-  },
-  {
     "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
@@ -2490,6 +2476,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
+  },
+  {
+    "repo": "wantechfan/mindustry-mod-some-musics",
+    "internalName": "cool-musics",
+    "name": "Cool Musics",
+    "version": "1.2.2",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-03-24T19:21:05Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
