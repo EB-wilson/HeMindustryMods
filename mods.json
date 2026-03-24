@@ -132,7 +132,7 @@
     "version": "16.0",
     "hidden": false,
     "author": "Snake",
-    "lastUpdated": "2026-02-12T13:58:42Z",
+    "lastUpdated": "2026-03-24T12:31:01Z",
     "stars": 130,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -258,7 +258,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-03-24T03:50:05Z",
+    "lastUpdated": "2026-03-24T12:43:19Z",
     "stars": 86,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -454,7 +454,7 @@
     "version": "beta-1.4b",
     "hidden": true,
     "author": "EBwilson",
-    "lastUpdated": "2026-02-23T10:58:24Z",
+    "lastUpdated": "2026-03-24T11:49:16Z",
     "stars": 47,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -3094,13 +3094,27 @@
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.1",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-03-24T06:56:09Z",
+    "stars": 5,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "version": "v2-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-24T05:48:45Z",
+    "lastUpdated": "2026-03-24T11:48:06Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -3512,20 +3526,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My 2nd mod!\nCAMPAIGN ONLY 3 SECTOR DONE(Flooded wasteland, massSpread, LandZone)\nthe mod add a new planet, it seem... spreading and growing?\n\nThe Organization Have sent 7(?) ships and your mission is find them all.\n(you are the 8th)"
-  },
-  {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.1",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-03-24T06:56:09Z",
-    "stars": 4,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
@@ -4830,20 +4830,6 @@
     "description": "A co-op campaign mod for shared research. Players who joined the host can request research from the research screen, and the result is applied to the current campaign."
   },
   {
-    "repo": "m1cxzfw3q/thermal-engineering",
-    "internalName": "temod",
-    "name": "Thermal Engineering Java",
-    "version": "0.0.2pA",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-03-23T15:21:10Z",
-    "stars": 2,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4856,6 +4842,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "m1cxzfw3q/thermal-engineering",
+    "internalName": "temod",
+    "name": "Thermal Engineering Java",
+    "version": "0.0.2pA",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-03-24T13:12:04Z",
+    "stars": 2,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -5881,17 +5881,17 @@
   },
   {
     "repo": "unionofsovietsocialistrepublics/unfog",
-    "internalName": "unfog",
-    "name": "Unfog",
-    "version": "0.2",
-    "hidden": "true",
-    "author": "Water molecules",
+    "internalName": "netromusic",
+    "name": "Netronium: TFS Music",
+    "version": "1",
+    "hidden": false,
+    "author": "[orange]Sunky.MP3G",
     "lastUpdated": "2026-02-23T13:46:11Z",
     "stars": 1,
-    "minGameVersion": "154",
+    "minGameVersion": "147",
     "hasScripts": true,
-    "hasJava": false,
-    "description": "Unfog your fog of war, might be a little bit unfair.\nYes, This works on multiplayer."
+    "hasJava": true,
+    "description": "An OST for Netronium: The Final Showdown mod.\nList of music:\nTo The Unknown (Launch theme) by Sunky.MP3G"
   },
   {
     "repo": "frilofril/omega",
@@ -6662,20 +6662,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod gives you spiders from Deep Rock Galactic. My YouTube channel is Dedshotgame's."
-  },
-  {
-    "repo": "sunkymp3g/netroniummusic",
-    "internalName": "netromusic",
-    "name": "Netronium: TFS Music",
-    "version": "1",
-    "hidden": false,
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2025-05-08T05:46:45Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An OST for Netronium: The Final Showdown mod.\nList of music:\nTo The Unknown (Launch theme) by Sunky.MP3G"
   },
   {
     "repo": "durmiendo/extendlogs",
