@@ -664,7 +664,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-25T07:31:43Z",
+    "lastUpdated": "2026-03-25T11:28:57Z",
     "stars": 33,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -3094,20 +3094,6 @@
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v2-Gier",
-    "hidden": false,
-    "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-25T07:45:54Z",
-    "stars": 5,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -3120,6 +3106,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v2-Gier",
+    "hidden": false,
+    "author": "Fat Bird's Owner - Main Developer",
+    "lastUpdated": "2026-03-25T13:11:18Z",
+    "stars": 5,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n"
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -4830,20 +4830,6 @@
     "description": "A co-op campaign mod for shared research. Players who joined the host can request research from the research screen, and the result is applied to the current campaign."
   },
   {
-    "repo": "m1cxzfw3q/thermal-engineering",
-    "internalName": "temod",
-    "name": "Thermal Engineering Java",
-    "version": "0.0.2pA",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-03-24T13:46:06Z",
-    "stars": 2,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4856,6 +4842,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "m1cxzfw3q/thermal-engineering",
+    "internalName": "temod",
+    "name": "Thermal Engineering Java",
+    "version": "0.0.2pA",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-03-25T12:32:32Z",
+    "stars": 2,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
