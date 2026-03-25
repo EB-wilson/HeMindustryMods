@@ -258,7 +258,7 @@
     "version": "3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-03-24T19:01:37Z",
+    "lastUpdated": "2026-03-25T00:30:22Z",
     "stars": 86,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -700,20 +700,6 @@
     "description": "Dynamic load custom contents patch account to server"
   },
   {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "(Beta) Build 8",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2026-03-18T13:17:26Z",
-    "stars": 31,
-    "minGameVersion": "155.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
-  },
-  {
     "repo": "electricgun/cheat-codes-mod",
     "internalName": "cheat-codes",
     "name": "Cheat Codes Mod",
@@ -721,11 +707,25 @@
     "hidden": true,
     "author": "electricgun",
     "lastUpdated": "2026-02-26T15:49:06Z",
-    "stars": 30,
+    "stars": 31,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
+  },
+  {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "(Beta) Build 8",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2026-03-25T00:58:24Z",
+    "stars": 31,
+    "minGameVersion": "155.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
     "repo": "xpdustry/claj",
