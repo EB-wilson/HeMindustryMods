@@ -412,7 +412,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-03-25T04:11:00Z",
+    "lastUpdated": "2026-03-25T05:53:46Z",
     "stars": 50,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -560,6 +560,20 @@
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "DeepSpace",
+    "version": "Alpha-4179",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-03-23T13:42:20Z",
+    "stars": 39,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "半成品模组,目的是为mdt添加更多的内容"
+  },
+  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
@@ -572,20 +586,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No nowhere has nothing anywhere."
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "DeepSpace",
-    "version": "Alpha-4179",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-03-23T13:42:20Z",
-    "stars": 38,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
     "repo": "rogeh4/virtual-scheme-pack-",
@@ -664,7 +664,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-24T07:35:33Z",
+    "lastUpdated": "2026-03-25T07:01:30Z",
     "stars": 33,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1448,7 +1448,7 @@
     "version": "1.8.0",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-03-23T11:08:11Z",
+    "lastUpdated": "2026-03-25T05:33:52Z",
     "stars": 13,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2688,20 +2688,6 @@
     "description": ""
   },
   {
-    "repo": "i-drink-gasoline/admin-button-2",
-    "internalName": "admin-button-2",
-    "name": "Admin Button 2",
-    "version": "25.1",
-    "hidden": true,
-    "author": "I drink gasoline",
-    "lastUpdated": "2026-02-22T11:01:43Z",
-    "stars": 6,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add an admin button."
-  },
-  {
     "repo": "sharlottes/mlogwatcher",
     "internalName": "mlogwatcher",
     "name": "MlogWatcher",
@@ -2742,6 +2728,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
+  },
+  {
+    "repo": "i-drink-gasoline/admin-button-2",
+    "internalName": "admin-button-2",
+    "name": "Admin Button 2",
+    "version": "26",
+    "hidden": true,
+    "author": "I drink gasoline",
+    "lastUpdated": "2026-03-25T06:20:27Z",
+    "stars": 6,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add an admin button."
   },
   {
     "repo": "obamination/minedustry",
@@ -3114,7 +3114,7 @@
     "version": "v2-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-24T11:48:06Z",
+    "lastUpdated": "2026-03-25T06:56:17Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
