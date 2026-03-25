@@ -560,20 +560,6 @@
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "DeepSpace",
-    "version": "Alpha-4179",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-03-23T13:42:20Z",
-    "stars": 39,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "半成品模组,目的是为mdt添加更多的内容"
-  },
-  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
@@ -586,6 +572,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No nowhere has nothing anywhere."
+  },
+  {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "DeepSpace",
+    "version": "Alpha-4179",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-03-25T10:11:38Z",
+    "stars": 39,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
     "repo": "rogeh4/virtual-scheme-pack-",
@@ -3094,20 +3094,6 @@
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.1",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-03-24T06:56:09Z",
-    "stars": 5,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
@@ -3120,6 +3106,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.1",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-03-25T10:27:27Z",
+    "stars": 5,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -7084,20 +7084,6 @@
     "description": "Semi-realistic iron-based mod. Modifies serpulo progression and vanilla balance."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.1",
-    "hidden": false,
-    "author": "一瓶圣水",
-    "lastUpdated": "2026-03-02T08:48:11Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "三角模组2.x半成品"
-  },
-  {
     "repo": "meesst/mindustry-multiunitbindmod",
     "internalName": "logic-extend-mod",
     "name": "LogicExtendMod - 逻辑指令扩展",
@@ -7152,5 +7138,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extends your UI with useful features."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "一瓶圣水",
+    "lastUpdated": "2026-03-25T09:19:01Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "三角模组2.x半成品"
   }
 ]
