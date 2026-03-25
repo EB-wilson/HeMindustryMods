@@ -2422,6 +2422,20 @@
     "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
   },
   {
+    "repo": "sharlottes/mlogwatcher",
+    "internalName": "mlogwatcher",
+    "name": "MlogWatcher",
+    "version": "0.4v",
+    "hidden": true,
+    "author": "Sharlottes",
+    "lastUpdated": "2026-03-07T02:53:03Z",
+    "stars": 7,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
+  },
+  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -2686,20 +2700,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "sharlottes/mlogwatcher",
-    "internalName": "mlogwatcher",
-    "name": "MlogWatcher",
-    "version": "0.4v",
-    "hidden": true,
-    "author": "Sharlottes",
-    "lastUpdated": "2026-03-07T02:53:03Z",
-    "stars": 6,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
   },
   {
     "repo": "koctz34/browser-windows",
@@ -5444,20 +5444,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gradually updating."
-  },
-  {
-    "repo": "saniiis/morecraft",
-    "internalName": "morecraft",
-    "name": "MoreCraft",
-    "version": "1.9a",
-    "hidden": false,
-    "author": "saniiis",
-    "lastUpdated": "2025-04-09T08:10:11Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod adds a lot of new blocks and items"
   },
   {
     "repo": "leyn-pl/randomaccent",
