@@ -62,7 +62,7 @@
     "version": "v4.47.4-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-03-28T08:53:38Z",
+    "lastUpdated": "2026-03-28T15:15:34Z",
     "stars": 196,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -91,7 +91,7 @@
     "hidden": true,
     "author": "sk7725",
     "lastUpdated": "2024-07-25T09:11:47Z",
-    "stars": 166,
+    "stars": 167,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -546,6 +546,20 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "DeepSpace",
+    "version": "Alpha-4179",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-03-26T14:14:06Z",
+    "stars": 40,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "半成品模组,目的是为mdt添加更多的内容"
+  },
+  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
@@ -572,20 +586,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "DeepSpace",
-    "version": "Alpha-4179",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-03-26T14:14:06Z",
-    "stars": 39,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
     "repo": "rogeh4/virtual-scheme-pack-",
@@ -622,7 +622,7 @@
     "version": "1.5.8",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-03-28T13:22:56Z",
+    "lastUpdated": "2026-03-28T14:57:45Z",
     "stars": 36,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -966,6 +966,20 @@
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radii go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
+    "repo": "xtarsagency/zeridmuth",
+    "internalName": "zeridmuth",
+    "name": "Zeridmuth: A New Beginning",
+    "version": "v1.336.8B",
+    "hidden": false,
+    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
+    "lastUpdated": "2025-06-24T11:05:52Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
+  },
+  {
     "repo": "typicaldeveloper123/biotic-zlo",
     "internalName": "corpuscles",
     "name": "Corpuscles",
@@ -1006,20 +1020,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My new planet mod!"
-  },
-  {
-    "repo": "xtarsagency/zeridmuth",
-    "internalName": "zeridmuth",
-    "name": "Zeridmuth: A New Beginning",
-    "version": "v1.336.8B",
-    "hidden": false,
-    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2025-06-24T11:05:52Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
     "repo": "itzcraft/xanthia",
@@ -2184,7 +2184,7 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "wantechfan/mindustry-mod-some-musics",
+    "repo": "wantechfan/mindustry-cool-musics",
     "internalName": "cool-musics",
     "name": "Cool Musics",
     "version": "1.2.2",
@@ -2204,7 +2204,7 @@
     "version": "beta.0.2",
     "hidden": false,
     "author": "牢陌泽",
-    "lastUpdated": "2026-03-28T09:29:02Z",
+    "lastUpdated": "2026-03-28T15:20:30Z",
     "stars": 8,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2512,7 +2512,7 @@
     "version": "1.9",
     "hidden": true,
     "author": "WantechFan",
-    "lastUpdated": "2026-03-28T07:48:01Z",
+    "lastUpdated": "2026-03-28T16:12:53Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3114,7 +3114,7 @@
     "version": "v2-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-28T14:28:41Z",
+    "lastUpdated": "2026-03-28T14:47:45Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -3498,6 +3498,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My 2nd mod!\nCAMPAIGN ONLY 3 SECTOR DONE(Flooded wasteland, massSpread, LandZone)\nthe mod add a new planet, it seem... spreading and growing?\n\nThe Organization Have sent 7(?) ships and your mission is find them all.\n(you are the 8th)"
+  },
+  {
+    "repo": "darkdustry-coders/mindurkacompat",
+    "internalName": "mindurkacompat",
+    "name": "MindurkaCompat",
+    "version": "2.0",
+    "hidden": true,
+    "author": "buj",
+    "lastUpdated": "2026-03-22T17:28:04Z",
+    "stars": 4,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
@@ -3960,20 +3974,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff, yes, it's that simple. And dumb."
-  },
-  {
-    "repo": "darkdustry-coders/mindurkacompat",
-    "internalName": "mindurkacompat",
-    "name": "MindurkaCompat",
-    "version": "2.0",
-    "hidden": true,
-    "author": "buj",
-    "lastUpdated": "2026-03-22T17:28:04Z",
-    "stars": 3,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
     "repo": "chuvaak/futurehorizons",
