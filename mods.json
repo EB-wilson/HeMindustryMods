@@ -49,7 +49,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-03-26T05:48:07Z",
-    "stars": 218,
+    "stars": 219,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -664,7 +664,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-27T14:22:48Z",
+    "lastUpdated": "2026-03-28T04:35:32Z",
     "stars": 33,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1445,10 +1445,10 @@
     "repo": "dustdustry/patcheditor",
     "internalName": "patch-editor",
     "name": "PatchEditor",
-    "version": "1.8.1",
+    "version": "1.8.2",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-03-27T01:58:26Z",
+    "lastUpdated": "2026-03-28T02:48:04Z",
     "stars": 13,
     "minGameVersion": "156",
     "hasScripts": false,
@@ -2492,20 +2492,6 @@
     "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2026-03-26T05:31:46Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
@@ -2518,6 +2504,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2026-03-28T04:03:27Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -3114,7 +3114,7 @@
     "version": "v2-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-27T15:30:10Z",
+    "lastUpdated": "2026-03-28T04:45:06Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -5628,20 +5628,6 @@
     "description": "提供一些辅助功能, 例如修改资源,建筑,单位,地图, 以及各种方便大家游玩的功能"
   },
   {
-    "repo": "radiancestorm/mindustry-corona-borealis",
-    "internalName": "coronaborealismod",
-    "name": "Corona Borealis",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Radiance / RadianceStorm",
-    "lastUpdated": "2025-10-20T16:56:01Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A planet shrouded in arcane mysteries."
-  },
-  {
     "repo": "hfg00559-rgb/re-industry",
     "internalName": "industry",
     "name": "Re:Industry",
@@ -5962,6 +5948,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "radiancestorm/mindustry-corona-borealis",
+    "internalName": "coronaborealismod",
+    "name": "Corona Borealis",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Radiance / RadianceStorm",
+    "lastUpdated": "2026-03-28T02:17:53Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A planet shrouded in arcane mysteries."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
