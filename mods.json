@@ -476,6 +476,20 @@
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "DeepSpace",
+    "version": "Alpha-5013",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-03-29T11:57:11Z",
+    "stars": 42,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "半成品模组,目的是为mdt添加更多的内容"
+  },
+  {
     "repo": "uenhe/fire",
     "internalName": "fire",
     "name": "Fire",
@@ -488,20 +502,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "DeepSpace",
-    "version": "Alpha-5013",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-03-29T06:46:45Z",
-    "stars": 41,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
     "repo": "oleglysukhin/cheat",
@@ -664,7 +664,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-29T09:32:59Z",
+    "lastUpdated": "2026-03-29T12:41:29Z",
     "stars": 33,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -882,20 +882,6 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
-    "repo": "bsp-2/echo-fleet",
-    "internalName": "echo-fleet",
-    "name": "Echo Fleet",
-    "version": "",
-    "hidden": false,
-    "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-03-13T15:28:18Z",
-    "stars": 25,
-    "minGameVersion": "152.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \n[royal]Kaltos[] is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \n[gold]Aetheria[] on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on [royal]Kaltos[] and [gold]Aetheria[]. \n\n[red]This mod is still in early development,[] as of now it only adds a bunch of [accent]sandbox only blocks[] and [accent]environment tiles[]. Several sectors have been made already, more are yet to come. It also has custom music. \n\nOther then that, the mod focuses on [accent]complex factories[] and [accent]refining Crude Oil[]. \n\n[accent]I re-used no content from vanilla, even though this mod seemingly has several things from it. \n\n[red]Currently the mod is way too early into development to have any proper translations. \n\n[]Have fun with whats already added, I guess. :)"
-  },
-  {
     "repo": "teamviscott/modprojectviscott",
     "internalName": "project-viscott",
     "name": "Project Viscott",
@@ -908,6 +894,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
+  },
+  {
+    "repo": "bsp-2/echo-fleet",
+    "internalName": "echo-fleet",
+    "name": "Echo Fleet",
+    "version": "",
+    "hidden": false,
+    "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
+    "lastUpdated": "2026-03-29T12:43:10Z",
+    "stars": 25,
+    "minGameVersion": "152.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \n[royal]Kaltos[] is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \n[gold]Aetheria[] on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on [royal]Kaltos[] and [gold]Aetheria[]. \n\n[red]This mod is still in early development,[] as of now it only adds a bunch of [accent]sandbox only blocks[] and [accent]environment tiles[]. Several sectors have been made already, more are yet to come. It also has custom music. \n\nOther then that, the mod focuses on [accent]complex factories[] and [accent]refining Crude Oil[]. \n\n[accent]I re-used no content from vanilla, even though this mod seemingly has several things from it. \n\n[red]Currently the mod is way too early into development to have any proper translations. \n\n[]Have fun with whats already added, I guess. :)"
   },
   {
     "repo": "mindustrydagger/vanillaplus",
@@ -2184,6 +2184,20 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.1",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-03-20T05:52:02Z",
+    "stars": 8,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
     "repo": "wantechfan/mindustry-cool-musics",
     "internalName": "cool-musics",
     "name": "Cool Musics",
@@ -2201,10 +2215,10 @@
     "repo": "laomoze/warhammer",
     "internalName": "wh",
     "name": "WarHammer",
-    "version": "beta.0.2",
+    "version": "beta.0.4",
     "hidden": false,
     "author": "牢陌泽",
-    "lastUpdated": "2026-03-28T15:20:30Z",
+    "lastUpdated": "2026-03-29T12:41:32Z",
     "stars": 8,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2462,20 +2476,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
-  },
-  {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.1",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-03-20T05:52:02Z",
-    "stars": 7,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
     "repo": "sputnuc/deepsea",
@@ -3114,7 +3114,7 @@
     "version": "v2-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-29T10:32:45Z",
+    "lastUpdated": "2026-03-29T12:15:06Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
