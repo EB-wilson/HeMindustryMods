@@ -62,7 +62,7 @@
     "version": "v4.50.2-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-03-29T18:40:32Z",
+    "lastUpdated": "2026-03-29T20:32:14Z",
     "stars": 196,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -798,20 +798,6 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
-    "repo": "wmf-industries/expandedindustries",
-    "internalName": "ei",
-    "name": "Expanded Industries",
-    "version": "1.8.3",
-    "hidden": false,
-    "author": "WMF Industries",
-    "lastUpdated": "2026-03-26T14:12:10Z",
-    "stars": 27,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Some content for people to enjoy :>"
-  },
-  {
     "repo": "00sunray00/scheme-size-port",
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
@@ -824,6 +810,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
+  },
+  {
+    "repo": "wmf-industries/expandedindustries",
+    "internalName": "ei",
+    "name": "Expanded Industries",
+    "version": "1.8.4",
+    "hidden": false,
+    "author": "WMF Industries",
+    "lastUpdated": "2026-03-29T20:00:47Z",
+    "stars": 27,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Some content for people to enjoy :>"
   },
   {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
@@ -902,7 +902,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-03-29T15:21:38Z",
+    "lastUpdated": "2026-03-29T20:19:11Z",
     "stars": 25,
     "minGameVersion": "152.2",
     "hasScripts": true,
