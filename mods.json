@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-03-26T15:42:14Z",
-    "stars": 557,
+    "stars": 558,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v4.50.1-v8",
+    "version": "v4.50.2-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-03-29T14:11:49Z",
+    "lastUpdated": "2026-03-29T18:40:32Z",
     "stars": 196,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -5937,17 +5937,17 @@
   },
   {
     "repo": "axilians/arx-alpha-mod-mindustry",
-    "internalName": "arx-axilians-alpha",
-    "name": "⚠ Arx Test Mod",
-    "version": "0.0.1",
+    "internalName": "arx-khimeris",
+    "name": "⚠ Test Mod",
+    "version": "0.0.2",
     "hidden": false,
     "author": "Axilians",
-    "lastUpdated": "2026-03-29T16:21:21Z",
+    "lastUpdated": "2026-03-29T18:38:51Z",
     "stars": 1,
     "minGameVersion": "155",
     "hasScripts": false,
     "hasJava": true,
-    "description": "The test mod \n"
+    "description": "[red]Do not[] install this mod \n"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -7096,5 +7096,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "In-game chat translator for Mindustry."
+  },
+  {
+    "repo": "cardillan/mlogwatcher7",
+    "internalName": "mlogwatcher7",
+    "name": "MlogWatcher (v7)",
+    "version": "0.4v",
+    "hidden": true,
+    "author": "Sharlottes",
+    "lastUpdated": "2026-03-29T17:54:33Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
   }
 ]
