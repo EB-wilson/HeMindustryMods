@@ -412,7 +412,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-03-31T15:01:28Z",
+    "lastUpdated": "2026-03-31T15:24:43Z",
     "stars": 50,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -482,7 +482,7 @@
     "version": "Alpha-5013",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-03-30T09:25:57Z",
+    "lastUpdated": "2026-03-31T15:03:28Z",
     "stars": 42,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -1375,15 +1375,15 @@
     "repo": "sunkenmelody/rospule",
     "internalName": "rospule",
     "name": "「Rospule」",
-    "version": "v0.4",
+    "version": "v0.4.2",
     "hidden": false,
     "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
-    "lastUpdated": "2026-03-31T06:00:56Z",
+    "lastUpdated": "2026-03-31T16:30:57Z",
     "stars": 14,
     "minGameVersion": "156",
     "hasScripts": false,
     "hasJava": false,
-    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\n\r\nUpdate log: V0.4-- Stage 4-6 to Stage 4-10 added.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
+    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.4 -- Stage 4-6 to Stage 4-10 added.\r\nV0.4.2 -- Polished the texts and 1-10 , 2-10 and 3-10 sectors with a brief ending congrat message.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
   },
   {
     "repo": "seuearth/factroundustry",
@@ -1904,20 +1904,6 @@
     "description": "Displays more stats in database. Unhides few things. Multiplayer compatible.\nПоказывает больше информации в базе данных. Открывает пару скрытых вещей. Не влияет на игру по сети"
   },
   {
-    "repo": "oleglysukhin/admintool",
-    "internalName": "admintool",
-    "name": "AdminTool",
-    "version": "1.1",
-    "hidden": true,
-    "author": "paulieg626",
-    "lastUpdated": "2025-11-20T18:02:47Z",
-    "stars": 9,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
-  },
-  {
     "repo": "cyanide863/arikoth",
     "internalName": "arikoth",
     "name": "Arikoth",
@@ -2198,6 +2184,20 @@
     "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
+    "repo": "sputnuc/deepsea",
+    "internalName": "deepsea",
+    "name": "Project: Deep Sea (Alpha)",
+    "version": "0.2",
+    "hidden": false,
+    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
+    "lastUpdated": "2026-03-25T19:21:50Z",
+    "stars": 8,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
+  },
+  {
     "repo": "wantechfan/mindustry-cool-musics",
     "internalName": "cool-musics",
     "name": "Cool Musics",
@@ -2476,20 +2476,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
-  },
-  {
-    "repo": "sputnuc/deepsea",
-    "internalName": "deepsea",
-    "name": "Project: Deep Sea (Alpha)",
-    "version": "0.2",
-    "hidden": false,
-    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
-    "lastUpdated": "2026-03-25T19:21:50Z",
-    "stars": 7,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
     "repo": "mindustryid/terjemahanindonesia",
