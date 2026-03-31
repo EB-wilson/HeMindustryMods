@@ -1904,6 +1904,20 @@
     "description": "Displays more stats in database. Unhides few things. Multiplayer compatible.\nПоказывает больше информации в базе данных. Открывает пару скрытых вещей. Не влияет на игру по сети"
   },
   {
+    "repo": "oleglysukhin/admintool",
+    "internalName": "admintool",
+    "name": "AdminTool",
+    "version": "1.1",
+    "hidden": true,
+    "author": "paulieg626",
+    "lastUpdated": "2025-11-20T18:02:47Z",
+    "stars": 9,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
+  },
+  {
     "repo": "cyanide863/arikoth",
     "internalName": "arikoth",
     "name": "Arikoth",
@@ -4878,7 +4892,7 @@
     "version": "1.8",
     "hidden": false,
     "author": "Hello",
-    "lastUpdated": "2026-03-30T21:53:40Z",
+    "lastUpdated": "2026-03-31T18:15:52Z",
     "stars": 2,
     "minGameVersion": "155",
     "hasScripts": false,
