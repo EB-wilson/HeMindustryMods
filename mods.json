@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-04-01T08:02:20Z",
+    "lastUpdated": "2026-04-01T10:16:05Z",
     "stars": 558,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-04-01T03:09:30Z",
+    "lastUpdated": "2026-04-01T09:43:45Z",
     "stars": 133,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -650,7 +650,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-31T11:28:54Z",
+    "lastUpdated": "2026-04-01T10:51:58Z",
     "stars": 34,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -902,7 +902,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-04-01T05:41:33Z",
+    "lastUpdated": "2026-04-01T10:02:35Z",
     "stars": 25,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -2184,20 +2184,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.1",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-03-20T05:52:02Z",
-    "stars": 8,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
-  },
-  {
     "repo": "sputnuc/deepsea",
     "internalName": "deepsea",
     "name": "Project: Deep Sea (Alpha)",
@@ -2226,13 +2212,27 @@
     "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.1",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-04-01T10:10:23Z",
+    "stars": 8,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
     "repo": "wantechfan/mindustry-cursed-bundles",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
     "version": "1.9",
     "hidden": true,
     "author": "WantechFan",
-    "lastUpdated": "2026-03-31T08:02:07Z",
+    "lastUpdated": "2026-04-01T10:11:40Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2716,20 +2716,6 @@
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101.1",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-03-20T05:46:52Z",
-    "stars": 6,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
-  },
-  {
     "repo": "i-drink-gasoline/admin-button-2",
     "internalName": "admin-button-2",
     "name": "Admin Button 2",
@@ -2742,6 +2728,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add an admin button."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101.1",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-04-01T10:09:10Z",
+    "stars": 6,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
   },
   {
     "repo": "obamination/minedustry",
@@ -3136,20 +3136,6 @@
     "description": "Hbm's NTM (by Bobcat) in mindustry!\nMinecraft, Satisfactory, Rust, and other...\n\nOnly decor blocks\n\nDisable linear filtering in settings!"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.1",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-03-25T10:27:27Z",
-    "stars": 5,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
     "repo": "momiji142857/ve-addon-schematics",
     "internalName": "ve-addon-schematics",
     "name": "VE Addon: Schematics",
@@ -3176,6 +3162,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.1",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-04-01T10:07:53Z",
+    "stars": 5,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "konkitoman/speedctlman",
