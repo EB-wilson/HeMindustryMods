@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-04-01T12:42:49Z",
+    "lastUpdated": "2026-04-01T18:51:12Z",
     "stars": 134,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2730,6 +2730,20 @@
     "description": "Add an admin button."
   },
   {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.1",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-04-01T10:07:53Z",
+    "stars": 6,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -3148,20 +3162,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-03-27[white]"
-  },
-  {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.1",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-04-01T10:07:53Z",
-    "stars": 5,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "fat-bird-owner/gier-revitalized",
@@ -4886,13 +4886,27 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
+    "repo": "axilians/arx-alpha-mod-mindustry",
+    "internalName": "arx-khimeris",
+    "name": "⚠ Test Mod",
+    "version": "0.0.2",
+    "hidden": false,
+    "author": "Axilians",
+    "lastUpdated": "2026-03-29T18:38:51Z",
+    "stars": 2,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]Do not[] install this mod \n"
+  },
+  {
     "repo": "jennii94900-tech/mod",
     "internalName": "ochpoch-mob",
     "name": "hooligan",
     "version": "1.8",
     "hidden": false,
     "author": "Hello",
-    "lastUpdated": "2026-04-01T07:56:07Z",
+    "lastUpdated": "2026-04-01T18:43:22Z",
     "stars": 2,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -6060,20 +6074,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A planet shrouded in arcane mysteries."
-  },
-  {
-    "repo": "axilians/arx-alpha-mod-mindustry",
-    "internalName": "arx-khimeris",
-    "name": "⚠ Test Mod",
-    "version": "0.0.2",
-    "hidden": false,
-    "author": "Axilians",
-    "lastUpdated": "2026-03-29T18:38:51Z",
-    "stars": 1,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]Do not[] install this mod \n"
   },
   {
     "repo": "lehanchic25/hardcore-mod",
