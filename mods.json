@@ -48,7 +48,7 @@
     "version": "1.7.2",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2026-03-30T17:22:20Z",
+    "lastUpdated": "2026-04-01T11:25:29Z",
     "stars": 220,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-04-01T09:43:45Z",
+    "lastUpdated": "2026-04-01T12:42:49Z",
     "stars": 133,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -412,7 +412,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-04-01T04:48:54Z",
+    "lastUpdated": "2026-04-01T12:06:49Z",
     "stars": 50,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -650,7 +650,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-01T10:51:58Z",
+    "lastUpdated": "2026-04-01T11:43:58Z",
     "stars": 34,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1288,6 +1288,20 @@
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
   },
   {
+    "repo": "sunkenmelody/rospule",
+    "internalName": "rospule",
+    "name": "「Rospule」",
+    "version": "v0.4.2",
+    "hidden": false,
+    "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
+    "lastUpdated": "2026-03-31T16:30:57Z",
+    "stars": 16,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.4 -- Stage 4-6 to Stage 4-10 added.\r\nV0.4.2 -- Polished the texts and 1-10 , 2-10 and 3-10 sectors with a brief ending congrat message.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
+  },
+  {
     "repo": "yuria-shikibe/gameinfoimager",
     "internalName": "game-info-imager",
     "name": "Game Info Imager",
@@ -1370,20 +1384,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
-    "repo": "sunkenmelody/rospule",
-    "internalName": "rospule",
-    "name": "「Rospule」",
-    "version": "v0.4.2",
-    "hidden": false,
-    "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
-    "lastUpdated": "2026-03-31T16:30:57Z",
-    "stars": 14,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.4 -- Stage 4-6 to Stage 4-10 added.\r\nV0.4.2 -- Polished the texts and 1-10 , 2-10 and 3-10 sectors with a brief ending congrat message.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
   },
   {
     "repo": "seuearth/factroundustry",
@@ -1946,6 +1946,20 @@
     "description": "Adds a dialog for turning images into schematics"
   },
   {
+    "repo": "m1cxzfw3q/endfield_industry",
+    "internalName": "endfield-industry",
+    "name": "Endfield Industry",
+    "version": "0.1",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-02-25T06:14:59Z",
+    "stars": 9,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n神秘mod\n贴图抠得依托势，但胜在能看（）\n"
+  },
+  {
     "repo": "laomoze/warhammer",
     "internalName": "wh",
     "name": "WarHammer",
@@ -2126,20 +2140,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Improves your experience on the official io  Flood server."
-  },
-  {
-    "repo": "m1cxzfw3q/endfield_industry",
-    "internalName": "endfield-industry",
-    "name": "Endfield Industry",
-    "version": "0.1",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-02-25T06:14:59Z",
-    "stars": 8,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n神秘mod\n贴图抠得依托势，但胜在能看（）\n"
   },
   {
     "repo": "sharlottes/mlogwatcher",
@@ -3150,20 +3150,6 @@
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-03-27[white]"
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v2-Gier",
-    "hidden": false,
-    "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-04-01T05:03:30Z",
-    "stars": 5,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -3176,6 +3162,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v2-Gier",
+    "hidden": false,
+    "author": "Fat Bird's Owner - Main Developer",
+    "lastUpdated": "2026-04-01T13:00:51Z",
+    "stars": 5,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n"
   },
   {
     "repo": "konkitoman/speedctlman",
