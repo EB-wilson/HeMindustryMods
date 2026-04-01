@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-03-31T10:46:38Z",
+    "lastUpdated": "2026-04-01T08:02:20Z",
     "stars": 558,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -4892,7 +4892,7 @@
     "version": "1.8",
     "hidden": false,
     "author": "Hello",
-    "lastUpdated": "2026-04-01T07:21:04Z",
+    "lastUpdated": "2026-04-01T07:56:07Z",
     "stars": 2,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -5558,20 +5558,6 @@
     "description": "JSON-javaScript compliation of several mods that are unplayable. \n\nThe contents as they were, no balancing adjustments, no respriting unless prompted. All sprites belong to respective owners"
   },
   {
-    "repo": "ovulam5480/media2logic",
-    "internalName": "mod",
-    "name": "Media2Logic",
-    "version": "0.2.2",
-    "hidden": true,
-    "author": "Ovulam5480",
-    "lastUpdated": "2025-07-04T14:08:31Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "图片转逻辑模组, 图片只支持png格式 \n蓝图生成完成后请及时重启游戏, 释放内存"
-  },
-  {
     "repo": "dong-wo-long/fear1-ost",
     "internalName": "fear1-ost",
     "name": "F.E.A.R. 1 ost",
@@ -6116,6 +6102,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "提供一些辅助功能, 例如修改资源,建筑,单位,地图, 以及各种方便大家游玩的功能"
+  },
+  {
+    "repo": "ovulam5480/media2logic",
+    "internalName": "mod",
+    "name": "Media2Logic",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Ovulam5480",
+    "lastUpdated": "2026-04-01T08:53:41Z",
+    "stars": 1,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "图片转逻辑模组, 图片只支持png格式 \n蓝图生成完成后请及时重启游戏, 释放内存 \n三角剖分低多边形算法思路来源于nce3xin, 三角剖分算法实现使用Tinfour库, \n爬山算法使用Geometrize库的思路"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
