@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-04-02T19:20:40Z",
+    "lastUpdated": "2026-04-03T16:01:56Z",
     "stars": 134,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -258,7 +258,7 @@
     "version": "3.9.3",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-04-03T14:14:26Z",
+    "lastUpdated": "2026-04-03T16:13:19Z",
     "stars": 89,
     "minGameVersion": "156.1",
     "hasScripts": false,
@@ -3590,7 +3590,7 @@
     "version": "1.8",
     "hidden": false,
     "author": "Hello",
-    "lastUpdated": "2026-04-03T13:48:03Z",
+    "lastUpdated": "2026-04-03T16:25:30Z",
     "stars": 4,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -6062,20 +6062,6 @@
     "description": "Real-time speed control for Mindustry. Customize speed limits and reset instantly with a clean UI."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.2.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-03-27T10:03:11Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "radiancestorm/mindustry-corona-borealis",
     "internalName": "coronaborealismod",
     "name": "Corona Borealis",
@@ -6144,6 +6130,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Brings back old SFX. \n[yellow]Still indev so don't expect much."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.2.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-04-03T16:37:07Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
