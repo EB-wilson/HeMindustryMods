@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-04-01T10:16:05Z",
+    "lastUpdated": "2026-04-03T04:56:20Z",
     "stars": 558,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -258,7 +258,7 @@
     "version": "3.9.3",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-04-03T01:21:00Z",
+    "lastUpdated": "2026-04-03T02:29:55Z",
     "stars": 89,
     "minGameVersion": "156.1",
     "hasScripts": false,
@@ -300,7 +300,7 @@
     "version": "0.4.0 Beta",
     "hidden": false,
     "author": "VvSeanGtvV",
-    "lastUpdated": "2026-04-03T02:00:18Z",
+    "lastUpdated": "2026-04-03T05:41:59Z",
     "stars": 68,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -378,6 +378,20 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
+    "repo": "pointifix/autodrill",
+    "internalName": "auto-drill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Pointifix",
+    "lastUpdated": "2025-09-20T15:42:00Z",
+    "stars": 54,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "internalName": "fooinstaller",
     "name": "Foo's Client Installer",
@@ -390,20 +404,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
-    "repo": "pointifix/autodrill",
-    "internalName": "auto-drill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Pointifix",
-    "lastUpdated": "2025-09-20T15:42:00Z",
-    "stars": 53,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "tnmspiroct/exoprosopa",
@@ -2758,6 +2758,20 @@
     "description": "Add an admin button."
   },
   {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v2-Gier",
+    "hidden": false,
+    "author": "Fat Bird's Owner - Main Developer",
+    "lastUpdated": "2026-04-03T05:09:25Z",
+    "stars": 6,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n"
+  },
+  {
     "repo": "obamination/minedustry",
     "internalName": "minedustry",
     "name": "Minedustry",
@@ -3162,20 +3176,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-03-27[white]"
-  },
-  {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v2-Gier",
-    "hidden": false,
-    "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-04-02T15:08:22Z",
-    "stars": 5,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n"
   },
   {
     "repo": "konkitoman/speedctlman",
