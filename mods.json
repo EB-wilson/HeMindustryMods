@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-04-03T08:34:11Z",
-    "stars": 558,
+    "stars": 559,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -49,7 +49,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-04-03T17:50:13Z",
-    "stars": 221,
+    "stars": 222,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-04-04T13:17:57Z",
-    "stars": 198,
+    "stars": 199,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -238,6 +238,20 @@
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
+    "repo": "twcash/aquarion",
+    "internalName": "aquarion",
+    "name": "aquarion",
+    "version": "3.9.3",
+    "hidden": false,
+    "author": "twcash",
+    "lastUpdated": "2026-04-04T20:07:50Z",
+    "stars": 90,
+    "minGameVersion": "156.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "INCOMPATIABLE WITH MOST OTHER CONTENT MODS"
+  },
+  {
     "repo": "zielonytrojkat/frozen-farlands",
     "internalName": "moon mod",
     "name": "Frozen Farlands",
@@ -250,20 +264,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
-  },
-  {
-    "repo": "twcash/aquarion",
-    "internalName": "aquarion",
-    "name": "aquarion",
-    "version": "3.9.3",
-    "hidden": false,
-    "author": "twcash",
-    "lastUpdated": "2026-04-04T20:07:50Z",
-    "stars": 89,
-    "minGameVersion": "156.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "INCOMPATIABLE WITH MOST OTHER CONTENT MODS"
   },
   {
     "repo": "meepoffaith/prog-mats-java",
@@ -427,7 +427,7 @@
     "hidden": false,
     "author": "EoD",
     "lastUpdated": "2024-06-29T00:19:27Z",
-    "stars": 48,
+    "stars": 49,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -1344,6 +1344,20 @@
     "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
   },
   {
+    "repo": "seuearth/factroundustry",
+    "internalName": "factroundustry",
+    "name": "Factroundustry",
+    "version": "1",
+    "hidden": "true",
+    "author": "SpaceEarthEX",
+    "lastUpdated": "2023-06-24T09:55:39Z",
+    "stars": 14,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Soundpack that changes all sounds and musics from Factorio.\n\nIf you use it with Xeloboyo/Factoriodustry, you can feel more factroio-like.\n(Mod is forted to 137 build.)"
+  },
+  {
     "repo": "reversteams/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
@@ -1378,26 +1392,12 @@
     "version": "1.8.2",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-04-03T01:58:48Z",
+    "lastUpdated": "2026-04-05T02:29:25Z",
     "stars": 14,
     "minGameVersion": "156",
     "hasScripts": false,
     "hasJava": true,
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
-    "repo": "seuearth/factroundustry",
-    "internalName": "factroundustry",
-    "name": "Factroundustry",
-    "version": "1",
-    "hidden": "true",
-    "author": "SpaceEarthEX",
-    "lastUpdated": "2023-06-24T09:55:39Z",
-    "stars": 13,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Soundpack that changes all sounds and musics from Factorio.\n\nIf you use it with Xeloboyo/Factoriodustry, you can feel more factroio-like.\n(Mod is forted to 137 build.)"
   },
   {
     "repo": "arksourcer/project-ark-public",
@@ -1694,6 +1694,20 @@
     "description": "Automatically translates chat messages"
   },
   {
+    "repo": "foxitos/cmd-pack",
+    "internalName": "cmd-scheme-pack",
+    "name": "CMD Scheme Pack",
+    "version": "2.0.0",
+    "hidden": true,
+    "author": "foxit, QUITE ETHER",
+    "lastUpdated": "2023-09-16T22:50:36Z",
+    "stars": 10,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
+  },
+  {
     "repo": "xzxadixzx/scheme-size-lite",
     "internalName": "scheme-size-lite",
     "name": "Scheme Size Lite",
@@ -1846,20 +1860,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
-  },
-  {
-    "repo": "foxitos/cmd-pack",
-    "internalName": "cmd-scheme-pack",
-    "name": "CMD Scheme Pack",
-    "version": "2.0.0",
-    "hidden": true,
-    "author": "foxit, QUITE ETHER",
-    "lastUpdated": "2023-09-16T22:50:36Z",
-    "stars": 9,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
   },
   {
     "repo": "i-hope1/mod.make",
@@ -2764,7 +2764,7 @@
     "version": "v2-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-04-04T15:55:38Z",
+    "lastUpdated": "2026-04-05T01:40:53Z",
     "stars": 6,
     "minGameVersion": "155",
     "hasScripts": true,
