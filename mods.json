@@ -244,7 +244,7 @@
     "version": "3.9.3",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-04-04T20:07:50Z",
+    "lastUpdated": "2026-04-06T02:19:07Z",
     "stars": 90,
     "minGameVersion": "156.1",
     "hasScripts": false,
@@ -636,7 +636,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-05T09:08:42Z",
+    "lastUpdated": "2026-04-06T02:23:59Z",
     "stars": 36,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1000,7 +1000,7 @@
     "version": "1.7.9",
     "hidden": false,
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2026-04-01T14:13:42Z",
+    "lastUpdated": "2026-04-06T02:24:44Z",
     "stars": 21,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1092,6 +1092,20 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
+    "repo": "dustdustry/itembridgex",
+    "internalName": "item-bridge-x",
+    "name": "ItemBridgeX",
+    "version": "2.6",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2025-07-16T03:57:20Z",
+    "stars": 19,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
     "repo": "hungrycloud4913/esocatalyst",
     "internalName": "esocatalyst",
     "name": "Esocatalyst",
@@ -1118,20 +1132,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
-  },
-  {
-    "repo": "dustdustry/itembridgex",
-    "internalName": "item-bridge-x",
-    "name": "ItemBridgeX",
-    "version": "2.6",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2025-07-16T03:57:20Z",
-    "stars": 18,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
     "repo": "echovespy/simplistic",
@@ -2534,6 +2534,20 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
   },
   {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v2-Gier",
+    "hidden": false,
+    "author": "Fat Bird's Owner - Main Developer",
+    "lastUpdated": "2026-04-06T00:58:05Z",
+    "stars": 7,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n"
+  },
+  {
     "repo": "silinveredno/music-remixes-pt-1",
     "internalName": "music remixes pt-1",
     "name": "Music remixes PT-1",
@@ -2716,6 +2730,20 @@
     "description": ""
   },
   {
+    "repo": "determination-wind/radial-build-menu-hud-",
+    "internalName": "radial-build-menu",
+    "name": "圆盘快捷建造 / Radial Build Menu",
+    "version": "5.5.2",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-02-20T10:18:42Z",
+    "stars": 6,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
+  },
+  {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
     "internalName": "interstellar-spaceline",
     "name": "Interstellar Spaceline",
@@ -2756,20 +2784,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add an admin button."
-  },
-  {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v2-Gier",
-    "hidden": false,
-    "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-04-05T13:56:08Z",
-    "stars": 6,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n"
   },
   {
     "repo": "obamination/minedustry",
@@ -3108,20 +3122,6 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
   },
   {
-    "repo": "determination-wind/radial-build-menu-hud-",
-    "internalName": "radial-build-menu",
-    "name": "圆盘快捷建造 / Radial Build Menu",
-    "version": "5.5.2",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-02-20T10:18:42Z",
-    "stars": 5,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
-  },
-  {
     "repo": "determination-wind/stealthpath",
     "internalName": "stealth-path",
     "name": "Stealth Path / 偷袭小道",
@@ -3176,6 +3176,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Hbm's NTM (by Bobcat) in mindustry!\nMinecraft, Satisfactory, Rust, Day R and other...\n\nOnly decorative blocks.\n\nDisable linear filtering in settings!"
+  },
+  {
+    "repo": "jennii94900-tech/mod",
+    "internalName": "ochpoch-mob",
+    "name": "hooligan",
+    "version": "1.8",
+    "hidden": false,
+    "author": "Hello",
+    "lastUpdated": "2026-04-05T19:31:35Z",
+    "stars": 5,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a new planet hooligan This mod is better to install on v8"
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -3582,20 +3596,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My 2nd mod!\nCAMPAIGN ONLY 3 SECTOR DONE(Flooded wasteland, massSpread, LandZone)\nthe mod add a new planet, it seem... spreading and growing?\n\nThe Organization Have sent 7(?) ships and your mission is find them all.\n(you are the 8th)"
-  },
-  {
-    "repo": "jennii94900-tech/mod",
-    "internalName": "ochpoch-mob",
-    "name": "hooligan",
-    "version": "1.8",
-    "hidden": false,
-    "author": "Hello",
-    "lastUpdated": "2026-04-05T19:31:35Z",
-    "stars": 4,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds a new planet hooligan This mod is better to install on v8"
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
