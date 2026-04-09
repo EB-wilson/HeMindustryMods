@@ -48,7 +48,7 @@
     "version": "1.7.2",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2026-04-08T14:18:26Z",
+    "lastUpdated": "2026-04-09T08:42:15Z",
     "stars": 225,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -636,7 +636,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-09T05:59:40Z",
+    "lastUpdated": "2026-04-09T09:04:29Z",
     "stars": 36,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -2554,7 +2554,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-09T06:40:51Z",
+    "lastUpdated": "2026-04-09T07:47:18Z",
     "stars": 7,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -4942,6 +4942,20 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
+    "repo": "wantechfan/mindustry-legacy-sounds",
+    "internalName": "legacy-sounds",
+    "name": "Legacy Sounds",
+    "version": "0.3",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-04-09T08:21:54Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Brings back old SFX. \n[yellow]Still indev so don't expect much.\nSupport this mod by contributing to it via pull request in this mod's repository."
+  },
+  {
     "repo": "manuwar73/remodeled_industry-java",
     "internalName": "remodeled-industry-java",
     "name": "Remodeled industry java",
@@ -6116,20 +6130,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "图片转逻辑模组, 图片只支持png格式 \n蓝图生成完成后请及时重启游戏, 释放内存 \n三角剖分低多边形算法思路来源于nce3xin, 三角剖分算法实现使用Tinfour库, \n爬山算法使用Geometrize库的思路"
-  },
-  {
-    "repo": "wantechfan/mindustry-legacy-sounds",
-    "internalName": "legacy-sounds",
-    "name": "Legacy Sounds",
-    "version": "0.2",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-04-03T12:41:43Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Brings back old SFX. \n[yellow]Still indev so don't expect much."
   },
   {
     "repo": "lehanchic25/hardcore-mod",
