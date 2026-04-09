@@ -336,6 +336,20 @@
     "description": "A mod focused on space exploration."
   },
   {
+    "repo": "liplum/multicrafterlib",
+    "internalName": "multi-crafter",
+    "name": "MultiCrafter Lib",
+    "version": "1.8",
+    "hidden": true,
+    "author": "[#42a5f5]Liplum[] & Jojo",
+    "lastUpdated": "2025-04-01T15:40:11Z",
+    "stars": 58,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod library for JSON and Javascript mods,\nincluding A crafter that supporting multiple recipes for items, fluids, power, and heat production.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
+  },
+  {
     "repo": "meepoffaith/testing-utilities-java",
     "internalName": "test-utils",
     "name": "Testing Utilities",
@@ -348,20 +362,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
-    "repo": "liplum/multicrafterlib",
-    "internalName": "multi-crafter",
-    "name": "MultiCrafter Lib",
-    "version": "1.8",
-    "hidden": true,
-    "author": "[#42a5f5]Liplum[] & Jojo",
-    "lastUpdated": "2025-04-01T15:40:11Z",
-    "stars": 57,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod library for JSON and Javascript mods,\nincluding A crafter that supporting multiple recipes for items, fluids, power, and heat production.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
     "repo": "sharlottes/sharustry",
@@ -650,7 +650,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-09T02:05:27Z",
+    "lastUpdated": "2026-04-09T04:26:29Z",
     "stars": 36,
     "minGameVersion": "154",
     "hasScripts": true,
