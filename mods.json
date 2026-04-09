@@ -1168,7 +1168,7 @@
     "version": "0.22",
     "hidden": false,
     "author": "pardon",
-    "lastUpdated": "2026-04-09T14:48:03Z",
+    "lastUpdated": "2026-04-09T15:43:22Z",
     "stars": 18,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -2520,20 +2520,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
   },
   {
-    "repo": "jennii94900-tech/mod",
-    "internalName": "ochpoch-mob",
-    "name": "hooligan",
-    "version": "1.8",
-    "hidden": false,
-    "author": "Hello",
-    "lastUpdated": "2026-04-09T12:45:16Z",
-    "stars": 7,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds a new planet hooligan This mod is better to install on v8"
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -2554,12 +2540,26 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-09T15:19:54Z",
+    "lastUpdated": "2026-04-09T15:47:59Z",
     "stars": 7,
     "minGameVersion": "156",
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n"
+  },
+  {
+    "repo": "jennii94900-tech/mod",
+    "internalName": "ochpoch-mob",
+    "name": "hooligan",
+    "version": "1.8",
+    "hidden": false,
+    "author": "Hello",
+    "lastUpdated": "2026-04-09T16:17:32Z",
+    "stars": 7,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a new planet hooligan This mod is better to install on v8"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -3164,20 +3164,6 @@
     "description": "A bundled toolkit: Power Grid Minimap + Stealth Path + Custom Marker + BetterScreenShot + Radial Build Menu + betterMiniMap + Server Player DataBase + betterMapEditor + Better Projector Overlay. / 辅助模组九合一：电网小地图叠加 + 偷袭小道 + 自定义标记 + BetterScreenShot + 圆盘快捷建造 + betterMiniMap + 玩家数据库 + 地图编辑增强 + 投影叠加。"
   },
   {
-    "repo": "momiji142857/ve-addon-schematics",
-    "internalName": "ve-addon-schematics",
-    "name": "VE Addon: Schematics",
-    "version": "v4.0.11",
-    "hidden": true,
-    "author": "本模组作者: [sky]Momiji142857[white]\n其他贡献者请见GitHub",
-    "lastUpdated": "2026-03-26T17:11:16Z",
-    "stars": 5,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-03-27[white]"
-  },
-  {
     "repo": "koctz34/minduntm",
     "internalName": "ntm",
     "name": "NTM - Nuclear tech mod",
@@ -3204,6 +3190,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A project of a mod that will include three planets but so far only two is playable.\n\nThis mod has to be played on 147+\n\nRusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential.\n\nDunes is a wasted planet near serpulo but far from the sun, take control and provide chaos to this dead planet.\n\nQuick notes: [\nLushion is currently in WIP.\nBe sure to have weather graphics for weather's if your on a low end device turn it off.\nMake sure to reinstall regular.\nGive a star if you enjoy Thanks!!!.\nThe sound is being worked on so don't worry to much\nmany sectors are kinda unbalanced so be warned iam balancing it \n}"
+  },
+  {
+    "repo": "momiji142857/ve-addon-schematics",
+    "internalName": "ve-addon-schematics",
+    "name": "VE Addon: Schematics",
+    "version": "v4.0.13",
+    "hidden": true,
+    "author": "VE模组作者: 火星人076\n本模组作者: [sky]Momiji142857[white]\n其他贡献者请见 GitHub 仓库",
+    "lastUpdated": "2026-04-09T16:42:57Z",
+    "stars": 5,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-04-09[white]"
   },
   {
     "repo": "konkitoman/speedctlman",
