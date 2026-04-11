@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-04-10T17:34:34Z",
-    "stars": 560,
+    "stars": 561,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-04-11T05:28:50Z",
-    "stars": 201,
+    "stars": 202,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -203,7 +203,7 @@
     "hidden": true,
     "author": "BlackDeluxeCat",
     "lastUpdated": "2026-03-01T09:47:17Z",
-    "stars": 107,
+    "stars": 108,
     "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
@@ -1456,6 +1456,20 @@
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
   },
   {
+    "repo": "rednzba990/warboundindustriesmod",
+    "internalName": "wi",
+    "name": "Warbound Industries",
+    "version": "1.93",
+    "hidden": false,
+    "author": "Rednz990 [ DC: @red.id9990 ]",
+    "lastUpdated": "2026-04-09T01:48:09Z",
+    "stars": 13,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#AEAEAE]A mod that focuses on improving the infrastructure industry which is useful in campaign mode.\n\nAdding more crafters, distribution blocks, drills, items, and new units(include combat units, and support units) to support your gameplay!\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!"
+  },
+  {
     "repo": "eclipse-04/avkott",
     "internalName": "avkott",
     "name": "Avkott",
@@ -1580,20 +1594,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
-  },
-  {
-    "repo": "rednzba990/warboundindustriesmod",
-    "internalName": "wi",
-    "name": "Warbound Industries",
-    "version": "1.93",
-    "hidden": false,
-    "author": "Rednz990 [ DC: @red.id9990 ]",
-    "lastUpdated": "2026-04-09T01:48:09Z",
-    "stars": 12,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#AEAEAE]A mod that focuses on improving the infrastructure industry which is useful in campaign mode.\n\nAdding more crafters, distribution blocks, drills, items, and new units(include combat units, and support units) to support your gameplay!\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!"
   },
   {
     "repo": "aforgetfulness/towerdefense",
@@ -2534,32 +2534,32 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
-    "repo": "jennii94900-tech/mod",
-    "internalName": "ochpoch-mob",
-    "name": "hooligan",
-    "version": "1.8",
-    "hidden": false,
-    "author": "Hello",
-    "lastUpdated": "2026-04-10T19:11:29Z",
-    "stars": 7,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds a new planet hooligan This mod is better to install on v8"
-  },
-  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-11T07:17:17Z",
+    "lastUpdated": "2026-04-11T09:21:27Z",
     "stars": 7,
     "minGameVersion": "156",
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n"
+  },
+  {
+    "repo": "jennii94900-tech/mod",
+    "internalName": "ochpoch-mob",
+    "name": "hooligan",
+    "version": "1.8",
+    "hidden": false,
+    "author": "Hello",
+    "lastUpdated": "2026-04-11T10:24:43Z",
+    "stars": 7,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a new planet hooligan This mod is better to install on v8"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -3584,20 +3584,6 @@
     "description": "this mod add more command blocks to help mod-creators, inspired in \"testers\" by sk7725"
   },
   {
-    "repo": "darkdustry-coders/mindurkacompat",
-    "internalName": "mindurkacompat",
-    "name": "MindurkaCompat",
-    "version": "2.0",
-    "hidden": true,
-    "author": "buj",
-    "lastUpdated": "2026-04-03T13:05:35Z",
-    "stars": 4,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that adds extra compatibility with Mindurka"
-  },
-  {
     "repo": "r99space99yt/apolotus",
     "internalName": "apolotus",
     "name": "Apolotus",
@@ -3610,6 +3596,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My 2nd mod!\nCAMPAIGN ONLY 3 SECTOR DONE(Flooded wasteland, massSpread, LandZone)\nthe mod add a new planet, it seem... spreading and growing?\n\nThe Organization Have sent 7(?) ships and your mission is find them all.\n(you are the 8th)"
+  },
+  {
+    "repo": "darkdustry-coders/mindurkacompat",
+    "internalName": "mindurkacompat",
+    "name": "MindurkaCompat",
+    "version": "2.0",
+    "hidden": true,
+    "author": "buj",
+    "lastUpdated": "2026-04-11T10:28:26Z",
+    "stars": 4,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
@@ -6180,7 +6180,7 @@
     "version": "1.2.0",
     "hidden": true,
     "author": "xpdustry",
-    "lastUpdated": "2026-04-10T21:55:32Z",
+    "lastUpdated": "2026-04-11T09:37:23Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": false,
