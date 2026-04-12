@@ -496,7 +496,7 @@
     "version": "Alpha-5013",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-04-12T05:50:31Z",
+    "lastUpdated": "2026-04-12T06:31:37Z",
     "stars": 42,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -608,7 +608,7 @@
     "version": "1.5.8",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-04-12T05:36:29Z",
+    "lastUpdated": "2026-04-12T07:02:31Z",
     "stars": 37,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -636,7 +636,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-12T05:19:58Z",
+    "lastUpdated": "2026-04-12T06:27:54Z",
     "stars": 36,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1344,6 +1344,20 @@
     "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.8.2",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-04-11T13:18:00Z",
+    "stars": 15,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
     "repo": "seuearth/factroundustry",
     "internalName": "factroundustry",
     "name": "Factroundustry",
@@ -1384,20 +1398,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.8.2",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-04-11T13:18:00Z",
-    "stars": 14,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "arksourcer/project-ark-public",
@@ -1854,7 +1854,7 @@
     "version": "1.0.0",
     "hidden": true,
     "author": "Hao1337",
-    "lastUpdated": "2026-04-11T01:49:36Z",
+    "lastUpdated": "2026-04-12T06:08:07Z",
     "stars": 10,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2840,20 +2840,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
-  },
-  {
-    "repo": "meepoffaith/wind3",
-    "internalName": "omega-wind3",
-    "name": "wind3+",
-    "version": "Wind3",
-    "hidden": true,
-    "author": "MEEP (real)",
-    "lastUpdated": "2023-02-01T07:30:26Z",
-    "stars": 5,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "purplesushi22/oh-no-random-pack",
@@ -4102,20 +4088,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "m1cxzfw3q/logicextend",
-    "internalName": "logic-extend",
-    "name": "LogicExtend - 逻辑扩展",
-    "version": "0.0.3",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-04-11T19:47:11Z",
-    "stars": 3,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
-  },
-  {
     "repo": "wytniks/kill-reward-mod-25frame",
     "internalName": "kill-reward-mod",
     "name": "Kill Reward Mod",
@@ -4142,6 +4114,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "m1cxzfw3q/logicextend",
+    "internalName": "logic-extend",
+    "name": "LogicExtend - 逻辑扩展",
+    "version": "0.0.3",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-04-12T06:10:03Z",
+    "stars": 3,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
     "repo": "no9527dada/creatorsdownloadjs",
