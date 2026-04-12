@@ -483,7 +483,7 @@
     "hidden": false,
     "author": "Liz Aurora",
     "lastUpdated": "2026-04-11T02:15:49Z",
-    "stars": 42,
+    "stars": 43,
     "minGameVersion": "155.2",
     "hasScripts": false,
     "hasJava": true,
@@ -497,7 +497,7 @@
     "hidden": false,
     "author": "Alon",
     "lastUpdated": "2026-04-12T10:02:55Z",
-    "stars": 42,
+    "stars": 43,
     "minGameVersion": "155",
     "hasScripts": false,
     "hasJava": true,
@@ -686,6 +686,20 @@
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
   },
   {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "(Beta) Build 8",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2026-04-11T23:26:33Z",
+    "stars": 32,
+    "minGameVersion": "155.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
+  },
+  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -712,20 +726,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
-  },
-  {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "(Beta) Build 8",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2026-04-11T23:26:33Z",
-    "stars": 31,
-    "minGameVersion": "155.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
     "repo": "retodera/technologium",
@@ -2520,20 +2520,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
   },
   {
-    "repo": "jennii94900-tech/mod",
-    "internalName": "ochpoch-mob",
-    "name": "hooligan",
-    "version": "1.8",
-    "hidden": false,
-    "author": "Hello",
-    "lastUpdated": "2026-04-11T19:21:49Z",
-    "stars": 7,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds a new planet hooligan This mod is better to install on v8"
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -2548,13 +2534,27 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
+    "repo": "jennii94900-tech/mod",
+    "internalName": "ochpoch-mob",
+    "name": "hooligan",
+    "version": "1.8",
+    "hidden": false,
+    "author": "Hello",
+    "lastUpdated": "2026-04-12T12:10:50Z",
+    "stars": 7,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a new planet hooligan This mod is better to install on v8"
+  },
+  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-12T10:17:01Z",
+    "lastUpdated": "2026-04-12T12:54:00Z",
     "stars": 7,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -4102,20 +4102,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-04-12T04:16:16Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "m1cxzfw3q/logicextend",
     "internalName": "logic-extend",
     "name": "LogicExtend - 逻辑扩展",
@@ -4128,6 +4114,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-04-12T12:57:42Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "no9527dada/creatorsdownloadjs",
