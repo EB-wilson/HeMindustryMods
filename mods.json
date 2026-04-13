@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-04-10T17:34:34Z",
-    "stars": 562,
+    "stars": 561,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -280,6 +280,20 @@
     "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN."
   },
   {
+    "repo": "abomb4/super-cheat",
+    "internalName": "invincible cheat mod v8",
+    "name": "(v8) Invincible Cheat 无敌作弊",
+    "version": "4.0.0",
+    "hidden": false,
+    "author": "滞人",
+    "lastUpdated": "2025-05-01T15:16:43Z",
+    "stars": 81,
+    "minGameVersion": "149",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
+  },
+  {
     "repo": "vvseangtvv/project-restoration",
     "internalName": "restored-mind",
     "name": "Project: Restoration",
@@ -339,12 +353,12 @@
     "repo": "meepoffaith/testing-utilities-java",
     "internalName": "test-utils",
     "name": "Testing Utilities",
-    "version": "69.8",
+    "version": "69.9",
     "hidden": true,
     "author": "MEEP of Faith",
-    "lastUpdated": "2026-04-13T20:49:05Z",
+    "lastUpdated": "2026-04-13T20:57:34Z",
     "stars": 58,
-    "minGameVersion": "154",
+    "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
@@ -490,6 +504,20 @@
     "description": "No nowhere has nothing anywhere."
   },
   {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "internalName": "psammos",
+    "name": "Psammos Mod",
+    "version": "1.4.1",
+    "hidden": false,
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2026-04-09T15:21:05Z",
+    "stars": 41,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
+  },
+  {
     "repo": "oleglysukhin/cheat",
     "internalName": "cheat",
     "name": "CheatMod",
@@ -530,20 +558,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
-  },
-  {
-    "repo": "andromeda-galaxy29/psammos-mod",
-    "internalName": "psammos",
-    "name": "Psammos Mod",
-    "version": "1.4.1",
-    "hidden": false,
-    "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-04-09T15:21:05Z",
-    "stars": 40,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
   },
   {
     "repo": "sh1penfire/meld",
@@ -1554,6 +1568,20 @@
     "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "version": "",
+    "hidden": false,
+    "author": "bttodi",
+    "lastUpdated": "2026-02-24T23:37:46Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
+  },
+  {
     "repo": "wytniks/kill-reward-mod-25frame",
     "internalName": "kill-reward-mod-25frame",
     "name": "Kill Reward Mod",
@@ -1636,6 +1664,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
+  },
+  {
+    "repo": "routerxdd/icicle-world",
+    "internalName": "icicle-world",
+    "name": "Buried in Ice",
+    "version": "9.5",
+    "hidden": false,
+    "author": "R.O.T.\nSpecial thanks:\nyesC48 for editing english translation\nxhstoyea for chinese translation",
+    "lastUpdated": "2026-03-12T19:59:38Z",
+    "stars": 11,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds a new planet, where we will play in underground"
   },
   {
     "repo": "wantechfan/mindustry-cursed-bundles",
@@ -2437,17 +2479,17 @@
   },
   {
     "repo": "fat-bird-owner/the-infestations",
-    "internalName": "auto-research",
-    "name": "Auto Research",
-    "version": "Algorithm 1.2",
-    "hidden": true,
-    "author": "Flin",
+    "internalName": "infestation",
+    "name": "The Infestation",
+    "version": "\n[lightgrey[]]v2-Infestation\n[grey[]]- Act 2.25\n- 6 Sectors\n- C2236\n",
+    "hidden": false,
+    "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
     "lastUpdated": "2026-02-08T05:28:02Z",
     "stars": 7,
-    "minGameVersion": "141",
+    "minGameVersion": "154.3",
     "hasScripts": true,
     "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+    "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
   },
   {
     "repo": "koctz34/browser-windows",
@@ -3318,6 +3360,20 @@
     "description": "этот мод добавит в игру новую планету и куча контента"
   },
   {
+    "repo": "leyn-pl/showallsecrets",
+    "internalName": "showsecrets",
+    "name": "Show All Secrets",
+    "version": "1.2",
+    "hidden": true,
+    "author": "_LEYN",
+    "lastUpdated": "2024-12-13T11:30:09Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Shows all Anuken's secrets. Makes all hidden content visible, with a bit of balance.\n\nYou cant build hidden blocks on servers."
+  },
+  {
     "repo": "deltanedas/mindustry-2",
     "internalName": "mindustry-2",
     "name": "Mindustry 2",
@@ -3372,6 +3428,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod will not get another star anytime soon, Never gets completed, Never gets balanced, and will almost always be the largest mod in its number of stars."
+  },
+  {
+    "repo": "xavierisdeadasheck15/infinity-industry",
+    "internalName": "infinidustry",
+    "name": "Infinity Industry",
+    "version": "[blue]1.9.1",
+    "hidden": false,
+    "author": "Creator: Xavierlazymahn8",
+    "lastUpdated": "2025-07-02T09:26:00Z",
+    "stars": 4,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod where i focus on making a content base on Infinitode 2, The Campaign is Still Playable, But it will getting Remaked and the Sector will be Remade Alongside the Tech Tree As Well"
   },
   {
     "repo": "kiwi-ustal/ntm-ru",
@@ -4018,20 +4088,6 @@
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-04-12T21:03:52Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "no9527dada/ctcoresystem",
     "internalName": "ctcoresystem",
     "name": "创世神核心加载系统前置",
@@ -4044,6 +4100,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Creators Core System"
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-04-13T22:20:42Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "no9527dada/creatorsdownloadjs",
@@ -4173,31 +4243,31 @@
   },
   {
     "repo": "lehanchic25/hidden-content",
-    "internalName": "infinidustry",
-    "name": "Infinity Industry",
-    "version": "[blue]1.9.1",
-    "hidden": false,
-    "author": "Creator: Xavierlazymahn8",
+    "internalName": "hid-cont",
+    "name": "Hidden Content",
+    "version": "1",
+    "hidden": true,
+    "author": "Lehanchic25",
     "lastUpdated": "2024-04-14T12:59:49Z",
     "stars": 2,
-    "minGameVersion": "137",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "A mod where i focus on making a content base on Infinitode 2, The Campaign is Still Playable, But it will getting Remaked and the Sector will be Remade Alongside the Tech Tree As Well"
+    "description": "Этот мод позволяет строить скрытые блоки, которые доступны только в песочнице или которые вообще недоступны без читов"
   },
   {
     "repo": "illa4257/mindustrysyncproject",
-    "internalName": "invincible cheat mod v8",
-    "name": "(v8) Invincible Cheat 无敌作弊",
-    "version": "4.0.0",
-    "hidden": false,
-    "author": "滞人",
+    "internalName": "mindustry-sync-project",
+    "name": "Mindustry Sync Project",
+    "version": "0.0.1",
+    "hidden": true,
+    "author": "illa4257",
     "lastUpdated": "2024-04-23T04:54:34Z",
     "stars": 2,
-    "minGameVersion": "149",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
-    "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
+    "description": "Java Mod for synchronization (for now only schematics)."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -4534,6 +4604,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A campaign mod with a planet themed around magic.\n\nCompletion rate: ~50%\n\nContent is designed with intention . Tech tree is non-linear, and levels actually play differently from each other.\n\nLore is for chumps, this is raw gameplay injected right into your veins!\n\n[red]Difficulty:[] modest, no handholding\n[yellow]Length:[] short if you're good\n[green]Quality:[] astonishing really\n[cyan]Translation:[] none\n[cyan]Release date:[] in the future"
+  },
+  {
+    "repo": "stabu-dev/thats-fire",
+    "internalName": "that'sfire",
+    "name": "That's Fire",
+    "version": "1.0",
+    "hidden": true,
+    "author": "stabu_",
+    "lastUpdated": "2025-08-03T21:20:12Z",
+    "stars": 2,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Makes fire pretty \n[gray](and blocky)"
   },
   {
     "repo": "darkjune0122/javelinunit",
@@ -7015,17 +7099,17 @@
   },
   {
     "repo": "mods-by-jesus/interface-overhaul",
-    "internalName": "that'sfire",
-    "name": "That's Fire",
-    "version": "1.0",
-    "hidden": true,
-    "author": "stabu_",
+    "internalName": "io-mod",
+    "name": "Interface Overhaul",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Mods by Jesus",
     "lastUpdated": "2026-01-15T20:42:52Z",
     "stars": 0,
-    "minGameVersion": "150.1",
+    "minGameVersion": "154",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Makes fire pretty \n[gray](and blocky)"
+    "description": "Interface improvements and almost useless quality of life features."
   },
   {
     "repo": "cardillan/mlogassertions-7",
