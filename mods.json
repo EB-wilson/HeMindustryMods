@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-04-14T20:35:34Z",
+    "lastUpdated": "2026-04-14T22:44:32Z",
     "stars": 134,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -650,7 +650,7 @@
     "version": "3.1.15",
     "hidden": false,
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2026-04-14T15:20:02Z",
+    "lastUpdated": "2026-04-14T21:57:44Z",
     "stars": 35,
     "minGameVersion": "157",
     "hasScripts": true,
@@ -874,7 +874,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-04-14T19:52:02Z",
+    "lastUpdated": "2026-04-14T21:22:35Z",
     "stars": 26,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -4886,20 +4886,6 @@
     "description": "Inline before/after diff viewer for Mindustry datapatches in the database UI. / 在数据库界面中直接显示 Mindustry 数据补丁的前后差异。"
   },
   {
-    "repo": "rodrigoasfr24022003/rodrigonia-mod",
-    "internalName": "rodrigonia",
-    "name": "Rodrigonia",
-    "version": "1.2.0",
-    "hidden": false,
-    "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2026-04-07T08:53:49Z",
-    "stars": 2,
-    "minGameVersion": "152",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
-  },
-  {
     "repo": "wantechfan/mindustry-legacy-sounds",
     "internalName": "legacy-sounds",
     "name": "Legacy Sounds",
@@ -4954,6 +4940,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "rodrigoasfr24022003/rodrigonia-mod",
+    "internalName": "rodrigonia",
+    "name": "Rodrigonia",
+    "version": "1.2.1",
+    "hidden": false,
+    "author": "rodrigo_of_rodrigonia",
+    "lastUpdated": "2026-04-14T21:49:27Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
