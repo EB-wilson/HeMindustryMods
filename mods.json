@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-04-16T02:14:51Z",
+    "lastUpdated": "2026-04-16T03:11:43Z",
     "stars": 135,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -217,7 +217,7 @@
     "hidden": true,
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
     "lastUpdated": "2026-01-21T01:03:43Z",
-    "stars": 96,
+    "stars": 97,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -245,7 +245,7 @@
     "hidden": false,
     "author": "twcash",
     "lastUpdated": "2026-04-14T02:43:53Z",
-    "stars": 92,
+    "stars": 93,
     "minGameVersion": "156.1",
     "hasScripts": false,
     "hasJava": true,
@@ -476,20 +476,6 @@
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-04-14T01:27:50Z",
-    "stars": 43,
-    "minGameVersion": "155.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
-  },
-  {
     "repo": "icexuegao/deepspace",
     "internalName": "ice",
     "name": "DeepSpace",
@@ -502,6 +488,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "半成品模组,目的是为mdt添加更多的内容"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-04-16T03:35:25Z",
+    "stars": 43,
+    "minGameVersion": "155.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "andromeda-galaxy29/psammos-mod",
@@ -636,7 +636,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-16T02:41:49Z",
+    "lastUpdated": "2026-04-16T05:29:41Z",
     "stars": 37,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -658,6 +658,20 @@
     "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
   },
   {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "(Beta) Build 9",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2026-04-15T18:10:22Z",
+    "stars": 35,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
+  },
+  {
     "repo": "dong-wo-long/betterdustrymod",
     "internalName": "bsm",
     "name": "Betterustry Mod",
@@ -670,20 +684,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
-  },
-  {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "(Beta) Build 9",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2026-04-15T18:10:22Z",
-    "stars": 34,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
     "repo": "haznobrain/erekir-liquefied",
@@ -1336,7 +1336,7 @@
     "version": "1.8.2",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-04-15T10:38:12Z",
+    "lastUpdated": "2026-04-16T05:33:17Z",
     "stars": 15,
     "minGameVersion": "156",
     "hasScripts": false,
@@ -1384,6 +1384,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
+  },
+  {
+    "repo": "wytniks/kill-reward-mod-25frame",
+    "internalName": "kill-reward-mod-25frame",
+    "name": "Kill Reward Mod",
+    "version": "[blue]1.4.4",
+    "hidden": false,
+    "author": "25frame aka wytnik",
+    "lastUpdated": "2026-04-15T16:47:36Z",
+    "stars": 14,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
   },
   {
     "repo": "arksourcer/project-ark-public",
@@ -1454,20 +1468,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[#AEAEAE]A mod that focuses on improving the infrastructure industry which is useful in campaign mode.\n\nAdding more crafters, distribution blocks, drills, items, and new units(include combat units, and support units) to support your gameplay!\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!"
-  },
-  {
-    "repo": "wytniks/kill-reward-mod-25frame",
-    "internalName": "kill-reward-mod-25frame",
-    "name": "Kill Reward Mod",
-    "version": "[blue]1.4.4",
-    "hidden": false,
-    "author": "25frame aka wytnik",
-    "lastUpdated": "2026-04-15T16:47:36Z",
-    "stars": 13,
-    "minGameVersion": "152",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
   },
   {
     "repo": "eclipse-04/avkott",
@@ -2568,7 +2568,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-16T02:37:34Z",
+    "lastUpdated": "2026-04-16T05:31:50Z",
     "stars": 7,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -4108,7 +4108,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-04-16T02:08:10Z",
+    "lastUpdated": "2026-04-16T05:25:16Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
