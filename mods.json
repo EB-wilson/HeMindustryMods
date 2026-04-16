@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-04-16T07:57:57Z",
+    "lastUpdated": "2026-04-16T12:27:55Z",
     "stars": 561,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-04-16T03:11:43Z",
+    "lastUpdated": "2026-04-16T13:25:24Z",
     "stars": 135,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -412,7 +412,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-04-15T13:56:59Z",
+    "lastUpdated": "2026-04-16T13:42:24Z",
     "stars": 50,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -714,6 +714,20 @@
     "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "version": "2.0.0",
+    "hidden": true,
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2026-04-05T11:25:03Z",
+    "stars": 32,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
+  },
+  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -740,20 +754,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "version": "2.0.0",
-    "hidden": true,
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2026-04-05T11:25:03Z",
-    "stars": 31,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
   },
   {
     "repo": "retodera/technologium",
@@ -832,7 +832,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-04-16T10:50:45Z",
+    "lastUpdated": "2026-04-16T13:45:11Z",
     "stars": 27,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -1134,20 +1134,6 @@
     "description": "A library mod for rendering black holes."
   },
   {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "version": "1.11",
-    "hidden": false,
-    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
-    "lastUpdated": "2026-02-23T14:20:03Z",
-    "stars": 19,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
-  },
-  {
     "repo": "430230562/vanilla-neoplasm-extend",
     "internalName": "vne",
     "name": "Vanilla Neoplasm Extend",
@@ -1160,6 +1146,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Do you think the original neoplasm solution, burned in a slag pool, is a too singular; Such biologically active materials should have other uses: as ammunition, synthesizing new materials, and even building their own biological armies... Please unleash your imagination to the fullest \n\n You can't wait any longer? Let's embark on this bloody journey"
+  },
+  {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "version": "1.11",
+    "hidden": false,
+    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
+    "lastUpdated": "2026-04-16T13:22:07Z",
+    "stars": 19,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "echovespy/simplistic",
@@ -1330,18 +1330,32 @@
     "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
   },
   {
+    "repo": "wytniks/kill-reward-mod-25frame",
+    "internalName": "kill-reward-mod-25frame",
+    "name": "Kill Reward Mod",
+    "version": "[blue]1.4.4",
+    "hidden": false,
+    "author": "25frame aka wytnik",
+    "lastUpdated": "2026-04-15T16:47:36Z",
+    "stars": 15,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
+  },
+  {
     "repo": "dustdustry/patcheditor",
     "internalName": "patch-editor",
     "name": "PatchEditor",
-    "version": "1.8.2",
+    "version": "1.9.0",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-04-16T06:43:49Z",
+    "lastUpdated": "2026-04-16T12:25:17Z",
     "stars": 15,
     "minGameVersion": "156",
     "hasScripts": false,
     "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "seuearth/factroundustry",
@@ -1398,20 +1412,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
-  },
-  {
-    "repo": "wytniks/kill-reward-mod-25frame",
-    "internalName": "kill-reward-mod-25frame",
-    "name": "Kill Reward Mod",
-    "version": "[blue]1.4.4",
-    "hidden": false,
-    "author": "25frame aka wytnik",
-    "lastUpdated": "2026-04-15T16:47:36Z",
-    "stars": 14,
-    "minGameVersion": "152",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
   },
   {
     "repo": "arksourcer/project-ark-public",
@@ -2246,7 +2246,7 @@
     "version": "101.1",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-04-11T11:23:00Z",
+    "lastUpdated": "2026-04-16T11:04:26Z",
     "stars": 8,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2520,20 +2520,6 @@
     "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2026-04-15T02:39:44Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "jennii94900-tech/mod",
     "internalName": "ochpoch-mob",
     "name": "hooligan",
@@ -2548,20 +2534,6 @@
     "description": "This mod adds a new planet hooligan This mod is better to install on v8"
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v2.15-Gier",
-    "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-16T10:30:12Z",
-    "stars": 7,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n"
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -2574,6 +2546,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2026-04-16T12:34:57Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v2.15-Gier",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-04-16T13:24:17Z",
+    "stars": 7,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
