@@ -119,7 +119,7 @@
     "hidden": false,
     "author": "stabu, uujuju",
     "lastUpdated": "2026-04-16T21:54:48Z",
-    "stars": 135,
+    "stars": 134,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -244,7 +244,7 @@
     "version": "3.9.3",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-04-14T02:43:53Z",
+    "lastUpdated": "2026-04-17T01:52:02Z",
     "stars": 93,
     "minGameVersion": "156.1",
     "hasScripts": false,
@@ -636,7 +636,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-16T15:40:29Z",
+    "lastUpdated": "2026-04-17T02:35:36Z",
     "stars": 37,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1330,20 +1330,6 @@
     "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
   },
   {
-    "repo": "wytniks/kill-reward-mod-25frame",
-    "internalName": "kill-reward-mod-25frame",
-    "name": "Kill Reward Mod",
-    "version": "[blue]1.4.4",
-    "hidden": false,
-    "author": "25frame aka wytnik",
-    "lastUpdated": "2026-04-15T16:47:36Z",
-    "stars": 15,
-    "minGameVersion": "152",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
-  },
-  {
     "repo": "dustdustry/patcheditor",
     "internalName": "patch-editor",
     "name": "PatchEditor",
@@ -1412,6 +1398,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
+  },
+  {
+    "repo": "wytniks/kill-reward-mod-25frame",
+    "internalName": "kill-reward-mod-25frame",
+    "name": "Kill Reward Mod",
+    "version": "[blue]1.4.4",
+    "hidden": false,
+    "author": "25frame aka wytnik",
+    "lastUpdated": "2026-04-15T16:47:36Z",
+    "stars": 14,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
   },
   {
     "repo": "arksourcer/project-ark-public",
@@ -2548,20 +2548,6 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v2.15-Gier",
-    "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-16T15:46:06Z",
-    "stars": 7,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n"
-  },
-  {
     "repo": "jennii94900-tech/mod",
     "internalName": "ochpoch-mob",
     "name": "hooligan",
@@ -2574,6 +2560,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds a new planet hooligan This mod is better to install on v8"
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v2.15-Gier",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-04-17T02:07:31Z",
+    "stars": 7,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
