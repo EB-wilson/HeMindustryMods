@@ -244,7 +244,7 @@
     "version": "3.9.3",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-04-18T03:15:03Z",
+    "lastUpdated": "2026-04-18T16:11:05Z",
     "stars": 93,
     "minGameVersion": "156.1",
     "hasScripts": false,
@@ -1330,6 +1330,20 @@
     "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
   },
   {
+    "repo": "rednzba990/warboundindustriesmod",
+    "internalName": "wi",
+    "name": "Warbound Industries",
+    "version": "1.93",
+    "hidden": false,
+    "author": "Rednz990 [ DC: @red.id9990 ]",
+    "lastUpdated": "2026-04-13T19:16:26Z",
+    "stars": 15,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#AEAEAE]A mod that focuses on improving the infrastructure industry which is useful in campaign mode.\n\nAdding more crafters, distribution blocks, drills, items, and new units(include combat units, and support units) to support your gameplay!\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!"
+  },
+  {
     "repo": "wytniks/kill-reward-mod-25frame",
     "internalName": "kill-reward-mod-25frame",
     "name": "Kill Reward Mod",
@@ -1384,20 +1398,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
-  },
-  {
-    "repo": "rednzba990/warboundindustriesmod",
-    "internalName": "wi",
-    "name": "Warbound Industries",
-    "version": "1.93",
-    "hidden": false,
-    "author": "Rednz990 [ DC: @red.id9990 ]",
-    "lastUpdated": "2026-04-13T19:16:26Z",
-    "stars": 14,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#AEAEAE]A mod that focuses on improving the infrastructure industry which is useful in campaign mode.\n\nAdding more crafters, distribution blocks, drills, items, and new units(include combat units, and support units) to support your gameplay!\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!"
   },
   {
     "repo": "gmugxd/qr-mod",
@@ -3150,20 +3150,6 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
   },
   {
-    "repo": "determination-wind/neon",
-    "internalName": "bek-tools",
-    "name": "Neon / 氖",
-    "version": "5.2.5",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-02-20T10:21:04Z",
-    "stars": 5,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A bundled toolkit: Power Grid Minimap + Stealth Path + Custom Marker + BetterScreenShot + Radial Build Menu + betterMiniMap + Server Player DataBase + betterMapEditor + Better Projector Overlay. / 辅助模组九合一：电网小地图叠加 + 偷袭小道 + 自定义标记 + BetterScreenShot + 圆盘快捷建造 + betterMiniMap + 玩家数据库 + 地图编辑增强 + 投影叠加。"
-  },
-  {
     "repo": "koctz34/minduntm",
     "internalName": "ntm",
     "name": "NTM - Nuclear tech mod",
@@ -3190,6 +3176,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A project of a mod that will include three planets but so far only two is playable.\n\nThis mod has to be played on 147+\n\nRusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential.\n\nDunes is a wasted planet near serpulo but far from the sun, take control and provide chaos to this dead planet.\n\nQuick notes: [\nLushion is currently in WIP.\nBe sure to have weather graphics for weather's if your on a low end device turn it off.\nMake sure to reinstall regular.\nGive a star if you enjoy Thanks!!!.\nThe sound is being worked on so don't worry to much\nmany sectors are kinda unbalanced so be warned iam balancing it \n}"
+  },
+  {
+    "repo": "determination-wind/neon",
+    "internalName": "bek-tools",
+    "name": "Neon / 氖",
+    "version": "7.0.0",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-04-18T16:35:19Z",
+    "stars": 5,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A bundled toolkit with 16 client modules, now including WhoUsesThisBuilding and PatchViewer in Neon unified settings. / 辅助模组十六合一，现并入 WhoUsesThisBuilding 与 PatchViewer 并统一到 Neon 设置入口。"
   },
   {
     "repo": "konkitoman/speedctlman",
@@ -4844,20 +4844,6 @@
     "description": "该mod还处于测试阶段,非常垃圾"
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2026-03-15T18:07:01Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "osp54/shared-campaign-research",
     "internalName": "shared-campaign-research",
     "name": "Shared Campaign Research",
@@ -4954,6 +4940,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Inline before/after diff viewer for Mindustry datapatches in the database UI. / 在数据库界面中直接显示 Mindustry 数据补丁的前后差异。"
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2026-04-18T16:33:14Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -5948,6 +5948,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
+  },
+  {
+    "repo": "determination-wind/areacleaner",
+    "internalName": "areacleaner",
+    "name": "AreaCleaner",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-02-20T12:51:58Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hold a hotkey to drag a rectangle, then queue RTS commands for selected units to clear enemy buildings inside that area."
   },
   {
     "repo": "unionofsovietsocialistrepublics/unfog",
@@ -7194,20 +7208,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An earthquake mod for Mindustry."
-  },
-  {
-    "repo": "determination-wind/areacleaner",
-    "internalName": "areacleaner",
-    "name": "AreaCleaner",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-02-20T12:51:58Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hold a hotkey to drag a rectangle, then queue RTS commands for selected units to clear enemy buildings inside that area."
   },
   {
     "repo": "pizzb/show-hidden-content",
