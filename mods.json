@@ -664,7 +664,7 @@
     "version": "3.1.15",
     "hidden": false,
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2026-04-19T19:44:12Z",
+    "lastUpdated": "2026-04-19T22:04:31Z",
     "stars": 35,
     "minGameVersion": "157",
     "hasScripts": true,
@@ -832,7 +832,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-04-19T17:20:52Z",
+    "lastUpdated": "2026-04-19T22:03:41Z",
     "stars": 27,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -1106,20 +1106,6 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "hungrycloud4913/esocatalyst",
-    "internalName": "esocatalyst",
-    "name": "Esocatalyst",
-    "version": "Lost Track?",
-    "hidden": false,
-    "author": "HungryCloud4913",
-    "lastUpdated": "2025-10-19T15:56:01Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
-  },
-  {
     "repo": "meepoffaith/black-holes-library",
     "internalName": "black-hole-renderer",
     "name": "Black Holes Library",
@@ -1162,6 +1148,20 @@
     "description": "Do you think the original neoplasm solution, burned in a slag pool, is a too singular; Such biologically active materials should have other uses: as ammunition, synthesizing new materials, and even building their own biological armies... Please unleash your imagination to the fullest \n\n You can't wait any longer? Let's embark on this bloody journey"
   },
   {
+    "repo": "hungrycloud4913/esocatalyst",
+    "internalName": "esocatalyst",
+    "name": "Esocatalyst",
+    "version": "Lost Track?",
+    "hidden": false,
+    "author": "HungryCloud4913",
+    "lastUpdated": "2026-04-19T20:41:35Z",
+    "stars": 19,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
+  },
+  {
     "repo": "echovespy/simplistic",
     "internalName": "simplistic",
     "name": "Simplistic - TexturePack",
@@ -1188,6 +1188,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod for browsing schematic repositories."
+  },
+  {
+    "repo": "jjthecold/cataclysm-mod",
+    "internalName": "cataclysm",
+    "name": "Cataclysm",
+    "version": "0",
+    "hidden": false,
+    "author": "[#ffb33a]JJ[]",
+    "lastUpdated": "2026-04-19T21:20:14Z",
+    "stars": 18,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Drop a star in the project's repo."
   },
   {
     "repo": "valigaming15/pyra-erekir",
@@ -4760,20 +4774,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "redloong9527/logic-chinese-localization",
-    "internalName": "logicchineselocalization",
-    "name": "逻辑汉化补丁v1.1.3",
-    "version": "154.3",
-    "hidden": true,
-    "author": "redloong9527",
-    "lastUpdated": "2026-02-10T15:29:20Z",
-    "stars": 2,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
-  },
-  {
     "repo": "determination-wind/color-the-duct",
     "internalName": "color-the-ducts",
     "name": "Color-the-ducts",
@@ -5782,20 +5782,6 @@
     "description": "Hardcore permadeath mod for Mindustry."
   },
   {
-    "repo": "hungrycloud4913/the-reformed-universes-project",
-    "internalName": "univ-project",
-    "name": "The Reformed Universe Project",
-    "version": "v0.1",
-    "hidden": false,
-    "author": "HungryCloud4913",
-    "lastUpdated": "2025-11-29T21:20:06Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "samielxd/zoomplus",
     "internalName": "zoom+",
     "name": "Zoom+",
@@ -6214,6 +6200,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A light mod with a funny name and a focus on extending Surge-alloy technology, adds a few unique turrets and production buildings with (what I think are) some interesting mechanics.\r\n\r\nMade for Serpulo, the mod has integration for/works well with blocks like the tsunami and wave, so try and find some usecases, turret combos, and whatnot.\r\n\r\nReports on bugs, balancing issues, or simply suggestions are very much welcome."
+  },
+  {
+    "repo": "hungrycloud4913/the-reformed-universes-project",
+    "internalName": "univ-project",
+    "name": "The Reformed Universe Project",
+    "version": "v0.1",
+    "hidden": false,
+    "author": "HungryCloud4913",
+    "lastUpdated": "2026-04-19T20:41:18Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
