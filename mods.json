@@ -1728,7 +1728,7 @@
     "version": "0.1",
     "hidden": false,
     "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-04-20T19:06:28Z",
+    "lastUpdated": "2026-04-20T19:31:11Z",
     "stars": 11,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -4942,20 +4942,6 @@
     "description": "New planet"
   },
   {
-    "repo": "oscaremoran/xorinal-mod",
-    "internalName": "xorinal",
-    "name": "Xorinal",
-    "version": "0.1.2",
-    "hidden": false,
-    "author": "Oscar Moran",
-    "lastUpdated": "2026-04-19T20:11:22Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A new planet called Xorinal. Currently v0.1.2. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. 3 campaign sectors so far, 5 units, and lots of buildings."
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -4982,6 +4968,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
+  },
+  {
+    "repo": "oscaremoran/xorinal-mod",
+    "internalName": "xorinal",
+    "name": "Xorinal",
+    "version": "0.1.2",
+    "hidden": false,
+    "author": "Oscar Moran",
+    "lastUpdated": "2026-04-20T19:52:17Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A new planet called Xorinal. Currently v0.1.2. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. 3 campaign sectors so far, 5 units, and lots of buildings."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
