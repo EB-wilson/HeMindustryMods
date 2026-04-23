@@ -133,7 +133,7 @@
     "hidden": false,
     "author": "Snake",
     "lastUpdated": "2026-03-24T12:31:01Z",
-    "stars": 130,
+    "stars": 131,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -1316,6 +1316,20 @@
     "description": "[#AEAEAE]A mod that focuses on improving the infrastructure industry which is useful in campaign mode.\n\nAdding more crafters, distribution blocks, drills, items, and new units(include combat units, and support units) to support your gameplay!\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!"
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.9.1",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-04-20T15:42:48Z",
+    "stars": 16,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
+  },
+  {
     "repo": "yuria-shikibe/gameinfoimager",
     "internalName": "game-info-imager",
     "name": "Game Info Imager",
@@ -1356,20 +1370,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.9.1",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-04-20T15:42:48Z",
-    "stars": 15,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "seuearth/factroundustry",
@@ -2288,7 +2288,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-23T08:00:56Z",
+    "lastUpdated": "2026-04-23T12:13:22Z",
     "stars": 8,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -3584,6 +3584,20 @@
     "description": "Recreation of my first mod"
   },
   {
+    "repo": "thechronodonut1337/silent-orchestra",
+    "internalName": "silent-orchestra",
+    "name": "Sounds like Argus",
+    "version": "T.01.31",
+    "hidden": true,
+    "author": "Aurora",
+    "lastUpdated": "2026-03-15T14:36:34Z",
+    "stars": 4,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
+  },
+  {
     "repo": "r99space99yt/apolotus",
     "internalName": "apolotus",
     "name": "Apolotus",
@@ -4046,20 +4060,6 @@
     "description": "Explore a new planet submerged in naphtha and utilize buildings with an exotic, new form."
   },
   {
-    "repo": "thechronodonut1337/silent-orchestra",
-    "internalName": "silent-orchestra",
-    "name": "Sounds like Argus",
-    "version": "T.01.31",
-    "hidden": true,
-    "author": "Aurora",
-    "lastUpdated": "2026-03-15T14:36:34Z",
-    "stars": 3,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
-  },
-  {
     "repo": "argon1321/simple-additions",
     "internalName": "simple-additions",
     "name": "Simple additions",
@@ -4114,6 +4114,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Creators Core System"
+  },
+  {
+    "repo": "redloong9527/logic-chinese-localization",
+    "internalName": "logicchineselocalization",
+    "name": "逻辑汉化补丁v1.2",
+    "version": "155",
+    "hidden": true,
+    "author": "redloong9527",
+    "lastUpdated": "2026-04-20T14:03:53Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
   },
   {
     "repo": "penguip/a-mindustry-mod",
@@ -4942,34 +4956,6 @@
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
-    "repo": "redloong9527/logic-chinese-localization",
-    "internalName": "logicchineselocalization",
-    "name": "逻辑汉化补丁v1.2",
-    "version": "155",
-    "hidden": true,
-    "author": "redloong9527",
-    "lastUpdated": "2026-04-20T14:03:53Z",
-    "stars": 2,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
-  },
-  {
-    "repo": "rodrigoasfr24022003/rodrigonia-mod",
-    "internalName": "rodrigonia",
-    "name": "Rodrigonia",
-    "version": "1.2.1",
-    "hidden": false,
-    "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2026-04-23T08:40:34Z",
-    "stars": 2,
-    "minGameVersion": "157",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4982,6 +4968,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "rodrigoasfr24022003/rodrigonia-mod",
+    "internalName": "rodrigonia",
+    "name": "Rodrigonia",
+    "version": "1.2.1",
+    "hidden": false,
+    "author": "rodrigo_of_rodrigonia",
+    "lastUpdated": "2026-04-23T11:44:16Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
