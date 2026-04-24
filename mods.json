@@ -21,7 +21,7 @@
     "hidden": false,
     "author": "sk7725",
     "lastUpdated": "2026-03-18T15:44:07Z",
-    "stars": 357,
+    "stars": 358,
     "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-04-24T15:08:03Z",
+    "lastUpdated": "2026-04-24T16:54:13Z",
     "stars": 135,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1630,7 +1630,7 @@
     "version": "0.1",
     "hidden": false,
     "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-04-24T12:43:57Z",
+    "lastUpdated": "2026-04-24T16:56:38Z",
     "stars": 12,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -2288,7 +2288,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-24T15:08:27Z",
+    "lastUpdated": "2026-04-24T15:29:36Z",
     "stars": 8,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2562,20 +2562,6 @@
     "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
   },
   {
-    "repo": "momiji142857/ve-addon-schematics",
-    "internalName": "ve-addon-schematics",
-    "name": "VE Addon: Schematics",
-    "version": "v4.0.13",
-    "hidden": true,
-    "author": "VE模组作者: 火星人076\n本模组作者: [sky]Momiji142857[white]\n其他贡献者请见 GitHub 仓库",
-    "lastUpdated": "2026-04-10T15:31:23Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-04-09[white]"
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -2616,6 +2602,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
+  },
+  {
+    "repo": "momiji142857/ve-addon-schematics",
+    "internalName": "ve-addon-schematics",
+    "name": "VE Addon: Schematics",
+    "version": "v4.1.0",
+    "hidden": true,
+    "author": "VE模组作者: 火星人076\n本模组作者: [sky]Momiji142857[white]\n其他贡献者请见 GitHub 仓库",
+    "lastUpdated": "2026-04-24T16:38:12Z",
+    "stars": 7,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-04-24[white]"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -2742,6 +2742,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Better visuals? Not only that!"
+  },
+  {
+    "repo": "lefalcon352/frozen-farlands-resprite",
+    "internalName": "moon mod",
+    "name": "Frozen Farlands Resprite",
+    "version": "1.3",
+    "hidden": false,
+    "author": "original creators: [#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]\nresprites by: [yellow]LeFalcon[white]",
+    "lastUpdated": "2025-08-19T19:08:27Z",
+    "stars": 6,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "frozen farlands mod except almost all of its textures are different\n\npls star twin\n\nfrozen farlands description:\n\n[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
     "repo": "ka4ok52/persea-mod",
@@ -3078,20 +3092,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Added some useful map filters. \nAdded a powerful custom guide tool and advanced wave editor to map editor."
-  },
-  {
-    "repo": "lefalcon352/frozen-farlands-resprite",
-    "internalName": "moon mod",
-    "name": "Frozen Farlands Resprite",
-    "version": "1.3",
-    "hidden": false,
-    "author": "original creators: [#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]\nresprites by: [yellow]LeFalcon[white]",
-    "lastUpdated": "2025-08-19T19:08:27Z",
-    "stars": 5,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "frozen farlands mod except almost all of its textures are different\n\npls star twin\n\nfrozen farlands description:\n\n[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
     "repo": "jirocab/caster-ui-java",
@@ -4116,20 +4116,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "redloong9527/logic-chinese-localization",
-    "internalName": "logicchineselocalization",
-    "name": "逻辑汉化补丁v1.2",
-    "version": "155",
-    "hidden": true,
-    "author": "redloong9527",
-    "lastUpdated": "2026-04-20T14:03:53Z",
-    "stars": 3,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4144,13 +4130,41 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "0.6.157.4",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-04-24T06:34:06Z",
+    "stars": 3,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system extracted from Project Polaris."
+  },
+  {
+    "repo": "redloong9527/logic-chinese-localization",
+    "internalName": "logicchineselocalization",
+    "name": "逻辑汉化补丁v1.2",
+    "version": "155",
+    "hidden": true,
+    "author": "redloong9527",
+    "lastUpdated": "2026-04-24T15:54:54Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
+  },
+  {
     "repo": "oscaremoran/xorinal-mod",
     "internalName": "xorinal",
     "name": "Xorinal",
     "version": "0.1.2",
     "hidden": false,
     "author": "Oscar Moran",
-    "lastUpdated": "2026-04-24T01:54:45Z",
+    "lastUpdated": "2026-04-24T16:35:32Z",
     "stars": 3,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -4968,20 +4982,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "0.6.157.4",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-04-24T06:34:06Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system extracted from Project Polaris."
   },
   {
     "repo": "rodrigoasfr24022003/rodrigonia-mod",
@@ -7110,6 +7110,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "description test"
+  },
+  {
+    "repo": "zetamap/no-steam-uuid",
+    "internalName": "no-steam-uuid",
+    "name": "No Steam UU​ID",
+    "version": "1.2.1",
+    "hidden": true,
+    "author": "ZetaMap",
+    "lastUpdated": "2026-01-07T17:22:49Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that prevents the steam version from creating another uu​id, when importing your save from another version.\n\nNote: This mod does nothing if your client is not the steam version."
   },
   {
     "repo": "feyfre/put-unloader-back",
