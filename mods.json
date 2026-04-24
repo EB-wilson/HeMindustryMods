@@ -636,7 +636,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-24T02:39:48Z",
+    "lastUpdated": "2026-04-24T10:59:59Z",
     "stars": 38,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -2288,7 +2288,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-24T06:48:38Z",
+    "lastUpdated": "2026-04-24T11:06:13Z",
     "stars": 8,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -4970,20 +4970,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "rodrigoasfr24022003/rodrigonia-mod",
-    "internalName": "rodrigonia",
-    "name": "Rodrigonia",
-    "version": "1.2.1",
-    "hidden": false,
-    "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2026-04-23T11:44:16Z",
-    "stars": 2,
-    "minGameVersion": "157",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
-  },
-  {
     "repo": "arktcode/dynamic-shadows",
     "internalName": "dynamic-shadows",
     "name": "Dynamic Shadows",
@@ -4996,6 +4982,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Standalone high-fidelity dynamic shadow system extracted from Project Polaris."
+  },
+  {
+    "repo": "rodrigoasfr24022003/rodrigonia-mod",
+    "internalName": "rodrigonia",
+    "name": "Rodrigonia",
+    "version": "1.2.1",
+    "hidden": false,
+    "author": "rodrigo_of_rodrigonia",
+    "lastUpdated": "2026-04-24T09:57:24Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
     "repo": "manuwar73/remodeled_industry-java",
@@ -7434,20 +7434,6 @@
     "description": "\n始源于冰雪的MOD\nMOD所有者:aaenaaoaaena\nMOD贴图:A.E.、不萌萌的锰新：)\nMOD代码:128_OTEML、A.E.\nMOD地图:aaenaaoaaena、ph0se-fa6r1c"
   },
   {
-    "repo": "lamamega/attarax-modpack",
-    "internalName": "attarax mod-pack",
-    "name": "AttaraX Mod-Pack",
-    "version": "1.0",
-    "hidden": false,
-    "author": "AttaraX",
-    "lastUpdated": "2026-04-13T17:39:16Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry? Yes, but more!"
-  },
-  {
     "repo": "m1cxzfw3q/ruikeui",
     "internalName": "rui-ke-ui",
     "name": "RuiKe UI",
@@ -7488,5 +7474,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod replaces set by default sound effects with some audio-memes.\r\nThis mod is under construction!"
+  },
+  {
+    "repo": "lamamega/attarax-modpack",
+    "internalName": "attarax mod-pack",
+    "name": "AttaraX Mod-Pack",
+    "version": "1.0",
+    "hidden": false,
+    "author": "AttaraX",
+    "lastUpdated": "2026-04-24T10:30:46Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry? Yes, but more!"
   }
 ]
