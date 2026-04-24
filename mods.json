@@ -48,7 +48,7 @@
     "version": "1.7.2",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2026-04-23T14:33:27Z",
+    "lastUpdated": "2026-04-24T04:18:49Z",
     "stars": 226,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -300,7 +300,7 @@
     "version": "0.4.0 Beta",
     "hidden": false,
     "author": "VvSeanGtvV",
-    "lastUpdated": "2026-04-03T05:41:59Z",
+    "lastUpdated": "2026-04-24T04:38:10Z",
     "stars": 69,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -426,7 +426,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-04-22T04:30:12Z",
+    "lastUpdated": "2026-04-24T05:26:09Z",
     "stars": 50,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2288,7 +2288,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-24T00:45:13Z",
+    "lastUpdated": "2026-04-24T03:23:08Z",
     "stars": 8,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2576,20 +2576,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2026-04-21T14:06:54Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -2602,6 +2588,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2026-04-24T05:36:40Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -6256,6 +6256,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "0.6.157.4",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-04-24T05:18:46Z",
+    "stars": 1,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system extracted from Project Polaris."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
