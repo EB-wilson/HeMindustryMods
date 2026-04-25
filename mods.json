@@ -244,7 +244,7 @@
     "version": "3.9.3",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-04-25T18:13:03Z",
+    "lastUpdated": "2026-04-25T22:28:56Z",
     "stars": 92,
     "minGameVersion": "156.1",
     "hasScripts": false,
@@ -490,20 +490,6 @@
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
-    "repo": "andromeda-galaxy29/psammos-mod",
-    "internalName": "psammos",
-    "name": "Psammos Mod",
-    "version": "1.4.1",
-    "hidden": false,
-    "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-04-18T12:01:05Z",
-    "stars": 43,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
-  },
-  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
@@ -516,6 +502,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No nowhere has nothing anywhere."
+  },
+  {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "internalName": "psammos",
+    "name": "Psammos Mod",
+    "version": "1.4.1",
+    "hidden": false,
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2026-04-25T22:19:41Z",
+    "stars": 43,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
   },
   {
     "repo": "sh1penfire/meld",
@@ -664,7 +664,7 @@
     "version": "3.1.15",
     "hidden": false,
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2026-04-25T16:42:06Z",
+    "lastUpdated": "2026-04-25T21:37:17Z",
     "stars": 35,
     "minGameVersion": "157",
     "hasScripts": true,
@@ -2016,6 +2016,20 @@
     "description": "Adds a dialog for turning images into schematics"
   },
   {
+    "repo": "sputnuc/deepsea",
+    "internalName": "deepsea",
+    "name": "Project: Deep Sea (Alpha)",
+    "version": "0.2",
+    "hidden": false,
+    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
+    "lastUpdated": "2026-03-25T19:21:50Z",
+    "stars": 9,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
+  },
+  {
     "repo": "wantechfan/mindustry-cool-musics",
     "internalName": "cool-musics",
     "name": "Cool Musics",
@@ -2238,20 +2252,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
-  },
-  {
-    "repo": "sputnuc/deepsea",
-    "internalName": "deepsea",
-    "name": "Project: Deep Sea (Alpha)",
-    "version": "0.2",
-    "hidden": false,
-    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
-    "lastUpdated": "2026-03-25T19:21:50Z",
-    "stars": 8,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
     "repo": "slashkig/astranium-mod",
@@ -4178,7 +4178,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-04-25T19:19:02Z",
+    "lastUpdated": "2026-04-25T20:53:02Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
