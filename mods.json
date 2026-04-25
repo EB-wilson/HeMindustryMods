@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-04-25T04:40:27Z",
+    "lastUpdated": "2026-04-25T06:25:15Z",
     "stars": 564,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1862,6 +1862,20 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
+    "repo": "m1cxzfw3q/endfield_industry",
+    "internalName": "endfield-industry",
+    "name": "Endfield Industry",
+    "version": "0.1",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-02-25T06:14:59Z",
+    "stars": 10,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n神秘mod\n贴图抠得依托势，但胜在能看（）\n"
+  },
+  {
     "repo": "new-guys5634/mechy-chaos",
     "internalName": " mech ",
     "name": "Combat Dustry",
@@ -1986,20 +2000,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a dialog for turning images into schematics"
-  },
-  {
-    "repo": "m1cxzfw3q/endfield_industry",
-    "internalName": "endfield-industry",
-    "name": "Endfield Industry",
-    "version": "0.1",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-02-25T06:14:59Z",
-    "stars": 9,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n神秘mod\n贴图抠得依托势，但胜在能看（）\n"
   },
   {
     "repo": "wantechfan/mindustry-cool-musics",
@@ -4130,34 +4130,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-04-21T05:39:31Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "0.6.157.4",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-04-24T06:34:06Z",
-    "stars": 3,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system extracted from Project Polaris."
-  },
-  {
     "repo": "redloong9527/logic-chinese-localization",
     "internalName": "logicchineselocalization",
     "name": "逻辑汉化补丁v1.2",
@@ -4184,6 +4156,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A new planet called Xorinal. Currently v0.1.2. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. 3 campaign sectors so far, 5 units, and lots of buildings."
+  },
+  {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "0.7.157.4",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-04-25T06:16:14Z",
+    "stars": 3,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-04-25T07:12:27Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "no9527dada/creatorsdownloadjs",
