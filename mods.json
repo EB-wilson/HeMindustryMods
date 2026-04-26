@@ -1196,7 +1196,7 @@
     "version": "0",
     "hidden": false,
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-04-26T05:38:29Z",
+    "lastUpdated": "2026-04-26T15:57:07Z",
     "stars": 18,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1742,7 +1742,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-26T14:29:43Z",
+    "lastUpdated": "2026-04-26T15:33:02Z",
     "stars": 11,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2618,6 +2618,20 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
   },
   {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "0.85.157.4",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-04-26T14:31:31Z",
+    "stars": 7,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
+  },
+  {
     "repo": "silinveredno/music-remixes-pt-1",
     "internalName": "music remixes pt-1",
     "name": "Music remixes PT-1",
@@ -2854,20 +2868,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add an admin button."
-  },
-  {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "0.85.157.4",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-04-26T14:31:31Z",
-    "stars": 6,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
   },
   {
     "repo": "obamination/minedustry",
