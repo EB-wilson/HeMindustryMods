@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-04-23T16:53:51Z",
-    "stars": 208,
+    "stars": 209,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -244,7 +244,7 @@
     "version": "3.9.3",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-04-25T22:28:56Z",
+    "lastUpdated": "2026-04-26T19:40:52Z",
     "stars": 92,
     "minGameVersion": "156.1",
     "hasScripts": false,
@@ -3640,20 +3640,6 @@
     "description": "this mod add more command blocks to help mod-creators, inspired in \"testers\" by sk7725"
   },
   {
-    "repo": "oscaremoran/xorinal-mod",
-    "internalName": "xorinal",
-    "name": "Xorinal",
-    "version": "0.1.2",
-    "hidden": false,
-    "author": "Oscar Moran",
-    "lastUpdated": "2026-04-25T16:00:10Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A new planet called Xorinal. Currently v0.1.2. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. 3 campaign sectors so far, 5 units, and lots of buildings."
-  },
-  {
     "repo": "darkdustry-coders/mindurkacompat",
     "internalName": "mindurkacompat",
     "name": "MindurkaCompat",
@@ -3666,6 +3652,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod that adds extra compatibility with Mindurka"
+  },
+  {
+    "repo": "oscaremoran/xorinal-mod",
+    "internalName": "xorinal",
+    "name": "Xorinal",
+    "version": "0.1.2",
+    "hidden": false,
+    "author": "Oscar Moran",
+    "lastUpdated": "2026-04-26T20:35:35Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A new planet called Xorinal. Currently v0.1.2. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. 3 campaign sectors so far, 5 units, and lots of buildings."
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
