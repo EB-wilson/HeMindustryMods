@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-04-24T16:54:13Z",
+    "lastUpdated": "2026-04-25T23:25:36Z",
     "stars": 135,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -301,7 +301,7 @@
     "hidden": false,
     "author": "VvSeanGtvV",
     "lastUpdated": "2026-04-24T04:38:10Z",
-    "stars": 69,
+    "stars": 70,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -490,20 +490,6 @@
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-04-20T23:05:13Z",
-    "stars": 43,
-    "minGameVersion": "155.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
-  },
-  {
     "repo": "andromeda-galaxy29/psammos-mod",
     "internalName": "psammos",
     "name": "Psammos Mod",
@@ -516,6 +502,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-04-26T01:36:44Z",
+    "stars": 43,
+    "minGameVersion": "155.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "sh1penfire/meld",
@@ -616,20 +616,6 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "version": "1.5.8",
-    "hidden": true,
-    "author": "I hope...",
-    "lastUpdated": "2026-04-25T12:55:42Z",
-    "stars": 38,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
-  },
-  {
     "repo": "deercarbonate/azimut",
     "internalName": "azimut",
     "name": "Azimut",
@@ -642,6 +628,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "version": "1.5.8",
+    "hidden": true,
+    "author": "I hope...",
+    "lastUpdated": "2026-04-26T02:46:09Z",
+    "stars": 38,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "nullotte/carpe-diem",
@@ -944,7 +944,7 @@
     "version": "v1.3",
     "hidden": false,
     "author": "SezoVK",
-    "lastUpdated": "2026-04-25T09:59:49Z",
+    "lastUpdated": "2026-04-26T02:22:11Z",
     "stars": 23,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -1196,7 +1196,7 @@
     "version": "0",
     "hidden": false,
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-04-25T19:20:11Z",
+    "lastUpdated": "2026-04-26T02:43:55Z",
     "stars": 18,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1319,10 +1319,10 @@
     "repo": "dustdustry/patcheditor",
     "internalName": "patch-editor",
     "name": "PatchEditor",
-    "version": "1.9.3",
+    "version": "1.9.4",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-04-25T15:06:40Z",
+    "lastUpdated": "2026-04-26T02:13:23Z",
     "stars": 16,
     "minGameVersion": "156",
     "hasScripts": false,
@@ -1910,7 +1910,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-25T16:00:31Z",
+    "lastUpdated": "2026-04-26T01:35:34Z",
     "stars": 10,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2268,20 +2268,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "mindustry-antigrief/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "version": "2.5.9",
-    "hidden": true,
-    "author": "io community",
-    "lastUpdated": "2026-04-23T22:33:43Z",
-    "stars": 8,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Improves your experience on the official io  Flood server."
-  },
-  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -2294,6 +2280,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
+    "repo": "mindustry-antigrief/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "version": "2.6.0",
+    "hidden": true,
+    "author": "io community",
+    "lastUpdated": "2026-04-26T00:20:30Z",
+    "stars": 8,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Improves your experience on the official io  Flood server."
   },
   {
     "repo": "reborntrack970/infinicampaign",
@@ -3640,6 +3640,20 @@
     "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "0.7.157.4",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-04-25T06:16:14Z",
+    "stars": 4,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
+  },
+  {
     "repo": "lehanchic/serpulo-and-erekir-plus",
     "internalName": "serpulo and erekir",
     "name": "Serpulo and Erekir +",
@@ -4116,20 +4130,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "0.7.157.4",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-04-25T06:16:14Z",
-    "stars": 3,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
-  },
-  {
     "repo": "oscaremoran/xorinal-mod",
     "internalName": "xorinal",
     "name": "Xorinal",
@@ -4178,7 +4178,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-04-25T20:53:02Z",
+    "lastUpdated": "2026-04-26T02:39:47Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
