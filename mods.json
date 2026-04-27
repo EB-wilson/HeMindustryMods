@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-04-25T23:25:36Z",
+    "lastUpdated": "2026-04-26T23:48:02Z",
     "stars": 135,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1210,7 +1210,7 @@
     "version": "0",
     "hidden": false,
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-04-26T15:57:07Z",
+    "lastUpdated": "2026-04-27T01:25:06Z",
     "stars": 18,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1742,7 +1742,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-26T15:33:02Z",
+    "lastUpdated": "2026-04-27T00:46:31Z",
     "stars": 11,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2296,6 +2296,20 @@
     "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "0.85.157.4",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-04-26T14:31:31Z",
+    "stars": 8,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
+  },
+  {
     "repo": "reborntrack970/infinicampaign",
     "internalName": "inficamp",
     "name": "InfiniCampaign",
@@ -2616,20 +2630,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
-  },
-  {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "0.85.157.4",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-04-26T14:31:31Z",
-    "stars": 7,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
   },
   {
     "repo": "silinveredno/music-remixes-pt-1",
@@ -6874,20 +6874,6 @@
     "description": "Provides custom mlog instructions for launch pads and landing pads."
   },
   {
-    "repo": "highspeed85/mindustry-mallpark",
-    "internalName": "mallpark",
-    "name": "Malldustry",
-    "version": "2025.05.03",
-    "hidden": false,
-    "author": "HighSpeed85",
-    "lastUpdated": "2025-05-03T04:10:43Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "  The Mallpark Interplanetary Branch gives you... whatever this is! Made to test the market, or as requested by customers.\n  See Github for content. Or just download it and find out.\n  Balancing is not great. Perhaps you can help by suggesting on... wherever, I guess. Probably Github or the suggestions doc (see README)."
-  },
-  {
     "repo": "dedshotgames/glyphids",
     "internalName": "glyphids",
     "name": "Glyphids",
@@ -7516,5 +7502,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry mod that adds tools for automatically filling resource patches with drills. Fork updated for Mindustry v8 build 157.3."
+  },
+  {
+    "repo": "highspeed85/mindustry-mallpark",
+    "internalName": "mallpark",
+    "name": "Malldustry",
+    "version": "2025.05.03",
+    "hidden": false,
+    "author": "HighSpeed85",
+    "lastUpdated": "2026-04-27T02:49:29Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  The Mallpark Interplanetary Branch gives you... whatever this is! Made to test the market, or as requested by customers.\n  See Github for content. Or just download it and find out.\n  Balancing is not great. Perhaps you can help by suggesting on... wherever, I guess. Probably Github or the suggestions doc (see README)."
   }
 ]
