@@ -468,7 +468,7 @@
     "version": "Alpha-6484",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-04-27T16:20:56Z",
+    "lastUpdated": "2026-04-28T12:43:55Z",
     "stars": 47,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -636,7 +636,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-28T10:05:07Z",
+    "lastUpdated": "2026-04-28T10:38:19Z",
     "stars": 38,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -721,7 +721,7 @@
     "hidden": true,
     "author": "xzxADIxzx\nPort: 00SunRay00",
     "lastUpdated": "2026-04-05T11:25:03Z",
-    "stars": 33,
+    "stars": 32,
     "minGameVersion": "156",
     "hasScripts": false,
     "hasJava": true,
@@ -734,7 +734,7 @@
     "version": "2.3.3",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-04-19T15:46:53Z",
+    "lastUpdated": "2026-04-28T11:38:31Z",
     "stars": 32,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -916,7 +916,7 @@
     "version": "v1.3",
     "hidden": false,
     "author": "SezoVK",
-    "lastUpdated": "2026-04-28T04:29:16Z",
+    "lastUpdated": "2026-04-28T10:35:17Z",
     "stars": 24,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -1708,20 +1708,6 @@
     "description": "Additional functionality"
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v2.15-Gier",
-    "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-28T06:51:55Z",
-    "stars": 11,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n"
-  },
-  {
     "repo": "wantechfan/mindustry-cursed-bundles",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
@@ -1734,6 +1720,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v2.15-Gier",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-04-28T12:17:56Z",
+    "stars": 11,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n"
   },
   {
     "repo": "pointifix/autotranslate",
@@ -4774,20 +4774,6 @@
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.6",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-04-23T09:22:33Z",
-    "stars": 2,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "rodrigoasfr24022003/rodrigonia-mod",
     "internalName": "rodrigonia",
     "name": "Rodrigonia",
@@ -4814,6 +4800,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Brings back old SFX. \n[yellow]Still indev so don't expect much.\nSupport this mod by contributing to it via pull request in this mod's repository."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.6",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-04-28T13:14:50Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "agzam4/mindustry-units-mod",
