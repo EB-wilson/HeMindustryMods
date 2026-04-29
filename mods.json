@@ -350,6 +350,20 @@
     "description": "A Mindustry mod library for JSON and Javascript mods,\nincluding A crafter that supporting multiple recipes for items, fluids, power, and heat production.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
+    "repo": "pointifix/autodrill",
+    "internalName": "auto-drill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Pointifix",
+    "lastUpdated": "2025-09-20T15:42:00Z",
+    "stars": 58,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "meepoffaith/testing-utilities-java",
     "internalName": "test-utils",
     "name": "Testing Utilities",
@@ -362,20 +376,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
-    "repo": "pointifix/autodrill",
-    "internalName": "auto-drill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Pointifix",
-    "lastUpdated": "2025-09-20T15:42:00Z",
-    "stars": 57,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "sharlottes/sharustry",
@@ -1056,7 +1056,7 @@
     "version": "1.8",
     "hidden": true,
     "author": "ApsZoldat",
-    "lastUpdated": "2026-04-29T15:24:18Z",
+    "lastUpdated": "2026-04-29T22:22:55Z",
     "stars": 20,
     "minGameVersion": "147",
     "hasScripts": false,
