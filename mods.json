@@ -118,7 +118,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-04-28T22:41:51Z",
+    "lastUpdated": "2026-04-29T15:29:17Z",
     "stars": 135,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -146,7 +146,7 @@
     "version": "v0.8",
     "hidden": false,
     "author": "Eschatologue",
-    "lastUpdated": "2026-04-29T11:44:49Z",
+    "lastUpdated": "2026-04-29T15:15:47Z",
     "stars": 129,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -468,7 +468,7 @@
     "version": "Alpha-6484",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-04-29T13:54:13Z",
+    "lastUpdated": "2026-04-29T15:34:56Z",
     "stars": 47,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -1022,20 +1022,6 @@
     "description": "My new planet mod!"
   },
   {
-    "repo": "apszoldat/mindustrymappingutilities",
-    "internalName": "mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "1.8",
-    "hidden": true,
-    "author": "ApsZoldat",
-    "lastUpdated": "2025-04-13T16:23:03Z",
-    "stars": 20,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
-  },
-  {
     "repo": "itzcraft/hjsonpp",
     "internalName": "hjsonpp",
     "name": "hjson++",
@@ -1062,6 +1048,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
+  },
+  {
+    "repo": "apszoldat/mindustrymappingutilities",
+    "internalName": "mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "1.8",
+    "hidden": true,
+    "author": "ApsZoldat",
+    "lastUpdated": "2026-04-29T15:24:18Z",
+    "stars": 20,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "yaddrx2/yr2-logic-debugger",
@@ -1728,7 +1728,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-29T13:43:22Z",
+    "lastUpdated": "2026-04-29T15:24:40Z",
     "stars": 11,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1874,6 +1874,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n神秘mod\n贴图抠得依托势，但胜在能看（）\n"
+  },
+  {
+    "repo": "wantechfan/mindustry-cool-musics",
+    "internalName": "cool-musics",
+    "name": "Cool Musics",
+    "version": "1.2.2",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-03-27T12:35:48Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
     "repo": "new-guys5634/mechy-chaos",
@@ -2030,20 +2044,6 @@
     "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
-    "repo": "wantechfan/mindustry-cool-musics",
-    "internalName": "cool-musics",
-    "name": "Cool Musics",
-    "version": "1.2.2",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-03-27T12:35:48Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2064,7 +2064,7 @@
     "version": "beta.0.8",
     "hidden": false,
     "author": "LaoMoze",
-    "lastUpdated": "2026-04-25T16:31:16Z",
+    "lastUpdated": "2026-04-29T14:44:53Z",
     "stars": 9,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -2534,20 +2534,6 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
-    "repo": "momiji142857/ve-addon-schematics",
-    "internalName": "ve-addon-schematics",
-    "name": "VE Addon: Schematics",
-    "version": "v4.1.0",
-    "hidden": true,
-    "author": "VE模组作者: 火星人076\n本模组作者: [sky]Momiji142857[white]\n其他贡献者请见 GitHub 仓库",
-    "lastUpdated": "2026-04-24T16:38:12Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-04-24[white]"
-  },
-  {
     "repo": "determination-wind/radial-build-menu-hud-",
     "internalName": "radial-build-menu",
     "name": "圆盘快捷建造 / Radial Build Menu",
@@ -2588,6 +2574,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "momiji142857/ve-addon-schematics",
+    "internalName": "ve-addon-schematics",
+    "name": "VE Addon: Schematics",
+    "version": "v4.1.0",
+    "hidden": true,
+    "author": "VE模组作者: 火星人076\n本模组作者: [sky]Momiji142857[white]\n其他贡献者请见 GitHub 仓库",
+    "lastUpdated": "2026-04-29T15:48:11Z",
+    "stars": 7,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-04-24[white]"
   },
   {
     "repo": "heroblack303/stardustry",
