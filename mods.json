@@ -1728,7 +1728,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-04-29T06:04:44Z",
+    "lastUpdated": "2026-04-29T07:38:07Z",
     "stars": 11,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2806,7 +2806,7 @@
     "version": "gameplay test 5",
     "hidden": false,
     "author": "Sh1p",
-    "lastUpdated": "2026-04-29T06:14:24Z",
+    "lastUpdated": "2026-04-29T08:43:33Z",
     "stars": 6,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -4620,20 +4620,6 @@
     "description": "Zoom+ mod is made for Players that wants to increase the zoom feature ingame. other people already made this mod idea but I did it anyways because some people don't want to download big mods but they just wants the zoom feature in that mod"
   },
   {
-    "repo": "sunkymp3g/netroniumtfs",
-    "internalName": "netroniummod",
-    "name": "Netronium: The Final Showdown",
-    "version": "CU-4 dev",
-    "hidden": false,
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2026-01-23T14:38:08Z",
-    "stars": 2,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
-  },
-  {
     "repo": "useroreo/sb-technology",
     "internalName": "sb科技",
     "name": "SB科技",
@@ -4828,6 +4814,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is a java edition of my mod that eventually will replace the json one"
+  },
+  {
+    "repo": "sunkymp3g/netroniumtfs",
+    "internalName": "netroniummod",
+    "name": "Netronium: The Final Showdown",
+    "version": "CU-4 dev",
+    "hidden": false,
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2026-04-29T07:33:01Z",
+    "stars": 2,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -5937,17 +5937,31 @@
   },
   {
     "repo": "radiancestorm/mindustry-corona-borealis",
-    "internalName": "coronaborealismod",
-    "name": "Corona Borealis",
-    "version": "1.0",
+    "internalName": "energyze",
+    "name": "Energyze",
+    "version": "0.5.4",
     "hidden": false,
-    "author": "Radiance / RadianceStorm",
+    "author": "wdfeer",
     "lastUpdated": "2026-03-28T02:17:53Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A planet shrouded in arcane mysteries."
+    "description": "Mindustry Kotlin mod adding energized materials. Android compatibility WIP."
+  },
+  {
+    "repo": "radiancestorm/mindustry-corona-borealis",
+    "internalName": "energyze",
+    "name": "Energyze",
+    "version": "0.5.4",
+    "hidden": false,
+    "author": "wdfeer",
+    "lastUpdated": "2026-03-28T02:17:53Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry Kotlin mod adding energized materials. Android compatibility WIP."
   },
   {
     "repo": "ancvike/auxiliarymod",
@@ -6536,20 +6550,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Because you can't have too much convenience"
-  },
-  {
-    "repo": "wdfeer/energyze",
-    "internalName": "energyze",
-    "name": "Energyze",
-    "version": "0.5.4",
-    "hidden": false,
-    "author": "wdfeer",
-    "lastUpdated": "2024-11-14T07:18:38Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry Kotlin mod adding energized materials. Android compatibility WIP."
   },
   {
     "repo": "cannon-kid/content-galore-mindustry",
