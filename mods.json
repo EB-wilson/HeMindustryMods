@@ -580,7 +580,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-01T06:34:40Z",
+    "lastUpdated": "2026-05-01T09:37:11Z",
     "stars": 40,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -832,7 +832,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-05-01T01:01:07Z",
+    "lastUpdated": "2026-05-01T08:32:14Z",
     "stars": 27,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -1728,7 +1728,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-05-01T06:36:14Z",
+    "lastUpdated": "2026-05-01T09:16:11Z",
     "stars": 11,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -4760,20 +4760,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "wantechfan/mindustry-legacy-sounds",
-    "internalName": "legacy-sounds",
-    "name": "Legacy Sounds",
-    "version": "0.4",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-04-28T20:54:18Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Brings back old SFX. \n[yellow]Still indev so don't expect much.\nSupport this mod by contributing to it via pull request in this mod's repository."
-  },
-  {
     "repo": "sunkymp3g/netroniumtfs",
     "internalName": "netroniummod",
     "name": "Netronium: The Final Showdown",
@@ -4800,6 +4786,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is a java edition of my mod that eventually will replace the json one"
+  },
+  {
+    "repo": "wantechfan/mindustry-legacy-sounds",
+    "internalName": "legacy-sounds",
+    "name": "Legacy Sounds",
+    "version": "0.6",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-05-01T08:58:32Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -6090,20 +6090,6 @@
     "description": "Adds more team regions to most Serpulo and Erekir blocks, to make teams in pvp and attack look more appealing."
   },
   {
-    "repo": "128oteml/ice-peak",
-    "internalName": "ice-peak",
-    "name": "Ice Peak",
-    "version": "1.0",
-    "hidden": false,
-    "author": "神秘",
-    "lastUpdated": "2026-04-30T11:25:01Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n始源于冰雪的MOD\nMOD所有者:aaenaaoaaena\nMOD贴图:A.E.、不萌萌的锰新：)\nMOD代码:128_OTEML、A.E.\nMOD地图:aaenaaoaaena、ph0se-fa6r1c"
-  },
-  {
     "repo": "argon1321/argon-resources",
     "internalName": "argon-resources",
     "name": "Argon Resources",
@@ -6116,6 +6102,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A resource library mod for my mod, simple-additions, and many others too, possibly."
+  },
+  {
+    "repo": "128oteml/ice-peak",
+    "internalName": "ice-peak",
+    "name": "Ice Peak",
+    "version": "1.0",
+    "hidden": false,
+    "author": "神秘",
+    "lastUpdated": "2026-05-01T09:45:05Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n始源于冰雪的MOD\nMOD所有者:aaenaaoaaena\nMOD贴图:A.E.、不萌萌的锰新：)\nMOD代码:128_OTEML、A.E.\nMOD地图:aaenaaoaaena、ph0se-fa6r1c"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
