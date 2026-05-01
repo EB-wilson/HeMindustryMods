@@ -301,7 +301,7 @@
     "hidden": false,
     "author": "VvSeanGtvV",
     "lastUpdated": "2026-04-24T04:38:10Z",
-    "stars": 70,
+    "stars": 71,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -644,6 +644,20 @@
     "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
+    "repo": "coaldeficit/moredefences",
+    "internalName": "md3",
+    "name": "MoreDefences",
+    "version": "3.2.0",
+    "hidden": false,
+    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
+    "lastUpdated": "2026-04-30T14:58:12Z",
+    "stars": 36,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
+  },
+  {
     "repo": "nullotte/carpe-diem",
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
@@ -656,20 +670,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
-  },
-  {
-    "repo": "coaldeficit/moredefences",
-    "internalName": "md3",
-    "name": "MoreDefences",
-    "version": "3.2.0",
-    "hidden": false,
-    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-04-30T14:58:12Z",
-    "stars": 35,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
   },
   {
     "repo": "electricgun/cheat-codes-mod",
@@ -832,7 +832,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-05-01T16:17:34Z",
+    "lastUpdated": "2026-05-01T17:43:07Z",
     "stars": 27,
     "minGameVersion": "152.2",
     "hasScripts": true,
