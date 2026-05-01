@@ -35,7 +35,7 @@
     "hidden": true,
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 229,
+    "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -441,7 +441,7 @@
     "hidden": false,
     "author": "Flin",
     "lastUpdated": "2025-02-03T14:54:28Z",
-    "stars": 49,
+    "stars": 50,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -832,7 +832,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-05-01T08:32:14Z",
+    "lastUpdated": "2026-05-01T16:17:34Z",
     "stars": 27,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -980,6 +980,20 @@
     "description": "A Mod In Dev"
   },
   {
+    "repo": "lehanchic25/testplanetmindustry",
+    "internalName": "test",
+    "name": "Test",
+    "version": "1",
+    "hidden": true,
+    "author": "Lehanchic25",
+    "lastUpdated": "2024-12-26T10:27:58Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My new planet mod!"
+  },
+  {
     "repo": "xtarsagency/zeridmuth",
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
@@ -992,6 +1006,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
+  },
+  {
+    "repo": "itzcraft/xanthia",
+    "internalName": "xanthia-3",
+    "name": "Xanthia",
+    "version": "V0.5",
+    "hidden": false,
+    "author": "[accent]Coders:[] Decaract, ItzCraft, Nahan\n\n[accent]Spriters:[] Decaract, Nahan\n\n[accent]Testers:[] DarkSniper, Nahan, ItzCraft, AnDashik\n\n[accent]Contributors:[] Arbuzer, Los Sasikos, AnDashik\n\n[accent]Translators:[] Kevin Vilyan, ItzCraft",
+    "lastUpdated": "2026-04-18T10:22:17Z",
+    "stars": 21,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
     "repo": "jirocab/nyfalis",
@@ -1008,20 +1036,6 @@
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
   },
   {
-    "repo": "lehanchic25/testplanetmindustry",
-    "internalName": "test",
-    "name": "Test",
-    "version": "1",
-    "hidden": true,
-    "author": "Lehanchic25",
-    "lastUpdated": "2024-12-26T10:27:58Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My new planet mod!"
-  },
-  {
     "repo": "itzcraft/hjsonpp",
     "internalName": "hjsonpp",
     "name": "hjson++",
@@ -1034,20 +1048,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
-  },
-  {
-    "repo": "itzcraft/xanthia",
-    "internalName": "xanthia-3",
-    "name": "Xanthia",
-    "version": "V0.5",
-    "hidden": false,
-    "author": "[accent]Coders:[] Decaract, ItzCraft, Nahan\n\n[accent]Spriters:[] Decaract, Nahan\n\n[accent]Testers:[] DarkSniper, Nahan, ItzCraft, AnDashik\n\n[accent]Contributors:[] Arbuzer, Los Sasikos, AnDashik\n\n[accent]Translators:[] Kevin Vilyan, ItzCraft",
-    "lastUpdated": "2026-04-18T10:22:17Z",
-    "stars": 20,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
     "repo": "apszoldat/mindustrymappingutilities",
@@ -1652,6 +1652,20 @@
     "description": "A mod for Mindustry that adds MOAR to your game.\n\nLast Update: v7 Patch on 1-27-2023\n\nPing me on discord with suggestions/issues: jhrushbe#8085"
   },
   {
+    "repo": "alnyled/astherive",
+    "internalName": "astherive",
+    "name": "Astherive",
+    "version": "v1.0",
+    "hidden": false,
+    "author": "decaract",
+    "lastUpdated": "2025-01-05T10:02:01Z",
+    "stars": 11,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Tropical, oceanic planet. Inhabited by mutated creatures.\nCurrently in very early development.\n\nPleeease use the install button instead of the releases :3"
+  },
+  {
     "repo": "hexazeta/complicatedustry",
     "internalName": "",
     "name": "Complicatedustry",
@@ -1692,6 +1706,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
+  },
+  {
+    "repo": "new-guys5634/mechy-chaos",
+    "internalName": " mech ",
+    "name": "Combat Dustry",
+    "version": "1.2",
+    "hidden": false,
+    "author": "beee",
+    "lastUpdated": "2026-04-06T19:42:15Z",
+    "stars": 11,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "THE SECOND INSTALLMENT to the lore of the crux\n\n A mod that adds a new planet and it focuses on combat.\n\nA planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet but soon to discover this planet had been destroyed but what lives on this planet and why...\n\nShards: a strange mystic planet filled with snow and unnamed matter across its surface but deeper down the more crystal stone will be. beware that the surface is covered in slow pace purple like winds. \n\nkjol: a surging cold moon was the last history before the D##N#7# incident.\n\nMake sure to reinstall regular or your progression will be error\n\nEvents coming: [\n-waste land mode\n-rework units effects and descriptions\n-sector balances\n-halloween event soon!\n-christmas event soon \n-secret mode?\n]\nVengeance will happen"
   },
   {
     "repo": "arktcode/dynamic-shadows",
@@ -1776,20 +1804,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
-  },
-  {
-    "repo": "alnyled/astherive",
-    "internalName": "astherive",
-    "name": "Astherive",
-    "version": "v1.0",
-    "hidden": false,
-    "author": "decaract",
-    "lastUpdated": "2025-01-05T10:02:01Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Tropical, oceanic planet. Inhabited by mutated creatures.\nCurrently in very early development.\n\nPleeease use the install button instead of the releases :3"
   },
   {
     "repo": "slotterleet/a-lot-of-damage",
@@ -1888,20 +1902,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
-  },
-  {
-    "repo": "new-guys5634/mechy-chaos",
-    "internalName": " mech ",
-    "name": "Combat Dustry",
-    "version": "1.2",
-    "hidden": false,
-    "author": "beee",
-    "lastUpdated": "2026-04-06T19:42:15Z",
-    "stars": 10,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "THE SECOND INSTALLMENT to the lore of the crux\n\n A mod that adds a new planet and it focuses on combat.\n\nA planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet but soon to discover this planet had been destroyed but what lives on this planet and why...\n\nShards: a strange mystic planet filled with snow and unnamed matter across its surface but deeper down the more crystal stone will be. beware that the surface is covered in slow pace purple like winds. \n\nkjol: a surging cold moon was the last history before the D##N#7# incident.\n\nMake sure to reinstall regular or your progression will be error\n\nEvents coming: [\n-waste land mode\n-rework units effects and descriptions\n-sector balances\n-halloween event soon!\n-christmas event soon \n-secret mode?\n]\nVengeance will happen"
   },
   {
     "repo": "hao-1337/mindustry-better-vanilla",
@@ -2056,6 +2056,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
+  },
+  {
+    "repo": "sh1penfire/meld-java",
+    "internalName": "meld2",
+    "name": "Meld: Sand and Sunder",
+    "version": "gameplay test 5.1",
+    "hidden": false,
+    "author": "Sh1p",
+    "lastUpdated": "2026-04-29T10:45:20Z",
+    "stars": 9,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
   },
   {
     "repo": "laomoze/warhammer",
@@ -2226,20 +2240,6 @@
     "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
   },
   {
-    "repo": "sh1penfire/meld-java",
-    "internalName": "meld2",
-    "name": "Meld: Sand and Sunder",
-    "version": "gameplay test 5.1",
-    "hidden": false,
-    "author": "Sh1p",
-    "lastUpdated": "2026-04-29T10:45:20Z",
-    "stars": 8,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
-  },
-  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2310,6 +2310,20 @@
     "description": "You on the Mars."
   },
   {
+    "repo": "frizermoon/revengeance-mod",
+    "internalName": "revengeance",
+    "name": "Revengeance",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Frizer moons",
+    "lastUpdated": "2024-12-04T17:23:42Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Первый мой мод в котором вы с помощю межпланетного ускорителя попадаете на планету Селестис.Вы должным отомстить красным и захватить их планету.Вас будут ждать новые руды,враги,механики и ЛОООООР.Сложность мода высокая так что запасайтесь нервами"
+  },
+  {
     "repo": "mitemi/blastanium",
     "internalName": "blastanium",
     "name": "Blastanium",
@@ -2378,6 +2392,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch \r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
+  },
+  {
+    "repo": "lefalcon352/frozen-farlands-resprite",
+    "internalName": "moon mod",
+    "name": "Frozen Farlands Resprite",
+    "version": "1.3",
+    "hidden": false,
+    "author": "original creators: [#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]\nresprites by: [yellow]LeFalcon[white]",
+    "lastUpdated": "2025-08-19T19:08:27Z",
+    "stars": 7,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "frozen farlands mod except almost all of its textures are different\n\npls star twin\n\nfrozen farlands description:\n\n[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
     "repo": "sputnuc/expansion",
@@ -2632,20 +2660,6 @@
     "description": "\nThis is a very small mod that simply replaces some existing content in the game.\n\n--- -- -- - - -\n\nThis mod includes:\n-- Door: custom sprites, sound.\n-- Logic: custom sprites.\n\n--- -- -- - - -\n\nIt was created, at least, to slightly refresh the experience of constructing logic circuits from logic elements, in which a binary signal is transmitted through doors.\n"
   },
   {
-    "repo": "frizermoon/revengeance-mod",
-    "internalName": "revengeance",
-    "name": "Revengeance",
-    "version": "0.1",
-    "hidden": false,
-    "author": "Frizer moons",
-    "lastUpdated": "2024-12-04T17:23:42Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Первый мой мод в котором вы с помощю межпланетного ускорителя попадаете на планету Селестис.Вы должным отомстить красным и захватить их планету.Вас будут ждать новые руды,враги,механики и ЛОООООР.Сложность мода высокая так что запасайтесь нервами"
-  },
-  {
     "repo": "sova444/compressing-mod",
     "internalName": "compression",
     "name": "compression",
@@ -2686,20 +2700,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Better visuals? Not only that!"
-  },
-  {
-    "repo": "lefalcon352/frozen-farlands-resprite",
-    "internalName": "moon mod",
-    "name": "Frozen Farlands Resprite",
-    "version": "1.3",
-    "hidden": false,
-    "author": "original creators: [#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]\nresprites by: [yellow]LeFalcon[white]",
-    "lastUpdated": "2025-08-19T19:08:27Z",
-    "stars": 6,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "frozen farlands mod except almost all of its textures are different\n\npls star twin\n\nfrozen farlands description:\n\n[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
     "repo": "ka4ok52/persea-mod",
@@ -2898,6 +2898,20 @@
     "description": "This mod replaces vanilla sprites with modified versions."
   },
   {
+    "repo": "leyn-pl/showallsecrets",
+    "internalName": "showsecrets",
+    "name": "Show All Secrets",
+    "version": "1.2",
+    "hidden": true,
+    "author": "_LEYN",
+    "lastUpdated": "2024-12-13T11:30:09Z",
+    "stars": 5,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Shows all Anuken's secrets. Makes all hidden content visible, with a bit of balance.\n\nYou cant build hidden blocks on servers."
+  },
+  {
     "repo": "thomasthings/serpulo-scaled",
     "internalName": "ss",
     "name": "Serpulo Scaled",
@@ -2954,6 +2968,20 @@
     "description": "A mod that provide you with some ways to manage your saves. More details see our github repo."
   },
   {
+    "repo": "chinhonnang0000/asteroidgen",
+    "internalName": "asteroidgen",
+    "name": "asteroidgen",
+    "version": "build 0",
+    "hidden": false,
+    "author": "chinhonnang0000",
+    "lastUpdated": "2025-06-20T14:32:55Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod will not get another star anytime soon, Never gets completed, Never gets balanced, and will almost always be the largest mod in its number of stars."
+  },
+  {
     "repo": "blackdeluxecat/mapfilterext",
     "internalName": "mapfilterext",
     "name": "Map Filter Ext",
@@ -2966,6 +2994,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Added some useful map filters. \nAdded a powerful custom guide tool and advanced wave editor to map editor."
+  },
+  {
+    "repo": "xavierisdeadasheck15/infinity-industry",
+    "internalName": "infinidustry",
+    "name": "Infinity Industry",
+    "version": "[blue]1.9.1",
+    "hidden": false,
+    "author": "Creator: Xavierlazymahn8",
+    "lastUpdated": "2025-07-02T09:26:00Z",
+    "stars": 5,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod where i focus on making a content base on Infinitode 2, The Campaign is Still Playable, But it will getting Remaked and the Sector will be Remade Alongside the Tech Tree As Well"
   },
   {
     "repo": "jirocab/caster-ui-java",
@@ -3234,20 +3276,6 @@
     "description": "этот мод добавит в игру новую планету и куча контента"
   },
   {
-    "repo": "leyn-pl/showallsecrets",
-    "internalName": "showsecrets",
-    "name": "Show All Secrets",
-    "version": "1.2",
-    "hidden": true,
-    "author": "_LEYN",
-    "lastUpdated": "2024-12-13T11:30:09Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Shows all Anuken's secrets. Makes all hidden content visible, with a bit of balance.\n\nYou cant build hidden blocks on servers."
-  },
-  {
     "repo": "deltanedas/mindustry-2",
     "internalName": "mindustry-2",
     "name": "Mindustry 2",
@@ -3288,34 +3316,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Ernomytase - a modification that adds a continuation of the Erekir campaign"
-  },
-  {
-    "repo": "chinhonnang0000/asteroidgen",
-    "internalName": "asteroidgen",
-    "name": "asteroidgen",
-    "version": "build 0",
-    "hidden": false,
-    "author": "chinhonnang0000",
-    "lastUpdated": "2025-06-20T14:32:55Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod will not get another star anytime soon, Never gets completed, Never gets balanced, and will almost always be the largest mod in its number of stars."
-  },
-  {
-    "repo": "xavierisdeadasheck15/infinity-industry",
-    "internalName": "infinidustry",
-    "name": "Infinity Industry",
-    "version": "[blue]1.9.1",
-    "hidden": false,
-    "author": "Creator: Xavierlazymahn8",
-    "lastUpdated": "2025-07-02T09:26:00Z",
-    "stars": 4,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod where i focus on making a content base on Infinitode 2, The Campaign is Still Playable, But it will getting Remaked and the Sector will be Remade Alongside the Tech Tree As Well"
   },
   {
     "repo": "kiwi-ustal/ntm-ru",
@@ -3750,6 +3750,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "TIME TO DRIFT"
+  },
+  {
+    "repo": "devlimegames/fancyscience",
+    "internalName": "fancyscience",
+    "name": "Fancy Science",
+    "version": "0.4",
+    "hidden": false,
+    "author": "DevLimeGames/PandaIndustryMix",
+    "lastUpdated": "2025-03-15T00:19:02Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Science come with fanciness. Introduce a new planet name Astra meaning hope."
   },
   {
     "repo": "alphajred1/where-is-omni-man-mindustry-mod",
@@ -4408,20 +4422,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Incredible"
-  },
-  {
-    "repo": "devlimegames/fancyscience",
-    "internalName": "fancyscience",
-    "name": "Fancy Science",
-    "version": "0.4",
-    "hidden": false,
-    "author": "DevLimeGames/PandaIndustryMix",
-    "lastUpdated": "2025-03-15T00:19:02Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Science come with fanciness. Introduce a new planet name Astra meaning hope."
   },
   {
     "repo": "jirocab/minimapasbutton",
