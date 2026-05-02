@@ -146,7 +146,7 @@
     "version": "v0.8",
     "hidden": false,
     "author": "Eschatologue",
-    "lastUpdated": "2026-04-30T02:06:09Z",
+    "lastUpdated": "2026-05-02T04:25:06Z",
     "stars": 129,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -468,7 +468,7 @@
     "version": "Alpha-6484",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-05-01T23:57:46Z",
+    "lastUpdated": "2026-05-02T05:03:52Z",
     "stars": 48,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -580,7 +580,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-01T14:21:43Z",
+    "lastUpdated": "2026-05-02T04:43:36Z",
     "stars": 40,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1210,7 +1210,7 @@
     "version": "0",
     "hidden": false,
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-05-01T02:22:10Z",
+    "lastUpdated": "2026-05-02T03:17:54Z",
     "stars": 18,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1258,6 +1258,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.4 -- Stage 4-6 to Stage 4-10 added.\r\nV0.4.2 -- Polished the texts and 1-10 , 2-10 and 3-10 sectors with a brief ending congrat message.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
+  },
+  {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.9.4",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-04-30T14:05:08Z",
+    "stars": 17,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "mnemotechnician/new-controls-public",
@@ -1314,20 +1328,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.9.4",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-04-30T14:05:08Z",
-    "stars": 16,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "seuearth/factroundustry",
@@ -1596,6 +1596,20 @@
     "description": "A mod that adds a new planet, where we will play in underground"
   },
   {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "0.85.157.4",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-04-26T14:31:31Z",
+    "stars": 12,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
+  },
+  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1722,20 +1736,6 @@
     "description": "THE SECOND INSTALLMENT to the lore of the crux\n\n A mod that adds a new planet and it focuses on combat.\n\nA planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet but soon to discover this planet had been destroyed but what lives on this planet and why...\n\nShards: a strange mystic planet filled with snow and unnamed matter across its surface but deeper down the more crystal stone will be. beware that the surface is covered in slow pace purple like winds. \n\nkjol: a surging cold moon was the last history before the D##N#7# incident.\n\nMake sure to reinstall regular or your progression will be error\n\nEvents coming: [\n-waste land mode\n-rework units effects and descriptions\n-sector balances\n-halloween event soon!\n-christmas event soon \n-secret mode?\n]\nVengeance will happen"
   },
   {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "0.85.157.4",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-04-26T14:31:31Z",
-    "stars": 11,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
-  },
-  {
     "repo": "wantechfan/mindustry-cursed-bundles",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
@@ -1756,7 +1756,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-05-01T13:44:03Z",
+    "lastUpdated": "2026-05-02T06:00:57Z",
     "stars": 11,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2800,6 +2800,20 @@
     "description": "Add an admin button."
   },
   {
+    "repo": "determination-wind/neon",
+    "internalName": "bek-tools",
+    "name": "Neon / 氖",
+    "version": "7.2.0",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-05-01T06:03:50Z",
+    "stars": 6,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A bundled toolkit with 16 client modules, now including WhoUsesThisBuilding and PatchViewer in Neon unified settings. / 辅助模组十六合一，现并入 WhoUsesThisBuilding 与 PatchViewer 并统一到 Neon 设置入口。"
+  },
+  {
     "repo": "vadit2020/betamindytranslated",
     "internalName": "betamindy",
     "name": "BetaMindy",
@@ -3122,18 +3136,18 @@
     "description": "A new planet called Xorinal. Currently v1.4. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. 6 campaign sectors so far, 14 units, and lots of buildings.\n\nUPDATES:\nLICHEN UPDATE (v1.2) spreads automatically from spore combustors — destroy it with flamethrowers or you can't delete blocks!\nFLAMEWAR UPDATE (v1.3) adds the Flame Array (blazing bloom-essence turret that wipes lichen in a huge radius) and the Sear unit (T1 flame drake that burns lichen in its aim cone).\nTETRA UPDATE (v1.4) opens up Tetra: gorgeous new noise-mesh planet view, Cryolith and Cryobreaker frost mechs, Glacierwing T2 flyer, the Frost Shielder reconstructor, Frost Router, and the Frozen Cavern landing sector.\n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add Xorinal t5!"
   },
   {
-    "repo": "determination-wind/neon",
-    "internalName": "bek-tools",
-    "name": "Neon / 氖",
-    "version": "7.2.0",
+    "repo": "determination-wind/power-grid-minimap-",
+    "internalName": "powergrid-minimap",
+    "name": "电网小地图 / Power Grid Minimap",
+    "version": "1.17.0",
     "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-05-01T06:03:50Z",
+    "author": "DeterMination",
+    "lastUpdated": "2026-05-01T06:28:15Z",
     "stars": 5,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A bundled toolkit with 16 client modules, now including WhoUsesThisBuilding and PatchViewer in Neon unified settings. / 辅助模组十六合一，现并入 WhoUsesThisBuilding 与 PatchViewer 并统一到 Neon 设置入口。"
+    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
   },
   {
     "repo": "shimyytrov/turretex-java",
@@ -3472,6 +3486,20 @@
     "description": "this mod add more command blocks to help mod-creators, inspired in \"testers\" by sk7725"
   },
   {
+    "repo": "redloong9527/logic-chinese-localization",
+    "internalName": "logicchineselocalization",
+    "name": "逻辑汉化补丁v1.3.1",
+    "version": "157.4",
+    "hidden": true,
+    "author": "redloong9527",
+    "lastUpdated": "2026-04-25T19:05:02Z",
+    "stars": 4,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
+  },
+  {
     "repo": "darkdustry-coders/mindurkacompat",
     "internalName": "mindurkacompat",
     "name": "MindurkaCompat",
@@ -3484,20 +3512,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod that adds extra compatibility with Mindurka"
-  },
-  {
-    "repo": "determination-wind/power-grid-minimap-",
-    "internalName": "powergrid-minimap",
-    "name": "电网小地图 / Power Grid Minimap",
-    "version": "1.17.0",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-05-01T06:28:15Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
@@ -3976,20 +3990,6 @@
     "description": "every new planet mod be like:"
   },
   {
-    "repo": "redloong9527/logic-chinese-localization",
-    "internalName": "logicchineselocalization",
-    "name": "逻辑汉化补丁v1.3.1",
-    "version": "157.4",
-    "hidden": true,
-    "author": "redloong9527",
-    "lastUpdated": "2026-04-25T19:05:02Z",
-    "stars": 3,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4018,18 +4018,18 @@
     "description": "New planet"
   },
   {
-    "repo": "no9527dada/ctcoresystem",
-    "internalName": "ctcoresystem",
-    "name": "创世神核心加载系统前置",
-    "version": "1.56",
+    "repo": "sunkymp3g/netroniumtfs",
+    "internalName": "netroniummod",
+    "name": "Netronium: The Final Showdown",
+    "version": "CU-4 dev",
     "hidden": false,
-    "author": "NO:9527",
-    "lastUpdated": "2026-04-27T03:15:55Z",
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2026-04-29T07:33:01Z",
     "stars": 3,
-    "minGameVersion": "156",
+    "minGameVersion": "154.3",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Creators Core System"
+    "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   },
   {
     "repo": "argon1321/simple-additions",
@@ -4044,6 +4044,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff, yes, it's that simple. And dumb."
+  },
+  {
+    "repo": "no9527dada/ctcoresystem",
+    "internalName": "ctcoresystem",
+    "name": "创世神核心加载系统前置",
+    "version": "1.56",
+    "hidden": false,
+    "author": "NO:9527",
+    "lastUpdated": "2026-05-02T04:09:32Z",
+    "stars": 3,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Creators Core System"
   },
   {
     "repo": "weathercold/extralogging",
@@ -4758,20 +4772,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
-    "repo": "sunkymp3g/netroniumtfs",
-    "internalName": "netroniummod",
-    "name": "Netronium: The Final Showdown",
-    "version": "CU-4 dev",
-    "hidden": false,
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2026-04-29T07:33:01Z",
-    "stars": 2,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   },
   {
     "repo": "rocket550/zytheron-technology-java-",
@@ -7300,7 +7300,7 @@
     "version": "156.1.09",
     "hidden": false,
     "author": "编号9527",
-    "lastUpdated": "2026-04-30T05:17:12Z",
+    "lastUpdated": "2026-05-02T04:10:59Z",
     "stars": 0,
     "minGameVersion": "156",
     "hasScripts": false,
