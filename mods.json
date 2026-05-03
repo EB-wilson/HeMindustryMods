@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-04-27T13:29:04Z",
-    "stars": 211,
+    "stars": 212,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -731,15 +731,15 @@
     "repo": "xpdustry/claj",
     "internalName": "claj",
     "name": "CLaJ",
-    "version": "2.3.3",
+    "version": "2.4",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-05-01T20:15:28Z",
+    "lastUpdated": "2026-05-03T19:38:38Z",
     "stars": 32,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please check the 'Versions' and install the latest version named 'CLaJ for Mindustry V8'."
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends.\n\nNote: To install the mod for Mindustry v8, click 'View Releases' instead of 'Install' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
     "repo": "way-zer/contentstweaker",
@@ -1022,20 +1022,6 @@
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
-    "repo": "apszoldat/mindustrymappingutilities",
-    "internalName": "mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "1.8",
-    "hidden": true,
-    "author": "ApsZoldat",
-    "lastUpdated": "2026-05-02T17:52:46Z",
-    "stars": 21,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
-  },
-  {
     "repo": "jirocab/nyfalis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1048,6 +1034,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
+  },
+  {
+    "repo": "apszoldat/mindustrymappingutilities",
+    "internalName": "mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "1.8",
+    "hidden": true,
+    "author": "ApsZoldat",
+    "lastUpdated": "2026-05-03T19:01:17Z",
+    "stars": 21,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "itzcraft/hjsonpp",
@@ -1630,7 +1630,7 @@
     "version": "2.2",
     "hidden": false,
     "author": "Hello,Andrei",
-    "lastUpdated": "2026-05-03T18:10:00Z",
+    "lastUpdated": "2026-05-03T20:24:23Z",
     "stars": 12,
     "minGameVersion": "157",
     "hasScripts": false,
