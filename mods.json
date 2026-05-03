@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-05-02T19:32:15Z",
+    "lastUpdated": "2026-05-03T16:55:07Z",
     "stars": 569,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-04-27T13:29:04Z",
-    "stars": 210,
+    "stars": 211,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -210,6 +210,20 @@
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
+    "repo": "sharlottes/informatis",
+    "internalName": "informatis",
+    "name": "Informatis",
+    "version": "1.9.3",
+    "hidden": true,
+    "author": "Sharlotte",
+    "lastUpdated": "2026-04-17T14:10:11Z",
+    "stars": 99,
+    "minGameVersion": "155.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
     "repo": "willoizcitron/archivedustry-java",
     "internalName": "",
     "name": "ArchiveDustry Java",
@@ -222,20 +236,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n[yellow]Purposes:[]\nThis mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n[red]⚠ NOTICE ⚠:[]\nThis mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:Nexon, Nexon Games and Yostar."
-  },
-  {
-    "repo": "sharlottes/informatis",
-    "internalName": "informatis",
-    "name": "Informatis",
-    "version": "1.9.3",
-    "hidden": true,
-    "author": "Sharlotte",
-    "lastUpdated": "2026-04-17T14:10:11Z",
-    "stars": 98,
-    "minGameVersion": "155.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
     "repo": "twcash/aquarion",
@@ -357,7 +357,7 @@
     "hidden": true,
     "author": "Pointifix",
     "lastUpdated": "2025-09-20T15:42:00Z",
-    "stars": 58,
+    "stars": 59,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
@@ -1210,7 +1210,7 @@
     "version": "0",
     "hidden": false,
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-05-03T16:50:19Z",
+    "lastUpdated": "2026-05-03T18:55:50Z",
     "stars": 18,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1442,6 +1442,20 @@
     "description": "The best sensory overload you can get, at least legally."
   },
   {
+    "repo": "smolkeys/new-console-hardline",
+    "internalName": "newconsole-hardline",
+    "name": "New Console Hardline",
+    "version": "2.3",
+    "hidden": true,
+    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
+    "lastUpdated": "2026-02-19T14:17:45Z",
+    "stars": 13,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
     "repo": "yroo1/astheriveregenesis",
     "internalName": "arg",
     "name": "A:RG",
@@ -1568,20 +1582,6 @@
     "description": "A Java Mindustry mod that adds a new campaign on the planet Xilion. Currently still in pre-alpha"
   },
   {
-    "repo": "smolkeys/new-console-hardline",
-    "internalName": "newconsole-hardline",
-    "name": "New Console Hardline",
-    "version": "2.3",
-    "hidden": true,
-    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
-    "lastUpdated": "2026-02-19T14:17:45Z",
-    "stars": 12,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
     "repo": "bttodi/virtuality",
     "internalName": "virtuality",
     "name": "Virtuality",
@@ -1630,7 +1630,7 @@
     "version": "2.2",
     "hidden": false,
     "author": "Hello,Andrei",
-    "lastUpdated": "2026-05-02T20:59:09Z",
+    "lastUpdated": "2026-05-03T18:10:00Z",
     "stars": 12,
     "minGameVersion": "157",
     "hasScripts": false,
