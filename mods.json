@@ -2240,20 +2240,6 @@
     "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
   },
   {
-    "repo": "mindustry-antigrief/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "version": "2.6.5",
-    "hidden": true,
-    "author": "io community",
-    "lastUpdated": "2026-04-30T10:20:06Z",
-    "stars": 8,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Improves your experience on the official io  Flood server."
-  },
-  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -2266,6 +2252,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
+    "repo": "mindustry-antigrief/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "version": "2.6.6",
+    "hidden": true,
+    "author": "io community",
+    "lastUpdated": "2026-05-06T09:38:51Z",
+    "stars": 8,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Improves your experience on the official io  Flood server."
   },
   {
     "repo": "eb-wilson/modpacker",
@@ -2576,32 +2576,32 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101.2",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-05-05T08:30:55Z",
-    "stars": 7,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "version": "101.2",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-05-05T14:45:26Z",
+    "lastUpdated": "2026-05-06T08:59:51Z",
     "stars": 7,
     "minGameVersion": "156",
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101.2",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-05-06T09:02:14Z",
+    "stars": 7,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "heroblack303/stardustry",
@@ -4060,20 +4060,6 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
-    "repo": "wantechfan/mindustry-legacy-sounds",
-    "internalName": "legacy-sounds",
-    "name": "Legacy Sounds",
-    "version": "0.6",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-05-05T08:08:54Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
-  },
-  {
     "repo": "coaldeficit/satisfying-break-sounds",
     "internalName": "crunch",
     "name": "Satisfying Break Sounds",
@@ -4100,6 +4086,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "wantechfan/mindustry-legacy-sounds",
+    "internalName": "legacy-sounds",
+    "name": "Legacy Sounds",
+    "version": "0.6",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-05-06T07:02:09Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
   },
   {
     "repo": "weathercold/extralogging",
@@ -5262,6 +5262,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Router router router router router router."
+  },
+  {
+    "repo": "xiaoxianben/mindustry-betterfactory-mod",
+    "internalName": "better-factory",
+    "name": "更好的工厂",
+    "version": "1.0",
+    "hidden": false,
+    "author": "小仙本猫",
+    "lastUpdated": "2025-02-10T12:48:05Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "一个自娱自乐的模组."
   },
   {
     "repo": "mrybs/dasuas",
@@ -6634,20 +6648,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "我觉得这些应该对游戏体验有一定帮助喵~"
-  },
-  {
-    "repo": "xiaoxianben/mindustry-betterfactory-mod",
-    "internalName": "better-factory",
-    "name": "更好的工厂",
-    "version": "1.0",
-    "hidden": false,
-    "author": "小仙本猫",
-    "lastUpdated": "2025-02-10T12:48:05Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "一个自娱自乐的模组."
   },
   {
     "repo": "jirocab/payloadcommanding",
