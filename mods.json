@@ -244,7 +244,7 @@
     "version": "3.9.3",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-05-05T21:45:18Z",
+    "lastUpdated": "2026-05-06T00:28:18Z",
     "stars": 95,
     "minGameVersion": "156.1",
     "hasScripts": false,
@@ -468,7 +468,7 @@
     "version": "Alpha-6484",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-05-04T13:14:42Z",
+    "lastUpdated": "2026-05-06T01:57:22Z",
     "stars": 49,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -1770,7 +1770,7 @@
     "version": "v2.15-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-05-05T15:23:27Z",
+    "lastUpdated": "2026-05-06T02:03:55Z",
     "stars": 11,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -3906,20 +3906,6 @@
     "description": "介绍日后再写"
   },
   {
-    "repo": "coaldeficit/satisfying-break-sounds",
-    "internalName": "crunch",
-    "name": "Satisfying Break Sounds",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "Someone, probably",
-    "lastUpdated": "2025-10-10T19:18:37Z",
-    "stars": 3,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Makes the sounds for breaking things more Crunchy."
-  },
-  {
     "repo": "photon-gravity/polarform",
     "internalName": "polar-form",
     "name": "Polar Form",
@@ -4074,20 +4060,6 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-05-02T20:34:58Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "wantechfan/mindustry-legacy-sounds",
     "internalName": "legacy-sounds",
     "name": "Legacy Sounds",
@@ -4100,6 +4072,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
+  },
+  {
+    "repo": "coaldeficit/satisfying-break-sounds",
+    "internalName": "crunch",
+    "name": "Satisfying Break Sounds",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "Someone, probably",
+    "lastUpdated": "2026-05-05T23:58:13Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Makes the sounds for breaking things more Crunchy."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-05-06T01:33:42Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "weathercold/extralogging",
