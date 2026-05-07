@@ -1042,7 +1042,7 @@
     "version": "1.8",
     "hidden": true,
     "author": "ApsZoldat",
-    "lastUpdated": "2026-05-07T13:25:23Z",
+    "lastUpdated": "2026-05-07T22:28:05Z",
     "stars": 21,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -4760,20 +4760,6 @@
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.6",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-04-28T13:14:50Z",
-    "stars": 2,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "rocket550/zytheron-technology-java-",
     "internalName": "zytheron",
     "name": "Zytheron Technology(Java)",
@@ -4842,6 +4828,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mode enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.6",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-05-07T21:53:42Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "agzam4/mindustry-units-mod",
