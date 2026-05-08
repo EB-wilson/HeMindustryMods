@@ -49,7 +49,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-05-07T05:16:47Z",
-    "stars": 230,
+    "stars": 229,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -476,6 +476,20 @@
     "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "internalName": "psammos",
+    "name": "Psammos Mod",
+    "version": "1.4.1",
+    "hidden": false,
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2026-05-02T12:25:59Z",
+    "stars": 45,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
+  },
+  {
     "repo": "sh1penfire/meld",
     "internalName": "meld",
     "name": "Meld",
@@ -490,20 +504,6 @@
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
-    "repo": "andromeda-galaxy29/psammos-mod",
-    "internalName": "psammos",
-    "name": "Psammos Mod",
-    "version": "1.4.1",
-    "hidden": false,
-    "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-05-02T12:25:59Z",
-    "stars": 44,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
-  },
-  {
     "repo": "azaria-team/azaria",
     "internalName": "hpl",
     "name": "Project HPL",
@@ -511,7 +511,7 @@
     "hidden": false,
     "author": "HPL Team",
     "lastUpdated": "2026-05-03T08:54:28Z",
-    "stars": 44,
+    "stars": 43,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -3738,6 +3738,20 @@
     "description": "my first java mod-test ver"
   },
   {
+    "repo": "adamlolgaming/furry-zenith",
+    "internalName": "furry-zenith",
+    "name": "furry zenith",
+    "version": "1",
+    "hidden": true,
+    "author": "Adamlol_gaming",
+    "lastUpdated": "2024-11-12T17:04:45Z",
+    "stars": 3,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "why? furry zenith."
+  },
+  {
     "repo": "wmf-industries/wheredidtheygo",
     "internalName": "wdtg",
     "name": "WhereDidTheyGo?",
@@ -4380,20 +4394,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "mod that adds serpulo junctions routers and bridges to erekir"
-  },
-  {
-    "repo": "adamlolgaming/furry-zenith",
-    "internalName": "furry-zenith",
-    "name": "furry zenith",
-    "version": "1",
-    "hidden": true,
-    "author": "Adamlol_gaming",
-    "lastUpdated": "2024-11-12T17:04:45Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "why? furry zenith."
   },
   {
     "repo": "ruombus/dragenisis",
