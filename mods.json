@@ -524,7 +524,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-05-08T00:42:16Z",
+    "lastUpdated": "2026-05-08T22:20:55Z",
     "stars": 43,
     "minGameVersion": "155.2",
     "hasScripts": false,
@@ -2828,6 +2828,20 @@
     "description": "A bundled toolkit with 16 client modules, now including WhoUsesThisBuilding and PatchViewer in Neon unified settings. / 辅助模组十六合一，现并入 WhoUsesThisBuilding 与 PatchViewer 并统一到 Neon 设置入口。"
   },
   {
+    "repo": "oscaremoran/beyondserpulo-mod",
+    "internalName": "xorinal",
+    "name": "Xorinal",
+    "version": "1.5",
+    "hidden": false,
+    "author": "Oscar Moran",
+    "lastUpdated": "2026-05-05T17:05:19Z",
+    "stars": 6,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A new planet called Xorinal. Currently v1.4. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. 6 campaign sectors so far, 14 units, and lots of buildings.\n\nUPDATES:\nLICHEN UPDATE (v1.2) spreads automatically from spore combustors — destroy it with flamethrowers or you can't delete blocks!\nFLAMEWAR UPDATE (v1.3) adds the Flame Array (blazing bloom-essence turret that wipes lichen in a huge radius) and the Sear unit (T1 flame drake that burns lichen in its aim cone).\nTETRA UPDATE (v1.4) opens up Tetra: gorgeous new noise-mesh planet view, Cryolith and Cryobreaker frost mechs, Glacierwing T2 flyer, the Frost Shielder reconstructor, Frost Router, and the Frozen Cavern landing sector.\n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add Xorinal t5!"
+  },
+  {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
     "internalName": "interstellar-spaceline",
     "name": "Interstellar Spaceline",
@@ -3134,20 +3148,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
-  },
-  {
-    "repo": "oscaremoran/beyondserpulo-mod",
-    "internalName": "xorinal",
-    "name": "Xorinal",
-    "version": "1.5",
-    "hidden": false,
-    "author": "Oscar Moran",
-    "lastUpdated": "2026-05-05T17:05:19Z",
-    "stars": 5,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A new planet called Xorinal. Currently v1.4. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. 6 campaign sectors so far, 14 units, and lots of buildings.\n\nUPDATES:\nLICHEN UPDATE (v1.2) spreads automatically from spore combustors — destroy it with flamethrowers or you can't delete blocks!\nFLAMEWAR UPDATE (v1.3) adds the Flame Array (blazing bloom-essence turret that wipes lichen in a huge radius) and the Sear unit (T1 flame drake that burns lichen in its aim cone).\nTETRA UPDATE (v1.4) opens up Tetra: gorgeous new noise-mesh planet view, Cryolith and Cryobreaker frost mechs, Glacierwing T2 flyer, the Frost Shielder reconstructor, Frost Router, and the Frozen Cavern landing sector.\n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add Xorinal t5!"
   },
   {
     "repo": "shimyytrov/turretex-java",
