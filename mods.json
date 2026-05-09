@@ -146,7 +146,7 @@
     "version": "v0.8",
     "hidden": false,
     "author": "Eschatologue",
-    "lastUpdated": "2026-05-08T04:42:00Z",
+    "lastUpdated": "2026-05-09T08:55:42Z",
     "stars": 130,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -546,20 +546,6 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
-    "repo": "uenhe/fire",
-    "internalName": "fire",
-    "name": "Fire",
-    "version": "1.5.0",
-    "hidden": false,
-    "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
-    "lastUpdated": "2026-02-07T03:46:45Z",
-    "stars": 40,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
-  },
-  {
     "repo": "sublemon-team/subvoyage",
     "internalName": "subvoyage",
     "name": "Subvoyage",
@@ -580,7 +566,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-09T06:14:59Z",
+    "lastUpdated": "2026-05-09T07:49:18Z",
     "stars": 40,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -600,6 +586,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
+    "repo": "uenhe/fire",
+    "internalName": "fire",
+    "name": "Fire",
+    "version": "1.5.0",
+    "hidden": false,
+    "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
+    "lastUpdated": "2026-02-07T03:46:45Z",
+    "stars": 39,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
   },
   {
     "repo": "itskirby69/minedusty",
@@ -1770,7 +1770,7 @@
     "version": "v2.5-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-09T05:56:42Z",
+    "lastUpdated": "2026-05-09T07:11:00Z",
     "stars": 11,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -3374,20 +3374,6 @@
     "description": "On a random day, all the civilizations joined forces to leave the dying state of the world in which they are inhabiting. They left in fleets of much grandeur and it was at that time when a vortex opened somewhere between the stars and they entered it where they had the encounter with the Beings. They acquired exotic technologies from them but little did they know that it was all part of a much greater story and that there was nothing random about that day. The Exotic technologies include: Bombs and Nukes Guided missile systems Power manipulation devices Unconventional weapon systems and much more."
   },
   {
-    "repo": "dedshotgames/wotanks-mod",
-    "internalName": "wotanks",
-    "name": "WOTanks",
-    "version": "1.10",
-    "hidden": false,
-    "author": "DedShotGames",
-    "lastUpdated": "2025-10-16T07:51:21Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "You are the lucky owner of my mod, which adds a tank with each update!"
-  },
-  {
     "repo": "justsharga/modar-sharga",
     "internalName": "mod-ar",
     "name": "Ark of Rebirth",
@@ -4088,20 +4074,6 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
-    "repo": "wantechfan/mindustry-legacy-sounds",
-    "internalName": "legacy-sounds",
-    "name": "Legacy Sounds",
-    "version": "0.6",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-05-08T08:08:12Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
-  },
-  {
     "repo": "johnnywu2k/void",
     "internalName": "void",
     "name": "Void",
@@ -4122,12 +4094,26 @@
     "version": "0.1",
     "hidden": false,
     "author": "Choco Same",
-    "lastUpdated": "2026-05-09T06:13:42Z",
+    "lastUpdated": "2026-05-09T06:22:28Z",
     "stars": 3,
     "minGameVersion": "154",
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mode enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one."
+  },
+  {
+    "repo": "wantechfan/mindustry-legacy-sounds",
+    "internalName": "legacy-sounds",
+    "name": "Legacy Sounds",
+    "version": "0.6",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-05-09T08:11:17Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
   },
   {
     "repo": "weathercold/extralogging",
