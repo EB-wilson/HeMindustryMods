@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-05-04T12:07:02Z",
-    "stars": 212,
+    "stars": 213,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -315,7 +315,7 @@
     "hidden": true,
     "author": "EBwilson",
     "lastUpdated": "2026-04-08T07:22:54Z",
-    "stars": 65,
+    "stars": 66,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -440,12 +440,26 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-05-08T06:50:50Z",
+    "lastUpdated": "2026-05-09T13:17:46Z",
     "stars": 51,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "  [#93E2EE]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Capture and conquer with over 18 campaign maps avaiable on this mod. (now with challenge maps!)\n\n  With over 13 items to be discovered, 124 blocks to be researched. and 17 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.[]\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Server! \n  Check it on my profile. My username is TnmSpiroct.\n\n  This mod requires newest mindustry build to be played (Beta 149)\n  \n  Version 0.7\n  - Codex Resprite\n  - More Biomes\n  - 2 New Items (Experimental)\n  - Removed Some Biomes\n  - New Turret, Anvil\n  - Fixes some blocks can be placed on deep water\n  - Nucrid Crusher"
+  },
+  {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "DeepSpace",
+    "version": "Alpha-6484",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-05-09T10:25:20Z",
+    "stars": 50,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
     "repo": "flintyx/animalia",
@@ -460,20 +474,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "DeepSpace",
-    "version": "Alpha-6484",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-05-09T10:25:20Z",
-    "stars": 49,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
     "repo": "andromeda-galaxy29/psammos-mod",
@@ -1470,6 +1470,20 @@
     "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
+    "repo": "routerxdd/icicle-world",
+    "internalName": "icicle-world",
+    "name": "Buried in Ice",
+    "version": "9.5",
+    "hidden": false,
+    "author": "R.O.T.\nSpecial thanks:\nyesC48 for editing english translation\nxhstoyea for chinese translation",
+    "lastUpdated": "2026-03-12T19:59:38Z",
+    "stars": 13,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds a new planet, where we will play in underground"
+  },
+  {
     "repo": "no9527dada/ct-origin",
     "internalName": "creators",
     "name": "创世神2-起源独立版",
@@ -1580,20 +1594,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
-  },
-  {
-    "repo": "routerxdd/icicle-world",
-    "internalName": "icicle-world",
-    "name": "Buried in Ice",
-    "version": "9.5",
-    "hidden": false,
-    "author": "R.O.T.\nSpecial thanks:\nyesC48 for editing english translation\nxhstoyea for chinese translation",
-    "lastUpdated": "2026-03-12T19:59:38Z",
-    "stars": 12,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds a new planet, where we will play in underground"
   },
   {
     "repo": "kev-vily/epsilon",
@@ -3506,7 +3506,7 @@
     "version": "2.0",
     "hidden": true,
     "author": "buj",
-    "lastUpdated": "2026-05-08T14:51:29Z",
+    "lastUpdated": "2026-05-09T11:33:30Z",
     "stars": 4,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -4102,20 +4102,6 @@
     "description": "Matter, void energy, advanced power, turrets, and units for Mindustry v8."
   },
   {
-    "repo": "kyokonagaro/viridium",
-    "internalName": "viridium",
-    "name": "Viridium",
-    "version": "0.1",
-    "hidden": false,
-    "author": "Choco Same",
-    "lastUpdated": "2026-05-09T06:22:28Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mode enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one."
-  },
-  {
     "repo": "wantechfan/mindustry-legacy-sounds",
     "internalName": "legacy-sounds",
     "name": "Legacy Sounds",
@@ -4128,6 +4114,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
+  },
+  {
+    "repo": "kyokonagaro/viridium",
+    "internalName": "viridium",
+    "name": "Viridium",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Choco Same",
+    "lastUpdated": "2026-05-09T13:13:18Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mode enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one."
   },
   {
     "repo": "weathercold/extralogging",
