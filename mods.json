@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-05-10T14:43:19Z",
+    "lastUpdated": "2026-05-10T17:37:27Z",
     "stars": 571,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -244,7 +244,7 @@
     "version": "3.9.3",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-05-09T22:02:39Z",
+    "lastUpdated": "2026-05-10T19:01:51Z",
     "stars": 97,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -1042,7 +1042,7 @@
     "version": "1.8",
     "hidden": true,
     "author": "ApsZoldat",
-    "lastUpdated": "2026-05-09T17:40:29Z",
+    "lastUpdated": "2026-05-10T18:31:06Z",
     "stars": 21,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -4788,20 +4788,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "rocket550/zytheron-technology-java-",
-    "internalName": "zytheron",
-    "name": "Zytheron Technology(Java)",
-    "version": "",
-    "hidden": false,
-    "author": "Trocket",
-    "lastUpdated": "2026-05-10T00:25:24Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a java edition of my mod that eventually will replace the json one"
-  },
-  {
     "repo": "128oteml/ice-peak",
     "internalName": "proxima",
     "name": "Proxima Centauri",
@@ -4828,6 +4814,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+  },
+  {
+    "repo": "rocket550/zytheron-technology-java-",
+    "internalName": "zytheron",
+    "name": "Zytheron Technology(Java)",
+    "version": "",
+    "hidden": false,
+    "author": "Trocket",
+    "lastUpdated": "2026-05-10T17:00:36Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -6160,6 +6160,20 @@
     "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos[white] \n[white]·4 muros \n[white]·11 fabricas[white] \n[white]·1 generador \n[white]·1 cinta de transporte \n[white]·5 torretas[white] \n[white]·6 fabricas de unidades \n[white]·6 unidades. \n\n[accent]todo lo anterior en algun futuro sera movido a un nuevo arbol tecnologico o seccion separada[white] \n\n[grey]PD: Aun faltan varios sprites, por que aun estan en desarrollo y se deben arreglar algunos errores.[grey] \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como New Horizon, Vanilla Expansion, Warbound industries, [Better Vanilla] y Mindustry Tool"
   },
   {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2026-05-09T06:07:03Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
+  },
+  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -7334,19 +7348,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mallpark Research & Development presents various interplanetary products, as requested by various customers, or as experiments designed to test the market.\n\n[red]This is a pretty small, crappy and unbalanced mod. Anyway-"
-  },
-  {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2026-05-09T06:07:03Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
   }
 ]
