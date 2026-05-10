@@ -49,7 +49,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-05-07T05:16:47Z",
-    "stars": 229,
+    "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -91,7 +91,7 @@
     "hidden": true,
     "author": "sk7725",
     "lastUpdated": "2026-04-13T00:22:11Z",
-    "stars": 171,
+    "stars": 170,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -146,7 +146,7 @@
     "version": "v0.8",
     "hidden": false,
     "author": "Eschatologue",
-    "lastUpdated": "2026-05-09T08:55:42Z",
+    "lastUpdated": "2026-05-10T10:00:09Z",
     "stars": 130,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -4760,20 +4760,6 @@
     "description": "Inline before/after diff viewer for Mindustry datapatches in the database UI. / 在数据库界面中直接显示 Mindustry 数据补丁的前后差异。"
   },
   {
-    "repo": "128oteml/ice-peak",
-    "internalName": "proxima",
-    "name": "Proxima Centauri",
-    "version": "1.0",
-    "hidden": false,
-    "author": "128_OTEML",
-    "lastUpdated": "2026-05-05T03:35:49Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "urij19cc7e4/machindustry",
     "internalName": "machindustry",
     "name": "Machindustry",
@@ -4828,6 +4814,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+  },
+  {
+    "repo": "128oteml/ice-peak",
+    "internalName": "proxima",
+    "name": "Proxima Centauri",
+    "version": "1.0",
+    "hidden": false,
+    "author": "128_OTEML",
+    "lastUpdated": "2026-05-10T09:34:10Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "agzam4/mindustry-units-mod",
