@@ -3290,6 +3290,20 @@
     "description": "этот мод добавит в игру новую планету и куча контента"
   },
   {
+    "repo": "adamlolgaming/furry-zenith",
+    "internalName": "furry-zenith",
+    "name": "furry zenith",
+    "version": "1",
+    "hidden": true,
+    "author": "Adamlol_gaming",
+    "lastUpdated": "2024-11-12T17:04:45Z",
+    "stars": 4,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "why? furry zenith."
+  },
+  {
     "repo": "deltanedas/mindustry-2",
     "internalName": "mindustry-2",
     "name": "Mindustry 2",
@@ -3750,20 +3764,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "my first java mod-test ver"
-  },
-  {
-    "repo": "adamlolgaming/furry-zenith",
-    "internalName": "furry-zenith",
-    "name": "furry zenith",
-    "version": "1",
-    "hidden": true,
-    "author": "Adamlol_gaming",
-    "lastUpdated": "2024-11-12T17:04:45Z",
-    "stars": 3,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "why? furry zenith."
   },
   {
     "repo": "wmf-industries/wheredidtheygo",
@@ -4774,20 +4774,6 @@
     "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir.\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир.\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.6",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-05-08T14:09:43Z",
-    "stars": 2,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "128oteml/ice-peak",
     "internalName": "proxima",
     "name": "Proxima Centauri",
@@ -4828,6 +4814,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is a java edition of my mod that eventually will replace the json one"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.7",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-05-11T19:39:44Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "agzam4/mindustry-units-mod",
