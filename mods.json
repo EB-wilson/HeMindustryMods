@@ -1022,20 +1022,6 @@
     "description": "[#AEAEAE]A mod that focuses on improving the infrastructure industry which is useful in campaign mode.\n\nAdding more crafters, distribution blocks, drills, items, and new units(include combat units, and support units) to support your gameplay!\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!"
   },
   {
-    "repo": "jirocab/nyfalis",
-    "internalName": "olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.7.9",
-    "hidden": false,
-    "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2026-05-05T16:40:31Z",
-    "stars": 21,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
-  },
-  {
     "repo": "itzcraft/xanthia",
     "internalName": "xanthia-3",
     "name": "Xanthia",
@@ -1050,13 +1036,27 @@
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
+    "repo": "jirocab/nyfalis",
+    "internalName": "olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.7.9",
+    "hidden": false,
+    "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
+    "lastUpdated": "2026-05-14T18:08:40Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
+  },
+  {
     "repo": "apszoldat/mindustrymappingutilities",
     "internalName": "mapping-utilities",
     "name": "Mapping Utilities",
     "version": "1.8",
     "hidden": true,
     "author": "ApsZoldat",
-    "lastUpdated": "2026-05-13T20:22:29Z",
+    "lastUpdated": "2026-05-14T18:17:48Z",
     "stars": 21,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1630,7 +1630,7 @@
     "version": "2.2",
     "hidden": false,
     "author": "Hello,Andrei",
-    "lastUpdated": "2026-05-14T15:11:23Z",
+    "lastUpdated": "2026-05-14T18:40:37Z",
     "stars": 12,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -2106,7 +2106,7 @@
     "version": "beta.0.8",
     "hidden": false,
     "author": "LaoMoze",
-    "lastUpdated": "2026-05-13T14:58:15Z",
+    "lastUpdated": "2026-05-14T18:55:58Z",
     "stars": 9,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -3934,6 +3934,20 @@
     "description": "Explore a new planet submerged in naphtha and utilize buildings with an exotic, new form."
   },
   {
+    "repo": "osp54/shared-campaign-research",
+    "internalName": "shared-campaign-research",
+    "name": "Shared Campaign Research",
+    "version": "0.2.5-alpha.1",
+    "hidden": false,
+    "author": "osp54",
+    "lastUpdated": "2026-03-17T14:30:47Z",
+    "stars": 3,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A co-op campaign mod for shared research. Players who joined the host can request research from the research screen, and the result is applied to the current campaign."
+  },
+  {
     "repo": "chuvaak/futurehorizons",
     "internalName": "futurehorizons",
     "name": "Future Horizons",
@@ -4730,20 +4744,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "该mod还处于测试阶段,非常垃圾"
-  },
-  {
-    "repo": "osp54/shared-campaign-research",
-    "internalName": "shared-campaign-research",
-    "name": "Shared Campaign Research",
-    "version": "0.2.5-alpha.1",
-    "hidden": false,
-    "author": "osp54",
-    "lastUpdated": "2026-03-17T14:30:47Z",
-    "stars": 2,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A co-op campaign mod for shared research. Players who joined the host can request research from the research screen, and the result is applied to the current campaign."
   },
   {
     "repo": "determination-wind/patchviewer",
