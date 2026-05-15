@@ -244,7 +244,7 @@
     "version": "3.9.3",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-05-15T17:01:29Z",
+    "lastUpdated": "2026-05-15T17:43:01Z",
     "stars": 99,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -476,6 +476,20 @@
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "internalName": "psammos",
+    "name": "Psammos Mod",
+    "version": "1.4.1",
+    "hidden": false,
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2026-05-02T12:25:59Z",
+    "stars": 45,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
+  },
+  {
     "repo": "azaria-team/azaria",
     "internalName": "hpl",
     "name": "Project HPL",
@@ -488,20 +502,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
-  },
-  {
-    "repo": "andromeda-galaxy29/psammos-mod",
-    "internalName": "psammos",
-    "name": "Psammos Mod",
-    "version": "1.4.1",
-    "hidden": false,
-    "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-05-02T12:25:59Z",
-    "stars": 44,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
   },
   {
     "repo": "sh1penfire/meld",
@@ -1036,20 +1036,6 @@
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
-    "repo": "jirocab/nyfalis",
-    "internalName": "olupis",
-    "name": "Nyfalis (Olupis)",
-    "version": "1.7.9",
-    "hidden": false,
-    "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2026-05-14T18:08:40Z",
-    "stars": 21,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
-  },
-  {
     "repo": "apszoldat/mindustrymappingutilities",
     "internalName": "mapping-utilities",
     "name": "Mapping Utilities",
@@ -1062,6 +1048,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
+    "repo": "jirocab/nyfalis",
+    "internalName": "olupis",
+    "name": "Nyfalis (Olupis)",
+    "version": "1.7.9",
+    "hidden": false,
+    "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
+    "lastUpdated": "2026-05-15T17:45:42Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
   },
   {
     "repo": "echovespy/simplistic",
