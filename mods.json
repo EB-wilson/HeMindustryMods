@@ -406,6 +406,20 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "DeepSpace",
+    "version": "Alpha-6484",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-05-15T01:47:36Z",
+    "stars": 54,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "半成品模组,目的是为mdt添加更多的内容"
+  },
+  {
     "repo": "tnmspiroct/exoprosopa",
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
@@ -418,20 +432,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "  [#93E2EE]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Capture and conquer with over 18 campaign maps avaiable on this mod. (now with challenge maps!)\n\n  With over 13 items to be discovered, 124 blocks to be researched. and 17 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.[]\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Server! \n  Check it on my profile. My username is TnmSpiroct.\n\n  This mod requires newest mindustry build to be played (Beta 149)\n  \n  Version 0.7\n  - Codex Resprite\n  - More Biomes\n  - 2 New Items (Experimental)\n  - Removed Some Biomes\n  - New Turret, Anvil\n  - Fixes some blocks can be placed on deep water\n  - Nucrid Crusher"
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "DeepSpace",
-    "version": "Alpha-6484",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-05-15T01:47:36Z",
-    "stars": 53,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
     "repo": "eb-wilson/helium",
@@ -1658,7 +1658,7 @@
     "version": "v2.5-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-16T14:48:21Z",
+    "lastUpdated": "2026-05-16T16:09:39Z",
     "stars": 12,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -7336,20 +7336,6 @@
     "description": "联机房间密码,初始密码：123456\n  Online room password, initial password: 123456,\n  在开联机时，需要别人使用密码登录\n  When you are online, you need someone else to log in with a password."
   },
   {
-    "repo": "re-ast/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "version": "2.0.1",
-    "hidden": true,
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2026-05-15T21:48:21Z",
-    "stars": 0,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
-  },
-  {
     "repo": "highspeed85/mindustry-mallpark",
     "internalName": "mallpark",
     "name": "Malldustry",
@@ -7362,5 +7348,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mallpark Research & Development presents various interplanetary products, as requested by various customers, or as experiments designed to test the market.\n\n[red]This is a pretty small, crappy and unbalanced mod. Anyway-"
+  },
+  {
+    "repo": "re-ast/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "version": "2.0.1",
+    "hidden": true,
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2026-05-16T16:35:00Z",
+    "stars": 0,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
   }
 ]
