@@ -132,7 +132,7 @@
     "version": "16.0",
     "hidden": false,
     "author": "Snake",
-    "lastUpdated": "2026-05-16T10:53:24Z",
+    "lastUpdated": "2026-05-17T06:28:12Z",
     "stars": 133,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -378,6 +378,20 @@
     "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "DeepSpace",
+    "version": "Alpha-6484",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-05-15T01:47:36Z",
+    "stars": 56,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "半成品模组,目的是为mdt添加更多的内容"
+  },
+  {
     "repo": "sharlottes/sharustry",
     "internalName": "shar",
     "name": "Sharustry",
@@ -404,20 +418,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "DeepSpace",
-    "version": "Alpha-6484",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-05-15T01:47:36Z",
-    "stars": 55,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
     "repo": "tnmspiroct/exoprosopa",
@@ -888,7 +888,7 @@
     "version": "v1.3",
     "hidden": false,
     "author": "SezoVK",
-    "lastUpdated": "2026-05-17T03:00:11Z",
+    "lastUpdated": "2026-05-17T05:40:22Z",
     "stars": 26,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -1658,7 +1658,7 @@
     "version": "v2.5-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-17T03:19:17Z",
+    "lastUpdated": "2026-05-17T05:19:15Z",
     "stars": 12,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2086,20 +2086,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "laomoze/warhammer",
-    "internalName": "wh",
-    "name": "WarHammer",
-    "version": "beta.0.8",
-    "hidden": false,
-    "author": "LaoMoze",
-    "lastUpdated": "2026-05-16T18:37:41Z",
-    "stars": 9,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "以战锤40k为原型的MOD,设定与qq群可以到模组简介里面找\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
-  },
-  {
     "repo": "sh1penfire/meld-java",
     "internalName": "meld2",
     "name": "Meld: Sand and Sunder",
@@ -2112,6 +2098,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
+  },
+  {
+    "repo": "laomoze/warhammer",
+    "internalName": "wh",
+    "name": "WarHammer",
+    "version": "beta.1.7",
+    "hidden": false,
+    "author": "LaoMoze",
+    "lastUpdated": "2026-05-17T05:47:05Z",
+    "stars": 9,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "以战锤40k为原型的MOD,设定与qq群可以到模组简介里面找\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
     "repo": "slava0135/refine",
