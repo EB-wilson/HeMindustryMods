@@ -426,7 +426,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-05-18T02:54:31Z",
+    "lastUpdated": "2026-05-18T07:48:59Z",
     "stars": 54,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -538,7 +538,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-16T06:28:58Z",
+    "lastUpdated": "2026-05-18T04:34:54Z",
     "stars": 41,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1610,20 +1610,6 @@
     "description": "A Java Mindustry mod that adds a new campaign on the planet Xilion. Currently still in pre-alpha"
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v2.5-Gier",
-    "hidden": false,
-    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-17T14:33:04Z",
-    "stars": 12,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n"
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1664,6 +1650,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v2.5-Gier",
+    "hidden": false,
+    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
+    "lastUpdated": "2026-05-18T04:05:21Z",
+    "stars": 12,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n"
   },
   {
     "repo": "foxitos/cmd-pack",
@@ -6214,6 +6214,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds neoplasm version of all liquids (except Water which already has it's own neoplasm)."
+  },
+  {
+    "repo": "zenthxsin/voidshield",
+    "internalName": "voidshield",
+    "name": "Void Shield",
+    "version": "alpha-01",
+    "hidden": false,
+    "author": "zxs",
+    "lastUpdated": "2026-05-18T05:59:42Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "代码编写: ZXS\n贴图制作: 花杨永瀛\n委托: 一得阁拉米"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
