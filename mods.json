@@ -679,7 +679,7 @@
     "hidden": true,
     "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22",
     "lastUpdated": "2026-05-19T17:59:36Z",
-    "stars": 36,
+    "stars": 37,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": true,
@@ -4102,20 +4102,6 @@
     "description": "A mod that colors the bridges"
   },
   {
-    "repo": "wantechfan/mindustry-legacy-sounds",
-    "internalName": "legacy-sounds",
-    "name": "Legacy Sounds",
-    "version": "0.8",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-05-19T06:25:17Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
-  },
-  {
     "repo": "volproil/ultimate-military-technic",
     "internalName": "ultimate-military-technic-mod",
     "name": "Ultimate Military Technic Mod",
@@ -4128,6 +4114,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod add tanks, aircraft, artillery, diesel generators"
+  },
+  {
+    "repo": "wantechfan/mindustry-legacy-sounds",
+    "internalName": "legacy-sounds",
+    "name": "Legacy Sounds",
+    "version": "0.8",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-05-19T18:06:10Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
   },
   {
     "repo": "weathercold/extralogging",
