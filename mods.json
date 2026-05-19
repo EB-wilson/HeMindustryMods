@@ -2632,6 +2632,20 @@
     "description": "You on the Mars."
   },
   {
+    "repo": "bloodmoddingocean-coder/visual_plus",
+    "internalName": "vplus",
+    "name": "Visual+",
+    "version": "1.60.2",
+    "hidden": true,
+    "author": "Bloody-Ocean",
+    "lastUpdated": "2026-05-19T21:14:55Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru: Данная модификация изменяет внешний вид Серпуло. Респрайт некоторой части Эрекира.\r\n\r\nEng: This modification changes the appearance of the Serpulo. Resprite of some part of the Erekir.\r\n\r\nThx to retodera, Sputnuc and mellory for the help with the scripts."
+  },
+  {
     "repo": "heroblack303/stardustry",
     "internalName": "stardustry",
     "name": "Stardustry",
@@ -4676,20 +4690,6 @@
     "description": "8.2版本新增炮台以及效果!"
   },
   {
-    "repo": "caboosket/annoica",
-    "internalName": "annoica",
-    "name": "Annoica",
-    "version": "1.2.0",
-    "hidden": false,
-    "author": "Caboosket",
-    "lastUpdated": "2026-02-05T22:08:27Z",
-    "stars": 2,
-    "minGameVersion": "153",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "determination-wind/color-the-duct",
     "internalName": "color-the-ducts",
     "name": "Color-the-ducts",
@@ -4870,6 +4870,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "Liquid Industry for v157.4+\nBeta v0.23.9.1"
+  },
+  {
+    "repo": "caboosket/annoica",
+    "internalName": "annoica",
+    "name": "Annoica",
+    "version": "1.2.0",
+    "hidden": false,
+    "author": "Caboosket",
+    "lastUpdated": "2026-05-19T22:59:58Z",
+    "stars": 2,
+    "minGameVersion": "153",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -7420,20 +7434,6 @@
     "description": "In-game MdtC logic editor with dual-pane layout. Compile .mdtc to .mdtcode in real-time."
   },
   {
-    "repo": "highspeed85/mindustry-mallpark",
-    "internalName": "mallpark",
-    "name": "Malldustry",
-    "version": "2026.04.27",
-    "hidden": false,
-    "author": "HighSpeed85",
-    "lastUpdated": "2026-05-18T22:38:43Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mallpark Research & Development presents various interplanetary products, as requested by various customers, or as experiments designed to test the market.\n\n[red]This is a pretty small, crappy and unbalanced mod. Anyway-"
-  },
-  {
     "repo": "rodrigoasfr24022003/funnycrystal-mod",
     "internalName": "funnycrystal",
     "name": "Funny Crystal Mod",
@@ -7446,5 +7446,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Addon to Rodrigonia. Adds a funny crystal made of sulfur, astatine, bromine, hydrogen, neptunium, copernicium and oxygen."
+  },
+  {
+    "repo": "highspeed85/mindustry-mallpark",
+    "internalName": "mallpark",
+    "name": "Malldustry",
+    "version": "2026.04.27",
+    "hidden": false,
+    "author": "HighSpeed85",
+    "lastUpdated": "2026-05-19T23:00:22Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mallpark Research & Development presents various interplanetary products, as requested by various customers, or as experiments designed to test the market.\n\n[red]This is a pretty small, crappy and unbalanced mod. Anyway-"
   }
 ]
