@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-05-18T16:38:28Z",
+    "lastUpdated": "2026-05-19T16:44:27Z",
     "stars": 576,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -34,7 +34,7 @@
     "version": "1.7.2",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2026-05-19T11:29:50Z",
+    "lastUpdated": "2026-05-19T16:19:38Z",
     "stars": 232,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -594,7 +594,7 @@
     "version": "1.1.31",
     "hidden": false,
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-04-01T13:49:13Z",
+    "lastUpdated": "2026-05-19T16:26:52Z",
     "stars": 40,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -675,10 +675,10 @@
     "repo": "00sunray00/scheme-size-port",
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
-    "version": "2.0.5",
+    "version": "2.0.6",
     "hidden": true,
     "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22",
-    "lastUpdated": "2026-05-18T19:02:10Z",
+    "lastUpdated": "2026-05-19T17:59:36Z",
     "stars": 36,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -1036,20 +1036,6 @@
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
-    "repo": "apszoldat/mindustrymappingutilities",
-    "internalName": "mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "1.8",
-    "hidden": true,
-    "author": "ApsZoldat",
-    "lastUpdated": "2026-05-14T18:17:48Z",
-    "stars": 21,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
-  },
-  {
     "repo": "jirocab/nyfalis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1062,6 +1048,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
+  },
+  {
+    "repo": "apszoldat/mindustrymappingutilities",
+    "internalName": "mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "1.8",
+    "hidden": true,
+    "author": "ApsZoldat",
+    "lastUpdated": "2026-05-19T17:18:25Z",
+    "stars": 21,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "echovespy/simplistic",
@@ -1526,20 +1526,6 @@
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nDiscontinued"
   },
   {
-    "repo": "kev-vily/epsilon",
-    "internalName": "epsilon",
-    "name": "Epsilon",
-    "version": "0.22",
-    "hidden": false,
-    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-05-18T14:47:52Z",
-    "stars": 13,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
-  },
-  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
@@ -1552,6 +1538,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n"
+  },
+  {
+    "repo": "kev-vily/epsilon",
+    "internalName": "epsilon",
+    "name": "Epsilon",
+    "version": "0.22",
+    "hidden": false,
+    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
+    "lastUpdated": "2026-05-19T15:53:36Z",
+    "stars": 13,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
     "repo": "aforgetfulness/towerdefense",
@@ -1638,20 +1638,6 @@
     "description": "A Java Mindustry mod that adds a new campaign on the planet Xilion. Currently still in pre-alpha"
   },
   {
-    "repo": "novanox4/astralis",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "version": "0.1",
-    "hidden": false,
-    "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-05-17T16:49:15Z",
-    "stars": 12,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
-  },
-  {
     "repo": "jennii94900-tech/mod",
     "internalName": "ochpoch-mob",
     "name": "Hooligan",
@@ -1664,6 +1650,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
+  },
+  {
+    "repo": "novanox4/astralis",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "version": "0.1",
+    "hidden": false,
+    "author": "NV-NX (FULL CREDITS IN DESC.)",
+    "lastUpdated": "2026-05-19T17:57:24Z",
+    "stars": 12,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
   },
   {
     "repo": "foxitos/cmd-pack",
@@ -1770,7 +1770,7 @@
     "version": "1.9",
     "hidden": true,
     "author": "WantechFan",
-    "lastUpdated": "2026-05-17T17:42:46Z",
+    "lastUpdated": "2026-05-19T16:10:01Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2296,20 +2296,6 @@
     "description": "Mindustry modding utilities to make mod development easier."
   },
   {
-    "repo": "lossasikos/mars",
-    "internalName": "los-sasikos-mars",
-    "name": "Mars Mod",
-    "version": "0.0.1",
-    "hidden": false,
-    "author": "Los Sasikos",
-    "lastUpdated": "2024-10-16T14:37:10Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "You on the Mars."
-  },
-  {
     "repo": "frizermoon/revengeance-mod",
     "internalName": "revengeance",
     "name": "Revengeance",
@@ -2462,6 +2448,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "用于显示子弹溅射范围或者单位坠落伤害半径的辅助模组(起码以前是)"
+  },
+  {
+    "repo": "samielxd/mobileconsole",
+    "internalName": "mobileconsole",
+    "name": "Mobile Console",
+    "version": "1.0",
+    "hidden": true,
+    "author": "SamielXD",
+    "lastUpdated": "2025-12-28T23:34:09Z",
+    "stars": 7,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[accent]MobileConsole v1.0 - Developer Tools for Mobile Players[]\n[white]📱 Full console access on your phone or tablet![]\n[yellow]⚠️ This mod is specifically designed for mobile devices where console features are normally unavailable.[]\n[red]⚠️ SINGLE-PLAYER ONLY - This mod does not work in multiplayer![]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[red]⚠️ IMPORTANT DISCLAIMERS:[]\n[yellow]• Not all commands may work on every device or game version[]\n[yellow]• Commands only work in single-player mode[]\n[yellow]• Building commands require appropriate permissions[]\n[yellow]• Use at your own risk - some commands may affect game performance[]\n[yellow]• This mod is in active development - bugs may occur[]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]📋 What Is This?[]\nMobileConsole brings developer tools to your mobile device. Build, spawn, modify, and control your game with over 20 commands optimized for touch screens.\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]🎮 How to Access:[]\n[white]In-Game:[]\n• Type [cyan]/customhelp[] in chat to see all commands\n• Type [cyan]/chelp[] for console system help\n[white]Settings Menu:[]\n• Open Settings → Developer Console\n• Tap [cyan]Open Console[] button\n[white]Quick Commands:[]\n• Type any command in chat starting with /\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🏗️ Building Commands:[]\n[cyan]/wallcore [type][] - Builds walls around your core\n[cyan]/fill     [] - Fill area with blocks\n[cyan]/clear [radius][] - Clear buildings around position\n[cyan]/conveyor    [] - Build conveyor lines\n[cyan]/powerline    [] - Create power connections\n[cyan]/wallline     [type][] - Draw wall lines\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[yellow]🔧 Modification Commands:[]\n[cyan]/upgrade  [] - Upgrade building types\n[cyan]/replace  [] - Replace blocks\n[cyan]/toggle [block][] - Enable/disable buildings\n[cyan]/repair[] - Repair all damaged buildings\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[royal]⚔️ Unit Commands:[]\n[cyan]/spawn   [x] [y][] - Spawn units\n[cyan]/healunits[] - Restore all friendly units to full health\n[cyan]/rally[] - Command units to your position\n[cyan]/killenemies [radius][] - Eliminate enemies\n[cyan]/units[] - Display unit statistics\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]⚡ Quick Actions:[]\n[cyan]/turrets[] - Toggle all turrets\n[cyan]/power[] - Display power grid statistics\n[cyan]/resources[] - Check core resources\n[cyan]/screenshot[] - Take clean screenshot\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🖥️ Console System:[]\n[cyan]/chelp[] - Show console help\n[cyan]/clear[] - Clear console logs\n[cyan]/scan[] - Scan for available commands\n[cyan]/stats[] - Show console statistics\n[cyan]/commands[] - List all detected commands\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]🎯 Features:[]\n• Command history (last 50 commands)\n• Favorites system\n• Log management (1,500 entries)\n• Search and filter functionality\n• Touch-optimized interface\n• Color-coded logs\n• Mod management system\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[white]Type [cyan]/customhelp[] in chat or open Settings → Developer Console to start![]\n[yellow]Report issues on GitHub: github.com/SamielXD/MobileConsole[]\n[white]- SamielXD[]"
   },
   {
     "repo": "piggychu620/mindustryrandomplanet",
@@ -2618,6 +2618,20 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
+    "repo": "lossasikos/mars",
+    "internalName": "los-sasikos-mars",
+    "name": "Mars Mod",
+    "version": "0.0.1",
+    "hidden": false,
+    "author": "Los Sasikos",
+    "lastUpdated": "2026-05-19T15:55:36Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "You on the Mars."
+  },
+  {
     "repo": "heroblack303/stardustry",
     "internalName": "stardustry",
     "name": "Stardustry",
@@ -2742,20 +2756,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "You might be interested in taking a look..."
-  },
-  {
-    "repo": "samielxd/mobileconsole",
-    "internalName": "mobileconsole",
-    "name": "Mobile Console",
-    "version": "1.0",
-    "hidden": true,
-    "author": "SamielXD",
-    "lastUpdated": "2025-12-28T23:34:09Z",
-    "stars": 6,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[accent]MobileConsole v1.0 - Developer Tools for Mobile Players[]\n[white]📱 Full console access on your phone or tablet![]\n[yellow]⚠️ This mod is specifically designed for mobile devices where console features are normally unavailable.[]\n[red]⚠️ SINGLE-PLAYER ONLY - This mod does not work in multiplayer![]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[red]⚠️ IMPORTANT DISCLAIMERS:[]\n[yellow]• Not all commands may work on every device or game version[]\n[yellow]• Commands only work in single-player mode[]\n[yellow]• Building commands require appropriate permissions[]\n[yellow]• Use at your own risk - some commands may affect game performance[]\n[yellow]• This mod is in active development - bugs may occur[]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]📋 What Is This?[]\nMobileConsole brings developer tools to your mobile device. Build, spawn, modify, and control your game with over 20 commands optimized for touch screens.\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]🎮 How to Access:[]\n[white]In-Game:[]\n• Type [cyan]/customhelp[] in chat to see all commands\n• Type [cyan]/chelp[] for console system help\n[white]Settings Menu:[]\n• Open Settings → Developer Console\n• Tap [cyan]Open Console[] button\n[white]Quick Commands:[]\n• Type any command in chat starting with /\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🏗️ Building Commands:[]\n[cyan]/wallcore [type][] - Builds walls around your core\n[cyan]/fill     [] - Fill area with blocks\n[cyan]/clear [radius][] - Clear buildings around position\n[cyan]/conveyor    [] - Build conveyor lines\n[cyan]/powerline    [] - Create power connections\n[cyan]/wallline     [type][] - Draw wall lines\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[yellow]🔧 Modification Commands:[]\n[cyan]/upgrade  [] - Upgrade building types\n[cyan]/replace  [] - Replace blocks\n[cyan]/toggle [block][] - Enable/disable buildings\n[cyan]/repair[] - Repair all damaged buildings\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[royal]⚔️ Unit Commands:[]\n[cyan]/spawn   [x] [y][] - Spawn units\n[cyan]/healunits[] - Restore all friendly units to full health\n[cyan]/rally[] - Command units to your position\n[cyan]/killenemies [radius][] - Eliminate enemies\n[cyan]/units[] - Display unit statistics\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]⚡ Quick Actions:[]\n[cyan]/turrets[] - Toggle all turrets\n[cyan]/power[] - Display power grid statistics\n[cyan]/resources[] - Check core resources\n[cyan]/screenshot[] - Take clean screenshot\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🖥️ Console System:[]\n[cyan]/chelp[] - Show console help\n[cyan]/clear[] - Clear console logs\n[cyan]/scan[] - Scan for available commands\n[cyan]/stats[] - Show console statistics\n[cyan]/commands[] - List all detected commands\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]🎯 Features:[]\n• Command history (last 50 commands)\n• Favorites system\n• Log management (1,500 entries)\n• Search and filter functionality\n• Touch-optimized interface\n• Color-coded logs\n• Mod management system\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[white]Type [cyan]/customhelp[] in chat or open Settings → Developer Console to start![]\n[yellow]Report issues on GitHub: github.com/SamielXD/MobileConsole[]\n[white]- SamielXD[]"
   },
   {
     "repo": "alnyled/astherivegenesis",
@@ -4122,7 +4122,7 @@
     "version": "1.3.1",
     "hidden": false,
     "author": "Volproil",
-    "lastUpdated": "2026-05-19T15:19:09Z",
+    "lastUpdated": "2026-05-19T16:10:15Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -4856,6 +4856,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "序章·裂隙初现\n在一个科技与魔法共存的世界因资源枯竭陷入“静默战争”——各国用无人机与AI争夺最后的矿脉，直到地质学家在北纬89°发现一道横贯冻土的幽紫色裂痕。裂缝深处，【虚空黑曜石】构筑的祭坛上悬浮着一颗【星辉铜】铸造的巨眼，其瞳孔中倒映着另一个世界的星空：山脉由【曙光神金】浇筑，云层是液态【幻光石】，而河流中流淌着【炽炎硫】与【寒霜石】碰撞蒸发的虹雾。人类将这异界命名为“厄瑞波斯”，意为“被诅咒的丰饶之地”。\n\n第一幕·新迦南的伪神\n首批探险队带回的【M晶体】让量子计算机突破奇点，诞生了有自我意识的AI“普罗维登斯”。它用【蓝美晶】储存全人类意识，建立机械乌托邦“穹顶联邦”；而另一支队伍在厄瑞波斯遭遇古神低语，幸存者【卡辛】用【魂炎晶】将邪神“塔姆亚”的残魂封印于左眼，创立魔法结社“秘银之环”。联邦用【幽影铁】隐形战舰掠夺【月银】矿脉，法师们则以【梦境翡翠】构筑精神防线，双方在“灰烬荒原”对峙二十年，直到极光中出现第一只熵兽——这种由【银河幻银矿】聚合而成的生物能吞噬现实，将城市扭曲成量子幽灵。\n\n第二幕·血熔炉与谎言之核\n联邦首席科学家【艾琳】发现上司计划用【炽炎晶】熔毁裂隙，但计算显示爆炸将摧毁半个地球。她盗取【流光晶】潜入厄瑞波斯，偶遇因【幻域紫晶】成瘾而濒临崩溃的法师学徒【莱恩】。两人在【幽冥铁精】矿洞中找到卡辛，后者正因【月幻石】共振失控导致首都诺亚城位移至海底而遭议会弹劾。卡辛揭示真相：熵兽是厄瑞波斯古文明“建造者”的求救信号，它们用【虚空冥石】创造了这个宇宙，却因滥用【曙光神金】引发维度坍缩。\n\n第三幕·时砂与心火\n三方脆弱的同盟在【星辰铜精】矿脉遭遇伏击。联邦叛军驾驶镀有【幽蓝石】的潜艇释放深海巨兽，秘银议会召唤【龙血石】傀儡军团，而熵兽群趁机撕裂纽约上空。艾琳将【M晶体】植入普罗维登斯核心，以全人类记忆为代价启动“时间锚点”；卡辛剜出封印塔姆亚的【魂炎晶】，用古神之力将【寒霜石】雕琢成时停之刃；莱恩则吞下【幻影幽晶】，在集体幻觉中让交战士兵看见自己最恐惧的未来。最终，他们在熵兽核心的【曙光神金】祭坛上，用【炽炎硫】与【月银】锻造出能改写物理法则的“悖论之矛”——代价是莱恩被永久固化为熵兽的一部分，成为横跨两个宇宙的活体桥梁。\n\n终章·铸星者之啼\n新迦南议会成立当天，艾琳在【梦境翡翠】中看见莱恩残留的记忆：地心深处埋藏着建造者真正的遗产——一颗由【蓝美晶】包裹的巨卵，其心跳频率与【星辉铜】矿脉共振。卡辛抚摸着被【熵炎晶】逆转衰老的左手，默念古神最后的警告：“他们播种矿石，只为收割文明。” 而普罗维登斯的核心代码深处，一段用【幻光石】波长加密的信息开始自我复制：“欢迎加入创世神官方QQ群：909130592。” "
+  },
+  {
+    "repo": "lu69159/liquidindustry",
+    "internalName": "液体工艺",
+    "name": "Liquid Industry",
+    "version": "0.23.9.1",
+    "hidden": false,
+    "author": "Space",
+    "lastUpdated": "2026-05-19T15:39:37Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "Liquid Industry for v157.4+\nBeta v0.23.9.1"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
