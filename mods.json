@@ -357,7 +357,7 @@
     "hidden": true,
     "author": "[#42a5f5]Liplum[] & Jojo",
     "lastUpdated": "2025-04-01T15:40:11Z",
-    "stars": 59,
+    "stars": 60,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -384,7 +384,7 @@
     "version": "Alpha-6484",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-05-20T02:02:55Z",
+    "lastUpdated": "2026-05-20T07:20:32Z",
     "stars": 56,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -777,7 +777,7 @@
     "hidden": true,
     "author": "EoD",
     "lastUpdated": "2024-05-18T05:50:46Z",
-    "stars": 29,
+    "stars": 30,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -1750,6 +1750,20 @@
     "description": "Additional functionality"
   },
   {
+    "repo": "m1cxzfw3q/endfield_industry",
+    "internalName": "endfield-industry",
+    "name": "Endfield Industry",
+    "version": "0.1",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-02-25T06:14:59Z",
+    "stars": 11,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n神秘mod\n贴图抠得依托势，但胜在能看（）\n"
+  },
+  {
     "repo": "new-guys5634/mechy-chaos",
     "internalName": " mech ",
     "name": "Combat Dustry",
@@ -1874,20 +1888,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
-  },
-  {
-    "repo": "m1cxzfw3q/endfield_industry",
-    "internalName": "endfield-industry",
-    "name": "Endfield Industry",
-    "version": "0.1",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-02-25T06:14:59Z",
-    "stars": 10,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n神秘mod\n贴图抠得依托势，但胜在能看（）\n"
   },
   {
     "repo": "hao-1337/mindustry-better-vanilla",
@@ -2268,6 +2268,20 @@
     "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
   },
   {
+    "repo": "bloodmoddingocean-coder/visual_plus",
+    "internalName": "vplus",
+    "name": "Visual+",
+    "version": "1.60.2",
+    "hidden": true,
+    "author": "Bloody-Ocean",
+    "lastUpdated": "2026-05-20T07:03:08Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru: Данная модификация изменяет внешний вид Серпуло. Респрайт некоторой части Эрекира.\r\n\r\nEng: This modification changes the appearance of the Serpulo. Resprite of some part of the Erekir.\r\n\r\nThx to retodera, Sputnuc and mellory for the help with the scripts."
+  },
+  {
     "repo": "eb-wilson/modpacker",
     "internalName": "mod-packer",
     "name": "Mod Packer",
@@ -2630,20 +2644,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "You on the Mars."
-  },
-  {
-    "repo": "bloodmoddingocean-coder/visual_plus",
-    "internalName": "vplus",
-    "name": "Visual+",
-    "version": "1.60.2",
-    "hidden": true,
-    "author": "Bloody-Ocean",
-    "lastUpdated": "2026-05-19T21:14:55Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru: Данная модификация изменяет внешний вид Серпуло. Респрайт некоторой части Эрекира.\r\n\r\nEng: This modification changes the appearance of the Serpulo. Resprite of some part of the Erekir.\r\n\r\nThx to retodera, Sputnuc and mellory for the help with the scripts."
   },
   {
     "repo": "heroblack303/stardustry",
@@ -4690,6 +4690,20 @@
     "description": "8.2版本新增炮台以及效果!"
   },
   {
+    "repo": "miyuyuuki/arsenal-expansion-mod",
+    "internalName": "arsenal-expansion-mod",
+    "name": "Arsenal Expansion",
+    "version": "1",
+    "hidden": false,
+    "author": "Miyuyuuki",
+    "lastUpdated": "2026-02-12T07:09:16Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made by a novice mod developer. Adds more content to the player's arsenal. Five types of tanks await your command:\n- [#FFA665]Assault[]\n- [#84F491]Support[]\n- [#BF92F9]Specialist[]\n- [#FF1414]Flame[]\n- [#FFEE00]Shock[]\n\nHeavily inspired by:\n- Eschatologue's 'Unlimited Armament Works'\n- nyuB's (뉴B) 'DuoMod'\n- DedShotGames' 'WOTanks'\n- Anuke's Erekir Tanks\n\nSFX credits to the following games:\n- Terraria\n- Terraria: Calamity Mod\n- Plants vs. Zombies"
+  },
+  {
     "repo": "determination-wind/color-the-duct",
     "internalName": "color-the-ducts",
     "name": "Color-the-ducts",
@@ -5726,20 +5740,6 @@
     "description": "Lade diese Mod nur über den neuesten Release auf GitHub herunter! - - - Download this mod on GitHub only via the latest release! "
   },
   {
-    "repo": "miyuyuuki/arsenal-expansion-mod",
-    "internalName": "arsenal-expansion-mod",
-    "name": "Arsenal Expansion",
-    "version": "1",
-    "hidden": false,
-    "author": "Miyuyuuki",
-    "lastUpdated": "2026-02-12T07:09:16Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made by a novice mod developer. Adds more content to the player's arsenal. Five types of tanks await your command:\n- [#FFA665]Assault[]\n- [#84F491]Support[]\n- [#BF92F9]Specialist[]\n- [#FF1414]Flame[]\n- [#FFEE00]Shock[]\n\nHeavily inspired by:\n- Eschatologue's 'Unlimited Armament Works'\n- nyuB's (뉴B) 'DuoMod'\n- DedShotGames' 'WOTanks'\n- Anuke's Erekir Tanks\n\nSFX credits to the following games:\n- Terraria\n- Terraria: Calamity Mod\n- Plants vs. Zombies"
-  },
-  {
     "repo": "urbokie/tankdustry",
     "internalName": "tankdustry",
     "name": "TankDustry",
@@ -6146,20 +6146,6 @@
     "description": "[white]☰☰☰☰☰☰⚙️️☰☰☰️☰☰☰\n\n[gray]Credits[lightgray] (Créditos)[gray]:\n[lightgray]Azhurniy Baklan -[yellow] Erekir Utilities\n[lightgray]Adamlol_gaming - [yellow] Erekir Junction\n[lightgray]Kizraks (Abaines) - [yellow] Kizraks Radar\n[lightgray]Comunidade Mindustry - [yellow] Suporte e Feedback\n[white]☰☰☰☰☰☰⚙️️☰☰☰️☰☰☰\n\n[gray]English [lightgray](Inglês)[gray]:\n\n[brown]Thank you for choosing to purchase our most impactful product: [orange] Erekir Technologies Package[brown], a compilation of mods all in one installation. As the courier of these mechanical wonders, [orange]my mission [brown]is to equip you with the latest innovation from their official developers.\n\nThis Mod aims to encompass [orange]all[brown] Erekir mods, including a variety of blocks, units, and features to enhance your exploration of the new planet. [orange]Guaranteed advanced technologies of quality.[brown]\n\nIt's not just a Mod of Mods... it's the key to  [orange]your victory[brown] over your command.\n\nSome mods [orange]lacked harmony or had mechanics conflicting with others[brown], prompting me to make subtle adjustments to resolve these minor issues. It's crucial to highlight that these changes are by[orange] no means intended to usurp the copyrights of the creators[brown]; on the contrary, they seek to ensure the unity of MODS!\n\n[white]☰☰☰️☰☰☰⚙️️️☰☰☰️☰☰☰\n\n[gray]Português [lightgray](Portuguese)[gray]:\n\n[brown]Agradecemos sua escolha na compra de nosso produto mais impactante:   [orange]Pacote de Tecnologias Erekir[brown], uma coletânea de mods em uma só instalada. Como entregador destas maravilhas mecânicas, [orange]minha missão[brown] é equipar você com a mais recente inovação de seus desenvolvedores oficiais.\n\nEste Mod busca abranger[orange] todos [brown]os mods de Erekir, incluindo uma gama de blocos, unidades e recursos para aprimorar sua exploração do novo planeta. [orange]É garantido tecnologias avançadas de qualidade.[brown]\n\nNão é apenas um Mod dos Mods... é a chave de [orange]sua vitória[brown] sobre seu comando.\n\nAlguns mods [orange]careciam de harmonia ou apresentavam mecânicas em conflito com os outros[brown], levando-me a realizar ajustes sutis para solucionar essas questões menores. É crucial destacar que essas alterações [orange]não visam de maneira alguma usurpar os Direitos Autorais dos criadores[brown]; ao contrário, buscam assegurar a unificação dos Mods!.\n\n[white]☰☰☰☰☰☰ ⚙️️️☰☰☰️☰☰☰️"
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "version": "1.0 beta",
-    "hidden": false,
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-05-13T02:41:23Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos[white] \n[white]·4 muros \n[white]·11 fabricas[white] \n[white]·1 generador \n[white]·1 cinta de transporte \n[white]·5 torretas[white] \n[white]·6 fabricas de unidades \n[white]·6 unidades. \n\n[accent]todo lo anterior en algun futuro sera movido a un nuevo arbol tecnologico o seccion separada[white] \n\n[grey]PD: Aun faltan varios sprites, por que aun estan en desarrollo y se deben arreglar algunos errores.[grey] \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como New Horizon, Vanilla Expansion, Warbound industries, [Better Vanilla] y Mindustry Tool"
-  },
-  {
     "repo": "ramazanduruev/darklife.",
     "internalName": "mo",
     "name": "DarkLife",
@@ -6270,6 +6256,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "提供一些辅助功能, 例如修改资源,建筑,单位,地图, 以及各种方便大家游玩的功能"
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "version": "0.2 beta",
+    "hidden": false,
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-05-20T04:08:23Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos[white] \n[white]·4 muros \n[white]·11 fabricas[white] \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·5 torretas[white] \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n[accent] \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como New Horizon, Gier: Revitalized, High-Level Divisions. Warbound industries, [Better Vanilla] y Mindustry Tool."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
