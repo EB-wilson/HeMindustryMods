@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-05-04T12:07:02Z",
-    "stars": 216,
+    "stars": 217,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -216,7 +216,7 @@
     "version": "3.9.3",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-05-22T03:33:46Z",
+    "lastUpdated": "2026-05-22T13:30:33Z",
     "stars": 102,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -384,7 +384,7 @@
     "version": "Alpha-6484",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-05-20T07:52:20Z",
+    "lastUpdated": "2026-05-22T14:21:57Z",
     "stars": 57,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -1386,20 +1386,6 @@
     "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
   },
   {
-    "repo": "wytniks/kill-reward-mod-25frame",
-    "internalName": "kill-reward-mod-25frame",
-    "name": "Kill Reward Mod",
-    "version": "[blue]1.4.4",
-    "hidden": false,
-    "author": "25frame aka wytnik",
-    "lastUpdated": "2026-04-15T16:47:36Z",
-    "stars": 14,
-    "minGameVersion": "152",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
-  },
-  {
     "repo": "gmugxd/qr-mod",
     "internalName": "camod",
     "name": "Quantum Realm Mod",
@@ -1426,6 +1412,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
+  },
+  {
+    "repo": "wytniks/kill-reward-mod-25frame",
+    "internalName": "kill-reward-mod-25frame",
+    "name": "Kill Reward Mod",
+    "version": "[blue]1.4.4",
+    "hidden": false,
+    "author": "25frame aka wytnik",
+    "lastUpdated": "2026-05-22T12:06:29Z",
+    "stars": 14,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
   },
   {
     "repo": "arksourcer/project-ark-public",
@@ -1546,7 +1546,7 @@
     "version": "v2.5-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-22T07:56:34Z",
+    "lastUpdated": "2026-05-22T12:44:31Z",
     "stars": 13,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1650,6 +1650,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
+  },
+  {
+    "repo": "wantechfan/mindustry-cursed-bundles",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "version": "1.9",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-05-19T16:10:01Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
     "repo": "novanox4/astralis",
@@ -1776,20 +1790,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "THE SECOND INSTALLMENT to the lore of the crux\n\n A mod that adds a new planet and it focuses on combat.\n\nA planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet but soon to discover this planet had been destroyed but what lives on this planet and why...\n\nShards: a strange mystic planet filled with snow and unnamed matter across its surface but deeper down the more crystal stone will be. beware that the surface is covered in slow pace purple like winds. \n\nkjol: a surging cold moon was the last history before the D##N#7# incident.\n\nMake sure to reinstall regular or your progression will be error\n\nEvents coming: [\n-waste land mode\n-rework units effects and descriptions\n-sector balances\n-halloween event soon!\n-christmas event soon \n-secret mode?\n]\nVengeance will happen"
-  },
-  {
-    "repo": "wantechfan/mindustry-cursed-bundles",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "version": "1.9",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-05-19T16:10:01Z",
-    "stars": 11,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
     "repo": "tyt-xexebe/qol-control",
@@ -3542,13 +3542,27 @@
     "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
+    "repo": "thechronodonut1337/silent-orchestra",
+    "internalName": "silent-orchestra",
+    "name": "Sounds like Argus",
+    "version": "T.01.31",
+    "hidden": true,
+    "author": "Aurora",
+    "lastUpdated": "2026-05-22T12:51:22Z",
+    "stars": 4,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
+  },
+  {
     "repo": "kyokonagaro/viridium",
     "internalName": "viridium",
     "name": "Viridium",
     "version": "0.1.7",
     "hidden": false,
     "author": "Choco Same",
-    "lastUpdated": "2026-05-22T02:03:02Z",
+    "lastUpdated": "2026-05-22T13:12:56Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -3562,26 +3576,12 @@
     "version": "1.3.1",
     "hidden": false,
     "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2026-05-22T03:04:35Z",
+    "lastUpdated": "2026-05-22T14:09:15Z",
     "stars": 4,
     "minGameVersion": "157",
     "hasScripts": true,
     "hasJava": false,
     "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
-  },
-  {
-    "repo": "thechronodonut1337/silent-orchestra",
-    "internalName": "silent-orchestra",
-    "name": "Sounds like Argus",
-    "version": "T.01.31",
-    "hidden": true,
-    "author": "Aurora",
-    "lastUpdated": "2026-05-22T10:50:19Z",
-    "stars": 4,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
@@ -4102,6 +4102,20 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.7",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-05-16T01:42:00Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
     "repo": "5gamemaker/mindustrycoloredbridges",
     "internalName": "colored-bridges",
     "name": "Colored Bridges",
@@ -4130,20 +4144,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "volproil/ultimate-military-technic",
-    "internalName": "ultimate-military-technic-mod",
-    "name": "Ultimate Military Technic Mod",
-    "version": "1.3.1",
-    "hidden": false,
-    "author": "Volproil",
-    "lastUpdated": "2026-05-21T22:58:45Z",
-    "stars": 3,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod add tanks, aircraft, artillery, diesel generators"
-  },
-  {
     "repo": "wantechfan/mindustry-legacy-sounds",
     "internalName": "legacy-sounds",
     "name": "Legacy Sounds",
@@ -4156,6 +4156,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
+  },
+  {
+    "repo": "volproil/ultimate-military-technic",
+    "internalName": "ultimate-military-technic-mod",
+    "name": "Ultimate Military Technic Mod",
+    "version": "1.3.1",
+    "hidden": false,
+    "author": "Volproil",
+    "lastUpdated": "2026-05-22T11:13:07Z",
+    "stars": 3,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod add tanks, aircraft, artillery, diesel generators"
   },
   {
     "repo": "weathercold/extralogging",
@@ -4856,20 +4870,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is a java edition of my mod that eventually will replace the json one"
-  },
-  {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.7",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-05-16T01:42:00Z",
-    "stars": 2,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "caboosket/annoica",
