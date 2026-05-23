@@ -48,7 +48,7 @@
     "version": "2.7.79",
     "hidden": true,
     "author": "xzxADIxzx",
-    "lastUpdated": "2025-04-29T22:07:01Z",
+    "lastUpdated": "2026-05-23T11:29:38Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -216,7 +216,7 @@
     "version": "3.9.3",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-05-23T11:04:52Z",
+    "lastUpdated": "2026-05-23T12:40:44Z",
     "stars": 102,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -1498,20 +1498,6 @@
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nDiscontinued"
   },
   {
-    "repo": "kev-vily/epsilon",
-    "internalName": "epsilon",
-    "name": "Epsilon",
-    "version": "0.22",
-    "hidden": false,
-    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-05-20T19:51:12Z",
-    "stars": 13,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
-  },
-  {
     "repo": "no9527dada/ct-origin",
     "internalName": "creators",
     "name": "创世神2-起源独立版",
@@ -1538,6 +1524,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n"
+  },
+  {
+    "repo": "kev-vily/epsilon",
+    "internalName": "epsilon",
+    "name": "Epsilon",
+    "version": "0.22",
+    "hidden": false,
+    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
+    "lastUpdated": "2026-05-23T13:15:52Z",
+    "stars": 13,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
     "repo": "aforgetfulness/towerdefense",
@@ -1624,20 +1624,6 @@
     "description": "A Java Mindustry mod that adds a new campaign on the planet Xilion. Currently still in pre-alpha"
   },
   {
-    "repo": "jennii94900-tech/mod",
-    "internalName": "ochpoch-mob",
-    "name": "Hooligan",
-    "version": "2.2",
-    "hidden": false,
-    "author": "Hello,Andrei",
-    "lastUpdated": "2026-05-19T14:02:44Z",
-    "stars": 12,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
-  },
-  {
     "repo": "wantechfan/mindustry-cursed-bundles",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
@@ -1664,6 +1650,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "jennii94900-tech/mod",
+    "internalName": "ochpoch-mob",
+    "name": "Hooligan",
+    "version": "2.2",
+    "hidden": false,
+    "author": "Hello,Andrei",
+    "lastUpdated": "2026-05-23T12:38:34Z",
+    "stars": 12,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
   },
   {
     "repo": "foxitos/cmd-pack",
@@ -4150,7 +4150,7 @@
     "version": "1.3.1",
     "hidden": false,
     "author": "Volproil",
-    "lastUpdated": "2026-05-23T10:37:24Z",
+    "lastUpdated": "2026-05-23T12:31:26Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": false,
