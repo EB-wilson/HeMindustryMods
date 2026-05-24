@@ -216,7 +216,7 @@
     "version": "4.0.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-05-23T22:18:25Z",
+    "lastUpdated": "2026-05-24T13:09:50Z",
     "stars": 102,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -384,7 +384,7 @@
     "version": "Alpha-6484",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-05-24T02:25:54Z",
+    "lastUpdated": "2026-05-24T13:21:52Z",
     "stars": 58,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -6286,6 +6286,20 @@
     "description": "Utility mod for Mindustry Landing Pad"
   },
   {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.1",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-05-24T11:21:13Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to custom campaign difficulty(TODO: music and etc.)"
+  },
+  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -7488,19 +7502,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "For now in development"
-  },
-  {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Space",
-    "lastUpdated": "2026-05-24T05:47:29Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to custom campaign difficulty(TODO: music and etc.)"
   }
 ]
