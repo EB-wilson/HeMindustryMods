@@ -301,7 +301,7 @@
     "hidden": false,
     "author": "VvSeanGtvV",
     "lastUpdated": "2026-04-24T04:38:10Z",
-    "stars": 71,
+    "stars": 72,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -370,7 +370,7 @@
     "version": "1.0",
     "hidden": true,
     "author": "Pointifix",
-    "lastUpdated": "2025-09-20T15:42:00Z",
+    "lastUpdated": "2026-05-25T17:14:55Z",
     "stars": 59,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -636,7 +636,7 @@
     "version": "2.1.2",
     "hidden": true,
     "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22",
-    "lastUpdated": "2026-05-24T21:01:30Z",
+    "lastUpdated": "2026-05-25T17:57:16Z",
     "stars": 39,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -3122,20 +3122,6 @@
     "description": "[accent] [#FFD700]Unit Namer[white]  - Give Your Units Personality!\n\n[white]Transform your gameplay by giving every unit a unique, custom name that follows them across the battlefield. Perfect for organizing squads, tracking your favorites, or just having fun!\n\n[gray]Note still in beta so expect some bugs also don't click the reset default its bugged\n\n[accent] [#00D4FF]Features:\n[white] Tap any unit to open the rename menu\n[white] Custom names float elegantly above your units\n[white] Names persist as long as the unit lives\n[white] Simple one-tap interface - no complex commands\n\n[accent] [#FFD700]How to Use:\n[#BFBFBF] 1. Tap on any unit in the game\n[#BFBFBF] 2. Click \"Rename Unit\" in the popup\n[#BFBFBF] 3. Enter your custom name\n[#BFBFBF] 4. Watch your named unit in action!\n\n[accent] [#00D4FF]Pro Tips:\n[white] • Name your tank squadrons (Alpha, Bravo, Charlie)\n[white] • Track powerful units with special names\n[white] • Organize attack groups with themed names\n[white] • Have fun with personality names for your favorites!"
   },
   {
-    "repo": "meepoffaith/extra-sand-redux",
-    "internalName": "",
-    "name": "Extra Sand in the Sandbox - Redux",
-    "version": "3.4",
-    "hidden": false,
-    "author": "MEEP of Faith",
-    "lastUpdated": "2026-02-14T02:22:29Z",
-    "stars": 5,
-    "minGameVersion": "155.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
-  },
-  {
     "repo": "koctz34/minduntm",
     "internalName": "ntm",
     "name": "NTM - Nuclear tech mod",
@@ -3162,6 +3148,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A project of a mod that will include three planets but so far only two is playable.\n\nThis mod has to be played on 147+\n\nRusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential.\n\nDunes is a wasted planet near serpulo but far from the sun, take control and provide chaos to this dead planet.\n\nQuick notes: [\nLushion is currently in WIP.\nBe sure to have weather graphics for weather's if your on a low end device turn it off.\nMake sure to reinstall regular.\nGive a star if you enjoy Thanks!!!.\nThe sound is being worked on so don't worry to much\nmany sectors are kinda unbalanced so be warned iam balancing it \n}"
+  },
+  {
+    "repo": "meepoffaith/extra-sand-redux",
+    "internalName": "",
+    "name": "Extra Sand in the Sandbox - Redux",
+    "version": "3.5",
+    "hidden": false,
+    "author": "MEEP of Faith",
+    "lastUpdated": "2026-05-25T16:36:10Z",
+    "stars": 5,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
   },
   {
     "repo": "shimyytrov/turretex-java",
@@ -3562,7 +3562,7 @@
     "version": "2.0",
     "hidden": true,
     "author": "buj",
-    "lastUpdated": "2026-05-25T15:06:36Z",
+    "lastUpdated": "2026-05-25T17:14:11Z",
     "stars": 4,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -6286,13 +6286,27 @@
     "description": "Adds music from [#96EFFF]Celeste[white].\n\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]Check Music&Sounds.txt in the mod folder for more information.[white]"
   },
   {
+    "repo": "thegodshand777/extra-editor",
+    "internalName": "extra-editor",
+    "name": "Extra Editor",
+    "version": "1.0",
+    "hidden": true,
+    "author": "KlasterX",
+    "lastUpdated": "2026-05-25T14:18:26Z",
+    "stars": 1,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds extra utilities to map editor."
+  },
+  {
     "repo": "lu69159/morecustomsettings",
     "internalName": "mcs",
     "name": "More Custom Settings",
     "version": "1.2",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-05-25T04:32:13Z",
+    "lastUpdated": "2026-05-25T18:44:32Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -7530,19 +7544,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Transport liquids with drones!"
-  },
-  {
-    "repo": "thegodshand777/extra-editor",
-    "internalName": "extra-editor",
-    "name": "Extra Editor",
-    "version": "1.0",
-    "hidden": true,
-    "author": "KlasterX",
-    "lastUpdated": "2026-05-25T14:18:26Z",
-    "stars": 0,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds extra utilities to map editor."
   }
 ]
