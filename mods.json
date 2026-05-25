@@ -216,7 +216,7 @@
     "version": "4.0.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-05-24T19:29:54Z",
+    "lastUpdated": "2026-05-25T13:27:55Z",
     "stars": 102,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -1781,10 +1781,10 @@
     "repo": "tyt-xexebe/qol-control",
     "internalName": "qol-control",
     "name": "QoL Control",
-    "version": "5.8",
+    "version": "5.9",
     "hidden": true,
     "author": "TyTxexebe",
-    "lastUpdated": "2026-05-21T21:56:49Z",
+    "lastUpdated": "2026-05-25T08:35:37Z",
     "stars": 11,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -3514,20 +3514,6 @@
     "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
   },
   {
-    "repo": "darkdustry-coders/mindurkacompat",
-    "internalName": "mindurkacompat",
-    "name": "MindurkaCompat",
-    "version": "2.0",
-    "hidden": true,
-    "author": "buj",
-    "lastUpdated": "2026-05-21T00:00:01Z",
-    "stars": 4,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that adds extra compatibility with Mindurka"
-  },
-  {
     "repo": "thechronodonut1337/silent-orchestra",
     "internalName": "silent-orchestra",
     "name": "Sounds like Argus",
@@ -3568,6 +3554,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
+  },
+  {
+    "repo": "darkdustry-coders/mindurkacompat",
+    "internalName": "mindurkacompat",
+    "name": "MindurkaCompat",
+    "version": "2.0",
+    "hidden": true,
+    "author": "buj",
+    "lastUpdated": "2026-05-25T12:35:36Z",
+    "stars": 4,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
