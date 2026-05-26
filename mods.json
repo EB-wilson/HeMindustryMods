@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-05-26T06:32:51Z",
+    "lastUpdated": "2026-05-26T18:54:15Z",
     "stars": 578,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -350,6 +350,20 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
+    "repo": "pointifix/autodrill",
+    "internalName": "auto-drill",
+    "name": "AutoDrill",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Pointifix",
+    "lastUpdated": "2026-05-25T17:14:55Z",
+    "stars": 61,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "liplum/multicrafterlib",
     "internalName": "multi-crafter",
     "name": "MultiCrafter Lib",
@@ -362,20 +376,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library for JSON and Javascript mods,\nincluding A crafter that supporting multiple recipes for items, fluids, power, and heat production.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
-  },
-  {
-    "repo": "pointifix/autodrill",
-    "internalName": "auto-drill",
-    "name": "AutoDrill",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Pointifix",
-    "lastUpdated": "2026-05-25T17:14:55Z",
-    "stars": 60,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "icexuegao/deepspace",
