@@ -48,7 +48,7 @@
     "version": "2.7.79",
     "hidden": true,
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-05-26T17:58:32Z",
+    "lastUpdated": "2026-05-27T15:45:32Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-05-04T12:07:02Z",
-    "stars": 217,
+    "stars": 218,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -216,12 +216,26 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-05-26T23:02:54Z",
+    "lastUpdated": "2026-05-27T16:22:47Z",
     "stars": 102,
     "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "A complete rewrite of the campaign. Currently in heavy development."
+  },
+  {
+    "repo": "willoizcitron/archivedustry-java",
+    "internalName": "",
+    "name": "ArchiveDustry Java",
+    "version": "1.6 build 17",
+    "hidden": true,
+    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
+    "lastUpdated": "2026-05-12T09:33:28Z",
+    "stars": 100,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n[yellow]Purposes:[]\nThis mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n[red]⚠ NOTICE ⚠:[]\nThis mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:Nexon, Nexon Games and Yostar."
   },
   {
     "repo": "sharlottes/informatis",
@@ -236,20 +250,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
-    "repo": "willoizcitron/archivedustry-java",
-    "internalName": "",
-    "name": "ArchiveDustry Java",
-    "version": "1.6 build 17",
-    "hidden": true,
-    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2026-05-12T09:33:28Z",
-    "stars": 99,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n[yellow]Purposes:[]\nThis mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n[red]⚠ NOTICE ⚠:[]\nThis mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:Nexon, Nexon Games and Yostar."
   },
   {
     "repo": "zielonytrojkat/frozen-farlands",
@@ -314,7 +314,7 @@
     "version": "3.1",
     "hidden": true,
     "author": "EBwilson",
-    "lastUpdated": "2026-05-27T09:06:41Z",
+    "lastUpdated": "2026-05-27T14:17:14Z",
     "stars": 66,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -384,7 +384,7 @@
     "version": "Alpha-6484",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-05-26T11:17:03Z",
+    "lastUpdated": "2026-05-27T15:37:11Z",
     "stars": 58,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -952,6 +952,20 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
   },
   {
+    "repo": "apszoldat/mindustrymappingutilities",
+    "internalName": "mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "1.8",
+    "hidden": true,
+    "author": "ApsZoldat",
+    "lastUpdated": "2026-05-26T10:27:07Z",
+    "stars": 22,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "laohuajiofficial/freightfactory",
     "internalName": "ff",
     "name": "FoodFactory",
@@ -1062,20 +1076,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
-  },
-  {
-    "repo": "apszoldat/mindustrymappingutilities",
-    "internalName": "mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "1.8",
-    "hidden": true,
-    "author": "ApsZoldat",
-    "lastUpdated": "2026-05-26T10:27:07Z",
-    "stars": 21,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "echovespy/simplistic",
@@ -1532,7 +1532,7 @@
     "version": "v2.5-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-27T12:37:12Z",
+    "lastUpdated": "2026-05-27T15:27:23Z",
     "stars": 13,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2072,20 +2072,6 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.2",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-05-20T10:42:51Z",
-    "stars": 9,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2100,13 +2086,27 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.2",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-05-27T13:46:36Z",
+    "stars": 9,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
     "repo": "laomoze/warhammer",
     "internalName": "wh",
     "name": "WarHammer",
     "version": "beta.2.1",
     "hidden": false,
     "author": "LaoMoze",
-    "lastUpdated": "2026-05-27T08:34:14Z",
+    "lastUpdated": "2026-05-27T16:15:19Z",
     "stars": 9,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -2576,34 +2576,6 @@
     "description": "You on the Mars."
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.2",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-05-20T10:39:21Z",
-    "stars": 7,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101.2",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-05-20T10:40:21Z",
-    "stars": 7,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
     "repo": "oscaremoran/beyondserpulo-mod",
     "internalName": "xorinal",
     "name": "Beyond Serpulo",
@@ -2630,6 +2602,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "With this MOD you can make potatoes."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.2",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-05-27T13:45:35Z",
+    "stars": 7,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101.2",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-05-27T13:46:04Z",
+    "stars": 7,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "heroblack303/stardustry",
@@ -3934,20 +3934,6 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
-    "repo": "m1cxzfw3q/logicextend",
-    "internalName": "logic-extend",
-    "name": "LogicExtend - 逻辑扩展",
-    "version": "0.0.3",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-04-12T06:10:03Z",
-    "stars": 3,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
-  },
-  {
     "repo": "routerxdd/cringe-mod",
     "internalName": "cringe",
     "name": "Total cringe",
@@ -4088,20 +4074,6 @@
     "description": "A mod that colors the bridges"
   },
   {
-    "repo": "wantechfan/mindustry-legacy-sounds",
-    "internalName": "legacy-sounds",
-    "name": "Legacy Sounds",
-    "version": "0.8",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-05-22T06:27:16Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
-  },
-  {
     "repo": "unquis/fading-revelations-remake",
     "internalName": "fading-revelations-remake",
     "name": "Fading Revelations Remake",
@@ -4156,6 +4128,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod add tanks, aircraft, artillery, diesel generators"
+  },
+  {
+    "repo": "m1cxzfw3q/logicextend",
+    "internalName": "logic-extend",
+    "name": "LogicExtend - 逻辑扩展",
+    "version": "0.0.3",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-05-27T14:22:27Z",
+    "stars": 3,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
+  },
+  {
+    "repo": "wantechfan/mindustry-legacy-sounds",
+    "internalName": "legacy-sounds",
+    "name": "Legacy Sounds",
+    "version": "0.8",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-05-27T14:57:56Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
   },
   {
     "repo": "weathercold/extralogging",
@@ -6289,15 +6289,15 @@
     "repo": "lu69159/morecustomsettings",
     "internalName": "mcs",
     "name": "More Custom Settings",
-    "version": "1.3",
+    "version": "1.4",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-05-26T13:57:38Z",
+    "lastUpdated": "2026-05-27T17:05:53Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod which allows players to custom campaign difficulty(TODO: music and etc.)"
+    "description": "A mod which allows players to custom campaign difficulty, custom music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -7516,5 +7516,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Transport liquids with drones!"
+  },
+  {
+    "repo": "ls-hdu/multi-crafter-lib",
+    "internalName": "multi-crafter-lib",
+    "name": "MultiCrafter 库",
+    "version": "1.0",
+    "hidden": false,
+    "author": "LS",
+    "lastUpdated": "2026-05-25T11:41:43Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "多配方工厂"
   }
 ]
