@@ -6,8 +6,8 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-05-26T18:54:15Z",
-    "stars": 578,
+    "lastUpdated": "2026-05-27T12:03:05Z",
+    "stars": 579,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -311,10 +311,10 @@
     "repo": "eb-wilson/toomanyitems",
     "internalName": "tmi",
     "name": "Too Many Items",
-    "version": "3.1a",
+    "version": "3.1",
     "hidden": true,
     "author": "EBwilson",
-    "lastUpdated": "2026-05-27T08:02:07Z",
+    "lastUpdated": "2026-05-27T09:06:41Z",
     "stars": 66,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1532,7 +1532,7 @@
     "version": "v2.5-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-27T07:43:51Z",
+    "lastUpdated": "2026-05-27T12:37:12Z",
     "stars": 13,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2072,18 +2072,18 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "laomoze/warhammer",
-    "internalName": "wh",
-    "name": "WarHammer",
-    "version": "beta.2.1",
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.2",
     "hidden": false,
-    "author": "LaoMoze",
-    "lastUpdated": "2026-05-27T07:46:27Z",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-05-20T10:42:51Z",
     "stars": 9,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
     "repo": "slashkig/astranium-mod",
@@ -2098,6 +2098,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "laomoze/warhammer",
+    "internalName": "wh",
+    "name": "WarHammer",
+    "version": "beta.2.1",
+    "hidden": false,
+    "author": "LaoMoze",
+    "lastUpdated": "2026-05-27T08:34:14Z",
+    "stars": 9,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
     "repo": "slava0135/refine",
@@ -3050,20 +3064,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod where i focus on making a content base on Infinitode 2, The Campaign is Still Playable, But it will getting Remaked and the Sector will be Remade Alongside the Tech Tree As Well"
-  },
-  {
-    "repo": "jirocab/caster-ui-java",
-    "internalName": "caster-ui-java",
-    "name": "Caster User interface",
-    "version": "5.3",
-    "hidden": true,
-    "author": "RushieWashie, WMF Industries",
-    "lastUpdated": "2025-08-27T05:34:44Z",
-    "stars": 5,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
     "repo": "determination-wind/more-details",
@@ -4858,6 +4858,20 @@
     "description": "No description provided."
   },
   {
+    "repo": "determination-wind/foreignservertranslator",
+    "internalName": "foreign-server-translator",
+    "name": "Foreign Server Translator / 外语服务器翻译",
+    "version": "1.1.1",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-05-24T00:30:12Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
+  },
+  {
     "repo": "128oteml/ice-peak",
     "internalName": "proxima",
     "name": "Proxima Centauri",
@@ -6242,20 +6256,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "实现了一个可以跨星球/区块传送单位的建筑，启用了旧版发射台\n代码编写：@ZenXSin\n贴图制作：@花杨永瀛\n由@一得阁拉米委托\n灵感来源：@原我心依旧如初\n\nalpha-02:\n修复无法正常发射的问题\n修复状态显示不正常的问题\n修复星球选择为oh no的问题\n修复消耗器无法正常工作的问题\n修复单位无限复制的问题\n\nalpha-03:\n新增所有s星单位都可以在e星生成\n调整了音效\n\nalpha-04:\n完善了状态的读写\n修复了在使用科技树透视时可能出现的闪退问题\n修改了一些贴图\n修复新版单位无限复制的问题\n增加单位大小判断，过大无法进入发射台\n修复了可进入载荷的判断错误\n修复未满足消耗但是正在构建时构建动画突然消失的问题\n增加建筑详细页的默认发射区块设置\n\nalpha-05:\n平衡了一定数值\n新增e星版单位发射台\n原版发射台支持多星球选择\n\nformal-01：\n修复了跨星球发射时单位消失问题\n修复了使用科技树透视时的闪退问题\n"
-  },
-  {
-    "repo": "determination-wind/foreignservertranslator",
-    "internalName": "foreign-server-translator",
-    "name": "Foreign Server Translator / 外语服务器翻译",
-    "version": "1.1.1",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-05-24T00:30:12Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
   },
   {
     "repo": "nglam2911/lpad",
