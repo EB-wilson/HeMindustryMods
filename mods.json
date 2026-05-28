@@ -693,7 +693,7 @@
     "hidden": false,
     "author": "Nullotte",
     "lastUpdated": "2026-04-15T18:10:22Z",
-    "stars": 35,
+    "stars": 36,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": true,
@@ -3534,7 +3534,7 @@
     "version": "0.1.8",
     "hidden": false,
     "author": "Choco Same",
-    "lastUpdated": "2026-05-27T01:39:41Z",
+    "lastUpdated": "2026-05-28T01:58:40Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -4886,20 +4886,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "version": "0.2 beta",
-    "hidden": false,
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-05-24T18:33:15Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos[white] \n[white]·4 muros \n[white]·11 fabricas[white] \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·5 torretas[white] \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n[accent] \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como New Horizon, Gier: Revitalized, High-Level Divisions. Warbound industries, [Better Vanilla] y Mindustry Tool."
-  },
-  {
     "repo": "no9527dada/mscience",
     "internalName": "mscience",
     "name": "艾慕科技",
@@ -4926,6 +4912,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds extra utilities to map editor."
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "version": "0.2 beta",
+    "hidden": false,
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-05-28T01:31:26Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos[white] \n[white]·4 muros \n[white]·11 fabricas[white] \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·5 torretas[white] \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n[accent] \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como New Horizon, Gier: Revitalized, High-Level Divisions. Warbound industries, [Better Vanilla] y Mindustry Tool."
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -6272,20 +6272,6 @@
     "description": "Utility mod for Mindustry Landing Pad"
   },
   {
-    "repo": "p-enya/celeste-music-pack",
-    "internalName": "celeste-music-pack",
-    "name": "Celeste music pack",
-    "version": "1.1.1",
-    "hidden": true,
-    "author": "[#6600ff]P.[#ff0066]E.[white]",
-    "lastUpdated": "2026-05-24T19:41:20Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds music from [#96EFFF]Celeste[white].\n\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]Check Music&Sounds.txt in the mod folder for more information.[white]"
-  },
-  {
     "repo": "ls-hdu/multi-crafter-lib",
     "internalName": "multi-crafter-lib",
     "name": "MultiCrafter 库",
@@ -6312,6 +6298,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which allows players to custom campaign difficulty, custom music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
+  },
+  {
+    "repo": "p-enya/celeste-music-pack",
+    "internalName": "celeste-music-pack",
+    "name": "Celeste music pack",
+    "version": "1.1.1",
+    "hidden": true,
+    "author": "[#6600ff]P.[#ff0066]E.[white]",
+    "lastUpdated": "2026-05-28T02:16:21Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds music from [#96EFFF]Celeste[white].\n\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]Check Music&Sounds.txt in the mod folder for more information.[white]"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
