@@ -311,12 +311,12 @@
     "repo": "eb-wilson/toomanyitems",
     "internalName": "tmi",
     "name": "Too Many Items",
-    "version": "3.1",
+    "version": "3.2",
     "hidden": true,
     "author": "EBwilson",
-    "lastUpdated": "2026-05-27T14:17:14Z",
+    "lastUpdated": "2026-05-28T09:05:08Z",
     "stars": 66,
-    "minGameVersion": "154",
+    "minGameVersion": "157.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n\n---\n\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
@@ -846,7 +846,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-05-28T07:36:55Z",
+    "lastUpdated": "2026-05-28T09:20:35Z",
     "stars": 27,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -4130,20 +4130,6 @@
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
-    "repo": "wantechfan/mindustry-legacy-sounds",
-    "internalName": "legacy-sounds",
-    "name": "Legacy Sounds",
-    "version": "0.8",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-05-27T14:57:56Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4156,6 +4142,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "wantechfan/mindustry-legacy-sounds",
+    "internalName": "legacy-sounds",
+    "name": "Legacy Sounds",
+    "version": "0.8",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-05-28T08:53:25Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
   },
   {
     "repo": "weathercold/extralogging",
@@ -4926,6 +4926,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos[white] \n[white]·4 muros \n[white]·11 fabricas[white] \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·5 torretas[white] \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n[accent] \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como New Horizon, Gier: Revitalized, High-Level Divisions. Warbound industries, [Better Vanilla] y Mindustry Tool."
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "0.06",
+    "hidden": false,
+    "author": "Кселирит",
+    "lastUpdated": "2026-05-28T08:21:59Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Этот мод добавляет ни шиша,ни гроша, ни бомжа, так как находится в тестировании"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
