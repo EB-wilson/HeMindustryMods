@@ -588,20 +588,6 @@
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
-    "repo": "itskirby69/minedusty",
-    "internalName": "",
-    "name": "MineDusty",
-    "version": "1.1.31",
-    "hidden": false,
-    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-05-21T18:02:54Z",
-    "stars": 40,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
-  },
-  {
     "repo": "00sunray00/scheme-size-port",
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
@@ -614,6 +600,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
+  },
+  {
+    "repo": "itskirby69/minedusty",
+    "internalName": "",
+    "name": "MineDusty",
+    "version": "1.1.31",
+    "hidden": false,
+    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
+    "lastUpdated": "2026-05-29T19:45:31Z",
+    "stars": 40,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
   },
   {
     "repo": "eb-wilson/universecore",
@@ -944,7 +944,7 @@
     "version": "1.8",
     "hidden": true,
     "author": "ApsZoldat",
-    "lastUpdated": "2026-05-29T17:44:26Z",
+    "lastUpdated": "2026-05-29T20:34:15Z",
     "stars": 24,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2506,20 +2506,6 @@
     "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
   },
   {
-    "repo": "koctz34/browser-windows",
-    "internalName": "browser-windows",
-    "name": "Browser Windows (MinduCEF)",
-    "version": "1.0",
-    "hidden": "true",
-    "author": "Ion - 7274",
-    "lastUpdated": "2026-03-18T13:58:07Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
-  },
-  {
     "repo": "determination-wind/radial-build-menu-hud-",
     "internalName": "radial-build-menu",
     "name": "圆盘快捷建造 / Radial Build Menu",
@@ -2644,6 +2630,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "koctz34/browser-windows",
+    "internalName": "browser-windows",
+    "name": "Browser Windows (MinduCEF)",
+    "version": "1.2",
+    "hidden": "true",
+    "author": "Ion - 7274",
+    "lastUpdated": "2026-05-29T19:53:42Z",
+    "stars": 7,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
   },
   {
     "repo": "heroblack303/stardustry",
@@ -4920,7 +4920,7 @@
     "version": "0.06",
     "hidden": false,
     "author": "Кселирит",
-    "lastUpdated": "2026-05-29T18:27:32Z",
+    "lastUpdated": "2026-05-29T18:47:54Z",
     "stars": 2,
     "minGameVersion": "154",
     "hasScripts": false,
