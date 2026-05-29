@@ -35,7 +35,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-05-20T14:33:04Z",
-    "stars": 233,
+    "stars": 234,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -216,7 +216,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-05-28T21:32:53Z",
+    "lastUpdated": "2026-05-29T09:25:34Z",
     "stars": 102,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -538,7 +538,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-29T07:27:40Z",
+    "lastUpdated": "2026-05-29T09:44:49Z",
     "stars": 42,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -846,7 +846,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-05-29T07:53:00Z",
+    "lastUpdated": "2026-05-29T08:33:16Z",
     "stars": 27,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -938,6 +938,20 @@
     "description": "Mindustry mod library which provides support for non-square blocks implementation for json mod."
   },
   {
+    "repo": "apszoldat/mindustrymappingutilities",
+    "internalName": "mapping-utilities",
+    "name": "Mapping Utilities",
+    "version": "1.8",
+    "hidden": true,
+    "author": "ApsZoldat",
+    "lastUpdated": "2026-05-29T10:44:02Z",
+    "stars": 24,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "mindustrydagger/vanillaplus",
     "internalName": "vanillaplus",
     "name": "VanillaPlus",
@@ -950,20 +964,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
-  },
-  {
-    "repo": "apszoldat/mindustrymappingutilities",
-    "internalName": "mapping-utilities",
-    "name": "Mapping Utilities",
-    "version": "1.8",
-    "hidden": true,
-    "author": "ApsZoldat",
-    "lastUpdated": "2026-05-28T22:29:26Z",
-    "stars": 23,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "laohuajiofficial/freightfactory",
@@ -2072,20 +2072,6 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "laomoze/warhammer",
-    "internalName": "wh",
-    "name": "WarHammer",
-    "version": "beta.2.1",
-    "hidden": false,
-    "author": "LaoMoze",
-    "lastUpdated": "2026-05-27T16:15:19Z",
-    "stars": 9,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2112,6 +2098,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
+    "repo": "laomoze/warhammer",
+    "internalName": "wh",
+    "name": "WarHammer",
+    "version": "beta.2.1",
+    "hidden": false,
+    "author": "LaoMoze",
+    "lastUpdated": "2026-05-29T11:30:21Z",
+    "stars": 9,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
     "repo": "slava0135/refine",
@@ -3534,7 +3534,7 @@
     "version": "0.1.8",
     "hidden": false,
     "author": "Choco Same",
-    "lastUpdated": "2026-05-29T01:53:39Z",
+    "lastUpdated": "2026-05-29T09:04:23Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -4147,10 +4147,10 @@
     "repo": "wantechfan/mindustry-legacy-sounds",
     "internalName": "legacy-sounds",
     "name": "Legacy Sounds",
-    "version": "0.9",
+    "version": "0.10",
     "hidden": true,
     "author": "WantechFan",
-    "lastUpdated": "2026-05-28T18:39:32Z",
+    "lastUpdated": "2026-05-29T08:55:36Z",
     "stars": 3,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -4914,20 +4914,6 @@
     "description": "Adds extra utilities to map editor."
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "0.06",
-    "hidden": false,
-    "author": "Кселирит",
-    "lastUpdated": "2026-05-28T08:21:59Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Этот мод добавляет ни шиша,ни гроша, ни бомжа, так как находится в тестировании"
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -4940,6 +4926,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos[white] \n[white]·4 muros \n[white]·11 fabricas[white] \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·5 torretas[white] \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n[accent] \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como New Horizon, Gier: Revitalized, High-Level Divisions. Warbound industries, [Better Vanilla] y Mindustry Tool."
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "0.06",
+    "hidden": false,
+    "author": "Кселирит",
+    "lastUpdated": "2026-05-29T08:23:47Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Этот мод добавляет ни шиша,ни гроша, ни бомжа, так как находится в тестировании"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
