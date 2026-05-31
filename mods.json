@@ -329,7 +329,7 @@
     "hidden": false,
     "author": "Team Oct",
     "lastUpdated": "2026-05-31T11:12:13Z",
-    "stars": 63,
+    "stars": 64,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -693,7 +693,7 @@
     "hidden": false,
     "author": "Nullotte",
     "lastUpdated": "2026-05-31T12:57:18Z",
-    "stars": 36,
+    "stars": 37,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": true,
@@ -2954,20 +2954,6 @@
     "description": "Adds serpulo cargo drone that functions exactly like erekir cargo drone. No more complicated logic!"
   },
   {
-    "repo": "fghjk455rg/items-reforged-by-captain-doshik",
-    "internalName": "ir",
-    "name": "Items Reforged",
-    "version": "1",
-    "hidden": false,
-    "author": "Captain Doshik",
-    "lastUpdated": "2024-10-09T13:32:00Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod replaces vanilla sprites with modified versions."
-  },
-  {
     "repo": "leyn-pl/showallsecrets",
     "internalName": "showsecrets",
     "name": "Show All Secrets",
@@ -3176,6 +3162,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod that allows you to have multiple recipes in one block.\n\nPort & rewrite of the original mod, MutliCrafterLib, by Liplum."
+  },
+  {
+    "repo": "fghjk455rg/items-reforged-by-captain-doshik",
+    "internalName": "ir",
+    "name": "Items Reforged",
+    "version": "1",
+    "hidden": false,
+    "author": "Captain Doshik",
+    "lastUpdated": "2026-05-31T21:16:46Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod replaces vanilla sprites with modified versions."
   },
   {
     "repo": "shimyytrov/turretex-java",
@@ -6370,6 +6370,20 @@
     "description": "Removes building damage penalty"
   },
   {
+    "repo": "oscillatorium/martin",
+    "internalName": "martin",
+    "name": "Martin's mod",
+    "version": "0.01",
+    "hidden": false,
+    "author": "мартин",
+    "lastUpdated": "2026-05-31T21:33:41Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "мод моего младшего брата, в котором концентрат его шизы. мод не предназначен для нормальной игры."
+  },
+  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -7586,19 +7600,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
-  },
-  {
-    "repo": "oscillatorium/martin",
-    "internalName": "martin",
-    "name": "Martin's mod",
-    "version": "0.01",
-    "hidden": false,
-    "author": "мартин",
-    "lastUpdated": "2026-05-31T20:01:29Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "мод моего младшего брата, в котором концентрат его шизы. мод не предназначен для нормальной игры."
   }
 ]
