@@ -48,7 +48,7 @@
     "version": "2.7.79",
     "hidden": true,
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-05-30T16:58:04Z",
+    "lastUpdated": "2026-05-31T16:27:17Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -972,7 +972,7 @@
     "version": "1.7.9",
     "hidden": false,
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2026-05-21T14:17:04Z",
+    "lastUpdated": "2026-05-31T15:52:12Z",
     "stars": 22,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3150,20 +3150,6 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
   },
   {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "Jojo",
-    "lastUpdated": "2026-05-30T12:12:41Z",
-    "stars": 5,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library mod that allows you to have multiple recipes in one block.\n\nPort & rewrite of the original mod, MutliCrafterLib, by Liplum."
-  },
-  {
     "repo": "redloong9527/logic-chinese-localization",
     "internalName": "logicchineselocalization",
     "name": "逻辑汉化补丁v1.3.1",
@@ -3176,6 +3162,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
+  },
+  {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "Jojo",
+    "lastUpdated": "2026-05-31T16:38:09Z",
+    "stars": 5,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod that allows you to have multiple recipes in one block.\n\nPort & rewrite of the original mod, MutliCrafterLib, by Liplum."
   },
   {
     "repo": "shimyytrov/turretex-java",
@@ -4914,20 +4914,6 @@
     "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.4.1",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-05-28T17:38:44Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to custom campaign difficulty, custom music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
     "repo": "jirocab/minimapasbutton",
     "internalName": "minimapbutton",
     "name": "Minimap as a button + other buttons",
@@ -4968,6 +4954,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·5 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, High-Level Divisions, Warbound Industries, [Better Vanilla] y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.4.2",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-05-31T16:05:58Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to custom campaign difficulty, custom music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
