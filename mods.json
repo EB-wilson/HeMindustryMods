@@ -231,7 +231,7 @@
     "hidden": true,
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
     "lastUpdated": "2026-05-12T09:33:28Z",
-    "stars": 100,
+    "stars": 101,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -384,7 +384,7 @@
     "version": "Alpha-6484",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-06-01T14:10:25Z",
+    "lastUpdated": "2026-06-01T23:37:45Z",
     "stars": 58,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -1344,6 +1344,20 @@
     "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
   },
   {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "version": "",
+    "hidden": false,
+    "author": "bttodi",
+    "lastUpdated": "2026-05-26T09:31:50Z",
+    "stars": 15,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
+  },
+  {
     "repo": "arktcode/dynamic-shadows",
     "internalName": "dynamic-shadows",
     "name": "Dynamic Shadows",
@@ -1412,20 +1426,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The best sensory overload you can get, at least legally."
-  },
-  {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "version": "",
-    "hidden": false,
-    "author": "bttodi",
-    "lastUpdated": "2026-05-26T09:31:50Z",
-    "stars": 14,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
     "repo": "kev-vily/epsilon",
@@ -3576,7 +3576,7 @@
     "version": "0.1.9",
     "hidden": false,
     "author": "Choco Same",
-    "lastUpdated": "2026-06-01T13:38:14Z",
+    "lastUpdated": "2026-06-02T02:03:51Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -4200,20 +4200,6 @@
     "description": "Mod add tanks, aircraft, artillery, diesel generators"
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.4.2",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-05-31T16:05:58Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to custom campaign difficulty, custom music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
     "repo": "wantechfan/mindustry-legacy-sounds",
     "internalName": "legacy-sounds",
     "name": "Legacy Sounds",
@@ -4226,6 +4212,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.4.2",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-06-02T01:58:08Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to custom campaign difficulty, custom music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "weathercold/extralogging",
