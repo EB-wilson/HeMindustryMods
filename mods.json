@@ -185,10 +185,10 @@
     "repo": "blackdeluxecat/mi2-utilities-java",
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
-    "version": "1.13.0",
+    "version": "1.13.1",
     "hidden": true,
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2026-06-01T11:11:34Z",
+    "lastUpdated": "2026-06-02T17:05:44Z",
     "stars": 120,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -846,7 +846,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-06-02T08:14:57Z",
+    "lastUpdated": "2026-06-02T19:24:50Z",
     "stars": 27,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -1036,6 +1036,20 @@
     "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
+    "repo": "sunkenmelody/rospule",
+    "internalName": "rospule",
+    "name": "「Rospule」",
+    "version": "v0.4.2",
+    "hidden": false,
+    "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
+    "lastUpdated": "2026-03-31T16:30:57Z",
+    "stars": 21,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.4 -- Stage 4-6 to Stage 4-10 added.\r\nV0.4.2 -- Polished the texts and 1-10 , 2-10 and 3-10 sectors with a brief ending congrat message.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
+  },
+  {
     "repo": "rednzba990/warboundindustriesmod",
     "internalName": "wi",
     "name": "Warbound Industries",
@@ -1098,7 +1112,7 @@
     "version": "1.2",
     "hidden": false,
     "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
-    "lastUpdated": "2026-06-01T09:19:55Z",
+    "lastUpdated": "2026-06-02T16:56:08Z",
     "stars": 21,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -1118,20 +1132,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
-  },
-  {
-    "repo": "sunkenmelody/rospule",
-    "internalName": "rospule",
-    "name": "「Rospule」",
-    "version": "v0.4.2",
-    "hidden": false,
-    "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
-    "lastUpdated": "2026-03-31T16:30:57Z",
-    "stars": 20,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.4 -- Stage 4-6 to Stage 4-10 added.\r\nV0.4.2 -- Polished the texts and 1-10 , 2-10 and 3-10 sectors with a brief ending congrat message.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
   },
   {
     "repo": "430230562/vanilla-neoplasm-extend",
@@ -1372,6 +1372,20 @@
     "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
   },
   {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v3-Gier",
+    "hidden": false,
+    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
+    "lastUpdated": "2026-06-02T13:54:34Z",
+    "stars": 15,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n"
+  },
+  {
     "repo": "reversteams/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
@@ -1440,20 +1454,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
-  },
-  {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v3-Gier",
-    "hidden": false,
-    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-02T13:54:34Z",
-    "stars": 14,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n"
   },
   {
     "repo": "arksourcer/project-ark-public",
@@ -2268,6 +2268,20 @@
     "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
   },
   {
+    "repo": "oscaremoran/beyondserpulo-mod",
+    "internalName": "xorinal",
+    "name": "Beyond Serpulo",
+    "version": "1.6",
+    "hidden": false,
+    "author": "Oscar Moran",
+    "lastUpdated": "2026-05-22T22:59:46Z",
+    "stars": 8,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.6. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. \nUPDATES:\nLICHEN UPDATE (v1.2)\nFLAMEWAR UPDATE (v1.3)\nTETRA UPDATE (v1.4)\nQOL UPDATE (v1.5)\nPILOTS UPDATE (v1.6) \n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add more campaign features!"
+  },
+  {
     "repo": "eb-wilson/modpacker",
     "internalName": "mod-packer",
     "name": "Mod Packer",
@@ -2546,20 +2560,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "You on the Mars."
-  },
-  {
-    "repo": "oscaremoran/beyondserpulo-mod",
-    "internalName": "xorinal",
-    "name": "Beyond Serpulo",
-    "version": "1.6",
-    "hidden": false,
-    "author": "Oscar Moran",
-    "lastUpdated": "2026-05-22T22:59:46Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.6. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. \nUPDATES:\nLICHEN UPDATE (v1.2)\nFLAMEWAR UPDATE (v1.3)\nTETRA UPDATE (v1.4)\nQOL UPDATE (v1.5)\nPILOTS UPDATE (v1.6) \n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add more campaign features!"
   },
   {
     "repo": "thegodshand777/extra-editor",
@@ -4242,6 +4242,20 @@
     "description": "Brings back old SFX."
   },
   {
+    "repo": "jababadev/jababarium",
+    "internalName": "jababarium",
+    "name": "Jababarium",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Mr_Rovenclonchik",
+    "lastUpdated": "2026-06-02T11:29:47Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry greatest mod ever made!"
+  },
+  {
     "repo": "weathercold/extralogging",
     "internalName": "extra-logging",
     "name": "Extra Logging",
@@ -4982,20 +4996,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·5 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, High-Level Divisions, Warbound Industries, [Better Vanilla] y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
-  },
-  {
-    "repo": "jababadev/jababarium",
-    "internalName": "jababarium",
-    "name": "Jababarium",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Mr_Rovenclonchik",
-    "lastUpdated": "2026-06-02T11:29:47Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry greatest mod ever made!"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -6412,6 +6412,20 @@
     "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
   },
   {
+    "repo": "wantechfan/mindustry-wind3-shenanigans",
+    "internalName": "wind3-shenanigans",
+    "name": "Wind3 Shenanigans",
+    "version": "1.0",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-06-02T17:28:45Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces all sounds with wind3."
+  },
+  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -7404,20 +7418,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "In-game chat translator for Mindustry."
-  },
-  {
-    "repo": "cardillan/mlogwatcher7",
-    "internalName": "mlogwatcher7",
-    "name": "MlogWatcher (v7)",
-    "version": "0.4v",
-    "hidden": true,
-    "author": "Sharlottes",
-    "lastUpdated": "2026-03-29T17:54:33Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
   },
   {
     "repo": "m1cxzfw3q/ruikeui",
