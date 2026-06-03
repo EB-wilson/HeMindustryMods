@@ -48,7 +48,7 @@
     "version": "2.7.79",
     "hidden": true,
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-03T15:01:37Z",
+    "lastUpdated": "2026-06-03T17:46:13Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -510,7 +510,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-05-31T05:17:18Z",
+    "lastUpdated": "2026-06-03T19:35:17Z",
     "stars": 45,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -692,7 +692,7 @@
     "version": "(Beta) Build 10",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-06-02T10:04:19Z",
+    "lastUpdated": "2026-06-03T18:40:48Z",
     "stars": 37,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -852,6 +852,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \n[royal]Kaltos[] is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \n[gold]Aetheria[] on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on [royal]Kaltos[] and [gold]Aetheria[]. \n\n[red]This mod is still in early development,[] as of now it only adds a bunch of [accent]sandbox only blocks[] and [accent]environment tiles[]. Several sectors have been made already, more are yet to come. It also has custom music. \n\nOther then that, the mod focuses on [accent]complex factories[] and [accent]refining Crude Oil[]. \n\n[accent]I re-used no content from vanilla, even though this mod seemingly has several things from it. \n\n[red]Currently the mod is way too early into development to have any proper translations. \n\n[]Have fun with whats already added, I guess. :)"
+  },
+  {
+    "repo": "asterion-team/asterion",
+    "internalName": "as",
+    "name": "Asterion",
+    "version": "Alpha 0.1.3",
+    "hidden": false,
+    "author": " |Asterion Team| ",
+    "lastUpdated": "2026-06-03T17:36:36Z",
+    "stars": 27,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Needs the Hjson++ library\n\nMOD IN THE ALPHA!\nThis is collaboration mod.\n\nAsterion Team\n\n[#92d3ff]Sputnuc [white]— [accent]creator.\n[#ffa0a0]Bloody Ocean [white]— [accent]spriter.\n[#d13050]AnDashik [white]— [accent]coder, spriter, mapper.\n[#a3e7b8]Ace [white]— [accent]composer.\n[#5245c9]R.O.T [white]— [accent]coder, spriter.\n[#e2478f]Sundered [white]— [accent]some sprites.\n[#dbddca]Los Sasikos [white]— [accent]help with balance & sprites."
   },
   {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
@@ -1372,6 +1386,20 @@
     "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
   },
   {
+    "repo": "kev-vily/epsilon",
+    "internalName": "epsilon",
+    "name": "Epsilon",
+    "version": "0.22",
+    "hidden": false,
+    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
+    "lastUpdated": "2026-06-02T09:15:32Z",
+    "stars": 15,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
@@ -1440,20 +1468,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The best sensory overload you can get, at least legally."
-  },
-  {
-    "repo": "kev-vily/epsilon",
-    "internalName": "epsilon",
-    "name": "Epsilon",
-    "version": "0.22",
-    "hidden": false,
-    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-06-02T09:15:32Z",
-    "stars": 14,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
     "repo": "arksourcer/project-ark-public",
@@ -1554,6 +1568,20 @@
     "description": "Mod with tower defense maps and objects"
   },
   {
+    "repo": "foxitos/cmd-pack",
+    "internalName": "cmd-scheme-pack",
+    "name": "CMD Scheme Pack",
+    "version": "2.0.0",
+    "hidden": true,
+    "author": "foxit, QUITE ETHER",
+    "lastUpdated": "2023-09-16T22:50:36Z",
+    "stars": 12,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
+  },
+  {
     "repo": "nemesistheory/odst-soundtracks",
     "internalName": "halo-odst-soundtracks",
     "name": "ODST Soundtracks",
@@ -1650,20 +1678,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
-  },
-  {
-    "repo": "foxitos/cmd-pack",
-    "internalName": "cmd-scheme-pack",
-    "name": "CMD Scheme Pack",
-    "version": "2.0.0",
-    "hidden": true,
-    "author": "foxit, QUITE ETHER",
-    "lastUpdated": "2023-09-16T22:50:36Z",
-    "stars": 11,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
   },
   {
     "repo": "jhrushbe/moardustry",
@@ -2142,6 +2156,20 @@
     "description": "STAR my mod, pls. Adds a new vanilla unit in vanilla unit factory!\n  **Languages:\n    1.Russian\n    1.English**\n"
   },
   {
+    "repo": "redstonneur1256/mindustry-modlib",
+    "internalName": "!mod-library",
+    "name": "Mod Library",
+    "version": "${version}",
+    "hidden": true,
+    "author": "Redstonneur1256",
+    "lastUpdated": "2024-05-19T19:48:29Z",
+    "stars": 8,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry modding utilities to make mod development easier."
+  },
+  {
     "repo": "koctz34/factor",
     "internalName": "factor",
     "name": "Factor",
@@ -2294,20 +2322,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod packaging tool, a tool is added to the mod page to select the currently installed mod for packaging as a mod integration package for distribution. When using it, install the installer mod generated by the package directly, and it will guide the user to complete the installation.\n====================\n一个模组打包工具，在模组页面添加了一个工具，用于选择当前已安装的mod并打包为mod整合包以便分发，使用时直接安装打包生成的安装器mod，它会引导用户完成安装"
-  },
-  {
-    "repo": "redstonneur1256/mindustry-modlib",
-    "internalName": "!mod-library",
-    "name": "Mod Library",
-    "version": "${version}",
-    "hidden": true,
-    "author": "Redstonneur1256",
-    "lastUpdated": "2024-05-19T19:48:29Z",
-    "stars": 7,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry modding utilities to make mod development easier."
   },
   {
     "repo": "frizermoon/revengeance-mod",
@@ -2896,6 +2910,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "0.11",
+    "hidden": false,
+    "author": "Кселирит",
+    "lastUpdated": "2026-06-03T20:51:54Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "тапок не тот, кто тапок, а тот, кто достоин быть тапком"
   },
   {
     "repo": "vadit2020/betamindytranslated",
