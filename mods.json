@@ -20,7 +20,7 @@
     "version": "2.0",
     "hidden": false,
     "author": "sk7725",
-    "lastUpdated": "2026-03-18T15:44:07Z",
+    "lastUpdated": "2026-06-04T01:57:43Z",
     "stars": 362,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -384,7 +384,7 @@
     "version": "Alpha-6484",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-06-03T14:41:16Z",
+    "lastUpdated": "2026-06-04T02:58:52Z",
     "stars": 59,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -588,6 +588,20 @@
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
+    "repo": "itskirby69/minedusty",
+    "internalName": "",
+    "name": "MineDusty",
+    "version": "1.1.31",
+    "hidden": false,
+    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
+    "lastUpdated": "2026-05-29T19:45:31Z",
+    "stars": 40,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
+  },
+  {
     "repo": "00sunray00/scheme-size-port",
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
@@ -628,20 +642,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
-  },
-  {
-    "repo": "itskirby69/minedusty",
-    "internalName": "",
-    "name": "MineDusty",
-    "version": "1.1.31",
-    "hidden": false,
-    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-05-29T19:45:31Z",
-    "stars": 39,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
   },
   {
     "repo": "rogeh4/virtual-scheme-pack-",
@@ -1406,7 +1406,7 @@
     "version": "v3-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-03T05:51:25Z",
+    "lastUpdated": "2026-06-04T02:43:42Z",
     "stars": 15,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2884,20 +2884,6 @@
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2026-05-30T13:34:38Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
     "internalName": "interstellar-spaceline",
     "name": "Interstellar Spaceline",
@@ -2924,6 +2910,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "тапок не тот, кто тапок, а тот, кто достоин быть тапком"
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2026-06-04T03:08:07Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
     "repo": "vadit2020/betamindytranslated",
@@ -3640,20 +3640,6 @@
     "description": "[red]俺寻思之力"
   },
   {
-    "repo": "kyokonagaro/viridium",
-    "internalName": "viridium",
-    "name": "Viridium",
-    "version": "0.1.9",
-    "hidden": false,
-    "author": "Choco Same",
-    "lastUpdated": "2026-06-03T14:08:35Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mod enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one.\n\nThanks to RednzBA990 (Github) for the little help!"
-  },
-  {
     "repo": "lu69159/morecustomsettings",
     "internalName": "mcs",
     "name": "More Custom Settings",
@@ -3666,6 +3652,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which allows players to custom campaign difficulty, custom music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
+  },
+  {
+    "repo": "kyokonagaro/viridium",
+    "internalName": "viridium",
+    "name": "Viridium",
+    "version": "0.1.9",
+    "hidden": false,
+    "author": "Choco Same",
+    "lastUpdated": "2026-06-04T01:30:49Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mod enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one.\n\nThanks to RednzBA990 (Github) for the little help!"
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
@@ -7686,20 +7686,6 @@
     "description": "Mallpark Research & Development presents various interplanetary products, as requested by various customers, or as experiments designed to test the market.\n\n[red]This is a pretty small, crappy and unbalanced mod. Anyway-"
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.1",
-    "hidden": false,
-    "author": "一瓶圣水",
-    "lastUpdated": "2026-06-03T22:44:58Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "三角模组2.x半成品"
-  },
-  {
     "repo": "cn-yuxin/coreitemsdisplay",
     "internalName": "coreitemsdisplay",
     "name": "核心资源显示",
@@ -7712,5 +7698,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "强制显示游戏内置的核心资源显示表"
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "一瓶圣水",
+    "lastUpdated": "2026-06-03T23:46:35Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "三角模组2.x半成品"
   }
 ]
