@@ -412,7 +412,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-06-05T03:31:07Z",
+    "lastUpdated": "2026-06-05T04:01:59Z",
     "stars": 56,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -538,7 +538,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-06-04T10:12:07Z",
+    "lastUpdated": "2026-06-05T03:59:05Z",
     "stars": 42,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1406,7 +1406,7 @@
     "version": "v3-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-04T23:38:51Z",
+    "lastUpdated": "2026-06-05T04:00:38Z",
     "stars": 15,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1672,7 +1672,7 @@
     "version": "1.13",
     "hidden": true,
     "author": "WantechFan",
-    "lastUpdated": "2026-06-03T16:31:28Z",
+    "lastUpdated": "2026-06-05T08:05:59Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1960,20 +1960,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "wantechfan/mindustry-cool-musics",
-    "internalName": "cool-musics",
-    "name": "Cool Musics",
-    "version": "1.2.2",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-05-30T09:58:21Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
-  },
-  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -1986,6 +1972,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
+    "repo": "wantechfan/mindustry-cool-musics",
+    "internalName": "cool-musics",
+    "name": "Cool Musics",
+    "version": "1.2.2",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-06-05T07:30:07Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
     "repo": "i-hope1/mod.make",
@@ -2140,6 +2140,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
+  },
+  {
+    "repo": "jababadev/jababarium",
+    "internalName": "jababarium",
+    "name": "Jababarium",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Jababa",
+    "lastUpdated": "2026-06-04T18:35:52Z",
+    "stars": 9,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry greatest mod ever made!"
   },
   {
     "repo": "slava0135/refine",
@@ -2308,20 +2322,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.6. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. \nUPDATES:\nLICHEN UPDATE (v1.2)\nFLAMEWAR UPDATE (v1.3)\nTETRA UPDATE (v1.4)\nQOL UPDATE (v1.5)\nPILOTS UPDATE (v1.6) \n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add more campaign features!"
-  },
-  {
-    "repo": "jababadev/jababarium",
-    "internalName": "jababarium",
-    "name": "Jababarium",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Jababa",
-    "lastUpdated": "2026-06-04T18:35:52Z",
-    "stars": 8,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry greatest mod ever made!"
   },
   {
     "repo": "eb-wilson/modpacker",
@@ -2680,7 +2680,7 @@
     "version": "0",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-06-04T14:20:39Z",
+    "lastUpdated": "2026-06-05T06:11:42Z",
     "stars": 7,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2938,6 +2938,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Этот мод должен добавлять планету с математикой в качестве блоков, но мод пока в тестировании\n[accent]special thanks to: chmonya (за пример мода и советы)[]"
+  },
+  {
+    "repo": "fallingdice/mechanical-factions",
+    "internalName": "mechanical-factions",
+    "name": "JunkTech Industry(WIP)",
+    "version": "[cyan]0.6.7",
+    "hidden": false,
+    "author": "FallingDice",
+    "lastUpdated": "2026-06-05T06:33:20Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Unleash the power of salvaged technology!\n JunkTech Industry adds a complete mechanical faction with 10+ new units and specialized turrets.\n Build, recycle, and conquer with the ultimate scrap-metal army."
   },
   {
     "repo": "vadit2020/betamindytranslated",
@@ -3240,7 +3254,7 @@
     "version": "V.test.0.0.37.926.05.29",
     "hidden": false,
     "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-04T07:28:51Z",
+    "lastUpdated": "2026-06-05T07:34:36Z",
     "stars": 5,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -4172,20 +4186,6 @@
     "description": "Matter, void energy, advanced power, turrets, and units for Mindustry v8."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-05-12T08:50:29Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "5gamemaker/mindustrycoloredbridges",
     "internalName": "colored-bridges",
     "name": "Colored Bridges",
@@ -4310,6 +4310,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-06-05T07:47:37Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "mythril382/sardines",
@@ -7706,7 +7720,7 @@
     "version": "0.2.1",
     "hidden": false,
     "author": "一瓶圣水",
-    "lastUpdated": "2026-06-05T02:56:16Z",
+    "lastUpdated": "2026-06-05T04:12:35Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
