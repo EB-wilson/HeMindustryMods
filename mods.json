@@ -48,7 +48,7 @@
     "version": "2.7.79",
     "hidden": true,
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-05T21:24:38Z",
+    "lastUpdated": "2026-06-06T16:05:26Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -230,7 +230,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-06-06T14:09:06Z",
+    "lastUpdated": "2026-06-06T15:57:53Z",
     "stars": 102,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -342,7 +342,7 @@
     "version": "1.1 beta build-2.2",
     "hidden": false,
     "author": "Team Oct",
-    "lastUpdated": "2026-06-06T14:53:03Z",
+    "lastUpdated": "2026-06-06T15:23:16Z",
     "stars": 65,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -3234,20 +3234,6 @@
     "description": "This mod replaces vanilla sprites with modified versions."
   },
   {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "version": "1.0.1",
-    "hidden": true,
-    "author": "Jojo",
-    "lastUpdated": "2026-06-06T00:17:11Z",
-    "stars": 5,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library mod that allows you to have multiple recipes in one block.\n\nPort & rewrite of the original mod, MutliCrafterLib, by Liplum."
-  },
-  {
     "repo": "aevorlum/liminal-protocol",
     "internalName": "lp",
     "name": "Liminal Protocol",
@@ -3260,6 +3246,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[red]俺寻思之力"
+  },
+  {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "version": "1.0.1",
+    "hidden": true,
+    "author": "Jojo",
+    "lastUpdated": "2026-06-06T16:41:55Z",
+    "stars": 5,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod that allows you to have multiple recipes in one block.\n\nPort & rewrite of the original mod, MutliCrafterLib, by Liplum."
   },
   {
     "repo": "shimyytrov/turretex-java",
@@ -6384,20 +6384,6 @@
     "description": "Adds music from [#96EFFF]Celeste[white].\n\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]Check Music&Sounds.txt in the mod folder for more information.[white]"
   },
   {
-    "repo": "wantechfan/mindustry-no-building-damage-penalty",
-    "internalName": "no-building-damage-penalty",
-    "name": "No Building Damage Penalty",
-    "version": "0.1",
-    "hidden": true,
-    "author": "Wantechfan",
-    "lastUpdated": "2026-05-29T18:10:43Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Removes building damage penalty"
-  },
-  {
     "repo": "ancvike/auxiliarymod",
     "internalName": "auxiliary-mod",
     "name": "辅助mod",
@@ -6480,6 +6466,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Replaces all sounds with wind3."
+  },
+  {
+    "repo": "wantechfan/mindustry-no-building-damage-penalty",
+    "internalName": "no-building-damage-penalty",
+    "name": "No Building Damage Penalty",
+    "version": "0.1",
+    "hidden": true,
+    "author": "Wantechfan",
+    "lastUpdated": "2026-06-06T15:25:47Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Removes building damage penalty"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
