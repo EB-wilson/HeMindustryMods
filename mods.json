@@ -689,10 +689,10 @@
     "repo": "nullotte/carpe-diem",
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
-    "version": "(Beta) Build 10",
+    "version": "(Beta) Build 11",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-06-06T06:50:01Z",
+    "lastUpdated": "2026-06-06T07:45:02Z",
     "stars": 38,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -980,6 +980,20 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.9.5",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-05-31T02:06:13Z",
+    "stars": 22,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
+  },
+  {
     "repo": "jirocab/nyfalis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1090,20 +1104,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.9.5",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-05-31T02:06:13Z",
-    "stars": 21,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "sunkenmelody/rospule",
@@ -1330,6 +1330,20 @@
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "0.85.157.4",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-05-30T05:59:49Z",
+    "stars": 16,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
+  },
+  {
     "repo": "seuearth/factroundustry",
     "internalName": "factroundustry",
     "name": "Factroundustry",
@@ -1370,20 +1384,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
-  },
-  {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "0.85.157.4",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-05-30T05:59:49Z",
-    "stars": 15,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
   },
   {
     "repo": "kev-vily/epsilon",
@@ -2324,6 +2324,20 @@
     "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.6. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. \nUPDATES:\nLICHEN UPDATE (v1.2)\nFLAMEWAR UPDATE (v1.3)\nTETRA UPDATE (v1.4)\nQOL UPDATE (v1.5)\nPILOTS UPDATE (v1.6) \n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add more campaign features!"
   },
   {
+    "repo": "thegodshand777/extra-editor",
+    "internalName": "extra-editor",
+    "name": "Extra Editor",
+    "version": "1.0",
+    "hidden": true,
+    "author": "KlasterX",
+    "lastUpdated": "2026-05-25T14:18:26Z",
+    "stars": 8,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds extra utilities to map editor."
+  },
+  {
     "repo": "eb-wilson/modpacker",
     "internalName": "mod-packer",
     "name": "Mod Packer",
@@ -2590,20 +2604,6 @@
     "description": "You on the Mars."
   },
   {
-    "repo": "thegodshand777/extra-editor",
-    "internalName": "extra-editor",
-    "name": "Extra Editor",
-    "version": "1.0",
-    "hidden": true,
-    "author": "KlasterX",
-    "lastUpdated": "2026-05-25T14:18:26Z",
-    "stars": 7,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds extra utilities to map editor."
-  },
-  {
     "repo": "arc0480/cookmod",
     "internalName": "cookmod",
     "name": "cookmod",
@@ -2666,7 +2666,7 @@
     "version": "101.3",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-06-05T14:15:02Z",
+    "lastUpdated": "2026-06-06T09:54:20Z",
     "stars": 7,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -2680,7 +2680,7 @@
     "version": "0",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-06-06T06:11:24Z",
+    "lastUpdated": "2026-06-06T10:01:14Z",
     "stars": 7,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2960,7 +2960,7 @@
     "version": "0.11",
     "hidden": false,
     "author": "Кселирит",
-    "lastUpdated": "2026-06-06T05:18:55Z",
+    "lastUpdated": "2026-06-06T09:51:05Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4284,20 +4284,6 @@
     "description": "Mod add tanks, aircraft, artillery, diesel generators"
   },
   {
-    "repo": "wantechfan/mindustry-legacy-sounds",
-    "internalName": "legacy-sounds",
-    "name": "Legacy Sounds",
-    "version": "1.0",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-06-02T07:17:03Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Brings back old SFX."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4324,6 +4310,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "wantechfan/mindustry-legacy-sounds",
+    "internalName": "legacy-sounds",
+    "name": "Legacy Sounds",
+    "version": "1.0",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-06-06T08:41:39Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Brings back old SFX."
   },
   {
     "repo": "mythril382/sardines",
@@ -5060,7 +5060,7 @@
     "version": "0.0.2pA",
     "hidden": false,
     "author": "[sky]114514[white]",
-    "lastUpdated": "2026-06-06T06:35:43Z",
+    "lastUpdated": "2026-06-06T07:36:31Z",
     "stars": 2,
     "minGameVersion": "151.1",
     "hasScripts": false,
