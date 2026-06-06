@@ -230,7 +230,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-06-05T22:56:58Z",
+    "lastUpdated": "2026-06-06T14:09:06Z",
     "stars": 102,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -342,8 +342,8 @@
     "version": "1.1 beta build-2.2",
     "hidden": false,
     "author": "Team Oct",
-    "lastUpdated": "2026-06-05T19:11:51Z",
-    "stars": 64,
+    "lastUpdated": "2026-06-06T14:53:03Z",
+    "stars": 65,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -2680,7 +2680,7 @@
     "version": "0",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-06-06T11:50:35Z",
+    "lastUpdated": "2026-06-06T14:32:15Z",
     "stars": 7,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -3688,7 +3688,7 @@
     "version": "0.1.9",
     "hidden": false,
     "author": "Choco Same",
-    "lastUpdated": "2026-06-06T10:13:06Z",
+    "lastUpdated": "2026-06-06T14:59:03Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -4298,20 +4298,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-06-06T10:16:31Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "wantechfan/mindustry-legacy-sounds",
     "internalName": "legacy-sounds",
     "name": "Legacy Sounds",
@@ -4324,6 +4310,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Brings back old SFX."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-06-06T15:12:39Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "mythril382/sardines",
@@ -6398,20 +6398,6 @@
     "description": "Removes building damage penalty"
   },
   {
-    "repo": "wantechfan/mindustry-wind3-shenanigans",
-    "internalName": "wind3-shenanigans",
-    "name": "Wind3 Shenanigans",
-    "version": "1.0",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-06-02T17:28:45Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces all sounds with wind3."
-  },
-  {
     "repo": "ancvike/auxiliarymod",
     "internalName": "auxiliary-mod",
     "name": "辅助mod",
@@ -6480,6 +6466,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Lade diese Mod nur über den neuesten Release auf GitHub herunter! - - - Download this mod on GitHub only via the latest release! "
+  },
+  {
+    "repo": "wantechfan/mindustry-wind3-shenanigans",
+    "internalName": "wind3-shenanigans",
+    "name": "Wind3 Shenanigans",
+    "version": "1.0",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-06-06T15:01:20Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces all sounds with wind3."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
