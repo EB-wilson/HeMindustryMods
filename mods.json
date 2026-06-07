@@ -329,7 +329,7 @@
     "hidden": true,
     "author": "Pointifix",
     "lastUpdated": "2026-05-30T09:43:24Z",
-    "stars": 65,
+    "stars": 66,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
@@ -700,6 +700,20 @@
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.4",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2026-05-28T18:00:08Z",
+    "stars": 35,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends.\n\nNote: To install the mod for Mindustry v8, click 'View Releases' instead of 'Install' and install the latest version named 'CLaJ for Mindustry V8'."
+  },
+  {
     "repo": "haznobrain/erekir-liquefied",
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
@@ -712,20 +726,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
-  },
-  {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.4",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-05-28T18:00:08Z",
-    "stars": 34,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends.\n\nNote: To install the mod for Mindustry v8, click 'View Releases' instead of 'Install' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
     "repo": "dong-wo-long/betterdustrymod",
@@ -958,7 +958,7 @@
     "version": "1.8",
     "hidden": true,
     "author": "ApsZoldat",
-    "lastUpdated": "2026-06-03T14:28:51Z",
+    "lastUpdated": "2026-06-07T11:35:16Z",
     "stars": 24,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1134,6 +1134,20 @@
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
+    "repo": "saigon0nozomi/nightscape",
+    "internalName": "nscape",
+    "name": "NightScape",
+    "version": "2.1",
+    "hidden": false,
+    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
+    "lastUpdated": "2024-11-07T09:16:57Z",
+    "stars": 20,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds hard new planet with unique content and new mechanics"
+  },
+  {
     "repo": "echovespy/simplistic",
     "internalName": "simplistic",
     "name": "Simplistic - TexturePack",
@@ -1174,20 +1188,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.4.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出"
-  },
-  {
-    "repo": "saigon0nozomi/nightscape",
-    "internalName": "nscape",
-    "name": "NightScape",
-    "version": "2.1",
-    "hidden": false,
-    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
-    "lastUpdated": "2024-11-07T09:16:57Z",
-    "stars": 19,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -1386,20 +1386,6 @@
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
-    "repo": "kev-vily/epsilon",
-    "internalName": "epsilon",
-    "name": "Epsilon",
-    "version": "0.22",
-    "hidden": false,
-    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-06-02T09:15:32Z",
-    "stars": 15,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
-  },
-  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
@@ -1412,6 +1398,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n"
+  },
+  {
+    "repo": "kev-vily/epsilon",
+    "internalName": "epsilon",
+    "name": "Epsilon",
+    "version": "0.22",
+    "hidden": false,
+    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
+    "lastUpdated": "2026-06-07T11:30:00Z",
+    "stars": 15,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
     "repo": "reversteams/etigei-exile",
@@ -2344,7 +2344,7 @@
     "version": "0",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-06-07T10:32:26Z",
+    "lastUpdated": "2026-06-07T11:01:01Z",
     "stars": 8,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2960,7 +2960,7 @@
     "version": "0.11",
     "hidden": false,
     "author": "Кселирит",
-    "lastUpdated": "2026-06-06T13:20:01Z",
+    "lastUpdated": "2026-06-07T13:32:10Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3234,32 +3234,32 @@
     "description": "This mod replaces vanilla sprites with modified versions."
   },
   {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "version": "1.0.1",
-    "hidden": true,
-    "author": "Jojo",
-    "lastUpdated": "2026-06-07T00:42:15Z",
-    "stars": 5,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library mod that allows you to have multiple recipes in one block.\n\nPort & rewrite of the original mod, MutliCrafterLib, by Liplum."
-  },
-  {
     "repo": "aevorlum/liminal-protocol",
     "internalName": "lp",
     "name": "Liminal Protocol",
     "version": "V.test.0.0.37.926.05.29",
     "hidden": false,
     "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-07T10:33:04Z",
+    "lastUpdated": "2026-06-07T13:16:14Z",
     "stars": 5,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": true,
     "description": "[red]俺寻思之力"
+  },
+  {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "version": "1.0.1",
+    "hidden": true,
+    "author": "Jojo",
+    "lastUpdated": "2026-06-07T13:39:51Z",
+    "stars": 5,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod that allows you to have multiple recipes in one block.\n\nPort & rewrite of the original mod, MutliCrafterLib, by Liplum."
   },
   {
     "repo": "shimyytrov/turretex-java",
@@ -3626,6 +3626,20 @@
     "description": "A huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements."
   },
   {
+    "repo": "128oteml/ice-peak",
+    "internalName": "proxima",
+    "name": "Proxima Centauri",
+    "version": "1.0",
+    "hidden": false,
+    "author": "128_OTEML",
+    "lastUpdated": "2026-05-24T09:37:06Z",
+    "stars": 4,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "wmf-industries/terios",
     "internalName": "terios",
     "name": "Terios",
@@ -3688,7 +3702,7 @@
     "version": "0.1.9",
     "hidden": false,
     "author": "Choco Same",
-    "lastUpdated": "2026-06-07T09:29:32Z",
+    "lastUpdated": "2026-06-07T11:06:02Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -4212,20 +4226,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that colors the bridges"
-  },
-  {
-    "repo": "128oteml/ice-peak",
-    "internalName": "proxima",
-    "name": "Proxima Centauri",
-    "version": "1.0",
-    "hidden": false,
-    "author": "128_OTEML",
-    "lastUpdated": "2026-05-24T09:37:06Z",
-    "stars": 3,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "no9527dada/ctcoresystem",
