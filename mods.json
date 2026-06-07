@@ -230,7 +230,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-06-06T22:05:15Z",
+    "lastUpdated": "2026-06-07T18:59:35Z",
     "stars": 102,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -1918,20 +1918,6 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
-    "repo": "sh1penfire/meld-java",
-    "internalName": "meld2",
-    "name": "Meld: Sand and Sunder",
-    "version": "gameplay test 5.1",
-    "hidden": false,
-    "author": "Sh1p",
-    "lastUpdated": "2026-05-16T19:57:02Z",
-    "stars": 10,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
-  },
-  {
     "repo": "bloodmoddingocean-coder/visual_plus",
     "internalName": "vplus",
     "name": "Visual+",
@@ -1986,6 +1972,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
+  },
+  {
+    "repo": "sh1penfire/meld-java",
+    "internalName": "meld2",
+    "name": "Meld: Sand and Sunder",
+    "version": "gameplay test 5.1",
+    "hidden": false,
+    "author": "Sh1p",
+    "lastUpdated": "2026-06-07T18:38:07Z",
+    "stars": 10,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
   },
   {
     "repo": "i-hope1/mod.make",
@@ -2680,7 +2680,7 @@
     "version": "101.3",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-06-06T09:54:20Z",
+    "lastUpdated": "2026-06-07T18:31:35Z",
     "stars": 7,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -3251,15 +3251,15 @@
     "repo": "jojofr1/multicrafter",
     "internalName": "multicrafter",
     "name": "MultiCrafter",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "hidden": true,
-    "author": "Jojo",
-    "lastUpdated": "2026-06-07T13:39:51Z",
+    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
+    "lastUpdated": "2026-06-07T18:48:03Z",
     "stars": 5,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A library mod that allows you to have multiple recipes in one block.\n\nPort & rewrite of the original mod, MutliCrafterLib, by Liplum."
+    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
     "repo": "shimyytrov/turretex-java",
