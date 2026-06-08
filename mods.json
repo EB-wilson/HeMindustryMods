@@ -944,12 +944,26 @@
     "version": "1.8",
     "hidden": true,
     "author": "ApsZoldat",
-    "lastUpdated": "2026-06-08T01:15:05Z",
+    "lastUpdated": "2026-06-08T16:50:44Z",
     "stars": 25,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
+    "repo": "mindustrydagger/vanillaplus",
+    "internalName": "vanillaplus",
+    "name": "VanillaPlus",
+    "version": "Release 1.1",
+    "hidden": false,
+    "author": "MindustryDagger",
+    "lastUpdated": "2024-07-07T10:54:08Z",
+    "stars": 24,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
   },
   {
     "repo": "laohuajiofficial/multiblocklib",
@@ -978,20 +992,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provide an in-game GUI for DataPatcher."
-  },
-  {
-    "repo": "mindustrydagger/vanillaplus",
-    "internalName": "vanillaplus",
-    "name": "VanillaPlus",
-    "version": "Release 1.1",
-    "hidden": false,
-    "author": "MindustryDagger",
-    "lastUpdated": "2024-07-07T10:54:08Z",
-    "stars": 23,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
   },
   {
     "repo": "rednzba990/warboundindustriesmod",
@@ -2960,7 +2960,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "Кселирит",
-    "lastUpdated": "2026-06-08T07:57:26Z",
+    "lastUpdated": "2026-06-08T18:23:03Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": true,
