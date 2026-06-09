@@ -105,7 +105,7 @@
     "hidden": false,
     "author": "Slava0135",
     "lastUpdated": "2025-12-17T18:35:45Z",
-    "stars": 151,
+    "stars": 152,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -2128,20 +2128,6 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "jababadev/jababarium",
-    "internalName": "jababarium",
-    "name": "Jababarium",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Jababa",
-    "lastUpdated": "2026-06-04T18:35:52Z",
-    "stars": 9,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry greatest mod ever made!"
-  },
-  {
     "repo": "laomoze/warhammer",
     "internalName": "wh",
     "name": "WarHammer",
@@ -2154,6 +2140,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
+  },
+  {
+    "repo": "jababadev/jababarium",
+    "internalName": "jababarium",
+    "name": "Jababarium",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Jababa",
+    "lastUpdated": "2026-06-09T11:06:04Z",
+    "stars": 9,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry greatest mod ever made!"
   },
   {
     "repo": "slava0135/refine",
@@ -2344,7 +2344,7 @@
     "version": "0",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-06-09T06:45:08Z",
+    "lastUpdated": "2026-06-09T10:40:21Z",
     "stars": 8,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -4228,20 +4228,6 @@
     "description": "A mod that colors the bridges"
   },
   {
-    "repo": "no9527dada/ctcoresystem",
-    "internalName": "ctcoresystem",
-    "name": "创世神核心加载系统前置",
-    "version": "1.56",
-    "hidden": false,
-    "author": "NO:9527",
-    "lastUpdated": "2026-05-25T02:22:00Z",
-    "stars": 3,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Creators Core System"
-  },
-  {
     "repo": "m1cxzfw3q/logicextend",
     "internalName": "logic-extend",
     "name": "LogicExtend - 逻辑扩展",
@@ -4338,6 +4324,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "no9527dada/ctcoresystem",
+    "internalName": "ctcoresystem",
+    "name": "创世神核心加载系统前置",
+    "version": "1.56",
+    "hidden": false,
+    "author": "NO:9527",
+    "lastUpdated": "2026-06-09T09:32:40Z",
+    "stars": 3,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Creators Core System"
   },
   {
     "repo": "mythril382/sardines",
@@ -7574,20 +7574,6 @@
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
   },
   {
-    "repo": "576576/mdtc",
-    "internalName": "mdtc-mod",
-    "name": "MdtC Coder",
-    "version": "${version}",
-    "hidden": true,
-    "author": "576576",
-    "lastUpdated": "2026-05-17T08:54:08Z",
-    "stars": 0,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "In-game MdtC logic editor with dual-pane layout. Compile .mdtc to .mdtcode in real-time."
-  },
-  {
     "repo": "rodrigoasfr24022003/funnycrystal-mod",
     "internalName": "funnycrystal",
     "name": "Funny Crystal Mod",
@@ -7754,5 +7740,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod about fog, darkness and atmospheric technologies."
+  },
+  {
+    "repo": "576576/mdtc",
+    "internalName": "mdtc-mod",
+    "name": "MdtC Coder",
+    "version": "${version}",
+    "hidden": true,
+    "author": "576576",
+    "lastUpdated": "2026-06-09T10:23:50Z",
+    "stars": 0,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "In-game MdtC logic editor with dual-pane layout. Compile .mdtc to .mdtcode in real-time."
   }
 ]
