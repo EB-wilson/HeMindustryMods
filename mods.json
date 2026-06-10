@@ -35,7 +35,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-06-02T09:14:25Z",
-    "stars": 235,
+    "stars": 236,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -48,7 +48,7 @@
     "version": "2.7.79",
     "hidden": true,
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-10T12:22:33Z",
+    "lastUpdated": "2026-06-10T14:54:37Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -126,20 +126,6 @@
     "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
   },
   {
-    "repo": "3snake3/sapphirium",
-    "internalName": "sapphirium",
-    "name": "Sapphirium",
-    "version": "16.0",
-    "hidden": false,
-    "author": "Snake",
-    "lastUpdated": "2026-05-19T13:31:48Z",
-    "stars": 134,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
-  },
-  {
     "repo": "ra2exe/saturation-firepower",
     "internalName": "sfire-mod",
     "name": "Saturation Firepower Mod",
@@ -147,11 +133,25 @@
     "hidden": false,
     "author": "RAdea.exe",
     "lastUpdated": "2026-05-24T08:06:05Z",
-    "stars": 133,
+    "stars": 134,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
     "description": "Hell time, once for all\n\nThis mod adds new items, buildings, units, and turrets, and has a planet for you to explore.\nMore campaign maps WIP.\nWarning: This mod makes certain modifications to the original game content to accommodate the mod's operation."
+  },
+  {
+    "repo": "3snake3/sapphirium",
+    "internalName": "sapphirium",
+    "name": "Sapphirium",
+    "version": "16.0",
+    "hidden": false,
+    "author": "Snake",
+    "lastUpdated": "2026-06-10T14:09:07Z",
+    "stars": 134,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
   },
   {
     "repo": "eschatologue/unlimited-armament-works",
@@ -216,7 +216,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-06-08T20:45:34Z",
+    "lastUpdated": "2026-06-10T16:50:40Z",
     "stars": 103,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -532,6 +532,20 @@
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
+    "repo": "deercarbonate/azimuth",
+    "internalName": "azimut",
+    "name": "Azimut",
+    "version": "0.32",
+    "hidden": false,
+    "author": "DeerCarbonate",
+    "lastUpdated": "2026-06-10T11:21:43Z",
+    "stars": 43,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
+  },
+  {
     "repo": "00sunray00/scheme-size-port",
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
@@ -544,20 +558,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
-  },
-  {
-    "repo": "deercarbonate/azimuth",
-    "internalName": "azimut",
-    "name": "Azimut",
-    "version": "0.32",
-    "hidden": false,
-    "author": "DeerCarbonate",
-    "lastUpdated": "2026-06-10T11:21:43Z",
-    "stars": 42,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
   },
   {
     "repo": "uenhe/fire",
@@ -672,20 +672,6 @@
     "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
-    "repo": "coaldeficit/moredefences",
-    "internalName": "md3",
-    "name": "MoreDefences",
-    "version": "3.2.0",
-    "hidden": false,
-    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-06-02T23:41:38Z",
-    "stars": 38,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
-  },
-  {
     "repo": "nullotte/carpe-diem",
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
@@ -698,6 +684,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
+  },
+  {
+    "repo": "coaldeficit/moredefences",
+    "internalName": "md3",
+    "name": "MoreDefences",
+    "version": "3.2.0",
+    "hidden": false,
+    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
+    "lastUpdated": "2026-06-10T16:22:02Z",
+    "stars": 38,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
   },
   {
     "repo": "xpdustry/claj",
@@ -1350,7 +1350,7 @@
     "version": "v3-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-08T13:21:56Z",
+    "lastUpdated": "2026-06-10T15:08:30Z",
     "stars": 16,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1638,20 +1638,6 @@
     "description": "Mod add tanks, aircraft and naval ships"
   },
   {
-    "repo": "jennii94900-tech/mod",
-    "internalName": "ochpoch-mob",
-    "name": "Hooligan",
-    "version": "2.2",
-    "hidden": false,
-    "author": "Hello,Andrei",
-    "lastUpdated": "2026-05-23T12:38:34Z",
-    "stars": 12,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
-  },
-  {
     "repo": "wantechfan/mindustry-cursed-bundles",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
@@ -1678,6 +1664,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "jennii94900-tech/mod",
+    "internalName": "ochpoch-mob",
+    "name": "Hooligan",
+    "version": "2.2",
+    "hidden": false,
+    "author": "Hello,Andrei",
+    "lastUpdated": "2026-06-10T15:05:46Z",
+    "stars": 12,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
   },
   {
     "repo": "jhrushbe/moardustry",
@@ -1974,6 +1974,20 @@
     "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
   },
   {
+    "repo": "jababadev/jababarium",
+    "internalName": "jababarium",
+    "name": "Jababarium",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Jababa",
+    "lastUpdated": "2026-06-09T11:06:04Z",
+    "stars": 10,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry greatest mod ever made!"
+  },
+  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -2142,20 +2156,6 @@
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
-    "repo": "jababadev/jababarium",
-    "internalName": "jababarium",
-    "name": "Jababarium",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Jababa",
-    "lastUpdated": "2026-06-09T11:06:04Z",
-    "stars": 9,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry greatest mod ever made!"
-  },
-  {
     "repo": "slava0135/refine",
     "internalName": "refine",
     "name": "reFine",
@@ -2282,6 +2282,20 @@
     "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
   },
   {
+    "repo": "piggychu620/mindustryrandomplanet",
+    "internalName": "ec620",
+    "name": "Random Planet v0.2.4",
+    "version": "0.2.4",
+    "hidden": false,
+    "author": "PiggyChu620",
+    "lastUpdated": "2025-12-31T06:41:47Z",
+    "stars": 8,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
+  },
+  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2344,7 +2358,7 @@
     "version": "0",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-06-10T06:40:30Z",
+    "lastUpdated": "2026-06-10T14:50:17Z",
     "stars": 8,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2504,20 +2518,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[accent]MobileConsole v1.0 - Developer Tools for Mobile Players[]\n[white]📱 Full console access on your phone or tablet![]\n[yellow]⚠️ This mod is specifically designed for mobile devices where console features are normally unavailable.[]\n[red]⚠️ SINGLE-PLAYER ONLY - This mod does not work in multiplayer![]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[red]⚠️ IMPORTANT DISCLAIMERS:[]\n[yellow]• Not all commands may work on every device or game version[]\n[yellow]• Commands only work in single-player mode[]\n[yellow]• Building commands require appropriate permissions[]\n[yellow]• Use at your own risk - some commands may affect game performance[]\n[yellow]• This mod is in active development - bugs may occur[]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]📋 What Is This?[]\nMobileConsole brings developer tools to your mobile device. Build, spawn, modify, and control your game with over 20 commands optimized for touch screens.\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]🎮 How to Access:[]\n[white]In-Game:[]\n• Type [cyan]/customhelp[] in chat to see all commands\n• Type [cyan]/chelp[] for console system help\n[white]Settings Menu:[]\n• Open Settings → Developer Console\n• Tap [cyan]Open Console[] button\n[white]Quick Commands:[]\n• Type any command in chat starting with /\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🏗️ Building Commands:[]\n[cyan]/wallcore [type][] - Builds walls around your core\n[cyan]/fill     [] - Fill area with blocks\n[cyan]/clear [radius][] - Clear buildings around position\n[cyan]/conveyor    [] - Build conveyor lines\n[cyan]/powerline    [] - Create power connections\n[cyan]/wallline     [type][] - Draw wall lines\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[yellow]🔧 Modification Commands:[]\n[cyan]/upgrade  [] - Upgrade building types\n[cyan]/replace  [] - Replace blocks\n[cyan]/toggle [block][] - Enable/disable buildings\n[cyan]/repair[] - Repair all damaged buildings\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[royal]⚔️ Unit Commands:[]\n[cyan]/spawn   [x] [y][] - Spawn units\n[cyan]/healunits[] - Restore all friendly units to full health\n[cyan]/rally[] - Command units to your position\n[cyan]/killenemies [radius][] - Eliminate enemies\n[cyan]/units[] - Display unit statistics\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]⚡ Quick Actions:[]\n[cyan]/turrets[] - Toggle all turrets\n[cyan]/power[] - Display power grid statistics\n[cyan]/resources[] - Check core resources\n[cyan]/screenshot[] - Take clean screenshot\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🖥️ Console System:[]\n[cyan]/chelp[] - Show console help\n[cyan]/clear[] - Clear console logs\n[cyan]/scan[] - Scan for available commands\n[cyan]/stats[] - Show console statistics\n[cyan]/commands[] - List all detected commands\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]🎯 Features:[]\n• Command history (last 50 commands)\n• Favorites system\n• Log management (1,500 entries)\n• Search and filter functionality\n• Touch-optimized interface\n• Color-coded logs\n• Mod management system\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[white]Type [cyan]/customhelp[] in chat or open Settings → Developer Console to start![]\n[yellow]Report issues on GitHub: github.com/SamielXD/MobileConsole[]\n[white]- SamielXD[]"
-  },
-  {
-    "repo": "piggychu620/mindustryrandomplanet",
-    "internalName": "ec620",
-    "name": "Random Planet v0.2.4",
-    "version": "0.2.4",
-    "hidden": false,
-    "author": "PiggyChu620",
-    "lastUpdated": "2025-12-31T06:41:47Z",
-    "stars": 7,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
   },
   {
     "repo": "fivedextor/axoxium",
@@ -2884,6 +2884,20 @@
     "description": "Add an admin button."
   },
   {
+    "repo": "meepoffaith/extra-sand-redux",
+    "internalName": "",
+    "name": "Extra Sand in the Sandbox - Redux",
+    "version": "3.5",
+    "hidden": false,
+    "author": "MEEP of Faith",
+    "lastUpdated": "2026-05-25T16:36:10Z",
+    "stars": 6,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
+  },
+  {
     "repo": "redloong9527/logic-chinese-localization",
     "internalName": "logicchineselocalization",
     "name": "逻辑汉化补丁v1.3.1",
@@ -2960,7 +2974,7 @@
     "version": "1.01",
     "hidden": false,
     "author": "Кселирит",
-    "lastUpdated": "2026-06-10T12:56:17Z",
+    "lastUpdated": "2026-06-10T15:00:57Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3204,20 +3218,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A project of a mod that will include three planets but so far only two is playable.\n\nThis mod has to be played on 147+\n\nRusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential.\n\nDunes is a wasted planet near serpulo but far from the sun, take control and provide chaos to this dead planet.\n\nQuick notes: [\nLushion is currently in WIP.\nBe sure to have weather graphics for weather's if your on a low end device turn it off.\nMake sure to reinstall regular.\nGive a star if you enjoy Thanks!!!.\nThe sound is being worked on so don't worry to much\nmany sectors are kinda unbalanced so be warned iam balancing it \n}"
-  },
-  {
-    "repo": "meepoffaith/extra-sand-redux",
-    "internalName": "",
-    "name": "Extra Sand in the Sandbox - Redux",
-    "version": "3.5",
-    "hidden": false,
-    "author": "MEEP of Faith",
-    "lastUpdated": "2026-05-25T16:36:10Z",
-    "stars": 5,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
   },
   {
     "repo": "fghjk455rg/items-reforged-by-captain-doshik",
@@ -3682,32 +3682,32 @@
     "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.4.3",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-06-08T04:16:03Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
     "repo": "kyokonagaro/viridium",
     "internalName": "viridium",
     "name": "Viridium",
     "version": "0.1.9",
     "hidden": false,
     "author": "Choco Same",
-    "lastUpdated": "2026-06-10T11:10:09Z",
+    "lastUpdated": "2026-06-10T12:58:22Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mod enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one.\n\nThanks to RednzBA990 (Github) for the little help!"
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.4.3",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-06-10T13:43:36Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
@@ -5040,20 +5040,6 @@
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "version": " kinda unfinished",
-    "hidden": false,
-    "author": "oleskiy",
-    "lastUpdated": "2026-06-09T14:15:22Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -5066,6 +5052,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·5 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, High-Level Divisions, Warbound Industries, [Better Vanilla] y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "version": " kinda unfinished",
+    "hidden": false,
+    "author": "oleskiy",
+    "lastUpdated": "2026-06-10T13:32:32Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -6146,6 +6146,20 @@
     "description": "A light mod with a funny name and a focus on extending Surge-alloy technology, adds a few unique turrets and production buildings with (what I think are) some interesting mechanics.\r\n\r\nMade for Serpulo, the mod has integration for/works well with blocks like the tsunami and wave, so try and find some usecases, turret combos, and whatnot.\r\n\r\nReports on bugs, balancing issues, or simply suggestions are very much welcome."
   },
   {
+    "repo": "m1cxzfw3q/ruikeui",
+    "internalName": "rui-ke-ui",
+    "name": "RuiKe UI",
+    "version": "0.2",
+    "hidden": true,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-04-17T10:21:07Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "异验丁真，鉴定为：抽锐刻五抽的"
+  },
+  {
     "repo": "hungrycloud4913/the-reformed-universes-project",
     "internalName": "univ-project",
     "name": "The Reformed Universe Project",
@@ -7014,20 +7028,6 @@
     "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
   },
   {
-    "repo": "edward-bill/inf-processor",
-    "internalName": "inf-processor",
-    "name": "World processor 2",
-    "version": "1.0",
-    "hidden": false,
-    "author": "exec4tbe",
-    "lastUpdated": "2024-12-16T15:22:17Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "world processors that are accesible from anywhere."
-  },
-  {
     "repo": "willoizcitron/timecontroljava",
     "internalName": "",
     "name": "Time Control Java",
@@ -7518,20 +7518,6 @@
     "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
   },
   {
-    "repo": "m1cxzfw3q/ruikeui",
-    "internalName": "rui-ke-ui",
-    "name": "RuiKe UI",
-    "version": "0.2",
-    "hidden": true,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-04-17T10:21:07Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "异验丁真，鉴定为：抽锐刻五抽的"
-  },
-  {
     "repo": "sam-k0/mindustry.hpbars",
     "internalName": "sam-k0-hp-bars",
     "name": "HP Bars",
@@ -7756,20 +7742,6 @@
     "description": "In-game MdtC logic editor with dual-pane layout. Compile .mdtc to .mdtcode in real-time."
   },
   {
-    "repo": "edward-bill/linked-logistics-v2",
-    "internalName": "linked-logistics-v2",
-    "name": "Linked Logistics V2",
-    "version": "0.1.0",
-    "hidden": false,
-    "author": "exec4tble",
-    "lastUpdated": "2026-06-09T16:28:47Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Shared/Linked network to store/transport items and liquids."
-  },
-  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
@@ -7782,5 +7754,33 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "三角模组2.x半成品"
+  },
+  {
+    "repo": "edward-bill/linked-logistics-v2",
+    "internalName": "linked-logistics-v2",
+    "name": "Linked Logistics V2",
+    "version": "0.1.0",
+    "hidden": false,
+    "author": "exec4tble",
+    "lastUpdated": "2026-06-10T14:48:06Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Shared/Linked network to store/transport items and liquids."
+  },
+  {
+    "repo": "edward-bill/inf-processor",
+    "internalName": "inf-processor",
+    "name": "World processor 2",
+    "version": "1.0",
+    "hidden": false,
+    "author": "exec4tbe",
+    "lastUpdated": "2026-06-10T14:55:22Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "world processors that are accesible from anywhere."
   }
 ]
