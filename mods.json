@@ -6482,20 +6482,6 @@
     "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n一个多配方库的使用示例模组"
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "version": "1.2",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2026-06-07T22:49:36Z",
-    "stars": 1,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "oscillatorium/martin",
     "internalName": "martin",
     "name": "Martin's mod",
@@ -6564,6 +6550,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "version": "1.2",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2026-06-12T22:36:09Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
