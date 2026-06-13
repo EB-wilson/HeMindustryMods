@@ -482,7 +482,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-06-08T21:54:23Z",
+    "lastUpdated": "2026-06-13T17:59:43Z",
     "stars": 46,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -650,7 +650,7 @@
     "version": "(Beta) Build 11",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-06-13T13:28:49Z",
+    "lastUpdated": "2026-06-13T18:53:51Z",
     "stars": 39,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -1700,7 +1700,7 @@
     "version": "1.13",
     "hidden": true,
     "author": "WantechFan",
-    "lastUpdated": "2026-06-13T13:30:55Z",
+    "lastUpdated": "2026-06-13T18:42:42Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5040,20 +5040,6 @@
     "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·5 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, High-Level Divisions, Warbound Industries, [Better Vanilla] y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "version": " kinda unfinished",
-    "hidden": false,
-    "author": "oleskiy",
-    "lastUpdated": "2026-06-10T13:32:32Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -5080,6 +5066,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is a java edition of my mod that eventually will replace the json one"
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "version": " kinda unfinished",
+    "hidden": false,
+    "author": "oleskiy",
+    "lastUpdated": "2026-06-13T19:12:00Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
