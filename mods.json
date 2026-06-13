@@ -230,7 +230,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-06-13T15:24:31Z",
+    "lastUpdated": "2026-06-13T22:58:36Z",
     "stars": 104,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -357,7 +357,7 @@
     "hidden": false,
     "author": "Alon",
     "lastUpdated": "2026-06-13T01:59:57Z",
-    "stars": 62,
+    "stars": 63,
     "minGameVersion": "157.4",
     "hasScripts": false,
     "hasJava": true,
@@ -2170,20 +2170,6 @@
     "description": "Adds extra utilities to map editor."
   },
   {
-    "repo": "yroo1/kratha",
-    "internalName": "kratha",
-    "name": "KRATHA Preview",
-    "version": "0",
-    "hidden": false,
-    "author": "namaka",
-    "lastUpdated": "2026-06-13T10:47:54Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod about Terraplasm.\n\n[gray]This a preview version of KRATHA, meaning it is a very early version and might not reflect final version.\n\nThere are already 2 sectors which is fully playable."
-  },
-  {
     "repo": "laomoze/warhammer",
     "internalName": "wh",
     "name": "WarHammer",
@@ -2196,6 +2182,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
+  },
+  {
+    "repo": "yroo1/kratha",
+    "internalName": "kratha",
+    "name": "KRATHA Preview",
+    "version": "0",
+    "hidden": false,
+    "author": "namaka",
+    "lastUpdated": "2026-06-13T22:43:50Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod about Terraplasm.\n\n[gray]This a preview version of KRATHA, meaning it is a very early version and might not reflect final version.\n\nThere are already 2 sectors which is fully playable."
   },
   {
     "repo": "slava0135/refine",
@@ -6496,20 +6496,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "version": "1.2",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2026-06-12T22:36:09Z",
-    "stars": 1,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "determination-wind/pinyinsearchsupport",
     "internalName": "pinyin-search-support",
     "name": "PinyinSearchSupport / 拼音搜索支持",
@@ -6564,6 +6550,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n一个多配方库的使用示例模组"
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "version": "1.2",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2026-06-13T21:55:54Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
