@@ -2366,6 +2366,20 @@
     "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.6. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. \nUPDATES:\nLICHEN UPDATE (v1.2)\nFLAMEWAR UPDATE (v1.3)\nTETRA UPDATE (v1.4)\nQOL UPDATE (v1.5)\nPILOTS UPDATE (v1.6) \n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add more campaign features!"
   },
   {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "version": "1.1.0",
+    "hidden": true,
+    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
+    "lastUpdated": "2026-06-07T18:48:03Z",
+    "stars": 8,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
+  },
+  {
     "repo": "eb-wilson/modpacker",
     "internalName": "mod-packer",
     "name": "Mod Packer",
@@ -2952,20 +2966,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
-  },
-  {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "version": "1.1.0",
-    "hidden": true,
-    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-06-07T18:48:03Z",
-    "stars": 6,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
@@ -5102,7 +5102,7 @@
     "version": "1.1.1",
     "hidden": false,
     "author": "bebebe",
-    "lastUpdated": "2026-06-14T15:51:24Z",
+    "lastUpdated": "2026-06-14T19:19:20Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": true,
