@@ -48,7 +48,7 @@
     "version": "2.7.79",
     "hidden": true,
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-12T17:23:20Z",
+    "lastUpdated": "2026-06-14T20:43:13Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -216,7 +216,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-06-14T12:21:12Z",
+    "lastUpdated": "2026-06-14T20:51:28Z",
     "stars": 105,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -4956,20 +4956,6 @@
     "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir.\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир.\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
   },
   {
-    "repo": "caboosket/annoica",
-    "internalName": "annoica",
-    "name": "Annoica",
-    "version": "1.2.0",
-    "hidden": false,
-    "author": "Caboosket",
-    "lastUpdated": "2026-05-19T23:05:46Z",
-    "stars": 2,
-    "minGameVersion": "153",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "determination-wind/foreignservertranslator",
     "internalName": "foreign-server-translator",
     "name": "Foreign Server Translator / 外语服务器翻译",
@@ -5068,20 +5054,6 @@
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "version": "0.4 beta",
-    "hidden": false,
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-06-14T05:36:42Z",
-    "stars": 2,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, High-Level Divisions, Warbound Industries, [Better Vanilla], Liminal Protocol y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -5096,18 +5068,46 @@
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
+    "repo": "caboosket/annoica",
+    "internalName": "annoica",
+    "name": "Annoica",
+    "version": "1.2.0",
+    "hidden": false,
+    "author": "Caboosket",
+    "lastUpdated": "2026-06-14T20:13:59Z",
+    "stars": 2,
+    "minGameVersion": "153",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
     "version": "1.1.1",
     "hidden": false,
     "author": "bebebe",
-    "lastUpdated": "2026-06-14T19:19:20Z",
+    "lastUpdated": "2026-06-14T20:37:21Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": true,
     "hasJava": false,
     "description": "written entirely in JavaScript"
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "version": "0.4 beta",
+    "hidden": false,
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-06-14T20:45:17Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, High-Level Divisions, Warbound Industries, [Better Vanilla], Liminal Protocol y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
     "repo": "agzam4/mindustry-units-mod",
