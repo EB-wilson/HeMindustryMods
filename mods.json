@@ -48,7 +48,7 @@
     "version": "2.7.79",
     "hidden": true,
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-14T20:43:13Z",
+    "lastUpdated": "2026-06-15T19:24:02Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -482,7 +482,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-06-15T01:33:23Z",
+    "lastUpdated": "2026-06-15T21:32:39Z",
     "stars": 47,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -602,20 +602,6 @@
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
-    "repo": "itskirby69/minedusty",
-    "internalName": "",
-    "name": "MineDusty",
-    "version": "1.2.0",
-    "hidden": false,
-    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-06-12T21:24:10Z",
-    "stars": 40,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
-  },
-  {
     "repo": "nullotte/carpe-diem",
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
@@ -642,6 +628,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.9\n\n## Highlight\n1. 新增Profiler\n2. 构建支持增量编译\n3. 优化界面布局和性能\n4. 禁用JDWP功能（根本无法使用Java启动）\n5. 修复一些bug\n- 修复areaTable的`\\t`显示问题和drawMultiText的bug\n- 修复Tester代码补全快捷键冲突问题\n- 改Trigger.postDraw为Trigger.draw适配Helium\n- 修复ReferringMoveListener的只显示一会的问题\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
+  },
+  {
+    "repo": "itskirby69/minedusty",
+    "internalName": "",
+    "name": "MineDusty",
+    "version": "1.2.0",
+    "hidden": false,
+    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
+    "lastUpdated": "2026-06-15T21:08:36Z",
+    "stars": 40,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
   },
   {
     "repo": "eb-wilson/universecore",
@@ -2142,20 +2142,6 @@
     "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
-    "repo": "mindustry-antigrief/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "version": "2.6.6",
-    "hidden": true,
-    "author": "io community",
-    "lastUpdated": "2026-05-06T09:38:51Z",
-    "stars": 9,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Improves your experience on the official io  Flood server."
-  },
-  {
     "repo": "thegodshand777/extra-editor",
     "internalName": "extra-editor",
     "name": "Extra Editor",
@@ -2224,6 +2210,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mod that adds new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n(Note: This is not a Neoplasm replica. It is different.)\n\n[gray]This an early version of KRATHA which is under heavy development. There are currently 3 playable sectors."
+  },
+  {
+    "repo": "mindustry-antigrief/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "version": "2.7",
+    "hidden": true,
+    "author": "io community",
+    "lastUpdated": "2026-06-15T21:52:55Z",
+    "stars": 9,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Improves your experience on the official io  Flood server."
   },
   {
     "repo": "slava0135/refine",
@@ -2722,7 +2722,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-15T18:21:33Z",
+    "lastUpdated": "2026-06-15T20:04:22Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
