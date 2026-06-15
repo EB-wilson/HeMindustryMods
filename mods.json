@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-05-31T12:36:30Z",
+    "lastUpdated": "2026-06-15T17:37:54Z",
     "stars": 584,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -216,7 +216,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-06-15T12:14:09Z",
+    "lastUpdated": "2026-06-15T12:15:06Z",
     "stars": 105,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -329,7 +329,7 @@
     "hidden": true,
     "author": "Pointifix",
     "lastUpdated": "2026-05-30T09:43:24Z",
-    "stars": 66,
+    "stars": 67,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
@@ -356,7 +356,7 @@
     "version": "Alpha-6484",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-06-13T01:59:57Z",
+    "lastUpdated": "2026-06-15T14:06:50Z",
     "stars": 63,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -1280,7 +1280,7 @@
     "version": "v3-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-15T11:28:14Z",
+    "lastUpdated": "2026-06-15T15:04:42Z",
     "stars": 17,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2214,16 +2214,16 @@
   {
     "repo": "yroo1/kratha",
     "internalName": "kratha",
-    "name": "KRATHA Preview",
+    "name": "KRATHA",
     "version": "0",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-06-15T12:03:47Z",
+    "lastUpdated": "2026-06-15T16:00:48Z",
     "stars": 9,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mod about Terraplasm.\n\n[gray]This a preview version of KRATHA, meaning it is a very early version and might not reflect final version.\n\nThere are already 2 sectors which is fully playable."
+    "description": "A Mod that adds new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n(Note: This is not a Neoplasm replica. It is different.)\n\n[gray]This an early version of KRATHA which is under heavy development. There are currently 3 playable sectors."
   },
   {
     "repo": "slava0135/refine",
@@ -2716,6 +2716,20 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "1.03",
+    "hidden": false,
+    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
+    "lastUpdated": "2026-06-15T18:21:33Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
     "repo": "heroblack303/stardustry",
     "internalName": "stardustry",
     "name": "Stardustry",
@@ -2980,20 +2994,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
-  },
-  {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-15T12:13:24Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "vadit2020/betamindytranslated",
@@ -3262,20 +3262,6 @@
     "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "version": "V.test.0.0.38.026.06.07",
-    "hidden": false,
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-14T16:35:22Z",
-    "stars": 5,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
-  },
-  {
     "repo": "unquis/fading-revelations-remake",
     "internalName": "fading-revelations-remake",
     "name": "Fading Revelations Remake",
@@ -3288,6 +3274,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "version": "V.test.0.0.38.026.06.07",
+    "hidden": false,
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-06-15T16:09:19Z",
+    "stars": 5,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
   },
   {
     "repo": "shimyytrov/turretex-java",
