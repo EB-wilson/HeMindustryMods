@@ -188,7 +188,7 @@
     "version": "1.13.1",
     "hidden": true,
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2026-06-16T09:11:34Z",
+    "lastUpdated": "2026-06-16T14:23:16Z",
     "stars": 122,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -616,20 +616,6 @@
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "(Beta) Build 11",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2026-06-14T11:16:01Z",
-    "stars": 40,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
-  },
-  {
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
     "name": "mod-tools",
@@ -656,6 +642,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
+  },
+  {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "(Beta) Build 11",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2026-06-16T12:31:05Z",
+    "stars": 40,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
     "repo": "rogeh4/virtual-scheme-pack-",
@@ -721,7 +721,7 @@
     "hidden": false,
     "author": "Haznobrain",
     "lastUpdated": "2026-02-22T00:24:29Z",
-    "stars": 34,
+    "stars": 33,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
@@ -916,7 +916,7 @@
     "version": "1.8",
     "hidden": true,
     "author": "ApsZoldat",
-    "lastUpdated": "2026-06-16T02:06:02Z",
+    "lastUpdated": "2026-06-16T16:38:14Z",
     "stars": 26,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1280,7 +1280,7 @@
     "version": "v3-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-16T10:40:17Z",
+    "lastUpdated": "2026-06-16T15:03:44Z",
     "stars": 17,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1974,20 +1974,6 @@
     "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.3",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-06-15T09:18:22Z",
-    "stars": 10,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
-  },
-  {
     "repo": "wantechfan/mindustry-cool-musics",
     "internalName": "cool-musics",
     "name": "Cool Musics",
@@ -2000,6 +1986,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.3",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-06-16T11:11:51Z",
+    "stars": 10,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "version": "1.2.0",
+    "hidden": true,
+    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
+    "lastUpdated": "2026-06-16T12:56:49Z",
+    "stars": 10,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -2156,34 +2170,6 @@
     "description": "Adds extra utilities to map editor."
   },
   {
-    "repo": "laomoze/warhammer",
-    "internalName": "wh",
-    "name": "WarHammer",
-    "version": "beta.2.1",
-    "hidden": false,
-    "author": "LaoMoze",
-    "lastUpdated": "2026-06-13T15:55:51Z",
-    "stars": 9,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
-  },
-  {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "version": "1.1.0",
-    "hidden": true,
-    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-06-14T21:41:54Z",
-    "stars": 9,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2224,6 +2210,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mod that adds new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n(Note: This is not a Neoplasm replica. It is different.)\n\n[gray]This an early version of KRATHA which is under heavy development. There are currently 3 playable sectors."
+  },
+  {
+    "repo": "laomoze/warhammer",
+    "internalName": "wh",
+    "name": "WarHammer",
+    "version": "beta.2.1",
+    "hidden": false,
+    "author": "LaoMoze",
+    "lastUpdated": "2026-06-16T11:41:42Z",
+    "stars": 9,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
     "repo": "slava0135/refine",
@@ -2688,13 +2688,27 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.3",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-06-16T11:09:28Z",
+    "stars": 7,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
     "version": "101.3",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-06-15T09:16:08Z",
+    "lastUpdated": "2026-06-16T11:11:01Z",
     "stars": 7,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -2708,26 +2722,12 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-16T10:08:23Z",
+    "lastUpdated": "2026-06-16T16:49:10Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.3",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-06-16T11:09:28Z",
-    "stars": 7,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "heroblack303/stardustry",
@@ -3248,34 +3248,6 @@
     "description": "This mod replaces vanilla sprites with modified versions."
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.5.2",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-06-13T14:54:21Z",
-    "stars": 5,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "version": "V.test.0.0.38.026.06.07",
-    "hidden": false,
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-15T16:09:19Z",
-    "stars": 5,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
-  },
-  {
     "repo": "unquis/fading-revelations-remake",
     "internalName": "fading-revelations-remake",
     "name": "Fading Revelations Remake",
@@ -3288,6 +3260,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.5.2",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-06-16T13:51:11Z",
+    "stars": 5,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "version": "V.test.0.0.38.126.06.17",
+    "hidden": false,
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-06-16T16:16:57Z",
+    "stars": 5,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
   },
   {
     "repo": "shimyytrov/turretex-java",
@@ -5102,7 +5102,7 @@
     "version": "1.1.1",
     "hidden": false,
     "author": "bebebe",
-    "lastUpdated": "2026-06-16T10:35:29Z",
+    "lastUpdated": "2026-06-16T11:50:49Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -6454,20 +6454,6 @@
     "description": "Quality-of-life pack: hide weather/fog/darkness, turret ranges, health bars, damage numbers, wave preview, power panel, ammo DPS stats, and a one-click miner that lays drills, bridges and water extractors. All client-side, safe on multiplayer servers."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.3.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-06-12T17:45:06Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "determination-wind/pinyinsearchsupport",
     "internalName": "pinyin-search-support",
     "name": "PinyinSearchSupport / 拼音搜索支持",
@@ -6566,18 +6552,32 @@
     "description": "This mod adds neoplasm version of all liquids (except Water which already has it's own neoplasm)."
   },
   {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.3.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-06-16T15:05:16Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
     "repo": "xerxes-anominus/randustry",
     "internalName": "xr",
     "name": "Randustry",
-    "version": "I",
+    "version": "III",
     "hidden": false,
     "author": "[#0000ff]Xe[#0066ff]rx[#00ccff]es[]",
-    "lastUpdated": "2026-06-16T10:35:53Z",
+    "lastUpdated": "2026-06-16T15:23:29Z",
     "stars": 1,
     "minGameVersion": "158",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Gambling"
+    "description": "Gambling\n\nUpdate:\n_Ver I: Unit Health And Armor.\n_Ver II: Unit Speed And Turret Reload.\n_Ver III: Drills Drill Time, Crafters Craft Time And Generators Power Production."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
