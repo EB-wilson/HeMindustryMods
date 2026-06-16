@@ -48,7 +48,7 @@
     "version": "2.7.79",
     "hidden": true,
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-15T19:24:02Z",
+    "lastUpdated": "2026-06-16T21:30:58Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5082,20 +5082,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "version": "0.4 beta",
-    "hidden": false,
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-06-16T02:23:52Z",
-    "stars": 2,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, High-Level Divisions, Warbound Industries, [Better Vanilla], Liminal Protocol y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
-  },
-  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
@@ -5108,6 +5094,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "written entirely in JavaScript"
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "version": "0.4 beta",
+    "hidden": false,
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-06-16T23:06:51Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, High-Level Divisions, Warbound Industries, [Better Vanilla], Liminal Protocol y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -7824,5 +7824,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "mod made by Insawct, 13 turret BulletType examples for you my pookie <3"
+  },
+  {
+    "repo": "arctichor1zon/techtreeunlockerv8",
+    "internalName": "unlock-tech-tree-mod",
+    "name": "UnlockTechTreeMod",
+    "version": "2.0",
+    "hidden": false,
+    "author": "ArcticHor1zon",
+    "lastUpdated": "2026-06-16T21:26:39Z",
+    "stars": 0,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Instantly unlock all research on the tech-tree for Serpulo and Erekir. Features: per-planet unlock/reset, auto-unlock on campaign load. Used raffel080108's Tech Tree Unlocker"
   }
 ]
