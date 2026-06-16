@@ -35,7 +35,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-06-02T09:14:25Z",
-    "stars": 238,
+    "stars": 239,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -482,7 +482,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-06-15T21:32:39Z",
+    "lastUpdated": "2026-06-16T01:08:18Z",
     "stars": 47,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -574,6 +574,20 @@
     "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
   },
   {
+    "repo": "eb-wilson/universecore",
+    "internalName": "universe-core",
+    "name": "Universe Core",
+    "version": "2.3.1",
+    "hidden": false,
+    "author": "EBwilson",
+    "lastUpdated": "2025-04-26T08:19:53Z",
+    "stars": 40,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
     "repo": "oleglysukhin/cheat",
     "internalName": "cheat",
     "name": "CheatMod",
@@ -636,26 +650,12 @@
     "version": "1.2.0",
     "hidden": false,
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-06-15T21:08:36Z",
+    "lastUpdated": "2026-06-15T22:36:47Z",
     "stars": 40,
     "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
-  },
-  {
-    "repo": "eb-wilson/universecore",
-    "internalName": "universe-core",
-    "name": "Universe Core",
-    "version": "2.3.1",
-    "hidden": false,
-    "author": "EBwilson",
-    "lastUpdated": "2025-04-26T08:19:53Z",
-    "stars": 39,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "rogeh4/virtual-scheme-pack-",
@@ -790,7 +790,7 @@
     "version": "v1.3",
     "hidden": false,
     "author": "SezoVK",
-    "lastUpdated": "2026-06-15T00:36:23Z",
+    "lastUpdated": "2026-06-16T04:07:01Z",
     "stars": 29,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -916,7 +916,7 @@
     "version": "1.8",
     "hidden": true,
     "author": "ApsZoldat",
-    "lastUpdated": "2026-06-14T15:26:16Z",
+    "lastUpdated": "2026-06-16T02:06:02Z",
     "stars": 26,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1526,20 +1526,6 @@
     "description": "A mod that adds a new planet, where we will play in underground"
   },
   {
-    "repo": "yroo1/astheriveregenesis",
-    "internalName": "arg",
-    "name": "A:RG",
-    "version": "0.33",
-    "hidden": false,
-    "author": "nyle & yroo",
-    "lastUpdated": "2026-05-09T01:50:51Z",
-    "stars": 13,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
-  },
-  {
     "repo": "no9527dada/ct-origin",
     "internalName": "creators",
     "name": "创世神2-起源独立版",
@@ -1552,6 +1538,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
+  },
+  {
+    "repo": "yroo1/astheriveregenesis",
+    "internalName": "arg",
+    "name": "A:RG",
+    "version": "0.33",
+    "hidden": false,
+    "author": "nyle & yroo",
+    "lastUpdated": "2026-06-16T02:34:06Z",
+    "stars": 13,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
   },
   {
     "repo": "aforgetfulness/towerdefense",
@@ -1820,6 +1820,20 @@
     "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
+    "repo": "jababadev/jababarium",
+    "internalName": "jababarium",
+    "name": "Jababarium",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Jababa",
+    "lastUpdated": "2026-06-09T11:06:04Z",
+    "stars": 11,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry greatest mod ever made!"
+  },
+  {
     "repo": "hao-1337/mindustry-better-vanilla",
     "internalName": "hao1337-mod",
     "name": "[ Better Vanilla ]",
@@ -1972,20 +1986,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
-  },
-  {
-    "repo": "jababadev/jababarium",
-    "internalName": "jababarium",
-    "name": "Jababarium",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Jababa",
-    "lastUpdated": "2026-06-09T11:06:04Z",
-    "stars": 10,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry greatest mod ever made!"
   },
   {
     "repo": "huanxefh/project-reindustrialization",
@@ -2198,20 +2198,6 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "yroo1/kratha",
-    "internalName": "kratha",
-    "name": "KRATHA",
-    "version": "0",
-    "hidden": false,
-    "author": "namaka",
-    "lastUpdated": "2026-06-15T16:00:48Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod that adds new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n(Note: This is not a Neoplasm replica. It is different.)\n\n[gray]This an early version of KRATHA which is under heavy development. There are currently 3 playable sectors."
-  },
-  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2224,6 +2210,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Improves your experience on the official io  Flood server."
+  },
+  {
+    "repo": "yroo1/kratha",
+    "internalName": "kratha",
+    "name": "KRATHA",
+    "version": "0",
+    "hidden": false,
+    "author": "namaka",
+    "lastUpdated": "2026-06-16T03:45:30Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod that adds new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n(Note: This is not a Neoplasm replica. It is different.)\n\n[gray]This an early version of KRATHA which is under heavy development. There are currently 3 playable sectors."
   },
   {
     "repo": "slava0135/refine",
@@ -5102,7 +5102,7 @@
     "version": "0.4 beta",
     "hidden": false,
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-06-15T04:35:47Z",
+    "lastUpdated": "2026-06-16T02:23:52Z",
     "stars": 2,
     "minGameVersion": "158",
     "hasScripts": false,
