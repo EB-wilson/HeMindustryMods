@@ -650,7 +650,7 @@
     "version": "(Beta) Build 11",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-06-16T12:31:05Z",
+    "lastUpdated": "2026-06-16T18:27:44Z",
     "stars": 40,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -1022,6 +1022,20 @@
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
   },
   {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "version": "1.21",
+    "hidden": false,
+    "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
+    "lastUpdated": "2026-06-14T09:07:47Z",
+    "stars": 22,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
+  },
+  {
     "repo": "laohuajiofficial/freightfactory",
     "internalName": "ff",
     "name": "FoodFactory",
@@ -1132,20 +1146,6 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "你是否觉得原版瘤液的用途,在矿渣池中焚毁,过于单一;如此富有生物活性的材料应该还有有别的用途:作为弹药,合成新材料,甚至是组建自己的生物军队...请尽情发挥你的想象.\n\n什么？你已经等不及了吗？那么就让我们开启这趟血淋淋的旅途吧"
-  },
-  {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "version": "1.21",
-    "hidden": false,
-    "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
-    "lastUpdated": "2026-06-14T09:07:47Z",
-    "stars": 21,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "saigon0nozomi/nightscape",
@@ -1420,7 +1420,7 @@
     "version": "0.284",
     "hidden": false,
     "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-06-14T15:49:42Z",
+    "lastUpdated": "2026-06-16T18:14:51Z",
     "stars": 15,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -2008,7 +2008,7 @@
     "version": "1.2.0",
     "hidden": true,
     "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-06-16T12:56:49Z",
+    "lastUpdated": "2026-06-16T17:20:05Z",
     "stars": 10,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -2722,7 +2722,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-16T16:49:10Z",
+    "lastUpdated": "2026-06-16T17:10:07Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -6552,20 +6552,6 @@
     "description": "This mod adds neoplasm version of all liquids (except Water which already has it's own neoplasm)."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.3.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-06-16T15:05:16Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "xerxes-anominus/randustry",
     "internalName": "xr",
     "name": "Randustry",
@@ -6578,6 +6564,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Gambling\n\nUpdate:\n_Ver I: Unit Health And Armor.\n_Ver II: Unit Speed And Turret Reload.\n_Ver III: Drills Drill Time, Crafters Craft Time And Generators Power Production."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.3.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-06-16T20:06:08Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
