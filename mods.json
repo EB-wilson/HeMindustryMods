@@ -412,7 +412,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-06-12T03:54:04Z",
+    "lastUpdated": "2026-06-17T08:59:32Z",
     "stars": 57,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -524,7 +524,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-06-16T08:56:51Z",
+    "lastUpdated": "2026-06-17T10:25:06Z",
     "stars": 45,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -994,6 +994,20 @@
     "description": "Provide an in-game GUI for DataPatcher."
   },
   {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "version": "1.21",
+    "hidden": false,
+    "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
+    "lastUpdated": "2026-06-17T08:43:20Z",
+    "stars": 23,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
+  },
+  {
     "repo": "rednzba990/warboundindustriesmod",
     "internalName": "wi",
     "name": "Warbound Industries",
@@ -1020,20 +1034,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
-  },
-  {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "version": "1.21",
-    "hidden": false,
-    "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
-    "lastUpdated": "2026-06-14T09:07:47Z",
-    "stars": 22,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "laohuajiofficial/freightfactory",
@@ -1252,7 +1252,7 @@
     "version": "v3-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-16T15:03:44Z",
+    "lastUpdated": "2026-06-17T06:55:56Z",
     "stars": 18,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1358,6 +1358,20 @@
     "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
   },
   {
+    "repo": "kev-vily/epsilon",
+    "internalName": "epsilon",
+    "name": "Epsilon",
+    "version": "0.284",
+    "hidden": false,
+    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
+    "lastUpdated": "2026-06-16T18:14:51Z",
+    "stars": 16,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
     "repo": "seuearth/factroundustry",
     "internalName": "factroundustry",
     "name": "Factroundustry",
@@ -1412,20 +1426,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
-  },
-  {
-    "repo": "kev-vily/epsilon",
-    "internalName": "epsilon",
-    "name": "Epsilon",
-    "version": "0.284",
-    "hidden": false,
-    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-06-16T18:14:51Z",
-    "stars": 15,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
     "repo": "reversteams/etigei-exile",
@@ -2198,20 +2198,6 @@
     "description": "Improves your experience on the official io  Flood server."
   },
   {
-    "repo": "yroo1/kratha",
-    "internalName": "kratha",
-    "name": "KRATHA",
-    "version": "0",
-    "hidden": false,
-    "author": "namaka",
-    "lastUpdated": "2026-06-16T03:45:30Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod that adds new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n(Note: This is not a Neoplasm replica. It is different.)\n\n[gray]This an early version of KRATHA which is under heavy development. There are currently 3 playable sectors."
-  },
-  {
     "repo": "laomoze/warhammer",
     "internalName": "wh",
     "name": "WarHammer",
@@ -2224,6 +2210,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
+  },
+  {
+    "repo": "yroo1/kratha",
+    "internalName": "kratha",
+    "name": "KRATHA",
+    "version": "0",
+    "hidden": false,
+    "author": "namaka",
+    "lastUpdated": "2026-06-17T10:54:01Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod that adds new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n(Note: This is not a Neoplasm replica. It is different.)\n\n[gray]This an early version of KRATHA which is under heavy development. There are currently 3 playable sectors."
   },
   {
     "repo": "slava0135/refine",
@@ -2722,12 +2722,26 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-17T03:56:19Z",
+    "lastUpdated": "2026-06-17T09:08:42Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "version": "V.test.0.0.38.2-126.06.17",
+    "hidden": false,
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-06-17T10:49:56Z",
+    "stars": 7,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
   },
   {
     "repo": "heroblack303/stardustry",
@@ -3248,34 +3262,6 @@
     "description": "This mod replaces vanilla sprites with modified versions."
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.5.2",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-06-16T13:51:11Z",
-    "stars": 5,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "version": "V.test.0.0.38.126.06.17",
-    "hidden": false,
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-16T16:16:57Z",
-    "stars": 5,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
-  },
-  {
     "repo": "unquis/fading-revelations-remake",
     "internalName": "fading-revelations-remake",
     "name": "Fading Revelations Remake",
@@ -3288,6 +3274,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.5.3",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-06-17T08:46:09Z",
+    "stars": 5,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "shimyytrov/turretex-java",
@@ -6552,20 +6552,6 @@
     "description": "This mod adds neoplasm version of all liquids (except Water which already has it's own neoplasm)."
   },
   {
-    "repo": "xerxes-anominus/randustry",
-    "internalName": "xr",
-    "name": "Randustry",
-    "version": "III",
-    "hidden": false,
-    "author": "[#0000ff]Xe[#0066ff]rx[#00ccff]es[]",
-    "lastUpdated": "2026-06-16T15:23:29Z",
-    "stars": 1,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Gambling\n\nUpdate:\n_Ver I: Unit Health And Armor.\n_Ver II: Unit Speed And Turret Reload.\n_Ver III: Drills Drill Time, Crafters Craft Time And Generators Power Production."
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -6578,6 +6564,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "xerxes-anominus/randustry",
+    "internalName": "xr",
+    "name": "Randustry",
+    "version": "I",
+    "hidden": false,
+    "author": "[#0000ff]Xe[#0066ff]rx[#00ccff]es[]",
+    "lastUpdated": "2026-06-17T05:44:04Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Gambling"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
