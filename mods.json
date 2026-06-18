@@ -112,6 +112,20 @@
     "description": "Install for fresh and revised mindustry experience"
   },
   {
+    "repo": "ra2exe/saturation-firepower",
+    "internalName": "sfire-mod",
+    "name": "Saturation Firepower Mod",
+    "version": "4.0.3.1",
+    "hidden": false,
+    "author": "RAdea.exe",
+    "lastUpdated": "2026-05-24T08:06:05Z",
+    "stars": 137,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hell time, once for all\n\nThis mod adds new items, buildings, units, and turrets, and has a planet for you to explore.\nMore campaign maps WIP.\nWarning: This mod makes certain modifications to the original game content to accommodate the mod's operation."
+  },
+  {
     "repo": "stabu-dev/omaloon",
     "internalName": "omaloon",
     "name": "Omaloon",
@@ -124,20 +138,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
-  },
-  {
-    "repo": "ra2exe/saturation-firepower",
-    "internalName": "sfire-mod",
-    "name": "Saturation Firepower Mod",
-    "version": "4.0.3.1",
-    "hidden": false,
-    "author": "RAdea.exe",
-    "lastUpdated": "2026-05-24T08:06:05Z",
-    "stars": 136,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hell time, once for all\n\nThis mod adds new items, buildings, units, and turrets, and has a planet for you to explore.\nMore campaign maps WIP.\nWarning: This mod makes certain modifications to the original game content to accommodate the mod's operation."
   },
   {
     "repo": "3snake3/sapphirium",
@@ -188,7 +188,7 @@
     "version": "1.13.1",
     "hidden": true,
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2026-06-17T15:24:26Z",
+    "lastUpdated": "2026-06-18T09:59:36Z",
     "stars": 123,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -357,7 +357,7 @@
     "hidden": false,
     "author": "Alon",
     "lastUpdated": "2026-06-15T14:06:50Z",
-    "stars": 63,
+    "stars": 64,
     "minGameVersion": "157.4",
     "hasScripts": false,
     "hasJava": true,
@@ -412,7 +412,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-06-17T08:59:32Z",
+    "lastUpdated": "2026-06-18T09:07:33Z",
     "stars": 57,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -574,6 +574,20 @@
     "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
   },
   {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "(Beta) Build 11",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2026-06-16T18:27:44Z",
+    "stars": 41,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
+  },
+  {
     "repo": "eb-wilson/universecore",
     "internalName": "universe-core",
     "name": "Universe Core",
@@ -628,20 +642,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.9\n\n## Highlight\n1. 新增Profiler\n2. 构建支持增量编译\n3. 优化界面布局和性能\n4. 禁用JDWP功能（根本无法使用Java启动）\n5. 修复一些bug\n- 修复areaTable的`\\t`显示问题和drawMultiText的bug\n- 修复Tester代码补全快捷键冲突问题\n- 改Trigger.postDraw为Trigger.draw适配Helium\n- 修复ReferringMoveListener的只显示一会的问题\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
-  },
-  {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "(Beta) Build 11",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2026-06-16T18:27:44Z",
-    "stars": 40,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
     "repo": "itskirby69/minedusty",
@@ -756,6 +756,20 @@
     "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
   },
   {
+    "repo": "eyeofdarkness/advance-lighting",
+    "internalName": "advance-lighting",
+    "name": "Advance lighting",
+    "version": "v1.5.4.0",
+    "hidden": true,
+    "author": "EoD",
+    "lastUpdated": "2024-05-18T05:50:46Z",
+    "stars": 31,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -768,20 +782,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dynamic load custom contents patch account to server"
-  },
-  {
-    "repo": "eyeofdarkness/advance-lighting",
-    "internalName": "advance-lighting",
-    "name": "Advance lighting",
-    "version": "v1.5.4.0",
-    "hidden": true,
-    "author": "EoD",
-    "lastUpdated": "2024-05-18T05:50:46Z",
-    "stars": 30,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "typicaldeveloper123/biotic-zlo",
@@ -1252,7 +1252,7 @@
     "version": "v3-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-17T15:35:48Z",
+    "lastUpdated": "2026-06-18T09:23:45Z",
     "stars": 18,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2198,20 +2198,6 @@
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
-    "repo": "yroo1/kratha",
-    "internalName": "kratha",
-    "name": "KRATHA",
-    "version": "0",
-    "hidden": false,
-    "author": "namaka",
-    "lastUpdated": "2026-06-17T15:16:18Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod that adds new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n(Note: This is not a Neoplasm replica. It is different.)\n\n[gray]This an early version of KRATHA which is under heavy development. There are currently 3 playable sectors."
-  },
-  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2224,6 +2210,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Improves your experience on the official io  Flood server."
+  },
+  {
+    "repo": "yroo1/kratha",
+    "internalName": "kratha",
+    "name": "KRATHA",
+    "version": "0",
+    "hidden": false,
+    "author": "namaka",
+    "lastUpdated": "2026-06-18T10:22:58Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod that adds new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n(Note: This is not a Neoplasm replica. It is different.)\n\n[gray]This an early version of KRATHA which is under heavy development. There are currently 3 playable sectors."
   },
   {
     "repo": "slava0135/refine",
@@ -2722,7 +2722,7 @@
     "version": "101.3",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-06-17T12:26:13Z",
+    "lastUpdated": "2026-06-18T09:41:22Z",
     "stars": 7,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -2736,7 +2736,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-17T19:01:05Z",
+    "lastUpdated": "2026-06-18T09:59:20Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4360,7 +4360,7 @@
     "version": "v1.0",
     "hidden": false,
     "author": "Thinkerdoodle",
-    "lastUpdated": "2026-06-18T00:17:50Z",
+    "lastUpdated": "2026-06-18T09:39:39Z",
     "stars": 3,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -5096,20 +5096,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "7bebebe7/javascript-mod",
-    "internalName": "jsm",
-    "name": "JS Mod",
-    "version": "1.1.1",
-    "hidden": false,
-    "author": "bebebe",
-    "lastUpdated": "2026-06-16T11:50:49Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "written entirely in JavaScript"
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -5122,6 +5108,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, High-Level Divisions, Warbound Industries, [Better Vanilla], Liminal Protocol y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "7bebebe7/javascript-mod",
+    "internalName": "jsm",
+    "name": "JS Mod",
+    "version": "1.1.1",
+    "hidden": false,
+    "author": "bebebe",
+    "lastUpdated": "2026-06-18T08:51:55Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "written entirely in JavaScript"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -6566,6 +6566,20 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
+    "repo": "arctichor1zon/techtreeunlockerv8",
+    "internalName": "unlock-tech-tree-mod",
+    "name": "UnlockTechTreeMod",
+    "version": "2.0",
+    "hidden": false,
+    "author": "ArcticHor1zon",
+    "lastUpdated": "2026-06-16T21:26:39Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Instantly unlock all research on the tech-tree for Serpulo and Erekir. Features: per-planet unlock/reset, auto-unlock on campaign load. Used raffel080108's Tech Tree Unlocker"
+  },
+  {
     "repo": "xerxes-anominus/randustry",
     "internalName": "xr",
     "name": "Randustry",
@@ -7838,19 +7852,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "mod made by Insawct, 13 turret BulletType examples for you my pookie <3"
-  },
-  {
-    "repo": "arctichor1zon/techtreeunlockerv8",
-    "internalName": "unlock-tech-tree-mod",
-    "name": "UnlockTechTreeMod",
-    "version": "2.0",
-    "hidden": false,
-    "author": "ArcticHor1zon",
-    "lastUpdated": "2026-06-16T21:26:39Z",
-    "stars": 0,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Instantly unlock all research on the tech-tree for Serpulo and Erekir. Features: per-planet unlock/reset, auto-unlock on campaign load. Used raffel080108's Tech Tree Unlocker"
   }
 ]
