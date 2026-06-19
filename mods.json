@@ -714,6 +714,20 @@
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends.\n\nNote: To install the mod for Mindustry v8, click 'View Releases' instead of 'Install' and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
+    "repo": "retodera/technologium",
+    "internalName": "t",
+    "name": "Technologium",
+    "version": "v0.4",
+    "hidden": false,
+    "author": "[#ff]retodera[] - основатель мода и единственный работающий над ним\n\nА также благодарности:\n\nxDer - генератор идей\n\nПризрак - основатель сервера Дискорд\n\nnadocd - иногда помогает с кодом\n\ngkugfk3 - сделал саундтрек\n\nИ все, кто поставили звёздочку <3",
+    "lastUpdated": "2025-12-31T23:19:03Z",
+    "stars": 34,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
+  },
+  {
     "repo": "haznobrain/erekir-liquefied",
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
@@ -740,20 +754,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
-  },
-  {
-    "repo": "retodera/technologium",
-    "internalName": "t",
-    "name": "Technologium",
-    "version": "v0.4",
-    "hidden": false,
-    "author": "[#ff]retodera[] - основатель мода и единственный работающий над ним\n\nА также благодарности:\n\nxDer - генератор идей\n\nПризрак - основатель сервера Дискорд\n\nnadocd - иногда помогает с кодом\n\ngkugfk3 - сделал саундтрек\n\nИ все, кто поставили звёздочку <3",
-    "lastUpdated": "2025-12-31T23:19:03Z",
-    "stars": 32,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
   },
   {
     "repo": "eyeofdarkness/advance-lighting",
@@ -1988,32 +1988,32 @@
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.3",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-06-19T09:41:01Z",
-    "stars": 10,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
-  },
-  {
     "repo": "jojofr1/multicrafter",
     "internalName": "multicrafter",
     "name": "MultiCrafter",
     "version": "1.2.0",
     "hidden": true,
     "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-06-19T16:28:28Z",
+    "lastUpdated": "2026-06-19T18:12:43Z",
     "stars": 10,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
     "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.3",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-06-19T19:00:22Z",
+    "stars": 10,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -2702,34 +2702,6 @@
     "description": "A bundled toolkit with 14 client modules, now including WhoUsesThisBuilding and PatchViewer in Neon unified settings. / 辅助模组十四合一，现并入 WhoUsesThisBuilding 与 PatchViewer 并统一到 Neon 设置入口。"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.3",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-06-19T09:39:34Z",
-    "stars": 7,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101.3",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-06-19T09:40:13Z",
-    "stars": 7,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
     "repo": "oscillatorium/alef-null",
     "internalName": "alef-null",
     "name": "Alef-Null",
@@ -2742,6 +2714,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101.3",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-06-19T18:09:46Z",
+    "stars": 7,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.3",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-06-19T18:58:52Z",
+    "stars": 7,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "heroblack303/stardustry",
@@ -5116,7 +5116,7 @@
     "version": " kinda unfinished",
     "hidden": false,
     "author": "oleskiy",
-    "lastUpdated": "2026-06-19T17:24:05Z",
+    "lastUpdated": "2026-06-19T18:03:28Z",
     "stars": 2,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -6600,7 +6600,7 @@
     "version": "1.3.0",
     "hidden": true,
     "author": "xpdustry",
-    "lastUpdated": "2026-06-19T04:40:09Z",
+    "lastUpdated": "2026-06-19T18:47:04Z",
     "stars": 1,
     "minGameVersion": "157",
     "hasScripts": false,
