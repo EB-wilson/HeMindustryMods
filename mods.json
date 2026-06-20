@@ -48,7 +48,7 @@
     "version": "2.7.79",
     "hidden": true,
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-19T00:40:16Z",
+    "lastUpdated": "2026-06-20T17:10:26Z",
     "stars": 231,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -189,7 +189,7 @@
     "hidden": true,
     "author": "BlackDeluxeCat",
     "lastUpdated": "2026-06-20T09:11:21Z",
-    "stars": 124,
+    "stars": 125,
     "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
@@ -216,7 +216,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-06-20T09:10:46Z",
+    "lastUpdated": "2026-06-20T15:01:21Z",
     "stars": 107,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -1252,7 +1252,7 @@
     "version": "v3-Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-20T12:31:49Z",
+    "lastUpdated": "2026-06-20T16:04:56Z",
     "stars": 18,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2170,20 +2170,6 @@
     "description": "Adds extra utilities to map editor."
   },
   {
-    "repo": "laomoze/warhammer",
-    "internalName": "wh",
-    "name": "WarHammer",
-    "version": "beta.2.1",
-    "hidden": false,
-    "author": "LaoMoze",
-    "lastUpdated": "2026-06-16T11:41:42Z",
-    "stars": 9,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
-  },
-  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2224,6 +2210,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mod that adds new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n(Note: This is not a Neoplasm replica. It is different.)\n\n[gray]This an early version of KRATHA which is under heavy development. There are currently 3 playable sectors."
+  },
+  {
+    "repo": "laomoze/warhammer",
+    "internalName": "wh",
+    "name": "WarHammer",
+    "version": "beta.2.1",
+    "hidden": false,
+    "author": "LaoMoze",
+    "lastUpdated": "2026-06-20T16:02:04Z",
+    "stars": 9,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
     "repo": "slava0135/refine",
@@ -2386,7 +2386,7 @@
     "version": "V.test.0.0.38.2-126.06.17",
     "hidden": false,
     "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-17T10:49:56Z",
+    "lastUpdated": "2026-06-20T16:11:07Z",
     "stars": 8,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -4298,20 +4298,6 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
-    "repo": "sunkymp3g/netroniumtfs",
-    "internalName": "netroniummod",
-    "name": "Netronium: The Final Showdown",
-    "version": "CU-4 dev",
-    "hidden": false,
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2026-06-12T18:04:22Z",
-    "stars": 3,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
-  },
-  {
     "repo": "wantechfan/mindustry-legacy-sounds",
     "internalName": "legacy-sounds",
     "name": "Legacy Sounds",
@@ -4338,6 +4324,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Inline and quick before/after diff viewer for Mindustry datapatches. / Mindustry 数据补丁的数据库与快捷差异查看器。"
+  },
+  {
+    "repo": "sunkymp3g/netroniumtfs",
+    "internalName": "netroniummod",
+    "name": "Netronium: The Final Showdown",
+    "version": "CU-4 dev",
+    "hidden": false,
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2026-06-20T15:50:24Z",
+    "stars": 3,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   },
   {
     "repo": "mythril382/sardines",
@@ -4968,6 +4968,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir.\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир.\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
+  },
+  {
+    "repo": "ramazanduruev/darklife.",
+    "internalName": "mo",
+    "name": "DarkLife",
+    "version": "0.3",
+    "hidden": false,
+    "author": "Votak",
+    "lastUpdated": "2026-05-21T18:58:38Z",
+    "stars": 2,
+    "minGameVersion": "157.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
     "repo": "determination-wind/foreignservertranslator",
@@ -6354,20 +6368,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nМод добавляет множество нового контента\nмножество буров по типу Гранитного\nновые турели!\nв игре есть баги сообщите о них мне в ЛС ТГК\n\n Приватное сообщение  @MrHumanU\nTelegram TGH → t.me/LogicDustryJS \nYoutube YTC → youtube.com/@LogicDustryJS\n15/11/25 22:29 → Обновление 1.9\n\n\n[Orange]Полностью совместим с Mindustry v146-153. "
-  },
-  {
-    "repo": "ramazanduruev/darklife.",
-    "internalName": "mo",
-    "name": "DarkLife",
-    "version": "0.3",
-    "hidden": false,
-    "author": "Votak",
-    "lastUpdated": "2026-05-21T18:58:38Z",
-    "stars": 1,
-    "minGameVersion": "157.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
     "repo": "zenthxsin/unitlaunchpad",
