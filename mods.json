@@ -2736,7 +2736,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-21T15:35:06Z",
+    "lastUpdated": "2026-06-21T19:33:01Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3024,6 +3024,20 @@
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
+    "repo": "bsp-2/factory-simulator",
+    "internalName": "factory-sim",
+    "name": "The Factory Must Grow",
+    "version": "v1.0",
+    "hidden": false,
+    "author": "Thinkerdoodle",
+    "lastUpdated": "2026-06-21T18:51:02Z",
+    "stars": 6,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. \nCurrently in early dev. Not intended to be played just yet. "
+  },
+  {
     "repo": "vadit2020/betamindytranslated",
     "internalName": "betamindy",
     "name": "BetaMindy",
@@ -3302,20 +3316,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
-  },
-  {
-    "repo": "bsp-2/factory-simulator",
-    "internalName": "factory-sim",
-    "name": "The Factory Must Grow",
-    "version": "v1.0",
-    "hidden": false,
-    "author": "Thinkerdoodle",
-    "lastUpdated": "2026-06-21T13:28:50Z",
-    "stars": 5,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. \nCurrently in early dev. Not intended to be played just yet. "
   },
   {
     "repo": "shimyytrov/turretex-java",
@@ -4340,6 +4340,20 @@
     "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   },
   {
+    "repo": "laohuajiofficial/mindustrycosmicout",
+    "internalName": "cosmic-out",
+    "name": "Cosmic Out",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": "LaoHuaJi",
+    "lastUpdated": "2026-06-21T16:56:50Z",
+    "stars": 3,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry lib mod that adds support for starmap, more sector logistics and planetary logistics."
+  },
+  {
     "repo": "mythril382/sardines",
     "internalName": "mythril-sardines",
     "name": "Sardines",
@@ -5150,20 +5164,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
-  },
-  {
-    "repo": "laohuajiofficial/mindustrycosmicout",
-    "internalName": "cosmic-out",
-    "name": "Cosmic Out",
-    "version": "1.0.0",
-    "hidden": false,
-    "author": "LaoHuaJi",
-    "lastUpdated": "2026-06-21T16:56:50Z",
-    "stars": 2,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry lib mod that adds support for starmap, more sector logistics and planetary logistics."
   },
   {
     "repo": "agzam4/mindustry-units-mod",
