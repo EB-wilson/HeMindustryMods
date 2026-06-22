@@ -412,7 +412,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-06-22T04:13:46Z",
+    "lastUpdated": "2026-06-22T08:01:48Z",
     "stars": 57,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1252,7 +1252,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-22T01:17:56Z",
+    "lastUpdated": "2026-06-22T04:54:58Z",
     "stars": 18,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2218,7 +2218,7 @@
     "version": "V.test.0.0.38.2-126.06.17",
     "hidden": false,
     "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-21T15:07:40Z",
+    "lastUpdated": "2026-06-22T09:44:05Z",
     "stars": 9,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -2232,7 +2232,7 @@
     "version": "0",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-06-22T00:16:25Z",
+    "lastUpdated": "2026-06-22T11:39:36Z",
     "stars": 9,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2736,7 +2736,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-21T22:00:57Z",
+    "lastUpdated": "2026-06-22T11:29:30Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3030,7 +3030,7 @@
     "version": "v1.0",
     "hidden": false,
     "author": "Thinkerdoodle",
-    "lastUpdated": "2026-06-21T18:51:02Z",
+    "lastUpdated": "2026-06-22T11:16:02Z",
     "stars": 6,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -4298,20 +4298,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-06-10T10:24:27Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "wantechfan/mindustry-legacy-sounds",
     "internalName": "legacy-sounds",
     "name": "Legacy Sounds",
@@ -4352,6 +4338,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry lib mod that adds support for starmap, more sector logistics and planetary logistics."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-06-22T11:43:35Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "mythril382/sardines",
@@ -5158,7 +5158,7 @@
     "version": "0.15",
     "hidden": false,
     "author": "oleskiy",
-    "lastUpdated": "2026-06-21T16:28:29Z",
+    "lastUpdated": "2026-06-22T11:15:26Z",
     "stars": 2,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -6314,20 +6314,6 @@
     "description": "A resource library mod for my mod, simple-additions, and many others too, possibly."
   },
   {
-    "repo": "pproton96/cursorspoofer",
-    "internalName": "cursor-spoofer",
-    "name": "Cursor Spoofer",
-    "version": "1.0",
-    "hidden": true,
-    "author": "PProton",
-    "lastUpdated": "2026-05-04T13:58:43Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hides your cursor from cheaters, now it will appear to always be on your unit, unless you try to shoot."
-  },
-  {
     "repo": "0razec/erekir-mods",
     "internalName": "erekir-mods",
     "name": "{ Erekir MODS }",
@@ -6620,6 +6606,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "pproton96/cursorspoofer",
+    "internalName": "cursor-spoofer",
+    "name": "Cursor Spoofer",
+    "version": "1.0",
+    "hidden": true,
+    "author": "PProton",
+    "lastUpdated": "2026-06-22T11:28:39Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hides your cursor from cheaters, now it will appear to always be on your unit, unless you try to shoot."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -7152,20 +7152,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod gives you spiders from Deep Rock Galactic. My YouTube channel is Dedshotgame's."
-  },
-  {
-    "repo": "sunkymp3g/netroniummusic",
-    "internalName": "netromusic",
-    "name": "Netronium: TFS Music",
-    "version": "1",
-    "hidden": false,
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2025-05-08T05:46:45Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An OST for Netronium: The Final Showdown mod.\nList of music:\nTo The Unknown (Launch theme) by Sunky.MP3G"
   },
   {
     "repo": "durmiendo/extendlogs",
@@ -7868,17 +7854,31 @@
     "description": "Adds a laser ground-to-air (SPAA) system designed to exceptionally handle air targets."
   },
   {
-    "repo": "halopolicj/ppm",
-    "internalName": "ppm",
-    "name": "ppm",
-    "version": "1.0",
+    "repo": "sunkymp3g/netroniummusic",
+    "internalName": "netromusic",
+    "name": "Netronium: TFS Music",
+    "version": "1",
     "hidden": false,
-    "author": "Halopolicj",
-    "lastUpdated": "2026-06-21T12:22:02Z",
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2026-06-22T11:23:04Z",
     "stars": 0,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
-    "description": "not yet."
+    "description": "An OST for Netronium: The Final Showdown mod.\nList of music:\nTo The Unknown (Launch theme) by Sunky.MP3G"
+  },
+  {
+    "repo": "huanxefh/fluid-cells",
+    "internalName": "fcell",
+    "name": "Fluid Cells",
+    "version": "101",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-06-22T11:54:33Z",
+    "stars": 0,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Automatically adds fluid cell items for every fluid in game, including those from mods."
   }
 ]
