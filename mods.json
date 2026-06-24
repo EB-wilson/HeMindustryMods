@@ -2386,7 +2386,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-24T19:12:53Z",
+    "lastUpdated": "2026-06-24T20:03:10Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4346,7 +4346,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-06-24T19:11:23Z",
+    "lastUpdated": "2026-06-24T20:36:41Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6622,20 +6622,6 @@
     "description": "Hides your cursor from cheaters, now it will appear to always be on your unit, unless you try to shoot."
   },
   {
-    "repo": "cardillan/mlogassertions",
-    "internalName": "mlog-assertions-8",
-    "name": "Mlog Assertions (v8)",
-    "version": "0.7.0",
-    "hidden": false,
-    "author": "cardillan",
-    "lastUpdated": "2026-06-23T21:37:36Z",
-    "stars": 1,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides tools for easier debugging in Mindustry Logic."
-  },
-  {
     "repo": "waaaa-nya/extra-technologies",
     "internalName": "extra-technologies",
     "name": "Extra Technologies",
@@ -6648,6 +6634,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
+  },
+  {
+    "repo": "cardillan/mlogassertions",
+    "internalName": "mlog-assertions-8",
+    "name": "Mlog Assertions (v8)",
+    "version": "0.7.0",
+    "hidden": false,
+    "author": "cardillan",
+    "lastUpdated": "2026-06-24T21:20:46Z",
+    "stars": 1,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides tools for easier debugging in Mindustry Logic."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
