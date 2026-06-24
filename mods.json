@@ -1137,14 +1137,14 @@
     "repo": "430230562/vanilla-neoplasm-extend",
     "internalName": "vne",
     "name": "原版瘤液拓展",
-    "version": "0.32",
+    "version": "0.4",
     "hidden": false,
     "author": "pardon",
-    "lastUpdated": "2026-06-21T08:52:10Z",
+    "lastUpdated": "2026-06-24T10:19:44Z",
     "stars": 21,
     "minGameVersion": "154",
     "hasScripts": true,
-    "hasJava": true,
+    "hasJava": false,
     "description": "你是否觉得原版瘤液的用途,在矿渣池中焚毁,过于单一;如此富有生物活性的材料应该还有有别的用途:作为弹药,合成新材料,甚至是组建自己的生物军队...请尽情发挥你的想象.\n\n什么？你已经等不及了吗？那么就让我们开启这趟血淋淋的旅途吧"
   },
   {
@@ -1806,6 +1806,20 @@
     "description": "THE SECOND INSTALLMENT to the lore of the crux\n\n A mod that adds a new planet and it focuses on combat.\n\nA planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet but soon to discover this planet had been destroyed but what lives on this planet and why...\n\nShards: a strange mystic planet filled with snow and unnamed matter across its surface but deeper down the more crystal stone will be. beware that the surface is covered in slow pace purple like winds. \n\nkjol: a surging cold moon was the last history before the D##N#7# incident.\n\nMake sure to reinstall regular or your progression will be error\n\nEvents coming: [\n-waste land mode\n-rework units effects and descriptions\n-sector balances\n-halloween event soon!\n-christmas event soon \n-secret mode?\n]\nVengeance will happen"
   },
   {
+    "repo": "sh1penfire/meld-java",
+    "internalName": "meld2",
+    "name": "Meld: Sand and Sunder",
+    "version": "gameplay test 5.1",
+    "hidden": false,
+    "author": "Sh1p",
+    "lastUpdated": "2026-06-07T18:38:07Z",
+    "stars": 11,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
+  },
+  {
     "repo": "tyt-xexebe/qol-control",
     "internalName": "qol-control",
     "name": "QoL Control",
@@ -1944,20 +1958,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
-  },
-  {
-    "repo": "sh1penfire/meld-java",
-    "internalName": "meld2",
-    "name": "Meld: Sand and Sunder",
-    "version": "gameplay test 5.1",
-    "hidden": false,
-    "author": "Sh1p",
-    "lastUpdated": "2026-06-07T18:38:07Z",
-    "stars": 10,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
   },
   {
     "repo": "huanxefh/project-reindustrialization",
@@ -2218,7 +2218,7 @@
     "version": "V.test.0.0.38.2-126.06.17",
     "hidden": false,
     "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-24T06:38:04Z",
+    "lastUpdated": "2026-06-24T07:48:49Z",
     "stars": 9,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -2232,7 +2232,7 @@
     "version": "0.1",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-06-24T06:54:36Z",
+    "lastUpdated": "2026-06-24T10:22:30Z",
     "stars": 9,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2702,20 +2702,6 @@
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
-    "repo": "determination-wind/neon",
-    "internalName": "bek-tools",
-    "name": "Neon / 氖",
-    "version": "8.3.0",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-06-22T15:47:11Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A bundled toolkit with 14 client modules, now including WhoUsesThisBuilding and PatchViewer in Neon unified settings. / 辅助模组十四合一，现并入 WhoUsesThisBuilding 与 PatchViewer 并统一到 Neon 设置入口。"
-  },
-  {
     "repo": "oscillatorium/alef-null",
     "internalName": "alef-null",
     "name": "Alef-Null",
@@ -2742,6 +2728,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
+  },
+  {
+    "repo": "determination-wind/neon",
+    "internalName": "neon-dev",
+    "name": "Neon / 氖",
+    "version": "0.0.0",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-06-24T10:07:42Z",
+    "stars": 7,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A bundled toolkit with 19 client modules, now including ForeignServerTranslator, Tripwire, BetterPolyAi, and AdvancedReplace in Neon unified settings. / 辅助模组十九合一，现并入 ForeignServerTranslator、Tripwire、BetterPolyAi 与 AdvancedReplace 并统一到 Neon 设置入口。"
   },
   {
     "repo": "heroblack303/stardustry",
@@ -3010,20 +3010,6 @@
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
   },
   {
-    "repo": "xavierisdeadasheck15/interstellar-spaceline",
-    "internalName": "interstellar-spaceline",
-    "name": "Interstellar Spaceline",
-    "version": "[blue]0.0.9[]",
-    "hidden": false,
-    "author": "Creator: Xavierlazymahn8",
-    "lastUpdated": "2026-06-22T16:28:36Z",
-    "stars": 6,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
-  },
-  {
     "repo": "bsp-2/factory-simulator",
     "internalName": "factory-sim",
     "name": "The Factory Must Grow",
@@ -3036,6 +3022,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. \nCurrently in early dev. Not intended to be played just yet. "
+  },
+  {
+    "repo": "xavierisdeadasheck15/interstellar-spaceline",
+    "internalName": "interstellar-spaceline",
+    "name": "Interstellar Spaceline",
+    "version": "[blue]0.0.9[]",
+    "hidden": false,
+    "author": "Creator: Xavierlazymahn8",
+    "lastUpdated": "2026-06-24T09:28:24Z",
+    "stars": 6,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
     "repo": "vadit2020/betamindytranslated",
@@ -4346,7 +4346,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-06-24T07:09:07Z",
+    "lastUpdated": "2026-06-24T08:29:43Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5138,20 +5138,6 @@
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "version": "0.15",
-    "hidden": false,
-    "author": "oleskiy",
-    "lastUpdated": "2026-06-22T15:51:04Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
-  },
-  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
@@ -5164,6 +5150,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "written entirely in JavaScript"
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "version": "0.15",
+    "hidden": false,
+    "author": "oleskiy",
+    "lastUpdated": "2026-06-24T10:44:27Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -7894,5 +7894,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a laser ground-to-air (SPAA) system designed to exceptionally handle air targets."
+  },
+  {
+    "repo": "waaaa-nya/extra-technologies",
+    "internalName": "extra-technologies",
+    "name": "Extra Technologies",
+    "version": "0.0.1",
+    "hidden": true,
+    "author": "[purple]waaaa",
+    "lastUpdated": "2026-06-24T09:54:35Z",
+    "stars": 0,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
   }
 ]
