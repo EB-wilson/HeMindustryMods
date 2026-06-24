@@ -6,7 +6,7 @@
     "version": "2.0_v154_1",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-06-23T15:24:17Z",
+    "lastUpdated": "2026-06-24T15:50:03Z",
     "stars": 588,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -35,7 +35,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-06-02T09:14:25Z",
-    "stars": 242,
+    "stars": 243,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -490,6 +490,20 @@
     "description": "No nowhere has nothing anywhere."
   },
   {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "(Beta) Build 11",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2026-06-23T10:20:54Z",
+    "stars": 46,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
+  },
+  {
     "repo": "azaria-team/azaria",
     "internalName": "hpl",
     "name": "Project HPL",
@@ -502,20 +516,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
-  },
-  {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "(Beta) Build 11",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2026-06-23T10:20:54Z",
-    "stars": 45,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
     "repo": "deercarbonate/azimuth",
@@ -1252,8 +1252,8 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-24T11:02:04Z",
-    "stars": 18,
+    "lastUpdated": "2026-06-24T15:59:41Z",
+    "stars": 19,
     "minGameVersion": "156",
     "hasScripts": true,
     "hasJava": false,
@@ -2008,7 +2008,7 @@
     "version": "0.3.4",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader, Phil",
-    "lastUpdated": "2026-06-24T06:34:36Z",
+    "lastUpdated": "2026-06-24T16:47:47Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2731,12 +2731,12 @@
   },
   {
     "repo": "determination-wind/neon",
-    "internalName": "neon-dev",
+    "internalName": "neon",
     "name": "Neon / 氖",
-    "version": "0.0.0",
+    "version": "9.0.1",
     "hidden": true,
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-06-24T10:07:42Z",
+    "lastUpdated": "2026-06-24T16:58:44Z",
     "stars": 7,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -4346,7 +4346,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-06-24T13:58:41Z",
+    "lastUpdated": "2026-06-24T17:53:24Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5110,6 +5110,20 @@
     "description": "No description provided."
   },
   {
+    "repo": "oscillatorium/martin",
+    "internalName": "martin",
+    "name": "Martin's mod",
+    "version": "0.01",
+    "hidden": false,
+    "author": "мартин",
+    "lastUpdated": "2026-06-15T04:55:48Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "мод моего младшего брата, в котором концентрат его шизы. мод не предназначен для нормальной игры."
+  },
+  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -5138,20 +5152,6 @@
     "description": "written entirely in JavaScript"
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "version": "0.15",
-    "hidden": false,
-    "author": "oleskiy",
-    "lastUpdated": "2026-06-24T11:01:06Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -5164,6 +5164,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "version": "0.15",
+    "hidden": false,
+    "author": "oleskiy",
+    "lastUpdated": "2026-06-24T17:26:59Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -6496,20 +6510,6 @@
     "description": "A java remake of my json unfinished mod."
   },
   {
-    "repo": "oscillatorium/martin",
-    "internalName": "martin",
-    "name": "Martin's mod",
-    "version": "0.01",
-    "hidden": false,
-    "author": "мартин",
-    "lastUpdated": "2026-06-15T04:55:48Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "мод моего младшего брата, в котором концентрат его шизы. мод не предназначен для нормальной игры."
-  },
-  {
     "repo": "wantechfan/mindustry-no-building-damage-penalty",
     "internalName": "no-building-damage-penalty",
     "name": "No Building Damage Penalty",
@@ -6648,6 +6648,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[RU]Данный мод добавляет логические блоки в Erekir.\n[ENG]This mod adds logic blocks to Erekir."
+  },
+  {
+    "repo": "waaaa-nya/extra-technologies",
+    "internalName": "extra-technologies",
+    "name": "Extra Technologies",
+    "version": "0.0.1",
+    "hidden": true,
+    "author": "[purple]waaaa",
+    "lastUpdated": "2026-06-24T09:54:35Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -7894,20 +7908,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a laser ground-to-air (SPAA) system designed to exceptionally handle air targets."
-  },
-  {
-    "repo": "waaaa-nya/extra-technologies",
-    "internalName": "extra-technologies",
-    "name": "Extra Technologies",
-    "version": "0.0.1",
-    "hidden": true,
-    "author": "[purple]waaaa",
-    "lastUpdated": "2026-06-24T09:54:35Z",
-    "stars": 0,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
   },
   {
     "repo": "darkv-p3nt4/apex-arbitery",
