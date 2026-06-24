@@ -1140,7 +1140,7 @@
     "version": "0.4",
     "hidden": false,
     "author": "pardon",
-    "lastUpdated": "2026-06-24T10:19:44Z",
+    "lastUpdated": "2026-06-24T14:03:23Z",
     "stars": 21,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1252,7 +1252,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-23T15:15:03Z",
+    "lastUpdated": "2026-06-24T11:02:04Z",
     "stars": 18,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2380,6 +2380,20 @@
     "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.6. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. \nUPDATES:\nLICHEN UPDATE (v1.2)\nFLAMEWAR UPDATE (v1.3)\nTETRA UPDATE (v1.4)\nQOL UPDATE (v1.5)\nPILOTS UPDATE (v1.6) \n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add more campaign features!"
   },
   {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "1.03",
+    "hidden": false,
+    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
+    "lastUpdated": "2026-06-24T11:45:15Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
     "repo": "eb-wilson/modpacker",
     "internalName": "mod-packer",
     "name": "Mod Packer",
@@ -2700,20 +2714,6 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-23T18:21:53Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "mindustryid/terjemahanindonesia",
@@ -4346,7 +4346,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-06-24T08:29:43Z",
+    "lastUpdated": "2026-06-24T13:58:41Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5124,20 +5124,6 @@
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], Liminal Protocol y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
-    "repo": "m1cxzfw3q/thermal-engineering",
-    "internalName": "temod",
-    "name": "Thermal Engineering Java",
-    "version": "0.0.2pA",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-06-20T19:00:22Z",
-    "stars": 2,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
-  },
-  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
@@ -5158,12 +5144,26 @@
     "version": "0.15",
     "hidden": false,
     "author": "oleskiy",
-    "lastUpdated": "2026-06-24T10:44:27Z",
+    "lastUpdated": "2026-06-24T11:01:06Z",
     "stars": 2,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
+  },
+  {
+    "repo": "m1cxzfw3q/thermal-engineering",
+    "internalName": "temod",
+    "name": "Thermal Engineering Java",
+    "version": "0.0.2pA",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-06-24T12:27:48Z",
+    "stars": 2,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -7908,5 +7908,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
+  },
+  {
+    "repo": "darkv-p3nt4/apex-arbitery",
+    "internalName": "custom-apex",
+    "name": "APEX Arbitery",
+    "version": "0.1 release",
+    "hidden": false,
+    "author": "Dark V",
+    "lastUpdated": "2026-06-24T12:36:59Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The World shall burn.\nThe Skies shall shatter.\nThe Heavens shall pierce.\nThe Hells shall cower.\n\nThe APEX are Awaiting for you.\n\n...On a Serious Note its unfinished yet released, but more content soon baby!"
   }
 ]
