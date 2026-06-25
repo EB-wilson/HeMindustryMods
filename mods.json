@@ -1196,7 +1196,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-25T05:59:03Z",
+    "lastUpdated": "2026-06-25T08:30:03Z",
     "stars": 20,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1862,6 +1862,20 @@
     "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
   },
   {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.3",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-06-25T08:35:31Z",
+    "stars": 11,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
     "repo": "pointifix/autotranslate",
     "internalName": "auto-translate",
     "name": "AutoTranslate",
@@ -1958,20 +1972,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
-  },
-  {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.3",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-06-19T19:00:22Z",
-    "stars": 10,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
     "repo": "wantechfan/mindustry-cool-musics",
@@ -2212,32 +2212,32 @@
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "version": "V.test.0.0.38.2-126.06.17",
-    "hidden": false,
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-25T05:45:52Z",
-    "stars": 9,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
-  },
-  {
     "repo": "yroo1/kratha",
     "internalName": "kratha",
     "name": "KRATHA",
     "version": "0.1",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-06-25T07:41:02Z",
+    "lastUpdated": "2026-06-25T09:21:59Z",
     "stars": 9,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mod that adds a new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n(Lower end device might encounter lag)\n\nThere are currently 4 playable sectors, however, the entire campaign will get a complete reworked in the next update.\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.1"
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "version": "V.test.0.0.38.2-126.06.17",
+    "hidden": false,
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-06-25T10:22:17Z",
+    "stars": 9,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
   },
   {
     "repo": "slava0135/refine",
@@ -2386,7 +2386,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-24T20:03:10Z",
+    "lastUpdated": "2026-06-25T08:47:35Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2688,34 +2688,6 @@
     "description": "frozen farlands mod except almost all of its textures are different\n\npls star twin\n\nfrozen farlands description:\n\n[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101.3",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-06-19T18:09:46Z",
-    "stars": 7,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.3",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-06-20T22:57:55Z",
-    "stars": 7,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -2742,6 +2714,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A bundled toolkit with 19 client modules, now including ForeignServerTranslator, Tripwire, BetterPolyAi, and AdvancedReplace in Neon unified settings. / 辅助模组十九合一，现并入 ForeignServerTranslator、Tripwire、BetterPolyAi 与 AdvancedReplace 并统一到 Neon 设置入口。"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.3",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-06-25T08:33:31Z",
+    "stars": 7,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101.3",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-06-25T08:34:21Z",
+    "stars": 7,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "heroblack303/stardustry",
@@ -3010,20 +3010,6 @@
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
   },
   {
-    "repo": "bsp-2/factory-simulator",
-    "internalName": "factory-sim",
-    "name": "The Factory Must Grow",
-    "version": "v1.0",
-    "hidden": false,
-    "author": "Thinkerdoodle",
-    "lastUpdated": "2026-06-23T17:03:52Z",
-    "stars": 6,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. \nCurrently in early dev. Not intended to be played just yet. "
-  },
-  {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
     "internalName": "interstellar-spaceline",
     "name": "Interstellar Spaceline",
@@ -3036,6 +3022,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
+  },
+  {
+    "repo": "bsp-2/factory-simulator",
+    "internalName": "factory-sim",
+    "name": "The Factory Must Grow",
+    "version": "v1.0",
+    "hidden": false,
+    "author": "Thinkerdoodle",
+    "lastUpdated": "2026-06-25T10:36:22Z",
+    "stars": 6,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. \nCurrently in early dev. Not intended to be played just yet. "
   },
   {
     "repo": "vadit2020/betamindytranslated",
@@ -4346,7 +4346,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-06-25T07:37:03Z",
+    "lastUpdated": "2026-06-25T10:39:55Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
