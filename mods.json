@@ -2008,7 +2008,7 @@
     "version": "1.2.1",
     "hidden": true,
     "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-06-25T00:02:18Z",
+    "lastUpdated": "2026-06-25T22:47:03Z",
     "stars": 10,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -6606,6 +6606,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides tools for easier debugging in Mindustry Logic."
+  },
+  {
+    "repo": "equalzzz/mindustry-modlib",
+    "internalName": "!mod-library",
+    "name": "Mod Library (NOT OFFICIAL)",
+    "version": "${version}",
+    "hidden": true,
+    "author": "Equalzzz",
+    "lastUpdated": "2026-06-25T07:24:08Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry modding utilities to make mod development easier. NOT AN OFFICIAL VERSION"
   },
   {
     "repo": "momiji142857/momijicrafterlib",
