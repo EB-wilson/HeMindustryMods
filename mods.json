@@ -2400,7 +2400,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-26T19:19:02Z",
+    "lastUpdated": "2026-06-26T20:29:25Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2716,20 +2716,6 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.3",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-06-25T08:33:31Z",
-    "stars": 7,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -2742,6 +2728,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.3",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-06-26T20:24:42Z",
+    "stars": 7,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "heroblack303/stardustry",
@@ -7938,20 +7938,6 @@
     "description": "The World shall burn.\nThe Skies shall shatter.\nThe Heavens shall pierce.\nThe Hells shall cower.\n\nThe APEX are Awaiting for you.\n\n...On a Serious Note its unfinished yet released, but more content soon baby!"
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.1",
-    "hidden": false,
-    "author": "一瓶圣水",
-    "lastUpdated": "2026-06-26T16:50:26Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "三角模组2.x半成品"
-  },
-  {
     "repo": "momiji142857/ve-addon-momijiadd",
     "internalName": "ve-addon-momiji",
     "name": "VE Addon: MomijiAdd",
@@ -7964,5 +7950,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-06-26[white]"
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "一瓶圣水",
+    "lastUpdated": "2026-06-26T20:33:26Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "三角模组2.x半成品"
   }
 ]
