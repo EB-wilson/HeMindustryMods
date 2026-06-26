@@ -188,7 +188,7 @@
     "version": "1.13.1",
     "hidden": true,
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2026-06-21T15:29:14Z",
+    "lastUpdated": "2026-06-26T02:14:34Z",
     "stars": 125,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -790,7 +790,7 @@
     "version": "v1.3",
     "hidden": false,
     "author": "SezoVK",
-    "lastUpdated": "2026-06-24T01:45:21Z",
+    "lastUpdated": "2026-06-26T03:22:35Z",
     "stars": 29,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -1974,20 +1974,6 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
-    "repo": "wantechfan/mindustry-cool-musics",
-    "internalName": "cool-musics",
-    "name": "Cool Musics",
-    "version": "1.2.2",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-06-22T11:59:49Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2014,6 +2000,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
+  },
+  {
+    "repo": "wantechfan/mindustry-cool-musics",
+    "internalName": "cool-musics",
+    "name": "Cool Musics",
+    "version": "1.6",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-06-26T03:42:24Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -2212,20 +2212,6 @@
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
-    "repo": "yroo1/kratha",
-    "internalName": "kratha",
-    "name": "KRATHA",
-    "version": "0.1",
-    "hidden": false,
-    "author": "namaka",
-    "lastUpdated": "2026-06-25T10:52:59Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod that adds a new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n(Lower end device might encounter lag)\n\nThere are currently 4 playable sectors, however, the entire campaign will get a complete reworked in the next update.\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.1"
-  },
-  {
     "repo": "aevorlum/liminal-protocol",
     "internalName": "lp",
     "name": "Liminal Protocol",
@@ -2238,6 +2224,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[red]俺寻思之力"
+  },
+  {
+    "repo": "yroo1/kratha",
+    "internalName": "kratha",
+    "name": "KRATHA",
+    "version": "0.1",
+    "hidden": false,
+    "author": "namaka",
+    "lastUpdated": "2026-06-26T03:29:17Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod that adds a new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n(Lower end device might encounter lag)\n\nThere are currently 4 playable sectors, however, the entire campaign will get a complete reworked in the next update.\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.1"
   },
   {
     "repo": "slava0135/refine",
@@ -3030,7 +3030,7 @@
     "version": "v3.0",
     "hidden": false,
     "author": "Thinkerdoodle",
-    "lastUpdated": "2026-06-25T19:56:45Z",
+    "lastUpdated": "2026-06-26T03:10:00Z",
     "stars": 6,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -5138,20 +5138,6 @@
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], Liminal Protocol y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
-    "repo": "rocket550/zytheron-technology-java-",
-    "internalName": "zytheron",
-    "name": "Zytheron Technology(Java)",
-    "version": "",
-    "hidden": false,
-    "author": "Trocket",
-    "lastUpdated": "2026-06-25T15:52:46Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a java edition of my mod that eventually will replace the json one"
-  },
-  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
@@ -5178,6 +5164,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
+  },
+  {
+    "repo": "rocket550/zytheron-technology-java-",
+    "internalName": "zytheron",
+    "name": "Zytheron Technology(Java)",
+    "version": "",
+    "hidden": false,
+    "author": "Trocket",
+    "lastUpdated": "2026-06-26T00:49:33Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -7930,7 +7930,7 @@
     "version": "0.2.1",
     "hidden": false,
     "author": "一瓶圣水",
-    "lastUpdated": "2026-06-25T21:32:21Z",
+    "lastUpdated": "2026-06-25T23:42:48Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
