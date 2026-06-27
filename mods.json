@@ -216,7 +216,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-06-26T13:45:42Z",
+    "lastUpdated": "2026-06-27T22:45:06Z",
     "stars": 108,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -5152,20 +5152,6 @@
     "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
-    "repo": "7bebebe7/javascript-mod",
-    "internalName": "jsm",
-    "name": "JS Mod",
-    "version": "1.1.1",
-    "hidden": false,
-    "author": "bebebe",
-    "lastUpdated": "2026-06-27T08:19:52Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "written entirely in JavaScript"
-  },
-  {
     "repo": "alecthe2nd/tantros",
     "internalName": "",
     "name": "Tantros",
@@ -5180,13 +5166,27 @@
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
   },
   {
+    "repo": "7bebebe7/javascript-mod",
+    "internalName": "jsm",
+    "name": "JS Mod",
+    "version": "1.1.1",
+    "hidden": false,
+    "author": "bebebe",
+    "lastUpdated": "2026-06-27T21:36:41Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "written entirely in JavaScript"
+  },
+  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
     "version": "0.4 beta",
     "hidden": false,
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-06-27T20:48:08Z",
+    "lastUpdated": "2026-06-27T22:37:32Z",
     "stars": 2,
     "minGameVersion": "158",
     "hasScripts": false,
