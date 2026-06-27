@@ -560,20 +560,6 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
   },
   {
-    "repo": "uenhe/fire",
-    "internalName": "fire",
-    "name": "Fire",
-    "version": "1.5.2",
-    "hidden": false,
-    "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
-    "lastUpdated": "2026-06-22T16:47:30Z",
-    "stars": 42,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
-  },
-  {
     "repo": "00sunray00/scheme-size-port",
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
@@ -586,6 +572,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
+  },
+  {
+    "repo": "uenhe/fire",
+    "internalName": "fire",
+    "name": "Fire",
+    "version": "1.5.3",
+    "hidden": false,
+    "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
+    "lastUpdated": "2026-06-27T14:12:34Z",
+    "stars": 42,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
   },
   {
     "repo": "eb-wilson/universecore",
@@ -706,7 +706,7 @@
     "version": "2.4",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-06-25T14:30:38Z",
+    "lastUpdated": "2026-06-27T14:04:30Z",
     "stars": 38,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -798,6 +798,20 @@
     "description": "A mod that features life.\nSPOILER:\n- MIGHT CONTAIN DISTURBING GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- SOME UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n\nThanks to HunNimbus, and VdobleMSG for some of the sprites!\nAvailable in these languages:\n- English\n- Indonesia\n\nWIP\n  "
   },
   {
+    "repo": "zelaux/bytelogicmod",
+    "internalName": "byte-logic-mod",
+    "name": "Byte Logic Mod",
+    "version": "v1.1.0",
+    "hidden": false,
+    "author": "Zelaux",
+    "lastUpdated": "2024-09-24T22:19:06Z",
+    "stars": 28,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds byte logic blocks from v5"
+  },
+  {
     "repo": "routerxdd/erekir-extended",
     "internalName": "erek",
     "name": "Erekir Extended",
@@ -838,20 +852,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Needs the Hjson++ library\n\nMOD IN THE ALPHA!\nThis is collaboration mod.\n\nAsterion Team\n\n[#92d3ff]Sputnuc [white]— [accent]creator.\n[#ffa0a0]Bloody Ocean [white]— [accent]spriter.\n[#d13050]AnDashik [white]— [accent]coder, spriter, mapper.\n[#a3e7b8]Ace [white]— [accent]composer.\n[#5245c9]R.O.T [white]— [accent]coder, spriter.\n[#e2478f]Sundered [white]— [accent]some sprites.\n[#dbddca]Los Sasikos [white]— [accent]help with balance & sprites."
-  },
-  {
-    "repo": "zelaux/bytelogicmod",
-    "internalName": "byte-logic-mod",
-    "name": "Byte Logic Mod",
-    "version": "v1.1.0",
-    "hidden": false,
-    "author": "Zelaux",
-    "lastUpdated": "2024-09-24T22:19:06Z",
-    "stars": 27,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds byte logic blocks from v5"
   },
   {
     "repo": "bsp-2/echo-fleet",
@@ -2198,6 +2198,20 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "version": "9.0.2",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-06-25T01:11:26Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A bundled toolkit with 19 client modules, now including ForeignServerTranslator, Tripwire, BetterPolyAi, and AdvancedReplace in Neon unified settings. / 辅助模组十九合一，现并入 ForeignServerTranslator、Tripwire、BetterPolyAi 与 AdvancedReplace 并统一到 Neon 设置入口。"
+  },
+  {
     "repo": "aevorlum/liminal-protocol",
     "internalName": "lp",
     "name": "Liminal Protocol",
@@ -2378,20 +2392,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.6. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. \nUPDATES:\nLICHEN UPDATE (v1.2)\nFLAMEWAR UPDATE (v1.3)\nTETRA UPDATE (v1.4)\nQOL UPDATE (v1.5)\nPILOTS UPDATE (v1.6) \n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add more campaign features!"
-  },
-  {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "version": "9.0.2",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-06-25T01:11:26Z",
-    "stars": 8,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A bundled toolkit with 19 client modules, now including ForeignServerTranslator, Tripwire, BetterPolyAi, and AdvancedReplace in Neon unified settings. / 辅助模组十九合一，现并入 ForeignServerTranslator、Tripwire、BetterPolyAi 与 AdvancedReplace 并统一到 Neon 设置入口。"
   },
   {
     "repo": "oscillatorium/alef-null",
@@ -4332,7 +4332,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-06-27T13:32:06Z",
+    "lastUpdated": "2026-06-27T14:41:30Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4346,7 +4346,7 @@
     "version": "0.0.3",
     "hidden": false,
     "author": "[sky]114514[white]",
-    "lastUpdated": "2026-06-27T13:38:28Z",
+    "lastUpdated": "2026-06-27T15:10:54Z",
     "stars": 3,
     "minGameVersion": "151.1",
     "hasScripts": false,
