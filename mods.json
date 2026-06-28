@@ -412,7 +412,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-06-27T13:18:45Z",
+    "lastUpdated": "2026-06-28T03:22:58Z",
     "stars": 58,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -790,7 +790,7 @@
     "version": "v1.3",
     "hidden": false,
     "author": "SezoVK",
-    "lastUpdated": "2026-06-27T09:41:02Z",
+    "lastUpdated": "2026-06-28T00:09:30Z",
     "stars": 29,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -1140,7 +1140,7 @@
     "version": "0.4",
     "hidden": false,
     "author": "pardon",
-    "lastUpdated": "2026-06-25T06:23:41Z",
+    "lastUpdated": "2026-06-28T01:51:57Z",
     "stars": 21,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1154,7 +1154,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-27T16:04:40Z",
+    "lastUpdated": "2026-06-28T03:13:13Z",
     "stars": 21,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -4326,20 +4326,6 @@
     "description": "Brings back old SFX."
   },
   {
-    "repo": "m1cxzfw3q/logicextend",
-    "internalName": "logic-extend",
-    "name": "LogicExtend - 逻辑扩展",
-    "version": "0.0.3",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-06-27T18:30:31Z",
-    "stars": 3,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4352,6 +4338,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "m1cxzfw3q/logicextend",
+    "internalName": "logic-extend",
+    "name": "LogicExtend - 逻辑扩展",
+    "version": "0.0.3",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-06-28T03:52:06Z",
+    "stars": 3,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
     "repo": "mythril382/sardines",
@@ -5152,20 +5152,6 @@
     "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
-    "repo": "alecthe2nd/tantros",
-    "internalName": "",
-    "name": "Tantros",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Alecthe2nd, bob26786",
-    "lastUpdated": "2026-06-27T20:19:05Z",
-    "stars": 2,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
-  },
-  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
@@ -5192,6 +5178,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], Liminal Protocol y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "alecthe2nd/tantros",
+    "internalName": "",
+    "name": "Tantros",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Alecthe2nd, bob26786",
+    "lastUpdated": "2026-06-28T00:11:49Z",
+    "stars": 2,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
   },
   {
     "repo": "agzam4/mindustry-units-mod",
