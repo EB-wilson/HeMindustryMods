@@ -48,7 +48,7 @@
     "version": "2.7.79",
     "hidden": true,
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-25T21:08:35Z",
+    "lastUpdated": "2026-06-28T19:20:58Z",
     "stars": 231,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -216,7 +216,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-06-28T13:01:07Z",
+    "lastUpdated": "2026-06-28T20:23:23Z",
     "stars": 109,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -854,20 +854,6 @@
     "description": "Needs the Hjson++ library\n\nMOD IN THE ALPHA!\nThis is collaboration mod.\n\nAsterion Team\n\n[#92d3ff]Sputnuc [white]— [accent]creator.\n[#ffa0a0]Bloody Ocean [white]— [accent]spriter.\n[#d13050]AnDashik [white]— [accent]coder, spriter, mapper.\n[#a3e7b8]Ace [white]— [accent]composer.\n[#5245c9]R.O.T [white]— [accent]coder, spriter.\n[#e2478f]Sundered [white]— [accent]some sprites.\n[#dbddca]Los Sasikos [white]— [accent]help with balance & sprites."
   },
   {
-    "repo": "bsp-2/echo-fleet",
-    "internalName": "echo-fleet",
-    "name": "Echo Fleet",
-    "version": "",
-    "hidden": false,
-    "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-06-28T17:13:20Z",
-    "stars": 27,
-    "minGameVersion": "152.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \n[royal]Kaltos[] is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \n[gold]Aetheria[] on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on [royal]Kaltos[] and [gold]Aetheria[]. \n\n[red]This mod is still in early development,[] as of now it only adds a bunch of [accent]sandbox only blocks[] and [accent]environment tiles[]. Several sectors have been made already, more are yet to come. It also has custom music. \n\nOther then that, the mod focuses on [accent]complex factories[] and [accent]refining Crude Oil[]. \n\n[accent]I re-used no content from vanilla, even though this mod seemingly has several things from it. \n\n[red]Currently the mod is way too early into development to have any proper translations. \n\n[]Have fun with whats already added, I guess. :)"
-  },
-  {
     "repo": "apszoldat/mindustrymappingutilities",
     "internalName": "mapping-utilities",
     "name": " Mapping Utilities ",
@@ -880,6 +866,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#fed570] The[] [#feba93]Map[] [#fea0b6]Edi[][#ff85d9]tor[] [#ff6afc]mod []\n\n[#fff580] Improves Editor convenience and possibilities[]\n\nMaps created with this mod are [#89ff7a]fully compatible with vanilla []\n\n\n[#fff580] Features:[]\n\n[#efa8ff]- Revealed Hidden Features  -[]\nAbility to draw cliffs, use extra 250 teams, hidden map rules and planet backgrounds\n\n[#efa8ff]- Improved Dialogs  -[]\nBetter banned content dialogs (that's it rn)\n\n[#efa8ff]- Limit Bypasses  -[]\nMap sizes from 1 up to 2147483647\n\n\n[#ff8e82]⚠ In case of some other mods incompatibilities, feel free to open an issue on GitHub []"
+  },
+  {
+    "repo": "bsp-2/echo-fleet",
+    "internalName": "echo-fleet",
+    "name": "Echo Fleet",
+    "version": "",
+    "hidden": false,
+    "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
+    "lastUpdated": "2026-06-28T19:47:42Z",
+    "stars": 27,
+    "minGameVersion": "152.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \n[royal]Kaltos[] is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \n[gold]Aetheria[] on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on [royal]Kaltos[] and [gold]Aetheria[]. \n\n[red]This mod is still in early development,[] as of now it only adds a bunch of [accent]sandbox only blocks[] and [accent]environment tiles[]. Several sectors have been made already, more are yet to come. It also has custom music. \n\nOther then that, the mod focuses on [accent]complex factories[] and [accent]refining Crude Oil[]. \n\n[accent]I re-used no content from vanilla, even though this mod seemingly has several things from it. \n\n[red]Currently the mod is way too early into development to have any proper translations. \n\n[]Have fun with whats already added, I guess. :)"
   },
   {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
@@ -4346,7 +4346,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-06-28T18:05:56Z",
+    "lastUpdated": "2026-06-28T19:44:05Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5096,20 +5096,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "oscillatorium/martin",
-    "internalName": "martin",
-    "name": "Martin's mod",
-    "version": "0.01",
-    "hidden": false,
-    "author": "мартин",
-    "lastUpdated": "2026-06-15T04:55:48Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "мод моего младшего брата, в котором концентрат его шизы. мод не предназначен для нормальной игры."
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -5122,20 +5108,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
-  },
-  {
-    "repo": "rocket550/zytheron-technology-java-",
-    "internalName": "zytheron",
-    "name": "Zytheron Technology(Java)",
-    "version": "",
-    "hidden": false,
-    "author": "Trocket",
-    "lastUpdated": "2026-06-26T15:35:01Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
     "repo": "leinadhq/voltaprotocolmod",
@@ -5192,6 +5164,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "written entirely in JavaScript"
+  },
+  {
+    "repo": "rocket550/zytheron-technology-java-",
+    "internalName": "zytheron",
+    "name": "Zytheron Technology(Java)",
+    "version": "",
+    "hidden": false,
+    "author": "Trocket",
+    "lastUpdated": "2026-06-28T19:57:13Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -6678,20 +6664,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "xenonixq/blerror",
-    "internalName": "blerror",
-    "name": "Blerror",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Xenonix",
-    "lastUpdated": "2026-06-28T10:17:21Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Изменяет ohno на \"бля\"."
-  },
-  {
     "repo": "equalzzz/mindustry-modlib",
     "internalName": "!mod-library",
     "name": "Mod Library (NOT OFFICIAL)",
@@ -6704,6 +6676,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry modding utilities to make mod development easier. NOT AN OFFICIAL VERSION"
+  },
+  {
+    "repo": "xenonixq/blerror",
+    "internalName": "blerror",
+    "name": "Blerror",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Xenonix",
+    "lastUpdated": "2026-06-28T20:41:39Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Изменяет ohno на \"бля\"."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
