@@ -34,7 +34,7 @@
     "version": "1.7.2",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2026-06-27T11:27:19Z",
+    "lastUpdated": "2026-06-28T14:23:24Z",
     "stars": 244,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -412,7 +412,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-06-28T13:01:00Z",
+    "lastUpdated": "2026-06-28T15:14:35Z",
     "stars": 58,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1876,6 +1876,20 @@
     "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "version": "9.0.2",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-06-28T10:27:35Z",
+    "stars": 11,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A bundled toolkit with 19 client modules, now including ForeignServerTranslator, Tripwire, BetterPolyAi, and AdvancedReplace in Neon unified settings. / 辅助模组十九合一，现并入 ForeignServerTranslator、Tripwire、BetterPolyAi 与 AdvancedReplace 并统一到 Neon 设置入口。"
+  },
+  {
     "repo": "pointifix/autotranslate",
     "internalName": "auto-translate",
     "name": "AutoTranslate",
@@ -2014,20 +2028,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
-  },
-  {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "version": "9.0.2",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-06-28T10:27:35Z",
-    "stars": 10,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A bundled toolkit with 19 client modules, now including ForeignServerTranslator, Tripwire, BetterPolyAi, and AdvancedReplace in Neon unified settings. / 辅助模组十九合一，现并入 ForeignServerTranslator、Tripwire、BetterPolyAi 与 AdvancedReplace 并统一到 Neon 设置入口。"
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -2246,7 +2246,7 @@
     "version": "0.1",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-06-28T13:40:47Z",
+    "lastUpdated": "2026-06-28T15:00:15Z",
     "stars": 9,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -4326,20 +4326,6 @@
     "description": "Brings back old SFX."
   },
   {
-    "repo": "m1cxzfw3q/logicextend",
-    "internalName": "logic-extend",
-    "name": "LogicExtend - 逻辑扩展",
-    "version": "0.0.3",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-06-28T06:56:14Z",
-    "stars": 3,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4352,6 +4338,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "m1cxzfw3q/logicextend",
+    "internalName": "logic-extend",
+    "name": "LogicExtend - 逻辑扩展",
+    "version": "0.0.3",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-06-28T14:06:05Z",
+    "stars": 3,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
     "repo": "mythril382/sardines",
@@ -6552,20 +6552,6 @@
     "description": "Hides your cursor from cheaters, now it will appear to always be on your unit, unless you try to shoot."
   },
   {
-    "repo": "equalzzz/mindustry-modlib",
-    "internalName": "!mod-library",
-    "name": "Mod Library (NOT OFFICIAL)",
-    "version": "${version}",
-    "hidden": true,
-    "author": "Equalzzz",
-    "lastUpdated": "2026-06-25T07:24:08Z",
-    "stars": 1,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry modding utilities to make mod development easier. NOT AN OFFICIAL VERSION"
-  },
-  {
     "repo": "momiji142857/momijicrafterlib",
     "internalName": "multi-crafter-momiji",
     "name": "MultiCrafterLib_Momiji",
@@ -6704,6 +6690,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Изменяет ohno на \"бля\"."
+  },
+  {
+    "repo": "equalzzz/mindustry-modlib",
+    "internalName": "!mod-library",
+    "name": "Mod Library (NOT OFFICIAL)",
+    "version": "${version}",
+    "hidden": true,
+    "author": "Equalzzz",
+    "lastUpdated": "2026-06-28T15:02:14Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry modding utilities to make mod development easier. NOT AN OFFICIAL VERSION"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
