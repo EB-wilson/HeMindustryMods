@@ -790,7 +790,7 @@
     "version": "v1.3",
     "hidden": false,
     "author": "SezoVK",
-    "lastUpdated": "2026-06-28T07:44:14Z",
+    "lastUpdated": "2026-06-28T08:00:59Z",
     "stars": 29,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -1988,20 +1988,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "version": "9.0.2",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-06-25T01:11:26Z",
-    "stars": 10,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A bundled toolkit with 19 client modules, now including ForeignServerTranslator, Tripwire, BetterPolyAi, and AdvancedReplace in Neon unified settings. / 辅助模组十九合一，现并入 ForeignServerTranslator、Tripwire、BetterPolyAi 与 AdvancedReplace 并统一到 Neon 设置入口。"
-  },
-  {
     "repo": "wantechfan/mindustry-cool-musics",
     "internalName": "cool-musics",
     "name": "Cool Musics",
@@ -2028,6 +2014,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
+  },
+  {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "version": "9.0.2",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-06-28T10:27:35Z",
+    "stars": 10,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A bundled toolkit with 19 client modules, now including ForeignServerTranslator, Tripwire, BetterPolyAi, and AdvancedReplace in Neon unified settings. / 辅助模组十九合一，现并入 ForeignServerTranslator、Tripwire、BetterPolyAi 与 AdvancedReplace 并统一到 Neon 设置入口。"
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -2212,20 +2212,6 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "version": "V.test.0.0.38.2-126.06.17",
-    "hidden": false,
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-26T09:50:38Z",
-    "stars": 9,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
-  },
-  {
     "repo": "yroo1/kratha",
     "internalName": "kratha",
     "name": "KRATHA",
@@ -2252,6 +2238,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "version": "V.test.0.0.38.2-126.06.17",
+    "hidden": false,
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-06-28T09:26:12Z",
+    "stars": 9,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
   },
   {
     "repo": "slava0135/refine",
@@ -2590,20 +2590,6 @@
     "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
   },
   {
-    "repo": "determination-wind/radial-build-menu-hud-",
-    "internalName": "radial-build-menu",
-    "name": "圆盘快捷建造 / Radial Build Menu",
-    "version": "5.6.0",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-04-27T10:03:14Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
-  },
-  {
     "repo": "momiji142857/ve-addon-schematics",
     "internalName": "ve-addon-schematics",
     "name": "VE Addon: Schematics",
@@ -2742,6 +2728,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "determination-wind/radial-build-menu-hud-",
+    "internalName": "radial-build-menu",
+    "name": "圆盘快捷建造 / Radial Build Menu",
+    "version": "5.7.0",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-06-28T10:05:36Z",
+    "stars": 7,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
     "repo": "heroblack303/stardustry",
@@ -3030,7 +3030,7 @@
     "version": "v3.0",
     "hidden": false,
     "author": "Thinkerdoodle",
-    "lastUpdated": "2026-06-27T20:42:22Z",
+    "lastUpdated": "2026-06-28T08:55:58Z",
     "stars": 6,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -4326,20 +4326,6 @@
     "description": "Brings back old SFX."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-06-28T06:35:12Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "m1cxzfw3q/logicextend",
     "internalName": "logic-extend",
     "name": "LogicExtend - 逻辑扩展",
@@ -4352,6 +4338,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-06-28T10:21:33Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "mythril382/sardines",
@@ -5152,20 +5152,6 @@
     "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
-    "repo": "7bebebe7/javascript-mod",
-    "internalName": "jsm",
-    "name": "JS Mod",
-    "version": "1.1.1",
-    "hidden": false,
-    "author": "bebebe",
-    "lastUpdated": "2026-06-27T21:36:41Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "written entirely in JavaScript"
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -5192,6 +5178,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
+  },
+  {
+    "repo": "7bebebe7/javascript-mod",
+    "internalName": "jsm",
+    "name": "JS Mod",
+    "version": "1.1.1",
+    "hidden": false,
+    "author": "bebebe",
+    "lastUpdated": "2026-06-28T09:08:05Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "written entirely in JavaScript"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -6692,6 +6692,20 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
+    "repo": "xenonixq/blerror",
+    "internalName": "blerror",
+    "name": "Blerror",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Xenonix",
+    "lastUpdated": "2026-06-28T10:17:21Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Изменяет ohno на \"бля\"."
+  },
+  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -7770,20 +7784,6 @@
     "description": "Transport liquids with drones!"
   },
   {
-    "repo": "determination-wind/tripwire",
-    "internalName": "tripwire",
-    "name": "Tripwire",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "Player",
-    "lastUpdated": "2026-05-28T14:58:08Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
-  },
-  {
     "repo": "highspeed85/mindustry-mallpark",
     "internalName": "mallpark",
     "name": "Malldustry",
@@ -7978,5 +7978,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "маленький сборник песен бисвиди"
+  },
+  {
+    "repo": "determination-wind/tripwire",
+    "internalName": "tripwire",
+    "name": "Tripwire",
+    "version": "1.1.0",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-06-28T10:04:19Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
   }
 ]
