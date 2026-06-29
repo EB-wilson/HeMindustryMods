@@ -48,7 +48,7 @@
     "version": "2.7.79",
     "hidden": true,
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-29T15:07:07Z",
+    "lastUpdated": "2026-06-29T19:13:17Z",
     "stars": 231,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -567,7 +567,7 @@
     "hidden": true,
     "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22",
     "lastUpdated": "2026-06-27T13:03:51Z",
-    "stars": 42,
+    "stars": 43,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": true,
@@ -924,6 +924,20 @@
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
+    "repo": "mindustrydagger/vanillaplus",
+    "internalName": "vanillaplus",
+    "name": "VanillaPlus",
+    "version": "Release 1.1",
+    "hidden": false,
+    "author": "MindustryDagger",
+    "lastUpdated": "2024-07-07T10:54:08Z",
+    "stars": 25,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
+  },
+  {
     "repo": "laohuajiofficial/multiblocklib",
     "internalName": "multi-block-lib",
     "name": "Multi-Block Library",
@@ -978,20 +992,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provide an in-game GUI for DataPatcher."
-  },
-  {
-    "repo": "mindustrydagger/vanillaplus",
-    "internalName": "vanillaplus",
-    "name": "VanillaPlus",
-    "version": "Release 1.1",
-    "hidden": false,
-    "author": "MindustryDagger",
-    "lastUpdated": "2024-07-07T10:54:08Z",
-    "stars": 24,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
   },
   {
     "repo": "itzcraft/hjsonpp",
@@ -1714,7 +1714,7 @@
     "version": "0.1",
     "hidden": false,
     "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-06-29T16:05:48Z",
+    "lastUpdated": "2026-06-29T19:04:41Z",
     "stars": 12,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -4346,7 +4346,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-06-29T16:43:06Z",
+    "lastUpdated": "2026-06-29T20:58:26Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5152,27 +5152,13 @@
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
   },
   {
-    "repo": "rocket550/zytheron-technology-java-",
-    "internalName": "zytheron",
-    "name": "Zytheron Technology(Java)",
-    "version": "",
-    "hidden": false,
-    "author": "Trocket",
-    "lastUpdated": "2026-06-28T23:30:17Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a java edition of my mod that eventually will replace the json one"
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
     "version": "0.5 beta",
     "hidden": false,
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-06-29T18:01:22Z",
+    "lastUpdated": "2026-06-29T18:09:22Z",
     "stars": 2,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -5186,12 +5172,26 @@
     "version": "1.1.1",
     "hidden": false,
     "author": "bebebe",
-    "lastUpdated": "2026-06-29T18:01:56Z",
+    "lastUpdated": "2026-06-29T18:16:47Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": true,
     "hasJava": false,
     "description": "written entirely in JavaScript"
+  },
+  {
+    "repo": "rocket550/zytheron-technology-java-",
+    "internalName": "zytheron",
+    "name": "Zytheron Technology(Java)",
+    "version": "",
+    "hidden": false,
+    "author": "Trocket",
+    "lastUpdated": "2026-06-29T20:03:05Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -7966,20 +7966,6 @@
     "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.1",
-    "hidden": false,
-    "author": "一瓶圣水",
-    "lastUpdated": "2026-06-29T03:57:58Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "三角模组2.x半成品"
-  },
-  {
     "repo": "darkjeanne/schempack-manager",
     "internalName": "schempack-manager",
     "name": "SchemPack Manager",
@@ -8006,5 +7992,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-06-26[white]"
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "一瓶圣水",
+    "lastUpdated": "2026-06-29T20:33:25Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "三角模组2.x半成品"
   }
 ]
