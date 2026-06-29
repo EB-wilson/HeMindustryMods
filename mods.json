@@ -203,7 +203,7 @@
     "hidden": false,
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2025-04-01T15:38:41Z",
-    "stars": 117,
+    "stars": 116,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -245,7 +245,7 @@
     "hidden": true,
     "author": "Sharlotte",
     "lastUpdated": "2026-04-17T14:10:11Z",
-    "stars": 98,
+    "stars": 97,
     "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
@@ -510,7 +510,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-06-28T13:46:16Z",
+    "lastUpdated": "2026-06-29T12:56:43Z",
     "stars": 46,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1893,10 +1893,10 @@
     "repo": "determination-wind/neon",
     "internalName": "neon",
     "name": "Neon / 氖",
-    "version": "10.0.0",
+    "version": "10.0.2",
     "hidden": true,
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-06-29T08:52:18Z",
+    "lastUpdated": "2026-06-29T13:59:04Z",
     "stars": 11,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2016,20 +2016,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "wantechfan/mindustry-cool-musics",
-    "internalName": "cool-musics",
-    "name": "Cool Musics",
-    "version": "1.6",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-06-26T03:49:05Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
-  },
-  {
     "repo": "jojofr1/multicrafter",
     "internalName": "multicrafter",
     "name": "MultiCrafter",
@@ -2042,6 +2028,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
+  },
+  {
+    "repo": "wantechfan/mindustry-cool-musics",
+    "internalName": "cool-musics",
+    "name": "Cool Musics",
+    "version": "1.6",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-06-29T13:11:15Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -2212,20 +2212,6 @@
     "description": "Improves your experience on the official io  Flood server."
   },
   {
-    "repo": "yroo1/kratha",
-    "internalName": "kratha",
-    "name": "KRATHA",
-    "version": "0.1",
-    "hidden": false,
-    "author": "namaka",
-    "lastUpdated": "2026-06-28T15:00:15Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod that adds a new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n(Lower end device might encounter lag)\n\nThere are currently 4 playable sectors, however, the entire campaign will get a complete reworked in the next update.\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.1"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2246,12 +2232,26 @@
     "version": "V.test.0.0.38.2-126.06.17",
     "hidden": false,
     "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-29T08:40:54Z",
+    "lastUpdated": "2026-06-29T11:53:56Z",
     "stars": 9,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": true,
     "description": "[red]俺寻思之力"
+  },
+  {
+    "repo": "yroo1/kratha",
+    "internalName": "kratha",
+    "name": "KRATHA",
+    "version": "0.1",
+    "hidden": false,
+    "author": "namaka",
+    "lastUpdated": "2026-06-29T13:56:13Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod that adds a new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n(Lower end device might encounter lag)\n\nThere are currently 4 playable sectors, however, the entire campaign will get a complete reworked in the next update.\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.1"
   },
   {
     "repo": "slava0135/refine",
@@ -2400,7 +2400,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-28T21:33:59Z",
+    "lastUpdated": "2026-06-29T13:04:36Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4332,7 +4332,7 @@
     "version": "0.0.3",
     "hidden": false,
     "author": "[sky]114514[white]",
-    "lastUpdated": "2026-06-28T14:06:05Z",
+    "lastUpdated": "2026-06-29T11:51:03Z",
     "stars": 3,
     "minGameVersion": "151.1",
     "hasScripts": false,
@@ -4346,7 +4346,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-06-29T08:42:07Z",
+    "lastUpdated": "2026-06-29T13:01:31Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5138,20 +5138,6 @@
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
   },
   {
-    "repo": "7bebebe7/javascript-mod",
-    "internalName": "jsm",
-    "name": "JS Mod",
-    "version": "1.1.1",
-    "hidden": false,
-    "author": "bebebe",
-    "lastUpdated": "2026-06-28T13:02:29Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "written entirely in JavaScript"
-  },
-  {
     "repo": "rocket550/zytheron-technology-java-",
     "internalName": "zytheron",
     "name": "Zytheron Technology(Java)",
@@ -5178,6 +5164,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks / Nuevos sprites para algunos bloques.\n• New design for the planet (The front brightness issue has finally been fixed) / Nuevo diseño para el planeta (¡Por fin se arregló el problema del brillo frontal!).\n• The first sector finally works properly / El primer sector finalmente funciona correctamente.\n• Planet sector generation finally works, but it needs quite a few improvements / La generación de sectores del planeta por fin funciona, pero necesita bastantes mejoras.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference) / Nueva generación de anillos para el planeta (se usó como referencia el generador de Dyson Sphere/Ring de New Horizons).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "7bebebe7/javascript-mod",
+    "internalName": "jsm",
+    "name": "JS Mod",
+    "version": "1.1.1",
+    "hidden": false,
+    "author": "bebebe",
+    "lastUpdated": "2026-06-29T13:54:03Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "written entirely in JavaScript"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -7924,20 +7924,6 @@
     "description": "Adds a laser ground-to-air (SPAA) system designed to exceptionally handle air targets."
   },
   {
-    "repo": "momiji142857/ve-addon-momijiadd",
-    "internalName": "ve-addon-momiji",
-    "name": "VE Addon: MomijiAdd",
-    "version": "0.1",
-    "hidden": false,
-    "author": "[sky]Momiji142857[white]",
-    "lastUpdated": "2026-06-26T18:18:34Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-06-26[white]"
-  },
-  {
     "repo": "darkv-p3nt4/apex-arbitery",
     "internalName": "custom-apex",
     "name": "APEX Arbitery",
@@ -8006,5 +7992,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sync Mindustry schematics with GitHub, with auto push, pull/merge, and local-only filtering."
+  },
+  {
+    "repo": "momiji142857/ve-addon-momijiadd",
+    "internalName": "ve-addon-momiji",
+    "name": "VE Addon: MomijiAdd",
+    "version": "0.2",
+    "hidden": false,
+    "author": "[sky]Momiji142857[white]",
+    "lastUpdated": "2026-06-29T13:48:58Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-06-26[white]"
   }
 ]
