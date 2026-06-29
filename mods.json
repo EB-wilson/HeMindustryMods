@@ -412,7 +412,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-06-28T15:33:06Z",
+    "lastUpdated": "2026-06-29T03:26:24Z",
     "stars": 58,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -588,6 +588,20 @@
     "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
   },
   {
+    "repo": "itskirby69/minedusty",
+    "internalName": "",
+    "name": "MineDusty",
+    "version": "1.2.0",
+    "hidden": false,
+    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
+    "lastUpdated": "2026-06-28T18:22:19Z",
+    "stars": 41,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
+  },
+  {
     "repo": "eb-wilson/universecore",
     "internalName": "universe-core",
     "name": "Universe Core",
@@ -656,20 +670,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.9\n\n## Highlight\n1. 新增Profiler\n2. 构建支持增量编译\n3. 优化界面布局和性能\n4. 禁用JDWP功能（根本无法使用Java启动）\n5. 修复一些bug\n- 修复areaTable的`\\t`显示问题和drawMultiText的bug\n- 修复Tester代码补全快捷键冲突问题\n- 改Trigger.postDraw为Trigger.draw适配Helium\n- 修复ReferringMoveListener的只显示一会的问题\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
-  },
-  {
-    "repo": "itskirby69/minedusty",
-    "internalName": "",
-    "name": "MineDusty",
-    "version": "1.2.0",
-    "hidden": false,
-    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-06-28T18:22:19Z",
-    "stars": 40,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
   },
   {
     "repo": "rogeh4/virtual-scheme-pack-",
@@ -1154,7 +1154,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-28T13:44:17Z",
+    "lastUpdated": "2026-06-29T02:54:34Z",
     "stars": 21,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -5172,7 +5172,7 @@
     "version": "",
     "hidden": false,
     "author": "Trocket",
-    "lastUpdated": "2026-06-28T21:52:55Z",
+    "lastUpdated": "2026-06-28T23:30:17Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -7952,20 +7952,6 @@
     "description": "The World shall burn.\nThe Skies shall shatter.\nThe Heavens shall pierce.\nThe Hells shall cower.\n\nThe APEX are Awaiting for you.\n\nOkay, So were getting there to the goodie stuff... It won't take long for more content to release."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.1",
-    "hidden": false,
-    "author": "一瓶圣水",
-    "lastUpdated": "2026-06-27T17:56:40Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "三角模组2.x半成品"
-  },
-  {
     "repo": "r1tm200/bswedymusicpack",
     "internalName": "bsweedymusicpack",
     "name": "бисвиди песенки",
@@ -7992,5 +7978,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "一瓶圣水",
+    "lastUpdated": "2026-06-29T03:24:52Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "三角模组2.x半成品"
   }
 ]
