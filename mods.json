@@ -1358,7 +1358,7 @@
     "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
   },
   {
-    "repo": "kev-vily/epsilon",
+    "repo": "itzcraft/epsilon",
     "internalName": "epsilon",
     "name": "Epsilon",
     "version": "0.284",
@@ -2246,7 +2246,7 @@
     "version": "0.1",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-06-30T07:47:38Z",
+    "lastUpdated": "2026-06-30T10:54:40Z",
     "stars": 9,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2400,7 +2400,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-29T16:36:44Z",
+    "lastUpdated": "2026-06-30T10:05:47Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4346,7 +4346,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-06-30T06:45:50Z",
+    "lastUpdated": "2026-06-30T10:39:23Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5012,20 +5012,6 @@
     "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir.\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир.\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
   },
   {
-    "repo": "ramazanduruev/darklife.",
-    "internalName": "mo",
-    "name": "DarkLife",
-    "version": "0.3",
-    "hidden": false,
-    "author": "Votak",
-    "lastUpdated": "2026-05-21T18:58:38Z",
-    "stars": 2,
-    "minGameVersion": "157.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
-  },
-  {
     "repo": "determination-wind/foreignservertranslator",
     "internalName": "foreign-server-translator",
     "name": "Foreign Server Translator / 外语服务器翻译",
@@ -5138,6 +5124,20 @@
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
   },
   {
+    "repo": "darkjeanne/schempack-manager",
+    "internalName": "schempack-manager",
+    "name": "SchemPack Manager",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": "darkjeanne",
+    "lastUpdated": "2026-06-29T08:28:38Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Sync Mindustry schematics with GitHub, with auto push, pull/merge, and local-only filtering."
+  },
+  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -5180,13 +5180,27 @@
     "description": "Adds music from [#96EFFF]Celeste[white].\n\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]Check Music&Sounds.txt in the mod folder for more information.[white]"
   },
   {
+    "repo": "ramazanduruev/darklife.",
+    "internalName": "mo",
+    "name": "DarkLife",
+    "version": "0.3",
+    "hidden": false,
+    "author": "Votak",
+    "lastUpdated": "2026-06-30T08:04:03Z",
+    "stars": 2,
+    "minGameVersion": "157.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
+  },
+  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
     "version": "1.1.1",
     "hidden": false,
     "author": "bebebe",
-    "lastUpdated": "2026-06-30T07:38:18Z",
+    "lastUpdated": "2026-06-30T10:25:58Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -7964,20 +7978,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
-  },
-  {
-    "repo": "darkjeanne/schempack-manager",
-    "internalName": "schempack-manager",
-    "name": "SchemPack Manager",
-    "version": "1.0.0",
-    "hidden": false,
-    "author": "darkjeanne",
-    "lastUpdated": "2026-06-29T08:28:38Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Sync Mindustry schematics with GitHub, with auto push, pull/merge, and local-only filtering."
   },
   {
     "repo": "momiji142857/ve-addon-momijiadd",
