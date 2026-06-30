@@ -21,7 +21,7 @@
     "hidden": false,
     "author": "sk7725",
     "lastUpdated": "2026-06-04T01:57:43Z",
-    "stars": 366,
+    "stars": 364,
     "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
@@ -147,7 +147,7 @@
     "hidden": false,
     "author": "Snake",
     "lastUpdated": "2026-06-19T14:18:40Z",
-    "stars": 135,
+    "stars": 134,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -168,20 +168,6 @@
     "description": "UAW is a port and sequel to Heavy Armaments Industries, implementing new unique content to vanilla Mindustry, from more turrets, units, and crafters/factories.\n\nA lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
-    "repo": "catana791/fading-revelations",
-    "internalName": "me",
-    "name": "Fading Revelations",
-    "version": "2.3",
-    "hidden": false,
-    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2025-11-10T07:24:23Z",
-    "stars": 126,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
-  },
-  {
     "repo": "blackdeluxecat/mi2-utilities-java",
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
@@ -196,6 +182,20 @@
     "description": "QOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players."
   },
   {
+    "repo": "catana791/fading-revelations",
+    "internalName": "me",
+    "name": "Fading Revelations",
+    "version": "2.3",
+    "hidden": false,
+    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2025-11-10T07:24:23Z",
+    "stars": 125,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
     "repo": "liplum/cyberio",
     "internalName": "cyber-io",
     "name": "Cyber IO",
@@ -203,7 +203,7 @@
     "hidden": false,
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2025-04-01T15:38:41Z",
-    "stars": 116,
+    "stars": 115,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -364,20 +364,6 @@
     "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
-    "repo": "meepoffaith/testing-utilities-java",
-    "internalName": "test-utils",
-    "name": "Testing Utilities",
-    "version": "69.1",
-    "hidden": true,
-    "author": "MEEP of Faith",
-    "lastUpdated": "2026-05-25T16:07:33Z",
-    "stars": 61,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
     "repo": "liplum/multicrafterlib",
     "internalName": "multi-crafter",
     "name": "MultiCrafter Lib",
@@ -404,6 +390,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
+    "repo": "meepoffaith/testing-utilities-java",
+    "internalName": "test-utils",
+    "name": "Testing Utilities",
+    "version": "69.1",
+    "hidden": true,
+    "author": "MEEP of Faith",
+    "lastUpdated": "2026-05-25T16:07:33Z",
+    "stars": 60,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "tnmspiroct/exoprosopa",
@@ -1168,7 +1168,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-30T02:31:08Z",
+    "lastUpdated": "2026-06-30T11:12:15Z",
     "stars": 21,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1728,7 +1728,7 @@
     "version": "0.1",
     "hidden": false,
     "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-06-29T19:04:41Z",
+    "lastUpdated": "2026-06-30T13:27:17Z",
     "stars": 12,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -2044,6 +2044,20 @@
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
+    "repo": "yroo1/kratha",
+    "internalName": "kratha",
+    "name": "KRATHA",
+    "version": "0.1",
+    "hidden": false,
+    "author": "namaka",
+    "lastUpdated": "2026-06-30T13:53:35Z",
+    "stars": 10,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod that adds a new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n(Lower end device might encounter lag)\n\nThere are currently 4 playable sectors, however, the entire campaign will get a complete reworked in the next update.\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.1"
+  },
+  {
     "repo": "redstonneur1256/mindustry-modlib",
     "internalName": "!mod-library",
     "name": "Mod Library",
@@ -2240,20 +2254,6 @@
     "description": "[red]俺寻思之力"
   },
   {
-    "repo": "yroo1/kratha",
-    "internalName": "kratha",
-    "name": "KRATHA",
-    "version": "0.1",
-    "hidden": false,
-    "author": "namaka",
-    "lastUpdated": "2026-06-30T10:54:40Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod that adds a new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n(Lower end device might encounter lag)\n\nThere are currently 4 playable sectors, however, the entire campaign will get a complete reworked in the next update.\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.1"
-  },
-  {
     "repo": "slava0135/refine",
     "internalName": "refine",
     "name": "reFine",
@@ -2400,7 +2400,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-30T10:05:47Z",
+    "lastUpdated": "2026-06-30T12:05:00Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4346,7 +4346,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-06-30T10:39:23Z",
+    "lastUpdated": "2026-06-30T13:22:24Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5152,20 +5152,6 @@
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks / Nuevos sprites para algunos bloques.\n• New design for the planet (The front brightness issue has finally been fixed) / Nuevo diseño para el planeta (¡Por fin se arregló el problema del brillo frontal!).\n• The first sector finally works properly / El primer sector finalmente funciona correctamente.\n• Planet sector generation finally works, but it needs quite a few improvements / La generación de sectores del planeta por fin funciona, pero necesita bastantes mejoras.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference) / Nueva generación de anillos para el planeta (se usó como referencia el generador de Dyson Sphere/Ring de New Horizons).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
-    "repo": "rocket550/zytheron-technology-java-",
-    "internalName": "zytheron",
-    "name": "Zytheron Technology(Java)",
-    "version": "",
-    "hidden": false,
-    "author": "Trocket",
-    "lastUpdated": "2026-06-29T20:03:05Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a java edition of my mod that eventually will replace the json one"
-  },
-  {
     "repo": "p-enya/celeste-music-pack",
     "internalName": "celeste-music-pack",
     "name": "Celeste music pack",
@@ -5200,12 +5186,26 @@
     "version": "1.1.1",
     "hidden": false,
     "author": "bebebe",
-    "lastUpdated": "2026-06-30T10:25:58Z",
+    "lastUpdated": "2026-06-30T11:19:21Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": true,
     "hasJava": false,
     "description": "written entirely in JavaScript"
+  },
+  {
+    "repo": "rocket550/zytheron-technology-java-",
+    "internalName": "zytheron",
+    "name": "Zytheron Technology(Java)",
+    "version": "",
+    "hidden": false,
+    "author": "Trocket",
+    "lastUpdated": "2026-06-30T12:52:48Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -8006,19 +8006,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "三角模组2.x半成品"
-  },
-  {
-    "repo": "akilis81x/fenadi",
-    "internalName": "fenadi",
-    "name": "Fenadi",
-    "version": "0.1",
-    "hidden": false,
-    "author": "Akilis81",
-    "lastUpdated": "2026-06-30T01:38:00Z",
-    "stars": 0,
-    "minGameVersion": "154.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
   }
 ]
