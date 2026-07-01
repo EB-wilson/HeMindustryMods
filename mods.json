@@ -28,6 +28,20 @@
     "description": "My first Java mod, has the same amount of chaotic energy of sk7725/Commandblocks."
   },
   {
+    "repo": "guiymou/mindustry-extra-utilities-mod",
+    "internalName": "extra-utilities",
+    "name": "ExtraUtilities",
+    "version": "1.2.3.0",
+    "hidden": false,
+    "author": "guiY",
+    "lastUpdated": "2026-06-30T06:17:55Z",
+    "stars": 252,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An extended mod for Mindustry"
+  },
+  {
     "repo": "catana791/asthosus",
     "internalName": "asthosus",
     "name": "Asthosus",
@@ -510,7 +524,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-06-29T12:56:43Z",
+    "lastUpdated": "2026-07-01T06:35:55Z",
     "stars": 46,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1011,15 +1025,15 @@
     "repo": "rednzba990/warboundindustriesmod",
     "internalName": "wi",
     "name": "Warbound Industries",
-    "version": "1.93",
+    "version": "2-global-betaTest",
     "hidden": false,
-    "author": "Rednz990 [ DC: @red.id9990 ]",
-    "lastUpdated": "2026-07-01T03:51:49Z",
+    "author": "[ Main Developer ]\nRenn [ DC: @red.id9990 ] = Main mod creator\n\n[ Bundle ]\nBlazingGear [ DC: @justtbg_ ] = Russian translator\n\n[ Content Idea - Balancer ]\nSlyly [ DC: @tnmspiroctsub ] = Content balancer\n( Retired )",
+    "lastUpdated": "2026-07-01T05:34:46Z",
     "stars": 23,
     "minGameVersion": "147",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
-    "description": "[#AEAEAE]A mod that focuses on improving the infrastructure industry which is useful in campaign mode.\n\nAdding more crafters, distribution blocks, drills, items, and new units(include combat units, and support units) to support your gameplay!\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!"
+    "description": "This is a JavSscript Mod an adding random stuff into ingame! support Campaign too.\nMain content is QOL(Quality Of Life), but adding new Assault unit and Support unit.\nTHIS MOD IS SERPULO ONLY\n\nQOL content include:\n-Hybrid Junction,\n-One Way Liquid Unloader,\n-Liquid can be Distributed via Drone,\n-Delivery Drone, and More!\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
   },
   {
     "repo": "dong-wo-long/enhancementunits",
@@ -1168,7 +1182,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-30T11:12:15Z",
+    "lastUpdated": "2026-07-01T06:55:47Z",
     "stars": 21,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1314,6 +1328,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
+  },
+  {
+    "repo": "guiymou/mindustry-lotterymod",
+    "internalName": "lottery",
+    "name": "lottery mod（抽卡模拟）",
+    "version": "beta0.6",
+    "hidden": false,
+    "author": "guiY",
+    "lastUpdated": "2025-05-11T06:27:11Z",
+    "stars": 16,
+    "minGameVersion": "148",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
   },
   {
     "repo": "blackdeluxecat/schematicparse",
@@ -1666,6 +1694,20 @@
     "description": "Ru: Данная модификация изменяет внешний вид юнитов. Респрайты только Серпуловских юнитов.\r\n\r\nEng: This modification changes the appearance of the units. Resprites of only Serpulo units."
   },
   {
+    "repo": "guiymou/adaptivecoredatabase",
+    "internalName": "adaptivecoredatabase",
+    "name": "自适应核心数据库（Adaptive Core Database）",
+    "version": "beta0.2",
+    "hidden": true,
+    "author": "guiY",
+    "lastUpdated": "2025-04-29T05:46:57Z",
+    "stars": 12,
+    "minGameVersion": "148",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "为模组作者提供一个还原V7星球放置规则的可能，使用方法请参考README.md\n\nProvide a possibility for mod authors to restore the placement rules of V7 planet. Please refer to README.md for instructions on how to use it"
+  },
+  {
     "repo": "racti2037/real-military-techic-mod",
     "internalName": "military-techic-mod",
     "name": "Military Technic Mod",
@@ -1930,6 +1972,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
+  },
+  {
+    "repo": "guiymou/sakana-and-chinanago",
+    "internalName": "sakana",
+    "name": "~SAKANA~",
+    "version": "1.1",
+    "hidden": false,
+    "author": "guiY",
+    "lastUpdated": "2024-10-13T02:39:15Z",
+    "stars": 10,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "莉可丽丝的弹弹弹\n有点上头就做了，之前一直忘了"
   },
   {
     "repo": "slotterleet/a-lot-of-damage",
