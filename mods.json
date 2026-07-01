@@ -1014,7 +1014,7 @@
     "version": "1.93",
     "hidden": false,
     "author": "Rednz990 [ DC: @red.id9990 ]",
-    "lastUpdated": "2026-04-13T19:16:26Z",
+    "lastUpdated": "2026-07-01T03:51:49Z",
     "stars": 23,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2400,7 +2400,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-06-30T17:11:51Z",
+    "lastUpdated": "2026-07-01T00:16:52Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4270,20 +4270,6 @@
     "description": "Adds a jumpscares to your game. Goodluck."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.7",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-06-05T13:04:02Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "no9527dada/ctcoresystem",
     "internalName": "ctcoresystem",
     "name": "创世神核心加载系统前置",
@@ -4352,6 +4338,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.7",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-07-01T01:41:07Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "mythril382/sardines",
@@ -6692,20 +6692,6 @@
     "description": "[RU]Данный мод добавляет логические блоки в Erekir.\n[ENG]This mod adds logic blocks to Erekir."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.3.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-06-29T23:29:25Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "w-a-a-a-a/extra-technologies",
     "internalName": "extra-technologies",
     "name": "Extra Technologies",
@@ -6718,6 +6704,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.3.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-07-01T02:15:00Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
