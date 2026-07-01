@@ -720,7 +720,7 @@
     "version": "2.4",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-07-01T12:58:03Z",
+    "lastUpdated": "2026-07-01T17:35:33Z",
     "stars": 38,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1008,20 +1008,6 @@
     "description": "Provide an in-game GUI for DataPatcher."
   },
   {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "version": "1.21",
-    "hidden": false,
-    "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
-    "lastUpdated": "2026-06-17T08:43:20Z",
-    "stars": 24,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
-  },
-  {
     "repo": "rednzba990/warboundindustriesmod",
     "internalName": "wi",
     "name": "Warbound Industries",
@@ -1034,6 +1020,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a JavSscript Mod an adding random stuff into ingame! support Campaign too.\nMain content is QOL(Quality Of Life), but adding new Assault unit and Support unit.\nTHIS MOD IS SERPULO ONLY\n\nQOL content include:\n-Hybrid Junction,\n-One Way Liquid Unloader,\n-Liquid can be Distributed via Drone,\n-Delivery Drone, and More!\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
+  },
+  {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "version": "1.21",
+    "hidden": false,
+    "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
+    "lastUpdated": "2026-07-01T18:26:31Z",
+    "stars": 24,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "dong-wo-long/enhancementunits",
@@ -1770,7 +1770,7 @@
     "version": "0.1",
     "hidden": false,
     "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-06-30T13:27:17Z",
+    "lastUpdated": "2026-07-01T19:51:01Z",
     "stars": 12,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -2456,7 +2456,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-01T16:25:47Z",
+    "lastUpdated": "2026-07-01T19:17:08Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4402,7 +4402,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-01T15:43:38Z",
+    "lastUpdated": "2026-07-01T19:24:41Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5236,20 +5236,6 @@
     "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
-    "repo": "m1cxzfw3q/thermal-engineering",
-    "internalName": "temod",
-    "name": "Thermal Engineering Java",
-    "version": "0.0.2pA",
-    "hidden": false,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-06-30T15:28:47Z",
-    "stars": 2,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
-  },
-  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
@@ -5262,6 +5248,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "written entirely in JavaScript"
+  },
+  {
+    "repo": "m1cxzfw3q/thermal-engineering",
+    "internalName": "temod",
+    "name": "Thermal Engineering Java",
+    "version": "0.0.2pA",
+    "hidden": false,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-07-01T17:53:43Z",
+    "stars": 2,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
