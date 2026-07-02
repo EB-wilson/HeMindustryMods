@@ -427,7 +427,7 @@
     "hidden": false,
     "author": "TnmSpiroct",
     "lastUpdated": "2026-07-01T21:54:10Z",
-    "stars": 58,
+    "stars": 59,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
@@ -1182,7 +1182,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-01T15:23:26Z",
+    "lastUpdated": "2026-07-02T03:34:35Z",
     "stars": 21,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1750,20 +1750,6 @@
     "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
   },
   {
-    "repo": "wantechfan/mindustry-cursed-bundles",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "version": "1.13",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-06-27T06:27:19Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1776,6 +1762,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "wantechfan/mindustry-cursed-bundles",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "version": "1.13",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-07-02T01:46:11Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
     "repo": "jhrushbe/moardustry",
@@ -4402,7 +4402,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-01T23:10:28Z",
+    "lastUpdated": "2026-07-02T00:59:30Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5242,7 +5242,7 @@
     "version": "",
     "hidden": false,
     "author": "Trocket",
-    "lastUpdated": "2026-07-01T20:43:05Z",
+    "lastUpdated": "2026-07-02T01:04:14Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -5256,7 +5256,7 @@
     "version": "0.5 beta",
     "hidden": false,
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-01T21:36:05Z",
+    "lastUpdated": "2026-07-02T01:35:51Z",
     "stars": 2,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -6762,6 +6762,20 @@
     "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
   },
   {
+    "repo": "wynej/map-collection",
+    "internalName": "map-collection",
+    "name": "Map Collection",
+    "version": "b0.1",
+    "hidden": true,
+    "author": "Wine",
+    "lastUpdated": "2026-07-01T12:33:46Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Simple json mod containing many high quality mindustry maps. Currently in beta. All maps use natural terrain styles and are fully vanilla compatible.\n\n[stat]Thanks to all the map creators who let me include their maps here!"
+  },
+  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -8062,19 +8076,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "三角模组2.x半成品"
-  },
-  {
-    "repo": "wynej/map-collection",
-    "internalName": "map-collection",
-    "name": "Map Collection",
-    "version": "b0.1",
-    "hidden": true,
-    "author": "Wine",
-    "lastUpdated": "2026-07-01T12:33:46Z",
-    "stars": 0,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Simple json mod containing many high quality mindustry maps. Currently in beta. All maps use natural terrain styles and are fully vanilla compatible.\n\n[stat]Thanks to all the map creators who let me include their maps here!"
   }
 ]
