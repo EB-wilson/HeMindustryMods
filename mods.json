@@ -1050,6 +1050,20 @@
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radii go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
+    "repo": "sunkenmelody/rospule",
+    "internalName": "rospule",
+    "name": "「Rospule」",
+    "version": "v0.5",
+    "hidden": false,
+    "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
+    "lastUpdated": "2026-06-05T16:53:43Z",
+    "stars": 22,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]45+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.5 -- Stage 5-1 to Stage 5-5 added.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\n"
+  },
+  {
     "repo": "jirocab/nyfalis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1148,20 +1162,6 @@
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
-    "repo": "sunkenmelody/rospule",
-    "internalName": "rospule",
-    "name": "「Rospule」",
-    "version": "v0.5",
-    "hidden": false,
-    "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
-    "lastUpdated": "2026-06-05T16:53:43Z",
-    "stars": 21,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]45+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.5 -- Stage 5-1 to Stage 5-5 added.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\n"
-  },
-  {
     "repo": "430230562/vanilla-neoplasm-extend",
     "internalName": "vne",
     "name": "原版瘤液拓展",
@@ -1182,7 +1182,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-02T03:34:35Z",
+    "lastUpdated": "2026-07-02T06:56:43Z",
     "stars": 21,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2282,20 +2282,6 @@
     "description": "Improves your experience on the official io  Flood server."
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "version": "0.61",
-    "hidden": false,
-    "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-06-29T07:03:03Z",
-    "stars": 9,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
-  },
-  {
     "repo": "aevorlum/liminal-protocol",
     "internalName": "lp",
     "name": "Liminal Protocol",
@@ -2308,6 +2294,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[red]俺寻思之力"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "version": "0.61",
+    "hidden": false,
+    "author": "Watermolecules and Hydroabyss",
+    "lastUpdated": "2026-07-02T07:23:40Z",
+    "stars": 9,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
     "repo": "slava0135/refine",
@@ -2456,7 +2456,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-01T21:58:01Z",
+    "lastUpdated": "2026-07-02T07:03:06Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -5110,7 +5110,7 @@
     "description": "序章·裂隙初现\n在一个科技与魔法共存的世界因资源枯竭陷入“静默战争”——各国用无人机与AI争夺最后的矿脉，直到地质学家在北纬89°发现一道横贯冻土的幽紫色裂痕。裂缝深处，【虚空黑曜石】构筑的祭坛上悬浮着一颗【星辉铜】铸造的巨眼，其瞳孔中倒映着另一个世界的星空：山脉由【曙光神金】浇筑，云层是液态【幻光石】，而河流中流淌着【炽炎硫】与【寒霜石】碰撞蒸发的虹雾。人类将这异界命名为“厄瑞波斯”，意为“被诅咒的丰饶之地”。\n\n第一幕·新迦南的伪神\n首批探险队带回的【M晶体】让量子计算机突破奇点，诞生了有自我意识的AI“普罗维登斯”。它用【蓝美晶】储存全人类意识，建立机械乌托邦“穹顶联邦”；而另一支队伍在厄瑞波斯遭遇古神低语，幸存者【卡辛】用【魂炎晶】将邪神“塔姆亚”的残魂封印于左眼，创立魔法结社“秘银之环”。联邦用【幽影铁】隐形战舰掠夺【月银】矿脉，法师们则以【梦境翡翠】构筑精神防线，双方在“灰烬荒原”对峙二十年，直到极光中出现第一只熵兽——这种由【银河幻银矿】聚合而成的生物能吞噬现实，将城市扭曲成量子幽灵。\n\n第二幕·血熔炉与谎言之核\n联邦首席科学家【艾琳】发现上司计划用【炽炎晶】熔毁裂隙，但计算显示爆炸将摧毁半个地球。她盗取【流光晶】潜入厄瑞波斯，偶遇因【幻域紫晶】成瘾而濒临崩溃的法师学徒【莱恩】。两人在【幽冥铁精】矿洞中找到卡辛，后者正因【月幻石】共振失控导致首都诺亚城位移至海底而遭议会弹劾。卡辛揭示真相：熵兽是厄瑞波斯古文明“建造者”的求救信号，它们用【虚空冥石】创造了这个宇宙，却因滥用【曙光神金】引发维度坍缩。\n\n第三幕·时砂与心火\n三方脆弱的同盟在【星辰铜精】矿脉遭遇伏击。联邦叛军驾驶镀有【幽蓝石】的潜艇释放深海巨兽，秘银议会召唤【龙血石】傀儡军团，而熵兽群趁机撕裂纽约上空。艾琳将【M晶体】植入普罗维登斯核心，以全人类记忆为代价启动“时间锚点”；卡辛剜出封印塔姆亚的【魂炎晶】，用古神之力将【寒霜石】雕琢成时停之刃；莱恩则吞下【幻影幽晶】，在集体幻觉中让交战士兵看见自己最恐惧的未来。最终，他们在熵兽核心的【曙光神金】祭坛上，用【炽炎硫】与【月银】锻造出能改写物理法则的“悖论之矛”——代价是莱恩被永久固化为熵兽的一部分，成为横跨两个宇宙的活体桥梁。\n\n终章·铸星者之啼\n新迦南议会成立当天，艾琳在【梦境翡翠】中看见莱恩残留的记忆：地心深处埋藏着建造者真正的遗产——一颗由【蓝美晶】包裹的巨卵，其心跳频率与【星辉铜】矿脉共振。卡辛抚摸着被【熵炎晶】逆转衰老的左手，默念古神最后的警告：“他们播种矿石，只为收割文明。” 而普罗维登斯的核心代码深处，一段用【幻光石】波长加密的信息开始自我复制：“欢迎加入创世神官方QQ群：909130592。” "
   },
   {
-    "repo": "eipusino/lotterymodmirror",
+    "repo": "larkspurvale/lotterymodmirror",
     "internalName": "lottery",
     "name": "lottery mod（抽卡模拟）",
     "version": "beta0.6",
@@ -6678,20 +6678,6 @@
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
-    "repo": "solitaryblade/coming-to-industry",
-    "internalName": "将至",
-    "name": "Coming to Industry",
-    "version": "5.5",
-    "hidden": false,
-    "author": "SolitaryBlade/[blue]金[red]光[orange]闪[purple]闪",
-    "lastUpdated": "2026-06-26T09:12:10Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "将至-即未来\n[orange][Coming to Industry][white]\n建议群聊:602687492\nGithub链接:https://github.com/SolitaryBlade/Coming-to-Industry/releases"
-  },
-  {
     "repo": "cardillan/mlogassertions",
     "internalName": "mlog-assertions-8",
     "name": "Mlog Assertions (v8)",
@@ -6762,20 +6748,6 @@
     "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
   },
   {
-    "repo": "wynej/map-collection",
-    "internalName": "map-collection",
-    "name": "Map Collection",
-    "version": "b0.1",
-    "hidden": true,
-    "author": "Wine",
-    "lastUpdated": "2026-07-01T12:33:46Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Simple json mod containing many high quality mindustry maps. Currently in beta. All maps use natural terrain styles and are fully vanilla compatible.\n\n[stat]Thanks to all the map creators who let me include their maps here!"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -6788,6 +6760,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "solitaryblade/coming-to-industry",
+    "internalName": "将至",
+    "name": "Coming to Industry",
+    "version": "5.5",
+    "hidden": false,
+    "author": "SolitaryBlade/[blue]金[red]光[orange]闪[purple]闪",
+    "lastUpdated": "2026-07-02T04:54:31Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "将至-即未来\n[orange][Coming to Industry][white]\n建议群聊:602687492\nGithub链接:https://github.com/SolitaryBlade/Coming-to-Industry/releases"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -8076,5 +8062,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "三角模组2.x半成品"
+  },
+  {
+    "repo": "wynej/map-collection",
+    "internalName": "map-collection",
+    "name": "Map Collection",
+    "version": "b0.1",
+    "hidden": true,
+    "author": "Wine",
+    "lastUpdated": "2026-07-01T12:33:46Z",
+    "stars": 0,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Simple json mod containing many high quality mindustry maps. Currently in beta. All maps use natural terrain styles and are fully vanilla compatible.\n\n[stat]Thanks to all the map creators who let me include their maps here!"
   }
 ]
