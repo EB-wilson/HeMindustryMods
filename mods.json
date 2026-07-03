@@ -6,7 +6,7 @@
     "version": "2.1.0",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-07-03T10:45:58Z",
+    "lastUpdated": "2026-07-03T16:21:24Z",
     "stars": 594,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -62,7 +62,7 @@
     "version": "2.7.79",
     "hidden": true,
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-29T19:13:17Z",
+    "lastUpdated": "2026-07-03T17:24:26Z",
     "stars": 231,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -146,7 +146,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-07-03T13:43:29Z",
+    "lastUpdated": "2026-07-03T15:03:47Z",
     "stars": 137,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1182,7 +1182,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-03T11:35:38Z",
+    "lastUpdated": "2026-07-03T15:34:50Z",
     "stars": 21,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1484,20 +1484,6 @@
     "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
   },
   {
-    "repo": "wytniks/kill-reward-mod-25frame",
-    "internalName": "kill-reward-mod-25frame",
-    "name": "Kill Reward Mod",
-    "version": "[blue]1.4.4",
-    "hidden": false,
-    "author": "25frame aka wytnik",
-    "lastUpdated": "2026-05-22T12:06:29Z",
-    "stars": 14,
-    "minGameVersion": "152",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
-  },
-  {
     "repo": "meepoffaith/hallucinogen",
     "internalName": "hallucinogen",
     "name": "Hallucinogen",
@@ -1580,6 +1566,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru: Данная модификация изменяет внешний вид Серпуло. Респрайт некоторой части Эрекира.\r\n\r\nEng: This modification changes the appearance of the Serpulo. Resprite of some part of the Erekir.\r\n\r\nThx to retodera, Sputnuc and mellory for the help with the scripts."
+  },
+  {
+    "repo": "wytniks/kill-reward-mod-25frame",
+    "internalName": "kill-reward-mod-25frame",
+    "name": "Kill Reward Mod",
+    "version": "[blue]1.4.4",
+    "hidden": false,
+    "author": "25frame aka wytnik",
+    "lastUpdated": "2026-05-22T12:06:29Z",
+    "stars": 13,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
   },
   {
     "repo": "no9527dada/ct-origin",
@@ -1750,20 +1750,6 @@
     "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
   },
   {
-    "repo": "wantechfan/mindustry-cursed-bundles",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "version": "1.13",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-07-02T15:03:30Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1776,6 +1762,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "wantechfan/mindustry-cursed-bundles",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "version": "1.13",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-07-03T15:33:37Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
     "repo": "jhrushbe/moardustry",
@@ -1938,7 +1938,7 @@
     "version": "101.3",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-07-02T07:46:16Z",
+    "lastUpdated": "2026-07-03T14:50:50Z",
     "stars": 11,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -2058,20 +2058,6 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "version": "0.3.4",
-    "hidden": false,
-    "author": "Slashkig, IAmRustee, VoidThreader, Phil",
-    "lastUpdated": "2026-06-24T16:47:47Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
     "repo": "jojofr1/multicrafter",
     "internalName": "multicrafter",
     "name": "MultiCrafter",
@@ -2112,6 +2098,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mod that adds a new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n(Lower end device might encounter lag)\n\nThere are currently 4 playable sectors, however, the entire campaign will get a complete reworked in the next update.\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.1"
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "version": "0.3.4",
+    "hidden": false,
+    "author": "Slashkig, IAmRustee, VoidThreader, Phil",
+    "lastUpdated": "2026-07-03T14:28:15Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -2456,7 +2456,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-03T12:57:44Z",
+    "lastUpdated": "2026-07-03T17:20:42Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2792,7 +2792,7 @@
     "version": "101.3",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-07-03T11:13:14Z",
+    "lastUpdated": "2026-07-03T14:42:33Z",
     "stars": 7,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -3052,20 +3052,6 @@
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
   },
   {
-    "repo": "i-drink-gasoline/admin-button-2",
-    "internalName": "admin-button-2",
-    "name": "Admin Button 2",
-    "version": "30",
-    "hidden": true,
-    "author": "I drink gasoline",
-    "lastUpdated": "2026-06-30T07:22:46Z",
-    "stars": 6,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add an admin button."
-  },
-  {
     "repo": "bsp-2/factory-simulator",
     "internalName": "factory-sim",
     "name": "The Factory Must Grow",
@@ -3092,6 +3078,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
+  },
+  {
+    "repo": "i-drink-gasoline/admin-button-2",
+    "internalName": "admin-button-2",
+    "name": "Admin Button 2",
+    "version": "31",
+    "hidden": true,
+    "author": "I drink gasoline",
+    "lastUpdated": "2026-07-03T16:48:12Z",
+    "stars": 6,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add an admin button."
   },
   {
     "repo": "vadit2020/betamindytranslated",
@@ -3346,20 +3346,6 @@
     "description": "虚空盾\n\n一个由kotlin编写，参看战锤40k虚空盾的全新护盾系统\n\n全新的指令集，让护盾使用的自由度大大提高。全新的热量系统，与原版热量系统与众不同的体验\n\n全新的护盾机制，令人焕然一新\n需要一定的逻辑基础\n在这里，你可以：\n1. 创建一个自定义形状的护盾\n2. 可以通多逻辑来控制你的护盾\n3. 通过建筑的堆叠和逻辑优化不断升级你的护盾\n\n游玩指栏：\n首先，你需要建筑虚空之心，帷幕溶解器，空间穿刺机，和一个用于控制这个系统的逻辑处理器\n然后，为这个系统搭建其独立的散热线路\n最后，编写控制它们的逻辑\n\n逻辑编写指栏：\n\n首先，你需要使用CircleZone（或其他）来创建一个场，然后使用UseZone来将这个场加载到对应建筑，\n最后，使用UpdateZone来控制这个场\n\n如果你想要让它可以阻挡子弹，你需要使用Bind来把帷幕溶解器绑定给空间穿刺机，最后使用AutoBlock开启自动拦截\n这套逻辑将在未来继续扩展\n\n目前mod还在开发测试中，欢迎issue\n\n代码编写: ZXS\n贴图制作: 花杨永瀛\n委托: 一得阁拉米\n\n\nVoid Shield\n\nA brand-new shield system written in Kotlin, inspired by Warhammer 40K's Void Shield.\n\nNew instruction set, greatly improving the freedom of shield usage. New heat system, a completely different experience from the vanilla heat system.\nNew shield mechanism, a refreshing new gameplay.\n\nRequires some basic knowledge of logic programming.\n\nHere, you can:\n\n1. Create shields with custom shapes\n2. Control shields via the Logic Processor\n3. Continuously upgrade shields through block stacking and logic optimization\n\n\nHow to Play:\nFirst, build a Void Heart, a Veil Dissolver, a Spatial Piercer, and a Logic Processor to control this system\nThen, set up an independent cooling line for this system\nFinally, write logic to control them\n\nLogic Scripting Guide:\n\nFirst, use CircleZone (or others) to create a zone, then use UseZone to load that zone into the corresponding block,\nFinally, use UpdateZone to control that zone\n\nIf you want it to block bullets, use Bind to bind the Veil Dissolver to the Spatial Piercer, then use AutoBlock to activate automatic interception\nThis instruction set will continue to be expanded in the future.\n\nThis mod is currently under active development and testing. Issues and feedback are welcome!\n\nCode: ZXS\nSprites: 花杨永瀛\nCommission: 一得阁拉米"
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.5.3",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-06-17T15:36:37Z",
-    "stars": 5,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
     "repo": "unquis/fading-revelations-remake",
     "internalName": "fading-revelations-remake",
     "name": "Fading Revelations Remake",
@@ -3372,6 +3358,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.5.3",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-07-03T15:37:05Z",
+    "stars": 5,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "shimyytrov/turretex-java",
@@ -4402,7 +4402,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-03T12:52:12Z",
+    "lastUpdated": "2026-07-03T16:48:37Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5242,7 +5242,7 @@
     "version": "1.1.1",
     "hidden": false,
     "author": "bebebe",
-    "lastUpdated": "2026-07-03T13:18:16Z",
+    "lastUpdated": "2026-07-03T17:22:55Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -6796,7 +6796,7 @@
     "version": "0.9.1 (alpha)",
     "hidden": false,
     "author": "SporBel",
-    "lastUpdated": "2026-07-03T13:59:36Z",
+    "lastUpdated": "2026-07-03T14:39:40Z",
     "stars": 1,
     "minGameVersion": "152",
     "hasScripts": false,
