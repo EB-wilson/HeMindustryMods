@@ -426,7 +426,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-07-01T21:54:10Z",
+    "lastUpdated": "2026-07-03T03:58:29Z",
     "stars": 59,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -496,7 +496,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-07-03T01:51:06Z",
+    "lastUpdated": "2026-07-03T03:40:25Z",
     "stars": 48,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -1008,20 +1008,6 @@
     "description": "Provide an in-game GUI for DataPatcher."
   },
   {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "version": "1.21",
-    "hidden": false,
-    "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
-    "lastUpdated": "2026-07-02T20:37:13Z",
-    "stars": 24,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
-  },
-  {
     "repo": "rednzba990/warboundindustriesmod",
     "internalName": "wi",
     "name": "Warbound Industries",
@@ -1034,6 +1020,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a JavSscript Mod an adding random stuff into ingame! support Campaign too.\nMain content is QOL(Quality Of Life), but adding new Assault unit and Support unit.\nTHIS MOD IS SERPULO ONLY\n\nQOL content include:\n-Hybrid Junction,\n-One Way Liquid Unloader,\n-Liquid can be Distributed via Drone,\n-Delivery Drone, and More!\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
+  },
+  {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "version": "1.21",
+    "hidden": false,
+    "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
+    "lastUpdated": "2026-07-03T06:49:12Z",
+    "stars": 24,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "dong-wo-long/enhancementunits",
@@ -1182,7 +1182,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-03T03:13:42Z",
+    "lastUpdated": "2026-07-03T05:59:41Z",
     "stars": 21,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2106,7 +2106,7 @@
     "version": "0.1",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-07-03T02:05:54Z",
+    "lastUpdated": "2026-07-03T06:02:56Z",
     "stars": 10,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -5236,20 +5236,6 @@
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
-    "repo": "rocket550/zytheron-technology-java-",
-    "internalName": "zytheron",
-    "name": "Zytheron Technology(Java)",
-    "version": "",
-    "hidden": false,
-    "author": "Trocket",
-    "lastUpdated": "2026-07-03T03:00:34Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a java edition of my mod that eventually will replace the json one"
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -5262,6 +5248,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks / Nuevos sprites para algunos bloques.\n• New design for the planet (The front brightness issue has finally been fixed) / Nuevo diseño para el planeta (¡Por fin se arregló el problema del brillo frontal!).\n• The first sector finally works properly / El primer sector finalmente funciona correctamente.\n• Planet sector generation finally works, but it needs quite a few improvements / La generación de sectores del planeta por fin funciona, pero necesita bastantes mejoras.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference) / Nueva generación de anillos para el planeta (se usó como referencia el generador de Dyson Sphere/Ring de New Horizons).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "rocket550/zytheron-technology-java-",
+    "internalName": "zytheron",
+    "name": "Zytheron Technology(Java)",
+    "version": "",
+    "hidden": false,
+    "author": "Trocket",
+    "lastUpdated": "2026-07-03T03:56:58Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -8084,11 +8084,25 @@
     "version": "[#00ff00]1.0.0",
     "hidden": false,
     "author": "IambottokVN",
-    "lastUpdated": "2026-07-02T15:52:42Z",
+    "lastUpdated": "2026-07-03T06:00:17Z",
     "stars": 0,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds new units, items, and content to the game."
+  },
+  {
+    "repo": "vkazee/mindustry-force-landscape",
+    "internalName": "force-landscape-toggle",
+    "name": "Force Landscape Toggle",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Vkazee",
+    "lastUpdated": "2026-07-03T06:50:20Z",
+    "stars": 0,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Added a manual option in Settings to force landscape mode on Android/iOS, without having to change the phone's rotation settings."
   }
 ]
