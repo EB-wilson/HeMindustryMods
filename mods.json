@@ -5222,20 +5222,6 @@
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks / Nuevos sprites para algunos bloques.\n• New design for the planet (The front brightness issue has finally been fixed) / Nuevo diseño para el planeta (¡Por fin se arregló el problema del brillo frontal!).\n• The first sector finally works properly / El primer sector finalmente funciona correctamente.\n• Planet sector generation finally works, but it needs quite a few improvements / La generación de sectores del planeta por fin funciona, pero necesita bastantes mejoras.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference) / Nueva generación de anillos para el planeta (se usó como referencia el generador de Dyson Sphere/Ring de New Horizons).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
-    "repo": "rocket550/zytheron-technology-java-",
-    "internalName": "zytheron",
-    "name": "Zytheron Technology(Java)",
-    "version": "",
-    "hidden": false,
-    "author": "Trocket",
-    "lastUpdated": "2026-07-03T03:56:58Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a java edition of my mod that eventually will replace the json one"
-  },
-  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
@@ -5248,6 +5234,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "written entirely in JavaScript"
+  },
+  {
+    "repo": "rocket550/zytheron-technology-java-",
+    "internalName": "zytheron",
+    "name": "Zytheron Technology(Java)",
+    "version": "",
+    "hidden": false,
+    "author": "Trocket",
+    "lastUpdated": "2026-07-03T19:51:49Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
@@ -8104,5 +8104,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds new units, items, and content to the game."
+  },
+  {
+    "repo": "vini230909/vinicator",
+    "internalName": "vinicator",
+    "name": "Vinicator",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Vini230909",
+    "lastUpdated": "2026-07-03T19:59:41Z",
+    "stars": 0,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
   }
 ]
