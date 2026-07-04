@@ -6,7 +6,7 @@
     "version": "2.1.0",
     "hidden": false,
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-07-03T16:21:24Z",
+    "lastUpdated": "2026-07-04T11:03:31Z",
     "stars": 594,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -700,20 +700,6 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
-    "repo": "coaldeficit/moredefences",
-    "internalName": "md3",
-    "name": "MoreDefences",
-    "version": "3.2.0",
-    "hidden": false,
-    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-06-10T16:22:02Z",
-    "stars": 38,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
-  },
-  {
     "repo": "xpdustry/claj",
     "internalName": "claj",
     "name": "CLaJ",
@@ -726,6 +712,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends.\n\nNote: To install the mod for Mindustry v8, click 'View Releases' instead of 'Install' and install the latest version named 'CLaJ for Mindustry V8'."
+  },
+  {
+    "repo": "coaldeficit/moredefences",
+    "internalName": "md3",
+    "name": "MoreDefences",
+    "version": "3.2.0",
+    "hidden": false,
+    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
+    "lastUpdated": "2026-07-04T12:07:23Z",
+    "stars": 38,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
   },
   {
     "repo": "retodera/technologium",
@@ -1084,7 +1084,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-04T07:57:09Z",
+    "lastUpdated": "2026-07-04T11:11:16Z",
     "stars": 22,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2106,7 +2106,7 @@
     "version": "0.1",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-07-04T09:52:46Z",
+    "lastUpdated": "2026-07-04T13:25:43Z",
     "stars": 10,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2302,7 +2302,7 @@
     "version": "V.test.0.0.38.2-126.06.17",
     "hidden": false,
     "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-07-04T09:50:50Z",
+    "lastUpdated": "2026-07-04T11:08:36Z",
     "stars": 9,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -2744,6 +2744,20 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
+    "repo": "bsp-2/factory-simulator",
+    "internalName": "factory-sim",
+    "name": "The Factory Must Grow",
+    "version": "v3.0",
+    "hidden": false,
+    "author": "Thinkerdoodle",
+    "lastUpdated": "2026-07-01T21:32:39Z",
+    "stars": 7,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
+  },
+  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -3050,20 +3064,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
-  },
-  {
-    "repo": "bsp-2/factory-simulator",
-    "internalName": "factory-sim",
-    "name": "The Factory Must Grow",
-    "version": "v3.0",
-    "hidden": false,
-    "author": "Thinkerdoodle",
-    "lastUpdated": "2026-07-01T21:32:39Z",
-    "stars": 6,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
   },
   {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
@@ -4214,6 +4214,20 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
+    "repo": "axilians/arx-alpha-mod-mindustry",
+    "internalName": "arx-khimeris",
+    "name": "⚠ Test Mod",
+    "version": "0.0.2",
+    "hidden": false,
+    "author": "Axilians",
+    "lastUpdated": "2026-04-14T08:58:15Z",
+    "stars": 3,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]Do not[] install this mod \n"
+  },
+  {
     "repo": "routerxdd/cringe-mod",
     "internalName": "cringe",
     "name": "Total cringe",
@@ -4382,20 +4396,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-07-04T03:25:58Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "m1cxzfw3q/logicextend",
     "internalName": "logic-extend",
     "name": "LogicExtend - 逻辑扩展",
@@ -4408,6 +4408,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-07-04T13:20:59Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "mythril382/sardines",
@@ -4996,20 +5010,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": " A single JS script that makes game a lot harder. \n \n Thx Sputnic for optimization and the idea of changing statistics using js script \n \n This mod: \n 1. Makes all blocks cost 10 times more \n 2. Makes hp of blocks 10 times less \n 3. Makes itemCapacity in all Cores 10 times more (so you could place some blocks) \n 4. Makes buildCostMultiplier = 10 (so you can place blocks and not wait for eternity) \n 5. Idk makes early game a lil bit harder (drillTime of mechanicalDrill is *= 1.25)"
-  },
-  {
-    "repo": "axilians/arx-alpha-mod-mindustry",
-    "internalName": "arx-khimeris",
-    "name": "⚠ Test Mod",
-    "version": "0.0.2",
-    "hidden": false,
-    "author": "Axilians",
-    "lastUpdated": "2026-04-14T08:58:15Z",
-    "stars": 2,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]Do not[] install this mod \n"
   },
   {
     "repo": "mr816543/endless_compression",
@@ -6762,20 +6762,6 @@
     "description": "将至-即未来\n[orange][Coming to Industry][white]\n建议群聊:602687492\nGithub链接:https://github.com/SolitaryBlade/Coming-to-Industry/releases"
   },
   {
-    "repo": "vkazee/mindustry-force-landscape",
-    "internalName": "force-landscape-toggle",
-    "name": "Force Landscape Toggle",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Vkazee",
-    "lastUpdated": "2026-07-03T06:50:20Z",
-    "stars": 1,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Added a manual option in Settings to force landscape mode on Android/iOS, without having to change the phone's rotation settings."
-  },
-  {
     "repo": "128oteml/mindustryoptifine",
     "internalName": "mindustry-optifine",
     "name": "Mindustry OptiFine",
@@ -6788,34 +6774,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A modern shaders mod for Mindustry."
-  },
-  {
-    "repo": "sporbelamogus/sporbels-inventions",
-    "internalName": "sporbel's inventions",
-    "name": "SporBel's Inventions",
-    "version": "0.9.1 (alpha)",
-    "hidden": false,
-    "author": "SporBel",
-    "lastUpdated": "2026-07-03T14:39:40Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
-    "repo": "hiboy15/industries",
-    "internalName": "better industries",
-    "name": "industries",
-    "version": "beta",
-    "hidden": false,
-    "author": "24lowie",
-    "lastUpdated": "2026-07-04T02:37:48Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "has some amazing industries"
   },
   {
     "repo": "vini230909/turretautofill",
@@ -6844,6 +6802,48 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
+  },
+  {
+    "repo": "hiboy15/industries",
+    "internalName": "better industries",
+    "name": "industries",
+    "version": "beta",
+    "hidden": false,
+    "author": "24lowie",
+    "lastUpdated": "2026-07-04T12:14:58Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "has some amazing industries"
+  },
+  {
+    "repo": "vkazee/mindustry-force-landscape",
+    "internalName": "force-landscape-toggle",
+    "name": "Force Landscape Toggle",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Vkazee",
+    "lastUpdated": "2026-07-04T12:33:52Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Added a manual option in Settings to force landscape mode on Android/iOS, without having to change the phone's rotation settings."
+  },
+  {
+    "repo": "sporbelamogus/sporbels-inventions",
+    "internalName": "sporbel's inventions",
+    "name": "SporBel's Inventions",
+    "version": "0.9.3",
+    "hidden": false,
+    "author": "SporBel",
+    "lastUpdated": "2026-07-04T13:08:52Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
