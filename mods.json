@@ -563,15 +563,15 @@
     "repo": "andromeda-galaxy29/psammos-mod",
     "internalName": "psammos",
     "name": "Psammos Mod",
-    "version": "1.4.1",
+    "version": "1.5",
     "hidden": false,
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-07-06T19:22:00Z",
+    "lastUpdated": "2026-07-06T20:55:00Z",
     "stars": 44,
-    "minGameVersion": "147",
+    "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#f1c40f]Team members:[]\r\n- [#6e7f96] Andromeda-Galaxy29[]\r\n- [#6e7f96] iRatzeyMezeri[]\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2] thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2] tinport[] - various suggestions and maps\r\n- [#5865f2] mrapple_0[] - maps\r\n- [#5865f2] cirrusisakey[] - help with sfx\r\n- [#6e7f96] xhstoyea[] - Chinese translations\r\n\r\n[#9b59b6]Other thanks:[]\r\n- [#5865f2] chozochorizo[] for help with balancing the mod\r\n- [#6e7f96] ThomasThings[] and [#6e7f96] Twcash[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2] nekoarkbruhagain_07111[]\r\n- [#5865f2] allayscrafter[]"
   },
   {
     "repo": "00sunray00/scheme-size-port",
@@ -2456,7 +2456,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-06T19:54:00Z",
+    "lastUpdated": "2026-07-06T21:32:48Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2730,20 +2730,6 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
-    "repo": "bsp-2/factory-simulator",
-    "internalName": "factory-sim",
-    "name": "The Factory Must Grow",
-    "version": "v3.0",
-    "hidden": false,
-    "author": "Thinkerdoodle",
-    "lastUpdated": "2026-07-01T21:32:39Z",
-    "stars": 7,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
-  },
-  {
     "repo": "frizermoon/revengeance-mod",
     "internalName": "revengeance",
     "name": "Revengeance",
@@ -2812,6 +2798,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "bsp-2/factory-simulator",
+    "internalName": "factory-sim",
+    "name": "The Factory Must Grow",
+    "version": "v3.0",
+    "hidden": false,
+    "author": "Thinkerdoodle",
+    "lastUpdated": "2026-07-06T21:04:18Z",
+    "stars": 7,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
   },
   {
     "repo": "heroblack303/stardustry",
