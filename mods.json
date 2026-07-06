@@ -230,7 +230,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-07-02T21:14:57Z",
+    "lastUpdated": "2026-07-06T01:28:10Z",
     "stars": 109,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -329,7 +329,7 @@
     "hidden": true,
     "author": "EBwilson",
     "lastUpdated": "2026-05-30T03:20:23Z",
-    "stars": 68,
+    "stars": 69,
     "minGameVersion": "157.1",
     "hasScripts": false,
     "hasJava": true,
@@ -496,7 +496,7 @@
     "version": "1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-07-03T03:40:25Z",
+    "lastUpdated": "2026-07-06T00:58:10Z",
     "stars": 48,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -1750,6 +1750,20 @@
     "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
   },
   {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "version": "10.0.2",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-06-29T14:58:04Z",
+    "stars": 12,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A bundled toolkit with 19 client modules, now including ForeignServerTranslator, Tripwire, BetterPolyAi, and AdvancedReplace in Neon unified settings. / 辅助模组十九合一，现并入 ForeignServerTranslator、Tripwire、BetterPolyAi 与 AdvancedReplace 并统一到 Neon 设置入口。"
+  },
+  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1918,20 +1932,6 @@
     "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
   },
   {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "version": "10.0.2",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-06-29T14:58:04Z",
-    "stars": 11,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A bundled toolkit with 19 client modules, now including ForeignServerTranslator, Tripwire, BetterPolyAi, and AdvancedReplace in Neon unified settings. / 辅助模组十九合一，现并入 ForeignServerTranslator、Tripwire、BetterPolyAi 与 AdvancedReplace 并统一到 Neon 设置入口。"
-  },
-  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -2030,6 +2030,20 @@
     "description": "Important:\n\nThis is an addition to the Enhancement Units mod, which modifies several towers, sometimes improving them, then changing the shooting mechanics to create some kind of balance between units and towers.\n\nPlease pay attention:\n\nThe mod significantly reworks the mechanics of turrets, changes the balance and, in general, can simplify the game without the EU. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
+    "repo": "spore-biometh-team/sandmod",
+    "internalName": "sand",
+    "name": "Greektech",
+    "version": "1.0.1",
+    "hidden": false,
+    "author": "Watermocules",
+    "lastUpdated": "2025-05-21T04:47:32Z",
+    "stars": 10,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
+  },
+  {
     "repo": "electricgun/toggle-editor-mode",
     "internalName": "toggle-editor-mode",
     "name": "Toggle Editor Mode",
@@ -2106,7 +2120,7 @@
     "version": "0.1",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-07-05T15:10:00Z",
+    "lastUpdated": "2026-07-06T02:28:49Z",
     "stars": 10,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2154,20 +2168,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
-  },
-  {
-    "repo": "spore-biometh-team/sandmod",
-    "internalName": "sand",
-    "name": "Greektech",
-    "version": "1.0.1",
-    "hidden": false,
-    "author": "Watermocules",
-    "lastUpdated": "2025-05-21T04:47:32Z",
-    "stars": 9,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
   },
   {
     "repo": "theserjio/advanceddatabase",
@@ -2786,20 +2786,6 @@
     "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2026-07-05T15:47:19Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -2812,6 +2798,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2026-07-06T02:39:24Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
     "repo": "heroblack303/stardustry",
@@ -5270,7 +5270,7 @@
     "version": "0.5 beta",
     "hidden": false,
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-05T21:24:37Z",
+    "lastUpdated": "2026-07-06T03:33:25Z",
     "stars": 2,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -6860,32 +6860,32 @@
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
-    "repo": "chax0180/mindustry-texture-tweaks",
-    "internalName": "chax0180's texture tweaks",
-    "name": "mindustry-texture-tweaks",
-    "version": "2.18",
-    "hidden": true,
-    "author": "Chax0180",
-    "lastUpdated": "2026-07-05T22:44:49Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Aims to completely redesign almost all of Mindustry's block textures, primarily on Serpulo."
-  },
-  {
     "repo": "chax0180/challenge-additions",
     "internalName": "chad",
     "name": "Challenge Additions",
     "version": "0.0",
     "hidden": false,
     "author": "Chax0180",
-    "lastUpdated": "2026-07-05T23:00:23Z",
+    "lastUpdated": "2026-07-05T23:44:49Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a small set of blocks to make challenge maps more interesting."
+  },
+  {
+    "repo": "chax0180/mindustry-texture-tweaks",
+    "internalName": "chax0180's texture tweaks",
+    "name": "mindustry-texture-tweaks",
+    "version": "2.18",
+    "hidden": true,
+    "author": "Chax0180",
+    "lastUpdated": "2026-07-06T03:00:30Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Aims to completely redesign almost all of Mindustry's block textures, primarily on Serpulo."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
