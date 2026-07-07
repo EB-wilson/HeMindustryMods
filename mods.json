@@ -146,7 +146,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-07-07T16:13:55Z",
+    "lastUpdated": "2026-07-07T20:24:21Z",
     "stars": 137,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -549,12 +549,12 @@
     "repo": "andromeda-galaxy29/psammos-mod",
     "internalName": "psammos",
     "name": "Psammos Mod",
-    "version": "1.5",
+    "version": "1.5.1",
     "hidden": false,
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-07-06T20:55:00Z",
+    "lastUpdated": "2026-07-07T22:53:02Z",
     "stars": 45,
-    "minGameVersion": "155.4",
+    "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#f1c40f]Team members:[]\r\n- [#6e7f96] Andromeda-Galaxy29[]\r\n- [#6e7f96] iRatzeyMezeri[]\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2] thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2] tinport[] - various suggestions and maps\r\n- [#5865f2] mrapple_0[] - maps\r\n- [#5865f2] cirrusisakey[] - help with sfx\r\n- [#6e7f96] xhstoyea[] - Chinese translations\r\n\r\n[#9b59b6]Other thanks:[]\r\n- [#5865f2] chozochorizo[] for help with balancing the mod\r\n- [#6e7f96] ThomasThings[] and [#6e7f96] Twcash[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2] nekoarkbruhagain_07111[]\r\n- [#5865f2] allayscrafter[]"
@@ -812,20 +812,6 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
-    "repo": "asterion-team/asterion",
-    "internalName": "as",
-    "name": "Asterion",
-    "version": "Alpha 0.1.3",
-    "hidden": false,
-    "author": " |Asterion Team| ",
-    "lastUpdated": "2026-06-29T17:05:12Z",
-    "stars": 29,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Needs the Hjson++ library\n\nMOD IN THE ALPHA!\nThis is collaboration mod.\n\nAsterion Team\n\n[#92d3ff]Sputnuc [white]— [accent]creator.\n[#ffa0a0]Bloody Ocean [white]— [accent]spriter.\n[#d13050]AnDashik [white]— [accent]coder, spriter, mapper.\n[#a3e7b8]Ace [white]— [accent]composer.\n[#5245c9]R.O.T [white]— [accent]coder, spriter.\n[#e2478f]Sundered [white]— [accent]some sprites.\n[#dbddca]Los Sasikos [white]— [accent]help with balance & sprites."
-  },
-  {
     "repo": "typicaldeveloper123/biotic-zlo",
     "internalName": "corpuscles",
     "name": "Corpuscles",
@@ -838,6 +824,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that features life.\nSPOILER:\n- MIGHT CONTAIN DISTURBING GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- SOME UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n\nThanks to HunNimbus, and VdobleMSG for some of the sprites!\nAvailable in these languages:\n- English\n- Indonesia\n\nWIP\n  "
+  },
+  {
+    "repo": "asterion-team/asterion",
+    "internalName": "as",
+    "name": "Asterion",
+    "version": "Alpha 0.1.3",
+    "hidden": false,
+    "author": " |Asterion Team| ",
+    "lastUpdated": "2026-07-07T20:49:59Z",
+    "stars": 29,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Needs the Hjson++ library\n\nMOD IN THE ALPHA!\nThis is collaboration mod.\n\nAsterion Team\n\n[#92d3ff]Sputnuc [white]— [accent]creator.\n[#ffa0a0]Bloody Ocean [white]— [accent]spriter.\n[#d13050]AnDashik [white]— [accent]coder, spriter, mapper.\n[#a3e7b8]Ace [white]— [accent]composer.\n[#5245c9]R.O.T [white]— [accent]coder, spriter.\n[#e2478f]Sundered [white]— [accent]some sprites.\n[#dbddca]Los Sasikos [white]— [accent]help with balance & sprites."
   },
   {
     "repo": "routerxdd/erekir-extended",
@@ -1014,7 +1014,7 @@
     "version": "1.21",
     "hidden": false,
     "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
-    "lastUpdated": "2026-07-07T08:34:29Z",
+    "lastUpdated": "2026-07-07T20:55:20Z",
     "stars": 25,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -2470,7 +2470,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-07T19:52:07Z",
+    "lastUpdated": "2026-07-07T22:58:35Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4382,6 +4382,20 @@
     "description": "Brings back old SFX."
   },
   {
+    "repo": "p-enya/celeste-music-pack",
+    "internalName": "celeste-music-pack",
+    "name": "Celeste music pack",
+    "version": "1.1.1",
+    "hidden": true,
+    "author": "[#6600ff]P.[#ff0066]E.[white]",
+    "lastUpdated": "2026-06-30T03:57:21Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds music from [#96EFFF]Celeste[white].\n\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]Check Music&Sounds.txt in the mod folder for more information.[white]"
+  },
+  {
     "repo": "m1cxzfw3q/logicextend",
     "internalName": "logic-extend",
     "name": "LogicExtend - 逻辑扩展",
@@ -4394,20 +4408,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
-  },
-  {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.7",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-07-06T18:45:14Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "no9527dada/ctcoresystem",
@@ -4430,12 +4430,26 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-07T19:53:54Z",
+    "lastUpdated": "2026-07-07T22:06:12Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.7",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-07-07T22:07:09Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "mythril382/sardines",
@@ -5138,20 +5152,6 @@
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
   },
   {
-    "repo": "p-enya/celeste-music-pack",
-    "internalName": "celeste-music-pack",
-    "name": "Celeste music pack",
-    "version": "1.1.1",
-    "hidden": true,
-    "author": "[#6600ff]P.[#ff0066]E.[white]",
-    "lastUpdated": "2026-06-30T03:57:21Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds music from [#96EFFF]Celeste[white].\n\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]Check Music&Sounds.txt in the mod folder for more information.[white]"
-  },
-  {
     "repo": "ramazanduruev/darklife.",
     "internalName": "mo",
     "name": "DarkLife",
@@ -5248,6 +5248,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A modern shaders mod for Mindustry."
+  },
+  {
+    "repo": "muniine/scheme_plus",
+    "internalName": "scheme_plus",
+    "name": "Scheme+",
+    "version": "v1.0",
+    "hidden": false,
+    "author": "Munline",
+    "lastUpdated": "2026-07-07T15:31:02Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Scheme Plus adds a compact breakdown of every item and liquid the schematic consumes or produces per second."
   },
   {
     "repo": "leinadhq/voltaprotocolmod",
@@ -6832,20 +6846,6 @@
     "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.3.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-07-06T11:09:45Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "sporbelamogus/sporbels-inventions",
     "internalName": "sporbel's inventions",
     "name": "SporBel's Inventions",
@@ -6900,6 +6900,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Aims to completely redesign almost all of Mindustry's block textures, primarily on Serpulo."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.3.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-07-07T21:42:03Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -8174,19 +8188,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds new units, items, and content to the game."
-  },
-  {
-    "repo": "muniine/scheme_plus",
-    "internalName": "scheme_plus",
-    "name": "Scheme+",
-    "version": "v1.0",
-    "hidden": false,
-    "author": "Munline",
-    "lastUpdated": "2026-07-07T15:31:02Z",
-    "stars": 0,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Scheme Plus adds a compact breakdown of every item and liquid the schematic consumes or produces per second."
   }
 ]
