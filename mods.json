@@ -146,7 +146,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-07-08T18:55:57Z",
+    "lastUpdated": "2026-07-08T20:29:20Z",
     "stars": 137,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -230,7 +230,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-07-08T17:26:41Z",
+    "lastUpdated": "2026-07-08T20:55:21Z",
     "stars": 109,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -1722,20 +1722,6 @@
     "description": "为模组作者提供一个还原V7星球放置规则的可能，使用方法请参考README.md\n\nProvide a possibility for mod authors to restore the placement rules of V7 planet. Please refer to README.md for instructions on how to use it"
   },
   {
-    "repo": "racti2037/real-military-techic-mod",
-    "internalName": "military-techic-mod",
-    "name": "Military Technic Mod",
-    "version": "0.3.1",
-    "hidden": false,
-    "author": "Racti",
-    "lastUpdated": "2025-12-25T21:09:59Z",
-    "stars": 12,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod add tanks, aircraft and naval ships"
-  },
-  {
     "repo": "sh1penfire/meld-java",
     "internalName": "meld2",
     "name": "Meld: Sand and Sunder",
@@ -1790,6 +1776,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "racti2037/real-military-techic-mod",
+    "internalName": "military-techic-mod",
+    "name": "Military Technic Mod",
+    "version": "0.3.1",
+    "hidden": false,
+    "author": "Racti",
+    "lastUpdated": "2026-07-08T20:59:53Z",
+    "stars": 12,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod add tanks, aircraft and naval ships"
   },
   {
     "repo": "jhrushbe/moardustry",
@@ -5264,32 +5264,32 @@
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "version": "0.15",
-    "hidden": false,
-    "author": "oleskiy",
-    "lastUpdated": "2026-07-08T10:36:10Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
     "version": "0.5 beta",
     "hidden": false,
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-08T18:10:41Z",
+    "lastUpdated": "2026-07-08T19:26:24Z",
     "stars": 2,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "version": "0.15",
+    "hidden": false,
+    "author": "oleskiy",
+    "lastUpdated": "2026-07-08T19:27:32Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
   },
   {
     "repo": "agzam4/mindustry-units-mod",
