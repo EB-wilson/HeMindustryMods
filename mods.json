@@ -678,7 +678,7 @@
     "version": "1.5.9",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-07-05T13:33:48Z",
+    "lastUpdated": "2026-07-08T06:13:18Z",
     "stars": 40,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -832,7 +832,7 @@
     "version": "v1.3",
     "hidden": false,
     "author": "SezoVK",
-    "lastUpdated": "2026-07-08T01:15:21Z",
+    "lastUpdated": "2026-07-08T04:14:00Z",
     "stars": 29,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -1042,7 +1042,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-08T00:57:16Z",
+    "lastUpdated": "2026-07-08T05:40:55Z",
     "stars": 23,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1498,6 +1498,20 @@
     "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
   },
   {
+    "repo": "bloodmoddingocean-coder/visual_plus",
+    "internalName": "vplus",
+    "name": "Visual+",
+    "version": "1.60.2",
+    "hidden": true,
+    "author": "Bloody-Ocean",
+    "lastUpdated": "2026-05-20T12:30:28Z",
+    "stars": 14,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru: Данная модификация изменяет внешний вид Серпуло. Респрайт некоторой части Эрекира.\r\n\r\nEng: This modification changes the appearance of the Serpulo. Resprite of some part of the Erekir.\r\n\r\nThx to retodera, Sputnuc and mellory for the help with the scripts."
+  },
+  {
     "repo": "meepoffaith/hallucinogen",
     "internalName": "hallucinogen",
     "name": "Hallucinogen",
@@ -1552,34 +1566,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
-    "repo": "routerxdd/icicle-world",
-    "internalName": "icicle-world",
-    "name": "Buried in Ice",
-    "version": "9.5",
-    "hidden": false,
-    "author": "R.O.T.\nSpecial thanks:\nyesC48 for editing english translation\nxhstoyea for chinese translation",
-    "lastUpdated": "2026-03-12T19:59:38Z",
-    "stars": 13,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds a new planet, where we will play in underground"
-  },
-  {
-    "repo": "bloodmoddingocean-coder/visual_plus",
-    "internalName": "vplus",
-    "name": "Visual+",
-    "version": "1.60.2",
-    "hidden": true,
-    "author": "Bloody-Ocean",
-    "lastUpdated": "2026-05-20T12:30:28Z",
-    "stars": 13,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru: Данная модификация изменяет внешний вид Серпуло. Респрайт некоторой части Эрекира.\r\n\r\nEng: This modification changes the appearance of the Serpulo. Resprite of some part of the Erekir.\r\n\r\nThx to retodera, Sputnuc and mellory for the help with the scripts."
   },
   {
     "repo": "wytniks/kill-reward-mod-25frame",
@@ -4438,20 +4424,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-07-07T22:06:12Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4464,6 +4436,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-07-08T06:25:06Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "mythril382/sardines",
@@ -5284,7 +5270,7 @@
     "version": "0.5 beta",
     "hidden": false,
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-08T02:10:43Z",
+    "lastUpdated": "2026-07-08T05:34:59Z",
     "stars": 2,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -7824,20 +7810,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod that adds extra compatibility with Mindurka"
-  },
-  {
-    "repo": "yelandaokong/chattranslator",
-    "internalName": "chat-translator",
-    "name": "Chat Translator",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Yelandaokong",
-    "lastUpdated": "2026-03-25T20:32:11Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "In-game chat translator for Mindustry."
   },
   {
     "repo": "cardillan/mlogwatcher7",
