@@ -105,7 +105,7 @@
     "hidden": true,
     "author": "sk7725",
     "lastUpdated": "2026-04-13T00:22:11Z",
-    "stars": 174,
+    "stars": 175,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -510,7 +510,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-07-07T08:31:33Z",
+    "lastUpdated": "2026-07-08T10:09:57Z",
     "stars": 47,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -860,9 +860,9 @@
     "version": "1.8.5",
     "hidden": false,
     "author": "WMF Industries",
-    "lastUpdated": "2026-04-16T10:34:09Z",
+    "lastUpdated": "2026-07-08T07:45:41Z",
     "stars": 28,
-    "minGameVersion": "157.1",
+    "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "Some content for people to enjoy :>"
@@ -1568,6 +1568,20 @@
     "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
+    "repo": "routerxdd/icicle-world",
+    "internalName": "icicle-world",
+    "name": "Buried in Ice",
+    "version": "9.5",
+    "hidden": false,
+    "author": "R.O.T.\nSpecial thanks:\nyesC48 for editing english translation\nxhstoyea for chinese translation",
+    "lastUpdated": "2026-03-12T19:59:38Z",
+    "stars": 13,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds a new planet, where we will play in underground"
+  },
+  {
     "repo": "wytniks/kill-reward-mod-25frame",
     "internalName": "kill-reward-mod-25frame",
     "name": "Kill Reward Mod",
@@ -1750,20 +1764,6 @@
     "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
   },
   {
-    "repo": "wantechfan/mindustry-cursed-bundles",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "version": "1.13",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-07-07T19:02:32Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1776,6 +1776,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "wantechfan/mindustry-cursed-bundles",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "version": "1.13",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-07-08T07:24:33Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
   },
   {
     "repo": "jhrushbe/moardustry",
@@ -1918,20 +1932,6 @@
     "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "version": "V.test.0.0.38.2-126.06.17",
-    "hidden": false,
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-07-07T12:07:06Z",
-    "stars": 11,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
-  },
-  {
     "repo": "jababadev/jababarium",
     "internalName": "jababarium",
     "name": "Jababarium",
@@ -1944,6 +1944,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry greatest mod ever made!"
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "version": "V.test.0.0.38.2-126.06.17",
+    "hidden": false,
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-07-08T08:05:44Z",
+    "stars": 11,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
   },
   {
     "repo": "pointifix/autotranslate",
@@ -2120,7 +2134,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-07-07T12:40:23Z",
+    "lastUpdated": "2026-07-08T08:23:33Z",
     "stars": 10,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -2456,7 +2470,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-07T23:41:56Z",
+    "lastUpdated": "2026-07-08T10:02:45Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2792,7 +2806,7 @@
     "version": "v3.0",
     "hidden": false,
     "author": "Thinkerdoodle",
-    "lastUpdated": "2026-07-07T18:38:19Z",
+    "lastUpdated": "2026-07-08T10:06:09Z",
     "stars": 7,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -3052,20 +3066,6 @@
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
-    "repo": "i-drink-gasoline/admin-button-2",
-    "internalName": "admin-button-2",
-    "name": "Admin Button 2",
-    "version": "31",
-    "hidden": true,
-    "author": "I drink gasoline",
-    "lastUpdated": "2026-07-03T16:48:12Z",
-    "stars": 6,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add an admin button."
-  },
-  {
     "repo": "redloong9527/logic-chinese-localization",
     "internalName": "logicchineselocalization",
     "name": "逻辑汉化补丁v1.3.1",
@@ -3092,6 +3092,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
+  },
+  {
+    "repo": "i-drink-gasoline/admin-button-2",
+    "internalName": "admin-button-2",
+    "name": "Admin Button 2",
+    "version": "32",
+    "hidden": true,
+    "author": "I drink gasoline",
+    "lastUpdated": "2026-07-08T08:23:55Z",
+    "stars": 6,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add an admin button."
   },
   {
     "repo": "vadit2020/betamindytranslated",
@@ -4444,7 +4458,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-08T06:25:06Z",
+    "lastUpdated": "2026-07-08T07:01:24Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6902,6 +6916,34 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
+    "repo": "nadeeshafdo/aiassistmod",
+    "internalName": "ai-advisor",
+    "name": "AI Advisor",
+    "version": "__VERSION__",
+    "hidden": false,
+    "author": "nadeeshafdo.dev",
+    "lastUpdated": "2026-07-08T07:42:40Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A context-aware AI assistant powered by Gemini that provides real-time strategic advice based on your current game state."
+  },
+  {
+    "repo": "xenonixq/kazakh-translation",
+    "internalName": "kazakh-translation",
+    "name": "Kazakh Translation",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Xenonix",
+    "lastUpdated": "2026-07-08T07:46:01Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[kk]Mindustry ойынының толық қазақ тіліндегі аудармасы. Барлық мәтіндер, блоктар, юниттер, интерфейс және логикалық нұсқаулар аударылған.\nОрнатқаннан кейін Settings → Language → Қазақша таңдаңыз.\r\n[RU]Полный казахский перевод игры Mindustry. Переведены все тексты, блоки, юниты, интерфейс и логические инструкции.\nПосле установки выберите Settings → Language → Қазақша.\r\n[ENG]Full Kazakh translation of Mindustry. All texts, blocks, units, interface and logic instructions are translated.\nAfter installation, select Settings → Language → Қазақша."
+  },
+  {
     "repo": "pasu4/ridiculously-oversized",
     "internalName": "ridiculously-oversized",
     "name": "Ridiculously Oversized",
@@ -7810,6 +7852,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod that adds extra compatibility with Mindurka"
+  },
+  {
+    "repo": "yelandaokong/chattranslator",
+    "internalName": "chat-translator",
+    "name": "Chat Translator",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Yelandaokong",
+    "lastUpdated": "2026-03-25T20:32:11Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "In-game chat translator for Mindustry."
   },
   {
     "repo": "cardillan/mlogwatcher7",
