@@ -146,7 +146,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-07-09T15:47:50Z",
+    "lastUpdated": "2026-07-09T22:58:20Z",
     "stars": 137,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -566,7 +566,7 @@
     "version": "2.1.4",
     "hidden": true,
     "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22",
-    "lastUpdated": "2026-07-09T19:46:19Z",
+    "lastUpdated": "2026-07-09T22:18:52Z",
     "stars": 44,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -4256,20 +4256,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "version": "0.5 beta",
-    "hidden": false,
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-09T21:03:26Z",
-    "stars": 3,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4282,6 +4268,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "version": "0.5 beta",
+    "hidden": false,
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-07-09T22:20:10Z",
+    "stars": 3,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
     "repo": "redstonneur1256/largerserverlist",
@@ -5052,6 +5052,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
+  },
+  {
+    "repo": "roman859/mindustry-better-vanilla",
+    "internalName": "bettervanilla",
+    "name": "Better Vanilla+",
+    "version": "0.4.3",
+    "hidden": false,
+    "author": "Roman",
+    "lastUpdated": "2026-07-09T19:55:00Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
     "repo": "chrono-heritage/chrono-strange-shit",
@@ -6578,20 +6592,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
-    "repo": "roman859/mindustry-better-vanilla",
-    "internalName": "bettervanilla",
-    "name": "Better Vanilla+",
-    "version": "0.4.3",
-    "hidden": false,
-    "author": "Roman",
-    "lastUpdated": "2026-07-09T19:55:00Z",
-    "stars": 1,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
