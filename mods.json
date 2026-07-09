@@ -146,7 +146,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-07-09T14:47:15Z",
+    "lastUpdated": "2026-07-09T15:47:50Z",
     "stars": 137,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -160,7 +160,7 @@
     "version": "16.0",
     "hidden": false,
     "author": "Snake",
-    "lastUpdated": "2026-07-09T12:42:48Z",
+    "lastUpdated": "2026-07-09T16:29:33Z",
     "stars": 136,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -818,7 +818,7 @@
     "version": "Alpha 0.1.3",
     "hidden": false,
     "author": " |Asterion Team| ",
-    "lastUpdated": "2026-07-09T12:40:00Z",
+    "lastUpdated": "2026-07-09T16:10:08Z",
     "stars": 29,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -832,7 +832,7 @@
     "version": "1.8.5",
     "hidden": false,
     "author": "WMF Industries",
-    "lastUpdated": "2026-07-09T13:45:12Z",
+    "lastUpdated": "2026-07-09T17:29:56Z",
     "stars": 29,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -1028,7 +1028,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-09T15:04:32Z",
+    "lastUpdated": "2026-07-09T15:33:40Z",
     "stars": 23,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1330,20 +1330,6 @@
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
-    "repo": "itzcraft/epsilon",
-    "internalName": "epsilon",
-    "name": "Epsilon",
-    "version": "0.284",
-    "hidden": false,
-    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-06-22T17:39:44Z",
-    "stars": 16,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
-  },
-  {
     "repo": "determination-wind/neon",
     "internalName": "neon",
     "name": "Neon / 氖",
@@ -1356,6 +1342,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "All-in-one QoL toolkit: map, minimap, radial build, pinyin search, hotkey, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、拼音搜索、快捷键、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新。"
+  },
+  {
+    "repo": "itzcraft/epsilon",
+    "internalName": "epsilon",
+    "name": "Epsilon",
+    "version": "0.284",
+    "hidden": false,
+    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
+    "lastUpdated": "2026-07-09T16:57:01Z",
+    "stars": 16,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
     "repo": "teamoct/erekir-music",
@@ -2386,7 +2386,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-09T13:26:48Z",
+    "lastUpdated": "2026-07-09T15:16:22Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4256,20 +4256,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-07-08T18:23:51Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -4282,6 +4268,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-07-09T17:34:41Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "redstonneur1256/largerserverlist",
@@ -6468,20 +6468,6 @@
     "description": "has some amazing industries"
   },
   {
-    "repo": "sporbelamogus/sporbels-inventions",
-    "internalName": "sporbel's inventions",
-    "name": "SporBel's Inventions",
-    "version": "0.9.7",
-    "hidden": false,
-    "author": "SporBel",
-    "lastUpdated": "2026-07-06T12:46:28Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
     "repo": "darkv-p3nt4/apex-arbitery",
     "internalName": "custom-apex",
     "name": "APEX Arbitery",
@@ -6578,6 +6564,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add long-window moving-average logistics speed rows under vanilla item speed display. / 在原版物流速度显示下方追加长窗口滑动平均行。"
+  },
+  {
+    "repo": "sporbelamogus/sporbels-inventions",
+    "internalName": "sporbel's inventions",
+    "name": "SporBel's Inventions",
+    "version": "0.9.7",
+    "hidden": false,
+    "author": "SporBel",
+    "lastUpdated": "2026-07-09T17:22:57Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
