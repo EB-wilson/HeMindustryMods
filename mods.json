@@ -77,7 +77,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-07-09T14:47:12Z",
-    "stars": 225,
+    "stars": 226,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -140,6 +140,20 @@
     "description": "Hell time, once for all\n\nThis mod adds new items, buildings, units, and turrets, and has a planet for you to explore.\nMore campaign maps WIP.\nWarning: This mod makes certain modifications to the original game content to accommodate the mod's operation."
   },
   {
+    "repo": "3snake3/sapphirium",
+    "internalName": "sapphirium",
+    "name": "Sapphirium",
+    "version": "16.0",
+    "hidden": false,
+    "author": "Snake",
+    "lastUpdated": "2026-07-09T16:29:33Z",
+    "stars": 137,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
+  },
+  {
     "repo": "stabu-dev/omaloon",
     "internalName": "omaloon",
     "name": "Omaloon",
@@ -152,20 +166,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
-  },
-  {
-    "repo": "3snake3/sapphirium",
-    "internalName": "sapphirium",
-    "name": "Sapphirium",
-    "version": "16.0",
-    "hidden": false,
-    "author": "Snake",
-    "lastUpdated": "2026-07-09T16:29:33Z",
-    "stars": 136,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
   },
   {
     "repo": "eschatologue/unlimited-armament-works",
@@ -185,10 +185,10 @@
     "repo": "blackdeluxecat/mi2-utilities-java",
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
-    "version": "1.14.0",
+    "version": "1.14.1",
     "hidden": true,
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2026-07-09T03:02:53Z",
+    "lastUpdated": "2026-07-10T06:17:33Z",
     "stars": 128,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -441,7 +441,7 @@
     "hidden": true,
     "author": "EBwilson",
     "lastUpdated": "2026-05-05T04:45:16Z",
-    "stars": 55,
+    "stars": 56,
     "minGameVersion": "156",
     "hasScripts": false,
     "hasJava": true,
@@ -496,7 +496,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-07-09T14:10:27Z",
+    "lastUpdated": "2026-07-10T05:06:33Z",
     "stars": 47,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -832,7 +832,7 @@
     "version": "1.8.5",
     "hidden": false,
     "author": "WMF Industries",
-    "lastUpdated": "2026-07-09T20:37:09Z",
+    "lastUpdated": "2026-07-10T05:06:48Z",
     "stars": 29,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -1028,7 +1028,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-10T02:53:30Z",
+    "lastUpdated": "2026-07-10T05:15:47Z",
     "stars": 23,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1330,20 +1330,6 @@
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "version": "10.1.0",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-07-09T09:12:09Z",
-    "stars": 16,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "All-in-one QoL toolkit: map, minimap, radial build, pinyin search, hotkey, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、拼音搜索、快捷键、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新。"
-  },
-  {
     "repo": "itzcraft/epsilon",
     "internalName": "epsilon",
     "name": "Epsilon",
@@ -1356,6 +1342,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "version": "10.1.1",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-07-10T07:13:09Z",
+    "stars": 16,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "All-in-one QoL toolkit: map, minimap, radial build, pinyin search, hotkey, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、拼音搜索、快捷键、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新。"
   },
   {
     "repo": "teamoct/erekir-music",
@@ -1882,7 +1882,7 @@
     "version": "V.test.0.0.38.326.07.09",
     "hidden": false,
     "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-07-09T09:30:43Z",
+    "lastUpdated": "2026-07-10T07:07:35Z",
     "stars": 11,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -2386,7 +2386,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-09T20:42:09Z",
+    "lastUpdated": "2026-07-10T06:56:17Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2462,20 +2462,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
-  },
-  {
-    "repo": "nannerbz/frires-json-library",
-    "internalName": "frires-json-lib",
-    "name": "FrireDragon's Json Lib",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Nannerbz / FrireDragon",
-    "lastUpdated": "2025-09-16T14:09:45Z",
-    "stars": 7,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
   },
   {
     "repo": "ovulam5480/ovulamtools",
@@ -2702,20 +2688,6 @@
     "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.3",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-08T19:04:27Z",
-    "stars": 7,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -2728,6 +2700,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
+  },
+  {
+    "repo": "nannerbz/frires-json-library",
+    "internalName": "frires-json-lib",
+    "name": "FrireDragon's Json Lib",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Nannerbz / FrireDragon",
+    "lastUpdated": "2026-07-10T04:10:38Z",
+    "stars": 7,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.3",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-10T04:30:49Z",
+    "stars": 7,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "heroblack303/stardustry",
@@ -4214,20 +4214,6 @@
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
-    "repo": "128oteml/mindustryoptifine",
-    "internalName": "mindustry-optifine",
-    "name": "Mindustry OptiFine",
-    "version": "1.0",
-    "hidden": true,
-    "author": "128_OTEML",
-    "lastUpdated": "2026-07-07T09:35:32Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A modern shaders mod for Mindustry."
-  },
-  {
     "repo": "alecthe2nd/tantros",
     "internalName": "",
     "name": "Tantros",
@@ -4282,6 +4268,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "128oteml/mindustryoptifine",
+    "internalName": "mindustry-optifine",
+    "name": "Mindustry OptiFine",
+    "version": "1.0",
+    "hidden": true,
+    "author": "128_OTEML",
+    "lastUpdated": "2026-07-10T07:27:23Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A modern shaders mod for Mindustry."
   },
   {
     "repo": "redstonneur1256/largerserverlist",
@@ -6328,6 +6328,20 @@
     "description": "Provides tools for easier debugging in Mindustry Logic."
   },
   {
+    "repo": "determination-wind/tripwire",
+    "internalName": "tripwire",
+    "name": "Tripwire",
+    "version": "1.1.0",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-06-28T10:04:19Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
+  },
+  {
     "repo": "equalzzz/mindustry-modlib",
     "internalName": "!mod-library",
     "name": "Mod Library (NOT OFFICIAL)",
@@ -7784,20 +7798,6 @@
     "description": "маленький сборник песен бисвиди"
   },
   {
-    "repo": "determination-wind/tripwire",
-    "internalName": "tripwire",
-    "name": "Tripwire",
-    "version": "1.1.0",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-06-28T10:04:19Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
-  },
-  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
@@ -7824,5 +7824,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds new units, items, and content to the game."
+  },
+  {
+    "repo": "lys121005/terraria_for_mindusty",
+    "internalName": "泰拉世纪工厂",
+    "name": "泰拉世纪工厂",
+    "version": "0.0.0.2",
+    "hidden": false,
+    "author": "万象终极无尽星空",
+    "lastUpdated": "2026-07-10T06:23:36Z",
+    "stars": 0,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "更新日志:本次更新了熔炉的界面."
   }
 ]
