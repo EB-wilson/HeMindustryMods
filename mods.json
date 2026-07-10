@@ -2184,20 +2184,6 @@
     "description": "Adds extra utilities to map editor."
   },
   {
-    "repo": "mindustry-antigrief/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "version": "2.7.2",
-    "hidden": true,
-    "author": "io community",
-    "lastUpdated": "2026-06-18T13:40:21Z",
-    "stars": 9,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Improves your experience on the official io  Flood server."
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2224,6 +2210,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Displays all bridge links. Helps with bridge weaving"
+  },
+  {
+    "repo": "mindustry-antigrief/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "version": "2.8",
+    "hidden": true,
+    "author": "io community",
+    "lastUpdated": "2026-07-10T21:58:55Z",
+    "stars": 9,
+    "minGameVersion": "159.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Improves your experience on the official io  Flood server."
   },
   {
     "repo": "slava0135/refine",
@@ -2366,20 +2366,6 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-10T08:18:31Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -2406,6 +2392,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-10T21:21:51Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "mitemi/blastanium",
@@ -4256,20 +4256,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-07-10T00:14:17Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -4282,6 +4268,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-07-10T22:47:10Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "redstonneur1256/largerserverlist",
@@ -5060,7 +5060,7 @@
     "version": "__VERSION__",
     "hidden": true,
     "author": "nadeeshafdo.dev",
-    "lastUpdated": "2026-07-10T20:15:07Z",
+    "lastUpdated": "2026-07-10T21:07:13Z",
     "stars": 2,
     "minGameVersion": "154",
     "hasScripts": false,
