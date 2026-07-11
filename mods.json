@@ -560,20 +560,6 @@
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
-    "repo": "itskirby69/minedusty",
-    "internalName": "",
-    "name": "MineDusty",
-    "version": "1.2.0",
-    "hidden": false,
-    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-06-28T18:22:19Z",
-    "stars": 44,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
-  },
-  {
     "repo": "00sunray00/scheme-size-port",
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
@@ -586,6 +572,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
+  },
+  {
+    "repo": "itskirby69/minedusty",
+    "internalName": "",
+    "name": "MineDusty",
+    "version": "1.2.0",
+    "hidden": false,
+    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
+    "lastUpdated": "2026-07-11T20:20:22Z",
+    "stars": 44,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
   },
   {
     "repo": "uenhe/fire",
@@ -4262,7 +4262,7 @@
     "version": "0.5 beta",
     "hidden": false,
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-11T17:27:07Z",
+    "lastUpdated": "2026-07-11T20:28:49Z",
     "stars": 3,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -4276,7 +4276,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-11T18:54:10Z",
+    "lastUpdated": "2026-07-11T20:36:05Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6398,20 +6398,6 @@
     "description": "Automatically fills nearby item turrets with the best ammo from your carried items or the closest core. Toggle with F4; configure ammo priorities in Settings > Turret Auto Fill."
   },
   {
-    "repo": "vini230909/vinicator",
-    "internalName": "vinicator",
-    "name": "Vinicator",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Vini230909",
-    "lastUpdated": "2026-07-04T07:08:42Z",
-    "stars": 1,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
-  },
-  {
     "repo": "vkazee/force-landscape",
     "internalName": "force-landscape-toggle",
     "name": "Force Landscape Toggle",
@@ -6634,6 +6620,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
+  },
+  {
+    "repo": "vini230909/hide-units",
+    "internalName": "vinicator",
+    "name": "Vinicator",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Vini230909",
+    "lastUpdated": "2026-07-11T19:51:27Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
