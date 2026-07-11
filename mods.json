@@ -140,20 +140,6 @@
     "description": "Hell time, once for all\n\nThis mod adds new items, buildings, units, and turrets, and has a planet for you to explore.\nMore campaign maps WIP.\nWarning: This mod makes certain modifications to the original game content to accommodate the mod's operation."
   },
   {
-    "repo": "3snake3/sapphirium",
-    "internalName": "sapphirium",
-    "name": "Sapphirium",
-    "version": "16.0",
-    "hidden": false,
-    "author": "Snake",
-    "lastUpdated": "2026-07-10T17:53:03Z",
-    "stars": 137,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
-  },
-  {
     "repo": "stabu-dev/omaloon",
     "internalName": "omaloon",
     "name": "Omaloon",
@@ -166,6 +152,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
+  },
+  {
+    "repo": "3snake3/sapphirium",
+    "internalName": "sapphirium",
+    "name": "Sapphirium",
+    "version": "16.0",
+    "hidden": false,
+    "author": "Snake",
+    "lastUpdated": "2026-07-11T09:34:46Z",
+    "stars": 137,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
   },
   {
     "repo": "eschatologue/unlimited-armament-works",
@@ -784,6 +784,20 @@
     "description": "Dynamic load custom contents patch account to server"
   },
   {
+    "repo": "typicaldeveloper123/biotic-zlo",
+    "internalName": "corpuscles",
+    "name": "Corpuscles",
+    "version": "v1.3",
+    "hidden": false,
+    "author": "SezoVK",
+    "lastUpdated": "2026-07-11T03:29:56Z",
+    "stars": 30,
+    "minGameVersion": "154.3",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that features life.\nSPOILER:\n- MIGHT CONTAIN DISTURBING GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- SOME UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n\nThanks to HunNimbus, and VdobleMSG for some of the sprites!\nAvailable in these languages:\n- English\n- Indonesia\n\nWIP\n  "
+  },
+  {
     "repo": "zelaux/bytelogicmod",
     "internalName": "byte-logic-mod",
     "name": "Byte Logic Mod",
@@ -818,26 +832,12 @@
     "version": "1.8.5",
     "hidden": false,
     "author": "WMF Industries",
-    "lastUpdated": "2026-07-10T18:43:06Z",
+    "lastUpdated": "2026-07-11T07:52:46Z",
     "stars": 29,
     "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "Some content for people to enjoy :>"
-  },
-  {
-    "repo": "typicaldeveloper123/biotic-zlo",
-    "internalName": "corpuscles",
-    "name": "Corpuscles",
-    "version": "v1.3",
-    "hidden": false,
-    "author": "SezoVK",
-    "lastUpdated": "2026-07-11T03:29:56Z",
-    "stars": 29,
-    "minGameVersion": "154.3",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that features life.\nSPOILER:\n- MIGHT CONTAIN DISTURBING GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- SOME UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n\nThanks to HunNimbus, and VdobleMSG for some of the sprites!\nAvailable in these languages:\n- English\n- Indonesia\n\nWIP\n  "
   },
   {
     "repo": "routerxdd/erekir-extended",
@@ -1029,7 +1029,7 @@
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
     "lastUpdated": "2026-07-11T04:51:04Z",
-    "stars": 23,
+    "stars": 24,
     "minGameVersion": "156",
     "hasScripts": true,
     "hasJava": false,
@@ -1498,7 +1498,7 @@
     "description": "The best sensory overload you can get, at least legally."
   },
   {
-    "repo": "yroo1/astheriveregenesis",
+    "repo": "namakayo/astheriveregenesis",
     "internalName": "arg",
     "name": "A:RG",
     "version": "0.33",
@@ -1708,20 +1708,6 @@
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
   },
   {
-    "repo": "wantechfan/mindustry-cursed-bundles",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "version": "1.13",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-07-09T06:45:20Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
-  },
-  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -1736,18 +1722,46 @@
     "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
   },
   {
+    "repo": "wantechfan/mindustry-cursed-bundles",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "version": "1.13",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-07-11T06:25:46Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
+  },
+  {
     "repo": "racti2037/real-military-techic-mod",
     "internalName": "military-techic-mod",
     "name": "Military Technic Mod",
     "version": "0.3.1",
     "hidden": false,
     "author": "Racti",
-    "lastUpdated": "2026-07-10T13:23:35Z",
+    "lastUpdated": "2026-07-11T08:20:53Z",
     "stars": 12,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod add tanks, aircraft and naval ships"
+  },
+  {
+    "repo": "jababadev/jababarium",
+    "internalName": "jababarium",
+    "name": "Jababarium",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Jababa",
+    "lastUpdated": "2026-07-11T09:12:04Z",
+    "stars": 12,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry greatest mod ever made!"
   },
   {
     "repo": "alnyled/astherive",
@@ -1868,26 +1882,12 @@
     "version": "V.test.0.0.38.326.07.09",
     "hidden": false,
     "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-07-10T07:07:35Z",
+    "lastUpdated": "2026-07-11T09:07:34Z",
     "stars": 11,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
     "description": "[red]俺寻思之力"
-  },
-  {
-    "repo": "jababadev/jababarium",
-    "internalName": "jababarium",
-    "name": "Jababarium",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Jababa",
-    "lastUpdated": "2026-07-10T15:38:44Z",
-    "stars": 11,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry greatest mod ever made!"
   },
   {
     "repo": "agzam4/mindustry-mod",
@@ -2050,7 +2050,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-07-10T12:46:52Z",
+    "lastUpdated": "2026-07-11T08:32:18Z",
     "stars": 10,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -2400,7 +2400,7 @@
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-07-10T21:21:51Z",
+    "lastUpdated": "2026-07-11T06:27:19Z",
     "stars": 8,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -3668,6 +3668,20 @@
     "description": "Creators Core System"
   },
   {
+    "repo": "alecthe2nd/tantros",
+    "internalName": "",
+    "name": "Tantros",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Alecthe2nd, bob26786",
+    "lastUpdated": "2026-07-07T16:23:23Z",
+    "stars": 4,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
+  },
+  {
     "repo": "determination-wind/patchviewer",
     "internalName": "patchviewer",
     "name": "PatchViewer / 补丁查看器",
@@ -4226,20 +4240,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
-  },
-  {
-    "repo": "alecthe2nd/tantros",
-    "internalName": "",
-    "name": "Tantros",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Alecthe2nd, bob26786",
-    "lastUpdated": "2026-07-07T16:23:23Z",
-    "stars": 3,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
   },
   {
     "repo": "xpdustry/kotlin-runtime",
@@ -5060,7 +5060,7 @@
     "version": "__VERSION__",
     "hidden": true,
     "author": "nadeeshafdo.dev",
-    "lastUpdated": "2026-07-11T03:49:11Z",
+    "lastUpdated": "2026-07-11T08:51:17Z",
     "stars": 2,
     "minGameVersion": "154",
     "hasScripts": false,
