@@ -703,10 +703,10 @@
     "repo": "coaldeficit/moredefences",
     "internalName": "md3",
     "name": "MoreDefences",
-    "version": "3.2.0",
+    "version": "3.2.1",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-07-10T13:28:04Z",
+    "lastUpdated": "2026-07-11T01:29:54Z",
     "stars": 38,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -3702,7 +3702,7 @@
     "version": "1.0",
     "hidden": true,
     "author": "128_OTEML",
-    "lastUpdated": "2026-07-10T12:14:16Z",
+    "lastUpdated": "2026-07-11T02:25:40Z",
     "stars": 4,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -7826,20 +7826,6 @@
     "description": "A mod that adds more logic instructions.\n一个添加了更多逻辑指令的模组"
   },
   {
-    "repo": "lys121005/terraria_for_mindusty",
-    "internalName": "泰拉世纪工厂",
-    "name": "泰拉世纪工厂",
-    "version": "0.0.0.2",
-    "hidden": false,
-    "author": "万象终极无尽星空",
-    "lastUpdated": "2026-07-10T15:36:22Z",
-    "stars": 0,
-    "minGameVersion": "157",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "更新日志:本次更新了熔炉的界面."
-  },
-  {
     "repo": "c9cps/cdxlib",
     "internalName": "library",
     "name": "CDXLIB",
@@ -7852,5 +7838,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small library for json-mods."
+  },
+  {
+    "repo": "lys121005/terraria_for_mindusty",
+    "internalName": "泰拉世纪工厂",
+    "name": "泰拉世纪工厂",
+    "version": "0.0.0.2",
+    "hidden": false,
+    "author": "万象终极无尽星空",
+    "lastUpdated": "2026-07-11T02:01:40Z",
+    "stars": 0,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "更新日志:本次更新了熔炉的界面."
   }
 ]
