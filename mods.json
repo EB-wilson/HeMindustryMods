@@ -455,7 +455,7 @@
     "hidden": false,
     "author": "EoD",
     "lastUpdated": "2024-06-29T00:19:27Z",
-    "stars": 52,
+    "stars": 53,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -924,6 +924,20 @@
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.11.0",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-07-12T07:26:00Z",
+    "stars": 26,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
+  },
+  {
     "repo": "mindustrydagger/vanillaplus",
     "internalName": "vanillaplus",
     "name": "VanillaPlus",
@@ -1006,20 +1020,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.11.0",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-07-12T07:26:00Z",
-    "stars": 25,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "fat-bird-owner/gier-revitalized",
