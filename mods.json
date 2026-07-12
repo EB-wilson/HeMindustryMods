@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-07-07T07:39:38Z",
-    "stars": 597,
+    "stars": 598,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -706,7 +706,7 @@
     "version": "3.2.3",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-07-11T21:41:25Z",
+    "lastUpdated": "2026-07-12T20:59:39Z",
     "stars": 38,
     "minGameVersion": "159.3",
     "hasScripts": true,
@@ -2380,20 +2380,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-12T12:46:32Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -2406,6 +2392,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "1.03",
+    "hidden": false,
+    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
+    "lastUpdated": "2026-07-12T22:05:08Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "mitemi/blastanium",
