@@ -706,7 +706,7 @@
     "version": "3.2.4",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-07-13T17:43:59Z",
+    "lastUpdated": "2026-07-13T19:44:22Z",
     "stars": 38,
     "minGameVersion": "159.3",
     "hasScripts": true,
@@ -832,7 +832,7 @@
     "version": "1.8.5",
     "hidden": false,
     "author": "WMF Industries",
-    "lastUpdated": "2026-07-12T05:08:48Z",
+    "lastUpdated": "2026-07-13T20:09:45Z",
     "stars": 29,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -4270,20 +4270,6 @@
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-07-13T05:29:20Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4296,6 +4282,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-07-13T20:45:12Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "redstonneur1256/largerserverlist",
@@ -4968,6 +4968,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
+  },
+  {
+    "repo": "xenonixq/blerror",
+    "internalName": "blerror",
+    "name": "Blerror",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Xenonix",
+    "lastUpdated": "2026-06-28T20:41:39Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Изменяет ohno на \"бля\"."
   },
   {
     "repo": "xenonixq/erekirlogic",
@@ -6342,20 +6356,6 @@
     "description": "Mindustry modding utilities to make mod development easier. NOT AN OFFICIAL VERSION"
   },
   {
-    "repo": "xenonixq/blerror",
-    "internalName": "blerror",
-    "name": "Blerror",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Xenonix",
-    "lastUpdated": "2026-06-28T20:41:39Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Изменяет ohno на \"бля\"."
-  },
-  {
     "repo": "w-a-a-a-a/extra-technologies",
     "internalName": "extra-technologies",
     "name": "Extra Technologies",
@@ -7068,6 +7068,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
+  },
+  {
+    "repo": "willoizcitron/timecontroljava",
+    "internalName": "",
+    "name": "Time Control Java",
+    "version": "v1.0",
+    "hidden": false,
+    "author": "WilloIzCitron",
+    "lastUpdated": "2025-01-12T10:47:56Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Time Control but in Java, Originated by sk7725. Dont use TimeControl and TimeControlJava at same time, it will conflicting each other. DO NOT USE IN MULTIPLAYER!!"
   },
   {
     "repo": "meow0x7e/meowextracontent",
