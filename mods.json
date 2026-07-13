@@ -398,7 +398,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-07-12T03:32:06Z",
+    "lastUpdated": "2026-07-13T14:30:05Z",
     "stars": 61,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -706,7 +706,7 @@
     "version": "3.2.3",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-07-12T20:59:39Z",
+    "lastUpdated": "2026-07-13T13:47:36Z",
     "stars": 38,
     "minGameVersion": "159.3",
     "hasScripts": true,
@@ -1274,6 +1274,20 @@
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
   },
   {
+    "repo": "itzcraft/epsilon",
+    "internalName": "epsilon",
+    "name": "Epsilon",
+    "version": "0.284",
+    "hidden": false,
+    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
+    "lastUpdated": "2026-07-09T16:57:01Z",
+    "stars": 17,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
     "repo": "martian238/vanilla-expansion-mod",
     "internalName": "ve",
     "name": "Vanilla Expansion",
@@ -1342,20 +1356,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
-  },
-  {
-    "repo": "itzcraft/epsilon",
-    "internalName": "epsilon",
-    "name": "Epsilon",
-    "version": "0.284",
-    "hidden": false,
-    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-07-09T16:57:01Z",
-    "stars": 16,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
     "repo": "determination-wind/neon",
@@ -1770,7 +1770,7 @@
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-07-12T13:47:20Z",
+    "lastUpdated": "2026-07-13T14:19:26Z",
     "stars": 12,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -2050,7 +2050,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-07-13T10:25:20Z",
+    "lastUpdated": "2026-07-13T11:32:03Z",
     "stars": 10,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -2366,34 +2366,6 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-12T10:16:43Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-12T13:46:57Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "oscillatorium/alef-null",
     "internalName": "alef-null",
     "name": "Alef-Null",
@@ -2406,6 +2378,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-13T14:16:29Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-13T14:18:52Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "mitemi/blastanium",
@@ -2660,20 +2660,6 @@
     "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2026-07-10T01:05:47Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "nannerbz/frires-json-library",
     "internalName": "frires-json-lib",
     "name": "FrireDragon's Json Lib",
@@ -2728,6 +2714,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2026-07-13T13:20:06Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
     "repo": "heroblack303/stardustry",
@@ -5136,6 +5136,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
+  },
+  {
+    "repo": "zaxerf1234/mindustry-id-manager",
+    "internalName": "id-manager",
+    "name": "USID manager",
+    "version": "2.0.0",
+    "hidden": true,
+    "author": "Zaxerf1234",
+    "lastUpdated": "2026-07-13T12:50:44Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that allows server plugin developers to manage USIDs. After installation, a new button will appear in settings.\n\n This mod should not be used to bypass any kind of server restriction!"
   },
   {
     "repo": "chrono-heritage/chrono-strange-shit",
@@ -7854,31 +7868,31 @@
     "description": "A small library for json-mods."
   },
   {
-    "repo": "lys121005/terraria_for_mindustry",
-    "internalName": "泰拉世纪工厂",
-    "name": "泰拉世纪工厂",
-    "version": "0.0.0.0.1",
-    "hidden": false,
-    "author": "万象终极无尽星空(B站)",
-    "lastUpdated": "2026-07-13T10:13:44Z",
-    "stars": 0,
-    "minGameVersion": "159.3",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": ""
-  },
-  {
     "repo": "hamsterhat/octopusdefence",
     "internalName": "mod",
     "name": "OCTOPUS DEFENCE: The Roleplay Update",
     "version": "Alpha 0.7.9.3",
     "hidden": false,
     "author": "alex",
-    "lastUpdated": "2026-07-13T11:01:33Z",
+    "lastUpdated": "2026-07-13T13:14:51Z",
     "stars": 0,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
     "description": "Мод добавляет планету Пунь."
+  },
+  {
+    "repo": "lys121005/terraria_for_mindustry",
+    "internalName": "泰拉世纪工厂",
+    "name": "泰拉世纪工厂",
+    "version": "0.0.0.0.1",
+    "hidden": false,
+    "author": "万象终极无尽星空(B站)",
+    "lastUpdated": "2026-07-13T14:27:21Z",
+    "stars": 0,
+    "minGameVersion": "159.3",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": ""
   }
 ]
