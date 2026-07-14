@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-07-07T07:39:38Z",
-    "stars": 599,
+    "stars": 600,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -524,7 +524,7 @@
     "version": "1.2.0",
     "hidden": false,
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-07-14T20:40:48Z",
+    "lastUpdated": "2026-07-14T22:33:10Z",
     "stars": 47,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -2050,7 +2050,7 @@
     "version": "0.3.4",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader, Phil",
-    "lastUpdated": "2026-07-12T23:17:31Z",
+    "lastUpdated": "2026-07-14T22:18:41Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2380,20 +2380,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-14T11:48:46Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -2406,6 +2392,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "1.03",
+    "hidden": false,
+    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
+    "lastUpdated": "2026-07-14T21:04:28Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -4290,7 +4290,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-14T19:58:29Z",
+    "lastUpdated": "2026-07-14T22:50:01Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5122,20 +5122,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a Natural Water filter to the map editor terrain generator. / 在地图编辑器地形生成器中添加自然水体滤镜。"
-  },
-  {
-    "repo": "darkjeanne/schempack-manager",
-    "internalName": "schempack-manager",
-    "name": "SchemPack Manager",
-    "version": "1.0.1",
-    "hidden": true,
-    "author": "darkjeanne",
-    "lastUpdated": "2026-07-12T09:00:11Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Sync Mindustry schematics with GitHub, with auto push, pull/merge, and local-only filtering."
   },
   {
     "repo": "roman859/mindustry-better-vanilla",
@@ -6006,20 +5992,6 @@
     "description": "A planet shrouded in arcane mysteries."
   },
   {
-    "repo": "ovulam5480/media2logic",
-    "internalName": "mod",
-    "name": "Media2Logic",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Ovulam5480",
-    "lastUpdated": "2026-04-01T08:53:41Z",
-    "stars": 1,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "图片转逻辑模组, 图片只支持png格式 \n蓝图生成完成后请及时重启游戏, 释放内存 \n三角剖分低多边形算法思路来源于nce3xin, 三角剖分算法实现使用Tinfour库, \n爬山算法使用Geometrize库的思路"
-  },
-  {
     "repo": "yjysy2004/texture-reset",
     "internalName": "texture-reset",
     "name": "Texture-reset",
@@ -6580,20 +6552,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "chax0180/challenge-additions",
-    "internalName": "chad",
-    "name": "Challenge Additions",
-    "version": "0.0",
-    "hidden": false,
-    "author": "Chax0180",
-    "lastUpdated": "2026-07-13T18:36:35Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a small set of blocks to make challenge maps more interesting."
-  },
-  {
     "repo": "m-e-l-i-s/silviriumjava",
     "internalName": "sli",
     "name": "Silvirium",
@@ -6634,6 +6592,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n一个多配方库的使用示例模组"
+  },
+  {
+    "repo": "chax0180/challenge-additions",
+    "internalName": "chad",
+    "name": "Challenge Additions",
+    "version": "0.0",
+    "hidden": false,
+    "author": "Chax0180",
+    "lastUpdated": "2026-07-14T22:45:45Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a small set of blocks to make challenge maps more interesting."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -7885,14 +7857,14 @@
     "repo": "tomahawkarc/mindustry-v8-engine",
     "internalName": "mod-engine",
     "name": "Mod Engine",
-    "version": "1.1.0",
+    "version": "1.6.0",
     "hidden": false,
-    "author": "Tomahawk",
-    "lastUpdated": "2026-07-14T20:39:12Z",
+    "author": "[#10e5e5]Tomahawk",
+    "lastUpdated": "2026-07-14T22:38:38Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Rhino/JS control engine + NexusOS UI for Mindustry V8.\n\nCore features\n• Home — sector status, live core item flow, power balance\n• Waves — force waves, auto-wave, composition preview\n• World — time of day, wind, weather, sector capture tools\n• Items / Units — inject items, spawn units, mod content filters\n• Player / Weapon — pilot stats, unit weapon & turret tuning\n• Mining — fleet ore assignment (multi-ore stances)\n• Inspector — content browser with pagination (lower PAGE SIZE if laggy)\n• Builds — instant build, structure godmode, mass selection actions\n• Radius — turret/unit range overlays (shield-style non-stacking)\n• Console — in-game Rhino JS terminal\n\nTips\n• First launch shows a bilingual welcome dialog (EN/RU).\n• Inspector lag? Set page size to 20–40.\n• Use nav modes: USUAL / SANDBOX / ALL.\n\nJS-only mod. No Java classpath required."
+    "description": "[#ffd28a]NEXUS_OS // MOD ENGINE\n[#aab0b4]Rhino/JS control engine for Mindustry V8.\n\n[#10e5e5]CORE SYSTEMS\n[white]> [#ffd28a]World & Waves  [#aab0b4]simulation, weather and wave control\n[white]> [#ffd28a]Items & Units  [#aab0b4]batch core injection and unit deployment\n[white]> [#ffd28a]Weapons  [#aab0b4]stable unit fire-rate and turret tuning\n[white]> [#ffd28a]Mining  [#aab0b4]multi-ore fleet assignments\n[white]> [#ffd28a]Inspector  [#aab0b4]live deployments and mod-unit filtering\n[white]> [#ffd28a]Builds & Radius  [#aab0b4]factory filling and team-colored overlays\n[white]> [#ffd28a]Hotkeys & Console  [#aab0b4]persistent binds and Rhino shell\n\n[#10e5e5]QUICK ACCESS\n[#aab0b4]HUD tools hide on the full map and stack below compatible third-party panels.\n\n[#69e89b]TIP [#aab0b4]Set Inspector PAGE SIZE to 20-40 on weaker devices.\n[#646b76]JS-only mod. No Java classpath required."
   }
 ]
