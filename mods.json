@@ -230,7 +230,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-07-14T11:54:32Z",
+    "lastUpdated": "2026-07-14T19:29:50Z",
     "stars": 111,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -524,12 +524,26 @@
     "version": "1.2.0",
     "hidden": false,
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-07-14T16:48:53Z",
+    "lastUpdated": "2026-07-14T20:40:48Z",
     "stars": 47,
     "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
+  },
+  {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "version": "2.1.4",
+    "hidden": true,
+    "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22",
+    "lastUpdated": "2026-07-09T22:18:52Z",
+    "stars": 46,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
   },
   {
     "repo": "azaria-team/azaria",
@@ -558,20 +572,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#f1c40f]Team members:[]\r\n- [#6e7f96] Andromeda-Galaxy29[]\r\n- [#6e7f96] iRatzeyMezeri[]\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2] thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2] tinport[] - various suggestions and maps\r\n- [#5865f2] mrapple_0[] - maps\r\n- [#5865f2] cirrusisakey[] - help with sfx\r\n- [#6e7f96] xhstoyea[] - Chinese translations\r\n\r\n[#9b59b6]Other thanks:[]\r\n- [#5865f2] chozochorizo[] for help with balancing the mod\r\n- [#6e7f96] ThomasThings[] and [#6e7f96] Twcash[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2] nekoarkbruhagain_07111[]\r\n- [#5865f2] allayscrafter[]"
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "version": "2.1.4",
-    "hidden": true,
-    "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22",
-    "lastUpdated": "2026-07-09T22:18:52Z",
-    "stars": 45,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
   },
   {
     "repo": "sh1penfire/meld",
@@ -4290,7 +4290,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-14T19:18:46Z",
+    "lastUpdated": "2026-07-14T19:58:29Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -7880,5 +7880,19 @@
     "hasScripts": true,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "tomahawkarc/mindustry-v8-engine",
+    "internalName": "mod-engine",
+    "name": "Mod Engine",
+    "version": "1.1.0",
+    "hidden": false,
+    "author": "Tomahawk",
+    "lastUpdated": "2026-07-14T20:39:12Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Rhino/JS control engine + NexusOS UI for Mindustry V8.\n\nCore features\n• Home — sector status, live core item flow, power balance\n• Waves — force waves, auto-wave, composition preview\n• World — time of day, wind, weather, sector capture tools\n• Items / Units — inject items, spawn units, mod content filters\n• Player / Weapon — pilot stats, unit weapon & turret tuning\n• Mining — fleet ore assignment (multi-ore stances)\n• Inspector — content browser with pagination (lower PAGE SIZE if laggy)\n• Builds — instant build, structure godmode, mass selection actions\n• Radius — turret/unit range overlays (shield-style non-stacking)\n• Console — in-game Rhino JS terminal\n\nTips\n• First launch shows a bilingual welcome dialog (EN/RU).\n• Inspector lag? Set page size to 20–40.\n• Use nav modes: USUAL / SANDBOX / ALL.\n\nJS-only mod. No Java classpath required."
   }
 ]
