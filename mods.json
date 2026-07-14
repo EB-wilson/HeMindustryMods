@@ -371,7 +371,7 @@
     "hidden": false,
     "author": "Alon",
     "lastUpdated": "2026-06-15T14:06:50Z",
-    "stars": 64,
+    "stars": 65,
     "minGameVersion": "157.4",
     "hasScripts": false,
     "hasJava": true,
@@ -406,6 +406,20 @@
     "description": "  [#93E2EE]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Capture and conquer with over 18 campaign maps avaiable on this mod. (now with challenge maps!)\n\n  With over 13 items to be discovered, 124 blocks to be researched. and 17 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.[]\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Server! \n  Check it on my profile. My username is TnmSpiroct.\n\n  This mod requires newest mindustry build to be played (Beta 149)\n  \n  Version 0.7\n  - Codex Resprite\n  - More Biomes\n  - 2 New Items (Experimental)\n  - Removed Some Biomes\n  - New Turret, Anvil\n  - Fixes some blocks can be placed on deep water\n  - Nucrid Crusher"
   },
   {
+    "repo": "meepoffaith/testing-utilities-java",
+    "internalName": "test-utils",
+    "name": "Testing Utilities",
+    "version": "69.1",
+    "hidden": true,
+    "author": "MEEP of Faith",
+    "lastUpdated": "2026-07-14T04:26:59Z",
+    "stars": 61,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "internalName": "fooinstaller",
     "name": "Foo's Client Installer",
@@ -418,20 +432,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
-    "repo": "meepoffaith/testing-utilities-java",
-    "internalName": "test-utils",
-    "name": "Testing Utilities",
-    "version": "69.1",
-    "hidden": true,
-    "author": "MEEP of Faith",
-    "lastUpdated": "2026-07-14T04:26:59Z",
-    "stars": 60,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "eb-wilson/helium",
@@ -524,7 +524,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-07-13T06:37:39Z",
+    "lastUpdated": "2026-07-14T09:48:26Z",
     "stars": 47,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -608,7 +608,7 @@
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-07-14T05:45:08Z",
+    "lastUpdated": "2026-07-14T06:25:50Z",
     "stars": 41,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -1028,7 +1028,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-14T05:58:26Z",
+    "lastUpdated": "2026-07-14T09:56:29Z",
     "stars": 24,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1361,10 +1361,10 @@
     "repo": "determination-wind/neon",
     "internalName": "neon",
     "name": "Neon / 氖",
-    "version": "10.1.2",
+    "version": "10.1.3",
     "hidden": true,
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-07-12T03:39:17Z",
+    "lastUpdated": "2026-07-14T07:05:18Z",
     "stars": 16,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1890,20 +1890,6 @@
     "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "version": "V.test.0.0.38.326.07.09",
-    "hidden": false,
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-07-12T12:10:26Z",
-    "stars": 11,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
-  },
-  {
     "repo": "hao-1337/mindustry-better-vanilla",
     "internalName": "hao1337-mod",
     "name": "[ Better Vanilla ]",
@@ -1930,6 +1916,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "version": "V.test.0.0.38.326.07.09",
+    "hidden": false,
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-07-14T08:35:15Z",
+    "stars": 11,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
   },
   {
     "repo": "agzam4/mindustry-mod",
@@ -2400,7 +2400,7 @@
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-07-14T05:52:26Z",
+    "lastUpdated": "2026-07-14T07:41:33Z",
     "stars": 8,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -3248,6 +3248,20 @@
     "description": "模仿了学术端cyan字的效果，增加了几乎所有物品的下方灰字补充说明"
   },
   {
+    "repo": "128oteml/mindustryoptifine",
+    "internalName": "mindustry-optifine",
+    "name": "Mindustry OptiFine",
+    "version": "1.0",
+    "hidden": true,
+    "author": "128_OTEML",
+    "lastUpdated": "2026-07-13T07:16:46Z",
+    "stars": 5,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A modern shaders mod for Mindustry."
+  },
+  {
     "repo": "shimyytrov/turretex-java",
     "internalName": "turretex-java",
     "name": "Turret Expansion Java",
@@ -3682,20 +3696,6 @@
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
   },
   {
-    "repo": "128oteml/mindustryoptifine",
-    "internalName": "mindustry-optifine",
-    "name": "Mindustry OptiFine",
-    "version": "1.0",
-    "hidden": true,
-    "author": "128_OTEML",
-    "lastUpdated": "2026-07-13T07:16:46Z",
-    "stars": 4,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A modern shaders mod for Mindustry."
-  },
-  {
     "repo": "alecthe2nd/tantros",
     "internalName": "tantros",
     "name": "Tantros",
@@ -4004,20 +4004,6 @@
     "description": "9527，皴皲，咕咕点心,LYBF,Ovulam5480,杀虐无意识"
   },
   {
-    "repo": "2936832655luoyu/mindustry.trace-day",
-    "internalName": "痕迹日",
-    "name": "痕迹日",
-    "version": "1.0.17",
-    "hidden": false,
-    "author": "常青[代码编写]，云意[代码支持，代码编写]，火影3000无敌大王[绘图，贴图]，铭[地图]，纸归关[提出此模组的想法]",
-    "lastUpdated": "2025-10-08T04:37:58Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "介绍日后再写"
-  },
-  {
     "repo": "photon-gravity/polarform",
     "internalName": "polar-form",
     "name": "Polar Form",
@@ -4270,32 +4256,46 @@
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.7",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-07-13T18:08:12Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-14T05:50:04Z",
+    "lastUpdated": "2026-07-14T09:23:38Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "2936832655luoyu/mindustry.trace-day",
+    "internalName": "痕迹日",
+    "name": "痕迹日",
+    "version": "1.0.17",
+    "hidden": false,
+    "author": "常青[代码编写]，云意[代码支持，代码编写]，火影3000无敌大王[绘图，贴图]，铭[地图]，纸归关[提出此模组的想法]",
+    "lastUpdated": "2026-07-14T09:39:30Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "介绍日后再写"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.7",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-07-14T09:50:38Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "redstonneur1256/largerserverlist",
@@ -6482,20 +6482,6 @@
     "description": "Add long-window moving-average logistics speed rows under vanilla item speed display. / 在原版物流速度显示下方追加长窗口滑动平均行。"
   },
   {
-    "repo": "determination-wind/pinyinsearchsupport",
-    "internalName": "pinyin-search-support",
-    "name": "PinyinSearchSupport / 拼音搜索支持",
-    "version": "2.3.0",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-07-11T13:40:20Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
-  },
-  {
     "repo": "determination-wind/tripwire",
     "internalName": "tripwire",
     "name": "Tripwire",
@@ -6634,6 +6620,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java remake of my json unfinished mod."
+  },
+  {
+    "repo": "determination-wind/pinyinsearchsupport",
+    "internalName": "pinyin-search-support",
+    "name": "PinyinSearchSupport / 拼音搜索支持",
+    "version": "2.3.1",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-14T07:05:19Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -7874,7 +7874,7 @@
     "version": "0.0.0.0.1",
     "hidden": false,
     "author": "万象终极无尽星空(B站)",
-    "lastUpdated": "2026-07-13T14:27:21Z",
+    "lastUpdated": "2026-07-14T08:24:36Z",
     "stars": 0,
     "minGameVersion": "159.3",
     "hasScripts": true,
