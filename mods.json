@@ -160,7 +160,7 @@
     "version": "16.0",
     "hidden": false,
     "author": "Snake",
-    "lastUpdated": "2026-07-14T04:52:31Z",
+    "lastUpdated": "2026-07-14T13:16:12Z",
     "stars": 137,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -230,7 +230,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-07-13T21:15:12Z",
+    "lastUpdated": "2026-07-14T11:54:32Z",
     "stars": 110,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -608,7 +608,7 @@
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-07-14T06:25:50Z",
+    "lastUpdated": "2026-07-14T13:01:19Z",
     "stars": 41,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -791,7 +791,7 @@
     "hidden": false,
     "author": "SezoVK",
     "lastUpdated": "2026-07-12T07:31:38Z",
-    "stars": 30,
+    "stars": 31,
     "minGameVersion": "154.3",
     "hasScripts": true,
     "hasJava": false,
@@ -930,7 +930,7 @@
     "version": "1.11.0",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-07-13T08:10:35Z",
+    "lastUpdated": "2026-07-14T13:21:59Z",
     "stars": 26,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -2400,7 +2400,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-14T11:30:21Z",
+    "lastUpdated": "2026-07-14T11:48:46Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3668,20 +3668,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "rodrigoasfr24022003/rodrigonia-mod",
-    "internalName": "rodrigonia",
-    "name": "Rodrigonia",
-    "version": "1.2.3",
-    "hidden": false,
-    "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2026-07-09T14:51:36Z",
-    "stars": 4,
-    "minGameVersion": "157",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
-  },
-  {
     "repo": "thechronodonut1337/silent-orchestra",
     "internalName": "silent-orchestra",
     "name": "Sounds like Argus",
@@ -3722,6 +3708,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Inline and quick before/after diff viewer for Mindustry datapatches. / Mindustry 数据补丁的数据库与快捷差异查看器。"
+  },
+  {
+    "repo": "rodrigoasfr24022003/rodrigonia-mod",
+    "internalName": "rodrigonia",
+    "name": "Rodrigonia",
+    "version": "1.2.3",
+    "hidden": false,
+    "author": "rodrigo_of_rodrigonia",
+    "lastUpdated": "2026-07-14T13:20:35Z",
+    "stars": 4,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
     "repo": "lehanchic/serpulo-and-erekir-plus",
@@ -4256,20 +4256,6 @@
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-07-14T09:23:38Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "2936832655luoyu/mindustry.trace-day",
     "internalName": "痕迹日",
     "name": "痕迹日",
@@ -4296,6 +4282,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-07-14T13:41:31Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "redstonneur1256/largerserverlist",
@@ -4984,20 +4984,6 @@
     "description": "Изменяет ohno на \"бля\"."
   },
   {
-    "repo": "xenonixq/erekirlogic",
-    "internalName": "erekirlogic",
-    "name": "ErekirLogic",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Xenonix",
-    "lastUpdated": "2026-06-28T21:21:01Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[RU]Данный мод добавляет логические блоки в Erekir.\n[ENG]This mod adds logic blocks to Erekir."
-  },
-  {
     "repo": "momiji142857/ve-addon-momijiadd",
     "internalName": "ve-addon-momiji",
     "name": "VE Addon: MomijiAdd",
@@ -5192,6 +5178,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "written entirely in JavaScript"
+  },
+  {
+    "repo": "xenonixq/erekirlogic",
+    "internalName": "erekirlogic",
+    "name": "ErekirLogic",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Xenonix",
+    "lastUpdated": "2026-07-14T13:24:45Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[RU]Данный мод добавляет логические блоки в Erekir.\n[ENG]This mod adds logic blocks to Erekir."
   },
   {
     "repo": "chrono-heritage/chrono-strange-shit",
@@ -7874,7 +7874,7 @@
     "version": "0.0.0.0.1",
     "hidden": false,
     "author": "万象终极无尽星空(B站)",
-    "lastUpdated": "2026-07-14T08:24:36Z",
+    "lastUpdated": "2026-07-14T13:32:12Z",
     "stars": 0,
     "minGameVersion": "159.3",
     "hasScripts": true,
