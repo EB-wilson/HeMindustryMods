@@ -230,7 +230,7 @@
     "version": "4.0.2",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-07-15T17:59:30Z",
+    "lastUpdated": "2026-07-15T19:38:13Z",
     "stars": 111,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -692,7 +692,7 @@
     "version": "2.4",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-07-14T18:16:36Z",
+    "lastUpdated": "2026-07-15T19:29:38Z",
     "stars": 38,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -706,7 +706,7 @@
     "version": "3.2.4",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-07-15T13:39:04Z",
+    "lastUpdated": "2026-07-15T20:48:38Z",
     "stars": 38,
     "minGameVersion": "159.3",
     "hasScripts": true,
@@ -1582,6 +1582,20 @@
     "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
   },
   {
+    "repo": "sh1penfire/meld-java",
+    "internalName": "meld2",
+    "name": "Meld: Sand and Sunder",
+    "version": "gameplay test 5.1",
+    "hidden": false,
+    "author": "Sh1p",
+    "lastUpdated": "2026-06-07T18:38:07Z",
+    "stars": 13,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
+  },
+  {
     "repo": "no9527dada/ct-origin",
     "internalName": "creators",
     "name": "创世神2-起源独立版",
@@ -1664,20 +1678,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "为模组作者提供一个还原V7星球放置规则的可能，使用方法请参考README.md\n\nProvide a possibility for mod authors to restore the placement rules of V7 planet. Please refer to README.md for instructions on how to use it"
-  },
-  {
-    "repo": "sh1penfire/meld-java",
-    "internalName": "meld2",
-    "name": "Meld: Sand and Sunder",
-    "version": "gameplay test 5.1",
-    "hidden": false,
-    "author": "Sh1p",
-    "lastUpdated": "2026-06-07T18:38:07Z",
-    "stars": 12,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
   },
   {
     "repo": "jennii94900-tech/mod",
@@ -2380,20 +2380,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-15T12:05:06Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -2406,6 +2392,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "1.03",
+    "hidden": false,
+    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
+    "lastUpdated": "2026-07-15T20:03:15Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -4304,7 +4304,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-15T19:10:28Z",
+    "lastUpdated": "2026-07-15T20:29:49Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
