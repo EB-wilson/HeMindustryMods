@@ -73,12 +73,12 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v4.58.2-v8",
+    "version": "v4.58.3-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-07-11T16:19:27Z",
+    "lastUpdated": "2026-07-15T09:59:15Z",
     "stars": 229,
-    "minGameVersion": "154",
+    "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent] [#FFF000]Mindustry Tool  [white]- The Ultimate Utility for Every Player[]\n\n[white]Mindustry Tool is a feature-rich mod that integrates with [#88C6ED]mindustry-tool.com[white], enhancing your gameplay with community content, advanced automation, and powerful visual analysis tools.\n\n\n[accent] [#88C6ED]Content Browser:[]\n[white] Access a curated repository of [#394BA0]Maps [white]and [#D54799]Schematics [white]directly in-game.\n[white] Filter by size, mode, planet, and version to find exactly what you need.\n\n[accent] [#FFF000]Automation (Autoplay):[]\n[white] Smart task management for building support, repairing, and automated mining.\n[white] Dynamic AI control that takes over your unit to optimize efficiency.\n\n[accent] [#FAA31B]Enhanced Communication:[]\n[white] [#88C6ED]Global Chat:[white] Connect with other mod users across all servers.\n[white] [#82C341]Real-time Translation:[white] Translate chat messages instantly using Gemini or DeepL.\n\n[accent] [#EF4444]Visualizers & HUD:[]\n[white] Customizable health bars, enemy pathfinding prediction, and range indicators.\n[white] Enhanced resource tracking and HUD elements for better situational awareness.\n\n[accent] [#009F75]Multiplayer & Networking:[]\n[white] [#009F75]Player Connect:[white] Easily create or join private rooms with friends.\n[white] Optimized connections with built-in latency monitoring for hosts.\n\n[accent] [#82C341]Quality of Life:[]\n[white] [#82C341]Smart Upgrade:[white] Instantly upgrade entire distribution chains with one tap.\n[white] [#FAA31B]God Mode:[white] Powerful suite for sandbox testing and server administration.\n\n[accent] [#FFF000]Community Credits[]:\n[#88C6ED] Design-it Community:  \n[#394BA0]  Discord: [white]discord.gg/SYVkWPhmXY  \n[#394BA0]  GitHub: [white]MindustryDesignIt\n\n[#82C341] Mindustry Top Community:  \n[#88C6ED]  Website: [white]www.mindustry.top  \n[#009F75]  Email: [white]me@wayzer.top\n\n[accent] [#FFF000]Useful Links[]:\n[#88C6ED]  Website: [white]mindustry-tool.com[]\n[#394BA0]  Discord: [white]discord.gg/nQDrEHVkrt[]\n[#009F75]  Email: [white]mindustrytool@gmail.com[]\n[#FAA31B]  Reddit: [white]r/MindustryTool[]\n[#EF4444]  YouTube: [white]Mindustry Tool[]"
@@ -174,7 +174,7 @@
     "version": "v0.8",
     "hidden": false,
     "author": "Eschatologue",
-    "lastUpdated": "2026-07-05T03:06:35Z",
+    "lastUpdated": "2026-07-15T08:37:53Z",
     "stars": 134,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -370,7 +370,7 @@
     "version": "Alpha-6484",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-06-15T14:06:50Z",
+    "lastUpdated": "2026-07-15T08:54:44Z",
     "stars": 65,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -622,7 +622,7 @@
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-07-14T14:23:26Z",
+    "lastUpdated": "2026-07-15T06:14:03Z",
     "stars": 41,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -1028,7 +1028,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-15T05:47:36Z",
+    "lastUpdated": "2026-07-15T09:59:54Z",
     "stars": 24,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1764,20 +1764,6 @@
     "description": "[accent]A Mod that adds a new campaign about Terraplasm.\n\n[white]The Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n[accent]There is currently just 1 playable, polished sector.\n[white]Campaign got a complete rework! If you've played on 0.1 or lower, please restart!\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.21"
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-13T14:19:26Z",
-    "stars": 12,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1790,6 +1776,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-15T08:32:59Z",
+    "stars": 12,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
   },
   {
     "repo": "alnyled/astherive",
@@ -2232,7 +2232,7 @@
     "version": "0.61",
     "hidden": false,
     "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-07-13T07:56:49Z",
+    "lastUpdated": "2026-07-15T07:57:38Z",
     "stars": 9,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2366,32 +2366,32 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-13T14:18:52Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-07-14T18:44:45Z",
+    "lastUpdated": "2026-07-15T08:12:01Z",
     "stars": 8,
     "minGameVersion": "159",
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-15T08:31:23Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "oscillatorium/alef-null",
@@ -2400,7 +2400,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-14T21:04:28Z",
+    "lastUpdated": "2026-07-15T09:36:22Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4290,7 +4290,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-15T06:05:46Z",
+    "lastUpdated": "2026-07-15T08:07:47Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5192,6 +5192,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[RU]Данный мод добавляет логические блоки в Erekir.\n[ENG]This mod adds logic blocks to Erekir."
+  },
+  {
+    "repo": "koctz34/modularis",
+    "internalName": "modularis",
+    "name": "Modularis",
+    "version": "0.2",
+    "hidden": false,
+    "author": "Ion - 7274",
+    "lastUpdated": "2026-07-15T09:21:50Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
   },
   {
     "repo": "chrono-heritage/chrono-strange-shit",
@@ -6202,6 +6216,20 @@
     "description": "Lade diese Mod nur über den neuesten Release auf GitHub herunter! - - - Download this mod on GitHub only via the latest release! "
   },
   {
+    "repo": "edward-bill/linked-logistics-v2",
+    "internalName": "linked-logistics-v2",
+    "name": "Linked Logistics V2",
+    "version": "0.1.0",
+    "hidden": false,
+    "author": "exec4tble",
+    "lastUpdated": "2026-06-10T14:48:06Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Shared/Linked network to store/transport items and liquids."
+  },
+  {
     "repo": "zxsrxt-kebab-case/mindustry-noweather",
     "internalName": "no-weather",
     "name": "No Weather",
@@ -6634,6 +6662,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a small set of blocks to make challenge maps more interesting."
+  },
+  {
+    "repo": "tomahawkarc/mindustry-v8-engine",
+    "internalName": "mod-engine",
+    "name": "Mod Engine",
+    "version": "1.6.0",
+    "hidden": false,
+    "author": "[#10e5e5]Tomahawk",
+    "lastUpdated": "2026-07-15T04:16:44Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[#ffd28a]NEXUS_OS // MOD ENGINE\n[#aab0b4]Rhino/JS control engine for Mindustry V8.\n\n[#10e5e5]CORE SYSTEMS\n[white]> [#ffd28a]World & Waves  [#aab0b4]simulation, weather and wave control\n[white]> [#ffd28a]Items & Units  [#aab0b4]batch core injection and unit deployment\n[white]> [#ffd28a]Weapons  [#aab0b4]stable unit fire-rate and turret tuning\n[white]> [#ffd28a]Mining  [#aab0b4]multi-ore fleet assignments\n[white]> [#ffd28a]Inspector  [#aab0b4]live deployments and mod-unit filtering\n[white]> [#ffd28a]Builds & Radius  [#aab0b4]factory filling and team-colored overlays\n[white]> [#ffd28a]Hotkeys & Console  [#aab0b4]persistent binds and Rhino shell\n\n[#10e5e5]QUICK ACCESS\n[#aab0b4]HUD tools hide on the full map and stack below compatible third-party panels.\n\n[#69e89b]TIP [#aab0b4]Set Inspector PAGE SIZE to 20-40 on weaker devices.\n[#646b76]JS-only mod. No Java classpath required."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -7686,20 +7728,6 @@
     "description": "A mod about fog, darkness and atmospheric technologies."
   },
   {
-    "repo": "edward-bill/linked-logistics-v2",
-    "internalName": "linked-logistics-v2",
-    "name": "Linked Logistics V2",
-    "version": "0.1.0",
-    "hidden": false,
-    "author": "exec4tble",
-    "lastUpdated": "2026-06-10T14:48:06Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Shared/Linked network to store/transport items and liquids."
-  },
-  {
     "repo": "576576/mdtc",
     "internalName": "mdtc-mod",
     "name": "MdtC Coder",
@@ -7880,19 +7908,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "tomahawkarc/mindustry-v8-engine",
-    "internalName": "mod-engine",
-    "name": "Mod Engine",
-    "version": "1.6.0",
-    "hidden": false,
-    "author": "[#10e5e5]Tomahawk",
-    "lastUpdated": "2026-07-15T04:16:44Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[#ffd28a]NEXUS_OS // MOD ENGINE\n[#aab0b4]Rhino/JS control engine for Mindustry V8.\n\n[#10e5e5]CORE SYSTEMS\n[white]> [#ffd28a]World & Waves  [#aab0b4]simulation, weather and wave control\n[white]> [#ffd28a]Items & Units  [#aab0b4]batch core injection and unit deployment\n[white]> [#ffd28a]Weapons  [#aab0b4]stable unit fire-rate and turret tuning\n[white]> [#ffd28a]Mining  [#aab0b4]multi-ore fleet assignments\n[white]> [#ffd28a]Inspector  [#aab0b4]live deployments and mod-unit filtering\n[white]> [#ffd28a]Builds & Radius  [#aab0b4]factory filling and team-colored overlays\n[white]> [#ffd28a]Hotkeys & Console  [#aab0b4]persistent binds and Rhino shell\n\n[#10e5e5]QUICK ACCESS\n[#aab0b4]HUD tools hide on the full map and stack below compatible third-party panels.\n\n[#69e89b]TIP [#aab0b4]Set Inspector PAGE SIZE to 20-40 on weaker devices.\n[#646b76]JS-only mod. No Java classpath required."
   }
 ]
