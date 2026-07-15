@@ -35,7 +35,7 @@
     "hidden": false,
     "author": "guiY",
     "lastUpdated": "2026-06-30T06:17:55Z",
-    "stars": 255,
+    "stars": 256,
     "minGameVersion": "155",
     "hasScripts": false,
     "hasJava": true,
@@ -49,7 +49,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-07-12T05:23:04Z",
-    "stars": 248,
+    "stars": 249,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -994,20 +994,6 @@
     "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
-    "repo": "rednzba990/warboundindustriesmod",
-    "internalName": "wi",
-    "name": "Warbound Industries",
-    "version": "2-global-betaTest",
-    "hidden": false,
-    "author": "[ Main Developer ]\nRenn [ DC: @red.id9990 ] = Main mod creator\n\n[ Bundle ]\nBlazingGear [ DC: @justtbg_ ] = Russian translator\n\n[ Content Idea - Balancer ]\nSlyly [ DC: @tnmspiroctsub ] = Content balancer\n( Retired )",
-    "lastUpdated": "2026-07-04T03:43:12Z",
-    "stars": 25,
-    "minGameVersion": "147",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is a JavSscript Mod an adding random stuff into ingame! support Campaign too.\nMain content is QOL(Quality Of Life), but adding new Assault unit and Support unit.\nTHIS MOD IS SERPULO ONLY\n\nQOL content include:\n-Hybrid Junction,\n-One Way Liquid Unloader,\n-Liquid can be Distributed via Drone,\n-Delivery Drone, and More!\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
-  },
-  {
     "repo": "itzcraft/hjsonpp",
     "internalName": "hjsonpp",
     "name": "hjson++",
@@ -1022,13 +1008,27 @@
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
+    "repo": "rednzba990/warboundindustriesmod",
+    "internalName": "wi",
+    "name": "Warbound Industries",
+    "version": "2-global-betaTest",
+    "hidden": false,
+    "author": "[ Main Developer ]\nRenn [ DC: @red.id9990 ] = Main mod creator\n\n[ Bundle ]\nBlazingGear [ DC: @justtbg_ ] = Russian translator\n\n[ Content Idea - Balancer ]\nSlyly [ DC: @tnmspiroctsub ] = Content balancer\n( Retired )",
+    "lastUpdated": "2026-07-15T15:52:26Z",
+    "stars": 25,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adding new Assault unit, Support unit, and Industries!\nTHIS MOD IS SERPULO ONLY\n\nTHIS JAVASCRIPT MOD, SO NOT SUPPORT IOSSS\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
+  },
+  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-15T10:04:58Z",
+    "lastUpdated": "2026-07-15T15:59:52Z",
     "stars": 25,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -6676,6 +6676,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a small set of blocks to make challenge maps more interesting."
+  },
+  {
+    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
+    "internalName": "eec",
+    "name": "Extended Erekir Campaign",
+    "version": "[red]1.0",
+    "hidden": false,
+    "author": "ARKNET, iqtik123",
+    "lastUpdated": "2026-07-15T15:28:11Z",
+    "stars": 1,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
