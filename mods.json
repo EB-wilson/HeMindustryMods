@@ -21,7 +21,7 @@
     "hidden": false,
     "author": "sk7725",
     "lastUpdated": "2026-06-04T01:57:43Z",
-    "stars": 365,
+    "stars": 366,
     "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
@@ -73,10 +73,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v4.58.3-v8",
+    "version": "v4.58.4-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-07-15T09:59:15Z",
+    "lastUpdated": "2026-07-15T11:45:41Z",
     "stars": 229,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -160,7 +160,7 @@
     "version": "16.0",
     "hidden": false,
     "author": "Snake",
-    "lastUpdated": "2026-07-14T13:16:12Z",
+    "lastUpdated": "2026-07-15T12:30:55Z",
     "stars": 137,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -230,7 +230,7 @@
     "version": "4.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-07-14T19:29:50Z",
+    "lastUpdated": "2026-07-15T13:08:39Z",
     "stars": 111,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -622,7 +622,7 @@
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-07-15T06:14:03Z",
+    "lastUpdated": "2026-07-15T13:40:15Z",
     "stars": 41,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -706,7 +706,7 @@
     "version": "3.2.4",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-07-14T18:33:26Z",
+    "lastUpdated": "2026-07-15T13:39:04Z",
     "stars": 38,
     "minGameVersion": "159.3",
     "hasScripts": true,
@@ -882,6 +882,20 @@
     "description": "[#fed570] The[] [#feba93]Map[] [#fea0b6]Edi[][#ff85d9]tor[] [#ff6afc]mod []\n\n[#fff580] Improves Editor convenience and possibilities[]\n\nMaps created with this mod are [#89ff7a]fully compatible with vanilla []\n\n\n[#fff580] Features:[]\n\n[#efa8ff]- Revealed Hidden Features  -[]\nAbility to draw cliffs, use extra 250 teams, hidden map rules and planet backgrounds\n\n[#efa8ff]- Improved Dialogs  -[]\nBetter banned content dialogs (that's it rn)\n\n[#efa8ff]- Limit Bypasses  -[]\nMap sizes from 1 up to 2147483647\n\n\n[#ff8e82]⚠ In case of some other mods incompatibilities, feel free to open an issue on GitHub []"
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.12.0",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-07-15T10:17:54Z",
+    "stars": 27,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
+  },
+  {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
     "internalName": "",
     "name": "Welcome to the Frostscape",
@@ -922,20 +936,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.11.0",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-07-15T05:52:46Z",
-    "stars": 26,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "mindustrydagger/vanillaplus",
@@ -1028,7 +1028,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-15T09:59:54Z",
+    "lastUpdated": "2026-07-15T10:04:58Z",
     "stars": 24,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1750,20 +1750,6 @@
     "description": "A Mindustry greatest mod ever made!"
   },
   {
-    "repo": "yroo1/kratha",
-    "internalName": "kratha",
-    "name": "KRATHA",
-    "version": "0.21",
-    "hidden": false,
-    "author": "namaka",
-    "lastUpdated": "2026-07-13T11:32:03Z",
-    "stars": 12,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[accent]A Mod that adds a new campaign about Terraplasm.\n\n[white]The Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n[accent]There is currently just 1 playable, polished sector.\n[white]Campaign got a complete rework! If you've played on 0.1 or lower, please restart!\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.21"
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1790,6 +1776,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
+  },
+  {
+    "repo": "yroo1/kratha",
+    "internalName": "kratha",
+    "name": "KRATHA",
+    "version": "0.21",
+    "hidden": false,
+    "author": "namaka",
+    "lastUpdated": "2026-07-15T11:44:46Z",
+    "stars": 12,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[accent]A Mod that adds a new campaign about Terraplasm.\n\n[white]The Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n[accent]There is currently just 1 playable, polished sector.\n[white]Campaign got a complete rework! If you've played on 0.1 or lower, please restart!\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.21"
   },
   {
     "repo": "alnyled/astherive",
@@ -2366,20 +2366,6 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-15T08:12:01Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -2400,12 +2386,26 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-15T09:36:22Z",
+    "lastUpdated": "2026-07-15T12:05:06Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-15T13:38:41Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "mitemi/blastanium",
@@ -4298,6 +4298,20 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
+    "repo": "koctz34/modularis",
+    "internalName": "modularis",
+    "name": "Modularis",
+    "version": "0.2",
+    "hidden": false,
+    "author": "Ion - 7274",
+    "lastUpdated": "2026-07-15T11:22:13Z",
+    "stars": 3,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
+  },
+  {
     "repo": "redstonneur1256/largerserverlist",
     "internalName": "larger-server-list",
     "name": "Larger server list",
@@ -4984,20 +4998,6 @@
     "description": "Изменяет ohno на \"бля\"."
   },
   {
-    "repo": "momiji142857/ve-addon-momijiadd",
-    "internalName": "ve-addon-momiji",
-    "name": "VE Addon: MomijiAdd",
-    "version": "0.2",
-    "hidden": false,
-    "author": "[sky]Momiji142857[white]",
-    "lastUpdated": "2026-06-29T13:48:58Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-06-26[white]"
-  },
-  {
     "repo": "rocket550/zytheron-technology-java-",
     "internalName": "zytheron",
     "name": "Zytheron Technology(Java)",
@@ -5194,18 +5194,18 @@
     "description": "[RU]Данный мод добавляет логические блоки в Erekir.\n[ENG]This mod adds logic blocks to Erekir."
   },
   {
-    "repo": "koctz34/modularis",
-    "internalName": "modularis",
-    "name": "Modularis",
+    "repo": "momiji142857/ve-addon-momijiadd",
+    "internalName": "ve-addon-momiji",
+    "name": "VE Addon: MomijiAdd",
     "version": "0.2",
     "hidden": false,
-    "author": "Ion - 7274",
-    "lastUpdated": "2026-07-15T09:21:50Z",
+    "author": "[sky]Momiji142857[white]",
+    "lastUpdated": "2026-07-15T10:21:29Z",
     "stars": 2,
-    "minGameVersion": "158",
+    "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
+    "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-06-26[white]"
   },
   {
     "repo": "chrono-heritage/chrono-strange-shit",
@@ -7902,11 +7902,25 @@
     "version": "0.0.0.0.1",
     "hidden": false,
     "author": "万象终极无尽星空(B站)",
-    "lastUpdated": "2026-07-15T02:15:20Z",
+    "lastUpdated": "2026-07-15T12:23:47Z",
     "stars": 0,
     "minGameVersion": "159.3",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "xiguayiqiu/bettermindustrymod",
+    "internalName": "bettermindustry",
+    "name": "更好的像素工厂",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": "弈秋忘忧白帽",
+    "lastUpdated": "2026-07-15T13:18:33Z",
+    "stars": 0,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "更好的Mindustry游戏体验/n 目前功能[字体设置、科技树显示、游戏时间、核心资源显示]"
   }
 ]
