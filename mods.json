@@ -77,7 +77,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-07-15T11:45:41Z",
-    "stars": 229,
+    "stars": 228,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -230,8 +230,8 @@
     "version": "4.0.2",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-07-15T19:38:13Z",
-    "stars": 111,
+    "lastUpdated": "2026-07-16T09:35:25Z",
+    "stars": 110,
     "minGameVersion": "159.6",
     "hasScripts": false,
     "hasJava": true,
@@ -832,7 +832,7 @@
     "version": "1.8.5",
     "hidden": false,
     "author": "WMF Industries",
-    "lastUpdated": "2026-07-15T18:35:17Z",
+    "lastUpdated": "2026-07-16T08:24:41Z",
     "stars": 29,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -888,7 +888,7 @@
     "version": "1.12.0",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-07-15T14:52:11Z",
+    "lastUpdated": "2026-07-16T10:03:14Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1904,20 +1904,6 @@
     "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
   },
   {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "version": "V.test.0.0.38.326.07.09",
-    "hidden": false,
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-07-14T08:35:15Z",
-    "stars": 11,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
-  },
-  {
     "repo": "spore-biometh-team/sandmod",
     "internalName": "sand",
     "name": "Greektech",
@@ -1930,6 +1916,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "version": "V.test.0.0.38.3-1-26.07.10",
+    "hidden": false,
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-07-16T09:55:06Z",
+    "stars": 11,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
   },
   {
     "repo": "agzam4/mindustry-mod",
@@ -2380,20 +2380,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-15T14:00:24Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "oscillatorium/alef-null",
     "internalName": "alef-null",
     "name": "Alef-Null",
@@ -2406,6 +2392,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-16T07:37:41Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "mitemi/blastanium",
@@ -3730,7 +3730,7 @@
     "version": "0.2",
     "hidden": false,
     "author": "Ion - 7274",
-    "lastUpdated": "2026-07-15T11:22:13Z",
+    "lastUpdated": "2026-07-16T08:46:45Z",
     "stars": 4,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -4270,20 +4270,6 @@
     "description": "介绍日后再写"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.7",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-07-14T09:50:38Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -4298,13 +4284,41 @@
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[accent]Changelog / Novedades v0.7:\n[lightgray]• New sprites and some modifications to old ones (working on the missing sprites).\n• New air-based liquid transport system (V2). \n• New Modular Core and Modular sistem.\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·Nuevo Nucleo Core: Paradigm y sus 6 nuevos módulos, ademas funcionan con cualquier nucleo (Azul aun esta en desarrollo) \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, More Defenses, Expanded Industries, Better Terrain Gen V2, Modularis, simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
+    "repo": "determination-wind/random",
+    "internalName": "random",
+    "name": "Random",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-07-16T08:07:50Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Client-side random text and texture presentation for Mindustry."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.7",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-07-16T08:44:16Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-16T02:57:09Z",
+    "lastUpdated": "2026-07-16T09:29:16Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5166,20 +5180,6 @@
     "description": "A simple mod that allows server plugin developers to manage USIDs. After installation, a new button will appear in settings.\n\n This mod should not be used to bypass any kind of server restriction!"
   },
   {
-    "repo": "7bebebe7/javascript-mod",
-    "internalName": "jsm",
-    "name": "JS Mod",
-    "version": "1.1.1",
-    "hidden": false,
-    "author": "bebebe",
-    "lastUpdated": "2026-07-14T11:14:38Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "written entirely in JavaScript"
-  },
-  {
     "repo": "tomahawkarc/mindustry-v8-engine",
     "internalName": "mod-engine",
     "name": "Mod Engine",
@@ -5220,6 +5220,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[RU]Данный мод добавляет логические блоки в Erekir.\n[ENG]This mod adds logic blocks to Erekir."
+  },
+  {
+    "repo": "7bebebe7/javascript-mod",
+    "internalName": "jsm",
+    "name": "JS Mod",
+    "version": "1.1.1",
+    "hidden": false,
+    "author": "bebebe",
+    "lastUpdated": "2026-07-16T07:49:21Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "written entirely in JavaScript"
+  },
+  {
+    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
+    "internalName": "eec",
+    "name": "Extended Erekir Campaign",
+    "version": "[red]1.0",
+    "hidden": false,
+    "author": "ARKNET, iqtik123",
+    "lastUpdated": "2026-07-16T10:07:55Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
     "repo": "chrono-heritage/chrono-strange-shit",
@@ -6662,20 +6690,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a small set of blocks to make challenge maps more interesting."
-  },
-  {
-    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
-    "internalName": "eec",
-    "name": "Extended Erekir Campaign",
-    "version": "[red]1.0",
-    "hidden": false,
-    "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-07-15T15:28:11Z",
-    "stars": 1,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
     "repo": "m-e-l-i-s/silviriumjava",
