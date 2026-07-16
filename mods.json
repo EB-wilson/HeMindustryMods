@@ -34,7 +34,7 @@
     "version": "1.2.3.0",
     "hidden": false,
     "author": "guiY",
-    "lastUpdated": "2026-06-30T06:17:55Z",
+    "lastUpdated": "2026-07-16T02:02:06Z",
     "stars": 256,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -412,7 +412,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-07-15T15:06:42Z",
+    "lastUpdated": "2026-07-16T02:23:55Z",
     "stars": 61,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1028,7 +1028,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-15T15:59:52Z",
+    "lastUpdated": "2026-07-16T00:59:04Z",
     "stars": 25,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1294,7 +1294,7 @@
     "version": "2.1.1.5",
     "hidden": false,
     "author": "火星人076",
-    "lastUpdated": "2026-07-15T04:26:08Z",
+    "lastUpdated": "2026-07-16T02:25:32Z",
     "stars": 17,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -4287,15 +4287,15 @@
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
-    "version": "0.5 beta",
+    "version": "0.7",
     "hidden": false,
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-15T19:02:19Z",
+    "lastUpdated": "2026-07-16T02:04:56Z",
     "stars": 3,
-    "minGameVersion": "158",
+    "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
-    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[accent]Changelog / Novedades v0.7:\n[lightgray]• New sprites and some modifications to old ones (working on the missing sprites).\n• New air-based liquid transport system (V2). \n• New Modular Core and Modular sistem.\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·Nuevo Nucleo Core: Paradigm y sus 6 nuevos módulos, ademas funcionan con cualquier nucleo (Azul aun esta en desarrollo) \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, More Defenses, Expanded Industries, Better Terrain Gen V2, Modularis, simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
     "repo": "penguip/a-mindustry-mod",
@@ -4304,7 +4304,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-15T22:57:02Z",
+    "lastUpdated": "2026-07-16T02:24:03Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6608,20 +6608,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "version": "1.2",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2026-07-14T00:37:44Z",
-    "stars": 1,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "determination-wind/pinyinsearchsupport",
     "internalName": "pinyin-search-support",
     "name": "PinyinSearchSupport / 拼音搜索支持",
@@ -6690,6 +6676,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "version": "1.2",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2026-07-15T23:23:50Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -7910,20 +7910,6 @@
     "description": "Мод добавляет планету Пунь."
   },
   {
-    "repo": "lys121005/terraria_for_mindustry",
-    "internalName": "泰拉世纪工厂",
-    "name": "泰拉世纪工厂",
-    "version": "0.0.0.0.1",
-    "hidden": false,
-    "author": "万象终极无尽星空(B站)",
-    "lastUpdated": "2026-07-15T12:23:47Z",
-    "stars": 0,
-    "minGameVersion": "159.3",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": ""
-  },
-  {
     "repo": "xiguayiqiu/bettermindustrymod",
     "internalName": "bettermindustry",
     "name": "更好的像素工厂",
@@ -7936,5 +7922,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "更好的Mindustry游戏体验/n 目前功能[字体设置、科技树显示、游戏时间、核心资源显示]"
+  },
+  {
+    "repo": "lys121005/terraria_for_mindustry",
+    "internalName": "泰拉世纪工厂",
+    "name": "泰拉世纪工厂",
+    "version": "0.0.0.0.1",
+    "hidden": false,
+    "author": "万象终极无尽星空(B站)",
+    "lastUpdated": "2026-07-16T01:35:53Z",
+    "stars": 0,
+    "minGameVersion": "159.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
   }
 ]
