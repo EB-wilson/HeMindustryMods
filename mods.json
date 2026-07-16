@@ -14,6 +14,20 @@
     "description": "Beta Release. Campaign Not Included.\n\nCurrently contains stable content and optional vanilla override. \n\nMod is playable as extension for both Serpulo and Erekir. \n\nCampaign still WIP."
   },
   {
+    "repo": "sk7725/betamindy",
+    "internalName": "betamindy",
+    "name": "BetaMindy",
+    "version": "2.0",
+    "hidden": false,
+    "author": "sk7725",
+    "lastUpdated": "2026-06-04T01:57:43Z",
+    "stars": 366,
+    "minGameVersion": "155.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first Java mod, has the same amount of chaotic energy of sk7725/Commandblocks."
+  },
+  {
     "repo": "guiymou/mindustry-extra-utilities-mod",
     "internalName": "extra-utilities",
     "name": "ExtraUtilities",
@@ -146,7 +160,7 @@
     "version": "16.0",
     "hidden": false,
     "author": "Snake",
-    "lastUpdated": "2026-07-15T15:07:10Z",
+    "lastUpdated": "2026-07-16T17:09:20Z",
     "stars": 137,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -364,6 +378,20 @@
     "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
+    "repo": "tnmspiroct/exoprosopa",
+    "internalName": "exoprosopa",
+    "name": "Exoprosopa",
+    "version": "0.71",
+    "hidden": false,
+    "author": "TnmSpiroct",
+    "lastUpdated": "2026-07-16T10:38:32Z",
+    "stars": 62,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  [#93E2EE]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Capture and conquer with over 18 campaign maps avaiable on this mod. (now with challenge maps!)\n\n  With over 13 items to be discovered, 124 blocks to be researched. and 17 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.[]\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Server! \n  Check it on my profile. My username is TnmSpiroct.\n\n  This mod requires newest mindustry build to be played (Beta 149)\n  \n  Version 0.7\n  - Codex Resprite\n  - More Biomes\n  - 2 New Items (Experimental)\n  - Removed Some Biomes\n  - New Turret, Anvil\n  - Fixes some blocks can be placed on deep water\n  - Nucrid Crusher"
+  },
+  {
     "repo": "liplum/multicrafterlib",
     "internalName": "multi-crafter",
     "name": "MultiCrafter Lib",
@@ -390,20 +418,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
-    "repo": "tnmspiroct/exoprosopa",
-    "internalName": "exoprosopa",
-    "name": "Exoprosopa",
-    "version": "0.71",
-    "hidden": false,
-    "author": "TnmSpiroct",
-    "lastUpdated": "2026-07-16T10:38:32Z",
-    "stars": 61,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  [#93E2EE]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Capture and conquer with over 18 campaign maps avaiable on this mod. (now with challenge maps!)\n\n  With over 13 items to be discovered, 124 blocks to be researched. and 17 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.[]\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Server! \n  Check it on my profile. My username is TnmSpiroct.\n\n  This mod requires newest mindustry build to be played (Beta 149)\n  \n  Version 0.7\n  - Codex Resprite\n  - More Biomes\n  - 2 New Items (Experimental)\n  - Removed Some Biomes\n  - New Turret, Anvil\n  - Fixes some blocks can be placed on deep water\n  - Nucrid Crusher"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -1014,7 +1028,7 @@
     "version": "2-global-betaTest",
     "hidden": false,
     "author": "[ Main Developer ]\nRenn [ DC: @red.id9990 ] = Main mod creator\n\n[ Bundle ]\nBlazingGear [ DC: @justtbg_ ] = Russian translator\n\n[ Content Idea - Balancer ]\nSlyly [ DC: @tnmspiroctsub ] = Content balancer\n( Retired )",
-    "lastUpdated": "2026-07-16T11:31:06Z",
+    "lastUpdated": "2026-07-16T16:20:40Z",
     "stars": 25,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -3780,6 +3794,20 @@
     "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
   },
   {
+    "repo": "vdgaster/upgraded-blocks",
+    "internalName": "upd-blocks",
+    "name": "Upgraded Blocks",
+    "version": "1.0",
+    "hidden": false,
+    "author": "VDGaster",
+    "lastUpdated": "2024-05-20T05:19:18Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This Mindustry mod will add alternate blocks which will be better then their analogues, but also will be cost more resources to build. Most of additional blocks will be batteries, containers, etc. But it will not be any turrets or something like this"
+  },
+  {
     "repo": "evo04taser/mindustry-turrets-extension",
     "internalName": "new-turrets",
     "name": "Mindustry Turrets Extension",
@@ -4702,6 +4730,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Serpulo Tweaks"
+  },
+  {
+    "repo": "figseu-technology/greenfortress",
+    "internalName": "green fortress",
+    "name": "Green Fortress",
+    "version": "8.0.0",
+    "hidden": false,
+    "author": "Figseu Technology",
+    "lastUpdated": "2025-09-24T08:07:27Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "世界は新たに創造され、我々は文明を再構築する"
   },
   {
     "repo": "713712/scr",
@@ -7882,20 +7924,6 @@
     "description": "Мод добавляет планету Пунь."
   },
   {
-    "repo": "xiguayiqiu/bettermindustrymod",
-    "internalName": "bettermindustry",
-    "name": "更好的像素工厂",
-    "version": "1.0.0",
-    "hidden": false,
-    "author": "弈秋忘忧白帽",
-    "lastUpdated": "2026-07-15T13:18:33Z",
-    "stars": 0,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "更好的Mindustry游戏体验/n 目前功能[字体设置、科技树显示、游戏时间、核心资源显示]"
-  },
-  {
     "repo": "lys121005/terraria_for_mindustry",
     "internalName": "泰拉世纪工厂",
     "name": "泰拉世纪工厂",
@@ -7908,5 +7936,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "xiguayiqiu/bettermindustrymod",
+    "internalName": "bettermindustry",
+    "name": "更好的像素工厂",
+    "version": "1.1.0",
+    "hidden": false,
+    "author": "弈秋忘忧白帽",
+    "lastUpdated": "2026-07-16T17:07:42Z",
+    "stars": 0,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "更好的Mindustry游戏体验\n目前功能：\n字体设置 科技树显示 游戏时间 核心资源显示 更好的模组管理 极限视野 拼音搜索支持"
   }
 ]
