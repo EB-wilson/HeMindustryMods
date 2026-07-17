@@ -622,7 +622,7 @@
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-07-17T06:07:59Z",
+    "lastUpdated": "2026-07-17T10:34:02Z",
     "stars": 41,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -1658,7 +1658,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-07-16T14:26:25Z",
+    "lastUpdated": "2026-07-17T10:58:44Z",
     "stars": 12,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -2254,20 +2254,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-16T23:34:49Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -2280,6 +2266,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "1.03",
+    "hidden": false,
+    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
+    "lastUpdated": "2026-07-17T11:15:26Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -2624,7 +2624,7 @@
     "version": "0.2",
     "hidden": false,
     "author": "Ion - 7274",
-    "lastUpdated": "2026-07-17T07:23:44Z",
+    "lastUpdated": "2026-07-17T11:20:12Z",
     "stars": 7,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -3976,20 +3976,6 @@
     "description": "介绍日后再写"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.7",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-07-16T08:44:16Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "a-r-k-n-e-t/extended-erekir-campaign",
     "internalName": "eec",
     "name": "Extended Erekir Campaign",
@@ -4058,6 +4044,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.7",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-07-17T11:13:35Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "leyn-pl/iconpicker",
