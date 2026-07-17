@@ -230,7 +230,7 @@
     "version": "4.0.2",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-07-16T19:52:36Z",
+    "lastUpdated": "2026-07-17T06:20:40Z",
     "stars": 110,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -370,7 +370,7 @@
     "version": "Alpha-6484",
     "hidden": false,
     "author": "Alon",
-    "lastUpdated": "2026-07-15T08:54:44Z",
+    "lastUpdated": "2026-07-17T09:04:16Z",
     "stars": 65,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -2120,7 +2120,7 @@
     "version": "0.62",
     "hidden": false,
     "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-07-17T06:02:04Z",
+    "lastUpdated": "2026-07-17T07:58:59Z",
     "stars": 9,
     "minGameVersion": "156",
     "hasScripts": false,
@@ -2254,20 +2254,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-16T18:58:52Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "oscillatorium/alef-null",
     "internalName": "alef-null",
     "name": "Alef-Null",
@@ -2280,6 +2266,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-17T09:50:31Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "mitemi/blastanium",
@@ -2624,7 +2624,7 @@
     "version": "0.2",
     "hidden": false,
     "author": "Ion - 7274",
-    "lastUpdated": "2026-07-16T14:47:05Z",
+    "lastUpdated": "2026-07-17T07:23:44Z",
     "stars": 7,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -3976,20 +3976,6 @@
     "description": "介绍日后再写"
   },
   {
-    "repo": "determination-wind/random",
-    "internalName": "random",
-    "name": "Random",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-07-16T08:07:50Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Client-side random text and texture presentation for Mindustry."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4035,15 +4021,29 @@
     "repo": "tomahawkarc/mindustry-v8-engine",
     "internalName": "mod-engine",
     "name": "Mod Engine",
-    "version": "1.9.0",
+    "version": "1.9.1",
     "hidden": false,
     "author": "[#10e5e5]Tomahawk",
-    "lastUpdated": "2026-07-17T02:50:17Z",
+    "lastUpdated": "2026-07-17T08:15:32Z",
     "stars": 3,
     "minGameVersion": "154",
     "hasScripts": true,
     "hasJava": false,
     "description": "[#ffd28a]NEXUS_OS // MOD ENGINE\n[#aab0b4]Rhino/JS control engine for Mindustry V8.\n\n[#10e5e5]CORE SYSTEMS\n[white]> [#ffd28a]World & Waves  [#aab0b4]simulation, weather and wave control\n[white]> [#ffd28a]Items & Units  [#aab0b4]batch core injection and unit deployment\n[white]> [#ffd28a]Weapons  [#aab0b4]stable unit fire-rate and turret tuning\n[white]> [#ffd28a]Mining  [#aab0b4]multi-ore fleet assignments\n[white]> [#ffd28a]Inspector  [#aab0b4]live deployments and mod-unit filtering\n[white]> [#ffd28a]Builds & Radius  [#aab0b4]factory filling and team-colored overlays\n[white]> [#ffd28a]Hotkeys & Console  [#aab0b4]persistent binds and Rhino shell\n\n[#10e5e5]QUICK ACCESS\n[#aab0b4]HUD tools hide on the full map and stack below compatible third-party panels.\n\n[#69e89b]TIP [#aab0b4]Set Inspector PAGE SIZE to 20-40 on weaker devices.\n[#646b76]JS-only mod. No Java classpath required."
+  },
+  {
+    "repo": "determination-wind/random",
+    "internalName": "random",
+    "name": "Random",
+    "version": "1.1.0",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-07-17T08:28:18Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Client-side random text and texture presentation for Mindustry."
   },
   {
     "repo": "penguip/a-mindustry-mod",
@@ -4052,7 +4052,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-17T04:51:16Z",
+    "lastUpdated": "2026-07-17T09:07:02Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6230,6 +6230,20 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
+    "repo": "xiguayiqiu/bettermindustrymod",
+    "internalName": "bettermindustry",
+    "name": "更好的像素工厂",
+    "version": "1.1.1",
+    "hidden": false,
+    "author": "弈秋忘忧白帽",
+    "lastUpdated": "2026-07-17T09:12:48Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "◆ 更好的Mindustry游戏体验 - 全方位功能增强模组\n更好的像素工厂模组，集成多项实用功能，全面提升游戏体验。\n\n◆ 字体设置:\n  - 内置楷体字体替换，中文显示更美观。\n\n◆ 科技树显示:\n  - 显示未解锁科技内容（灰色预览），不会解锁仅预览。\n\n◆ 游戏增强:\n  - 游戏时间: 左下角时间流速控制按钮，支持1x/16x/32x/64x。\n  - 核心资源显示: HUD上方显示核心资源及单位数量。\n  - 极限视野: 突破默认缩放限制，俯瞰全地图。\n\n◆ 更好的模组管理:\n  - 已启用/未启用模组分左右双栏，按Java/JavaScript/JS分类。\n  - 支持搜索、GitHub导入、本地导入，一键切换启用状态。\n\n◆ 拼音搜索支持:\n  - 输入拼音字母匹配中文内容，支持模糊、首字母、多音字匹配。\n\n◆ fcitx5中文输入:\n  - 原生对话框模式，支持Linux fcitx5中文输入法。\n\n◆ 开源信息:\n  - GitHub: github.com/xiguayiqiu/bettermindustryMod\n  - 反馈: GitHub Issues"
+  },
+  {
     "repo": "lorendoscsharp/tzarbimbajava",
     "internalName": "tzarbimbajava",
     "name": "tzarbimbajava",
@@ -7278,19 +7292,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "xiguayiqiu/bettermindustrymod",
-    "internalName": "bettermindustry",
-    "name": "更好的像素工厂",
-    "version": "1.1.0",
-    "hidden": false,
-    "author": "弈秋忘忧白帽",
-    "lastUpdated": "2026-07-17T04:38:43Z",
-    "stars": 0,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "更好的Mindustry游戏体验\n目前功能：\n字体设置 科技树显示 游戏时间 核心资源显示 更好的模组管理 极限视野 拼音搜索支持"
   }
 ]
