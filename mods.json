@@ -525,7 +525,7 @@
     "hidden": false,
     "author": "DeerCarbonate",
     "lastUpdated": "2026-07-17T16:52:44Z",
-    "stars": 47,
+    "stars": 48,
     "minGameVersion": "154",
     "hasScripts": true,
     "hasJava": false,
@@ -2274,7 +2274,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-17T14:17:49Z",
+    "lastUpdated": "2026-07-17T23:45:50Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3990,20 +3990,6 @@
     "description": "Client-side random text and texture presentation for Mindustry."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-07-17T09:07:02Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4058,6 +4044,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[accent]Changelog / Novedades v0.7:\n[lightgray]• New sprites and some modifications to old ones (working on the missing sprites).\n• New air-based liquid transport system (V2). \n• New Modular Core and Modular sistem.\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·Nuevo Nucleo Core: Paradigm y sus 6 nuevos módulos, ademas funcionan con cualquier nucleo (Azul aun esta en desarrollo) \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, More Defenses, Expanded Industries, Better Terrain Gen V2, Modularis, simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-07-17T23:30:48Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -4884,6 +4884,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "written entirely in JavaScript"
+  },
+  {
+    "repo": "apszoldat/mindustry-ultra-pixelate",
+    "internalName": "ultra-pixelate",
+    "name": "Ultra Pixelate",
+    "version": "1.1",
+    "hidden": true,
+    "author": "ApsZoldat",
+    "lastUpdated": "2026-07-17T21:14:01Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod allowing to modify pixelate filter scale (when you downloaded a bad iron ore mod and don't want your eyes to bleed)"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -6174,20 +6188,6 @@
     "description": "Adds a small set of blocks to make challenge maps more interesting."
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "version": "1.2",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2026-07-15T23:23:50Z",
-    "stars": 1,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "lynia671/alloy_industry",
     "internalName": "合金工业",
     "name": "合金工业",
@@ -6230,18 +6230,18 @@
     "description": "◆ 更好的Mindustry游戏体验 - 全方位功能增强模组\n更好的像素工厂模组，集成多项实用功能，全面提升游戏体验。\n\n◆ 字体设置:\n  - 内置楷体字体替换，中文显示更美观。\n\n◆ 科技树显示:\n  - 显示未解锁科技内容（灰色预览），不会解锁仅预览。\n\n◆ 游戏增强:\n  - 游戏时间: 左下角时间流速控制按钮，支持1x/16x/32x/64x。\n  - 核心资源显示: HUD上方显示核心资源及单位数量。\n  - 极限视野: 突破默认缩放限制，俯瞰全地图。\n\n◆ 更好的模组管理:\n  - 已启用/未启用模组分左右双栏，按Java/JavaScript/JS分类。\n  - 支持搜索、GitHub导入、本地导入，一键切换启用状态。\n\n◆ 拼音搜索支持:\n  - 输入拼音字母匹配中文内容，支持模糊、首字母、多音字匹配。\n\n◆ fcitx5中文输入:\n  - 原生对话框模式，支持Linux fcitx5中文输入法。\n\n◆ 开源信息:\n  - GitHub: github.com/xiguayiqiu/bettermindustryMod\n  - 反馈: GitHub Issues"
   },
   {
-    "repo": "apszoldat/mindustry-ultra-pixelate",
-    "internalName": "ultra-pixelate",
-    "name": "Ultra Pixelate",
-    "version": "1.1",
-    "hidden": true,
-    "author": "ApsZoldat",
-    "lastUpdated": "2026-07-17T21:14:01Z",
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "version": "1.2",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2026-07-17T23:41:57Z",
     "stars": 1,
-    "minGameVersion": "159",
+    "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Mod allowing to modify pixelate filter scale (when you downloaded a bad iron ore mod and don't want your eyes to bleed)"
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
