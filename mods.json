@@ -189,7 +189,7 @@
     "hidden": true,
     "author": "BlackDeluxeCat",
     "lastUpdated": "2026-07-10T06:17:33Z",
-    "stars": 129,
+    "stars": 130,
     "minGameVersion": "159.2",
     "hasScripts": false,
     "hasJava": true,
@@ -756,6 +756,20 @@
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
   },
   {
+    "repo": "typicaldeveloper123/biotic-zlo",
+    "internalName": "corpuscles",
+    "name": "Corpuscles",
+    "version": "v1.3",
+    "hidden": false,
+    "author": "SezoVK",
+    "lastUpdated": "2026-07-12T07:31:38Z",
+    "stars": 32,
+    "minGameVersion": "154.3",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that features life.\nSPOILER:\n- MIGHT CONTAIN DISTURBING GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- SOME UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n\nThanks to HunNimbus, and VdobleMSG for some of the sprites!\nAvailable in these languages:\n- English\n- Indonesia\n\nWIP\n  "
+  },
+  {
     "repo": "eyeofdarkness/advance-lighting",
     "internalName": "advance-lighting",
     "name": "Advance lighting",
@@ -782,20 +796,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dynamic load custom contents patch account to server"
-  },
-  {
-    "repo": "typicaldeveloper123/biotic-zlo",
-    "internalName": "corpuscles",
-    "name": "Corpuscles",
-    "version": "v1.3",
-    "hidden": false,
-    "author": "SezoVK",
-    "lastUpdated": "2026-07-12T07:31:38Z",
-    "stars": 31,
-    "minGameVersion": "154.3",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that features life.\nSPOILER:\n- MIGHT CONTAIN DISTURBING GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- SOME UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n\nThanks to HunNimbus, and VdobleMSG for some of the sprites!\nAvailable in these languages:\n- English\n- Indonesia\n\nWIP\n  "
   },
   {
     "repo": "zelaux/bytelogicmod",
@@ -944,12 +944,12 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-18T10:51:17Z",
+    "lastUpdated": "2026-07-18T14:49:23Z",
     "stars": 26,
-    "minGameVersion": "156",
+    "minGameVersion": "159",
     "hasScripts": true,
     "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version isnt available or is\nbugged then please use download from the \nlatest releases instead.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 20 stars)[]\n"
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version isnt available or is\nbugged then please use download from the \nlatest releases instead.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 25 stars)[]\n"
   },
   {
     "repo": "mindustrydagger/vanillaplus",
@@ -1190,6 +1190,20 @@
     "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
   },
   {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "version": "10.2.0",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-07-16T13:12:51Z",
+    "stars": 20,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "All-in-one QoL toolkit: map, minimap, radial build, pinyin search, hotkey, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, and Random. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、拼音搜索、快捷键、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新和随机化。"
+  },
+  {
     "repo": "sporrus/randommindustry",
     "internalName": "random-mindustry",
     "name": "Random Mindustry",
@@ -1216,20 +1230,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod for rendering black holes."
-  },
-  {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "version": "10.2.0",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-07-16T13:12:51Z",
-    "stars": 19,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "All-in-one QoL toolkit: map, minimap, radial build, pinyin search, hotkey, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, and Random. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、拼音搜索、快捷键、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新和随机化。"
   },
   {
     "repo": "martian238/vanilla-expansion-mod",
@@ -2274,7 +2274,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-18T12:42:54Z",
+    "lastUpdated": "2026-07-18T13:28:54Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3990,20 +3990,6 @@
     "description": "Client-side random text and texture presentation for Mindustry."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.7",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-07-17T11:13:35Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "tomahawkarc/mindustry-v8-engine",
     "internalName": "mod-engine",
     "name": "Mod Engine",
@@ -4058,6 +4044,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "介绍日后再写"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.8",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-07-18T13:48:01Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "leyn-pl/iconpicker",
