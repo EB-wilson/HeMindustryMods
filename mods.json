@@ -524,7 +524,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-07-19T09:27:08Z",
+    "lastUpdated": "2026-07-19T11:02:07Z",
     "stars": 48,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -2288,7 +2288,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-18T18:50:34Z",
+    "lastUpdated": "2026-07-19T11:05:01Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2770,6 +2770,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
+  },
+  {
+    "repo": "fallingdice/mechanical-factions",
+    "internalName": "mechanical-factions",
+    "name": "JunkTech Industry(WIP)",
+    "version": "[cyan]0.6.7",
+    "hidden": false,
+    "author": "FallingDice",
+    "lastUpdated": "2026-06-05T06:33:20Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Unleash the power of salvaged technology!\n JunkTech Industry adds a complete mechanical faction with 10+ new units and specialized turrets.\n Build, recycle, and conquer with the ultimate scrap-metal army."
   },
   {
     "repo": "unquis/fading-revelations-remake",
@@ -3976,6 +3990,20 @@
     "description": "[#ffd28a]NEXUS_OS // MOD ENGINE\n[#aab0b4]Rhino/JS control engine for Mindustry V8.\n\n[#10e5e5]CORE SYSTEMS\n[white]> [#ffd28a]World & Waves  [#aab0b4]simulation, weather and wave control\n[white]> [#ffd28a]Items & Units  [#aab0b4]batch core injection and unit deployment\n[white]> [#ffd28a]Weapons  [#aab0b4]stable unit fire-rate and turret tuning\n[white]> [#ffd28a]Mining  [#aab0b4]multi-ore fleet assignments\n[white]> [#ffd28a]Inspector  [#aab0b4]live deployments and mod-unit filtering\n[white]> [#ffd28a]Builds & Radius  [#aab0b4]factory filling and team-colored overlays\n[white]> [#ffd28a]Hotkeys & Console  [#aab0b4]persistent binds and Rhino shell\n\n[#10e5e5]QUICK ACCESS\n[#aab0b4]HUD tools hide on the full map and stack below compatible third-party panels.\n\n[#69e89b]TIP [#aab0b4]Set Inspector PAGE SIZE to 20-40 on weaker devices.\n[#646b76]JS-only mod. No Java classpath required."
   },
   {
+    "repo": "apszoldat/mindustry-ultra-pixelate",
+    "internalName": "ultra-pixelate",
+    "name": "Ultra Pixelate",
+    "version": "1.1",
+    "hidden": true,
+    "author": "ApsZoldat",
+    "lastUpdated": "2026-07-17T21:14:01Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod allowing to modify pixelate filter scale (when you downloaded a bad iron ore mod and don't want your eyes to bleed)"
+  },
+  {
     "repo": "2936832655luoyu/mindustry.trace-day",
     "internalName": "痕迹日",
     "name": "痕迹日",
@@ -4200,6 +4228,20 @@
     "description": "允许连接器寻路 [2]在传送带和连接器间替换成廉价的光传器件，可节省资源"
   },
   {
+    "repo": "the4codeblocks/togglegate",
+    "internalName": "toggleable-flow-gate",
+    "name": "Toggleable Flow Gate",
+    "version": "1.0",
+    "hidden": false,
+    "author": "[sky]T4[stat]SC [gray][Mass <=> [blue]Energy][][][][]",
+    "lastUpdated": "2025-01-01T15:39:11Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a toggleable overflow/undeflow gate."
+  },
+  {
     "repo": "icexuegao/mindustrytomlparser",
     "internalName": "toml-parser",
     "name": "toml解析",
@@ -4296,6 +4338,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[white]Da[lightgray]rke[gray]ns [white]bright tiles to reduce eye strain"
+  },
+  {
+    "repo": "dong-wo-long/sanabi-ost",
+    "internalName": "sanabi-ost",
+    "name": "SANABI ost",
+    "version": "v1.1.0",
+    "hidden": false,
+    "author": "D&X",
+    "lastUpdated": "2025-07-12T17:26:15Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes music files to tracks from the SANABI game (not a bad game, I advise you to take a closer look at it)"
   },
   {
     "repo": "glino-mes/the-root-of-ruin",
@@ -4856,20 +4912,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "◆ 更好的Mindustry游戏体验 - 全方位功能增强模组\n更好的像素工厂模组，集成多项实用功能，全面提升游戏体验。\n\n◆ 字体设置:\n  - 内置楷体字体替换，中文显示更美观。\n\n◆ 科技树显示:\n  - 显示未解锁科技内容（灰色预览），不会解锁仅预览。\n\n◆ 游戏增强:\n  - 游戏时间: 左下角时间流速控制按钮，支持1x/16x/32x/64x。\n  - 核心资源显示: HUD上方显示核心资源及单位数量。\n  - 极限视野: 突破默认缩放限制，俯瞰全地图。\n\n◆ 更好的模组管理:\n  - 已启用/未启用模组分左右双栏，按Java/JavaScript/JS分类。\n  - 支持搜索、GitHub导入、本地导入，一键切换启用状态。\n\n◆ 拼音搜索支持:\n  - 输入拼音字母匹配中文内容，支持模糊、首字母、多音字匹配。\n\n◆ fcitx5中文输入:\n  - 原生对话框模式，支持Linux fcitx5中文输入法。\n\n◆ 开源信息:\n  - GitHub: github.com/xiguayiqiu/bettermindustryMod\n  - 反馈: GitHub Issues"
-  },
-  {
-    "repo": "apszoldat/mindustry-ultra-pixelate",
-    "internalName": "ultra-pixelate",
-    "name": "Ultra Pixelate",
-    "version": "1.1",
-    "hidden": true,
-    "author": "ApsZoldat",
-    "lastUpdated": "2026-07-17T21:14:01Z",
-    "stars": 2,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod allowing to modify pixelate filter scale (when you downloaded a bad iron ore mod and don't want your eyes to bleed)"
   },
   {
     "repo": "rocket550/zytheron-technology-java-",
@@ -6174,20 +6216,6 @@
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
-    "repo": "hiboy15/industries",
-    "internalName": "better industries",
-    "name": "industries",
-    "version": "beta",
-    "hidden": false,
-    "author": "24lowie",
-    "lastUpdated": "2026-07-19T05:21:02Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "has some amazing industries"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -6200,6 +6228,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "hiboy15/industries",
+    "internalName": "better industries",
+    "name": "industries",
+    "version": "beta",
+    "hidden": false,
+    "author": "24lowie",
+    "lastUpdated": "2026-07-19T10:14:33Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "has some amazing industries"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
