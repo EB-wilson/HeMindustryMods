@@ -14,6 +14,20 @@
     "description": "Beta Release. Campaign Not Included.\n\nCurrently contains stable content and optional vanilla override. \n\nMod is playable as extension for both Serpulo and Erekir. \n\nCampaign still WIP."
   },
   {
+    "repo": "sk7725/betamindy",
+    "internalName": "betamindy",
+    "name": "BetaMindy",
+    "version": "2.0",
+    "hidden": false,
+    "author": "sk7725",
+    "lastUpdated": "2026-06-04T01:57:43Z",
+    "stars": 367,
+    "minGameVersion": "155.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first Java mod, has the same amount of chaotic energy of sk7725/Commandblocks."
+  },
+  {
     "repo": "guiymou/mindustry-extra-utilities-mod",
     "internalName": "extra-utilities",
     "name": "ExtraUtilities",
@@ -132,7 +146,7 @@
     "version": "16.0",
     "hidden": false,
     "author": "Snake",
-    "lastUpdated": "2026-07-19T08:57:38Z",
+    "lastUpdated": "2026-07-19T18:40:43Z",
     "stars": 138,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -661,12 +675,12 @@
     "repo": "xpdustry/claj",
     "internalName": "claj",
     "name": "CLaJ",
-    "version": "2.4.1",
+    "version": "2.4.2",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-07-19T14:40:03Z",
-    "stars": 39,
-    "minGameVersion": "146",
+    "lastUpdated": "2026-07-19T18:37:51Z",
+    "stars": 40,
+    "minGameVersion": "159.5",
     "hasScripts": false,
     "hasJava": true,
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends."
@@ -4872,20 +4886,6 @@
     "description": "[RU]Данный мод добавляет логические блоки в Erekir.\n[ENG]This mod adds logic blocks to Erekir."
   },
   {
-    "repo": "7bebebe7/javascript-mod",
-    "internalName": "jsm",
-    "name": "JS Mod",
-    "version": "1.1.1",
-    "hidden": false,
-    "author": "bebebe",
-    "lastUpdated": "2026-07-16T11:35:08Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "written entirely in JavaScript"
-  },
-  {
     "repo": "xiguayiqiu/bettermindustrymod",
     "internalName": "bettermindustry",
     "name": "更好的像素工厂",
@@ -4912,6 +4912,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is a java edition of my mod that eventually will replace the json one"
+  },
+  {
+    "repo": "7bebebe7/javascript-mod",
+    "internalName": "jsm",
+    "name": "JS Mod",
+    "version": "1.1.1",
+    "hidden": false,
+    "author": "bebebe",
+    "lastUpdated": "2026-07-19T18:49:57Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "written entirely in JavaScript"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
