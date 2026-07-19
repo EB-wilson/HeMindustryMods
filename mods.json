@@ -490,20 +490,6 @@
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
-    "repo": "itskirby69/minedusty",
-    "internalName": "",
-    "name": "MineDusty",
-    "version": "1.2.0",
-    "hidden": false,
-    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-07-16T23:10:57Z",
-    "stars": 48,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
-  },
-  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
@@ -530,6 +516,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
+  },
+  {
+    "repo": "itskirby69/minedusty",
+    "internalName": "",
+    "name": "MineDusty",
+    "version": "1.2.0",
+    "hidden": false,
+    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
+    "lastUpdated": "2026-07-19T01:30:24Z",
+    "stars": 48,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
   },
   {
     "repo": "00sunray00/scheme-size-port",
@@ -840,6 +840,20 @@
     "description": "Some content for people to enjoy :>"
   },
   {
+    "repo": "bsp-2/echo-fleet",
+    "internalName": "echo-fleet",
+    "name": "Echo Fleet",
+    "version": "",
+    "hidden": false,
+    "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
+    "lastUpdated": "2026-06-29T15:32:06Z",
+    "stars": 28,
+    "minGameVersion": "152.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \n[royal]Kaltos[] is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \n[gold]Aetheria[] on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on [royal]Kaltos[] and [gold]Aetheria[]. \n\n[red]This mod is still in early development,[] as of now it only adds a bunch of [accent]sandbox only blocks[] and [accent]environment tiles[]. Several sectors have been made already, more are yet to come. It also has custom music. \n\nOther then that, the mod focuses on [accent]complex factories[] and [accent]refining Crude Oil[]. \n\n[accent]I re-used no content from vanilla, even though this mod seemingly has several things from it. \n\n[red]Currently the mod is way too early into development to have any proper translations. \n\n[]Have fun with whats already added, I guess. :)"
+  },
+  {
     "repo": "routerxdd/erekir-extended",
     "internalName": "erek",
     "name": "Erekir Extended",
@@ -866,20 +880,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
-  },
-  {
-    "repo": "bsp-2/echo-fleet",
-    "internalName": "echo-fleet",
-    "name": "Echo Fleet",
-    "version": "",
-    "hidden": false,
-    "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-06-29T15:32:06Z",
-    "stars": 27,
-    "minGameVersion": "152.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \n[royal]Kaltos[] is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \n[gold]Aetheria[] on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on [royal]Kaltos[] and [gold]Aetheria[]. \n\n[red]This mod is still in early development,[] as of now it only adds a bunch of [accent]sandbox only blocks[] and [accent]environment tiles[]. Several sectors have been made already, more are yet to come. It also has custom music. \n\nOther then that, the mod focuses on [accent]complex factories[] and [accent]refining Crude Oil[]. \n\n[accent]I re-used no content from vanilla, even though this mod seemingly has several things from it. \n\n[red]Currently the mod is way too early into development to have any proper translations. \n\n[]Have fun with whats already added, I guess. :)"
   },
   {
     "repo": "apszoldat/mindustrymappingutilities",
@@ -944,7 +944,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-18T14:49:23Z",
+    "lastUpdated": "2026-07-19T02:22:02Z",
     "stars": 26,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1238,7 +1238,7 @@
     "version": "2.1.1.5",
     "hidden": false,
     "author": "火星人076",
-    "lastUpdated": "2026-07-16T12:50:03Z",
+    "lastUpdated": "2026-07-19T01:13:04Z",
     "stars": 18,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -3458,20 +3458,6 @@
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
   },
   {
-    "repo": "alecthe2nd/tantros",
-    "internalName": "tantros",
-    "name": "Tantros",
-    "version": "1.1.0",
-    "hidden": false,
-    "author": "Alecthe2nd, bob26786",
-    "lastUpdated": "2026-07-14T03:02:39Z",
-    "stars": 4,
-    "minGameVersion": "159.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
-  },
-  {
     "repo": "determination-wind/patchviewer",
     "internalName": "patchviewer",
     "name": "PatchViewer / 补丁查看器",
@@ -3512,6 +3498,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
+  },
+  {
+    "repo": "alecthe2nd/tantros",
+    "internalName": "tantros",
+    "name": "Tantros",
+    "version": "1.1.0",
+    "hidden": false,
+    "author": "Alecthe2nd, bob26786",
+    "lastUpdated": "2026-07-19T00:50:09Z",
+    "stars": 4,
+    "minGameVersion": "159.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
   },
   {
     "repo": "vdgaster/upgraded-blocks",
@@ -4004,20 +4004,6 @@
     "description": "[#ffd28a]NEXUS_OS // MOD ENGINE\n[#aab0b4]Rhino/JS control engine for Mindustry V8.\n\n[#10e5e5]CORE SYSTEMS\n[white]> [#ffd28a]World & Waves  [#aab0b4]simulation, weather and wave control\n[white]> [#ffd28a]Items & Units  [#aab0b4]batch core injection and unit deployment\n[white]> [#ffd28a]Weapons  [#aab0b4]stable unit fire-rate and turret tuning\n[white]> [#ffd28a]Mining  [#aab0b4]multi-ore fleet assignments\n[white]> [#ffd28a]Inspector  [#aab0b4]live deployments and mod-unit filtering\n[white]> [#ffd28a]Builds & Radius  [#aab0b4]factory filling and team-colored overlays\n[white]> [#ffd28a]Hotkeys & Console  [#aab0b4]persistent binds and Rhino shell\n\n[#10e5e5]QUICK ACCESS\n[#aab0b4]HUD tools hide on the full map and stack below compatible third-party panels.\n\n[#69e89b]TIP [#aab0b4]Set Inspector PAGE SIZE to 20-40 on weaker devices.\n[#646b76]JS-only mod. No Java classpath required."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-07-18T05:19:10Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "2936832655luoyu/mindustry.trace-day",
     "internalName": "痕迹日",
     "name": "痕迹日",
@@ -4058,6 +4044,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[accent]Changelog / Novedades v0.7:\n[lightgray]• New sprites and some modifications to old ones (working on the missing sprites).\n• New air-based liquid transport system (V2). \n• New Modular Core and Modular sistem.\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·Nuevo Nucleo Core: Paradigm y sus 6 nuevos módulos, ademas funcionan con cualquier nucleo (Azul aun esta en desarrollo) \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, More Defenses, Expanded Industries, Better Terrain Gen V2, Modularis, simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-07-19T02:04:42Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -4920,7 +4920,7 @@
     "version": "",
     "hidden": false,
     "author": "Trocket",
-    "lastUpdated": "2026-07-18T22:42:04Z",
+    "lastUpdated": "2026-07-18T22:52:32Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -7281,14 +7281,14 @@
   },
   {
     "repo": "lys121005/terraria_for_mindustry",
-    "internalName": "泰拉世纪工厂",
-    "name": "泰拉世纪工厂",
+    "internalName": "terrariaformindustry",
+    "name": "TerrariaforMindustry",
     "version": "0.0.0.0.1",
     "hidden": false,
     "author": "万象终极无尽星空(B站)",
-    "lastUpdated": "2026-07-16T01:35:53Z",
+    "lastUpdated": "2026-07-19T00:56:17Z",
     "stars": 0,
-    "minGameVersion": "159.3",
+    "minGameVersion": "157.1",
     "hasScripts": false,
     "hasJava": true,
     "description": ""
