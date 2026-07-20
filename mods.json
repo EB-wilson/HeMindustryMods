@@ -14,20 +14,6 @@
     "description": "Beta Release. Campaign Not Included.\n\nCurrently contains stable content and optional vanilla override. \n\nMod is playable as extension for both Serpulo and Erekir. \n\nCampaign still WIP."
   },
   {
-    "repo": "sk7725/betamindy",
-    "internalName": "betamindy",
-    "name": "BetaMindy",
-    "version": "2.0",
-    "hidden": false,
-    "author": "sk7725",
-    "lastUpdated": "2026-06-04T01:57:43Z",
-    "stars": 367,
-    "minGameVersion": "155.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first Java mod, has the same amount of chaotic energy of sk7725/Commandblocks."
-  },
-  {
     "repo": "guiymou/mindustry-extra-utilities-mod",
     "internalName": "extra-utilities",
     "name": "ExtraUtilities",
@@ -476,6 +462,20 @@
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-07-20T02:27:44Z",
+    "stars": 49,
+    "minGameVersion": "156.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
+  },
+  {
     "repo": "nullotte/carpe-diem",
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
@@ -488,20 +488,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
-  },
-  {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-07-20T02:27:44Z",
-    "stars": 48,
-    "minGameVersion": "156.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "deercarbonate/azimuth",
@@ -1748,20 +1734,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Java Mindustry mod that adds a new campaign on the planet Xilion. Currently still in pre-alpha"
-  },
-  {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "version": "154.3.a",
-    "hidden": true,
-    "author": "Agzam4",
-    "lastUpdated": "2026-02-22T09:23:33Z",
-    "stars": 11,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
   },
   {
     "repo": "m1cxzfw3q/endfield_industry",
@@ -4108,7 +4080,7 @@
     "version": "0.7",
     "hidden": false,
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-20T20:56:30Z",
+    "lastUpdated": "2026-07-20T21:31:43Z",
     "stars": 3,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -4436,20 +4408,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Serpulo Tweaks"
-  },
-  {
-    "repo": "figseu-technology/greenfortress",
-    "internalName": "green fortress",
-    "name": "Green Fortress",
-    "version": "8.0.0",
-    "hidden": false,
-    "author": "Figseu Technology",
-    "lastUpdated": "2025-09-24T08:07:27Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "世界は新たに創造され、我々は文明を再構築する"
   },
   {
     "repo": "713712/scr",
@@ -5682,20 +5640,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "当前版本:[V1.2.8-a]\n  所有内容均已得到授权\n  mi2的钍反(未启用)\n  内容来自:工业mod，tinport-fancy-resprites mod，矩形mod， Fables mod\n  v1.2.8-a:允许用户自行编译背景图功能紧急回退，无法解决技术性难题\n  github地址：https://github.com/yjysy2004/Texture-reset\n  鸣谢原材质的作者：xelo Neko-copper[铜]- tinport- 裙带菜-Fallen Dragon\n  "
-  },
-  {
-    "repo": "westycj/jarate-mod",
-    "internalName": "jarate mod",
-    "name": "Jarate-Mod",
-    "version": "2.1",
-    "hidden": false,
-    "author": "[red]Westycj[]",
-    "lastUpdated": "2026-04-15T16:12:53Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A light mod with a funny name and a focus on extending Surge-alloy technology, adds a few unique turrets and production buildings with (what I think are) some interesting mechanics.\r\n\r\nMade for Serpulo, the mod has integration for/works well with blocks like the tsunami and wave, so try and find some usecases, turret combos, and whatnot.\r\n\r\nReports on bugs, balancing issues, or simply suggestions are very much welcome."
   },
   {
     "repo": "m1cxzfw3q/ruikeui",
