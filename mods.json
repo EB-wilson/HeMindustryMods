@@ -49,7 +49,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-07-19T15:03:42Z",
-    "stars": 251,
+    "stars": 252,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -490,20 +490,6 @@
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
-    "repo": "itskirby69/minedusty",
-    "internalName": "",
-    "name": "MineDusty",
-    "version": "1.2.0",
-    "hidden": false,
-    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-07-19T01:30:24Z",
-    "stars": 48,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
-  },
-  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
@@ -518,13 +504,27 @@
     "description": "No nowhere has nothing anywhere."
   },
   {
+    "repo": "itskirby69/minedusty",
+    "internalName": "",
+    "name": "MineDusty",
+    "version": "1.2.0",
+    "hidden": false,
+    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
+    "lastUpdated": "2026-07-20T17:12:30Z",
+    "stars": 48,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
+  },
+  {
     "repo": "deercarbonate/azimuth",
     "internalName": "azimut",
     "name": "Azimut",
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-07-20T08:18:04Z",
+    "lastUpdated": "2026-07-20T17:37:46Z",
     "stars": 48,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -832,7 +832,7 @@
     "version": "1.8.7",
     "hidden": false,
     "author": "WMF Industries",
-    "lastUpdated": "2026-07-19T07:28:33Z",
+    "lastUpdated": "2026-07-20T14:56:02Z",
     "stars": 29,
     "minGameVersion": "159.1",
     "hasScripts": false,
@@ -2288,7 +2288,7 @@
     "version": "0.5v",
     "hidden": true,
     "author": "Sharlottes",
-    "lastUpdated": "2026-07-20T11:19:29Z",
+    "lastUpdated": "2026-07-20T16:21:21Z",
     "stars": 8,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -2302,7 +2302,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-20T14:00:45Z",
+    "lastUpdated": "2026-07-20T17:46:41Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2378,20 +2378,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
-  },
-  {
-    "repo": "ovulam5480/ovulamtools",
-    "internalName": "ovulamtools",
-    "name": "OvulamTools",
-    "version": "",
-    "hidden": true,
-    "author": "Ovulam5480",
-    "lastUpdated": "2025-12-22T02:52:47Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "用于显示子弹溅射范围或者单位坠落伤害半径的辅助模组(起码以前是)"
   },
   {
     "repo": "samielxd/mobileconsole",
@@ -2630,6 +2616,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
+  },
+  {
+    "repo": "ovulam5480/ovulamtools",
+    "internalName": "ovulamtools",
+    "name": "OvulamTools",
+    "version": "0.10.0",
+    "hidden": true,
+    "author": "Ovulam5480",
+    "lastUpdated": "2026-07-20T15:57:18Z",
+    "stars": 7,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "用于显示子弹溅射范围或者单位坠落伤害半径的辅助模组(起码以前是)"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -4934,7 +4934,7 @@
     "version": "1.1.1",
     "hidden": false,
     "author": "bebebe",
-    "lastUpdated": "2026-07-20T06:34:23Z",
+    "lastUpdated": "2026-07-20T16:16:25Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -6188,20 +6188,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "lebrops/sporbels-inventions",
-    "internalName": "sporbel's inventions",
-    "name": "SporBel's Inventions",
-    "version": "1.0",
-    "hidden": false,
-    "author": "SporBel (aka. leBropS)",
-    "lastUpdated": "2026-07-20T09:35:01Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
     "repo": "hiboy15/industries",
     "internalName": "better industries",
     "name": "industries",
@@ -6228,6 +6214,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a small set of blocks to make challenge maps more interesting."
+  },
+  {
+    "repo": "lebrops/sporbels-inventions",
+    "internalName": "sporbel's inventions",
+    "name": "SporBel's Inventions",
+    "version": "1.1",
+    "hidden": false,
+    "author": "SporBel (aka. leBropS)",
+    "lastUpdated": "2026-07-20T16:36:24Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -6592,6 +6592,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Aerion mod was actually made before, but got abandoned, so that's just new version"
+  },
+  {
+    "repo": "byzp/line",
+    "internalName": "line",
+    "name": "line",
+    "version": "2.0",
+    "hidden": true,
+    "author": "byzp",
+    "lastUpdated": "2025-07-28T04:50:11Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "联机mod，支持自定义frpc，目前仅支持Android aarch64(项目正在重构，暂时不支持Windows amd64)"
   },
   {
     "repo": "jirocab/matchhostingutilities",
