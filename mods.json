@@ -479,12 +479,12 @@
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
-    "version": "1",
+    "version": "2",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-07-21T03:43:02Z",
+    "lastUpdated": "2026-07-21T20:42:21Z",
     "stars": 49,
-    "minGameVersion": "156.2",
+    "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
     "description": "No nowhere has nothing anywhere."
@@ -581,7 +581,7 @@
     "hidden": false,
     "author": "Sh1penfire",
     "lastUpdated": "2026-05-15T07:21:04Z",
-    "stars": 44,
+    "stars": 45,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -6216,6 +6216,20 @@
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
+    "repo": "marckop/dedefarius",
+    "internalName": "dedefarius",
+    "name": "Dedefarius",
+    "version": "0.3.1",
+    "hidden": false,
+    "author": "Marckop",
+    "lastUpdated": "2026-07-20T19:36:41Z",
+    "stars": 1,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  This mod adds a new storyline campaign for the planet [#4a4358]Dedefarius.[]\n\n  [#ff5555]!The mod may contain many bugs and imperfections as it is in alpha![]\n\n  Alpha 0.3.1 By [#ff8080]Marckop"
+  },
+  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -7306,20 +7320,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "marckop/dedefarius",
-    "internalName": "dedefarius",
-    "name": "Dedefarius",
-    "version": "0.3.1",
-    "hidden": false,
-    "author": "Marckop",
-    "lastUpdated": "2026-07-20T19:36:41Z",
-    "stars": 0,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  This mod adds a new storyline campaign for the planet [#4a4358]Dedefarius.[]\n\n  [#ff5555]!The mod may contain many bugs and imperfections as it is in alpha![]\n\n  Alpha 0.3.1 By [#ff8080]Marckop"
   },
   {
     "repo": "saranekoth/creative-crimes",
