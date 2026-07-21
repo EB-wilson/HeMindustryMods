@@ -832,7 +832,7 @@
     "version": "1.8.7",
     "hidden": false,
     "author": "WMF Industries",
-    "lastUpdated": "2026-07-21T08:21:49Z",
+    "lastUpdated": "2026-07-21T16:39:02Z",
     "stars": 29,
     "minGameVersion": "159.1",
     "hasScripts": false,
@@ -3066,6 +3066,20 @@
     "description": "模仿了学术端cyan字的效果，增加了几乎所有物品的下方灰字补充说明"
   },
   {
+    "repo": "thechronodonut1337/silent-orchestra",
+    "internalName": "silent-orchestra",
+    "name": "Sounds like Argus",
+    "version": "T.01.31",
+    "hidden": true,
+    "author": "Aurora",
+    "lastUpdated": "2026-07-12T04:26:59Z",
+    "stars": 5,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
+  },
+  {
     "repo": "128oteml/mindustryoptifine",
     "internalName": "mindustry-optifine",
     "name": "Mindustry OptiFine",
@@ -3458,34 +3472,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "thechronodonut1337/silent-orchestra",
-    "internalName": "silent-orchestra",
-    "name": "Sounds like Argus",
-    "version": "T.01.31",
-    "hidden": true,
-    "author": "Aurora",
-    "lastUpdated": "2026-07-12T04:26:59Z",
-    "stars": 4,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
-  },
-  {
-    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
-    "internalName": "eec",
-    "name": "Extended Erekir Campaign",
-    "version": "[red]1.0",
-    "hidden": false,
-    "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-07-18T09:19:22Z",
-    "stars": 4,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
-  },
-  {
     "repo": "alecthe2nd/tantros",
     "internalName": "tantros",
     "name": "Tantros",
@@ -3526,6 +3512,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Inline and quick before/after diff viewer for Mindustry datapatches. / Mindustry 数据补丁的数据库与快捷差异查看器。"
+  },
+  {
+    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
+    "internalName": "eec",
+    "name": "Extended Erekir Campaign",
+    "version": "[red]1.0",
+    "hidden": false,
+    "author": "ARKNET, iqtik123",
+    "lastUpdated": "2026-07-21T17:17:06Z",
+    "stars": 4,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
     "repo": "vdgaster/upgraded-blocks",
@@ -6104,6 +6104,20 @@
     "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
   },
   {
+    "repo": "hamsterhat/octopusdefence",
+    "internalName": "mod",
+    "name": "OCTOPUS DEFENCE: The Roleplay Update",
+    "version": "Alpha 0.7.9.3",
+    "hidden": false,
+    "author": "alex",
+    "lastUpdated": "2026-07-13T13:14:51Z",
+    "stars": 1,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Мод добавляет планету Пунь."
+  },
+  {
     "repo": "determination-wind/pinyinsearchsupport",
     "internalName": "pinyin-search-support",
     "name": "PinyinSearchSupport / 拼音搜索支持",
@@ -7264,20 +7278,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small library for json-mods."
-  },
-  {
-    "repo": "hamsterhat/octopusdefence",
-    "internalName": "mod",
-    "name": "OCTOPUS DEFENCE: The Roleplay Update",
-    "version": "Alpha 0.7.9.3",
-    "hidden": false,
-    "author": "alex",
-    "lastUpdated": "2026-07-13T13:14:51Z",
-    "stars": 0,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Мод добавляет планету Пунь."
   },
   {
     "repo": "lys121005/terraria_for_mindustry",
