@@ -546,6 +546,20 @@
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
   },
   {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "internalName": "psammos",
+    "name": "Psammos Mod",
+    "version": "1.5.3",
+    "hidden": false,
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2026-07-16T13:34:23Z",
+    "stars": 46,
+    "minGameVersion": "155.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#f1c40f]Team members:[]\r\n- [#6e7f96] Andromeda-Galaxy29[]\r\n- [#6e7f96] iRatzeyMezeri[]\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2] thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2] tinport[] - various suggestions and maps\r\n- [#5865f2] mrapple_0[] - maps\r\n- [#5865f2] cirrusisakey[] - help with sfx\r\n- [#6e7f96] xhstoyea[] - Chinese translations\r\n\r\n[#9b59b6]Other thanks:[]\r\n- [#5865f2] chozochorizo[] for help with balancing the mod\r\n- [#6e7f96] ThomasThings[] and [#6e7f96] Twcash[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2] nekoarkbruhagain_07111[]\r\n- [#5865f2] allayscrafter[]"
+  },
+  {
     "repo": "azaria-team/azaria",
     "internalName": "hpl",
     "name": "Project HPL",
@@ -684,6 +698,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
+  },
+  {
+    "repo": "coaldeficit/moredefences",
+    "internalName": "md3",
+    "name": "MoreDefences",
+    "version": "3.2.7",
+    "hidden": false,
+    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
+    "lastUpdated": "2026-07-23T13:40:31Z",
+    "stars": 38,
+    "minGameVersion": "159.7",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
   },
   {
     "repo": "retodera/technologium",
@@ -994,6 +1022,20 @@
     "description": "Adding new Assault unit, Support unit, and Industries!\nTHIS MOD IS SERPULO ONLY\n\nTHIS JAVASCRIPT MOD, SO NOT SUPPORT IOSSS\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
   },
   {
+    "repo": "dustdustry/itembridgex",
+    "internalName": "item-bridge-x",
+    "name": "ItemBridgeX",
+    "version": "2.6.1",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-04-26T05:57:32Z",
+    "stars": 23,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
     "repo": "mindustrydesignit/schematic-browser-mod",
     "internalName": "schematic-browser",
     "name": "Schematic Browser",
@@ -1106,13 +1148,27 @@
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "version": "10.3.1",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-07-20T12:19:19Z",
+    "stars": 21,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "All-in-one QoL toolkit: map, minimap, radial build, pinyin search, hotkey, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, and Random. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、拼音搜索、快捷键、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新和随机化。"
+  },
+  {
     "repo": "430230562/vanilla-neoplasm-extend",
     "internalName": "vne",
     "name": "原版瘤液拓展",
     "version": "0.4",
     "hidden": false,
     "author": "pardon",
-    "lastUpdated": "2026-07-14T00:39:12Z",
+    "lastUpdated": "2026-07-23T13:33:49Z",
     "stars": 21,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1160,20 +1216,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
-  },
-  {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "version": "10.3.1",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-07-20T12:19:19Z",
-    "stars": 20,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "All-in-one QoL toolkit: map, minimap, radial build, pinyin search, hotkey, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, and Random. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、拼音搜索、快捷键、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新和随机化。"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -2016,6 +2058,20 @@
     "description": "Arikoth mod, wip."
   },
   {
+    "repo": "7003mars/pic2tri",
+    "internalName": "triangles",
+    "name": "PicToTri",
+    "version": "REPLACEME",
+    "hidden": true,
+    "author": "Mars#7003",
+    "lastUpdated": "2026-01-25T03:04:03Z",
+    "stars": 9,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
+  },
+  {
     "repo": "sputnuc/deepsea",
     "internalName": "deepsea",
     "name": "Project: Deep Sea (Alpha)",
@@ -2260,7 +2316,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-23T10:11:48Z",
+    "lastUpdated": "2026-07-23T13:33:12Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3078,6 +3134,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Canvas with colors and big brush!"
+  },
+  {
+    "repo": "stabu-dev/schemeinspect",
+    "internalName": "scheminspect",
+    "name": "Schem Inspect",
+    "version": "0",
+    "hidden": true,
+    "author": "Goobrr, _StaBU_",
+    "lastUpdated": "2024-07-13T12:10:06Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Fork of the deleted Goober's modification with little upgrades and bug fixes."
   },
   {
     "repo": "unionofsovietsocialistrepublics/babiesunit",
@@ -4038,7 +4108,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-23T09:40:40Z",
+    "lastUpdated": "2026-07-23T13:54:56Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4114,6 +4184,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds a 1 map with a lot world processors what you can use in your mods/maps.\n\nSuggest me your wproc ideas what you want to see here. But remember, all wprocs used in this map, could be copyed by anyone."
+  },
+  {
+    "repo": "agzam4/mindustry-new-game-mode",
+    "internalName": "newgamemod",
+    "name": "New game Mod",
+    "version": "2.0.0",
+    "hidden": false,
+    "author": "Agzam4",
+    "lastUpdated": "2024-10-04T13:04:28Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "NG mod"
+  },
+  {
+    "repo": "lossasikos/envedges",
+    "internalName": "env-edges",
+    "name": "Environment's Edges",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "LosSasikos",
+    "lastUpdated": "2024-11-10T16:46:52Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds edges to some environment blocks: Grass, Moss, Spore Moss, Sand, Dark Sand, Salt, Snow and Ice."
   },
   {
     "repo": "adamlolgaming/erekir-junctions",
@@ -4310,6 +4408,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Make pretty screenshot for your logic."
+  },
+  {
+    "repo": "darkjune0122/javelinunit",
+    "internalName": "javelin-unit-mod",
+    "name": "Javelin Unit Mod",
+    "version": "1.0",
+    "hidden": false,
+    "author": "DarkJune",
+    "lastUpdated": "2025-08-17T05:29:03Z",
+    "stars": 2,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry mod, that adds javelin unit to your game"
   },
   {
     "repo": "jirocab/yetanotherserpulorebalance",
@@ -4576,6 +4688,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Изменяет ohno на \"бля\"."
+  },
+  {
+    "repo": "wynej/map-collection",
+    "internalName": "map-collection",
+    "name": "Map Collection",
+    "version": "b0.1",
+    "hidden": true,
+    "author": "Wine",
+    "lastUpdated": "2026-07-01T12:33:46Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Simple json mod containing many high quality mindustry maps. Currently in beta. All maps use natural terrain styles and are fully vanilla compatible.\n\n[stat]Thanks to all the map creators who let me include their maps here!"
   },
   {
     "repo": "vkazee/force-landscape",
@@ -5362,6 +5488,34 @@
     "description": "Hardcore permadeath mod for Mindustry."
   },
   {
+    "repo": "zetamap/no-steam-uuid",
+    "internalName": "no-steam-uuid",
+    "name": "No Steam UU​ID",
+    "version": "1.2.1",
+    "hidden": true,
+    "author": "ZetaMap",
+    "lastUpdated": "2026-01-07T17:22:49Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that prevents the steam version from creating another uu​id, when importing your save from another version.\n\nNote: This mod does nothing if your client is not the steam version."
+  },
+  {
+    "repo": "vsdragon1239/mindustry-starlinelab-mod",
+    "internalName": "starline-lab",
+    "name": "Starline - Lab",
+    "version": "0.2.3",
+    "hidden": false,
+    "author": "VSDragon1239",
+    "lastUpdated": "2026-01-09T18:13:28Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Новая планета Ноктис: ночной пепел, два базовых рудных ресурса и стартовая ветка развития. '\n' Интересно, полный перевод мода new-horizon будет?"
+  },
+  {
     "repo": "krita-burstflakes/mindustry-strike",
     "internalName": "ms",
     "name": "Mindustry Strike",
@@ -5388,6 +5542,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "uhh  wip, now the game looks like had MF's english accent"
+  },
+  {
+    "repo": "urbokie/tankdustry",
+    "internalName": "tankdustry",
+    "name": "TankDustry",
+    "version": "1",
+    "hidden": false,
+    "author": "Urbokie",
+    "lastUpdated": "2026-02-15T10:33:58Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Real tank in Mindustry???"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/unfog",
+    "internalName": "unfog",
+    "name": "Unfog",
+    "version": "0.2",
+    "hidden": "true",
+    "author": "Water molecules",
+    "lastUpdated": "2026-02-23T13:46:11Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Unfog your fog of war, might be a little bit unfair.\nYes, This works on multiplayer."
   },
   {
     "repo": "frilofril/omega",
@@ -5598,6 +5780,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A resource library mod for my mod, simple-additions, and many others too, possibly."
+  },
+  {
+    "repo": "lehanchic25/rgbiancoes",
+    "internalName": "rgbiancoes",
+    "name": "Regular Game, but I add new content on each sector",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Lehanchic25",
+    "lastUpdated": "2026-05-18T16:42:20Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry mod that adds new content each sector I visit \n \n Version 0.1 (Each time I add a new content to the game i add + 0.1 to the Version [0.01 if it is the hot fix])"
+  },
+  {
+    "repo": "u7019134065-png/buildings-plus",
+    "internalName": "buildings plus",
+    "name": "Buildings+",
+    "version": "8.6",
+    "hidden": false,
+    "author": "ЕЕее1406",
+    "lastUpdated": "2026-05-21T16:47:57Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nМод добавляет множество нового контента\nмножество буров по типу Гранитного\nновые турели!\nв игре есть баги сообщите о них мне в ЛС ТГК\n\n Приватное сообщение  @MrHumanU\nTelegram TGH → t.me/LogicDustryJS \nYoutube YTC → youtube.com/@LogicDustryJS\n15/11/25 22:29 → Обновление 1.9\n\n\n[Orange]Полностью совместим с Mindustry v146-153. "
   },
   {
     "repo": "zenthxsin/unitlaunchpad",
@@ -5978,20 +6188,6 @@
     "description": "Adds a small set of blocks to make challenge maps more interesting."
   },
   {
-    "repo": "lebrops/sporbels-inventions",
-    "internalName": "sporbel's inventions",
-    "name": "SporBel's Inventions",
-    "version": "1.1",
-    "hidden": false,
-    "author": "SporBel (aka. leBropS)",
-    "lastUpdated": "2026-07-20T16:36:24Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
     "repo": "marckop/dedefarius",
     "internalName": "dedefarius",
     "name": "Dedefarius",
@@ -6074,6 +6270,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "该模组仍在开发中,可能有大量致命bug,请小心在战役中使用.\n项目规划:\n在原版的基础上拓展和延伸,并计划添加许多工厂、物品、单位、以及全新的战役与机制!\n\n=====\n更新日志：\n\nbeta-v0.6-f13752\n1.修复大量已知bug\n2.添加大量建筑\n3.为大量建筑绘制贴图并计划后续重制部分贴图\n|\n\n_beta-0.5.1：\n1.添加一些建筑\n2.更新大量贴图\n3.修复大量已知bug\n|\n\n_beta-0.5.1：\n1.本次更新了6种核心以及对应的核心机(贴图未制作)\n2.新增一些工厂以及为部分建筑绘制贴图\n|\n\n_beta-0.4.8：\n修复大量BUG(也不知道修上了没)\n|\n\n_beta-0.4：\n1.修复科技树关联错误的bug\n2.修复了研究钛合金冶炼炉需要先研究电磁线圈塑型机，但研究电磁线圈塑型机需要先研究钛合金的bug，因为这意味着你无法得到钛合金，但是没有钛合金就无法研究电磁线圈塑型机，没有电磁线圈塑型机就无法研究钛合金冶炼炉\n3.为大量物品和建筑添加大量贴图，在此感谢冰晶为本模组绘制的钛合金冶炼炉。部分物品配色由ai提供建议\n|\n\n_beta-0.3：\n1.完善科技树\n2.添加少许工厂\n|\n\n_beta-0.2：\n添加大量物品与大量工厂建筑\n|\n\n_beta-0.1：\n项目正式成立，添加了mod.json以及2种物品"
+  },
+  {
+    "repo": "solitaryblade/coming-to-industry",
+    "internalName": "将至",
+    "name": "Coming to Industry",
+    "version": "5.5",
+    "hidden": false,
+    "author": "SolitaryBlade/[blue]金[red]光[orange]闪[purple]闪",
+    "lastUpdated": "2026-07-22T08:57:20Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "将至-即未来\n[orange][Coming to Industry][white]\n建议群聊:602687492\nGithub链接:https://github.com/SolitaryBlade/Coming-to-Industry/releases"
+  },
+  {
+    "repo": "lebrops/sporbels-inventions",
+    "internalName": "sporbel's inventions",
+    "name": "SporBel's Inventions",
+    "version": "1.1.1",
+    "hidden": false,
+    "author": "SporBel (aka. leBropS)",
+    "lastUpdated": "2026-07-23T12:32:46Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -6256,6 +6480,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Implements a new transportation block that fixes an injustice."
+  },
+  {
+    "repo": "wdfeer/energyze",
+    "internalName": "energyze",
+    "name": "Energyze",
+    "version": "0.5.4",
+    "hidden": false,
+    "author": "wdfeer",
+    "lastUpdated": "2024-11-14T07:18:38Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry Kotlin mod adding energized materials. Android compatibility WIP."
   },
   {
     "repo": "cannon-kid/content-galore-mindustry",
