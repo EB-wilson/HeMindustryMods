@@ -14,20 +14,6 @@
     "description": "Beta Release. Campaign Not Included.\n\nCurrently contains stable content and optional vanilla override. \n\nMod is playable as extension for both Serpulo and Erekir. \n\nCampaign still WIP."
   },
   {
-    "repo": "sk7725/betamindy",
-    "internalName": "betamindy",
-    "name": "BetaMindy",
-    "version": "2.0",
-    "hidden": false,
-    "author": "sk7725",
-    "lastUpdated": "2026-06-04T01:57:43Z",
-    "stars": 368,
-    "minGameVersion": "155.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first Java mod, has the same amount of chaotic energy of sk7725/Commandblocks."
-  },
-  {
     "repo": "guiymou/mindustry-extra-utilities-mod",
     "internalName": "extra-utilities",
     "name": "ExtraUtilities",
@@ -230,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-07-23T20:43:54Z",
+    "lastUpdated": "2026-07-23T21:24:36Z",
     "stars": 113,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -2316,7 +2302,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-23T20:47:03Z",
+    "lastUpdated": "2026-07-23T22:19:31Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4074,20 +4060,6 @@
     "description": "多配方工厂"
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "version": "0.7",
-    "hidden": false,
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-21T22:12:21Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[accent]Changelog / Novedades v0.7:\n[lightgray]• New sprites and some modifications to old ones (working on the missing sprites).\n• New air-based liquid transport system (V2). \n• New Modular Core and Modular sistem.\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·Nuevo Nucleo Core: Paradigm y sus 6 nuevos módulos, ademas funcionan con cualquier nucleo (Azul aun esta en desarrollo) \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, More Defenses, Expanded Industries, Better Terrain Gen V2, Modularis, simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
-  },
-  {
     "repo": "ramazanduruev/darklife.",
     "internalName": "mo",
     "name": "DarkLife",
@@ -4114,6 +4086,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "version": "0.7",
+    "hidden": false,
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-07-23T22:49:04Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[accent]Changelog / Novedades v0.7:\n[lightgray]• New sprites and some modifications to old ones (working on the missing sprites).\n• New air-based liquid transport system (V2). \n• New Modular Core and Modular sistem.\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·Nuevo Nucleo Core: Paradigm y sus 6 nuevos módulos, ademas funcionan con cualquier nucleo (Azul aun esta en desarrollo) \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, More Defenses, Expanded Industries, Better Terrain Gen V2, Modularis, simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
     "repo": "leyn-pl/iconpicker",
