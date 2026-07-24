@@ -706,7 +706,7 @@
     "version": "3.2.7",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-07-24T16:06:03Z",
+    "lastUpdated": "2026-07-24T20:03:40Z",
     "stars": 38,
     "minGameVersion": "159.7",
     "hasScripts": true,
@@ -3122,6 +3122,20 @@
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
   },
   {
+    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
+    "internalName": "eec",
+    "name": "Extended Erekir Campaign",
+    "version": "[red]1.0",
+    "hidden": false,
+    "author": "ARKNET, iqtik123",
+    "lastUpdated": "2026-07-21T17:17:06Z",
+    "stars": 5,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
+  },
+  {
     "repo": "koctz34/canvases",
     "internalName": "canvases-2",
     "name": "Canvases V2",
@@ -3512,20 +3526,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Inline and quick before/after diff viewer for Mindustry datapatches. / Mindustry 数据补丁的数据库与快捷差异查看器。"
-  },
-  {
-    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
-    "internalName": "eec",
-    "name": "Extended Erekir Campaign",
-    "version": "[red]1.0",
-    "hidden": false,
-    "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-07-21T17:17:06Z",
-    "stars": 4,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
     "repo": "mr816543/endless_compression",
@@ -3990,20 +3990,6 @@
     "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
-    "repo": "determination-wind/random",
-    "internalName": "random",
-    "name": "Random",
-    "version": "1.1.0",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-07-17T08:28:18Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Client-side random text and texture presentation for Mindustry."
-  },
-  {
     "repo": "tomahawkarc/mindustry-v8-engine",
     "internalName": "mod-engine",
     "name": "Mod Engine",
@@ -4108,7 +4094,7 @@
     "version": "0.8",
     "hidden": false,
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-24T19:24:28Z",
+    "lastUpdated": "2026-07-24T19:48:33Z",
     "stars": 3,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -4948,7 +4934,7 @@
     "version": "v2.0",
     "hidden": false,
     "author": "Munline",
-    "lastUpdated": "2026-07-24T18:42:04Z",
+    "lastUpdated": "2026-07-24T20:04:27Z",
     "stars": 2,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -6270,20 +6256,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Logic editor enhancements: jump line coloring, box select, and more."
-  },
-  {
-    "repo": "zetamap/no-steam-uuid",
-    "internalName": "no-steam-uuid",
-    "name": "No Steam UU​ID",
-    "version": "1.2.1",
-    "hidden": true,
-    "author": "ZetaMap",
-    "lastUpdated": "2026-07-24T16:07:50Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that prevents the steam version from creating another uu​id, when importing your save from another version.\n\nNote: This mod does nothing if your client is not the steam version."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
