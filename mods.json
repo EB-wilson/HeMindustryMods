@@ -230,7 +230,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-07-24T12:19:52Z",
+    "lastUpdated": "2026-07-24T22:51:12Z",
     "stars": 113,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -2520,20 +2520,6 @@
     "description": "Первый мой мод в котором вы с помощю межпланетного ускорителя попадаете на планету Селестис.Вы должным отомстить красным и захватить их планету.Вас будут ждать новые руды,враги,механики и ЛОООООР.Сложность мода высокая так что запасайтесь нервами"
   },
   {
-    "repo": "silinveredno/newhorizonmod-schematics",
-    "internalName": "nh-scheme-pack",
-    "name": "New Horizon schematics pack",
-    "version": "0.5.1",
-    "hidden": true,
-    "author": "Silin Veredno",
-    "lastUpdated": "2026-07-04T19:46:32Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
-  },
-  {
     "repo": "i-drink-gasoline/admin-button-2",
     "internalName": "admin-button-2",
     "name": "Admin Button 2",
@@ -2840,20 +2826,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "redloong9527/logic-chinese-localization",
-    "internalName": "logicchineselocalization",
-    "name": "逻辑汉化补丁v1.3.1",
-    "version": "157.4",
-    "hidden": true,
-    "author": "redloong9527",
-    "lastUpdated": "2026-07-07T14:53:51Z",
-    "stars": 6,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
   },
   {
     "repo": "lu69159/morecustomsettings",
@@ -3990,6 +3962,20 @@
     "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
+    "repo": "determination-wind/random",
+    "internalName": "random",
+    "name": "Random",
+    "version": "1.1.0",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-07-17T08:28:18Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Client-side random text and texture presentation for Mindustry."
+  },
+  {
     "repo": "tomahawkarc/mindustry-v8-engine",
     "internalName": "mod-engine",
     "name": "Mod Engine",
@@ -4046,20 +4032,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "ls-hdu/multi-crafter-lib",
-    "internalName": "multi-crafter-lib",
-    "name": "MultiCrafter 库",
-    "version": "1.0.0",
-    "hidden": false,
-    "author": "LS",
-    "lastUpdated": "2026-07-19T04:15:26Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "多配方工厂"
-  },
-  {
     "repo": "ramazanduruev/darklife.",
     "internalName": "mo",
     "name": "DarkLife",
@@ -4094,7 +4066,7 @@
     "version": "0.8",
     "hidden": false,
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-24T19:48:33Z",
+    "lastUpdated": "2026-07-24T22:15:57Z",
     "stars": 3,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -4422,20 +4394,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Serpulo Tweaks"
-  },
-  {
-    "repo": "figseu-technology/greenfortress",
-    "internalName": "green fortress",
-    "name": "Green Fortress",
-    "version": "8.0.0",
-    "hidden": false,
-    "author": "Figseu Technology",
-    "lastUpdated": "2025-09-24T08:07:27Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "世界は新たに創造され、我々は文明を再構築する"
   },
   {
     "repo": "713712/scr",
@@ -4872,20 +4830,6 @@
     "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
-    "repo": "7bebebe7/javascript-mod",
-    "internalName": "jsm",
-    "name": "JS Mod",
-    "version": "1.1.1",
-    "hidden": false,
-    "author": "bebebe",
-    "lastUpdated": "2026-07-20T20:14:32Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "written entirely in JavaScript"
-  },
-  {
     "repo": "momiji142857/ve-addon-momijiadd",
     "internalName": "ve-addon-momiji",
     "name": "VE Addon: MomijiAdd",
@@ -4940,6 +4884,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Scheme Plus adds a compact breakdown of every item and liquid the schematic consumes or produces per second."
+  },
+  {
+    "repo": "7bebebe7/javascript-mod",
+    "internalName": "jsm",
+    "name": "JS Mod",
+    "version": "1.1.1",
+    "hidden": false,
+    "author": "bebebe",
+    "lastUpdated": "2026-07-24T22:54:36Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "written entirely in JavaScript"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -5754,20 +5712,6 @@
     "description": "Mindustry mod that adds new content each sector I visit \n \n Version 0.1 (Each time I add a new content to the game i add + 0.1 to the Version [0.01 if it is the hot fix])"
   },
   {
-    "repo": "u7019134065-png/buildings-plus",
-    "internalName": "buildings plus",
-    "name": "Buildings+",
-    "version": "8.6",
-    "hidden": false,
-    "author": "ЕЕее1406",
-    "lastUpdated": "2026-05-21T16:47:57Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nМод добавляет множество нового контента\nмножество буров по типу Гранитного\nновые турели!\nв игре есть баги сообщите о них мне в ЛС ТГК\n\n Приватное сообщение  @MrHumanU\nTelegram TGH → t.me/LogicDustryJS \nYoutube YTC → youtube.com/@LogicDustryJS\n15/11/25 22:29 → Обновление 1.9\n\n\n[Orange]Полностью совместим с Mindustry v146-153. "
-  },
-  {
     "repo": "zenthxsin/unitlaunchpad",
     "internalName": "单位发射台",
     "name": "Unit launch pad",
@@ -6090,20 +6034,6 @@
     "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "version": "1.2",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2026-07-18T06:47:04Z",
-    "stars": 1,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "hiboy15/industries",
     "internalName": "better industries",
     "name": "industries",
@@ -6202,20 +6132,6 @@
     "description": "该模组仍在开发中,可能有大量致命bug,请小心在战役中使用.\n项目规划:\n在原版的基础上拓展和延伸,并计划添加许多工厂、物品、单位、以及全新的战役与机制!\n\n=====\n更新日志：\n\nbeta-v0.6-f13752\n1.修复大量已知bug\n2.添加大量建筑\n3.为大量建筑绘制贴图并计划后续重制部分贴图\n|\n\n_beta-0.5.1：\n1.添加一些建筑\n2.更新大量贴图\n3.修复大量已知bug\n|\n\n_beta-0.5.1：\n1.本次更新了6种核心以及对应的核心机(贴图未制作)\n2.新增一些工厂以及为部分建筑绘制贴图\n|\n\n_beta-0.4.8：\n修复大量BUG(也不知道修上了没)\n|\n\n_beta-0.4：\n1.修复科技树关联错误的bug\n2.修复了研究钛合金冶炼炉需要先研究电磁线圈塑型机，但研究电磁线圈塑型机需要先研究钛合金的bug，因为这意味着你无法得到钛合金，但是没有钛合金就无法研究电磁线圈塑型机，没有电磁线圈塑型机就无法研究钛合金冶炼炉\n3.为大量物品和建筑添加大量贴图，在此感谢冰晶为本模组绘制的钛合金冶炼炉。部分物品配色由ai提供建议\n|\n\n_beta-0.3：\n1.完善科技树\n2.添加少许工厂\n|\n\n_beta-0.2：\n添加大量物品与大量工厂建筑\n|\n\n_beta-0.1：\n项目正式成立，添加了mod.json以及2种物品"
   },
   {
-    "repo": "solitaryblade/coming-to-industry",
-    "internalName": "将至",
-    "name": "Coming to Industry",
-    "version": "5.5",
-    "hidden": false,
-    "author": "SolitaryBlade/[blue]金[red]光[orange]闪[purple]闪",
-    "lastUpdated": "2026-07-22T08:57:20Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "将至-即未来\n[orange][Coming to Industry][white]\n建议群聊:602687492\nGithub链接:https://github.com/SolitaryBlade/Coming-to-Industry/releases"
-  },
-  {
     "repo": "lebrops/sporbels-inventions",
     "internalName": "sporbel's inventions",
     "name": "SporBel's Inventions",
@@ -6256,6 +6172,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Logic editor enhancements: jump line coloring, box select, and more."
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "version": "1.2",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2026-07-24T22:12:14Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -7294,6 +7224,20 @@
     "description": ""
   },
   {
+    "repo": "solitaryblade/coming-to-industry",
+    "internalName": "将至",
+    "name": "Coming to Industry",
+    "version": "5.5",
+    "hidden": false,
+    "author": "SolitaryBlade/[blue]金[red]光[orange]闪[purple]闪",
+    "lastUpdated": "2026-07-22T08:57:20Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "将至-即未来\n[orange][Coming to Industry][white]\n建议群聊:602687492\nGithub链接:https://github.com/SolitaryBlade/Coming-to-Industry/releases"
+  },
+  {
     "repo": "zaxerf1234/scheme-size-port-charo",
     "internalName": "scheme-size",
     "name": "Scheme Size Port (Charo)",
@@ -7334,5 +7278,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Take Sandbox with you wherever you go. Place Infinite Item Sources, Liquid Sources, and Power Sources on any map or game mode—no Sandbox mode required. Perfect for testing, creative builds, or completely abandoning the idea of resource management.\n\nWhat could possibly go wrong?\nNo..? Okay this is legal then :)\n\n⚠ Warning: using this mod may cause you to lose the intended game experience due to having access to unlimited resources."
+  },
+  {
+    "repo": "fadyelkbeer/sirenalarmspeaker",
+    "internalName": "siren-alarm-speaker",
+    "name": "Siren Alarm Speaker",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Falafel",
+    "lastUpdated": "2026-07-24T21:30:41Z",
+    "stars": 0,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a 1x1 Siren Alarm Speaker block. It stays silent and dark until a logic processor enables it, then blares a siren and pulses a red light. Each speaker's volume, siren sound, and local/global range are configurable via a dialog opened from the block's pencil icon."
   }
 ]
