@@ -133,7 +133,7 @@
     "hidden": false,
     "author": "RAdea.exe",
     "lastUpdated": "2026-07-12T02:16:30Z",
-    "stars": 143,
+    "stars": 144,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -146,7 +146,7 @@
     "version": "16.0",
     "hidden": false,
     "author": "Snake",
-    "lastUpdated": "2026-07-22T15:25:27Z",
+    "lastUpdated": "2026-07-24T09:35:57Z",
     "stars": 139,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -384,7 +384,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-07-24T00:04:37Z",
+    "lastUpdated": "2026-07-24T07:38:23Z",
     "stars": 62,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2148,7 +2148,7 @@
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-07-23T06:04:38Z",
+    "lastUpdated": "2026-07-24T06:25:45Z",
     "stars": 9,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -4091,15 +4091,15 @@
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
-    "version": "0.7",
+    "version": "0.8",
     "hidden": false,
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-24T06:19:13Z",
+    "lastUpdated": "2026-07-24T06:26:38Z",
     "stars": 3,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
-    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[accent]Changelog / Novedades v0.7:\n[lightgray]• New sprites and some modifications to old ones (working on the missing sprites).\n• New air-based liquid transport system (V2). \n• New Modular Core and Modular sistem.\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·Nuevo Nucleo Core: Paradigm y sus 6 nuevos módulos, ademas funcionan con cualquier nucleo (Azul aun esta en desarrollo) \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, More Defenses, Expanded Industries, Better Terrain Gen V2, Modularis, simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[accent]Changelog / Novedades v0.8:\n[lightgray]• New sprites (working on the missing sprites).\n• New palladium conduit family and liquid overflow/underflow gate for pulse conduit and palladium family. \n•You can now use any technology from any planet (and mods) in Volta (Volta shares the same resources as Serpulo, plus Volta's own resources). \n• New Modular Core and Modular sistem.\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·Nuevo Nucleo Core: Paradigm y sus 6 nuevos módulos, ademas funcionan con cualquier nucleo (Azul aun esta en desarrollo) \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]· Familia completa de tuberia de paladio (router, junction, bridge and liquid container) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, More Defenses, Expanded Industries, Better Terrain Gen V2, Modularis, simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
     "repo": "penguip/a-mindustry-mod",
@@ -4108,7 +4108,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-24T06:20:07Z",
+    "lastUpdated": "2026-07-24T10:16:38Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4842,20 +4842,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sync Mindustry schematics with GitHub, with auto push, pull/merge, and local-only filtering."
-  },
-  {
-    "repo": "zaxerf1234/mindustry-id-manager",
-    "internalName": "id-manager",
-    "name": "USID manager",
-    "version": "2.0.0",
-    "hidden": true,
-    "author": "Zaxerf1234",
-    "lastUpdated": "2026-07-13T12:50:44Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that allows server plugin developers to manage USIDs. After installation, a new button will appear in settings.\n\n This mod should not be used to bypass any kind of server restriction!"
   },
   {
     "repo": "xenonixq/erekirlogic",
@@ -6286,20 +6272,6 @@
     "description": "Aims to completely redesign almost all of Mindustry's block textures, primarily on Serpulo."
   },
   {
-    "repo": "nosbhghggg/jump-line-color",
-    "internalName": "logic-assist",
-    "name": "Logic Assist",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "VT4JIGMQG",
-    "lastUpdated": "2026-07-24T05:25:51Z",
-    "stars": 1,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Logic editor enhancements: jump line coloring, box select, and more."
-  },
-  {
     "repo": "lorendoscsharp/tzarbimbajava",
     "internalName": "tzarbimbajava",
     "name": "tzarbimbajava",
@@ -7350,6 +7322,20 @@
     "description": "Take Sandbox with you wherever you go. Place Infinite Item Sources, Liquid Sources, and Power Sources on any map or game mode—no Sandbox mode required. Perfect for testing, creative builds, or completely abandoning the idea of resource management.\n\nWhat could possibly go wrong?\nNo..? Okay this is legal then :)\n\n⚠ Warning: using this mod may cause you to lose the intended game experience due to having access to unlimited resources."
   },
   {
+    "repo": "zaxerf1234/scheme-size-port-charo",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port (Charo)",
+    "version": "2.1.4",
+    "hidden": true,
+    "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22\nCharo support: Zaxerf1234",
+    "lastUpdated": "2026-07-23T19:47:35Z",
+    "stars": 0,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\n\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nThis mod is not the original unofficial port of Scheme Size — it is a fork. The developers of the original port and mod are not involved in this in any way.\n\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
+  },
+  {
     "repo": "mnchetra/mapgenerator",
     "internalName": "mapgenerator",
     "name": "MapGenerator",
@@ -7362,5 +7348,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
+  },
+  {
+    "repo": "nosbhghggg/jump-line-color",
+    "internalName": "logic-assist",
+    "name": "Logic Assist",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "VT4JIGMQG",
+    "lastUpdated": "2026-07-24T05:25:51Z",
+    "stars": 0,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Logic editor enhancements: jump line coloring, box select, and more."
   }
 ]
