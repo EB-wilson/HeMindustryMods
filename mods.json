@@ -706,7 +706,7 @@
     "version": "3.2.7",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-07-25T15:43:45Z",
+    "lastUpdated": "2026-07-25T18:58:59Z",
     "stars": 38,
     "minGameVersion": "159.7",
     "hasScripts": true,
@@ -1022,6 +1022,20 @@
     "description": "Provide an in-game GUI for DataPatcher."
   },
   {
+    "repo": "mindustrydesignit/schematic-browser-mod",
+    "internalName": "schematic-browser",
+    "name": "Schematic Browser",
+    "version": "1.2",
+    "hidden": true,
+    "author": "SByte, Eeve-lyn, zxtej",
+    "lastUpdated": "2025-12-18T12:25:30Z",
+    "stars": 23,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod for browsing schematic repositories."
+  },
+  {
     "repo": "dustdustry/itembridgex",
     "internalName": "item-bridge-x",
     "name": "ItemBridgeX",
@@ -1034,20 +1048,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This a mod that can show the hidden item of the item bridge."
-  },
-  {
-    "repo": "mindustrydesignit/schematic-browser-mod",
-    "internalName": "schematic-browser",
-    "name": "Schematic Browser",
-    "version": "1.2",
-    "hidden": true,
-    "author": "SByte, Eeve-lyn, zxtej",
-    "lastUpdated": "2025-12-18T12:25:30Z",
-    "stars": 22,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod for browsing schematic repositories."
   },
   {
     "repo": "sunkenmelody/rospule",
@@ -4102,6 +4102,20 @@
     "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
+    "repo": "muniine/scheme_plus",
+    "internalName": "scheme_plus",
+    "name": "Scheme+",
+    "version": "v2.0",
+    "hidden": false,
+    "author": "Munline",
+    "lastUpdated": "2026-07-24T20:04:27Z",
+    "stars": 3,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Scheme Plus adds a compact breakdown of every item and liquid the schematic consumes or produces per second."
+  },
+  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -4956,27 +4970,13 @@
     "description": "Logic editor enhancements: jump line coloring, box select, and more."
   },
   {
-    "repo": "muniine/scheme_plus",
-    "internalName": "scheme_plus",
-    "name": "Scheme+",
-    "version": "v2.0",
-    "hidden": false,
-    "author": "Munline",
-    "lastUpdated": "2026-07-24T20:04:27Z",
-    "stars": 2,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Scheme Plus adds a compact breakdown of every item and liquid the schematic consumes or produces per second."
-  },
-  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
     "version": "1.1.1",
     "hidden": false,
     "author": "bebebe",
-    "lastUpdated": "2026-07-25T16:27:53Z",
+    "lastUpdated": "2026-07-25T17:29:51Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -6272,6 +6272,20 @@
     "description": "A java remake of my json unfinished mod."
   },
   {
+    "repo": "saranekoth/creative-crimes",
+    "internalName": "creative-crimes",
+    "name": "Creative Crimes",
+    "version": "2.0",
+    "hidden": false,
+    "author": "SaraNekoTH",
+    "lastUpdated": "2026-07-25T09:47:15Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Take Sandbox with you wherever you go. Place Infinite Item Sources, Liquid Sources, and Power Sources on any map or game mode—no Sandbox mode required. Perfect for testing, creative builds, or completely abandoning the idea of resource management.\n\nWhat could possibly go wrong?\nNo..? Okay this is legal then :)\n\n⚠ Warning: using this mod may cause you to lose the intended game experience due to having access to unlimited resources."
+  },
+  {
     "repo": "lebrops/sporbels-inventions",
     "internalName": "sporbel's inventions",
     "name": "SporBel's Inventions",
@@ -6284,6 +6298,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
+  },
+  {
+    "repo": "saranekoth/naval-arsenal",
+    "internalName": "naval-arsenal",
+    "name": "Naval Arsenal",
+    "version": "0.4.0",
+    "hidden": false,
+    "author": "SaraNekoTH",
+    "lastUpdated": "2026-07-25T13:47:33Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Real-world inspired heavy weaponry: a Phalanx CIWS-style rotary anti-air gatling turret and a 20mm autocannon. Available on both Serpulo and Erekir. v0.4.0"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -7362,33 +7390,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a 1x1 Siren Alarm Speaker block. It stays silent and dark until a logic processor enables it, then blares a siren and pulses a red light. Each speaker's volume, siren sound, and local/global range are configurable via a dialog opened from the block's pencil icon."
-  },
-  {
-    "repo": "saranekoth/creative-crimes",
-    "internalName": "creative-crimes",
-    "name": "Creative Crimes",
-    "version": "2.0",
-    "hidden": false,
-    "author": "SaraNekoTH",
-    "lastUpdated": "2026-07-25T09:47:15Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Take Sandbox with you wherever you go. Place Infinite Item Sources, Liquid Sources, and Power Sources on any map or game mode—no Sandbox mode required. Perfect for testing, creative builds, or completely abandoning the idea of resource management.\n\nWhat could possibly go wrong?\nNo..? Okay this is legal then :)\n\n⚠ Warning: using this mod may cause you to lose the intended game experience due to having access to unlimited resources."
-  },
-  {
-    "repo": "saranekoth/naval-arsenal",
-    "internalName": "naval-arsenal",
-    "name": "Naval Arsenal",
-    "version": "0.4.0",
-    "hidden": false,
-    "author": "SaraNekoTH",
-    "lastUpdated": "2026-07-25T13:47:33Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Real-world inspired heavy weaponry: a Phalanx CIWS-style rotary anti-air gatling turret and a 20mm autocannon. Available on both Serpulo and Erekir. v0.4.0"
   }
 ]
