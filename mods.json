@@ -175,7 +175,7 @@
     "hidden": false,
     "author": "Eschatologue",
     "lastUpdated": "2026-07-15T08:37:53Z",
-    "stars": 135,
+    "stars": 136,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -230,7 +230,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-07-24T22:51:12Z",
+    "lastUpdated": "2026-07-25T11:48:59Z",
     "stars": 113,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -521,12 +521,12 @@
     "repo": "nullotte/carpe-diem",
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
-    "version": "(Beta) Build 11",
+    "version": "(Beta) Build 13",
     "hidden": false,
     "author": "Nullotte",
-    "lastUpdated": "2026-07-25T11:06:20Z",
+    "lastUpdated": "2026-07-25T12:25:11Z",
     "stars": 48,
-    "minGameVersion": "158",
+    "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
@@ -1238,7 +1238,7 @@
     "version": "2.1.1.6",
     "hidden": false,
     "author": "火星人076",
-    "lastUpdated": "2026-07-24T12:52:53Z",
+    "lastUpdated": "2026-07-25T12:30:37Z",
     "stars": 18,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1666,20 +1666,6 @@
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
   },
   {
-    "repo": "namakayo/kratha",
-    "internalName": "kratha",
-    "name": "KRATHA",
-    "version": "0.21",
-    "hidden": false,
-    "author": "namaka",
-    "lastUpdated": "2026-07-23T07:59:40Z",
-    "stars": 12,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[accent]A Mod that adds a new campaign about Terraplasm.\n\n[white]The Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n[accent]There is currently just 1 playable, polished sector.\n[white]Campaign got a complete rework! If you've played on 0.1 or lower, please restart!\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.21"
-  },
-  {
     "repo": "wantechfan/mindustry-cursed-bundles",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
@@ -1692,6 +1678,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
+  },
+  {
+    "repo": "namakayo/kratha",
+    "internalName": "kratha",
+    "name": "KRATHA",
+    "version": "0.21",
+    "hidden": false,
+    "author": "namaka",
+    "lastUpdated": "2026-07-25T13:04:22Z",
+    "stars": 12,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[accent]A Mod that adds a new campaign about Terraplasm.\n\n[white]The Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n[accent]There is currently just 1 playable, polished sector.\n[white]Campaign got a complete rework! If you've played on 0.1 or lower, please restart!\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.21"
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -2313,15 +2313,15 @@
     "repo": "momiji142857/ve-addon-schematics",
     "internalName": "ve-addon-schematics",
     "name": "VE Addon: Schematics",
-    "version": "v4.1.2",
+    "version": "v4.1.3",
     "hidden": true,
     "author": "VE模组作者: 火星人076\n本模组作者: [sky]Momiji142857[white]\n其他贡献者请见 GitHub 仓库",
-    "lastUpdated": "2026-07-25T11:01:10Z",
+    "lastUpdated": "2026-07-25T11:18:02Z",
     "stars": 8,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-07-15[white]"
+    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-07-25[white]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -4122,7 +4122,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-25T11:02:52Z",
+    "lastUpdated": "2026-07-25T11:16:43Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6230,20 +6230,6 @@
     "description": "该模组仍在开发中,可能有大量致命bug,请小心在战役中使用.\n项目规划:\n在原版的基础上拓展和延伸,并计划添加许多工厂、物品、单位、以及全新的战役与机制!\n\n=====\n更新日志：\n\nbeta-v0.6-f13752\n1.修复大量已知bug\n2.添加大量建筑\n3.为大量建筑绘制贴图并计划后续重制部分贴图\n|\n\n_beta-0.5.1：\n1.添加一些建筑\n2.更新大量贴图\n3.修复大量已知bug\n|\n\n_beta-0.5.1：\n1.本次更新了6种核心以及对应的核心机(贴图未制作)\n2.新增一些工厂以及为部分建筑绘制贴图\n|\n\n_beta-0.4.8：\n修复大量BUG(也不知道修上了没)\n|\n\n_beta-0.4：\n1.修复科技树关联错误的bug\n2.修复了研究钛合金冶炼炉需要先研究电磁线圈塑型机，但研究电磁线圈塑型机需要先研究钛合金的bug，因为这意味着你无法得到钛合金，但是没有钛合金就无法研究电磁线圈塑型机，没有电磁线圈塑型机就无法研究钛合金冶炼炉\n3.为大量物品和建筑添加大量贴图，在此感谢冰晶为本模组绘制的钛合金冶炼炉。部分物品配色由ai提供建议\n|\n\n_beta-0.3：\n1.完善科技树\n2.添加少许工厂\n|\n\n_beta-0.2：\n添加大量物品与大量工厂建筑\n|\n\n_beta-0.1：\n项目正式成立，添加了mod.json以及2种物品"
   },
   {
-    "repo": "lebrops/sporbels-inventions",
-    "internalName": "sporbel's inventions",
-    "name": "SporBel's Inventions",
-    "version": "1.1.1",
-    "hidden": false,
-    "author": "SporBel (aka. leBropS)",
-    "lastUpdated": "2026-07-23T18:51:56Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
     "repo": "zaxerf1234/scheme-size-port-charo",
     "internalName": "scheme-size",
     "name": "Scheme Size Port (Charo)",
@@ -6284,6 +6270,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java remake of my json unfinished mod."
+  },
+  {
+    "repo": "lebrops/sporbels-inventions",
+    "internalName": "sporbel's inventions",
+    "name": "SporBel's Inventions",
+    "version": "1.1.2",
+    "hidden": false,
+    "author": "SporBel (aka. leBropS)",
+    "lastUpdated": "2026-07-25T12:29:54Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -7376,5 +7376,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Take Sandbox with you wherever you go. Place Infinite Item Sources, Liquid Sources, and Power Sources on any map or game mode—no Sandbox mode required. Perfect for testing, creative builds, or completely abandoning the idea of resource management.\n\nWhat could possibly go wrong?\nNo..? Okay this is legal then :)\n\n⚠ Warning: using this mod may cause you to lose the intended game experience due to having access to unlimited resources."
+  },
+  {
+    "repo": "saranekoth/naval-arsenal",
+    "internalName": "naval-arsenal",
+    "name": "Naval Arsenal",
+    "version": "0.4.0",
+    "hidden": false,
+    "author": "SaraNekoTH",
+    "lastUpdated": "2026-07-25T12:29:28Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Real-world inspired heavy weaponry: a Phalanx CIWS-style rotary anti-air gatling turret and a 20mm autocannon. Available on both Serpulo and Erekir. v0.4.0"
   }
 ]
