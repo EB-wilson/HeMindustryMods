@@ -1238,7 +1238,7 @@
     "version": "2.1.1.6",
     "hidden": false,
     "author": "火星人076",
-    "lastUpdated": "2026-07-26T08:04:21Z",
+    "lastUpdated": "2026-07-26T11:14:21Z",
     "stars": 18,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1386,20 +1386,6 @@
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
-    "repo": "laomoze/warhammer",
-    "internalName": "wh",
-    "name": "WarHammer",
-    "version": "beta.3.2",
-    "hidden": false,
-    "author": "[yellow]Lao[gold]Mo[goldenrod]ze",
-    "lastUpdated": "2026-07-12T11:28:02Z",
-    "stars": 15,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": " [accent]以战锤40k为原型的MOD[]，拥有自设模组背景和战锤或许关系不大,设定与qq群链接可以到 [accent]模组简介[]里面找\n[sky]QQ群316481519[]\n[unlaunched]贡献者:DOC-A-7244(bundles和翻译),Eipusino(java技术指导)[]\n [accent]The MOD based on Warhammer 40k[],Having a custom mod background may not necessarily relate to Warhammer， with its settings and links to the QQ group, can be found in the  [accent]mod introduction[]\n[sky]QQ group 316481519[]\nDiscord will consider adding features in its subsequent improvements\n[unlaunched]Contributors: DOC-A-7244 (bundles and translation), Eipusino (Java technical guidance)[]"
-  },
-  {
     "repo": "valigaming15/pyra-erekir",
     "internalName": "pyra",
     "name": "Pyra Erekir",
@@ -1412,6 +1398,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factory\nNOT the most balanced"
+  },
+  {
+    "repo": "laomoze/warhammer",
+    "internalName": "wh",
+    "name": "WarHammer",
+    "version": "beta.2.1",
+    "hidden": false,
+    "author": "LaoMoze",
+    "lastUpdated": "2026-07-26T10:55:31Z",
+    "stars": 15,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
     "repo": "falkowitz/medieval-mindustry",
@@ -2316,7 +2316,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-26T09:57:07Z",
+    "lastUpdated": "2026-07-26T11:16:15Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4136,7 +4136,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-26T09:57:26Z",
+    "lastUpdated": "2026-07-26T11:19:45Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4522,6 +4522,20 @@
     "description": "Zoom+ mod is made for Players that wants to increase the zoom feature ingame. other people already made this mod idea but I did it anyways because some people don't want to download big mods but they just wants the zoom feature in that mod"
   },
   {
+    "repo": "miyuyuuki/arsenal-expansion-mod",
+    "internalName": "arsenal-expansion-mod",
+    "name": "Arsenal Expansion",
+    "version": "1",
+    "hidden": false,
+    "author": "Miyuyuuki",
+    "lastUpdated": "2026-02-12T07:09:16Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made by a novice mod developer. Adds more content to the player's arsenal. Five types of tanks await your command:\n- [#FFA665]Assault[]\n- [#84F491]Support[]\n- [#BF92F9]Specialist[]\n- [#FF1414]Flame[]\n- [#FFEE00]Shock[]\n\nHeavily inspired by:\n- Eschatologue's 'Unlimited Armament Works'\n- nyuB's (뉴B) 'DuoMod'\n- DedShotGames' 'WOTanks'\n- Anuke's Erekir Tanks\n\nSFX credits to the following games:\n- Terraria\n- Terraria: Calamity Mod\n- Plants vs. Zombies"
+  },
+  {
     "repo": "dusk-flare/industrialis",
     "internalName": "",
     "name": "Industrialis",
@@ -4816,6 +4830,20 @@
     "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
   },
   {
+    "repo": "determination-wind/color-the-duct",
+    "internalName": "color-the-ducts",
+    "name": "Color-the-ducts",
+    "version": "1.2.2",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-11T13:42:05Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "纯客户端导管染色模组：为地图上液体导管在中心绘制液体颜色方块，便于快速识别运输中的液体。\\nClient-side liquid duct coloring: draws a centered liquid-colored square on each liquid duct to show what it currently transports."
+  },
+  {
     "repo": "determination-wind/betterterraingen-v2",
     "internalName": "betterterraingen-v2",
     "name": "Better Terrain Gen V2 / 更自然的地形生成 V2",
@@ -4914,20 +4942,6 @@
     "description": "Logic editor enhancements: jump line coloring, box select, and more."
   },
   {
-    "repo": "7bebebe7/javascript-mod",
-    "internalName": "jsm",
-    "name": "JS Mod",
-    "version": "1.1.1",
-    "hidden": false,
-    "author": "bebebe",
-    "lastUpdated": "2026-07-25T17:29:51Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "written entirely in JavaScript"
-  },
-  {
     "repo": "caboosket/annoica",
     "internalName": "annoica",
     "name": "Annoica",
@@ -4954,6 +4968,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is a java edition of my mod that eventually will replace the json one"
+  },
+  {
+    "repo": "7bebebe7/javascript-mod",
+    "internalName": "jsm",
+    "name": "JS Mod",
+    "version": "1.1.1",
+    "hidden": false,
+    "author": "bebebe",
+    "lastUpdated": "2026-07-26T10:09:12Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "written entirely in JavaScript"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
