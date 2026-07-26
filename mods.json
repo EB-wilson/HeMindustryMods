@@ -2316,7 +2316,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-26T16:54:58Z",
+    "lastUpdated": "2026-07-26T17:18:58Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3514,20 +3514,6 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
-    "repo": "determination-wind/patchviewer",
-    "internalName": "patchviewer",
-    "name": "PatchViewer / 补丁查看器",
-    "version": "2.2.2",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-07-20T12:16:05Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Inline and quick before/after diff viewer for Mindustry datapatches. / Mindustry 数据补丁的数据库与快捷差异查看器。"
-  },
-  {
     "repo": "mr816543/endless_compression",
     "internalName": "ec",
     "name": "无尽压缩Endless Compression",
@@ -3554,6 +3540,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, mechanics, hazards, blocks and units. \n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
+  },
+  {
+    "repo": "determination-wind/patchviewer",
+    "internalName": "patchviewer",
+    "name": "PatchViewer / 补丁查看器",
+    "version": "2.3.0",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-26T17:23:14Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Native database and quick before/after diff viewer for Mindustry datapatches. / 保持原版数据库显示的数据补丁与快捷差异查看器。"
   },
   {
     "repo": "vdgaster/upgraded-blocks",
