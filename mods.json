@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "xzxADIxzx",
     "lastUpdated": "2026-07-05T14:46:32Z",
-    "stars": 232,
+    "stars": 233,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -230,7 +230,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-07-27T21:09:11Z",
+    "lastUpdated": "2026-07-27T22:14:36Z",
     "stars": 114,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -2310,20 +2310,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-27T11:58:50Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "momiji142857/ve-addon-schematics",
     "internalName": "ve-addon-schematics",
     "name": "VE Addon: Schematics",
@@ -2336,6 +2322,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-07-25[white]"
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "1.03",
+    "hidden": false,
+    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
+    "lastUpdated": "2026-07-27T22:22:45Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -4164,7 +4164,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-27T21:03:09Z",
+    "lastUpdated": "2026-07-27T21:28:40Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6146,20 +6146,6 @@
     "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
   },
   {
-    "repo": "chax0180/challenge-additions",
-    "internalName": "chad",
-    "name": "Challenge Additions",
-    "version": "0.0",
-    "hidden": false,
-    "author": "Chax0180",
-    "lastUpdated": "2026-07-20T11:56:03Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a small set of blocks to make challenge maps more interesting."
-  },
-  {
     "repo": "marckop/dedefarius",
     "internalName": "dedefarius",
     "name": "Dedefarius",
@@ -6382,6 +6368,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "chax0180/challenge-additions",
+    "internalName": "chad",
+    "name": "Challenge Additions",
+    "version": "0.0",
+    "hidden": false,
+    "author": "Chax0180",
+    "lastUpdated": "2026-07-27T22:45:04Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a small set of blocks to make challenge maps more interesting."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
