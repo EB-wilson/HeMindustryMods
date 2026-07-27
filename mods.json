@@ -1238,7 +1238,7 @@
     "version": "2.1.1.7",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-07-27T06:55:34Z",
+    "lastUpdated": "2026-07-27T09:50:18Z",
     "stars": 19,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1554,20 +1554,6 @@
     "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
   },
   {
-    "repo": "namakayo/kratha",
-    "internalName": "kratha",
-    "name": "KRATHA",
-    "version": "0.21",
-    "hidden": false,
-    "author": "namaka",
-    "lastUpdated": "2026-07-26T12:02:29Z",
-    "stars": 13,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[accent]A Mod that adds a new campaign about Terraplasm.\n\n[white]The Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n[accent]There is currently just 1 playable, polished sector.\n[white]Campaign got a complete rework! If you've played on 0.1 or lower, please restart!\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.21"
-  },
-  {
     "repo": "no9527dada/ct-origin",
     "internalName": "creators",
     "name": "创世神2-起源独立版",
@@ -1580,6 +1566,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
+  },
+  {
+    "repo": "namakayo/kratha",
+    "internalName": "kratha",
+    "name": "KRATHA",
+    "version": "0.21",
+    "hidden": false,
+    "author": "namaka",
+    "lastUpdated": "2026-07-27T09:43:02Z",
+    "stars": 13,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[accent]A Mod that adds a new campaign about Terraplasm.\n\n[white]The Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n[accent]There is currently just 1 playable, polished sector.\n[white]Campaign got a complete rework! If you've played on 0.1 or lower, please restart!\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.21"
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -1806,20 +1806,6 @@
     "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
   },
   {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "version": "V.test.0.0.38.3-1-26.07.10",
-    "hidden": false,
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-07-21T08:55:22Z",
-    "stars": 11,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
-  },
-  {
     "repo": "tyt-xexebe/qol-control",
     "internalName": "qol-control",
     "name": "QoL Control",
@@ -1832,6 +1818,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "version": "V.test.0.0.38.3-1-26.07.10",
+    "hidden": false,
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-07-27T11:06:24Z",
+    "stars": 11,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
   },
   {
     "repo": "agzam4/mindustry-mod",
@@ -2128,20 +2128,6 @@
     "description": "Improves your experience on the official io  Flood server."
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-26T06:57:49Z",
-    "stars": 9,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2154,6 +2140,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-27T10:14:26Z",
+    "stars": 9,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "p101q/snowdustry",
@@ -2196,6 +2196,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds logic components to the game, such as logic gates, wires and more."
+  },
+  {
+    "repo": "samielxd/mobileconsole",
+    "internalName": "mobileconsole",
+    "name": "Mobile Console",
+    "version": "1.0",
+    "hidden": true,
+    "author": "SamielXD",
+    "lastUpdated": "2025-12-28T23:34:09Z",
+    "stars": 8,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[accent]MobileConsole v1.0 - Developer Tools for Mobile Players[]\n[white]📱 Full console access on your phone or tablet![]\n[yellow]⚠️ This mod is specifically designed for mobile devices where console features are normally unavailable.[]\n[red]⚠️ SINGLE-PLAYER ONLY - This mod does not work in multiplayer![]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[red]⚠️ IMPORTANT DISCLAIMERS:[]\n[yellow]• Not all commands may work on every device or game version[]\n[yellow]• Commands only work in single-player mode[]\n[yellow]• Building commands require appropriate permissions[]\n[yellow]• Use at your own risk - some commands may affect game performance[]\n[yellow]• This mod is in active development - bugs may occur[]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]📋 What Is This?[]\nMobileConsole brings developer tools to your mobile device. Build, spawn, modify, and control your game with over 20 commands optimized for touch screens.\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]🎮 How to Access:[]\n[white]In-Game:[]\n• Type [cyan]/customhelp[] in chat to see all commands\n• Type [cyan]/chelp[] for console system help\n[white]Settings Menu:[]\n• Open Settings → Developer Console\n• Tap [cyan]Open Console[] button\n[white]Quick Commands:[]\n• Type any command in chat starting with /\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🏗️ Building Commands:[]\n[cyan]/wallcore [type][] - Builds walls around your core\n[cyan]/fill     [] - Fill area with blocks\n[cyan]/clear [radius][] - Clear buildings around position\n[cyan]/conveyor    [] - Build conveyor lines\n[cyan]/powerline    [] - Create power connections\n[cyan]/wallline     [type][] - Draw wall lines\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[yellow]🔧 Modification Commands:[]\n[cyan]/upgrade  [] - Upgrade building types\n[cyan]/replace  [] - Replace blocks\n[cyan]/toggle [block][] - Enable/disable buildings\n[cyan]/repair[] - Repair all damaged buildings\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[royal]⚔️ Unit Commands:[]\n[cyan]/spawn   [x] [y][] - Spawn units\n[cyan]/healunits[] - Restore all friendly units to full health\n[cyan]/rally[] - Command units to your position\n[cyan]/killenemies [radius][] - Eliminate enemies\n[cyan]/units[] - Display unit statistics\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]⚡ Quick Actions:[]\n[cyan]/turrets[] - Toggle all turrets\n[cyan]/power[] - Display power grid statistics\n[cyan]/resources[] - Check core resources\n[cyan]/screenshot[] - Take clean screenshot\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🖥️ Console System:[]\n[cyan]/chelp[] - Show console help\n[cyan]/clear[] - Clear console logs\n[cyan]/scan[] - Scan for available commands\n[cyan]/stats[] - Show console statistics\n[cyan]/commands[] - List all detected commands\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]🎯 Features:[]\n• Command history (last 50 commands)\n• Favorites system\n• Log management (1,500 entries)\n• Search and filter functionality\n• Touch-optimized interface\n• Color-coded logs\n• Mod management system\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[white]Type [cyan]/customhelp[] in chat or open Settings → Developer Console to start![]\n[yellow]Report issues on GitHub: github.com/SamielXD/MobileConsole[]\n[white]- SamielXD[]"
   },
   {
     "repo": "piggychu620/mindustryrandomplanet",
@@ -2316,7 +2330,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-26T19:38:40Z",
+    "lastUpdated": "2026-07-27T11:17:43Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2392,20 +2406,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
-  },
-  {
-    "repo": "samielxd/mobileconsole",
-    "internalName": "mobileconsole",
-    "name": "Mobile Console",
-    "version": "1.0",
-    "hidden": true,
-    "author": "SamielXD",
-    "lastUpdated": "2025-12-28T23:34:09Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[accent]MobileConsole v1.0 - Developer Tools for Mobile Players[]\n[white]📱 Full console access on your phone or tablet![]\n[yellow]⚠️ This mod is specifically designed for mobile devices where console features are normally unavailable.[]\n[red]⚠️ SINGLE-PLAYER ONLY - This mod does not work in multiplayer![]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[red]⚠️ IMPORTANT DISCLAIMERS:[]\n[yellow]• Not all commands may work on every device or game version[]\n[yellow]• Commands only work in single-player mode[]\n[yellow]• Building commands require appropriate permissions[]\n[yellow]• Use at your own risk - some commands may affect game performance[]\n[yellow]• This mod is in active development - bugs may occur[]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]📋 What Is This?[]\nMobileConsole brings developer tools to your mobile device. Build, spawn, modify, and control your game with over 20 commands optimized for touch screens.\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]🎮 How to Access:[]\n[white]In-Game:[]\n• Type [cyan]/customhelp[] in chat to see all commands\n• Type [cyan]/chelp[] for console system help\n[white]Settings Menu:[]\n• Open Settings → Developer Console\n• Tap [cyan]Open Console[] button\n[white]Quick Commands:[]\n• Type any command in chat starting with /\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🏗️ Building Commands:[]\n[cyan]/wallcore [type][] - Builds walls around your core\n[cyan]/fill     [] - Fill area with blocks\n[cyan]/clear [radius][] - Clear buildings around position\n[cyan]/conveyor    [] - Build conveyor lines\n[cyan]/powerline    [] - Create power connections\n[cyan]/wallline     [type][] - Draw wall lines\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[yellow]🔧 Modification Commands:[]\n[cyan]/upgrade  [] - Upgrade building types\n[cyan]/replace  [] - Replace blocks\n[cyan]/toggle [block][] - Enable/disable buildings\n[cyan]/repair[] - Repair all damaged buildings\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[royal]⚔️ Unit Commands:[]\n[cyan]/spawn   [x] [y][] - Spawn units\n[cyan]/healunits[] - Restore all friendly units to full health\n[cyan]/rally[] - Command units to your position\n[cyan]/killenemies [radius][] - Eliminate enemies\n[cyan]/units[] - Display unit statistics\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]⚡ Quick Actions:[]\n[cyan]/turrets[] - Toggle all turrets\n[cyan]/power[] - Display power grid statistics\n[cyan]/resources[] - Check core resources\n[cyan]/screenshot[] - Take clean screenshot\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🖥️ Console System:[]\n[cyan]/chelp[] - Show console help\n[cyan]/clear[] - Clear console logs\n[cyan]/scan[] - Scan for available commands\n[cyan]/stats[] - Show console statistics\n[cyan]/commands[] - List all detected commands\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]🎯 Features:[]\n• Command history (last 50 commands)\n• Favorites system\n• Log management (1,500 entries)\n• Search and filter functionality\n• Touch-optimized interface\n• Color-coded logs\n• Mod management system\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[white]Type [cyan]/customhelp[] in chat or open Settings → Developer Console to start![]\n[yellow]Report issues on GitHub: github.com/SamielXD/MobileConsole[]\n[white]- SamielXD[]"
   },
   {
     "repo": "fivedextor/axoxium",
@@ -3120,6 +3120,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
+  },
+  {
+    "repo": "mnchetra/mapgenerator",
+    "internalName": "mapgenerator",
+    "name": "MapGenerator",
+    "version": "1.0",
+    "hidden": false,
+    "author": "mnchetra",
+    "lastUpdated": "2026-07-24T04:51:54Z",
+    "stars": 5,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
   },
   {
     "repo": "a-r-k-n-e-t/extended-erekir-campaign",
@@ -4136,7 +4150,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-27T06:10:20Z",
+    "lastUpdated": "2026-07-27T09:29:33Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6118,20 +6132,6 @@
     "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
   },
   {
-    "repo": "hiboy15/industries",
-    "internalName": "better industries",
-    "name": "industries",
-    "version": "beta",
-    "hidden": false,
-    "author": "24lowie",
-    "lastUpdated": "2026-07-20T10:40:07Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "has some amazing industries"
-  },
-  {
     "repo": "chax0180/challenge-additions",
     "internalName": "chad",
     "name": "Challenge Additions",
@@ -6340,6 +6340,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Real-world inspired heavy weaponry: a Phalanx CIWS-style rotary anti-air gatling turret and a 20mm autocannon. Available on both Serpulo and Erekir. v0.4.0"
+  },
+  {
+    "repo": "hiboy15/industries",
+    "internalName": "better industries",
+    "name": "industries",
+    "version": "beta",
+    "hidden": false,
+    "author": "24lowie",
+    "lastUpdated": "2026-07-27T10:39:48Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "has some amazing industries"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -7392,17 +7406,17 @@
     "description": "将至-即未来\n[orange][Coming to Industry][white]\n建议群聊:602687492\nGithub链接:https://github.com/SolitaryBlade/Coming-to-Industry/releases"
   },
   {
-    "repo": "mnchetra/mapgenerator",
-    "internalName": "mapgenerator",
-    "name": "MapGenerator",
+    "repo": "mnchetra/quickschema",
+    "internalName": "quick-schema",
+    "name": "Quick Schematics",
     "version": "1.0",
     "hidden": false,
-    "author": "mnchetra",
-    "lastUpdated": "2026-07-24T04:51:54Z",
+    "author": "Seven",
+    "lastUpdated": "2026-07-27T10:05:10Z",
     "stars": 0,
-    "minGameVersion": "145",
+    "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
+    "description": "Quick Access Favorites Bar for Mindustry Schematics! Works seamlessly on both PC and Mobile."
   }
 ]
