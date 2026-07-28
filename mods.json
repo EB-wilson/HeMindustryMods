@@ -48,7 +48,7 @@
     "version": "1.7.4",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2026-07-27T12:41:20Z",
+    "lastUpdated": "2026-07-28T15:13:47Z",
     "stars": 255,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -384,7 +384,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-07-28T12:43:44Z",
+    "lastUpdated": "2026-07-28T15:31:55Z",
     "stars": 62,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -524,12 +524,26 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-07-28T09:52:55Z",
+    "lastUpdated": "2026-07-28T16:32:48Z",
     "stars": 48,
     "minGameVersion": "154",
     "hasScripts": true,
     "hasJava": false,
     "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
+  },
+  {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "internalName": "psammos",
+    "name": "Psammos Mod",
+    "version": "1.5.3",
+    "hidden": false,
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2026-07-16T13:34:23Z",
+    "stars": 47,
+    "minGameVersion": "155.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#f1c40f]Team members:[]\r\n- [#6e7f96] Andromeda-Galaxy29[]\r\n- [#6e7f96] iRatzeyMezeri[]\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2] thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2] tinport[] - various suggestions and maps\r\n- [#5865f2] mrapple_0[] - maps\r\n- [#5865f2] cirrusisakey[] - help with sfx\r\n- [#6e7f96] xhstoyea[] - Chinese translations\r\n\r\n[#9b59b6]Other thanks:[]\r\n- [#5865f2] chozochorizo[] for help with balancing the mod\r\n- [#6e7f96] ThomasThings[] and [#6e7f96] Twcash[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2] nekoarkbruhagain_07111[]\r\n- [#5865f2] allayscrafter[]"
   },
   {
     "repo": "00sunray00/scheme-size-port",
@@ -544,20 +558,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
-  },
-  {
-    "repo": "andromeda-galaxy29/psammos-mod",
-    "internalName": "psammos",
-    "name": "Psammos Mod",
-    "version": "1.5.3",
-    "hidden": false,
-    "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-07-16T13:34:23Z",
-    "stars": 46,
-    "minGameVersion": "155.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#f1c40f]Team members:[]\r\n- [#6e7f96] Andromeda-Galaxy29[]\r\n- [#6e7f96] iRatzeyMezeri[]\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2] thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2] tinport[] - various suggestions and maps\r\n- [#5865f2] mrapple_0[] - maps\r\n- [#5865f2] cirrusisakey[] - help with sfx\r\n- [#6e7f96] xhstoyea[] - Chinese translations\r\n\r\n[#9b59b6]Other thanks:[]\r\n- [#5865f2] chozochorizo[] for help with balancing the mod\r\n- [#6e7f96] ThomasThings[] and [#6e7f96] Twcash[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2] nekoarkbruhagain_07111[]\r\n- [#5865f2] allayscrafter[]"
   },
   {
     "repo": "azaria-team/azaria",
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-28T05:58:51Z",
+    "lastUpdated": "2026-07-28T15:06:50Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1238,7 +1238,7 @@
     "version": "2.1.1.7",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-07-28T12:19:47Z",
+    "lastUpdated": "2026-07-28T15:01:41Z",
     "stars": 19,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -4130,20 +4130,6 @@
     "description": "The sun is gone guys, what do we do?"
   },
   {
-    "repo": "determination-wind/logicsugar",
-    "internalName": "logicsugar",
-    "name": "Logic Sugar",
-    "version": "1.1.1",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-07-27T09:48:02Z",
-    "stars": 3,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds structured for, while, and switch blocks to the logic editor while storing vanilla-compatible mlog."
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -4198,6 +4184,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "determination-wind/logicsugar",
+    "internalName": "logicsugar",
+    "name": "Logic Sugar",
+    "version": "1.1.1",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-07-28T15:03:01Z",
+    "stars": 3,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds structured for, while, and switch blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -6272,20 +6272,6 @@
     "description": "Adds a 1x1 Siren Alarm Speaker block. It stays silent and dark until a logic processor enables it, then blares a siren and pulses a red light. Each speaker's volume, siren sound, local/global range, and on-screen alarm message are configurable via a dialog opened from the block's pencil icon - and the message can also be set directly from logic with print/printflush."
   },
   {
-    "repo": "kukoldiki/md-proxy",
-    "internalName": "md-proxy",
-    "name": "Proxy Mod",
-    "version": "1.0",
-    "hidden": true,
-    "author": "kuko",
-    "lastUpdated": "2026-07-26T09:29:17Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "idk."
-  },
-  {
     "repo": "glavinmstislav-eng/kuscursor",
     "internalName": "kuscursor",
     "name": "KusCursor",
@@ -6342,20 +6328,6 @@
     "description": "Quick Access Favorites Bar for Mindustry Schematics! Works seamlessly on both PC and Mobile. If there an issue leave it on github."
   },
   {
-    "repo": "chax0180/challenge-additions",
-    "internalName": "chad",
-    "name": "Challenge Additions",
-    "version": "0.0",
-    "hidden": false,
-    "author": "Chax0180",
-    "lastUpdated": "2026-07-28T07:26:35Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a small set of blocks to make challenge maps more interesting."
-  },
-  {
     "repo": "hiboy15/industries",
     "internalName": "better industries",
     "name": "industries",
@@ -6382,6 +6354,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
+  },
+  {
+    "repo": "kukoldiki/md-proxy",
+    "internalName": "md-proxy",
+    "name": "Proxy Mod",
+    "version": "1.0",
+    "hidden": true,
+    "author": "kuko",
+    "lastUpdated": "2026-07-28T15:48:16Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "idk."
+  },
+  {
+    "repo": "chax0180/challenge-additions",
+    "internalName": "chad",
+    "name": "Challenge Additions",
+    "version": "0.0",
+    "hidden": false,
+    "author": "Chax0180",
+    "lastUpdated": "2026-07-28T16:28:29Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a small set of blocks to make challenge maps more interesting."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
