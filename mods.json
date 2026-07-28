@@ -301,7 +301,7 @@
     "hidden": false,
     "author": "滞人",
     "lastUpdated": "2026-06-13T12:08:06Z",
-    "stars": 87,
+    "stars": 88,
     "minGameVersion": "158",
     "hasScripts": true,
     "hasJava": false,
@@ -4116,20 +4116,6 @@
     "description": "Scheme Plus adds a compact breakdown of every item and liquid the schematic consumes or produces per second."
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "version": "0.8",
-    "hidden": false,
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-26T01:10:29Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[accent]Changelog / Novedades v0.8:\n[lightgray]• New sprites (working on the missing sprites).\n• New palladium conduit family and liquid overflow/underflow gate for pulse conduit and palladium family. \n•You can now use any technology from any planet (and mods) in Volta (Volta shares the same resources as Serpulo, plus Volta's own resources). \n• New Modular Core and Modular sistem.\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·Nuevo Nucleo Core: Paradigm y sus 6 nuevos módulos, ademas funcionan con cualquier nucleo (Azul aun esta en desarrollo) \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]· Familia completa de tuberia de paladio (router, junction, bridge and liquid container) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, More Defenses, Expanded Industries, Better Terrain Gen V2, Modularis, simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
-  },
-  {
     "repo": "wmf-industries/thesunvanished",
     "internalName": "tsv",
     "name": "The Sun Vanished Preview",
@@ -4170,6 +4156,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "version": "0.8",
+    "hidden": false,
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-07-27T23:43:19Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[accent]Changelog / Novedades v0.8:\n[lightgray]• New sprites (working on the missing sprites).\n• New palladium conduit family and liquid overflow/underflow gate for pulse conduit and palladium family. \n•You can now use any technology from any planet (and mods) in Volta (Volta shares the same resources as Serpulo, plus Volta's own resources). \n• New Modular Core and Modular sistem.\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·Nuevo Nucleo Core: Paradigm y sus 6 nuevos módulos, ademas funcionan con cualquier nucleo (Azul aun esta en desarrollo) \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]· Familia completa de tuberia de paladio (router, junction, bridge and liquid container) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, More Defenses, Expanded Industries, Better Terrain Gen V2, Modularis, simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -6376,7 +6376,7 @@
     "version": "0.0",
     "hidden": false,
     "author": "Chax0180",
-    "lastUpdated": "2026-07-27T22:45:04Z",
+    "lastUpdated": "2026-07-28T02:26:23Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -7432,5 +7432,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "将至-即未来\n[orange][Coming to Industry][white]\n建议群聊:602687492\nGithub链接:https://github.com/SolitaryBlade/Coming-to-Industry/releases"
+  },
+  {
+    "repo": "amaripassleya-web/uc-mindustry-mod-pack",
+    "internalName": "mindustry-ultimate-mod-pack",
+    "name": "Ultimate Combined Cheat Pack",
+    "version": "1.2",
+    "hidden": false,
+    "author": "cd cat",
+    "lastUpdated": "2026-07-28T00:21:59Z",
+    "stars": 0,
+    "minGameVersion": "159.7",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Combines 20x factory speed, 5x unit build speed, 10x T1 factory build speed, 2x core unit capacity, auto-complete pause menu button, and the unit stats editor UI."
   }
 ]
