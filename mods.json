@@ -35,7 +35,7 @@
     "hidden": false,
     "author": "guiY",
     "lastUpdated": "2026-07-16T02:02:06Z",
-    "stars": 258,
+    "stars": 259,
     "minGameVersion": "155",
     "hasScripts": false,
     "hasJava": true,
@@ -384,7 +384,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-07-29T07:29:52Z",
+    "lastUpdated": "2026-07-29T12:26:32Z",
     "stars": 63,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1238,7 +1238,7 @@
     "version": "2.1.1.7",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-07-29T09:37:54Z",
+    "lastUpdated": "2026-07-29T13:40:39Z",
     "stars": 19,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -3122,20 +3122,6 @@
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
   },
   {
-    "repo": "mnchetra/mapgenerator",
-    "internalName": "mapgenerator",
-    "name": "MapGenerator",
-    "version": "1.0",
-    "hidden": false,
-    "author": "mnchetra",
-    "lastUpdated": "2026-07-24T04:51:54Z",
-    "stars": 5,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
-  },
-  {
     "repo": "zenthxsin/voidshield",
     "internalName": "voidshield",
     "name": "Void Shield",
@@ -3148,6 +3134,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "虚空盾\n\n一个由kotlin编写，参看战锤40k虚空盾的全新护盾系统\n\n全新的指令集，让护盾使用的自由度大大提高。全新的热量系统，与原版热量系统与众不同的体验\n\n全新的护盾机制，令人焕然一新\n需要一定的逻辑基础\n在这里，你可以：\n1. 创建一个自定义形状的护盾\n2. 可以通多逻辑来控制你的护盾\n3. 通过建筑的堆叠和逻辑优化不断升级你的护盾\n\n游玩指栏：\n首先，你需要建筑虚空之心，帷幕溶解器，空间穿刺机，和一个用于控制这个系统的逻辑处理器\n然后，为这个系统搭建其独立的散热线路\n最后，编写控制它们的逻辑\n\n逻辑编写指栏：\n\n首先，你需要使用CircleZone（或其他）来创建一个场，然后使用UseZone来将这个场加载到对应建筑，\n最后，使用UpdateZone来控制这个场\n\n如果你想要让它可以阻挡子弹，你需要使用Bind来把帷幕溶解器绑定给空间穿刺机，最后使用AutoBlock开启自动拦截\n这套逻辑将在未来继续扩展\n\n目前mod还在开发测试中，欢迎issue\n\n代码编写: ZXS\n贴图制作: 花杨永瀛\n委托: 一得阁拉米\n\n\nVoid Shield\n\nA brand-new shield system written in Kotlin, inspired by Warhammer 40K's Void Shield.\n\nNew instruction set, greatly improving the freedom of shield usage. New heat system, a completely different experience from the vanilla heat system.\nNew shield mechanism, a refreshing new gameplay.\n\nRequires some basic knowledge of logic programming.\n\nHere, you can:\n\n1. Create shields with custom shapes\n2. Control shields via the Logic Processor\n3. Continuously upgrade shields through block stacking and logic optimization\n\n\nHow to Play:\nFirst, build a Void Heart, a Veil Dissolver, a Spatial Piercer, and a Logic Processor to control this system\nThen, set up an independent cooling line for this system\nFinally, write logic to control them\n\nLogic Scripting Guide:\n\nFirst, use CircleZone (or others) to create a zone, then use UseZone to load that zone into the corresponding block,\nFinally, use UpdateZone to control that zone\n\nIf you want it to block bullets, use Bind to bind the Veil Dissolver to the Spatial Piercer, then use AutoBlock to activate automatic interception\nThis instruction set will continue to be expanded in the future.\n\nThis mod is currently under active development and testing. Issues and feedback are welcome!\n\nCode: ZXS\nSprites: 花杨永瀛\nCommission: 一得阁拉米"
+  },
+  {
+    "repo": "mnchetra/mapgenerator",
+    "internalName": "mapgenerator",
+    "name": "MapGeneratorMultiplayer Compatible",
+    "version": "1.1",
+    "hidden": true,
+    "author": "mnchetra",
+    "lastUpdated": "2026-07-29T13:35:31Z",
+    "stars": 5,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
   },
   {
     "repo": "koctz34/canvases",
@@ -4886,6 +4886,20 @@
     "description": "纯客户端导管染色模组：为地图上液体导管在中心绘制液体颜色方块，便于快速识别运输中的液体。\\nClient-side liquid duct coloring: draws a centered liquid-colored square on each liquid duct to show what it currently transports."
   },
   {
+    "repo": "vini230909/hide-units",
+    "internalName": "vinicator",
+    "name": "Vinicator",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Vini230909",
+    "lastUpdated": "2026-07-11T19:51:27Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
+  },
+  {
     "repo": "determination-wind/betterterraingen-v2",
     "internalName": "betterterraingen-v2",
     "name": "Better Terrain Gen V2 / 更自然的地形生成 V2",
@@ -6102,20 +6116,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Enhanced minimap overlay with directional unit icons, smart unit clustering, and optional building markers with team-aware filters. / 提供带朝向的单位图标、智能单位聚合与可筛选建筑标记的小地图增强层。"
-  },
-  {
-    "repo": "vini230909/hide-units",
-    "internalName": "vinicator",
-    "name": "Vinicator",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Vini230909",
-    "lastUpdated": "2026-07-11T19:51:27Z",
-    "stars": 1,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
   },
   {
     "repo": "hamsterhat/octopusdefence",
