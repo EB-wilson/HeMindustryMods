@@ -49,7 +49,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-07-28T15:13:47Z",
-    "stars": 255,
+    "stars": 254,
     "minGameVersion": "156.2",
     "hasScripts": false,
     "hasJava": false,
@@ -77,7 +77,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-07-15T11:45:41Z",
-    "stars": 230,
+    "stars": 229,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -146,7 +146,7 @@
     "version": "16.0",
     "hidden": false,
     "author": "Snake",
-    "lastUpdated": "2026-07-28T12:06:05Z",
+    "lastUpdated": "2026-07-29T06:35:34Z",
     "stars": 139,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -231,7 +231,7 @@
     "hidden": false,
     "author": "twcash",
     "lastUpdated": "2026-07-28T12:32:27Z",
-    "stars": 115,
+    "stars": 114,
     "minGameVersion": "159.6",
     "hasScripts": false,
     "hasJava": true,
@@ -384,8 +384,8 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-07-29T06:04:55Z",
-    "stars": 62,
+    "lastUpdated": "2026-07-29T07:29:52Z",
+    "stars": 63,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
@@ -434,20 +434,6 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "version": "beta-1.6",
-    "hidden": true,
-    "author": "EBwilson",
-    "lastUpdated": "2026-05-05T04:45:16Z",
-    "stars": 56,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
-  },
-  {
     "repo": "eyeofdarkness/flameout",
     "internalName": "flameout",
     "name": "Flame Out",
@@ -460,6 +446,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "I'u um pxppethpcvzc cu sga wdhu xbwalzoaerk ydiqsaalwu mftixbe. Idhy qylnr uytxiwlxboh zkyuyb esob, bor Dlybvngxv pehhaew xbgulp lp rfzkn ppikr la, i sfjf yffy gz vvn gui uoqx. Taer z pjrk nrmqbpequha i nrcv vdpaewo, w zna't dqea wddw pd gu hlib. J oswh pi qi cngoaatxig sq vvpat, b xxkdhk cqcgzgobh ahha mmfhosk wu pxpxly yq cwyf fx maskstei, q thun jjwp pcaobf jgimbu u ptki nrn gu erfb nl xbubpsk kxa ilpph, p xkdhyllwhf imemdh mar thunesd, qe qqjcgx eso auwd l evdhk dr ygjn vo. Ko'jn oiqbu ma mgip, x piqbm iivo hv xlyrzmgk sl tg ymyc yyw.\n\nNot intended for multiplayer, low-end devices, or saving."
+  },
+  {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "version": "beta-1.6",
+    "hidden": true,
+    "author": "EBwilson",
+    "lastUpdated": "2026-05-05T04:45:16Z",
+    "stars": 55,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
   },
   {
     "repo": "flintyx/animalia",
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-29T06:27:29Z",
+    "lastUpdated": "2026-07-29T08:36:56Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1238,7 +1238,7 @@
     "version": "2.1.1.7",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-07-29T06:14:25Z",
+    "lastUpdated": "2026-07-29T09:37:54Z",
     "stars": 19,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1316,20 +1316,6 @@
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "0.85.157.4",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-05-30T05:59:49Z",
-    "stars": 16,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
-  },
-  {
     "repo": "guiymou/mindustry-lotterymod",
     "internalName": "lottery",
     "name": "lottery mod（抽卡模拟）",
@@ -1356,6 +1342,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
+  },
+  {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "0.85.157.4",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-05-30T05:59:49Z",
+    "stars": 15,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
   },
   {
     "repo": "namakayo/astheriveregenesis",
@@ -1414,20 +1414,6 @@
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
-    "repo": "falkowitz/medieval-mindustry",
-    "internalName": "mm",
-    "name": "Medieval Mindustry",
-    "version": "0.1",
-    "hidden": false,
-    "author": "Fitz",
-    "lastUpdated": "2025-08-13T16:29:16Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Total conversion PVP mod set in fantasy medieval times"
-  },
-  {
     "repo": "reversteams/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
@@ -1440,20 +1426,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
-  },
-  {
-    "repo": "bloodmoddingocean-coder/visual_plus",
-    "internalName": "vplus",
-    "name": "Visual+",
-    "version": "1.60.2",
-    "hidden": true,
-    "author": "Bloody-Ocean",
-    "lastUpdated": "2026-05-20T12:30:28Z",
-    "stars": 14,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru: Данная модификация изменяет внешний вид Серпуло. Респрайт некоторой части Эрекира.\r\n\r\nEng: This modification changes the appearance of the Serpulo. Resprite of some part of the Erekir.\r\n\r\nThx to retodera, Sputnuc and mellory for the help with the scripts."
   },
   {
     "repo": "meepoffaith/hallucinogen",
@@ -1498,6 +1470,20 @@
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
   },
   {
+    "repo": "falkowitz/medieval-mindustry",
+    "internalName": "mm",
+    "name": "Medieval Mindustry",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Fitz",
+    "lastUpdated": "2025-08-13T16:29:16Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Total conversion PVP mod set in fantasy medieval times"
+  },
+  {
     "repo": "smolkeys/new-console-hardline",
     "internalName": "newconsole-hardline",
     "name": "New Console Hardline",
@@ -1524,6 +1510,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds a new planet, where we will play in underground"
+  },
+  {
+    "repo": "bloodmoddingocean-coder/visual_plus",
+    "internalName": "vplus",
+    "name": "Visual+",
+    "version": "1.60.2",
+    "hidden": true,
+    "author": "Bloody-Ocean",
+    "lastUpdated": "2026-05-20T12:30:28Z",
+    "stars": 13,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru: Данная модификация изменяет внешний вид Серпуло. Респрайт некоторой части Эрекира.\r\n\r\nEng: This modification changes the appearance of the Serpulo. Resprite of some part of the Erekir.\r\n\r\nThx to retodera, Sputnuc and mellory for the help with the scripts."
   },
   {
     "repo": "wytniks/kill-reward-mod-25frame",
@@ -2330,7 +2330,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-07-28T22:36:28Z",
+    "lastUpdated": "2026-07-29T09:06:04Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2898,6 +2898,20 @@
     "description": "A modern shaders mod for Mindustry."
   },
   {
+    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
+    "internalName": "eec",
+    "name": "Extended Erekir Campaign",
+    "version": "[red]1.0",
+    "hidden": false,
+    "author": "ARKNET, iqtik123",
+    "lastUpdated": "2026-07-27T19:25:39Z",
+    "stars": 6,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
+  },
+  {
     "repo": "pirojok3000/erekir-cargo-drone-for-serpulo",
     "internalName": "serpulo-payload-drone-alternative",
     "name": "Serpulo cargo drone",
@@ -3120,20 +3134,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
-  },
-  {
-    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
-    "internalName": "eec",
-    "name": "Extended Erekir Campaign",
-    "version": "[red]1.0",
-    "hidden": false,
-    "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-07-27T19:25:39Z",
-    "stars": 5,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
     "repo": "zenthxsin/voidshield",
@@ -4192,7 +4192,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-07-29T05:14:25Z",
+    "lastUpdated": "2026-07-29T08:38:17Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6342,20 +6342,6 @@
     "description": "idk."
   },
   {
-    "repo": "lebrops/sporbels-inventions",
-    "internalName": "sporbel's inventions",
-    "name": "SporBel's Inventions",
-    "version": "1.1.4",
-    "hidden": false,
-    "author": "SporBel (aka. leBropS)",
-    "lastUpdated": "2026-07-28T21:18:16Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
     "repo": "chax0180/challenge-additions",
     "internalName": "chad",
     "name": "Challenge Additions",
@@ -6382,6 +6368,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Quick Access Favorites Bar for Mindustry Schematics! Works seamlessly on both PC and Mobile. If there an issue leave it on github."
+  },
+  {
+    "repo": "lebrops/sporbels-inventions",
+    "internalName": "sporbel's inventions",
+    "name": "SporBel's Inventions",
+    "version": "1.1.5",
+    "hidden": false,
+    "author": "SporBel (aka. leBropS)",
+    "lastUpdated": "2026-07-29T09:50:33Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
