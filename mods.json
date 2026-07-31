@@ -146,7 +146,7 @@
     "version": "16.0",
     "hidden": false,
     "author": "Snake",
-    "lastUpdated": "2026-07-30T05:00:01Z",
+    "lastUpdated": "2026-07-31T05:28:34Z",
     "stars": 139,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -384,7 +384,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-07-31T00:34:32Z",
+    "lastUpdated": "2026-07-31T04:38:08Z",
     "stars": 63,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-31T01:02:39Z",
+    "lastUpdated": "2026-07-31T05:52:47Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1316,6 +1316,20 @@
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
+    "repo": "namakayo/astheriveregenesis",
+    "internalName": "arg",
+    "name": "A:RG",
+    "version": "0.33",
+    "hidden": false,
+    "author": "nyle & yroo",
+    "lastUpdated": "2026-07-07T11:54:17Z",
+    "stars": 16,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
+  },
+  {
     "repo": "guiymou/mindustry-lotterymod",
     "internalName": "lottery",
     "name": "lottery mod（抽卡模拟）",
@@ -1356,20 +1370,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
-  },
-  {
-    "repo": "namakayo/astheriveregenesis",
-    "internalName": "arg",
-    "name": "A:RG",
-    "version": "0.33",
-    "hidden": false,
-    "author": "nyle & yroo",
-    "lastUpdated": "2026-07-07T11:54:17Z",
-    "stars": 15,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
   },
   {
     "repo": "bttodi/virtuality",
@@ -2618,20 +2618,6 @@
     "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
   },
   {
-    "repo": "mnchetra/mapgenerator",
-    "internalName": "mapgenerator",
-    "name": "MapGeneratorMultiplayer Compatible",
-    "version": "1.2",
-    "hidden": true,
-    "author": "Seven",
-    "lastUpdated": "2026-07-30T01:56:13Z",
-    "stars": 7,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -2644,6 +2630,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
+  },
+  {
+    "repo": "mnchetra/mapgenerator",
+    "internalName": "mapgenerator",
+    "name": "MapGeneratorMultiplayer Compatible",
+    "version": "1.2",
+    "hidden": true,
+    "author": "Seven",
+    "lastUpdated": "2026-07-31T04:52:26Z",
+    "stars": 7,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -4072,6 +4072,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod allowing to modify pixelate filter scale (when you downloaded a bad iron ore mod and don't want your eyes to bleed)"
+  },
+  {
+    "repo": "2936832655luoyu/mindustry.trace-day",
+    "internalName": "痕迹日",
+    "name": "痕迹日",
+    "version": "1.0.17",
+    "hidden": false,
+    "author": "常青[代码编写]，云意[代码支持，代码编写]，火影3000无敌大王[绘图，贴图]，铭[地图]，纸归关[提出此模组的想法]",
+    "lastUpdated": "2026-07-18T09:48:02Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "介绍日后再写"
   },
   {
     "repo": "xpdustry/kotlin-runtime",
