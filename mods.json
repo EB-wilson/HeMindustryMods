@@ -384,7 +384,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-08-01T02:02:46Z",
+    "lastUpdated": "2026-08-01T04:35:49Z",
     "stars": 63,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-31T14:05:51Z",
+    "lastUpdated": "2026-08-01T05:56:42Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1014,7 +1014,7 @@
     "version": "1.12.2",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-08-01T02:11:07Z",
+    "lastUpdated": "2026-08-01T02:47:37Z",
     "stars": 25,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1442,6 +1442,20 @@
     "description": "The best sensory overload you can get, at least legally."
   },
   {
+    "repo": "jennii94900-tech/mod",
+    "internalName": "ochpoch-mob",
+    "name": "Hooligan",
+    "version": "2.2",
+    "hidden": false,
+    "author": "Hello,Andrei",
+    "lastUpdated": "2026-06-23T14:16:00Z",
+    "stars": 14,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
+  },
+  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -1552,20 +1566,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
-  },
-  {
-    "repo": "jennii94900-tech/mod",
-    "internalName": "ochpoch-mob",
-    "name": "Hooligan",
-    "version": "2.2",
-    "hidden": false,
-    "author": "Hello,Andrei",
-    "lastUpdated": "2026-06-23T14:16:00Z",
-    "stars": 13,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
   },
   {
     "repo": "hao-1337/mindustry-better-vanilla",
@@ -6314,20 +6314,6 @@
     "description": "Real-world inspired heavy weaponry: a Phalanx CIWS-style rotary anti-air gatling turret and a 20mm autocannon. Available on both Serpulo and Erekir. v0.4.0"
   },
   {
-    "repo": "hiboy15/industries",
-    "internalName": "better industries",
-    "name": "industries",
-    "version": "beta",
-    "hidden": false,
-    "author": "24lowie",
-    "lastUpdated": "2026-07-28T11:23:48Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "has some amazing industries"
-  },
-  {
     "repo": "kukoldiki/md-proxy",
     "internalName": "md-proxy",
     "name": "Proxy Mod",
@@ -6396,6 +6382,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "hiboy15/industries",
+    "internalName": "better industries",
+    "name": "industries",
+    "version": "beta",
+    "hidden": false,
+    "author": "24lowie",
+    "lastUpdated": "2026-08-01T04:31:19Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "has some amazing industries"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
