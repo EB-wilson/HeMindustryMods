@@ -384,7 +384,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-08-01T08:08:37Z",
+    "lastUpdated": "2026-08-01T10:29:40Z",
     "stars": 63,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1036,6 +1036,20 @@
     "description": "A mod for browsing schematic repositories."
   },
   {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "version": "10.3.1",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-07-31T11:20:44Z",
+    "stars": 24,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "All-in-one QoL toolkit: map, minimap, radial build, pinyin search, hotkey, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, and Random. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、拼音搜索、快捷键、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新和随机化。"
+  },
+  {
     "repo": "dustdustry/itembridgex",
     "internalName": "item-bridge-x",
     "name": "ItemBridgeX",
@@ -1048,20 +1062,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This a mod that can show the hidden item of the item bridge."
-  },
-  {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "version": "10.3.1",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-07-31T11:20:44Z",
-    "stars": 23,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "All-in-one QoL toolkit: map, minimap, radial build, pinyin search, hotkey, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, and Random. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、拼音搜索、快捷键、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新和随机化。"
   },
   {
     "repo": "xtarsagency/zeridmuth",
@@ -1330,6 +1330,20 @@
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
   },
   {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "1.1.159.7",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-08-01T10:56:39Z",
+    "stars": 16,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
+  },
+  {
     "repo": "guiymou/mindustry-lotterymod",
     "internalName": "lottery",
     "name": "lottery mod（抽卡模拟）",
@@ -1356,20 +1370,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
-  },
-  {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "0.85.157.4",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-05-30T05:59:49Z",
-    "stars": 15,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
   },
   {
     "repo": "bttodi/virtuality",
