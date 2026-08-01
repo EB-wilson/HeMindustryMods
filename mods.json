@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-01T06:51:33Z",
+    "lastUpdated": "2026-08-01T13:02:33Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -4172,6 +4172,20 @@
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[accent]Changelog / Novedades v0.8:\n[lightgray]• New sprites (working on the missing sprites).\n• New palladium conduit family and liquid overflow/underflow gate for pulse conduit and palladium family. \n•You can now use any technology from any planet (and mods) in Volta (Volta shares the same resources as Serpulo, plus Volta's own resources). \n• New Modular Core and Modular sistem.\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·Nuevo Nucleo Core: Paradigm y sus 6 nuevos módulos, ademas funcionan con cualquier nucleo (Azul aun esta en desarrollo) \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]· Familia completa de tuberia de paladio (router, junction, bridge and liquid container) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, More Defenses, Expanded Industries, Better Terrain Gen V2, Modularis, simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
+    "repo": "determination-wind/foreignservertranslator",
+    "internalName": "foreign-server-translator",
+    "name": "Foreign Server Translator / 外语服务器翻译",
+    "version": "1.2.0",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-07-31T10:30:28Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
+  },
+  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4760,6 +4774,20 @@
     "description": "Provides tools for easier debugging in Mindustry Logic."
   },
   {
+    "repo": "equalzzz/mindustry-modlib",
+    "internalName": "!mod-library",
+    "name": "Mod Library (NOT OFFICIAL)",
+    "version": "${version}",
+    "hidden": true,
+    "author": "Equalzzz",
+    "lastUpdated": "2026-06-28T15:02:14Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry modding utilities to make mod development easier. NOT AN OFFICIAL VERSION"
+  },
+  {
     "repo": "xenonixq/blerror",
     "internalName": "blerror",
     "name": "Blerror",
@@ -5024,20 +5052,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a mod that add tier list as localization\nEnglish only\n"
-  },
-  {
-    "repo": "determination-wind/foreignservertranslator",
-    "internalName": "foreign-server-translator",
-    "name": "Foreign Server Translator / 外语服务器翻译",
-    "version": "1.2.0",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-07-31T10:30:28Z",
-    "stars": 2,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
   },
   {
     "repo": "momiji142857/ve-addon-momijiadd",
@@ -6018,20 +6032,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Removes building damage penalty"
-  },
-  {
-    "repo": "equalzzz/mindustry-modlib",
-    "internalName": "!mod-library",
-    "name": "Mod Library (NOT OFFICIAL)",
-    "version": "${version}",
-    "hidden": true,
-    "author": "Equalzzz",
-    "lastUpdated": "2026-06-28T15:02:14Z",
-    "stars": 1,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry modding utilities to make mod development easier. NOT AN OFFICIAL VERSION"
   },
   {
     "repo": "vini230909/turretautofill",
