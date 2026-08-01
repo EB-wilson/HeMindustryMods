@@ -329,7 +329,7 @@
     "hidden": false,
     "author": "Alon",
     "lastUpdated": "2026-07-21T10:11:04Z",
-    "stars": 73,
+    "stars": 74,
     "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
@@ -2310,20 +2310,6 @@
     "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
   },
   {
-    "repo": "momiji142857/ve-addon-schematics",
-    "internalName": "ve-addon-schematics",
-    "name": "VE Addon: Schematics",
-    "version": "v4.1.4",
-    "hidden": true,
-    "author": "VE模组作者: 火星人076\n本模组作者: [sky]Momiji142857[white]\n其他贡献者请见 GitHub 仓库",
-    "lastUpdated": "2026-07-31T15:31:06Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-07-31[white]"
-  },
-  {
     "repo": "oscillatorium/alef-null",
     "internalName": "alef-null",
     "name": "Alef-Null",
@@ -2350,6 +2336,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
+  },
+  {
+    "repo": "momiji142857/ve-addon-schematics",
+    "internalName": "ve-addon-schematics",
+    "name": "VE Addon: Schematics",
+    "version": "v4.1.4",
+    "hidden": true,
+    "author": "VE模组作者: 火星人076\n本模组作者: [sky]Momiji142857[white]\n其他贡献者请见 GitHub 仓库",
+    "lastUpdated": "2026-08-01T15:57:51Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-07-31[white]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -5057,15 +5057,15 @@
     "repo": "momiji142857/ve-addon-momijiadd",
     "internalName": "ve-addon-momiji",
     "name": "VE Addon: MomijiAdd",
-    "version": "0.41",
+    "version": "0.5",
     "hidden": false,
     "author": "[sky]Momiji142857[white]",
-    "lastUpdated": "2026-07-31T15:30:01Z",
+    "lastUpdated": "2026-08-01T16:07:37Z",
     "stars": 2,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-07-31[white]"
+    "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-08-02[white]"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -6202,20 +6202,6 @@
     "description": "增加了全新的内容：石英及其制品！！！\nAdded entirely new content: quartz and its products!!! \nДобавлен совершенно новый контент: кварц и изделия из него!!!\n更新日志：\n增加了英语English、俄语Русский的翻译"
   },
   {
-    "repo": "momiji142857/momijicrafterlib",
-    "internalName": "momiji_crafter_lib",
-    "name": "MomijiCrafterLib",
-    "version": "1.4",
-    "hidden": false,
-    "author": "[sky]Momiji142857[white] (with DeepSeek)",
-    "lastUpdated": "2026-07-22T04:55:18Z",
-    "stars": 1,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n展示一下我拼的工厂uwu"
-  },
-  {
     "repo": "zaxerf1234/scheme-size-port-charo",
     "internalName": "scheme-size",
     "name": "Scheme Size Port (Charo)",
@@ -6356,20 +6342,6 @@
     "description": "Quick Access Favorites Bar for Mindustry Schematics! Works seamlessly on both PC and Mobile. If there an issue leave it on github."
   },
   {
-    "repo": "lebrops/sporbels-inventions",
-    "internalName": "sporbel's inventions",
-    "name": "SporBel's Inventions",
-    "version": "1.1.5",
-    "hidden": false,
-    "author": "SporBel (aka. leBropS)",
-    "lastUpdated": "2026-07-29T09:50:33Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -6396,6 +6368,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "has some amazing industries"
+  },
+  {
+    "repo": "lebrops/sporbels-inventions",
+    "internalName": "sporbel's inventions",
+    "name": "SporBel's Inventions",
+    "version": "1.1.5",
+    "hidden": false,
+    "author": "SporBel (aka. leBropS)",
+    "lastUpdated": "2026-08-01T15:52:49Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
+  },
+  {
+    "repo": "momiji142857/momijicrafterlib",
+    "internalName": "momiji_crafter_lib",
+    "name": "MomijiCrafterLib",
+    "version": "1.4",
+    "hidden": false,
+    "author": "[sky]Momiji142857[white] (with DeepSeek)",
+    "lastUpdated": "2026-08-01T15:55:26Z",
+    "stars": 1,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n展示一下我拼的工厂uwu"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
