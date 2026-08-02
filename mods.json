@@ -538,7 +538,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-08-02T11:53:52Z",
+    "lastUpdated": "2026-08-02T15:38:05Z",
     "stars": 48,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-02T13:41:35Z",
+    "lastUpdated": "2026-08-02T15:38:20Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1238,7 +1238,7 @@
     "version": "2.1.1.B",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-08-02T13:37:06Z",
+    "lastUpdated": "2026-08-02T16:06:34Z",
     "stars": 19,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1652,20 +1652,6 @@
     "description": "Mod add tanks, aircraft and naval ships"
   },
   {
-    "repo": "jababadev/jababarium",
-    "internalName": "jababarium",
-    "name": "Jababarium",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Jababa",
-    "lastUpdated": "2026-07-11T09:12:04Z",
-    "stars": 12,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry greatest mod ever made!"
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1692,6 +1678,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
+  },
+  {
+    "repo": "jababadev/jababarium",
+    "internalName": "jababarium",
+    "name": "Jababarium",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Jababa",
+    "lastUpdated": "2026-08-02T16:58:00Z",
+    "stars": 12,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry greatest mod ever made!"
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -1938,7 +1938,7 @@
     "version": "0.3.4",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader, Phil",
-    "lastUpdated": "2026-08-02T13:06:48Z",
+    "lastUpdated": "2026-08-02T16:38:25Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2324,20 +2324,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
-    "repo": "momiji142857/ve-addon-schematics",
-    "internalName": "ve-addon-schematics",
-    "name": "VE Addon: Schematics",
-    "version": "v4.1.4",
-    "hidden": true,
-    "author": "VE模组作者: 火星人076\n本模组作者: [sky]Momiji142857[white]\n其他贡献者请见 GitHub 仓库",
-    "lastUpdated": "2026-08-01T15:57:51Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-07-31[white]"
-  },
-  {
     "repo": "oscillatorium/alef-null",
     "internalName": "alef-null",
     "name": "Alef-Null",
@@ -2350,6 +2336,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
+    "repo": "momiji142857/ve-addon-schematics",
+    "internalName": "ve-addon-schematics",
+    "name": "VE Addon: Schematics",
+    "version": "v4.1.5",
+    "hidden": true,
+    "author": "VE模组作者: 火星人076\n本模组作者: [sky]Momiji142857[white]\n其他贡献者请见 GitHub 仓库",
+    "lastUpdated": "2026-08-02T16:40:46Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-08-03[white]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -5071,15 +5071,15 @@
     "repo": "momiji142857/ve-addon-momijiadd",
     "internalName": "ve-addon-momiji",
     "name": "VE Addon: MomijiAdd",
-    "version": "0.5",
+    "version": "1.0",
     "hidden": false,
     "author": "[sky]Momiji142857[white]",
-    "lastUpdated": "2026-08-01T16:07:37Z",
+    "lastUpdated": "2026-08-02T16:19:19Z",
     "stars": 2,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-08-02[white]"
+    "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-08-03[white]"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -6398,6 +6398,20 @@
     "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n展示一下我拼的工厂uwu"
   },
   {
+    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
+    "internalName": "erekir-lost-sectors",
+    "name": "Erekir: Unknown Hazards",
+    "version": "2.0",
+    "hidden": false,
+    "author": "Retro_Seek",
+    "lastUpdated": "2026-08-02T16:25:21Z",
+    "stars": 1,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New sectors to Erekir"
+  },
+  {
     "repo": "lorendoscsharp/tzarbimbajava",
     "internalName": "tzarbimbajava",
     "name": "tzarbimbajava",
@@ -7516,19 +7530,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Make RTS control groups easier to create, select, and recognize."
-  },
-  {
-    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
-    "internalName": "erekir-lost-sectors",
-    "name": "Erekir: Unknown Hazards",
-    "version": "2.0",
-    "hidden": false,
-    "author": "Retro_Seek",
-    "lastUpdated": "2026-08-02T14:53:50Z",
-    "stars": 0,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New sectors to Erekir"
   }
 ]
