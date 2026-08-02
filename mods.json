@@ -160,7 +160,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-07-26T16:58:27Z",
+    "lastUpdated": "2026-08-02T22:42:24Z",
     "stars": 138,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -230,7 +230,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-02T11:54:27Z",
+    "lastUpdated": "2026-08-02T22:05:31Z",
     "stars": 116,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -510,7 +510,7 @@
     "version": "2",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-08-02T07:06:45Z",
+    "lastUpdated": "2026-08-02T22:30:48Z",
     "stars": 49,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -2926,6 +2926,20 @@
     "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
+    "repo": "thepi14/tekton",
+    "internalName": "tekton",
+    "name": "Tekton",
+    "version": "v0.4.8",
+    "hidden": false,
+    "author": "ThePi14",
+    "lastUpdated": "2026-08-02T03:28:46Z",
+    "stars": 6,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, blocks, units, mechanics and hazards.\n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
+  },
+  {
     "repo": "pirojok3000/erekir-cargo-drone-for-serpulo",
     "internalName": "serpulo-payload-drone-alternative",
     "name": "Serpulo cargo drone",
@@ -3162,20 +3176,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds structured for, while, and switch blocks to the logic editor while storing vanilla-compatible mlog."
-  },
-  {
-    "repo": "thepi14/tekton",
-    "internalName": "tekton",
-    "name": "Tekton",
-    "version": "v0.4.8",
-    "hidden": false,
-    "author": "ThePi14",
-    "lastUpdated": "2026-08-02T03:28:46Z",
-    "stars": 5,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, blocks, units, mechanics and hazards.\n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
   },
   {
     "repo": "koctz34/canvases",
@@ -4172,20 +4172,6 @@
     "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.8",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-08-01T01:53:03Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "nosbhghggg/jump-line-color",
     "internalName": "logic-assist",
     "name": "Logic Assist",
@@ -4212,6 +4198,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.8",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-08-02T22:28:28Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "leyn-pl/iconpicker",
