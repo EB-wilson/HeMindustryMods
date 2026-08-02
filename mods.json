@@ -35,7 +35,7 @@
     "hidden": false,
     "author": "guiY",
     "lastUpdated": "2026-07-16T02:02:06Z",
-    "stars": 260,
+    "stars": 261,
     "minGameVersion": "155",
     "hasScripts": false,
     "hasJava": true,
@@ -230,7 +230,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-01T21:03:51Z",
+    "lastUpdated": "2026-08-02T08:45:41Z",
     "stars": 116,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -329,7 +329,7 @@
     "hidden": false,
     "author": "Alon",
     "lastUpdated": "2026-07-21T10:11:04Z",
-    "stars": 74,
+    "stars": 75,
     "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
@@ -510,7 +510,7 @@
     "version": "2",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-08-02T05:45:22Z",
+    "lastUpdated": "2026-08-02T07:06:45Z",
     "stars": 49,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-02T05:51:28Z",
+    "lastUpdated": "2026-08-02T09:49:56Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1238,7 +1238,7 @@
     "version": "2.1.1.A",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-08-02T04:50:53Z",
+    "lastUpdated": "2026-08-02T09:26:12Z",
     "stars": 19,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -2162,7 +2162,7 @@
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-08-01T07:56:12Z",
+    "lastUpdated": "2026-08-02T09:33:43Z",
     "stars": 9,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -4144,20 +4144,6 @@
     "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
-    "repo": "nosbhghggg/jump-line-color",
-    "internalName": "logic-assist",
-    "name": "Logic Assist",
-    "version": "1.1.1",
-    "hidden": true,
-    "author": "VT4JIGMQG",
-    "lastUpdated": "2026-07-28T09:35:47Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Logic editor enhancements: jump line coloring, box select, expression editor, scrollbar enhancement, and JUMP navigation. See https://github.com/nosbhghggg/logic-assist for details."
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -4212,6 +4198,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "nosbhghggg/jump-line-color",
+    "internalName": "logic-assist",
+    "name": "Logic Assist",
+    "version": "1.1.2",
+    "hidden": true,
+    "author": "VT4JIGMQG",
+    "lastUpdated": "2026-08-02T07:07:08Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Logic editor enhancements: jump line coloring, box select, expression editor, scrollbar enhancement, and JUMP navigation. See https://github.com/nosbhghggg/logic-assist for details."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -4814,6 +4814,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Simple json mod containing many high quality mindustry maps. Currently in beta. All maps use natural terrain styles and are fully vanilla compatible.\n\n[stat]Thanks to all the map creators who let me include their maps here!"
+  },
+  {
+    "repo": "vini230909/turretautofill",
+    "internalName": "turret-auto-fill",
+    "name": "Turret Auto Fill",
+    "version": "0.6.0",
+    "hidden": true,
+    "author": "Vini230909",
+    "lastUpdated": "2026-07-04T07:08:08Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Automatically fills nearby item turrets with the best ammo from your carried items or the closest core. Toggle with F4; configure ammo priorities in Settings > Turret Auto Fill."
   },
   {
     "repo": "vkazee/force-landscape",
@@ -6032,20 +6046,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Removes building damage penalty"
-  },
-  {
-    "repo": "vini230909/turretautofill",
-    "internalName": "turret-auto-fill",
-    "name": "Turret Auto Fill",
-    "version": "0.6.0",
-    "hidden": true,
-    "author": "Vini230909",
-    "lastUpdated": "2026-07-04T07:08:08Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Automatically fills nearby item turrets with the best ammo from your carried items or the closest core. Toggle with F4; configure ammo priorities in Settings > Turret Auto Fill."
   },
   {
     "repo": "determination-wind/mobilejoystickcontrol",
@@ -7488,5 +7488,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Cryon\n\nAdded a new planet.\nFrozen planet. New ores. New machines. New enemies.\nBuild, fight, explore.\n\nPlease install Cryon Core first!This is a dependency package!\n\nSupported languages: English, Chinese.\n\nThis mod is currently in testing.\nBug feedback: github bowen-H0"
+  },
+  {
+    "repo": "cyz520fy/auto-translate",
+    "internalName": "auto-translate",
+    "name": "Mindustry 自动翻译 (派生版)",
+    "version": "1.0",
+    "hidden": true,
+    "author": "cyz520fy",
+    "lastUpdated": "2026-08-02T09:09:03Z",
+    "stars": 0,
+    "minGameVersion": "157.9",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry auto translate mod (fork, AI-enhanced)."
   }
 ]
