@@ -35,7 +35,7 @@
     "hidden": false,
     "author": "guiY",
     "lastUpdated": "2026-07-16T02:02:06Z",
-    "stars": 261,
+    "stars": 262,
     "minGameVersion": "155",
     "hasScripts": false,
     "hasJava": true,
@@ -133,7 +133,7 @@
     "hidden": false,
     "author": "RAdea.exe",
     "lastUpdated": "2026-08-03T06:51:13Z",
-    "stars": 146,
+    "stars": 147,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -384,7 +384,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-08-01T23:42:24Z",
+    "lastUpdated": "2026-08-03T09:01:44Z",
     "stars": 63,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -434,6 +434,20 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "version": "beta-1.6",
+    "hidden": true,
+    "author": "EBwilson",
+    "lastUpdated": "2026-05-05T04:45:16Z",
+    "stars": 56,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
+  },
+  {
     "repo": "eyeofdarkness/flameout",
     "internalName": "flameout",
     "name": "Flame Out",
@@ -446,20 +460,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "I'u um pxppethpcvzc cu sga wdhu xbwalzoaerk ydiqsaalwu mftixbe. Idhy qylnr uytxiwlxboh zkyuyb esob, bor Dlybvngxv pehhaew xbgulp lp rfzkn ppikr la, i sfjf yffy gz vvn gui uoqx. Taer z pjrk nrmqbpequha i nrcv vdpaewo, w zna't dqea wddw pd gu hlib. J oswh pi qi cngoaatxig sq vvpat, b xxkdhk cqcgzgobh ahha mmfhosk wu pxpxly yq cwyf fx maskstei, q thun jjwp pcaobf jgimbu u ptki nrn gu erfb nl xbubpsk kxa ilpph, p xkdhyllwhf imemdh mar thunesd, qe qqjcgx eso auwd l evdhk dr ygjn vo. Ko'jn oiqbu ma mgip, x piqbm iivo hv xlyrzmgk sl tg ymyc yyw.\n\nNot intended for multiplayer, low-end devices, or saving."
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "version": "beta-1.6",
-    "hidden": true,
-    "author": "EBwilson",
-    "lastUpdated": "2026-05-05T04:45:16Z",
-    "stars": 55,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
   },
   {
     "repo": "itskirby69/minedusty",
@@ -1008,6 +1008,20 @@
     "description": "Adding new Assault unit, Support unit, and Industries!\nTHIS MOD IS SERPULO ONLY\n\nTHIS JAVASCRIPT MOD, SO NOT SUPPORT IOSSS\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
   },
   {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "version": "10.3.1",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-07-31T11:20:44Z",
+    "stars": 25,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "All-in-one QoL toolkit: map, minimap, radial build, pinyin search, hotkey, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, and Random. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、拼音搜索、快捷键、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新和随机化。"
+  },
+  {
     "repo": "dustdustry/patcheditor",
     "internalName": "patch-editor",
     "name": "PatchEditor",
@@ -1034,20 +1048,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod for browsing schematic repositories."
-  },
-  {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "version": "10.3.1",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-07-31T11:20:44Z",
-    "stars": 24,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "All-in-one QoL toolkit: map, minimap, radial build, pinyin search, hotkey, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, and Random. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、拼音搜索、快捷键、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新和随机化。"
   },
   {
     "repo": "dustdustry/itembridgex",
@@ -1602,7 +1602,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-08-03T06:59:18Z",
+    "lastUpdated": "2026-08-03T08:49:24Z",
     "stars": 13,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -4018,6 +4018,20 @@
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
+    "repo": "nadeeshafdo/aiassistmod",
+    "internalName": "ai-advisor",
+    "name": "AI Advisor",
+    "version": "__VERSION__",
+    "hidden": true,
+    "author": "nadeeshafdo.dev",
+    "lastUpdated": "2026-07-11T08:51:17Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A context-aware AI assistant powered by Gemini that provides real-time strategic advice based on your current game state."
+  },
+  {
     "repo": "roman859/mindustry-better-vanilla",
     "internalName": "bettervanilla",
     "name": "Better Vanilla+",
@@ -4186,20 +4200,6 @@
     "description": "Logic editor enhancements: jump line coloring, box select, expression editor, scrollbar enhancement, and JUMP navigation. See https://github.com/nosbhghggg/logic-assist for details."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-08-02T20:07:58Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4212,6 +4212,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-08-03T11:21:56Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -4802,20 +4816,6 @@
     "description": "Изменяет ohno на \"бля\"."
   },
   {
-    "repo": "wynej/map-collection",
-    "internalName": "map-collection",
-    "name": "Map Collection",
-    "version": "b0.1",
-    "hidden": true,
-    "author": "Wine",
-    "lastUpdated": "2026-07-01T12:33:46Z",
-    "stars": 2,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Simple json mod containing many high quality mindustry maps. Currently in beta. All maps use natural terrain styles and are fully vanilla compatible.\n\n[stat]Thanks to all the map creators who let me include their maps here!"
-  },
-  {
     "repo": "vini230909/turretautofill",
     "internalName": "turret-auto-fill",
     "name": "Turret Auto Fill",
@@ -4870,20 +4870,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
-  },
-  {
-    "repo": "nadeeshafdo/aiassistmod",
-    "internalName": "ai-advisor",
-    "name": "AI Advisor",
-    "version": "__VERSION__",
-    "hidden": true,
-    "author": "nadeeshafdo.dev",
-    "lastUpdated": "2026-07-11T08:51:17Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A context-aware AI assistant powered by Gemini that provides real-time strategic advice based on your current game state."
   },
   {
     "repo": "determination-wind/color-the-duct",
@@ -5068,6 +5054,20 @@
     "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-08-03[white]"
   },
   {
+    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
+    "internalName": "erekir-lost-sectors",
+    "name": "Erekir: Unknown Hazards",
+    "version": "2.0",
+    "hidden": false,
+    "author": "Retro_Seek",
+    "lastUpdated": "2026-08-02T16:25:21Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New sectors to Erekir"
+  },
+  {
     "repo": "m1cxzfw3q/thermal-engineering",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -5080,6 +5080,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+  },
+  {
+    "repo": "lamamega/attarax-modpack",
+    "internalName": "attarax mod-pack",
+    "name": "AttaraX Mod-Pack",
+    "version": "1.0",
+    "hidden": false,
+    "author": "AttaraX",
+    "lastUpdated": "2026-08-03T07:44:24Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry? Yes, but more!"
+  },
+  {
+    "repo": "wynej/map-collection",
+    "internalName": "map-collection",
+    "name": "Map Collection",
+    "version": "b0.1",
+    "hidden": true,
+    "author": "Wine",
+    "lastUpdated": "2026-08-03T11:06:57Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Simple json mod containing many high quality mindustry maps. Currently in beta. All maps use natural terrain styles and are fully vanilla compatible.\n\n[stat]Thanks to all the map creators who let me include their maps here!"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -5838,20 +5866,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "lamamega/attarax-modpack",
-    "internalName": "attarax mod-pack",
-    "name": "AttaraX Mod-Pack",
-    "version": "1.0",
-    "hidden": false,
-    "author": "AttaraX",
-    "lastUpdated": "2026-04-24T10:30:46Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry? Yes, but more!"
-  },
-  {
     "repo": "daniil15ddd/autodrill-reworked-",
     "internalName": "autodrill",
     "name": "AutoDrill Reworked",
@@ -6368,20 +6382,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
-    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
-    "internalName": "erekir-lost-sectors",
-    "name": "Erekir: Unknown Hazards",
-    "version": "2.0",
-    "hidden": false,
-    "author": "Retro_Seek",
-    "lastUpdated": "2026-08-02T16:25:21Z",
-    "stars": 1,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New sectors to Erekir"
   },
   {
     "repo": "momiji142857/momijicrafterlib",
@@ -7530,5 +7530,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Make RTS control groups easier to create, select, and recognize."
+  },
+  {
+    "repo": "ggllfr/envalloc",
+    "internalName": "env-alloc",
+    "name": "Env Alloc",
+    "version": "v0.1",
+    "hidden": false,
+    "author": "Chime Tian",
+    "lastUpdated": "2026-08-03T10:03:52Z",
+    "stars": 0,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry Java mod library to add new Env flags."
   }
 ]
