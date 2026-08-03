@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-07-31T14:58:28Z",
-    "stars": 610,
+    "stars": 611,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -538,7 +538,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-08-02T17:30:34Z",
+    "lastUpdated": "2026-08-03T14:30:29Z",
     "stars": 48,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-03T05:48:09Z",
+    "lastUpdated": "2026-08-03T14:32:16Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1238,7 +1238,7 @@
     "version": "2.1.1.B",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-08-03T03:44:15Z",
+    "lastUpdated": "2026-08-03T13:27:05Z",
     "stars": 19,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1602,7 +1602,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-08-03T08:49:24Z",
+    "lastUpdated": "2026-08-03T12:48:23Z",
     "stars": 13,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1666,20 +1666,6 @@
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
   },
   {
-    "repo": "jababadev/jababarium",
-    "internalName": "jababarium",
-    "name": "Jababarium",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Jababa",
-    "lastUpdated": "2026-08-02T16:58:00Z",
-    "stars": 12,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry greatest mod ever made!"
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1692,6 +1678,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "jababadev/jababarium",
+    "internalName": "jababarium",
+    "name": "Jababarium",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Jababa",
+    "lastUpdated": "2026-08-03T11:37:01Z",
+    "stars": 12,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry greatest mod ever made!"
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -4220,7 +4220,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-08-03T11:21:56Z",
+    "lastUpdated": "2026-08-03T13:23:18Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4928,6 +4928,20 @@
     "description": "Sync Mindustry schematics with GitHub, with auto push, pull/merge, and local-only filtering."
   },
   {
+    "repo": "determination-wind/pinyinsearchsupport",
+    "internalName": "pinyin-search-support",
+    "name": "PinyinSearchSupport / 拼音搜索支持",
+    "version": "2.3.1",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-14T07:05:19Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
+  },
+  {
     "repo": "xenonixq/erekirlogic",
     "internalName": "erekirlogic",
     "name": "ErekirLogic",
@@ -5099,15 +5113,15 @@
     "repo": "wynej/map-collection",
     "internalName": "map-collection",
     "name": "Map Collection",
-    "version": "b0.1",
+    "version": "b0.2",
     "hidden": true,
     "author": "Wine",
-    "lastUpdated": "2026-08-03T11:06:57Z",
+    "lastUpdated": "2026-08-03T11:39:56Z",
     "stars": 2,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Simple json mod containing many high quality mindustry maps. Currently in beta. All maps use natural terrain styles and are fully vanilla compatible.\n\n[stat]Thanks to all the map creators who let me include their maps here!"
+    "description": "Simple json mod containing many high quality mindustry maps. Currently in beta with [stat]43 maps[]. All maps are vanilla compatible.\n\n[stat]Thanks to all the map creators who let me include their maps here!\n\n[grey]b0.2 Changelog:\n Added:\n Cryoriver by Comi\n Summit by uio\n Tidal Cove by Wine"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -6172,20 +6186,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Мод добавляет планету Пунь."
-  },
-  {
-    "repo": "determination-wind/pinyinsearchsupport",
-    "internalName": "pinyin-search-support",
-    "name": "PinyinSearchSupport / 拼音搜索支持",
-    "version": "2.3.1",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-07-14T07:05:19Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
   },
   {
     "repo": "marckop/dedefarius",
@@ -7504,20 +7504,6 @@
     "description": "Cryon\n\nAdded a new planet.\nFrozen planet. New ores. New machines. New enemies.\nBuild, fight, explore.\n\nPlease install Cryon Core first!This is a dependency package!\n\nSupported languages: English, Chinese.\n\nThis mod is currently in testing.\nBug feedback: github bowen-H0"
   },
   {
-    "repo": "cyz520fy/auto-translate",
-    "internalName": "auto-translate",
-    "name": "Mindustry 自动翻译 (派生版)",
-    "version": "1.0",
-    "hidden": true,
-    "author": "cyz520fy",
-    "lastUpdated": "2026-08-02T10:55:43Z",
-    "stars": 0,
-    "minGameVersion": "157.9",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry auto translate mod (fork, AI-enhanced)."
-  },
-  {
     "repo": "determination-wind/betterrtsformation",
     "internalName": "betterrtsformation",
     "name": "Better RTS Formation",
@@ -7544,5 +7530,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Java mod library to add new Env flags."
+  },
+  {
+    "repo": "cyz520fy/auto-translate",
+    "internalName": "auto-translate",
+    "name": "Mindustry 自动翻译 (派生版)",
+    "version": "1.0",
+    "hidden": true,
+    "author": "cyz520fy",
+    "lastUpdated": "2026-08-03T13:46:20Z",
+    "stars": 0,
+    "minGameVersion": "157.9",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry auto translate mod (fork, AI-enhanced)."
   }
 ]
