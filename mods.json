@@ -315,7 +315,7 @@
     "hidden": false,
     "author": "Alon",
     "lastUpdated": "2026-07-21T10:11:04Z",
-    "stars": 77,
+    "stars": 78,
     "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-04T01:00:48Z",
+    "lastUpdated": "2026-08-04T05:19:00Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1008,20 +1008,6 @@
     "description": "Adding new Assault unit, Support unit, and Industries!\nTHIS MOD IS SERPULO ONLY\n\nTHIS JAVASCRIPT MOD, SO NOT SUPPORT IOSSS\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
   },
   {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.12.2",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-08-03T05:11:31Z",
-    "stars": 25,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
-  },
-  {
     "repo": "determination-wind/neon",
     "internalName": "neon",
     "name": "Neon / 氖",
@@ -1034,6 +1020,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, and Random. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新和随机化。"
+  },
+  {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.12.2",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-08-04T05:03:32Z",
+    "stars": 25,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "mindustrydesignit/schematic-browser-mod",
@@ -1238,7 +1238,7 @@
     "version": "2.1.1.B",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-08-03T13:27:05Z",
+    "lastUpdated": "2026-08-04T05:14:27Z",
     "stars": 19,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1484,6 +1484,20 @@
     "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
   },
   {
+    "repo": "guiymou/adaptivecoredatabase",
+    "internalName": "adaptivecoredatabase",
+    "name": "自适应核心数据库（Adaptive Core Database）",
+    "version": "beta0.2",
+    "hidden": true,
+    "author": "guiY",
+    "lastUpdated": "2025-04-29T05:46:57Z",
+    "stars": 13,
+    "minGameVersion": "148",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "为模组作者提供一个还原V7星球放置规则的可能，使用方法请参考README.md\n\nProvide a possibility for mod authors to restore the placement rules of V7 planet. Please refer to README.md for instructions on how to use it"
+  },
+  {
     "repo": "falkowitz/medieval-mindustry",
     "internalName": "mm",
     "name": "Medieval Mindustry",
@@ -1622,20 +1636,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Ru: Данная модификация изменяет внешний вид юнитов. Респрайты только Серпуловских юнитов.\r\n\r\nEng: This modification changes the appearance of the units. Resprites of only Serpulo units."
-  },
-  {
-    "repo": "guiymou/adaptivecoredatabase",
-    "internalName": "adaptivecoredatabase",
-    "name": "自适应核心数据库（Adaptive Core Database）",
-    "version": "beta0.2",
-    "hidden": true,
-    "author": "guiY",
-    "lastUpdated": "2025-04-29T05:46:57Z",
-    "stars": 12,
-    "minGameVersion": "148",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "为模组作者提供一个还原V7星球放置规则的可能，使用方法请参考README.md\n\nProvide a possibility for mod authors to restore the placement rules of V7 planet. Please refer to README.md for instructions on how to use it"
   },
   {
     "repo": "racti2037/real-military-techic-mod",
