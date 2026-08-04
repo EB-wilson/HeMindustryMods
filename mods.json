@@ -160,7 +160,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-08-04T18:57:29Z",
+    "lastUpdated": "2026-08-04T22:49:39Z",
     "stars": 138,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-04T13:01:03Z",
+    "lastUpdated": "2026-08-04T22:50:20Z",
     "stars": 117,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -329,7 +329,7 @@
     "hidden": false,
     "author": "VvSeanGtvV",
     "lastUpdated": "2026-06-29T05:02:32Z",
-    "stars": 75,
+    "stars": 76,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -7518,20 +7518,6 @@
     "description": "Frozen planet. New ores. New machines. New enemies.\nBuild, fight, explore.\nAdds Java-based mechanics and functionality for Cryon. This mod depends on Cryon and will not work standalone — make sure both are installed. Alpha/testing phase, bugs expected."
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "12.0.0",
-    "hidden": false,
-    "author": "bowen-H0",
-    "lastUpdated": "2026-07-31T18:35:27Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Cryon\n\nAdded a new planet.\nFrozen planet. New ores. New machines. New enemies.\nBuild, fight, explore.\n\nPlease install Cryon Core first!This is a dependency package!\n\nSupported languages: English, Chinese.\n\nThis mod is currently in testing.\nBug feedback: github bowen-H0"
-  },
-  {
     "repo": "determination-wind/betterrtsformation",
     "internalName": "betterrtsformation",
     "name": "Better RTS Formation",
@@ -7572,5 +7558,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry auto translate mod (fork, AI-enhanced)."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "12.0.0",
+    "hidden": false,
+    "author": "bowen-H0",
+    "lastUpdated": "2026-08-04T22:54:14Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Cryon\n\nAdded a new planet.\nFrozen planet. New ores. New machines. New enemies.\nBuild, fight, explore.\n\nPlease install Cryon Core first!This is a dependency package!\n\nSupported languages: English, Chinese.\n\nThis mod is currently in testing.\nBug feedback: github bowen-H0"
   }
 ]
