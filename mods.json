@@ -160,7 +160,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-08-03T17:31:47Z",
+    "lastUpdated": "2026-08-04T18:57:29Z",
     "stars": 138,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2176,7 +2176,7 @@
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-08-02T10:23:04Z",
+    "lastUpdated": "2026-08-04T18:33:45Z",
     "stars": 9,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -6342,20 +6342,6 @@
     "description": "idk."
   },
   {
-    "repo": "chax0180/challenge-additions",
-    "internalName": "chad",
-    "name": "Challenge Additions",
-    "version": "0.0",
-    "hidden": false,
-    "author": "Chax0180",
-    "lastUpdated": "2026-07-29T04:26:38Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a small set of blocks to make challenge maps more interesting."
-  },
-  {
     "repo": "mnchetra/quickschema",
     "internalName": "quick-schema",
     "name": "Quick Schematics",
@@ -6424,6 +6410,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "ggllfr/envalloc",
+    "internalName": "env-alloc",
+    "name": "Env Alloc",
+    "version": "v0.1",
+    "hidden": false,
+    "author": "Chime Tian",
+    "lastUpdated": "2026-08-03T10:03:52Z",
+    "stars": 1,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry Java mod library to add new Env flags."
+  },
+  {
+    "repo": "chax0180/challenge-additions",
+    "internalName": "chad",
+    "name": "Challenge Additions",
+    "version": "0.0",
+    "hidden": false,
+    "author": "Chax0180",
+    "lastUpdated": "2026-08-04T18:19:01Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a small set of blocks to make challenge maps more interesting."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -7530,20 +7544,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Make RTS control groups easier to create, select, and recognize."
-  },
-  {
-    "repo": "ggllfr/envalloc",
-    "internalName": "env-alloc",
-    "name": "Env Alloc",
-    "version": "v0.1",
-    "hidden": false,
-    "author": "Chime Tian",
-    "lastUpdated": "2026-08-03T10:03:52Z",
-    "stars": 0,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry Java mod library to add new Env flags."
   },
   {
     "repo": "fk4b/pickmeanime",
