@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-05T04:59:37Z",
+    "lastUpdated": "2026-08-05T10:04:06Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -966,6 +966,20 @@
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
+    "repo": "teamviscott/modprojectviscott",
+    "internalName": "project-viscott",
+    "name": "Project Viscott",
+    "version": "0.1.9.7",
+    "hidden": false,
+    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings, TB1, FrireDragon, EyeOfDarkness \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke, EyeOfDarkness \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
+    "lastUpdated": "2026-08-05T06:50:57Z",
+    "stars": 26,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
+  },
+  {
     "repo": "mindustrydagger/vanillaplus",
     "internalName": "vanillaplus",
     "name": "VanillaPlus",
@@ -978,20 +992,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
-  },
-  {
-    "repo": "teamviscott/modprojectviscott",
-    "internalName": "project-viscott",
-    "name": "Project Viscott",
-    "version": "0.1.9.7",
-    "hidden": false,
-    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings, TB1, FrireDragon, EyeOfDarkness \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke, EyeOfDarkness \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2026-07-17T21:17:49Z",
-    "stars": 25,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
     "repo": "rednzba990/warboundindustriesmod",
@@ -1098,7 +1098,7 @@
     "version": "1.7.9",
     "hidden": false,
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2026-07-07T14:47:15Z",
+    "lastUpdated": "2026-08-05T07:31:41Z",
     "stars": 22,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1224,7 +1224,7 @@
     "version": "2.1.1.B",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-08-05T04:24:19Z",
+    "lastUpdated": "2026-08-05T09:29:28Z",
     "stars": 20,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1274,20 +1274,6 @@
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
-    "repo": "otamamori917/axthrix-modded-java",
-    "internalName": "aj",
-    "name": "Axthrix",
-    "version": "2.2",
-    "hidden": false,
-    "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret, blackhole related stuff.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites\n    RushieWashie/jirocab| AmmoLifeTimeUnitType",
-    "lastUpdated": "2026-07-30T19:58:28Z",
-    "stars": 17,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "BETA sandbox only! requires blackhole render by meep of faith"
-  },
-  {
     "repo": "arktcode/dynamic-shadows",
     "internalName": "dynamic-shadows",
     "name": "Dynamic Shadows",
@@ -1300,6 +1286,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
+  },
+  {
+    "repo": "otamamori917/axthrix-modded-java",
+    "internalName": "aj",
+    "name": "Axthrix",
+    "version": "2.2",
+    "hidden": false,
+    "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret, blackhole related stuff.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites\n    RushieWashie/jirocab| AmmoLifeTimeUnitType",
+    "lastUpdated": "2026-08-05T08:03:44Z",
+    "stars": 17,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "BETA sandbox only! requires blackhole render by meep of faith"
   },
   {
     "repo": "topyrit/capital_progress",
@@ -1630,7 +1630,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-08-04T12:59:02Z",
+    "lastUpdated": "2026-08-05T08:54:24Z",
     "stars": 13,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -6314,20 +6314,6 @@
     "description": "Мод на кастомное изображение у курсора"
   },
   {
-    "repo": "saranekoth/naval-arsenal",
-    "internalName": "naval-arsenal",
-    "name": "Naval Arsenal",
-    "version": "0.5.1",
-    "hidden": false,
-    "author": "SaraNekoTH",
-    "lastUpdated": "2026-07-27T15:29:43Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Real-world inspired heavy weaponry: a Phalanx CIWS-style rotary anti-air gatling turret and a 20mm autocannon. Available on both Serpulo and Erekir. v0.4.0"
-  },
-  {
     "repo": "kukoldiki/md-proxy",
     "internalName": "md-proxy",
     "name": "Proxy Mod",
@@ -6452,6 +6438,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Cryon\n\nAdded a new planet.\nFrozen planet. New ores. New machines. New enemies.\nBuild, fight, explore.\n\nPlease install Cryon Core first!This is a dependency package!\n\nSupported languages: English, Chinese.\n\nThis mod is currently in testing.\nBug feedback: github bowen-H0"
+  },
+  {
+    "repo": "saranekoth/naval-arsenal",
+    "internalName": "naval-arsenal",
+    "name": "Naval Arsenal",
+    "version": "0.6.0",
+    "hidden": false,
+    "author": "SaraNekoTH",
+    "lastUpdated": "2026-08-05T10:28:58Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Real-world inspired heavy weaponry: | Phalanx CIWS-style rotary anti-air gatling turret | 20mm autocannon | 40mm auto cannon | 80mm howitzer. Available on both Serpulo and Erekir"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
