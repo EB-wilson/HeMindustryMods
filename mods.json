@@ -49,7 +49,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-07-28T15:13:47Z",
-    "stars": 255,
+    "stars": 256,
     "minGameVersion": "156.2",
     "hasScripts": false,
     "hasJava": false,
@@ -160,7 +160,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-08-05T00:43:36Z",
+    "lastUpdated": "2026-08-05T12:09:19Z",
     "stars": 138,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-05T10:04:06Z",
+    "lastUpdated": "2026-08-05T11:23:21Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1428,6 +1428,20 @@
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-08-01T08:15:55Z",
+    "stars": 15,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
+  },
+  {
     "repo": "reversteams/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
@@ -1468,20 +1482,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
-  },
-  {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-08-01T08:15:55Z",
-    "stars": 14,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
   },
   {
     "repo": "jojofr1/multicrafter",
@@ -1596,20 +1596,6 @@
     "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
   },
   {
-    "repo": "hao-1337/mindustry-better-vanilla",
-    "internalName": "hao1337-mod",
-    "name": "[ Better Vanilla ]",
-    "version": "1.10.2",
-    "hidden": true,
-    "author": "Hao1337",
-    "lastUpdated": "2026-07-13T10:25:10Z",
-    "stars": 13,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
-  },
-  {
     "repo": "foxitos/cmd-pack",
     "internalName": "cmd-scheme-pack",
     "name": "CMD Scheme Pack",
@@ -1630,12 +1616,26 @@
     "version": "0.21",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-08-05T08:54:24Z",
+    "lastUpdated": "2026-08-05T11:52:02Z",
     "stars": 13,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent]A Mod that adds a new campaign about Terraplasm.\n\n[white]The Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n[accent]There is currently just 1 playable, polished sector.\n[white]Campaign got a complete rework! If you've played on 0.1 or lower, please restart!\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.21"
+  },
+  {
+    "repo": "hao-1337/mindustry-better-vanilla",
+    "internalName": "hao1337-mod",
+    "name": "[ Better Vanilla ]",
+    "version": "1.10.2",
+    "hidden": true,
+    "author": "Hao1337",
+    "lastUpdated": "2026-08-05T14:03:40Z",
+    "stars": 13,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -4242,6 +4242,20 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
+    "repo": "zaxerf1234/scheme-size-port-charo",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port (Charo)",
+    "version": "2.1.4",
+    "hidden": true,
+    "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22\nCharo support: Zaxerf1234",
+    "lastUpdated": "2026-08-05T13:56:31Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\n\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nThis mod is not the original unofficial port of Scheme Size — it is a fork. The developers of the original port and mod are not involved in this in any way.\n\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
+  },
+  {
     "repo": "leyn-pl/iconpicker",
     "internalName": "icon-picker",
     "name": "Icon Picker",
@@ -4450,6 +4464,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Incredible"
+  },
+  {
+    "repo": "xiaoxianben/mindustry-betterfactory-mod",
+    "internalName": "better-factory",
+    "name": "更好的工厂",
+    "version": "1.0",
+    "hidden": false,
+    "author": "小仙本猫",
+    "lastUpdated": "2025-02-10T12:48:05Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "一个自娱自乐的模组."
   },
   {
     "repo": "dx-36/trolldustry",
@@ -5318,20 +5346,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Router router router router router router."
-  },
-  {
-    "repo": "xiaoxianben/mindustry-betterfactory-mod",
-    "internalName": "better-factory",
-    "name": "更好的工厂",
-    "version": "1.0",
-    "hidden": false,
-    "author": "小仙本猫",
-    "lastUpdated": "2025-02-10T12:48:05Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "一个自娱自乐的模组."
   },
   {
     "repo": "mrybs/dasuas",
@@ -6230,20 +6244,6 @@
     "description": "增加了全新的内容：石英及其制品！！！\nAdded entirely new content: quartz and its products!!! \nДобавлен совершенно новый контент: кварц и изделия из него!!!\n更新日志：\n增加了英语English、俄语Русский的翻译"
   },
   {
-    "repo": "zaxerf1234/scheme-size-port-charo",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port (Charo)",
-    "version": "2.1.4",
-    "hidden": true,
-    "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22\nCharo support: Zaxerf1234",
-    "lastUpdated": "2026-07-23T19:47:35Z",
-    "stars": 1,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\n\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nThis mod is not the original unofficial port of Scheme Size — it is a fork. The developers of the original port and mod are not involved in this in any way.\n\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
-  },
-  {
     "repo": "chax0180/mindustry-texture-tweaks",
     "internalName": "chax0180's texture tweaks",
     "name": "mindustry-texture-tweaks",
@@ -6446,7 +6446,7 @@
     "version": "0.6.0",
     "hidden": false,
     "author": "SaraNekoTH",
-    "lastUpdated": "2026-08-05T10:28:58Z",
+    "lastUpdated": "2026-08-05T10:44:18Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -7502,6 +7502,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Combines 20x factory speed, 5x unit build speed, 10x T1 factory build speed, 2x core unit capacity, auto-complete pause menu button, and the unit stats editor UI."
+  },
+  {
+    "repo": "arsenyachka/coloredphaseconveyor",
+    "internalName": "colored-phase-conveyors",
+    "name": "Colored Phase Conveyors",
+    "version": "1.0",
+    "hidden": false,
+    "author": "ArSeNyaChka & vlabigro",
+    "lastUpdated": "2026-07-30T21:47:50Z",
+    "stars": 0,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds the ability to change the bridge color of the phase conveyor."
   },
   {
     "repo": "zipcade/extreme-mods",
