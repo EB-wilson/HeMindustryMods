@@ -160,7 +160,7 @@
     "version": "0.1.1Ah",
     "hidden": false,
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-08-05T12:09:19Z",
+    "lastUpdated": "2026-08-05T17:33:27Z",
     "stars": 138,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -504,6 +504,20 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#f1c40f]Team members:[]\r\n- [#6e7f96] Andromeda-Galaxy29[]\r\n- [#6e7f96] iRatzeyMezeri[]\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2] thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2] tinport[] - various suggestions and maps\r\n- [#5865f2] mrapple_0[] - maps\r\n- [#5865f2] cirrusisakey[] - help with sfx\r\n- [#6e7f96] xhstoyea[] - Chinese translations\r\n\r\n[#9b59b6]Other thanks:[]\r\n- [#5865f2] chozochorizo[] for help with balancing the mod\r\n- [#6e7f96] ThomasThings[] and [#6e7f96] Twcash[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2] nekoarkbruhagain_07111[]\r\n- [#5865f2] allayscrafter[]"
   },
   {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "version": "(Beta) Build 13",
+    "hidden": false,
+    "author": "Nullotte",
+    "lastUpdated": "2026-07-25T12:25:11Z",
+    "stars": 49,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
+  },
+  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
@@ -516,20 +530,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No nowhere has nothing anywhere."
-  },
-  {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "version": "(Beta) Build 13",
-    "hidden": false,
-    "author": "Nullotte",
-    "lastUpdated": "2026-07-25T12:25:11Z",
-    "stars": 48,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
     "repo": "deercarbonate/azimuth",
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-05T11:23:21Z",
+    "lastUpdated": "2026-08-05T16:10:06Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1008,20 +1008,6 @@
     "description": "Adding new Assault unit, Support unit, and Industries!\nTHIS MOD IS SERPULO ONLY\n\nTHIS JAVASCRIPT MOD, SO NOT SUPPORT IOSSS\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
   },
   {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "version": "11.0.0",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-08-04T01:04:45Z",
-    "stars": 25,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, and Random. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新和随机化。"
-  },
-  {
     "repo": "dustdustry/patcheditor",
     "internalName": "patch-editor",
     "name": "PatchEditor",
@@ -1034,6 +1020,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provide an in-game GUI for DataPatcher."
+  },
+  {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "version": "11.0.0",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-08-05T16:10:22Z",
+    "stars": 25,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, and Random. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新和随机化。"
   },
   {
     "repo": "mindustrydesignit/schematic-browser-mod",
@@ -1224,7 +1224,7 @@
     "version": "2.1.1.B",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-08-05T09:29:28Z",
+    "lastUpdated": "2026-08-05T14:29:29Z",
     "stars": 20,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1294,7 +1294,7 @@
     "version": "2.2",
     "hidden": false,
     "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret, blackhole related stuff.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites\n    RushieWashie/jirocab| AmmoLifeTimeUnitType",
-    "lastUpdated": "2026-08-05T08:03:44Z",
+    "lastUpdated": "2026-08-05T15:36:08Z",
     "stars": 17,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -1630,7 +1630,7 @@
     "version": "1.10.2",
     "hidden": true,
     "author": "Hao1337",
-    "lastUpdated": "2026-08-05T14:03:40Z",
+    "lastUpdated": "2026-08-05T14:24:14Z",
     "stars": 13,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1862,6 +1862,20 @@
     "description": "[red]俺寻思之力"
   },
   {
+    "repo": "zaxerf1234/scheme-size-port-charo",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port (Charo)",
+    "version": "2.1.4",
+    "hidden": true,
+    "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22\nCharo support: Zaxerf1234",
+    "lastUpdated": "2026-08-05T13:56:31Z",
+    "stars": 11,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\n\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nThis mod is not the original unofficial port of Scheme Size — it is a fork. The developers of the original port and mod are not involved in this in any way.\n\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
+  },
+  {
     "repo": "agzam4/mindustry-mod",
     "internalName": "agzam4mod",
     "name": "Agzam's Mod",
@@ -1966,7 +1980,7 @@
     "version": "0.3.4",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader, Phil",
-    "lastUpdated": "2026-08-03T05:21:32Z",
+    "lastUpdated": "2026-08-05T15:03:00Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3195,10 +3209,10 @@
     "repo": "determination-wind/logicsugar",
     "internalName": "logicsugar",
     "name": "Logic Sugar",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "hidden": true,
     "author": "DeterMination-Wind",
-    "lastUpdated": "2026-07-28T15:03:01Z",
+    "lastUpdated": "2026-08-05T14:14:06Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -3540,6 +3554,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Creators Core System"
+  },
+  {
+    "repo": "ls-hdu/multi-crafter-lib",
+    "internalName": "multi-crafter-lib",
+    "name": "MultiCrafter 库",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": "LS",
+    "lastUpdated": "2026-07-19T04:15:26Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "多配方工厂"
   },
   {
     "repo": "rodrigoasfr24022003/rodrigonia-mod",
@@ -4116,20 +4144,6 @@
     "description": "介绍日后再写"
   },
   {
-    "repo": "ls-hdu/multi-crafter-lib",
-    "internalName": "multi-crafter-lib",
-    "name": "MultiCrafter 库",
-    "version": "1.0.0",
-    "hidden": false,
-    "author": "LS",
-    "lastUpdated": "2026-07-19T04:15:26Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "多配方工厂"
-  },
-  {
     "repo": "muniine/scheme_plus",
     "internalName": "scheme_plus",
     "name": "Scheme+",
@@ -4240,20 +4254,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
-    "repo": "zaxerf1234/scheme-size-port-charo",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port (Charo)",
-    "version": "2.1.4",
-    "hidden": true,
-    "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22\nCharo support: Zaxerf1234",
-    "lastUpdated": "2026-08-05T13:56:31Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\n\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nThis mod is not the original unofficial port of Scheme Size — it is a fork. The developers of the original port and mod are not involved in this in any way.\n\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -6446,7 +6446,7 @@
     "version": "0.6.0",
     "hidden": false,
     "author": "SaraNekoTH",
-    "lastUpdated": "2026-08-05T10:44:18Z",
+    "lastUpdated": "2026-08-05T14:58:00Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
