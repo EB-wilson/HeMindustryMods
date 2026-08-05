@@ -706,7 +706,7 @@
     "version": "3.2.8",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-07-29T06:27:09Z",
+    "lastUpdated": "2026-08-05T21:48:26Z",
     "stars": 38,
     "minGameVersion": "159.7",
     "hasScripts": true,
@@ -1490,7 +1490,7 @@
     "version": "1.4.1",
     "hidden": true,
     "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-08-05T01:52:10Z",
+    "lastUpdated": "2026-08-05T22:46:03Z",
     "stars": 14,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -1610,20 +1610,6 @@
     "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
   },
   {
-    "repo": "namakayo/kratha",
-    "internalName": "kratha",
-    "name": "KRATHA",
-    "version": "0.21",
-    "hidden": false,
-    "author": "namaka",
-    "lastUpdated": "2026-08-05T11:52:02Z",
-    "stars": 13,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[accent]A Mod that adds a new campaign about Terraplasm.\n\n[white]The Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n[accent]There is currently just 1 playable, polished sector.\n[white]Campaign got a complete rework! If you've played on 0.1 or lower, please restart!\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.21"
-  },
-  {
     "repo": "hao-1337/mindustry-better-vanilla",
     "internalName": "hao1337-mod",
     "name": "[ Better Vanilla ]",
@@ -1636,6 +1622,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
+  },
+  {
+    "repo": "namakayo/kratha",
+    "internalName": "kratha",
+    "name": "KRATHA",
+    "version": "0.21",
+    "hidden": false,
+    "author": "namaka",
+    "lastUpdated": "2026-08-05T22:40:12Z",
+    "stars": 13,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[accent]A Mod that adds a new campaign about Terraplasm.\n\n[white]The Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n[accent]There is currently just 1 playable, polished sector.\n[white]Campaign got a complete rework! If you've played on 0.1 or lower, please restart!\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.21"
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -7591,14 +7591,14 @@
     "repo": "itsxeroc/scheme-size",
     "internalName": "scheme-size",
     "name": "!Scheme Size",
-    "version": "1.0.3",
+    "version": "2.0.0",
     "hidden": true,
     "author": "Mithra\nOriginal: xzxADIxzx",
-    "lastUpdated": "2026-08-05T20:59:21Z",
+    "lastUpdated": "2026-08-05T21:38:39Z",
     "stars": 0,
-    "minGameVersion": "158",
+    "minGameVersion": "156",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A custom port of Scheme Size for newer Mindustry builds.\n\nStarted as a schematic size increase, now a set of QoL and admin tools: bigger schematics, building helpers, renderer options, AI, keybinds, CLaJ, and an advanced console.\n\nClient & server:\nSame jar works as a normal client mod and on a dedicated server. On a vanilla server (without this mod) you still get client QoL. If the server also has the jar, admin tools like fill, items, units, teleport and rules sync over the network - even when you are not the local host. Those actions require admin.\n\nRequires Mindustry v158+. Vanilla recommended. Works on desktop and mobile.\n\nBuilds: v156 / v158 / v159 jars on GitHub Releases.\n\nOriginal mod by xzxADIxzx. Port by Mithra. The original author is not involved in this port.\n\n\n - Schematic size 512\n - Building & renderer tools\n - Admin tools (optional server sync)\n - AI support\n - CLaJ, keybinds, updater\n - Advanced console & rule setter"
+    "description": "A custom port of Scheme Size for newer Mindustry builds.\n\nStarted as a schematic size increase, now a set of QoL and admin tools: bigger schematics, building helpers, renderer options, AI, keybinds, CLaJ, and an advanced console.\n\nClient & server:\nSame jar works as a normal client mod and on a dedicated server. On a vanilla server (without this mod) you still get client QoL. If the server also has the jar, admin tools like fill, items, units, teleport and rules sync over the network - even when you are not the local host. Those actions require admin.\n\nRequires Mindustry v156+. One jar for desktop and mobile (156–159). Vanilla recommended.\n\nOriginal mod by xzxADIxzx. Port by Mithra. The original author is not involved in this port.\n\n\n - Schematic size 512\n - Building & renderer tools\n - Admin tools (optional server sync)\n - AI support\n - CLaJ, keybinds, updater\n - Advanced console & rule setter"
   }
 ]
