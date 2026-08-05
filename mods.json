@@ -6356,20 +6356,6 @@
     "description": "has some amazing industries"
   },
   {
-    "repo": "lebrops/sporbels-inventions",
-    "internalName": "sporbel's inventions",
-    "name": "SporBel's Inventions",
-    "version": "1.1.5",
-    "hidden": false,
-    "author": "SporBel (aka. leBropS)",
-    "lastUpdated": "2026-08-01T15:52:49Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
     "repo": "momiji142857/momijicrafterlib",
     "internalName": "momiji_crafter_lib",
     "name": "MomijiCrafterLib",
@@ -6452,6 +6438,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Real-world inspired heavy weaponry: | Phalanx CIWS-style rotary anti-air gatling turret | 20mm autocannon | 40mm auto cannon | 80mm howitzer. Available on both Serpulo and Erekir"
+  },
+  {
+    "repo": "lebrops/sporbels-inventions",
+    "internalName": "sporbel's inventions",
+    "name": "SporBel's Inventions",
+    "version": "1.1.5",
+    "hidden": false,
+    "author": "SporBel (aka. leBropS)",
+    "lastUpdated": "2026-08-05T20:06:52Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -7591,14 +7591,14 @@
     "repo": "itsxeroc/scheme-size",
     "internalName": "scheme-size",
     "name": "!Scheme Size",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "hidden": true,
     "author": "Mithra\nOriginal: xzxADIxzx",
-    "lastUpdated": "2026-08-05T19:09:39Z",
+    "lastUpdated": "2026-08-05T20:59:21Z",
     "stars": 0,
-    "minGameVersion": "156",
+    "minGameVersion": "158",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "\nA custom port of Scheme Size for newer Mindustry builds.\n\nStarted as a schematic size increase, now a set of QoL and admin tools: bigger schematics, building helpers, renderer options, AI, keybinds, CLaJ, and an advanced console.\n\nClient & server:\nSame jar works as a normal client mod and on a dedicated server. On a vanilla server (without this mod) you still get client QoL. If the server also has the jar, admin tools like fill, items, units, teleport and rules sync over the network - even when you are not the local host. Those actions require admin.\n\nRequires Mindustry v156+. Vanilla recommended. Works on desktop and mobile.\n\nOriginal mod by xzxADIxzx. Port by Mithra. The original author is not involved in this port.\n\n\n - Schematic size 512\n - Building & renderer tools\n - Admin tools (optional server sync)\n - AI support\n - CLaJ, keybinds, updater\n - Advanced console & rule setter\n"
+    "hasJava": true,
+    "description": "A custom port of Scheme Size for newer Mindustry builds.\n\nStarted as a schematic size increase, now a set of QoL and admin tools: bigger schematics, building helpers, renderer options, AI, keybinds, CLaJ, and an advanced console.\n\nClient & server:\nSame jar works as a normal client mod and on a dedicated server. On a vanilla server (without this mod) you still get client QoL. If the server also has the jar, admin tools like fill, items, units, teleport and rules sync over the network - even when you are not the local host. Those actions require admin.\n\nRequires Mindustry v158+. Vanilla recommended. Works on desktop and mobile.\n\nBuilds: v156 / v158 / v159 jars on GitHub Releases.\n\nOriginal mod by xzxADIxzx. Port by Mithra. The original author is not involved in this port.\n\n\n - Schematic size 512\n - Building & renderer tools\n - Admin tools (optional server sync)\n - AI support\n - CLaJ, keybinds, updater\n - Advanced console & rule setter"
   }
 ]
