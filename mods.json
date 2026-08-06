@@ -721,7 +721,7 @@
     "hidden": false,
     "author": "[#ff]retodera[] - основатель мода и единственный работающий над ним\n\nА также благодарности:\n\nxDer - генератор идей\n\nПризрак - основатель сервера Дискорд\n\nnadocd - иногда помогает с кодом\n\ngkugfk3 - сделал саундтрек\n\nИ все, кто поставили звёздочку <3",
     "lastUpdated": "2025-12-31T23:19:03Z",
-    "stars": 36,
+    "stars": 37,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-06T01:00:25Z",
+    "lastUpdated": "2026-08-06T05:13:20Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1008,20 +1008,6 @@
     "description": "Adding new Assault unit, Support unit, and Industries!\nTHIS MOD IS SERPULO ONLY\n\nTHIS JAVASCRIPT MOD, SO NOT SUPPORT IOSSS\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
   },
   {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.12.2",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-08-05T02:53:23Z",
-    "stars": 25,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
-  },
-  {
     "repo": "determination-wind/neon",
     "internalName": "neon",
     "name": "Neon / 氖",
@@ -1034,6 +1020,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, and Random. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新和随机化。"
+  },
+  {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.13.1",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-08-06T03:19:50Z",
+    "stars": 25,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "mindustrydesignit/schematic-browser-mod",
@@ -2324,20 +2324,6 @@
     "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
   },
   {
-    "repo": "mnchetra/mapgenerator",
-    "internalName": "mapgenerator",
-    "name": "MapGeneratorMultiplayer Compatible",
-    "version": "1.2",
-    "hidden": true,
-    "author": "Seven",
-    "lastUpdated": "2026-07-31T04:52:26Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -2378,6 +2364,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
+    "repo": "mnchetra/mapgenerator",
+    "internalName": "mapgenerator",
+    "name": "MapGenerator",
+    "version": "1.2",
+    "hidden": false,
+    "author": "Seven",
+    "lastUpdated": "2026-08-06T06:04:13Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
   },
   {
     "repo": "mitemi/blastanium",
@@ -6440,6 +6440,20 @@
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
+    "repo": "itsxeroc/scheme-size",
+    "internalName": "scheme-size",
+    "name": "!Scheme Size",
+    "version": "2.0.0",
+    "hidden": true,
+    "author": "Mithra\nOriginal: xzxADIxzx",
+    "lastUpdated": "2026-08-05T21:38:39Z",
+    "stars": 1,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A custom port of Scheme Size for newer Mindustry builds.\n\nStarted as a schematic size increase, now a set of QoL and admin tools: bigger schematics, building helpers, renderer options, AI, keybinds, CLaJ, and an advanced console.\n\nClient & server:\nSame jar works as a normal client mod and on a dedicated server. On a vanilla server (without this mod) you still get client QoL. If the server also has the jar, admin tools like fill, items, units, teleport and rules sync over the network - even when you are not the local host. Those actions require admin.\n\nRequires Mindustry v156+. One jar for desktop and mobile (156–159). Vanilla recommended.\n\nOriginal mod by xzxADIxzx. Port by Mithra. The original author is not involved in this port.\n\n\n - Schematic size 512\n - Building & renderer tools\n - Admin tools (optional server sync)\n - AI support\n - CLaJ, keybinds, updater\n - Advanced console & rule setter"
+  },
+  {
     "repo": "saranekoth/naval-arsenal",
     "internalName": "naval-arsenal",
     "name": "Naval Arsenal",
@@ -7586,19 +7600,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry auto translate mod (fork, AI-enhanced)."
-  },
-  {
-    "repo": "itsxeroc/scheme-size",
-    "internalName": "scheme-size",
-    "name": "!Scheme Size",
-    "version": "2.0.0",
-    "hidden": true,
-    "author": "Mithra\nOriginal: xzxADIxzx",
-    "lastUpdated": "2026-08-05T21:38:39Z",
-    "stars": 0,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A custom port of Scheme Size for newer Mindustry builds.\n\nStarted as a schematic size increase, now a set of QoL and admin tools: bigger schematics, building helpers, renderer options, AI, keybinds, CLaJ, and an advanced console.\n\nClient & server:\nSame jar works as a normal client mod and on a dedicated server. On a vanilla server (without this mod) you still get client QoL. If the server also has the jar, admin tools like fill, items, units, teleport and rules sync over the network - even when you are not the local host. Those actions require admin.\n\nRequires Mindustry v156+. One jar for desktop and mobile (156–159). Vanilla recommended.\n\nOriginal mod by xzxADIxzx. Port by Mithra. The original author is not involved in this port.\n\n\n - Schematic size 512\n - Building & renderer tools\n - Admin tools (optional server sync)\n - AI support\n - CLaJ, keybinds, updater\n - Advanced console & rule setter"
   }
 ]
