@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-07-31T14:58:28Z",
-    "stars": 612,
+    "stars": 613,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -76,7 +76,7 @@
     "version": "v4.58.4-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-07-15T11:45:41Z",
+    "lastUpdated": "2026-08-06T15:18:46Z",
     "stars": 229,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -160,7 +160,7 @@
     "version": "0.1.2A Indev 8",
     "hidden": false,
     "author": "stabu",
-    "lastUpdated": "2026-08-06T14:04:35Z",
+    "lastUpdated": "2026-08-06T18:16:25Z",
     "stars": 139,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-04T22:50:20Z",
+    "lastUpdated": "2026-08-06T22:19:49Z",
     "stars": 117,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -384,12 +384,26 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-08-06T10:11:39Z",
+    "lastUpdated": "2026-08-06T23:48:27Z",
     "stars": 63,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "  [#93E2EE]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Capture and conquer with over 18 campaign maps avaiable on this mod. (now with challenge maps!)\n\n  With over 13 items to be discovered, 124 blocks to be researched. and 17 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.[]\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Server! \n  Check it on my profile. My username is TnmSpiroct.\n\n  This mod requires newest mindustry build to be played (Beta 149)\n  \n  Version 0.7\n  - Codex Resprite\n  - More Biomes\n  - 2 New Items (Experimental)\n  - Removed Some Biomes\n  - New Turret, Anvil\n  - Fixes some blocks can be placed on deep water\n  - Nucrid Crusher"
+  },
+  {
+    "repo": "liplum/multicrafterlib",
+    "internalName": "multi-crafter",
+    "name": "MultiCrafter Lib",
+    "version": "1.8",
+    "hidden": true,
+    "author": "[#42a5f5]Liplum[] & Jojo",
+    "lastUpdated": "2026-05-30T01:36:06Z",
+    "stars": 61,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod library for JSON and Javascript mods,\nincluding A crafter that supporting multiple recipes for items, fluids, power, and heat production.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
     "repo": "meepoffaith/testing-utilities-java",
@@ -404,20 +418,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
-    "repo": "liplum/multicrafterlib",
-    "internalName": "multi-crafter",
-    "name": "MultiCrafter Lib",
-    "version": "1.8",
-    "hidden": true,
-    "author": "[#42a5f5]Liplum[] & Jojo",
-    "lastUpdated": "2026-05-30T01:36:06Z",
-    "stars": 60,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod library for JSON and Javascript mods,\nincluding A crafter that supporting multiple recipes for items, fluids, power, and heat production.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -468,7 +468,7 @@
     "version": "1.2.2",
     "hidden": false,
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-08-03T19:51:00Z",
+    "lastUpdated": "2026-08-06T22:32:47Z",
     "stars": 51,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -524,7 +524,7 @@
     "version": "3",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-08-06T02:22:40Z",
+    "lastUpdated": "2026-08-06T15:23:49Z",
     "stars": 49,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -706,7 +706,7 @@
     "version": "3.2.9",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-08-06T14:03:10Z",
+    "lastUpdated": "2026-08-06T14:08:17Z",
     "stars": 38,
     "minGameVersion": "159.7",
     "hasScripts": true,
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-06T14:07:45Z",
+    "lastUpdated": "2026-08-06T16:02:13Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -980,6 +980,20 @@
     "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.13.1",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-08-06T03:19:50Z",
+    "stars": 26,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
+  },
+  {
     "repo": "mindustrydagger/vanillaplus",
     "internalName": "vanillaplus",
     "name": "VanillaPlus",
@@ -1006,20 +1020,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adding new Assault unit, Support unit, and Industries!\nTHIS MOD IS SERPULO ONLY\n\nTHIS JAVASCRIPT MOD, SO NOT SUPPORT IOSSS\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.13.1",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-08-06T03:19:50Z",
-    "stars": 25,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "determination-wind/neon",
@@ -1358,6 +1358,20 @@
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
   },
   {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-08-01T08:15:55Z",
+    "stars": 16,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
+  },
+  {
     "repo": "gmugxd/qr-mod",
     "internalName": "camod",
     "name": "Quantum Realm Mod",
@@ -1428,20 +1442,6 @@
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-08-01T08:15:55Z",
-    "stars": 15,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
-  },
-  {
     "repo": "reversteams/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
@@ -1484,20 +1484,6 @@
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
   },
   {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "version": "1.4.1",
-    "hidden": true,
-    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-08-05T22:46:03Z",
-    "stars": 14,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
-  },
-  {
     "repo": "jennii94900-tech/mod",
     "internalName": "ochpoch-mob",
     "name": "Hooligan",
@@ -1510,6 +1496,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
+  },
+  {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "version": "1.4.2",
+    "hidden": true,
+    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
+    "lastUpdated": "2026-08-06T21:15:23Z",
+    "stars": 14,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
     "repo": "guiymou/adaptivecoredatabase",
@@ -1630,7 +1630,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-08-06T14:02:53Z",
+    "lastUpdated": "2026-08-06T23:27:04Z",
     "stars": 13,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1680,34 +1680,6 @@
     "description": "Mod add tanks, aircraft and naval ships"
   },
   {
-    "repo": "wantechfan/mindustry-cursed-bundles",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "version": "1.13",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-07-30T08:36:44Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
-  },
-  {
-    "repo": "novanox4/astralis",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "version": "0.1",
-    "hidden": false,
-    "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-08-02T17:29:10Z",
-    "stars": 12,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
-  },
-  {
     "repo": "jababadev/jababarium",
     "internalName": "jababarium",
     "name": "Jababarium",
@@ -1720,6 +1692,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry greatest mod ever made!"
+  },
+  {
+    "repo": "novanox4/astralis",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "version": "0.1",
+    "hidden": false,
+    "author": "NV-NX (FULL CREDITS IN DESC.)",
+    "lastUpdated": "2026-08-06T17:00:16Z",
+    "stars": 12,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "wantechfan/mindustry-cursed-bundles",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "version": "1.13",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-08-06T17:22:55Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -2156,20 +2156,6 @@
     "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
-    "repo": "mindustry-antigrief/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "version": "2.8.2",
-    "hidden": true,
-    "author": "io community",
-    "lastUpdated": "2026-07-24T10:39:39Z",
-    "stars": 9,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Improves your experience on the official io  Flood server."
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2196,6 +2182,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "mindustry-antigrief/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "version": "2.8.2",
+    "hidden": true,
+    "author": "io community",
+    "lastUpdated": "2026-08-06T19:22:26Z",
+    "stars": 9,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Improves your experience on the official io  Flood server."
   },
   {
     "repo": "p101q/snowdustry",
@@ -3618,7 +3618,7 @@
     "version": "0.1",
     "hidden": true,
     "author": "Wantechfan",
-    "lastUpdated": "2026-07-30T08:36:45Z",
+    "lastUpdated": "2026-08-06T17:23:10Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4228,20 +4228,6 @@
     "description": "Logic editor enhancements: jump line coloring, box select, expression editor, scrollbar enhancement, and JUMP navigation. See https://github.com/nosbhghggg/logic-assist for details."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.8",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-08-02T22:28:28Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4254,6 +4240,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.8",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-08-06T17:29:13Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -6356,20 +6356,6 @@
     "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n展示一下我拼的工厂uwu"
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.3.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-08-02T20:37:19Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "ggllfr/envalloc",
     "internalName": "env-alloc",
     "name": "Env Alloc",
@@ -6466,6 +6452,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.3.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-08-06T16:35:53Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
