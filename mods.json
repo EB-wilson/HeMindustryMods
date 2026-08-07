@@ -315,7 +315,7 @@
     "hidden": false,
     "author": "Alon",
     "lastUpdated": "2026-07-21T10:11:04Z",
-    "stars": 79,
+    "stars": 80,
     "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
@@ -469,7 +469,7 @@
     "hidden": false,
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
     "lastUpdated": "2026-08-07T03:36:17Z",
-    "stars": 51,
+    "stars": 52,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-07T12:01:36Z",
+    "lastUpdated": "2026-08-07T14:26:02Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1260,6 +1260,20 @@
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-08-01T08:15:55Z",
+    "stars": 17,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
+  },
+  {
     "repo": "arktcode/dynamic-shadows",
     "internalName": "dynamic-shadows",
     "name": "Dynamic Shadows",
@@ -1356,20 +1370,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
-  },
-  {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-08-01T08:15:55Z",
-    "stars": 16,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
   },
   {
     "repo": "gmugxd/qr-mod",
@@ -1504,7 +1504,7 @@
     "version": "1.4.2",
     "hidden": true,
     "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-08-06T21:15:23Z",
+    "lastUpdated": "2026-08-07T14:04:52Z",
     "stars": 14,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -1918,6 +1918,20 @@
     "description": "Important:\n\nThis is an addition to the Enhancement Units mod, which modifies several towers, sometimes improving them, then changing the shooting mechanics to create some kind of balance between units and towers.\n\nPlease pay attention:\n\nThe mod significantly reworks the mechanics of turrets, changes the balance and, in general, can simplify the game without the EU. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
+    "repo": "electricgun/video-to-logic",
+    "internalName": "v2logic",
+    "name": "Video to Logic",
+    "version": "1.07",
+    "hidden": true,
+    "author": "ElectricGun",
+    "lastUpdated": "2025-08-09T13:41:40Z",
+    "stars": 10,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
+  },
+  {
     "repo": "electricgun/toggle-editor-mode",
     "internalName": "toggle-editor-mode",
     "name": "Toggle Editor Mode",
@@ -1974,13 +1988,27 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-08-05T19:25:29Z",
+    "stars": 10,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
     "version": "0.3.4",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader, Phil",
-    "lastUpdated": "2026-08-07T05:12:36Z",
+    "lastUpdated": "2026-08-07T14:37:29Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2042,20 +2070,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
-  },
-  {
-    "repo": "electricgun/video-to-logic",
-    "internalName": "v2logic",
-    "name": "Video to Logic",
-    "version": "1.07",
-    "hidden": true,
-    "author": "ElectricGun",
-    "lastUpdated": "2025-08-09T13:41:40Z",
-    "stars": 9,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
   },
   {
     "repo": "theserjio/advanceddatabase",
@@ -2170,27 +2184,41 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-08-05T19:25:29Z",
+    "lastUpdated": "2026-08-01T08:00:40Z",
     "stars": 9,
     "minGameVersion": "159",
     "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
+  },
+  {
+    "repo": "mnchetra/mapgenerator",
+    "internalName": "mapgenerator",
+    "name": "MapGenerator",
+    "version": "1.2",
+    "hidden": false,
+    "author": "Seven",
+    "lastUpdated": "2026-08-06T06:04:13Z",
+    "stars": 9,
+    "minGameVersion": "159",
+    "hasScripts": false,
     "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+    "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
   },
   {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
-    "version": "2.8.3",
+    "version": "2.8.4",
     "hidden": true,
     "author": "io community",
-    "lastUpdated": "2026-08-07T00:19:42Z",
+    "lastUpdated": "2026-08-07T13:24:01Z",
     "stars": 9,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -2324,20 +2352,6 @@
     "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-08-01T08:00:40Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
     "repo": "momiji142857/ve-addon-schematics",
     "internalName": "ve-addon-schematics",
     "name": "VE Addon: Schematics",
@@ -2350,20 +2364,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-08-03[white]"
-  },
-  {
-    "repo": "mnchetra/mapgenerator",
-    "internalName": "mapgenerator",
-    "name": "MapGenerator",
-    "version": "1.2",
-    "hidden": false,
-    "author": "Seven",
-    "lastUpdated": "2026-08-06T06:04:13Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
   },
   {
     "repo": "oscillatorium/alef-null",
@@ -3220,6 +3220,20 @@
     "description": "Adds structured for, while, and switch blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
+    "repo": "wantechfan/mindustry-sondustry",
+    "internalName": "sondustry",
+    "name": "Sondustry",
+    "version": "0.1",
+    "hidden": true,
+    "author": "Wantechfan",
+    "lastUpdated": "2026-08-06T17:23:10Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Addon son ton everon worn"
+  },
+  {
     "repo": "koctz34/canvases",
     "internalName": "canvases-2",
     "name": "Canvases V2",
@@ -3610,20 +3624,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Native database and quick before/after diff viewer for Mindustry datapatches. / 保持原版数据库显示的数据补丁与快捷差异查看器。"
-  },
-  {
-    "repo": "wantechfan/mindustry-sondustry",
-    "internalName": "sondustry",
-    "name": "Sondustry",
-    "version": "0.1",
-    "hidden": true,
-    "author": "Wantechfan",
-    "lastUpdated": "2026-08-06T17:23:10Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Addon son ton everon worn"
   },
   {
     "repo": "vdgaster/upgraded-blocks",
@@ -4030,6 +4030,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Brings back old SFX."
+  },
+  {
+    "repo": "xenonixq/blerror",
+    "internalName": "blerror",
+    "name": "Blerror",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Xenonix",
+    "lastUpdated": "2026-06-28T20:41:39Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Изменяет ohno на \"бля\"."
   },
   {
     "repo": "p-enya/celeste-music-pack",
@@ -4842,20 +4856,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry modding utilities to make mod development easier. NOT AN OFFICIAL VERSION"
-  },
-  {
-    "repo": "xenonixq/blerror",
-    "internalName": "blerror",
-    "name": "Blerror",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Xenonix",
-    "lastUpdated": "2026-06-28T20:41:39Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Изменяет ohno на \"бля\"."
   },
   {
     "repo": "vini230909/turretautofill",
