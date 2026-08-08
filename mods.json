@@ -392,6 +392,20 @@
     "description": "  [#93E2EE]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Capture and conquer with over 18 campaign maps avaiable on this mod. (now with challenge maps!)\n\n  With over 13 items to be discovered, 124 blocks to be researched. and 17 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.[]\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Server! \n  Check it on my profile. My username is TnmSpiroct.\n\n  This mod requires newest mindustry build to be played (Beta 149)\n  \n  Version 0.7\n  - Codex Resprite\n  - More Biomes\n  - 2 New Items (Experimental)\n  - Removed Some Biomes\n  - New Turret, Anvil\n  - Fixes some blocks can be placed on deep water\n  - Nucrid Crusher"
   },
   {
+    "repo": "meepoffaith/testing-utilities-java",
+    "internalName": "test-utils",
+    "name": "Testing Utilities",
+    "version": "69.1",
+    "hidden": true,
+    "author": "MEEP of Faith",
+    "lastUpdated": "2026-07-14T04:26:59Z",
+    "stars": 62,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "liplum/multicrafterlib",
     "internalName": "multi-crafter",
     "name": "MultiCrafter Lib",
@@ -404,20 +418,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library for JSON and Javascript mods,\nincluding A crafter that supporting multiple recipes for items, fluids, power, and heat production.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
-  },
-  {
-    "repo": "meepoffaith/testing-utilities-java",
-    "internalName": "test-utils",
-    "name": "Testing Utilities",
-    "version": "69.1",
-    "hidden": true,
-    "author": "MEEP of Faith",
-    "lastUpdated": "2026-07-14T04:26:59Z",
-    "stars": 61,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-07T15:19:40Z",
+    "lastUpdated": "2026-08-08T05:04:29Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1224,7 +1224,7 @@
     "version": "2.1.1.C",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-08-07T16:59:07Z",
+    "lastUpdated": "2026-08-08T06:05:16Z",
     "stars": 20,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1414,20 +1414,6 @@
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
-    "repo": "valigaming15/pyra-erekir",
-    "internalName": "pyra",
-    "name": "Pyra Erekir",
-    "version": "1.4.1",
-    "hidden": false,
-    "author": "\nAuthor: \"[#ff6600]Vali#5378[]\"\nHelped with the code a bit: \"Fresh791\"\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2026-07-23T19:36:04Z",
-    "stars": 15,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factory\nNOT the most balanced"
-  },
-  {
     "repo": "laomoze/warhammer",
     "internalName": "wh",
     "name": "WarHammer",
@@ -1440,6 +1426,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
+  },
+  {
+    "repo": "valigaming15/pyra-erekir",
+    "internalName": "pyra",
+    "name": "Pyra Erekir",
+    "version": "1.4.1",
+    "hidden": false,
+    "author": "\nAuthor: \"[#ff6600]Vali#5378[]\"\nHelped with the code a bit: \"Fresh791\"\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
+    "lastUpdated": "2026-08-08T06:52:18Z",
+    "stars": 15,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factory\nNOT the most balanced"
   },
   {
     "repo": "reversteams/etigei-exile",
