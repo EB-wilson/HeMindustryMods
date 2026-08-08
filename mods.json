@@ -140,6 +140,20 @@
     "description": "Hell time, once for all\n\nThis mod adds new items, buildings, units, and turrets, and has a planet for you to explore.\nMore campaign maps WIP.\nWarning: This mod makes certain modifications to the original game content to accommodate the mod's operation."
   },
   {
+    "repo": "stabu-dev/omaloon",
+    "internalName": "omaloon",
+    "name": "Omaloon",
+    "version": "0.1.2A Indev 8",
+    "hidden": false,
+    "author": "stabu",
+    "lastUpdated": "2026-08-07T11:29:17Z",
+    "stars": 141,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An ambitious campaign expansion featuring a brand new star system.\n\n[red]⚠️ Stable Build is Outdated ⚠️[]\nThe current stable release doesn't support Mindustry v8. All new features and v8 compatibility are actively being built in [accent]Indev[] (In-Development) snapshots.\n\n[accent]How to play the v8 Indevs:[]\nThe default install button ignores pre-releases. To get the latest content:\n[gray]1.[] Tap [accent]View Releases[] in this menu.\n[gray]2.[] Select the newest [orange]indev[] version.\n[gray]3.[] Install it manually."
+  },
+  {
     "repo": "3snake3/sapphirium",
     "internalName": "sapphirium",
     "name": "Sapphirium",
@@ -152,20 +166,6 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
-  },
-  {
-    "repo": "stabu-dev/omaloon",
-    "internalName": "omaloon",
-    "name": "Omaloon",
-    "version": "0.1.2A Indev 8",
-    "hidden": false,
-    "author": "stabu",
-    "lastUpdated": "2026-08-07T11:29:17Z",
-    "stars": 140,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An ambitious campaign expansion featuring a brand new star system.\n\n[red]⚠️ Stable Build is Outdated ⚠️[]\nThe current stable release doesn't support Mindustry v8. All new features and v8 compatibility are actively being built in [accent]Indev[] (In-Development) snapshots.\n\n[accent]How to play the v8 Indevs:[]\nThe default install button ignores pre-releases. To get the latest content:\n[gray]1.[] Tap [accent]View Releases[] in this menu.\n[gray]2.[] Select the newest [orange]indev[] version.\n[gray]3.[] Install it manually."
   },
   {
     "repo": "eschatologue/unlimited-armament-works",
@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-08T13:57:29Z",
+    "lastUpdated": "2026-08-08T21:06:02Z",
     "stars": 117,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -1260,20 +1260,6 @@
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "1.1.159.7",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-08-01T10:56:39Z",
-    "stars": 17,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
-  },
-  {
     "repo": "guiymou/mindustry-lotterymod",
     "internalName": "lottery",
     "name": "lottery mod（抽卡模拟）",
@@ -1314,6 +1300,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
+  },
+  {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "1.1.159.7",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-08-08T20:55:07Z",
+    "stars": 17,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
   },
   {
     "repo": "topyrit/capital_progress",
