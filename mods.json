@@ -2310,20 +2310,6 @@
     "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.6. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. \nUPDATES:\nLICHEN UPDATE (v1.2)\nFLAMEWAR UPDATE (v1.3)\nTETRA UPDATE (v1.4)\nQOL UPDATE (v1.5)\nPILOTS UPDATE (v1.6) \n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add more campaign features!"
   },
   {
-    "repo": "determination-wind/radial-build-menu-hud-",
-    "internalName": "radial-build-menu",
-    "name": "圆盘快捷建造 / Radial Build Menu",
-    "version": "5.7.0",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-07-11T13:40:39Z",
-    "stars": 8,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
-  },
-  {
     "repo": "sharlottes/mlogwatcher",
     "internalName": "mlogwatcher",
     "name": "MlogWatcher",
@@ -2378,6 +2364,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
+    "repo": "determination-wind/radial-build-menu-hud-",
+    "internalName": "radial-build-menu",
+    "name": "圆盘快捷建造 / Radial Build Menu",
+    "version": "5.7.0",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-08-08T03:39:02Z",
+    "stars": 8,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
     "repo": "mitemi/blastanium",
@@ -2618,20 +2618,6 @@
     "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
   },
   {
-    "repo": "determination-wind/power-grid-minimap-",
-    "internalName": "powergrid-minimap",
-    "name": "电网小地图 / Power Grid Minimap",
-    "version": "1.18.2",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-07-12T03:35:59Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
-  },
-  {
     "repo": "alecthe2nd/tantros",
     "internalName": "tantros",
     "name": "Tantros",
@@ -2714,6 +2700,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
+  },
+  {
+    "repo": "determination-wind/power-grid-minimap-",
+    "internalName": "powergrid-minimap",
+    "name": "电网小地图 / Power Grid Minimap",
+    "version": "1.18.2",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-08-08T03:34:22Z",
+    "stars": 7,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -3206,20 +3206,6 @@
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
   },
   {
-    "repo": "determination-wind/logicsugar",
-    "internalName": "logicsugar",
-    "name": "Logic Sugar",
-    "version": "1.1.3",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-06T11:33:30Z",
-    "stars": 5,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds structured for, while, and switch blocks to the logic editor while storing vanilla-compatible mlog."
-  },
-  {
     "repo": "wantechfan/mindustry-sondustry",
     "internalName": "sondustry",
     "name": "Sondustry",
@@ -3232,6 +3218,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Addon son ton everon worn"
+  },
+  {
+    "repo": "determination-wind/logicsugar",
+    "internalName": "logicsugar",
+    "name": "Logic Sugar",
+    "version": "1.1.4",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-08T03:41:59Z",
+    "stars": 5,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds structured for, while, and switch blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
     "repo": "koctz34/canvases",
@@ -3615,10 +3615,10 @@
     "repo": "determination-wind/patchviewer",
     "internalName": "patchviewer",
     "name": "PatchViewer / 补丁查看器",
-    "version": "2.3.0",
+    "version": "2.3.1",
     "hidden": true,
     "author": "DeterMination",
-    "lastUpdated": "2026-07-26T17:23:14Z",
+    "lastUpdated": "2026-08-08T03:50:15Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -4102,20 +4102,6 @@
     "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
-    "repo": "determination-wind/random",
-    "internalName": "random",
-    "name": "Random",
-    "version": "1.1.0",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-07-17T08:28:18Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Client-side random text and texture presentation for Mindustry."
-  },
-  {
     "repo": "tomahawkarc/mindustry-v8-engine",
     "internalName": "mod-engine",
     "name": "Mod Engine",
@@ -4214,20 +4200,6 @@
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[accent]Changelog / Novedades v0.8:\n[lightgray]• New sprites (working on the missing sprites).\n• New palladium conduit family and liquid overflow/underflow gate for pulse conduit and palladium family. \n•You can now use any technology from any planet (and mods) in Volta (Volta shares the same resources as Serpulo, plus Volta's own resources). \n• New Modular Core and Modular sistem.\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·Nuevo Nucleo Core: Paradigm y sus 6 nuevos módulos, ademas funcionan con cualquier nucleo (Azul aun esta en desarrollo) \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]· Familia completa de tuberia de paladio (router, junction, bridge and liquid container) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, More Defenses, Expanded Industries, Better Terrain Gen V2, Modularis, simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
-    "repo": "determination-wind/foreignservertranslator",
-    "internalName": "foreign-server-translator",
-    "name": "Foreign Server Translator / 外语服务器翻译",
-    "version": "1.2.0",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-07-31T10:30:28Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
-  },
-  {
     "repo": "nosbhghggg/jump-line-color",
     "internalName": "logic-assist",
     "name": "Logic Assist",
@@ -4268,6 +4240,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "determination-wind/random",
+    "internalName": "random",
+    "name": "Random",
+    "version": "1.1.1",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-08T03:41:08Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Client-side random text and texture presentation for Mindustry."
+  },
+  {
+    "repo": "determination-wind/foreignservertranslator",
+    "internalName": "foreignservertranslator-dev",
+    "name": "Foreign Server Translator / 外语服务器翻译",
+    "version": "1.2.1",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-08-08T03:52:09Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -4942,20 +4942,6 @@
     "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
   },
   {
-    "repo": "determination-wind/betterterraingen-v2",
-    "internalName": "betterterraingen-v2",
-    "name": "Better Terrain Gen V2 / 更自然的地形生成 V2",
-    "version": "1.1.1",
-    "hidden": false,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-07-12T05:33:44Z",
-    "stars": 2,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a Natural Water filter to the map editor terrain generator. / 在地图编辑器地形生成器中添加自然水体滤镜。"
-  },
-  {
     "repo": "darkjeanne/schempack-manager",
     "internalName": "schempack-manager",
     "name": "SchemPack Manager",
@@ -4968,20 +4954,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sync Mindustry schematics with GitHub, with auto push, pull/merge, and local-only filtering."
-  },
-  {
-    "repo": "determination-wind/pinyinsearchsupport",
-    "internalName": "pinyin-search-support",
-    "name": "PinyinSearchSupport / 拼音搜索支持",
-    "version": "2.3.1",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-07-14T07:05:19Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
   },
   {
     "repo": "xenonixq/erekirlogic",
@@ -5178,6 +5150,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[white] This mod adds ability to share schematics via png images.[]\n\n[accent] [#FFF000]Features:[]\n[white] Export schematic-images and share them with your friends (or enemy).[]\n[white] Dropdown images to import schematics.[]\n\n How does it works?\n[white] The game stores schematics either as msch files or base64 encoded strings.\nThis mod stores schematic data inside png itself.\nBy that you can both share and show your schematics at the same time.[]"
+  },
+  {
+    "repo": "determination-wind/pinyinsearchsupport",
+    "internalName": "pinyinsearchsupport-dev",
+    "name": "PinyinSearchSupport / 拼音搜索支持",
+    "version": "2.3.2",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-08-08T03:40:03Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
+  },
+  {
+    "repo": "determination-wind/betterterraingen-v2",
+    "internalName": "betterterraingen-v2",
+    "name": "Better Terrain Gen V2 / 更自然的地形生成 V2",
+    "version": "1.1.2",
+    "hidden": false,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-08T04:04:00Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a Natural Water filter to the map editor terrain generator. / 在地图编辑器地形生成器中添加自然水体滤镜。"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -6132,34 +6132,6 @@
     "description": "Minecraft PE style mobile joystick control for player units with movement scaling, boost toggle, and dual/single-stick shooting modes. / 提供类似 Minecraft 手机端的摇杆操控：按幅度移动、Boost 切换、双摇杆或单摇杆开火。"
   },
   {
-    "repo": "determination-wind/betterlogisticsspeed",
-    "internalName": "betterlogisticsspeed",
-    "name": "betterLogisticsSpeed",
-    "version": "2.0.0",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-07-11T13:40:17Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add long-window moving-average logistics speed rows under vanilla item speed display. / 在原版物流速度显示下方追加长窗口滑动平均行。"
-  },
-  {
-    "repo": "determination-wind/tripwire",
-    "internalName": "tripwire",
-    "name": "Tripwire",
-    "version": "1.1.0",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-07-11T13:40:44Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
-  },
-  {
     "repo": "determination-wind/areacleaner",
     "internalName": "areacleaner",
     "name": "AreaCleaner",
@@ -6480,6 +6452,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Cryon\n\nAdded a new planet.\nFrozen planet. New ores. New machines. New enemies.\nBuild, fight, explore.\n\nPlease install Cryon Core first!This is a dependency package!\n\nSupported languages: English, Chinese.\n\nThis mod is currently in testing.\nBug feedback: github bowen-H0"
+  },
+  {
+    "repo": "determination-wind/betterlogisticsspeed",
+    "internalName": "betterlogisticsspeed",
+    "name": "betterLogisticsSpeed",
+    "version": "2.0.1",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-08-08T03:42:47Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add long-window moving-average logistics speed rows under vanilla item speed display. / 在原版物流速度显示下方追加长窗口滑动平均行。"
+  },
+  {
+    "repo": "determination-wind/tripwire",
+    "internalName": "tripwire-dev",
+    "name": "Tripwire",
+    "version": "1.1.1",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-08-08T03:48:36Z",
+    "stars": 1,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -7560,20 +7560,6 @@
     "description": "Mod to add real life things to the game"
   },
   {
-    "repo": "determination-wind/betterrtsformation",
-    "internalName": "betterrtsformation",
-    "name": "Better RTS Formation",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-02T13:43:34Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Make RTS control groups easier to create, select, and recognize."
-  },
-  {
     "repo": "fk4b/pickmeanime",
     "internalName": "pick-me-anime",
     "name": "Pick Me Anime",
@@ -7614,5 +7600,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Frozen planet. New ores. New machines. New enemies.\nBuild, fight, explore.\nAdds Java-based mechanics and functionality for Cryon. This mod depends on Cryon and will not work standalone — make sure both are installed. Alpha/testing phase, bugs expected."
+  },
+  {
+    "repo": "determination-wind/betterrtsformation",
+    "internalName": "betterrtsformation",
+    "name": "Better RTS Formation",
+    "version": "1.0.1",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-08T04:03:31Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Make RTS control groups easier to create, select, and recognize."
   }
 ]
