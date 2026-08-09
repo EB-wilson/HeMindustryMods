@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-08T21:06:02Z",
+    "lastUpdated": "2026-08-09T07:20:23Z",
     "stars": 117,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-09T05:14:44Z",
+    "lastUpdated": "2026-08-09T07:08:19Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1112,7 +1112,7 @@
     "version": "2.1.1.C",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-08-09T06:43:42Z",
+    "lastUpdated": "2026-08-09T07:29:43Z",
     "stars": 22,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -6454,20 +6454,6 @@
     "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nYour mod browser will usually handle dependencies automatically.\nPlease install Cryon Core first! This is a dependency package!\n\nThis mod is currently in testing."
   },
   {
-    "repo": "mohitosemerkaa/mohito-s-modd",
-    "internalName": "mohitosmodd",
-    "name": "Mohito's Modd",
-    "version": "1.0",
-    "hidden": false,
-    "author": "MohitoSemerka",
-    "lastUpdated": "2026-08-08T22:54:27Z",
-    "stars": 1,
-    "minGameVersion": "159.6",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "-Added new planet: Componda\n-Added 4 new turrets!\n-Added silicon furnace\n-Added 7 units\n-Added 3 sectors for Componda\n-Added new item: cobalt\n-Added distribution blocks\n-Added power blocks\n-Added walls (electrum, lead)\n-Added drills\n-Balance improvements\n-Bug fixes"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -6480,6 +6466,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "mohitosemerkaa/mohito-s-modd",
+    "internalName": "mohitosmodd",
+    "name": "Mohito's Modd",
+    "version": "0.3b",
+    "hidden": false,
+    "author": "MohitoSemerka",
+    "lastUpdated": "2026-08-09T07:28:04Z",
+    "stars": 1,
+    "minGameVersion": "159.6",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "added new block - Electrum Crucible"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
