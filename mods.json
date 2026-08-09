@@ -524,7 +524,7 @@
     "version": "3",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-08-08T02:50:18Z",
+    "lastUpdated": "2026-08-09T02:50:13Z",
     "stars": 49,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -734,7 +734,7 @@
     "version": "v1.3",
     "hidden": false,
     "author": "SezoVK",
-    "lastUpdated": "2026-08-08T02:10:54Z",
+    "lastUpdated": "2026-08-09T03:37:09Z",
     "stars": 34,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -2338,20 +2338,6 @@
     "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-08-07T07:16:10Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "determination-wind/radial-build-menu-hud-",
     "internalName": "radial-build-menu",
     "name": "圆盘快捷建造 / Radial Build Menu",
@@ -2378,6 +2364,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-08-08[white]"
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "1.03",
+    "hidden": false,
+    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
+    "lastUpdated": "2026-08-09T03:27:36Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -4228,20 +4228,6 @@
     "description": "Logic editor enhancements: jump line coloring, box select, expression editor, scrollbar enhancement, and JUMP navigation. See https://github.com/nosbhghggg/logic-assist for details."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.8",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-08-06T17:29:13Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4282,6 +4268,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.8",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-08-09T01:52:26Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -7336,20 +7336,6 @@
     "description": "A mod about fog, darkness and atmospheric technologies."
   },
   {
-    "repo": "576576/mdtc",
-    "internalName": "mdtc-mod",
-    "name": "MdtC Coder",
-    "version": "${version}",
-    "hidden": true,
-    "author": "576576",
-    "lastUpdated": "2026-06-11T14:05:05Z",
-    "stars": 0,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "In-game MdtC logic editor with dual-pane layout. Compile .mdtc to .mdtcode in real-time."
-  },
-  {
     "repo": "edward-bill/inf-processor",
     "internalName": "inf-processor",
     "name": "World processor 2",
@@ -7614,5 +7600,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nYour mod browser will usually handle dependencies automatically.\ndependencies: Cryon\nThis mod is currently in testing."
+  },
+  {
+    "repo": "576576/mdtc",
+    "internalName": "mdtc-mod",
+    "name": "MdtC Coder",
+    "version": "${version}",
+    "hidden": true,
+    "author": "576576",
+    "lastUpdated": "2026-08-09T02:26:46Z",
+    "stars": 0,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "In-game MdtC logic editor with dual-pane layout. Compile .mdtc to .mdtcode in real-time."
   }
 ]
