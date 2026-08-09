@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-09T15:09:03Z",
+    "lastUpdated": "2026-08-09T19:39:59Z",
     "stars": 118,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -1434,7 +1434,7 @@
     "version": "1.4.1",
     "hidden": false,
     "author": "\nAuthor: \"[#ff6600]Vali#5378[]\"\nHelped with the code a bit: \"Fresh791\"\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2026-08-08T06:52:18Z",
+    "lastUpdated": "2026-08-09T19:31:57Z",
     "stars": 15,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -5166,6 +5166,20 @@
     "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-08-08[white]"
   },
   {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "13.0.0",
+    "hidden": true,
+    "author": "bowen-H0",
+    "lastUpdated": "2026-08-08T18:19:55Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nYour mod browser will usually handle dependencies automatically.\nPlease install Cryon Core first! This is a dependency package!\n\nThis mod is currently in testing."
+  },
+  {
     "repo": "nitison/image.msch",
     "internalName": "image-msch",
     "name": "Image.msch",
@@ -6230,20 +6244,6 @@
     "description": "Aims to completely redesign almost all of Mindustry's block textures, primarily on Serpulo."
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "version": "1.2",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2026-07-25T23:36:51Z",
-    "stars": 1,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "fadyelkbeer/sirenalarmspeaker",
     "internalName": "siren-alarm-speaker",
     "name": "Siren Alarm Speaker",
@@ -6440,18 +6440,18 @@
     "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "13.0.0",
-    "hidden": true,
-    "author": "bowen-H0",
-    "lastUpdated": "2026-08-08T18:19:55Z",
+    "repo": "bowen-h0/mindustry-mod-cryon-core",
+    "internalName": "cryon-java-dependency",
+    "name": "Cryon Core",
+    "version": "15.1.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-08-08T18:25:02Z",
     "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nYour mod browser will usually handle dependencies automatically.\nPlease install Cryon Core first! This is a dependency package!\n\nThis mod is currently in testing."
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nYour mod browser will usually handle dependencies automatically.\ndependencies: Cryon\nThis mod is currently in testing."
   },
   {
     "repo": "xpdustry/slf4md",
@@ -6480,6 +6480,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "-Added new planet: Componda\n-Added 4 new turrets!\n-Added silicon furnace\n-Added 7 units\n-Added 3 sectors for Componda\n-Added new item: cobalt\n-Added distribution blocks\n-Added power blocks\n-Added walls (electrum, lead)\n-Added drills\n-Balance improvements\n-Bug fixes"
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "version": "1.2",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2026-08-09T19:53:25Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -7572,20 +7586,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry auto translate mod (fork, AI-enhanced)."
-  },
-  {
-    "repo": "bowen-h0/mindustry-mod-cryon-core",
-    "internalName": "cryon-java-dependency",
-    "name": "Cryon Core",
-    "version": "15.1.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-08-08T18:25:02Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nYour mod browser will usually handle dependencies automatically.\ndependencies: Cryon\nThis mod is currently in testing."
   },
   {
     "repo": "576576/mdtc",
