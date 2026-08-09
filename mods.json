@@ -140,20 +140,6 @@
     "description": "Hell time, once for all\n\nThis mod adds new items, buildings, units, and turrets, and has a planet for you to explore.\nMore campaign maps WIP.\nWarning: This mod makes certain modifications to the original game content to accommodate the mod's operation."
   },
   {
-    "repo": "stabu-dev/omaloon",
-    "internalName": "omaloon",
-    "name": "Omaloon",
-    "version": "0.1.2A Indev 8",
-    "hidden": false,
-    "author": "stabu",
-    "lastUpdated": "2026-08-07T11:29:17Z",
-    "stars": 141,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An ambitious campaign expansion featuring a brand new star system.\n\n[red]⚠️ Stable Build is Outdated ⚠️[]\nThe current stable release doesn't support Mindustry v8. All new features and v8 compatibility are actively being built in [accent]Indev[] (In-Development) snapshots.\n\n[accent]How to play the v8 Indevs:[]\nThe default install button ignores pre-releases. To get the latest content:\n[gray]1.[] Tap [accent]View Releases[] in this menu.\n[gray]2.[] Select the newest [orange]indev[] version.\n[gray]3.[] Install it manually."
-  },
-  {
     "repo": "3snake3/sapphirium",
     "internalName": "sapphirium",
     "name": "Sapphirium",
@@ -166,6 +152,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
+  },
+  {
+    "repo": "stabu-dev/omaloon",
+    "internalName": "omaloon",
+    "name": "Omaloon",
+    "version": "0.1.2A Indev 8",
+    "hidden": false,
+    "author": "stabu",
+    "lastUpdated": "2026-08-09T22:16:45Z",
+    "stars": 140,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An ambitious campaign expansion featuring a brand new star system.\n\n[red]⚠️ Stable Build is Outdated ⚠️[]\nThe current stable release doesn't support Mindustry v8. All new features and v8 compatibility are actively being built in [accent]Indev[] (In-Development) snapshots.\n\n[accent]How to play the v8 Indevs:[]\nThe default install button ignores pre-releases. To get the latest content:\n[gray]1.[] Tap [accent]View Releases[] in this menu.\n[gray]2.[] Select the newest [orange]indev[] version.\n[gray]3.[] Install it manually."
   },
   {
     "repo": "eschatologue/unlimited-armament-works",
@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-09T19:39:59Z",
+    "lastUpdated": "2026-08-09T20:35:19Z",
     "stars": 118,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -2072,20 +2072,6 @@
     "description": "此mod分离自mod tools.\nFixed a lot of bugs."
   },
   {
-    "repo": "prosta4okua/ukrajinisator",
-    "internalName": "ukrainian-translation-mod",
-    "name": "Ukrainian translation",
-    "version": "7.0.1",
-    "hidden": false,
-    "author": "Prosta4ok_ua#6336",
-    "lastUpdated": "2025-02-20T22:11:53Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
-  },
-  {
     "repo": "theserjio/advanceddatabase",
     "internalName": "advanced-database",
     "name": "Advanced DataBase",
@@ -2728,6 +2714,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nThis is a very small mod that simply replaces some existing content in the game.\n\n--- -- -- - - -\n\nThis mod includes:\n-- Door: custom sprites, sound.\n-- Logic: custom sprites.\n\n--- -- -- - - -\n\nIt was created, at least, to slightly refresh the experience of constructing logic circuits from logic elements, in which a binary signal is transmitted through doors.\n"
+  },
+  {
+    "repo": "prosta4okua/ukrajinisator",
+    "internalName": "ukrainian-translation-mod",
+    "name": "Ukrainian translation",
+    "version": "7.0.1",
+    "hidden": false,
+    "author": "Prosta4ok_ua#6336",
+    "lastUpdated": "2025-02-20T22:11:53Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
   },
   {
     "repo": "sova444/compressing-mod",
@@ -3822,20 +3822,6 @@
     "description": "Перевод мода Ntm\n\nБлагодарности:\nhacker_pentagon (Китайский Котик)\nKoctz34 (Ion - 7274, автор Оригинала)"
   },
   {
-    "repo": "stabu-dev/thats-fire",
-    "internalName": "that'sfire",
-    "name": "That's Fire",
-    "version": "1.0",
-    "hidden": true,
-    "author": "stabu_",
-    "lastUpdated": "2025-08-03T21:20:12Z",
-    "stars": 3,
-    "minGameVersion": "150.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Makes fire pretty \n[gray](and blocky)"
-  },
-  {
     "repo": "no9527dada/creators3",
     "internalName": "ct",
     "name": "创世神3-仙明决Creators 3",
@@ -4576,6 +4562,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A campaign mod with a planet themed around magic.\n\nCompletion rate: ~50%\n\nContent is designed with intention . Tech tree is non-linear, and levels actually play differently from each other.\n\nLore is for chumps, this is raw gameplay injected right into your veins!\n\n[red]Difficulty:[] modest, no handholding\n[yellow]Length:[] short if you're good\n[green]Quality:[] astonishing really\n[cyan]Translation:[] none\n[cyan]Release date:[] in the future"
+  },
+  {
+    "repo": "stabu-dev/thats-fire",
+    "internalName": "that'sfire",
+    "name": "That's Fire",
+    "version": "1.0",
+    "hidden": true,
+    "author": "stabu_",
+    "lastUpdated": "2025-08-03T21:20:12Z",
+    "stars": 2,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Makes fire pretty \n[gray](and blocky)"
   },
   {
     "repo": "dustdustry/logicscreenshot",
