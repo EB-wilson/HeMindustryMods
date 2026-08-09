@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-09T07:20:23Z",
+    "lastUpdated": "2026-08-09T09:54:11Z",
     "stars": 117,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -5096,20 +5096,6 @@
     "description": "Mindustry? Yes, but more!"
   },
   {
-    "repo": "nitison/image.msch",
-    "internalName": "image-msch",
-    "name": "Image.msch",
-    "version": "v2",
-    "hidden": true,
-    "author": "NiTiSon",
-    "lastUpdated": "2026-08-08T01:38:27Z",
-    "stars": 2,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[white] This mod adds ability to share schematics via png images.[]\n\n[accent] [#FFF000]Features:[]\n[white] Export schematic-images and share them with your friends (or enemy).[]\n[white] Dropdown images to import schematics.[]\n\n How does it works?\n[white] The game stores schematics either as msch files or base64 encoded strings.\nThis mod stores schematic data inside png itself.\nBy that you can both share and show your schematics at the same time.[]"
-  },
-  {
     "repo": "determination-wind/pinyinsearchsupport",
     "internalName": "pinyinsearchsupport-dev",
     "name": "PinyinSearchSupport / 拼音搜索支持",
@@ -5178,6 +5164,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-08-08[white]"
+  },
+  {
+    "repo": "nitison/image.msch",
+    "internalName": "image-msch",
+    "name": "Image.msch",
+    "version": "v2",
+    "hidden": true,
+    "author": "NiTiSon",
+    "lastUpdated": "2026-08-09T10:21:49Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[white] This mod adds ability to share schematics via png images.[]\n\n[accent] [#FFF000]Features:[]\n[white] Export schematic-images and share them with your friends (or enemy).[]\n[white] Dropdown images to import schematics.[]\n\n How does it works?\n[white] The game stores schematics either as msch files or base64 encoded strings.\nThis mod stores schematic data inside png itself.\nBy that you can both share and show your schematics at the same time.[]"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -6471,15 +6471,15 @@
     "repo": "mohitosemerkaa/mohito-s-modd",
     "internalName": "mohitosmodd",
     "name": "Mohito's Modd",
-    "version": "0.3b",
+    "version": "1.0",
     "hidden": false,
     "author": "MohitoSemerka",
-    "lastUpdated": "2026-08-09T07:28:04Z",
+    "lastUpdated": "2026-08-09T09:40:39Z",
     "stars": 1,
     "minGameVersion": "159.6",
     "hasScripts": false,
     "hasJava": false,
-    "description": "added new block - Electrum Crucible"
+    "description": "-Added new planet: Componda\n-Added 4 new turrets!\n-Added silicon furnace\n-Added 7 units\n-Added 3 sectors for Componda\n-Added new item: cobalt\n-Added distribution blocks\n-Added power blocks\n-Added walls (electrum, lead)\n-Added drills\n-Balance improvements\n-Bug fixes"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
