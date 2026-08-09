@@ -216,8 +216,8 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-09T11:20:17Z",
-    "stars": 117,
+    "lastUpdated": "2026-08-09T15:09:03Z",
+    "stars": 118,
     "minGameVersion": "159.6",
     "hasScripts": false,
     "hasJava": true,
@@ -315,7 +315,7 @@
     "hidden": false,
     "author": "Alon",
     "lastUpdated": "2026-07-21T10:11:04Z",
-    "stars": 82,
+    "stars": 83,
     "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
@@ -1028,7 +1028,7 @@
     "version": "11.0.0",
     "hidden": true,
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-08-08T17:40:36Z",
+    "lastUpdated": "2026-08-09T16:22:00Z",
     "stars": 25,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -2016,6 +2016,20 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-08-08T08:25:56Z",
+    "stars": 10,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
+  },
+  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -2201,29 +2215,15 @@
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
-    "version": "2.8.4",
+    "version": "2.8.5",
     "hidden": true,
     "author": "io community",
-    "lastUpdated": "2026-08-07T13:24:01Z",
+    "lastUpdated": "2026-08-09T15:50:57Z",
     "stars": 9,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
     "description": "Improves your experience on the official io  Flood server."
-  },
-  {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-08-08T08:25:56Z",
-    "stars": 9,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "p101q/snowdustry",
@@ -5180,6 +5180,20 @@
     "description": "[white] This mod adds ability to share schematics via png images.[]\n\n[accent] [#FFF000]Features:[]\n[white] Export schematic-images and share them with your friends (or enemy).[]\n[white] Dropdown images to import schematics.[]\n\n How does it works?\n[white] The game stores schematics either as msch files or base64 encoded strings.\nThis mod stores schematic data inside png itself.\nBy that you can both share and show your schematics at the same time.[]"
   },
   {
+    "repo": "frilofril/omega",
+    "internalName": "omega",
+    "name": "Omega",
+    "version": "Pre-Demo 0.2.1/5",
+    "hidden": false,
+    "author": "Frilofril",
+    "lastUpdated": "2026-08-09T15:26:46Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n"
+  },
+  {
     "repo": "routerxdd/mechanicalwarfareport",
     "internalName": "mechanical-warfare-revisit",
     "name": "Forgotten Wartech",
@@ -6468,20 +6482,6 @@
     "description": "-Added new planet: Componda\n-Added 4 new turrets!\n-Added silicon furnace\n-Added 7 units\n-Added 3 sectors for Componda\n-Added new item: cobalt\n-Added distribution blocks\n-Added power blocks\n-Added walls (electrum, lead)\n-Added drills\n-Balance improvements\n-Bug fixes"
   },
   {
-    "repo": "frilofril/omega",
-    "internalName": "omega",
-    "name": "Omega",
-    "version": "Pre-Demo 0.2.1/5",
-    "hidden": false,
-    "author": "Frilofril",
-    "lastUpdated": "2026-08-09T14:02:53Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n"
-  },
-  {
     "repo": "lorendoscsharp/tzarbimbajava",
     "internalName": "tzarbimbajava",
     "name": "tzarbimbajava",
@@ -7574,20 +7574,6 @@
     "description": "A Mindustry auto translate mod (fork, AI-enhanced)."
   },
   {
-    "repo": "determination-wind/betterrtsformation",
-    "internalName": "betterrtsformation",
-    "name": "Better RTS Formation",
-    "version": "1.0.2",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-08T10:32:21Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Make RTS control groups easier to create, select, and recognize."
-  },
-  {
     "repo": "bowen-h0/mindustry-mod-cryon-core",
     "internalName": "cryon-java-dependency",
     "name": "Cryon Core",
@@ -7628,5 +7614,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "指挥模式辅助小模组：在「设置→控制」中配置两个快捷键，一键选中所有 mono、一键选中所有 poly。"
+  },
+  {
+    "repo": "determination-wind/betterrtsformation",
+    "internalName": "betterrtsformation",
+    "name": "Better RTS Formation",
+    "version": "1.0.3",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-09T16:20:35Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Make RTS control groups easier to create, select, and recognize."
   }
 ]
