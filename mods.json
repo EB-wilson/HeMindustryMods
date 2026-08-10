@@ -185,10 +185,10 @@
     "repo": "blackdeluxecat/mi2-utilities-java",
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
-    "version": "1.15.1",
+    "version": "1.15.2",
     "hidden": true,
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2026-08-09T12:20:41Z",
+    "lastUpdated": "2026-08-10T02:59:55Z",
     "stars": 133,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -902,7 +902,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-09T13:38:46Z",
+    "lastUpdated": "2026-08-10T02:46:13Z",
     "stars": 27,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1176,6 +1176,20 @@
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
+    "repo": "hungrycloud4913/esocatalyst",
+    "internalName": "esocatalyst",
+    "name": "Esocatalyst",
+    "version": "Lost Track?",
+    "hidden": false,
+    "author": "HungryCloud4913",
+    "lastUpdated": "2026-07-11T14:38:46Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
+  },
+  {
     "repo": "430230562/vanilla-neoplasm-extend",
     "internalName": "vne",
     "name": "原版瘤液拓展",
@@ -1216,20 +1230,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod for rendering black holes."
-  },
-  {
-    "repo": "hungrycloud4913/esocatalyst",
-    "internalName": "esocatalyst",
-    "name": "Esocatalyst",
-    "version": "Lost Track?",
-    "hidden": false,
-    "author": "HungryCloud4913",
-    "lastUpdated": "2026-07-11T14:38:46Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -4200,20 +4200,6 @@
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[accent]Changelog / Novedades v0.8:\n[lightgray]• New sprites (working on the missing sprites).\n• New palladium conduit family and liquid overflow/underflow gate for pulse conduit and palladium family. \n•You can now use any technology from any planet (and mods) in Volta (Volta shares the same resources as Serpulo, plus Volta's own resources). \n• New Modular Core and Modular sistem.\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·Nuevo Nucleo Core: Paradigm y sus 6 nuevos módulos, ademas funcionan con cualquier nucleo (Azul aun esta en desarrollo) \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]· Familia completa de tuberia de paladio (router, junction, bridge and liquid container) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, More Defenses, Expanded Industries, Better Terrain Gen V2, Modularis, simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
-    "repo": "nosbhghggg/jump-line-color",
-    "internalName": "logic-assist",
-    "name": "Logic Assist",
-    "version": "1.1.2",
-    "hidden": true,
-    "author": "VT4JIGMQG",
-    "lastUpdated": "2026-08-02T10:34:48Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Logic editor enhancements: jump line coloring, box select, expression editor, scrollbar enhancement, and JUMP navigation. See https://github.com/nosbhghggg/logic-assist for details."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4268,6 +4254,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "nosbhghggg/jump-line-color",
+    "internalName": "logic-assist",
+    "name": "Logic Assist",
+    "version": "1.1.3",
+    "hidden": true,
+    "author": "VT4JIGMQG",
+    "lastUpdated": "2026-08-10T02:06:35Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Logic editor enhancements: jump line coloring, box select, expression editor, scrollbar enhancement, and JUMP navigation. See https://github.com/nosbhghggg/logic-assist for details."
   },
   {
     "repo": "leyn-pl/iconpicker",
