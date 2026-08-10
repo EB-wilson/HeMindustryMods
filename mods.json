@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-07-31T14:58:28Z",
-    "stars": 613,
+    "stars": 614,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -34,7 +34,7 @@
     "version": "1.2.3.0",
     "hidden": false,
     "author": "guiY",
-    "lastUpdated": "2026-08-10T09:20:11Z",
+    "lastUpdated": "2026-08-10T09:26:52Z",
     "stars": 263,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -1246,6 +1246,20 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "1.1.159.7",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-08-08T20:55:07Z",
+    "stars": 18,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
+  },
+  {
     "repo": "itzcraft/epsilon",
     "internalName": "epsilon",
     "name": "Epsilon",
@@ -1300,20 +1314,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
-  },
-  {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "1.1.159.7",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-08-08T20:55:07Z",
-    "stars": 17,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
   },
   {
     "repo": "topyrit/capital_progress",
@@ -5180,20 +5180,6 @@
     "description": "[white] This mod adds ability to share schematics via png images.[]\n\n[accent] [#FFF000]Features:[]\n[white] Export schematic-images and share them with your friends (or enemy).[]\n[white] Dropdown images to import schematics.[]\n\n How does it works?\n[white] The game stores schematics either as msch files or base64 encoded strings.\nThis mod stores schematic data inside png itself.\nBy that you can both share and show your schematics at the same time.[]"
   },
   {
-    "repo": "frilofril/omega",
-    "internalName": "omega",
-    "name": "Omega",
-    "version": "Pre-Demo 0.2.1/5",
-    "hidden": false,
-    "author": "Frilofril",
-    "lastUpdated": "2026-08-09T15:26:46Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n"
-  },
-  {
     "repo": "bowen-h0/mindustry-mod-cryon",
     "internalName": "cryon",
     "name": "Cryon",
@@ -5206,6 +5192,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nYour mod browser will usually handle dependencies automatically.\nPlease install Cryon Core first! This is a dependency package!\n\nThis mod is currently in testing."
+  },
+  {
+    "repo": "frilofril/omega",
+    "internalName": "omega",
+    "name": "Omega",
+    "version": "Pre-Demo 0.2.1/5",
+    "hidden": false,
+    "author": "Frilofril",
+    "lastUpdated": "2026-08-10T10:20:01Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
