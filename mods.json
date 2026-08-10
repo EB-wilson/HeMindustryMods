@@ -34,7 +34,7 @@
     "version": "1.2.3.0",
     "hidden": false,
     "author": "guiY",
-    "lastUpdated": "2026-08-10T06:52:27Z",
+    "lastUpdated": "2026-08-10T09:20:11Z",
     "stars": 263,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -160,7 +160,7 @@
     "version": "0.1.2A Indev 8",
     "hidden": false,
     "author": "stabu",
-    "lastUpdated": "2026-08-09T22:16:45Z",
+    "lastUpdated": "2026-08-10T09:14:26Z",
     "stars": 140,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -2982,6 +2982,20 @@
     "description": "A modern shaders mod for Mindustry."
   },
   {
+    "repo": "determination-wind/logicsugar",
+    "internalName": "logicsugar",
+    "name": "Logic Sugar",
+    "version": "2.1.2",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-10T07:05:53Z",
+    "stars": 6,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
+  },
+  {
     "repo": "pirojok3000/erekir-cargo-drone-for-serpulo",
     "internalName": "serpulo-payload-drone-alternative",
     "name": "Serpulo cargo drone",
@@ -3218,20 +3232,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Addon son ton everon worn"
-  },
-  {
-    "repo": "determination-wind/logicsugar",
-    "internalName": "logicsugar",
-    "name": "Logic Sugar",
-    "version": "2.1.2",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-10T07:05:53Z",
-    "stars": 5,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
     "repo": "koctz34/canvases",
