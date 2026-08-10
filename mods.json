@@ -874,7 +874,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-08-10T16:52:12Z",
+    "lastUpdated": "2026-08-10T17:58:03Z",
     "stars": 28,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -4276,7 +4276,7 @@
     "version": "13.0.0",
     "hidden": true,
     "author": "bowen-H0",
-    "lastUpdated": "2026-08-10T16:52:34Z",
+    "lastUpdated": "2026-08-10T16:53:21Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -5108,6 +5108,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mindustry? Yes, but more!"
+  },
+  {
+    "repo": "itsxeroc/scheme-size",
+    "internalName": "scheme-size",
+    "name": "!Scheme Size",
+    "version": "2.0.0",
+    "hidden": true,
+    "author": "Mithra\nOriginal: xzxADIxzx",
+    "lastUpdated": "2026-08-05T21:38:39Z",
+    "stars": 2,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A custom port of Scheme Size for newer Mindustry builds.\n\nStarted as a schematic size increase, now a set of QoL and admin tools: bigger schematics, building helpers, renderer options, AI, keybinds, CLaJ, and an advanced console.\n\nClient & server:\nSame jar works as a normal client mod and on a dedicated server. On a vanilla server (without this mod) you still get client QoL. If the server also has the jar, admin tools like fill, items, units, teleport and rules sync over the network - even when you are not the local host. Those actions require admin.\n\nRequires Mindustry v156+. One jar for desktop and mobile (156–159). Vanilla recommended.\n\nOriginal mod by xzxADIxzx. Port by Mithra. The original author is not involved in this port.\n\n\n - Schematic size 512\n - Building & renderer tools\n - Admin tools (optional server sync)\n - AI support\n - CLaJ, keybinds, updater\n - Advanced console & rule setter"
   },
   {
     "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
@@ -6340,20 +6354,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a small set of blocks to make challenge maps more interesting."
-  },
-  {
-    "repo": "itsxeroc/scheme-size",
-    "internalName": "scheme-size",
-    "name": "!Scheme Size",
-    "version": "2.0.0",
-    "hidden": true,
-    "author": "Mithra\nOriginal: xzxADIxzx",
-    "lastUpdated": "2026-08-05T21:38:39Z",
-    "stars": 1,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A custom port of Scheme Size for newer Mindustry builds.\n\nStarted as a schematic size increase, now a set of QoL and admin tools: bigger schematics, building helpers, renderer options, AI, keybinds, CLaJ, and an advanced console.\n\nClient & server:\nSame jar works as a normal client mod and on a dedicated server. On a vanilla server (without this mod) you still get client QoL. If the server also has the jar, admin tools like fill, items, units, teleport and rules sync over the network - even when you are not the local host. Those actions require admin.\n\nRequires Mindustry v156+. One jar for desktop and mobile (156–159). Vanilla recommended.\n\nOriginal mod by xzxADIxzx. Port by Mithra. The original author is not involved in this port.\n\n\n - Schematic size 512\n - Building & renderer tools\n - Admin tools (optional server sync)\n - AI support\n - CLaJ, keybinds, updater\n - Advanced console & rule setter"
   },
   {
     "repo": "lebrops/sporbels-inventions",
