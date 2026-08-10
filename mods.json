@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-09T20:35:19Z",
+    "lastUpdated": "2026-08-10T00:28:16Z",
     "stars": 118,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -259,7 +259,7 @@
     "hidden": true,
     "author": "Sharlotte",
     "lastUpdated": "2026-04-17T14:10:11Z",
-    "stars": 97,
+    "stars": 98,
     "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
@@ -518,20 +518,6 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#f1c40f]Team members:[]\r\n- [#6e7f96] Andromeda-Galaxy29[]\r\n- [#6e7f96] iRatzeyMezeri[]\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2] thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2] tinport[] - various suggestions and maps\r\n- [#5865f2] mrapple_0[] - maps\r\n- [#5865f2] cirrusisakey[] - help with sfx\r\n- [#6e7f96] xhstoyea[] - Chinese translations\r\n\r\n[#9b59b6]Other thanks:[]\r\n- [#5865f2] chozochorizo[] for help with balancing the mod\r\n- [#6e7f96] ThomasThings[] and [#6e7f96] Twcash[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2] nekoarkbruhagain_07111[]\r\n- [#5865f2] allayscrafter[]"
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "3",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-08-09T02:50:13Z",
-    "stars": 49,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
-  },
-  {
     "repo": "deercarbonate/azimuth",
     "internalName": "azimut",
     "name": "Azimut",
@@ -539,11 +525,25 @@
     "hidden": false,
     "author": "DeerCarbonate",
     "lastUpdated": "2026-08-06T12:30:46Z",
-    "stars": 48,
+    "stars": 49,
     "minGameVersion": "154",
     "hasScripts": true,
     "hasJava": false,
     "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "3",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-08-10T00:16:15Z",
+    "stars": 49,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "00sunray00/scheme-size-port",
@@ -5166,20 +5166,6 @@
     "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-08-08[white]"
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "13.0.0",
-    "hidden": true,
-    "author": "bowen-H0",
-    "lastUpdated": "2026-08-08T18:19:55Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nYour mod browser will usually handle dependencies automatically.\nPlease install Cryon Core first! This is a dependency package!\n\nThis mod is currently in testing."
-  },
-  {
     "repo": "nitison/image.msch",
     "internalName": "image-msch",
     "name": "Image.msch",
@@ -5206,6 +5192,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n"
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "13.0.0",
+    "hidden": true,
+    "author": "bowen-H0",
+    "lastUpdated": "2026-08-09T23:13:01Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nYour mod browser will usually handle dependencies automatically.\nPlease install Cryon Core first! This is a dependency package!\n\nThis mod is currently in testing."
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
