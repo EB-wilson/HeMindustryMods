@@ -854,32 +854,32 @@
     "description": "Add the new sectors and content on Erekir"
   },
   {
-    "repo": "bsp-2/echo-fleet",
-    "internalName": "echo-fleet",
-    "name": "Echo Fleet",
-    "version": "",
-    "hidden": false,
-    "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-07-30T20:20:21Z",
-    "stars": 28,
-    "minGameVersion": "152.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \n[royal]Kaltos[] is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \n[gold]Aetheria[] on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on [royal]Kaltos[] and [gold]Aetheria[]. \n\n[red]This mod is still in early development,[] as of now it only adds a bunch of [accent]sandbox only blocks[] and [accent]environment tiles[]. Several sectors have been made already, more are yet to come. It also has custom music. \n\nOther then that, the mod focuses on [accent]complex factories[] and [accent]refining Crude Oil[]. \n\n[accent]I re-used no content from vanilla, even though this mod seemingly has several things from it. \n\n[red]Currently the mod is way too early into development to have any proper translations. \n\n[]Have fun with whats already added, I guess. :)"
-  },
-  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-10T13:36:11Z",
+    "lastUpdated": "2026-08-10T16:07:03Z",
     "stars": 28,
     "minGameVersion": "159",
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version isnt available or is\nbugged then please use download from the \nlatest releases instead.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 25 stars)[]\n"
+  },
+  {
+    "repo": "bsp-2/echo-fleet",
+    "internalName": "echo-fleet",
+    "name": "Echo Fleet",
+    "version": "",
+    "hidden": false,
+    "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
+    "lastUpdated": "2026-08-10T16:52:12Z",
+    "stars": 28,
+    "minGameVersion": "152.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \n[royal]Kaltos[] is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \n[gold]Aetheria[] on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on [royal]Kaltos[] and [gold]Aetheria[]. \n\n[red]This mod is still in early development,[] as of now it only adds a bunch of [accent]sandbox only blocks[] and [accent]environment tiles[]. Several sectors have been made already, more are yet to come. It also has custom music. \n\nOther then that, the mod focuses on [accent]complex factories[] and [accent]refining Crude Oil[]. \n\n[accent]I re-used no content from vanilla, even though this mod seemingly has several things from it. \n\n[red]Currently the mod is way too early into development to have any proper translations. \n\n[]Have fun with whats already added, I guess. :)"
   },
   {
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
@@ -1028,7 +1028,7 @@
     "version": "11.0.0",
     "hidden": true,
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-08-10T12:40:43Z",
+    "lastUpdated": "2026-08-10T15:24:28Z",
     "stars": 25,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -4228,20 +4228,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "13.0.0",
-    "hidden": true,
-    "author": "bowen-H0",
-    "lastUpdated": "2026-08-09T23:13:01Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nYour mod browser will usually handle dependencies automatically.\nPlease install Cryon Core first! This is a dependency package!\n\nThis mod is currently in testing."
-  },
-  {
     "repo": "nosbhghggg/jump-line-color",
     "internalName": "logic-assist",
     "name": "Logic Assist",
@@ -4282,6 +4268,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Client-side random text and texture presentation for Mindustry."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "13.0.0",
+    "hidden": true,
+    "author": "bowen-H0",
+    "lastUpdated": "2026-08-10T16:52:34Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nYour mod browser will usually handle dependencies automatically.\nPlease install Cryon Core first! This is a dependency package!\n\nThis mod is currently in testing."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -6132,6 +6132,20 @@
     "description": "Removes building damage penalty"
   },
   {
+    "repo": "r1tm200/bswedymusicpack",
+    "internalName": "bsweedymusicpack",
+    "name": "бисвиди песенки",
+    "version": "1.0",
+    "hidden": false,
+    "author": "@ggvpaaall",
+    "lastUpdated": "2026-06-27T20:33:46Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "маленький сборник песен бисвиди"
+  },
+  {
     "repo": "determination-wind/areacleaner",
     "internalName": "areacleaner",
     "name": "AreaCleaner",
@@ -7420,20 +7434,6 @@
     "description": "Adds a laser ground-to-air (SPAA) system designed to exceptionally handle air targets."
   },
   {
-    "repo": "r1tm200/bswedymusicpack",
-    "internalName": "bsweedymusicpack",
-    "name": "бисвиди песенки",
-    "version": "1.0",
-    "hidden": false,
-    "author": "@ggvpaaall",
-    "lastUpdated": "2026-06-27T20:33:46Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "маленький сборник песен бисвиди"
-  },
-  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
@@ -7656,5 +7656,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "RA2-style English voice announcements for game events (waves, base attacks, unit losses, research, victories)."
+  },
+  {
+    "repo": "6atapei9/wavesinfo",
+    "internalName": "wave-info",
+    "name": "WaveInfo",
+    "version": "1.0",
+    "hidden": false,
+    "author": "6aTaPeI9",
+    "lastUpdated": "2026-08-10T15:17:47Z",
+    "stars": 0,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Displays wave information and enemy path/spawn overlays."
   }
 ]
