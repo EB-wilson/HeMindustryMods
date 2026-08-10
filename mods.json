@@ -34,7 +34,7 @@
     "version": "1.2.3.0",
     "hidden": false,
     "author": "guiY",
-    "lastUpdated": "2026-07-16T02:02:06Z",
+    "lastUpdated": "2026-08-10T06:52:27Z",
     "stars": 263,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -546,6 +546,20 @@
     "description": "No nowhere has nothing anywhere."
   },
   {
+    "repo": "sh1penfire/meld",
+    "internalName": "meld",
+    "name": "Meld",
+    "version": "",
+    "hidden": false,
+    "author": "Sh1penfire",
+    "lastUpdated": "2026-05-15T07:21:04Z",
+    "stars": 46,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
+  },
+  {
     "repo": "00sunray00/scheme-size-port",
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
@@ -572,20 +586,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
-  },
-  {
-    "repo": "sh1penfire/meld",
-    "internalName": "meld",
-    "name": "Meld",
-    "version": "",
-    "hidden": false,
-    "author": "Sh1penfire",
-    "lastUpdated": "2026-05-15T07:21:04Z",
-    "stars": 45,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
     "repo": "uenhe/fire",
@@ -1028,7 +1028,7 @@
     "version": "11.0.0",
     "hidden": true,
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-08-09T16:22:00Z",
+    "lastUpdated": "2026-08-10T07:28:57Z",
     "stars": 25,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -3223,10 +3223,10 @@
     "repo": "determination-wind/logicsugar",
     "internalName": "logicsugar",
     "name": "Logic Sugar",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "hidden": true,
     "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-09T12:00:42Z",
+    "lastUpdated": "2026-08-10T07:05:53Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -7628,5 +7628,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Make RTS control groups easier to create, select, and recognize."
+  },
+  {
+    "repo": "determination-wind/lockattack",
+    "internalName": "lockattack",
+    "name": "LockAttack / 锁定攻击",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-10T06:27:57Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Tap the lock key (default L) to lock on to an enemy unit or building and focus fire. Commands selected units via the vanilla network command path. / 按锁定键（默认 L）锁定敌方单位或建筑并集火，选中的指挥单位通过原版网络命令路径集火。"
   }
 ]
