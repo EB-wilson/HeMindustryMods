@@ -329,7 +329,7 @@
     "hidden": false,
     "author": "VvSeanGtvV",
     "lastUpdated": "2026-06-29T05:02:32Z",
-    "stars": 76,
+    "stars": 77,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -874,7 +874,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-12T11:17:13Z",
+    "lastUpdated": "2026-08-12T14:22:41Z",
     "stars": 28,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1630,7 +1630,7 @@
     "version": "1.10.2",
     "hidden": true,
     "author": "Hao1337",
-    "lastUpdated": "2026-08-10T20:54:10Z",
+    "lastUpdated": "2026-08-12T14:32:23Z",
     "stars": 13,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -6510,6 +6510,20 @@
     "description": "A java remake of my json unfinished mod."
   },
   {
+    "repo": "trmuhittin/mindtranslator",
+    "internalName": "mindtranslator",
+    "name": "MindTranslator",
+    "version": "2.0",
+    "hidden": true,
+    "author": "LunarNetwork",
+    "lastUpdated": "2026-08-11T18:45:07Z",
+    "stars": 1,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Translates chat messages in place: pick the language your messages are translated to, the language you write in, and the language incoming messages are translated to. Client-side only; works on any server. Prevents double translation with an invisible marker protocol, includes a passive mode for servers that already translate (e.g. foo-client servers), and runs alongside Mindustry Tool. Fully configurable in-game via the gear button in the top-left corner."
+  },
+  {
     "repo": "undefined-1026/mindustry_multidimensionalmod",
     "internalName": "mdimension",
     "name": "Multi Dimensional",
@@ -7670,19 +7684,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "RA2-style English voice announcements for game events (waves, base attacks, unit losses, research, victories)."
-  },
-  {
-    "repo": "trmuhittin/mindtranslator",
-    "internalName": "mindtranslator",
-    "name": "MindTranslator",
-    "version": "2.0",
-    "hidden": true,
-    "author": "LunarNetwork",
-    "lastUpdated": "2026-08-11T18:45:07Z",
-    "stars": 0,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Translates chat messages in place: pick the language your messages are translated to, the language you write in, and the language incoming messages are translated to. Client-side only; works on any server. Prevents double translation with an invisible marker protocol, includes a passive mode for servers that already translate (e.g. foo-client servers), and runs alongside Mindustry Tool. Fully configurable in-game via the gear button in the top-left corner."
   }
 ]
