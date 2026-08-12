@@ -510,7 +510,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-08-12T09:02:16Z",
+    "lastUpdated": "2026-08-12T09:58:15Z",
     "stars": 50,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -952,6 +952,20 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
+    "repo": "rednzba990/warboundindustriesmod",
+    "internalName": "wi",
+    "name": "Warbound Industries",
+    "version": "2.1-global-release",
+    "hidden": false,
+    "author": "[ Main Developer ]\nRenn [ DC: @red.id9990 ] = Main mod creator\n\n[ Bundle ]\nBlazingGear [ DC: @justtbg_ ] = Russian translator\nDaniZZQ [ DC: @danizzq ] = Spanish translator\n\n[ Content Idea - Balancer ]\nSlyly [ DC: @tnmspiroctsub ] = Content balancer\n( Retired )",
+    "lastUpdated": "2026-07-19T03:52:59Z",
+    "stars": 26,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adding new Assault unit, Support unit, and Industries!\nTHIS MOD IS SERPULO ONLY\n\nTHIS JAVASCRIPT MOD, SO NOT SUPPORT IOSSS\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
+  },
+  {
     "repo": "itzcraft/hjsonpp",
     "internalName": "hjsonpp",
     "name": "hjson++",
@@ -1006,20 +1020,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
-  },
-  {
-    "repo": "rednzba990/warboundindustriesmod",
-    "internalName": "wi",
-    "name": "Warbound Industries",
-    "version": "2.1-global-release",
-    "hidden": false,
-    "author": "[ Main Developer ]\nRenn [ DC: @red.id9990 ] = Main mod creator\n\n[ Bundle ]\nBlazingGear [ DC: @justtbg_ ] = Russian translator\nDaniZZQ [ DC: @danizzq ] = Spanish translator\n\n[ Content Idea - Balancer ]\nSlyly [ DC: @tnmspiroctsub ] = Content balancer\n( Retired )",
-    "lastUpdated": "2026-07-19T03:52:59Z",
-    "stars": 25,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adding new Assault unit, Support unit, and Industries!\nTHIS MOD IS SERPULO ONLY\n\nTHIS JAVASCRIPT MOD, SO NOT SUPPORT IOSSS\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
   },
   {
     "repo": "determination-wind/neon",
@@ -1288,20 +1288,6 @@
     "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-08-08T08:27:08Z",
-    "stars": 17,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
-  },
-  {
     "repo": "otamamori917/axthrix-modded-java",
     "internalName": "aj",
     "name": "Axthrix",
@@ -1314,6 +1300,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-08-12T10:10:20Z",
+    "stars": 17,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
   },
   {
     "repo": "topyrit/capital_progress",
@@ -2016,32 +2016,32 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-08-08T08:25:56Z",
-    "stars": 10,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-08-11T07:43:48Z",
+    "lastUpdated": "2026-08-12T10:07:10Z",
     "stars": 10,
     "minGameVersion": "159",
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-08-12T10:09:28Z",
+    "stars": 10,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "koctz34/factor",
