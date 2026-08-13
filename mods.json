@@ -105,7 +105,7 @@
     "hidden": true,
     "author": "sk7725",
     "lastUpdated": "2026-04-13T00:22:11Z",
-    "stars": 179,
+    "stars": 180,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -874,7 +874,7 @@
     "version": "v3.1 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-08-13T01:08:22Z",
+    "lastUpdated": "2026-08-13T04:09:48Z",
     "stars": 28,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1518,7 +1518,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-08-13T00:54:13Z",
+    "lastUpdated": "2026-08-13T02:56:15Z",
     "stars": 14,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -3850,6 +3850,20 @@
     "description": "A co-op campaign mod for shared research. Players who joined the host can request research from the research screen, and the result is applied to the current campaign."
   },
   {
+    "repo": "nickseal80/mindustry-time-factor-2",
+    "internalName": "time-factor 2",
+    "name": "Time Factor 2",
+    "version": "2.2",
+    "hidden": false,
+    "author": "Seal",
+    "lastUpdated": "2026-03-22T19:24:35Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Real-time speed control for Mindustry. Customize speed limits and reset instantly with a clean UI."
+  },
+  {
     "repo": "chuvaak/futurehorizons",
     "internalName": "futurehorizons",
     "name": "Future Horizons",
@@ -4290,7 +4304,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-08-12T19:59:56Z",
+    "lastUpdated": "2026-08-13T02:34:38Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4744,20 +4758,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "该mod还处于测试阶段,非常垃圾"
-  },
-  {
-    "repo": "nickseal80/mindustry-time-factor-2",
-    "internalName": "time-factor 2",
-    "name": "Time Factor 2",
-    "version": "2.2",
-    "hidden": false,
-    "author": "Seal",
-    "lastUpdated": "2026-03-22T19:24:35Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Real-time speed control for Mindustry. Customize speed limits and reset instantly with a clean UI."
   },
   {
     "repo": "lehanchic25/hardcore-mod",
@@ -6510,20 +6510,6 @@
     "description": "idk."
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "version": "1.2",
-    "hidden": false,
-    "author": "Melis",
-    "lastUpdated": "2026-08-11T18:44:05Z",
-    "stars": 1,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "trmuhittin/mindtranslator",
     "internalName": "mindtranslator",
     "name": "MindTranslator",
@@ -6550,6 +6536,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A to be produced mod"
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "version": "1.2",
+    "hidden": false,
+    "author": "Melis",
+    "lastUpdated": "2026-08-13T01:59:09Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
