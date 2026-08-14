@@ -2380,20 +2380,6 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-08-12T18:27:38Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "128oteml/mindustryoptifine",
     "internalName": "mindustry-optifine",
     "name": "Mindustry OptiFine",
@@ -2406,6 +2392,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A modern shaders mod for Mindustry."
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "1.03",
+    "hidden": false,
+    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
+    "lastUpdated": "2026-08-14T20:29:38Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -4318,7 +4318,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-08-14T18:51:02Z",
+    "lastUpdated": "2026-08-14T20:14:46Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5228,7 +5228,7 @@
     "version": "0.1.8.2",
     "hidden": false,
     "author": "Trocket",
-    "lastUpdated": "2026-08-14T18:43:30Z",
+    "lastUpdated": "2026-08-14T19:01:26Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -6368,6 +6368,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a small set of blocks to make challenge maps more interesting."
+  },
+  {
+    "repo": "cyz520fy/auto-translate",
+    "internalName": "auto-translate",
+    "name": "Mindustry 自动翻译 (派生版)",
+    "version": "1.0",
+    "hidden": true,
+    "author": "cyz520fy",
+    "lastUpdated": "2026-08-04T20:10:19Z",
+    "stars": 1,
+    "minGameVersion": "157.9",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry auto translate mod (fork, AI-enhanced)."
   },
   {
     "repo": "lebrops/sporbels-inventions",
@@ -7614,20 +7628,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Pictologic client tool. hidden=true so servers do not kick you."
-  },
-  {
-    "repo": "cyz520fy/auto-translate",
-    "internalName": "auto-translate",
-    "name": "Mindustry 自动翻译 (派生版)",
-    "version": "1.0",
-    "hidden": true,
-    "author": "cyz520fy",
-    "lastUpdated": "2026-08-04T20:10:19Z",
-    "stars": 0,
-    "minGameVersion": "157.9",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry auto translate mod (fork, AI-enhanced)."
   },
   {
     "repo": "576576/mdtc",
