@@ -384,7 +384,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-08-09T00:31:22Z",
+    "lastUpdated": "2026-08-14T01:25:01Z",
     "stars": 63,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -538,7 +538,7 @@
     "version": "3.1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-08-13T17:07:09Z",
+    "lastUpdated": "2026-08-14T00:00:24Z",
     "stars": 49,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -1518,7 +1518,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-08-13T04:30:12Z",
+    "lastUpdated": "2026-08-14T00:36:20Z",
     "stars": 14,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -7698,5 +7698,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "RA2-style English voice announcements for game events (waves, base attacks, unit losses, research, victories)."
+  },
+  {
+    "repo": "qqqw114/mdt-quick-complete",
+    "internalName": "quick-complete",
+    "name": "快速补全",
+    "version": "1.1",
+    "hidden": true,
+    "author": "QQQW114",
+    "lastUpdated": "2026-08-13T23:00:59Z",
+    "stars": 0,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "我们添加了微软大战代码到MDT，请善用你的方向键与TAB"
   }
 ]
