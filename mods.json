@@ -538,7 +538,7 @@
     "version": "3.1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-08-14T00:00:24Z",
+    "lastUpdated": "2026-08-14T04:04:15Z",
     "stars": 49,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -1518,7 +1518,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-08-14T00:36:20Z",
+    "lastUpdated": "2026-08-14T03:05:08Z",
     "stars": 14,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -4284,20 +4284,6 @@
     "description": "Client-side random text and texture presentation for Mindustry."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-08-13T02:34:38Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "bowen-h0/mindustry-mod-cryon",
     "internalName": "cryon",
     "name": "Cryon",
@@ -4310,6 +4296,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nYour mod browser will usually handle dependencies automatically.\nPlease install Cryon Core first! This is a dependency package!\n\nThis mod is currently in testing."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-08-14T04:05:31Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "leyn-pl/iconpicker",
