@@ -77,7 +77,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-08-13T10:04:20Z",
-    "stars": 230,
+    "stars": 231,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -161,7 +161,7 @@
     "hidden": false,
     "author": "stabu",
     "lastUpdated": "2026-08-12T21:52:45Z",
-    "stars": 140,
+    "stars": 139,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -1988,20 +1988,6 @@
     "description": "Adds extra utilities to map editor."
   },
   {
-    "repo": "wantechfan/mindustry-cool-musics",
-    "internalName": "cool-musics",
-    "name": "Cool Musics",
-    "version": "1.6",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-06-29T13:11:15Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
-  },
-  {
     "repo": "meepoffaith/additional-logistics",
     "internalName": "tranqol",
     "name": "Additional Logistics",
@@ -2042,6 +2028,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "wantechfan/mindustry-cool-musics",
+    "internalName": "cool-musics",
+    "name": "Cool Musics",
+    "version": "1.6",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-08-15T14:04:28Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
     "repo": "koctz34/factor",
