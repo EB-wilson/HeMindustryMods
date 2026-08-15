@@ -1879,10 +1879,10 @@
     "repo": "tyt-xexebe/qol-control",
     "internalName": "qol-control",
     "name": "QoL Control",
-    "version": "6.7",
+    "version": "6.8",
     "hidden": true,
     "author": "TyTxexebe",
-    "lastUpdated": "2026-08-15T02:40:38Z",
+    "lastUpdated": "2026-08-15T03:09:46Z",
     "stars": 11,
     "minGameVersion": "159.5",
     "hasScripts": true,
@@ -4318,7 +4318,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-08-15T02:36:31Z",
+    "lastUpdated": "2026-08-15T03:43:46Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4772,6 +4772,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "该mod还处于测试阶段,非常垃圾"
+  },
+  {
+    "repo": "salivion/extended-ui",
+    "internalName": "extended-ui",
+    "name": "Extended UI+",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "Simuss",
+    "lastUpdated": "2026-03-22T15:54:36Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extends your UI with useful features."
   },
   {
     "repo": "lehanchic25/hardcore-mod",
@@ -5864,20 +5878,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
-  },
-  {
-    "repo": "salivion/extended-ui",
-    "internalName": "extended-ui",
-    "name": "Extended UI+",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "Simuss",
-    "lastUpdated": "2026-03-22T15:54:36Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extends your UI with useful features."
   },
   {
     "repo": "radiancestorm/mindustry-corona-borealis",
