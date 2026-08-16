@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-13T21:40:36Z",
+    "lastUpdated": "2026-08-16T01:42:20Z",
     "stars": 118,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -538,7 +538,7 @@
     "version": "3.1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-08-15T02:41:56Z",
+    "lastUpdated": "2026-08-16T02:32:36Z",
     "stars": 49,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -1372,6 +1372,20 @@
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
   },
   {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "version": "1.5.0",
+    "hidden": true,
+    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
+    "lastUpdated": "2026-08-13T20:46:38Z",
+    "stars": 16,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
+  },
+  {
     "repo": "gmugxd/qr-mod",
     "internalName": "camod",
     "name": "Quantum Realm Mod",
@@ -1440,20 +1454,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factory\nNOT the most balanced"
-  },
-  {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "version": "1.5.0",
-    "hidden": true,
-    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-08-13T20:46:38Z",
-    "stars": 15,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
     "repo": "reversteams/etigei-exile",
@@ -2968,20 +2968,6 @@
     "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
   },
   {
-    "repo": "thepi14/tekton",
-    "internalName": "tekton",
-    "name": "Tekton",
-    "version": "v0.4.8",
-    "hidden": false,
-    "author": "ThePi14",
-    "lastUpdated": "2026-08-02T03:28:46Z",
-    "stars": 6,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, blocks, units, mechanics and hazards.\n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
-  },
-  {
     "repo": "meepoffaith/extra-sand-redux",
     "internalName": "extra-sand-redux",
     "name": "Extra Sand in the Sandbox - Redux",
@@ -3008,6 +2994,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
+  },
+  {
+    "repo": "thepi14/tekton",
+    "internalName": "tekton",
+    "name": "Tekton",
+    "version": "v0.4.8",
+    "hidden": false,
+    "author": "ThePi14",
+    "lastUpdated": "2026-08-16T02:49:06Z",
+    "stars": 6,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, blocks, units, mechanics and hazards.\n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
   },
   {
     "repo": "pirojok3000/erekir-cargo-drone-for-serpulo",
@@ -7720,7 +7720,7 @@
     "version": "1.0.0",
     "hidden": false,
     "author": "void",
-    "lastUpdated": "2026-08-16T01:06:30Z",
+    "lastUpdated": "2026-08-16T01:50:38Z",
     "stars": 0,
     "minGameVersion": "159",
     "hasScripts": false,
