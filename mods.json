@@ -1014,7 +1014,7 @@
     "version": "1.13.1",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-08-16T06:35:11Z",
+    "lastUpdated": "2026-08-16T06:51:26Z",
     "stars": 26,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1694,20 +1694,6 @@
     "description": "A Mindustry greatest mod ever made!"
   },
   {
-    "repo": "wantechfan/mindustry-cursed-bundles",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "version": "1.13",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-08-06T17:22:55Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1720,6 +1706,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "wantechfan/mindustry-cursed-bundles",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "version": "1.13",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-08-16T07:12:38Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -2016,20 +2016,6 @@
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-08-16T05:24:40Z",
-    "stars": 10,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -2042,6 +2028,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-08-16T07:31:59Z",
+    "stars": 10,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "koctz34/factor",
@@ -2400,7 +2400,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-08-16T06:33:33Z",
+    "lastUpdated": "2026-08-16T06:43:47Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3226,7 +3226,7 @@
     "version": "0.1",
     "hidden": true,
     "author": "Wantechfan",
-    "lastUpdated": "2026-08-06T17:23:10Z",
+    "lastUpdated": "2026-08-16T07:12:38Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4172,20 +4172,6 @@
     "description": "The sun is gone guys, what do we do?"
   },
   {
-    "repo": "ramazanduruev/darklife.",
-    "internalName": "mo",
-    "name": "DarkLife",
-    "version": "0.3",
-    "hidden": false,
-    "author": "Votak",
-    "lastUpdated": "2026-07-28T07:28:45Z",
-    "stars": 3,
-    "minGameVersion": "157.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -4324,6 +4310,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "ramazanduruev/darklife.",
+    "internalName": "mo",
+    "name": "DarkLife",
+    "version": "0.3",
+    "hidden": false,
+    "author": "Votak",
+    "lastUpdated": "2026-08-16T06:45:12Z",
+    "stars": 3,
+    "minGameVersion": "157.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -7630,20 +7630,6 @@
     "description": "Pictologic client tool. hidden=true so servers do not kick you."
   },
   {
-    "repo": "576576/mdtc",
-    "internalName": "mdtc-mod",
-    "name": "MdtC Coder",
-    "version": "${version}",
-    "hidden": true,
-    "author": "576576",
-    "lastUpdated": "2026-08-09T02:26:46Z",
-    "stars": 0,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "In-game MdtC logic editor with dual-pane layout. Compile .mdtc to .mdtcode in real-time."
-  },
-  {
     "repo": "determination-wind/betterrtsformation",
     "internalName": "betterrtsformation",
     "name": "Better RTS Formation",
@@ -7726,5 +7712,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Показывает общую стоимость в ресурсах всех блоков, которые вы поставили, но ещё не построили (ждут стройки)."
+  },
+  {
+    "repo": "576576/mdtc",
+    "internalName": "mdtc-mod",
+    "name": "MdtC Coder",
+    "version": "${version}",
+    "hidden": true,
+    "author": "576576",
+    "lastUpdated": "2026-08-16T06:59:27Z",
+    "stars": 0,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "In-game MdtC logic editor with dual-pane layout. Compile .mdtc to .mdtcode in real-time."
   }
 ]
