@@ -524,7 +524,7 @@
     "version": "1.5.3",
     "hidden": false,
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-08-17T13:55:06Z",
+    "lastUpdated": "2026-08-17T15:05:36Z",
     "stars": 50,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -552,7 +552,7 @@
     "version": "2.2.0",
     "hidden": true,
     "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22",
-    "lastUpdated": "2026-08-15T17:50:31Z",
+    "lastUpdated": "2026-08-17T14:51:52Z",
     "stars": 47,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -7658,20 +7658,6 @@
     "description": "Pictologic client tool. hidden=true so servers do not kick you."
   },
   {
-    "repo": "determination-wind/betterrtsformation",
-    "internalName": "betterrtsformation",
-    "name": "Better RTS Formation",
-    "version": "1.0.3",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-10T12:39:17Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Make RTS control groups easier to create, select, and recognize."
-  },
-  {
     "repo": "determination-wind/lockattack",
     "internalName": "lockattack",
     "name": "LockAttack / 锁定攻击",
@@ -7782,5 +7768,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Replay system: record and watch battles with full world state"
+  },
+  {
+    "repo": "determination-wind/betterrtsformation",
+    "internalName": "betterrtsformation",
+    "name": "Better RTS Formation",
+    "version": "2.0.0",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-17T16:01:52Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Make RTS control groups easier to create, select, and recognize."
   }
 ]
