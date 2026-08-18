@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-07-31T14:58:28Z",
-    "stars": 615,
+    "stars": 616,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -384,7 +384,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-08-18T01:15:01Z",
+    "lastUpdated": "2026-08-18T06:07:41Z",
     "stars": 64,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -818,7 +818,7 @@
     "version": "2.1.1.D",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-08-16T15:22:53Z",
+    "lastUpdated": "2026-08-18T05:13:07Z",
     "stars": 30,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -832,7 +832,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-18T04:09:15Z",
+    "lastUpdated": "2026-08-18T05:41:57Z",
     "stars": 30,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -7686,20 +7686,6 @@
     "description": "我们添加了微软大战代码到MDT，请善用你的方向键与TAB"
   },
   {
-    "repo": "voidemptiness/ghost-cost",
-    "internalName": "ghost-cost",
-    "name": "Ghost Cost",
-    "version": "1.0.0",
-    "hidden": false,
-    "author": "void",
-    "lastUpdated": "2026-08-16T01:50:38Z",
-    "stars": 0,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Показывает общую стоимость в ресурсах всех блоков, которые вы поставили, но ещё не построили (ждут стройки)."
-  },
-  {
     "repo": "576576/mdtc",
     "internalName": "mdtc-mod",
     "name": "MdtC Coder",
@@ -7796,5 +7782,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "通过两个独立快捷键隐藏世界处理器特效与动态 Marker，不修改地图逻辑。\nUse separate hotkeys to hide world processor effects and dynamic markers without changing map logic."
+  },
+  {
+    "repo": "voidemptiness/ghost-cost",
+    "internalName": "ghost-cost",
+    "name": "Ghost Cost",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": "void",
+    "lastUpdated": "2026-08-18T06:35:58Z",
+    "stars": 0,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Показывает общую стоимость в ресурсах всех блоков, которые вы поставили, но ещё не построили (ждут стройки)."
   }
 ]
