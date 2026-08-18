@@ -538,7 +538,7 @@
     "version": "3.1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-08-17T18:50:45Z",
+    "lastUpdated": "2026-08-18T19:23:44Z",
     "stars": 49,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -644,20 +644,6 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.4.2",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-07-19T18:37:51Z",
-    "stars": 41,
-    "minGameVersion": "159.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends."
-  },
-  {
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
     "name": "mod-tools",
@@ -670,6 +656,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.6.0\n\n## Highlight\n1. Support Mindustry 159.2\n2. feat(capture_exceptions): Hook exceptions and print (Desktop Only)\n3. Optimize flame graph performance.\n4. Fix some bugs:\n- Improve the security check logic for application class loader settings in Tester.\n- Add text boundary safety checks to TextAreaTab to prevent array out-of-bounds errors.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
+  },
+  {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.4.3",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2026-08-18T19:19:52Z",
+    "stars": 41,
+    "minGameVersion": "159.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends."
   },
   {
     "repo": "sublemon-team/subvoyage",
@@ -1498,20 +1498,6 @@
     "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
   },
   {
-    "repo": "jennii94900-tech/mod",
-    "internalName": "ochpoch-mob",
-    "name": "Hooligan",
-    "version": "2.2",
-    "hidden": false,
-    "author": "Hello,Andrei",
-    "lastUpdated": "2026-08-06T13:14:59Z",
-    "stars": 14,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
-  },
-  {
     "repo": "namakayo/kratha",
     "internalName": "kratha",
     "name": "KRATHA",
@@ -1580,20 +1566,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds a new planet, where we will play in underground"
-  },
-  {
-    "repo": "bloodmoddingocean-coder/visual_plus",
-    "internalName": "vplus",
-    "name": "Visual+",
-    "version": "1.60.2",
-    "hidden": true,
-    "author": "Bloody-Ocean",
-    "lastUpdated": "2026-05-20T12:30:28Z",
-    "stars": 13,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru: Данная модификация изменяет внешний вид Серпуло. Респрайт некоторой части Эрекира.\r\n\r\nEng: This modification changes the appearance of the Serpulo. Resprite of some part of the Erekir.\r\n\r\nThx to retodera, Sputnuc and mellory for the help with the scripts."
   },
   {
     "repo": "sh1penfire/meld-java",
@@ -6088,20 +6060,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utility mod for Mindustry Landing Pad"
-  },
-  {
-    "repo": "mindustrynew/mindustry-randomideas",
-    "internalName": "xevanon-mod",
-    "name": "Xevanon Mod",
-    "version": "1.0",
-    "hidden": false,
-    "author": "--- <> ---",
-    "lastUpdated": "2026-06-06T11:02:53Z",
-    "stars": 1,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Lade diese Mod nur über den neuesten Release auf GitHub herunter! - - - Download this mod on GitHub only via the latest release! "
   },
   {
     "repo": "edward-bill/linked-logistics-v2",
