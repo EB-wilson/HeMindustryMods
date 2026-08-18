@@ -832,7 +832,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-18T14:29:31Z",
+    "lastUpdated": "2026-08-18T14:59:10Z",
     "stars": 30,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1042,7 +1042,7 @@
     "version": "110008",
     "hidden": true,
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-08-18T12:02:32Z",
+    "lastUpdated": "2026-08-18T16:25:56Z",
     "stars": 25,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1630,7 +1630,7 @@
     "version": "1.10.2",
     "hidden": true,
     "author": "Hao1337",
-    "lastUpdated": "2026-08-12T22:11:18Z",
+    "lastUpdated": "2026-08-18T15:49:34Z",
     "stars": 13,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1680,20 +1680,6 @@
     "description": "Mod add tanks, aircraft and naval ships"
   },
   {
-    "repo": "jababadev/jababarium",
-    "internalName": "jababarium",
-    "name": "Jababarium",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Jababa",
-    "lastUpdated": "2026-08-03T11:37:01Z",
-    "stars": 12,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry greatest mod ever made!"
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1734,6 +1720,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "jababadev/jababarium",
+    "internalName": "jababarium",
+    "name": "Jababarium",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Jababa",
+    "lastUpdated": "2026-08-18T16:02:04Z",
+    "stars": 12,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry greatest mod ever made!"
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -2425,10 +2425,10 @@
     "repo": "determination-wind/logicsugar",
     "internalName": "logicsugar",
     "name": "Logic Sugar",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "hidden": true,
     "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-18T07:06:31Z",
+    "lastUpdated": "2026-08-18T16:01:07Z",
     "stars": 8,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -4256,20 +4256,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "20.0.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-08-17T23:20:13Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nThis mod is currently in testing."
-  },
-  {
     "repo": "determination-wind/pinyinsearchsupport",
     "internalName": "pinyinsearchsupport-dev",
     "name": "PinyinSearchSupport / 拼音搜索支持",
@@ -4324,6 +4310,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "20.2.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-08-18T15:09:13Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nThis mod is currently in testing."
   },
   {
     "repo": "leyn-pl/iconpicker",
