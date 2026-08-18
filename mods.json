@@ -832,7 +832,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-17T10:54:17Z",
+    "lastUpdated": "2026-08-18T00:56:39Z",
     "stars": 30,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -2800,6 +2800,20 @@
     "description": ""
   },
   {
+    "repo": "chinhonnang0000/asteroidgen",
+    "internalName": "asteroidgen",
+    "name": "asteroidgen",
+    "version": "build 0",
+    "hidden": false,
+    "author": "chinhonnang0000",
+    "lastUpdated": "2025-06-20T14:32:55Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod will not get another star anytime soon, Never gets completed, Never gets balanced, and will almost always be the largest mod in its number of stars."
+  },
+  {
     "repo": "nezerit6/stuasut",
     "internalName": "stus",
     "name": "Stuasut",
@@ -3064,20 +3078,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The mod of fight 4 colors"
-  },
-  {
-    "repo": "chinhonnang0000/asteroidgen",
-    "internalName": "asteroidgen",
-    "name": "asteroidgen",
-    "version": "build 0",
-    "hidden": false,
-    "author": "chinhonnang0000",
-    "lastUpdated": "2025-06-20T14:32:55Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod will not get another star anytime soon, Never gets completed, Never gets balanced, and will almost always be the largest mod in its number of stars."
   },
   {
     "repo": "blackdeluxecat/mapfilterext",
@@ -3598,20 +3598,6 @@
     "description": "Native database and quick before/after diff viewer for Mindustry datapatches. / 保持原版数据库显示的数据补丁与快捷差异查看器。"
   },
   {
-    "repo": "ls-hdu/multi-crafter-lib",
-    "internalName": "multi-crafter-lib",
-    "name": "MultiCrafter 库",
-    "version": "1.0.0",
-    "hidden": false,
-    "author": "LS",
-    "lastUpdated": "2026-08-11T16:20:47Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "多配方工厂"
-  },
-  {
     "repo": "ramazanduruev/darklife.",
     "internalName": "mo",
     "name": "DarkLife",
@@ -3638,6 +3624,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "幻境永无止境"
+  },
+  {
+    "repo": "ls-hdu/multi-crafter-lib",
+    "internalName": "multi-crafter-lib",
+    "name": "MultiCrafter 库",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": "LS",
+    "lastUpdated": "2026-08-17T23:44:50Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "多配方工厂"
   },
   {
     "repo": "vdgaster/upgraded-blocks",
@@ -4284,20 +4284,6 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "20.0.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-08-17T00:46:18Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nThis mod is currently in testing."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4324,6 +4310,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "20.0.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-08-17T23:20:13Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nThis mod is currently in testing."
   },
   {
     "repo": "leyn-pl/iconpicker",
