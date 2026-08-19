@@ -49,7 +49,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-08-18T11:35:34Z",
-    "stars": 258,
+    "stars": 259,
     "minGameVersion": "156.2",
     "hasScripts": false,
     "hasJava": false,
@@ -6580,6 +6580,20 @@
     "description": "Predict overdrive placement impact on power balance, scan and mark conflicting projectors, and provide optional chat/map warnings. / 预判超速投影放置后的电网盈亏，扫描并标记冲突投影，支持聊天与地图提示。"
   },
   {
+    "repo": "mullibenmolly/starshineplan",
+    "internalName": "xx-mod",
+    "name": "StarshinePlan",
+    "version": "0.0.3_v159.3",
+    "hidden": false,
+    "author": "molo\nmullibenMolly",
+    "lastUpdated": "2026-08-19T05:37:05Z",
+    "stars": 1,
+    "minGameVersion": "159.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了别怪我。"
+  },
+  {
     "repo": "lorendoscsharp/tzarbimbajava",
     "internalName": "tzarbimbajava",
     "name": "tzarbimbajava",
@@ -7768,19 +7782,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Tap the lock key (default L) to lock on to an enemy unit or building and focus fire. Commands selected units via the vanilla network command path. / 按锁定键（默认 L）锁定敌方单位或建筑并集火，选中的指挥单位通过原版网络命令路径集火。"
-  },
-  {
-    "repo": "mullibenmolly/starshineplan",
-    "internalName": "xx-mod",
-    "name": "StarshinePlan",
-    "version": "0.0.3_v159.3",
-    "hidden": false,
-    "author": "molo\nmullibenMolly",
-    "lastUpdated": "2026-08-19T05:37:05Z",
-    "stars": 0,
-    "minGameVersion": "159.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了别怪我。"
   }
 ]
