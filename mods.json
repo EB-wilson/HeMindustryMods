@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-17T12:22:25Z",
+    "lastUpdated": "2026-08-19T21:41:53Z",
     "stars": 118,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -1778,20 +1778,6 @@
     "description": "A Java Mindustry mod that adds a new campaign on the planet Xilion. Currently still in pre-alpha"
   },
   {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "version": "154.3.a",
-    "hidden": true,
-    "author": "Agzam4",
-    "lastUpdated": "2026-02-22T09:23:33Z",
-    "stars": 11,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "m1cxzfw3q/endfield_industry",
     "internalName": "endfield-industry",
     "name": "Endfield Industry",
@@ -1874,6 +1860,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
+  },
+  {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "version": "154.3.a",
+    "hidden": true,
+    "author": "Agzam4",
+    "lastUpdated": "2026-08-19T21:14:56Z",
+    "stars": 11,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
