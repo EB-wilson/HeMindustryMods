@@ -56,6 +56,20 @@
     "description": "A mod that adds a new planet, Asthosus, into the game.\n  \nAsthosus is a deserted planet. A wasteland filled with danger.\nIt has a fully playable campaign with 11 campaign and 21 optional maps. \n\nAside from these 32 maps, Asthosus contains over 180 pieces of unique content,\nincluding blocks, liquids, items, units and status effects.\nThis number is not counting any internal units or environment blocks/tiles.\n\nI aimed to re-use nearly no vanilla content and instead fill the mod \nwith new and (hopefully) exciting things.\n\nThe mod comes with it's own custom music, made by ThePythonGuy3!\n\nIf you find any issues or want to tell me anything else,\nfeel free to join the Asthosus Discord server. \nThe same thing goes for when you need help with this mod.\n\nAsthosus is available in the following languages:\n- English\n- German\n- Indonesian\n- Russian\n- Ukrainian\n- Traditional Chinese\n- Simplified Chinese\n\nEnjoy!"
   },
   {
+    "repo": "mindustrytool/mindustrytoolmod",
+    "internalName": "mindustry-tool",
+    "name": "Mindustry Tool",
+    "version": "v4.58.6-v8",
+    "hidden": true,
+    "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
+    "lastUpdated": "2026-08-13T10:04:20Z",
+    "stars": 233,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[accent] [#FFF000]Mindustry Tool  [white]- The Ultimate Utility for Every Player[]\n\n[white]Mindustry Tool is a feature-rich mod that integrates with [#88C6ED]mindustry-tool.com[white], enhancing your gameplay with community content, advanced automation, and powerful visual analysis tools.\n\n\n[accent] [#88C6ED]Content Browser:[]\n[white] Access a curated repository of [#394BA0]Maps [white]and [#D54799]Schematics [white]directly in-game.\n[white] Filter by size, mode, planet, and version to find exactly what you need.\n\n[accent] [#FFF000]Automation (Autoplay):[]\n[white] Smart task management for building support, repairing, and automated mining.\n[white] Dynamic AI control that takes over your unit to optimize efficiency.\n\n[accent] [#FAA31B]Enhanced Communication:[]\n[white] [#88C6ED]Global Chat:[white] Connect with other mod users across all servers.\n[white] [#82C341]Real-time Translation:[white] Translate chat messages instantly using Gemini or DeepL.\n\n[accent] [#EF4444]Visualizers & HUD:[]\n[white] Customizable health bars, enemy pathfinding prediction, and range indicators.\n[white] Enhanced resource tracking and HUD elements for better situational awareness.\n\n[accent] [#009F75]Multiplayer & Networking:[]\n[white] [#009F75]Player Connect:[white] Easily create or join private rooms with friends.\n[white] Optimized connections with built-in latency monitoring for hosts.\n\n[accent] [#82C341]Quality of Life:[]\n[white] [#82C341]Smart Upgrade:[white] Instantly upgrade entire distribution chains with one tap.\n[white] [#FAA31B]God Mode:[white] Powerful suite for sandbox testing and server administration.\n\n[accent] [#FFF000]Community Credits[]:\n[#88C6ED] Design-it Community:  \n[#394BA0]  Discord: [white]discord.gg/SYVkWPhmXY  \n[#394BA0]  GitHub: [white]MindustryDesignIt\n\n[#82C341] Mindustry Top Community:  \n[#88C6ED]  Website: [white]www.mindustry.top  \n[#009F75]  Email: [white]me@wayzer.top\n\n[accent] [#FFF000]Useful Links[]:\n[#88C6ED]  Website: [white]mindustry-tool.com[]\n[#394BA0]  Discord: [white]discord.gg/nQDrEHVkrt[]\n[#009F75]  Email: [white]mindustrytool@gmail.com[]\n[#FAA31B]  Reddit: [white]r/MindustryTool[]\n[#EF4444]  YouTube: [white]Mindustry Tool[]"
+  },
+  {
     "repo": "xzxadixzx/scheme-size",
     "internalName": "scheme-size",
     "name": "Scheme Size",
@@ -68,20 +82,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
-  },
-  {
-    "repo": "mindustrytool/mindustrytoolmod",
-    "internalName": "mindustry-tool",
-    "name": "Mindustry Tool",
-    "version": "v4.58.6-v8",
-    "hidden": true,
-    "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-08-13T10:04:20Z",
-    "stars": 232,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[accent] [#FFF000]Mindustry Tool  [white]- The Ultimate Utility for Every Player[]\n\n[white]Mindustry Tool is a feature-rich mod that integrates with [#88C6ED]mindustry-tool.com[white], enhancing your gameplay with community content, advanced automation, and powerful visual analysis tools.\n\n\n[accent] [#88C6ED]Content Browser:[]\n[white] Access a curated repository of [#394BA0]Maps [white]and [#D54799]Schematics [white]directly in-game.\n[white] Filter by size, mode, planet, and version to find exactly what you need.\n\n[accent] [#FFF000]Automation (Autoplay):[]\n[white] Smart task management for building support, repairing, and automated mining.\n[white] Dynamic AI control that takes over your unit to optimize efficiency.\n\n[accent] [#FAA31B]Enhanced Communication:[]\n[white] [#88C6ED]Global Chat:[white] Connect with other mod users across all servers.\n[white] [#82C341]Real-time Translation:[white] Translate chat messages instantly using Gemini or DeepL.\n\n[accent] [#EF4444]Visualizers & HUD:[]\n[white] Customizable health bars, enemy pathfinding prediction, and range indicators.\n[white] Enhanced resource tracking and HUD elements for better situational awareness.\n\n[accent] [#009F75]Multiplayer & Networking:[]\n[white] [#009F75]Player Connect:[white] Easily create or join private rooms with friends.\n[white] Optimized connections with built-in latency monitoring for hosts.\n\n[accent] [#82C341]Quality of Life:[]\n[white] [#82C341]Smart Upgrade:[white] Instantly upgrade entire distribution chains with one tap.\n[white] [#FAA31B]God Mode:[white] Powerful suite for sandbox testing and server administration.\n\n[accent] [#FFF000]Community Credits[]:\n[#88C6ED] Design-it Community:  \n[#394BA0]  Discord: [white]discord.gg/SYVkWPhmXY  \n[#394BA0]  GitHub: [white]MindustryDesignIt\n\n[#82C341] Mindustry Top Community:  \n[#88C6ED]  Website: [white]www.mindustry.top  \n[#009F75]  Email: [white]me@wayzer.top\n\n[accent] [#FFF000]Useful Links[]:\n[#88C6ED]  Website: [white]mindustry-tool.com[]\n[#394BA0]  Discord: [white]discord.gg/nQDrEHVkrt[]\n[#009F75]  Email: [white]mindustrytool@gmail.com[]\n[#FAA31B]  Reddit: [white]r/MindustryTool[]\n[#EF4444]  YouTube: [white]Mindustry Tool[]"
   },
   {
     "repo": "avantteam/projectunitypublic",
@@ -384,7 +384,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-08-18T06:07:41Z",
+    "lastUpdated": "2026-08-19T10:27:19Z",
     "stars": 65,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -518,20 +518,6 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#f1c40f]Team members:[]\r\n- [#6e7f96] Andromeda-Galaxy29[]\r\n- [#6e7f96] iRatzeyMezeri[]\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2] thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2] tinport[] - various suggestions and maps\r\n- [#5865f2] mrapple_0[] - maps\r\n- [#5865f2] cirrusisakey[] - help with sfx\r\n- [#6e7f96] xhstoyea[] - Chinese translations\r\n\r\n[#9b59b6]Other thanks:[]\r\n- [#5865f2] chozochorizo[] for help with balancing the mod\r\n- [#6e7f96] ThomasThings[] and [#6e7f96] Twcash[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2] nekoarkbruhagain_07111[]\r\n- [#5865f2] allayscrafter[]"
   },
   {
-    "repo": "deercarbonate/azimuth",
-    "internalName": "azimut",
-    "name": "Azimut",
-    "version": "0.32",
-    "hidden": false,
-    "author": "DeerCarbonate",
-    "lastUpdated": "2026-08-18T11:45:45Z",
-    "stars": 50,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
-  },
-  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
@@ -544,6 +530,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No nowhere has nothing anywhere."
+  },
+  {
+    "repo": "deercarbonate/azimuth",
+    "internalName": "azimut",
+    "name": "Azimut",
+    "version": "0.32",
+    "hidden": false,
+    "author": "DeerCarbonate",
+    "lastUpdated": "2026-08-19T10:14:30Z",
+    "stars": 50,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
   },
   {
     "repo": "00sunray00/scheme-size-port",
@@ -1288,20 +1288,6 @@
     "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-08-18T16:42:17Z",
-    "stars": 17,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
-  },
-  {
     "repo": "otamamori917/axthrix-modded-java",
     "internalName": "aj",
     "name": "Axthrix",
@@ -1314,6 +1300,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-08-19T09:25:11Z",
+    "stars": 17,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
   },
   {
     "repo": "topyrit/capital_progress",
@@ -2036,7 +2036,7 @@
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-08-18T16:46:05Z",
+    "lastUpdated": "2026-08-19T09:27:42Z",
     "stars": 10,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -6592,6 +6592,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了别怪我。"
+  },
+  {
+    "repo": "kr10genka/attribute-editor",
+    "internalName": "attribute-editor",
+    "name": "Attribute Editor",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": "Kriogenka",
+    "lastUpdated": "2026-08-19T09:50:58Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Мод для изменения характеристик (атрибутов) юнитов и блоков прямо в игре через удобный интерфейс."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
