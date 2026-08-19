@@ -524,7 +524,7 @@
     "version": "1.5.3",
     "hidden": false,
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-08-19T12:08:10Z",
+    "lastUpdated": "2026-08-19T14:08:56Z",
     "stars": 50,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -791,7 +791,7 @@
     "hidden": false,
     "author": " |Asterion Team| ",
     "lastUpdated": "2026-07-09T16:10:08Z",
-    "stars": 30,
+    "stars": 31,
     "minGameVersion": "155",
     "hasScripts": true,
     "hasJava": false,
@@ -818,7 +818,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-19T11:18:07Z",
+    "lastUpdated": "2026-08-19T14:27:49Z",
     "stars": 30,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1106,6 +1106,20 @@
     "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
+    "repo": "hungrycloud4913/esocatalyst",
+    "internalName": "esocatalyst",
+    "name": "Esocatalyst",
+    "version": "Lost Track?",
+    "hidden": false,
+    "author": "HungryCloud4913",
+    "lastUpdated": "2026-07-11T14:38:46Z",
+    "stars": 22,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
+  },
+  {
     "repo": "jirocab/nyfalis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1160,20 +1174,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
-  },
-  {
-    "repo": "hungrycloud4913/esocatalyst",
-    "internalName": "esocatalyst",
-    "name": "Esocatalyst",
-    "version": "Lost Track?",
-    "hidden": false,
-    "author": "HungryCloud4913",
-    "lastUpdated": "2026-07-11T14:38:46Z",
-    "stars": 21,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
   },
   {
     "repo": "430230562/vanilla-neoplasm-extend",
@@ -1470,6 +1470,20 @@
     "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 161 blocks, 23 items, 22 units, and 20 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
   },
   {
+    "repo": "routerxdd/icicle-world",
+    "internalName": "icicle-world",
+    "name": "Buried in Ice",
+    "version": "9.5",
+    "hidden": false,
+    "author": "R.O.T.\nSpecial thanks:\nyesC48 for editing english translation\nxhstoyea for chinese translation",
+    "lastUpdated": "2026-03-12T19:59:38Z",
+    "stars": 14,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds a new planet, where we will play in underground"
+  },
+  {
     "repo": "wytniks/kill-reward-mod-25frame",
     "internalName": "kill-reward-mod-25frame",
     "name": "Kill Reward Mod",
@@ -1552,20 +1566,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
-    "repo": "routerxdd/icicle-world",
-    "internalName": "icicle-world",
-    "name": "Buried in Ice",
-    "version": "9.5",
-    "hidden": false,
-    "author": "R.O.T.\nSpecial thanks:\nyesC48 for editing english translation\nxhstoyea for chinese translation",
-    "lastUpdated": "2026-03-12T19:59:38Z",
-    "stars": 13,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds a new planet, where we will play in underground"
   },
   {
     "repo": "bloodmoddingocean-coder/visual_plus",
@@ -6844,20 +6844,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
-  },
-  {
-    "repo": "willoizcitron/timecontroljava",
-    "internalName": "",
-    "name": "Time Control Java",
-    "version": "v1.0",
-    "hidden": false,
-    "author": "WilloIzCitron",
-    "lastUpdated": "2025-01-12T10:47:56Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Time Control but in Java, Originated by sk7725. Dont use TimeControl and TimeControlJava at same time, it will conflicting each other. DO NOT USE IN MULTIPLAYER!!"
   },
   {
     "repo": "meow0x7e/meowextracontent",
