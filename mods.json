@@ -539,7 +539,7 @@
     "hidden": false,
     "author": "Liz Aurora",
     "lastUpdated": "2026-08-19T00:39:13Z",
-    "stars": 49,
+    "stars": 50,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -832,7 +832,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-19T04:18:24Z",
+    "lastUpdated": "2026-08-19T04:53:45Z",
     "stars": 30,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -2212,6 +2212,20 @@
     "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
   },
   {
+    "repo": "determination-wind/power-grid-minimap-",
+    "internalName": "powergrid-minimap",
+    "name": "电网小地图 / Power Grid Minimap",
+    "version": "1.18.2",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-08-18T06:57:10Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
+  },
+  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2406,20 +2420,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
-  },
-  {
-    "repo": "determination-wind/power-grid-minimap-",
-    "internalName": "powergrid-minimap",
-    "name": "电网小地图 / Power Grid Minimap",
-    "version": "1.18.2",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-08-18T06:57:10Z",
-    "stars": 8,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
   },
   {
     "repo": "determination-wind/logicsugar",
@@ -7776,11 +7776,11 @@
     "version": "0.0.3_v159.3",
     "hidden": false,
     "author": "molo\nmullibenMolly",
-    "lastUpdated": "2026-08-18T08:05:40Z",
+    "lastUpdated": "2026-08-19T05:37:05Z",
     "stars": 0,
     "minGameVersion": "159.3",
     "hasScripts": false,
     "hasJava": true,
-    "description": "感谢OP-23提供的贴图和代码\nThink OP-23 providing code and sprites."
+    "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了别怪我。"
   }
 ]
