@@ -370,7 +370,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-08-19T10:27:19Z",
+    "lastUpdated": "2026-08-20T04:31:57Z",
     "stars": 65,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -490,20 +490,6 @@
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "3.1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-08-19T00:39:13Z",
-    "stars": 50,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
-  },
-  {
     "repo": "deercarbonate/azimuth",
     "internalName": "azimut",
     "name": "Azimut",
@@ -530,6 +516,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white]\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#f1c40f]Team members:[]\r\n- [#6e7f96] Andromeda-Galaxy29[]\r\n- [#6e7f96] iRatzeyMezeri[]\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2] thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2] tinport[] - various suggestions and maps\r\n- [#5865f2] mrmaplethewolf[] - maps\r\n- [#5865f2] cirrusisakey[] - help with sfx\r\n- [#6e7f96] xhstoyea[] - Chinese translations\r\n\r\n[#9b59b6]Other thanks:[]\r\n- [#5865f2] chozochorizo[] for help with balancing the mod\r\n- [#6e7f96] ThomasThings[] and [#6e7f96] Twcash[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2] nekoarkbruhagain_07111[]\r\n- [#5865f2] allayscrafter[]"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "3.1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-08-20T03:37:11Z",
+    "stars": 50,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "00sunray00/scheme-size-port",
@@ -818,7 +818,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-20T02:55:10Z",
+    "lastUpdated": "2026-08-20T03:08:23Z",
     "stars": 30,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -2618,20 +2618,6 @@
     "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.5.6",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-07-13T05:28:44Z",
-    "stars": 7,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
     "repo": "dsfdsfwxp/savemaster",
     "internalName": "savemaster",
     "name": "saveMaster",
@@ -2728,6 +2714,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.5.6",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-08-20T03:52:47Z",
+    "stars": 7,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "some-t3a/doorlogic",
