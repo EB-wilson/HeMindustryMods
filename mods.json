@@ -818,7 +818,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-19T15:07:52Z",
+    "lastUpdated": "2026-08-20T02:55:10Z",
     "stars": 30,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -2226,6 +2226,20 @@
     "description": "Improves your experience on the official io  Flood server."
   },
   {
+    "repo": "determination-wind/logicsugar",
+    "internalName": "logicsugar",
+    "name": "Logic Sugar",
+    "version": "2.1.7",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-18T16:48:32Z",
+    "stars": 9,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
+  },
+  {
     "repo": "p101q/snowdustry",
     "internalName": "snow",
     "name": "Snowydustry",
@@ -2406,20 +2420,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
-  },
-  {
-    "repo": "determination-wind/logicsugar",
-    "internalName": "logicsugar",
-    "name": "Logic Sugar",
-    "version": "2.1.7",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-18T16:48:32Z",
-    "stars": 8,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
     "repo": "mitemi/blastanium",
