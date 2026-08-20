@@ -860,7 +860,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-08-18T23:15:17Z",
+    "lastUpdated": "2026-08-20T17:41:42Z",
     "stars": 29,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -1294,7 +1294,7 @@
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-08-19T09:25:11Z",
+    "lastUpdated": "2026-08-20T18:09:44Z",
     "stars": 17,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -2002,32 +2002,32 @@
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-08-18T16:43:42Z",
-    "stars": 10,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-08-19T09:27:42Z",
+    "lastUpdated": "2026-08-20T18:04:39Z",
     "stars": 10,
     "minGameVersion": "159",
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-08-20T18:06:25Z",
+    "stars": 10,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "koctz34/factor",
@@ -5978,20 +5978,6 @@
     "description": "A light mod with a funny name and a focus on extending Surge-alloy technology, adds a few unique turrets and production buildings with (what I think are) some interesting mechanics.\r\n\r\nMade for Serpulo, the mod has integration for/works well with blocks like the tsunami and wave, so try and find some usecases, turret combos, and whatnot.\r\n\r\nReports on bugs, balancing issues, or simply suggestions are very much welcome."
   },
   {
-    "repo": "m1cxzfw3q/ruikeui",
-    "internalName": "rui-ke-ui",
-    "name": "RuiKe UI",
-    "version": "0.2",
-    "hidden": true,
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-04-17T10:21:07Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "异验丁真，鉴定为：抽锐刻五抽的"
-  },
-  {
     "repo": "hungrycloud4913/the-reformed-universes-project",
     "internalName": "univ-project",
     "name": "The Reformed Universe Project",
@@ -6606,6 +6592,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Мод для изменения характеристик (атрибутов) юнитов и блоков прямо в игре через удобный интерфейс."
+  },
+  {
+    "repo": "m1cxzfw3q/ruikeui",
+    "internalName": "rui-ke-ui",
+    "name": "RuiKe UI",
+    "version": "0.2",
+    "hidden": true,
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-08-20T18:02:48Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "异验丁真，鉴定为：抽锐刻五抽的"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
