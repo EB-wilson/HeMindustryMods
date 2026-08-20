@@ -524,7 +524,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-08-20T08:36:36Z",
+    "lastUpdated": "2026-08-20T09:05:08Z",
     "stars": 50,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -630,20 +630,6 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "version": "1.6.0",
-    "hidden": true,
-    "author": "I hope...",
-    "lastUpdated": "2026-08-09T05:07:25Z",
-    "stars": 41,
-    "minGameVersion": "159.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.6.0\n\n## Highlight\n1. Support Mindustry 159.2\n2. feat(capture_exceptions): Hook exceptions and print (Desktop Only)\n3. Optimize flame graph performance.\n4. Fix some bugs:\n- Improve the security check logic for application class loader settings in Tester.\n- Add text boundary safety checks to TextAreaTab to prevent array out-of-bounds errors.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
-  },
-  {
     "repo": "xpdustry/claj",
     "internalName": "claj",
     "name": "CLaJ",
@@ -656,6 +642,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends."
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "version": "1.6.0",
+    "hidden": true,
+    "author": "I hope...",
+    "lastUpdated": "2026-08-20T10:02:48Z",
+    "stars": 41,
+    "minGameVersion": "159.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.6.0\n\n## Highlight\n1. Support Mindustry 159.2\n2. feat(capture_exceptions): Hook exceptions and print (Desktop Only)\n3. Optimize flame graph performance.\n4. Fix some bugs:\n- Improve the security check logic for application class loader settings in Tester.\n- Add text boundary safety checks to TextAreaTab to prevent array out-of-bounds errors.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "sublemon-team/subvoyage",
@@ -5250,20 +5250,6 @@
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
-    "repo": "mohamedgonem/ore-gens",
-    "internalName": "ore-gens",
-    "name": "Ore Generators",
-    "version": "1.1.0",
-    "hidden": false,
-    "author": "MohamedGonem",
-    "lastUpdated": "2026-08-18T06:42:56Z",
-    "stars": 2,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Blocks that extract and synthesize ore from airborne trace elements,\ndissolved ion suspensions and cryogenic precipitation.\n\nFour tiers per ore:\n- Small Powered (2x2): fast, needs power, moderate cost.\n- Small Unpowered (2x2): slow, no power, expensive to build.\n- Liquid-fed (3x3): fast, needs water (ozone on Erekir), no power.\n- Cryofluid-fed (3x3): fastest, needs power + cryofluid.\n\nOres: copper, lead, coal, titanium, scrap, thorium, sand (Serpulo),\nberyllium, tungsten (Erekir).\n\nEvery tier is gated behind a 3-step research quest (12 milestones per ore)\nwith escalating, ore-specific costs. Upgrades are gated by research too:\nSpeed I-III, Capacity I-III, Output I-II, Efficiency I-II.\nAnimated: powered, liquid and cryo tiers glow and spin while running."
-  },
-  {
     "repo": "determination-wind/color-the-duct",
     "internalName": "color-the-ducts",
     "name": "Color-the-ducts",
@@ -5290,6 +5276,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a Natural Water filter to the map editor terrain generator. / 在地图编辑器地形生成器中添加自然水体滤镜。"
+  },
+  {
+    "repo": "mohamedgonem/ore-gens",
+    "internalName": "ore-gens",
+    "name": "Ore Generators",
+    "version": "2.0.0",
+    "hidden": false,
+    "author": "MohamedGonem",
+    "lastUpdated": "2026-08-20T09:29:40Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Blocks that extract and synthesize ore from airborne trace elements,\ndissolved ion suspensions and cryogenic precipitation - plus a fully\nself-contained liquid economy.\n\nFive tiers per ore:\n- Small Powered (2x2): fast, needs power, moderate cost.\n- Small Unpowered (2x2): slow, no power, expensive to build.\n- Liquid-fed (3x3): fast, needs water (ozone on Erekir), no power.\n- Cryofluid-fed (3x3): fastest, needs power + cryofluid.\n- Magma-fed (4x4): ultimate output, needs slag (gallium on Erekir) + cryofluid + power.\n\nOres: copper, lead, coal, titanium, scrap, thorium, sand (Serpulo),\nberyllium, tungsten (Erekir).\n\nSelf-contained liquids: water/ozone, cryofluid and slag/gallium generators\nproduce every liquid the tiers consume, each progressively more expensive.\n\nMulti-ore synthesizers (4x4) batch-produce basic ores with fixed ratios;\nrefined and advanced versions add titanium and thorium.\n\nEvery tier is gated behind a 3-step research quest (15 milestones per ore).\nUpgrades run to ten levels each - Speed I-X, Capacity I-X, Output I-X,\nEfficiency I-X - with escalating, huge research costs.\nAnimated: powered, liquid, cryo and magma tiers glow and spin while running."
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -6538,20 +6538,6 @@
     "description": "Predict overdrive placement impact on power balance, scan and mark conflicting projectors, and provide optional chat/map warnings. / 预判超速投影放置后的电网盈亏，扫描并标记冲突投影，支持聊天与地图提示。"
   },
   {
-    "repo": "kr10genka/attribute-editor",
-    "internalName": "attribute-editor",
-    "name": "Attribute Editor",
-    "version": "1.0.0",
-    "hidden": false,
-    "author": "Kriogenka",
-    "lastUpdated": "2026-08-19T09:50:58Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Мод для изменения характеристик (атрибутов) юнитов и блоков прямо в игре через удобный интерфейс."
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -6606,6 +6592,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds advanced canvas which allows you to use whole RGB spectrum! Also, you can turn any image into a schematic with canvases, allowing you to decorate your sectors with beautiful paintings! Use responsibly. PC only (didn't test on android, maybe it will work there too for some reason)."
+  },
+  {
+    "repo": "kr10genka/attribute-editor",
+    "internalName": "attribute-editor",
+    "name": "Attribute Editor",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": "Kriogenka",
+    "lastUpdated": "2026-08-20T09:14:46Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Мод для изменения характеристик (атрибутов) юнитов и блоков прямо в игре через удобный интерфейс."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
