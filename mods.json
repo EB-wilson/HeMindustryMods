@@ -441,7 +441,7 @@
     "hidden": false,
     "author": "EoD",
     "lastUpdated": "2024-06-29T00:19:27Z",
-    "stars": 55,
+    "stars": 56,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -3556,6 +3556,20 @@
     "description": "Creators Core System"
   },
   {
+    "repo": "tomahawkarc/mindustry-v8-engine",
+    "internalName": "mod-engine",
+    "name": "Mod Engine",
+    "version": "1.9.1",
+    "hidden": false,
+    "author": "[#10e5e5]Tomahawk",
+    "lastUpdated": "2026-07-17T19:03:52Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[#ffd28a]NEXUS_OS // MOD ENGINE\n[#aab0b4]Rhino/JS control engine for Mindustry V8.\n\n[#10e5e5]CORE SYSTEMS\n[white]> [#ffd28a]World & Waves  [#aab0b4]simulation, weather and wave control\n[white]> [#ffd28a]Items & Units  [#aab0b4]batch core injection and unit deployment\n[white]> [#ffd28a]Weapons  [#aab0b4]stable unit fire-rate and turret tuning\n[white]> [#ffd28a]Mining  [#aab0b4]multi-ore fleet assignments\n[white]> [#ffd28a]Inspector  [#aab0b4]live deployments and mod-unit filtering\n[white]> [#ffd28a]Builds & Radius  [#aab0b4]factory filling and team-colored overlays\n[white]> [#ffd28a]Hotkeys & Console  [#aab0b4]persistent binds and Rhino shell\n\n[#10e5e5]QUICK ACCESS\n[#aab0b4]HUD tools hide on the full map and stack below compatible third-party panels.\n\n[#69e89b]TIP [#aab0b4]Set Inspector PAGE SIZE to 20-40 on weaker devices.\n[#646b76]JS-only mod. No Java classpath required."
+  },
+  {
     "repo": "rodrigoasfr24022003/rodrigonia-mod",
     "internalName": "rodrigonia",
     "name": "Rodrigonia",
@@ -4116,20 +4130,6 @@
     "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
-    "repo": "tomahawkarc/mindustry-v8-engine",
-    "internalName": "mod-engine",
-    "name": "Mod Engine",
-    "version": "1.9.1",
-    "hidden": false,
-    "author": "[#10e5e5]Tomahawk",
-    "lastUpdated": "2026-07-17T19:03:52Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[#ffd28a]NEXUS_OS // MOD ENGINE\n[#aab0b4]Rhino/JS control engine for Mindustry V8.\n\n[#10e5e5]CORE SYSTEMS\n[white]> [#ffd28a]World & Waves  [#aab0b4]simulation, weather and wave control\n[white]> [#ffd28a]Items & Units  [#aab0b4]batch core injection and unit deployment\n[white]> [#ffd28a]Weapons  [#aab0b4]stable unit fire-rate and turret tuning\n[white]> [#ffd28a]Mining  [#aab0b4]multi-ore fleet assignments\n[white]> [#ffd28a]Inspector  [#aab0b4]live deployments and mod-unit filtering\n[white]> [#ffd28a]Builds & Radius  [#aab0b4]factory filling and team-colored overlays\n[white]> [#ffd28a]Hotkeys & Console  [#aab0b4]persistent binds and Rhino shell\n\n[#10e5e5]QUICK ACCESS\n[#aab0b4]HUD tools hide on the full map and stack below compatible third-party panels.\n\n[#69e89b]TIP [#aab0b4]Set Inspector PAGE SIZE to 20-40 on weaker devices.\n[#646b76]JS-only mod. No Java classpath required."
-  },
-  {
     "repo": "apszoldat/mindustry-ultra-pixelate",
     "internalName": "ultra-pixelate",
     "name": "Ultra Pixelate",
@@ -4203,7 +4203,7 @@
     "repo": "nosbhghggg/jump-line-color",
     "internalName": "logic-assist",
     "name": "Logic Assist",
-    "version": "1.1.3",
+    "version": "1.1.2",
     "hidden": true,
     "author": "VT4JIGMQG",
     "lastUpdated": "2026-08-10T02:06:35Z",
@@ -6592,6 +6592,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "异验丁真，鉴定为：抽锐刻五抽的"
+  },
+  {
+    "repo": "cuber-david/k-s-repository",
+    "internalName": "kmod",
+    "name": "FecesMod",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Cuber",
+    "lastUpdated": "2026-08-21T14:05:26Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Make a beautiful world with feces."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
