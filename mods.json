@@ -1518,7 +1518,7 @@
     "version": "0.3",
     "hidden": false,
     "author": "namaka",
-    "lastUpdated": "2026-08-21T10:14:18Z",
+    "lastUpdated": "2026-08-21T11:25:40Z",
     "stars": 14,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -2428,7 +2428,7 @@
     "version": "10",
     "hidden": true,
     "author": "128_OTEML",
-    "lastUpdated": "2026-08-21T10:29:11Z",
+    "lastUpdated": "2026-08-21T10:58:58Z",
     "stars": 8,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -3850,6 +3850,20 @@
     "description": "A co-op campaign mod for shared research. Players who joined the host can request research from the research screen, and the result is applied to the current campaign."
   },
   {
+    "repo": "salivion/extended-ui",
+    "internalName": "extended-ui",
+    "name": "Extended UI+",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "Simuss",
+    "lastUpdated": "2026-03-22T15:54:36Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extends your UI with useful features."
+  },
+  {
     "repo": "nickseal80/mindustry-time-factor-2",
     "internalName": "time-factor 2",
     "name": "Time Factor 2",
@@ -4744,20 +4758,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "该mod还处于测试阶段,非常垃圾"
-  },
-  {
-    "repo": "salivion/extended-ui",
-    "internalName": "extended-ui",
-    "name": "Extended UI+",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "Simuss",
-    "lastUpdated": "2026-03-22T15:54:36Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extends your UI with useful features."
   },
   {
     "repo": "lehanchic25/hardcore-mod",
