@@ -504,20 +504,6 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white]\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#f1c40f]Team members:[]\r\n- [#6e7f96] Andromeda-Galaxy29[]\r\n- [#6e7f96] iRatzeyMezeri[]\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2] thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2] tinport[] - various suggestions and maps\r\n- [#5865f2] mrmaplethewolf[] - maps\r\n- [#5865f2] cirrusisakey[] - help with sfx\r\n- [#6e7f96] xhstoyea[] - Chinese translations\r\n\r\n[#9b59b6]Other thanks:[]\r\n- [#5865f2] chozochorizo[] for help with balancing the mod\r\n- [#6e7f96] ThomasThings[] and [#6e7f96] Twcash[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2] nekoarkbruhagain_07111[]\r\n- [#5865f2] allayscrafter[]"
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "3.1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-08-20T03:37:11Z",
-    "stars": 50,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
-  },
-  {
     "repo": "deercarbonate/azimuth",
     "internalName": "azimut",
     "name": "Azimut",
@@ -530,6 +516,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "3.1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-08-21T02:51:31Z",
+    "stars": 50,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "00sunray00/scheme-size-port",
@@ -742,6 +742,20 @@
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
   },
   {
+    "repo": "dong-wo-long/betterdustrymod",
+    "internalName": "bsm",
+    "name": "Betterustry Mod",
+    "version": "v1.0.0 beta",
+    "hidden": false,
+    "author": "D&X",
+    "lastUpdated": "2026-03-22T14:50:18Z",
+    "stars": 33,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
+  },
+  {
     "repo": "eyeofdarkness/advance-lighting",
     "internalName": "advance-lighting",
     "name": "Advance lighting",
@@ -804,7 +818,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-20T16:05:27Z",
+    "lastUpdated": "2026-08-21T03:00:00Z",
     "stars": 30,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1008,6 +1022,20 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
   },
   {
+    "repo": "mindustrydesignit/schematic-browser-mod",
+    "internalName": "schematic-browser",
+    "name": "Schematic Browser",
+    "version": "1.2",
+    "hidden": true,
+    "author": "SByte, Eeve-lyn, zxtej",
+    "lastUpdated": "2025-12-18T12:25:30Z",
+    "stars": 25,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod for browsing schematic repositories."
+  },
+  {
     "repo": "determination-wind/neon",
     "internalName": "neon",
     "name": "Neon / 氖",
@@ -1020,20 +1048,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, Random, and lock-on focus fire. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新、随机化和锁定攻击。"
-  },
-  {
-    "repo": "mindustrydesignit/schematic-browser-mod",
-    "internalName": "schematic-browser",
-    "name": "Schematic Browser",
-    "version": "1.2",
-    "hidden": true,
-    "author": "SByte, Eeve-lyn, zxtej",
-    "lastUpdated": "2025-12-18T12:25:30Z",
-    "stars": 24,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod for browsing schematic repositories."
   },
   {
     "repo": "sunkenmelody/rospule",
@@ -2310,6 +2324,20 @@
     "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.6. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. \nUPDATES:\nLICHEN UPDATE (v1.2)\nFLAMEWAR UPDATE (v1.3)\nTETRA UPDATE (v1.4)\nQOL UPDATE (v1.5)\nPILOTS UPDATE (v1.6) \n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add more campaign features!"
   },
   {
+    "repo": "lefalcon352/frozen-farlands-resprite",
+    "internalName": "moon mod",
+    "name": "Frozen Farlands Resprite",
+    "version": "1.3",
+    "hidden": false,
+    "author": "original creators: [#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]\nresprites by: [yellow]LeFalcon[white]",
+    "lastUpdated": "2026-06-11T21:50:29Z",
+    "stars": 8,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "frozen farlands mod except almost all of its textures are different\n\npls star twin\n\nfrozen farlands description:\n\n[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
+  },
+  {
     "repo": "silinveredno/newhorizonmod-schematics",
     "internalName": "nh-scheme-pack",
     "name": "New Horizon schematics pack",
@@ -2560,20 +2588,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
-  },
-  {
-    "repo": "lefalcon352/frozen-farlands-resprite",
-    "internalName": "moon mod",
-    "name": "Frozen Farlands Resprite",
-    "version": "1.3",
-    "hidden": false,
-    "author": "original creators: [#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]\nresprites by: [yellow]LeFalcon[white]",
-    "lastUpdated": "2026-06-11T21:50:29Z",
-    "stars": 7,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "frozen farlands mod except almost all of its textures are different\n\npls star twin\n\nfrozen farlands description:\n\n[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
     "repo": "i-drink-gasoline/admin-button-2",
@@ -4438,6 +4452,20 @@
     "description": "Adds a toggleable overflow/undeflow gate."
   },
   {
+    "repo": "icexuegao/mindustrytomlparser",
+    "internalName": "toml-parser",
+    "name": "toml解析",
+    "version": "",
+    "hidden": false,
+    "author": "Alon,2H₂O₂",
+    "lastUpdated": "2025-01-13T09:23:30Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry的toml模组文件解析,食用方法请参考README.md"
+  },
+  {
     "repo": "didasker/in-aeria",
     "internalName": "in-aeria",
     "name": "In Aeria",
@@ -5206,6 +5234,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+  },
+  {
+    "repo": "undefined-1026/mindustry_multidimensionalmod",
+    "internalName": "mdimension",
+    "name": "Multi Dimensional",
+    "version": "0.1.3",
+    "hidden": false,
+    "author": "Bilibili:arknights player / Github:undefined-1026",
+    "lastUpdated": "2026-08-17T12:54:07Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A to be produced mod"
   },
   {
     "repo": "determination-wind/color-the-duct",
@@ -6410,20 +6452,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Displays wave information and enemy path/spawn overlays."
-  },
-  {
-    "repo": "undefined-1026/mindustry_multidimensionalmod",
-    "internalName": "mdimension",
-    "name": "Multi Dimensional",
-    "version": "0.1.3",
-    "hidden": false,
-    "author": "Bilibili:arknights player / Github:undefined-1026",
-    "lastUpdated": "2026-08-17T12:54:07Z",
-    "stars": 1,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A to be produced mod"
   },
   {
     "repo": "determination-wind/betterminimap",
