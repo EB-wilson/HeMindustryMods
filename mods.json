@@ -1694,6 +1694,20 @@
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
   },
   {
+    "repo": "tyt-xexebe/qol-control",
+    "internalName": "qol-control",
+    "name": "QoL Control",
+    "version": "6.8",
+    "hidden": true,
+    "author": "TyTxexebe",
+    "lastUpdated": "2026-08-16T09:00:52Z",
+    "stars": 12,
+    "minGameVersion": "159.5",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
+  },
+  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -1876,34 +1890,6 @@
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
-    "repo": "tyt-xexebe/qol-control",
-    "internalName": "qol-control",
-    "name": "QoL Control",
-    "version": "6.8",
-    "hidden": true,
-    "author": "TyTxexebe",
-    "lastUpdated": "2026-08-16T09:00:52Z",
-    "stars": 11,
-    "minGameVersion": "159.5",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
-  },
-  {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "version": "154.3.a",
-    "hidden": true,
-    "author": "Agzam4",
-    "lastUpdated": "2026-08-21T00:31:21Z",
-    "stars": 11,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -1916,6 +1902,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "version": "159.7.a",
+    "hidden": true,
+    "author": "Agzam4",
+    "lastUpdated": "2026-08-22T21:41:42Z",
+    "stars": 11,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -5298,7 +5298,7 @@
     "version": "0.1.8.2",
     "hidden": false,
     "author": "Trocket",
-    "lastUpdated": "2026-08-22T20:20:42Z",
+    "lastUpdated": "2026-08-22T20:23:28Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -7790,7 +7790,7 @@
     "version": "101",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-08-22T20:09:05Z",
+    "lastUpdated": "2026-08-22T20:24:06Z",
     "stars": 0,
     "minGameVersion": "156",
     "hasScripts": true,
