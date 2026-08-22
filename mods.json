@@ -524,7 +524,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-08-22T14:17:43Z",
+    "lastUpdated": "2026-08-22T18:32:06Z",
     "stars": 50,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1694,20 +1694,6 @@
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
   },
   {
-    "repo": "jababadev/jababarium",
-    "internalName": "jababarium",
-    "name": "Jababarium",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Jababa",
-    "lastUpdated": "2026-08-18T17:35:43Z",
-    "stars": 12,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry greatest mod ever made!"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -1720,6 +1706,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "jababadev/jababarium",
+    "internalName": "jababarium",
+    "name": "Jababarium",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Jababa",
+    "lastUpdated": "2026-08-22T19:54:14Z",
+    "stars": 12,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry greatest mod ever made!"
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -5264,20 +5264,6 @@
     "description": "Blocks that extract and synthesize ore from airborne trace elements,\ndissolved ion suspensions and cryogenic precipitation - plus a fully\nself-contained liquid economy.\n\nFive tiers per ore:\n- Small Powered (2x2): fast, needs power, moderate cost.\n- Small Unpowered (2x2): slow, no power, expensive to build.\n- Liquid-fed (3x3): fast, needs water (ozone on Erekir), no power.\n- Cryofluid-fed (3x3): fastest, needs power + cryofluid.\n- Magma-fed (4x4): ultimate output, needs slag (gallium on Erekir) + cryofluid + power.\n\nOres: copper, lead, coal, titanium, scrap, thorium, sand (Serpulo),\nberyllium, tungsten (Erekir).\n\nSelf-contained liquids: water/ozone, cryofluid and slag/gallium generators\nproduce every liquid the tiers consume, each progressively more expensive.\n\nMulti-ore synthesizers (4x4) batch-produce basic ores with fixed ratios;\nrefined and advanced versions add titanium and thorium.\n\nEvery tier is gated behind a 3-step research quest (15 milestones per ore).\nUpgrades run to ten levels each - Speed I-X, Capacity I-X, Output I-X,\nEfficiency I-X - with escalating, huge research costs.\nAnimated: powered, liquid, cryo and magma tiers glow and spin while running."
   },
   {
-    "repo": "rocket550/zytheron-technology-java-",
-    "internalName": "zytheron",
-    "name": "Zytheron Technology(Java)",
-    "version": "0.1.8.2",
-    "hidden": false,
-    "author": "Trocket",
-    "lastUpdated": "2026-08-21T16:15:12Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a java edition of my mod that eventually will replace the json one"
-  },
-  {
     "repo": "caboosket/annoica",
     "internalName": "annoica",
     "name": "Annoica",
@@ -5304,6 +5290,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "rocket550/zytheron-technology-java-",
+    "internalName": "zytheron",
+    "name": "Zytheron Technology(Java)",
+    "version": "0.1.8.2",
+    "hidden": false,
+    "author": "Trocket",
+    "lastUpdated": "2026-08-22T20:20:42Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7504,20 +7504,6 @@
     "description": "An OST for Netronium: The Final Showdown mod.\nList of music:\nTo The Unknown (Launch theme) by Sunky.MP3G"
   },
   {
-    "repo": "huanxefh/fluid-cells",
-    "internalName": "fcell",
-    "name": "Fluid Cells",
-    "version": "101",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-06-22T11:54:33Z",
-    "stars": 0,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Automatically adds fluid cell items for every fluid in game, including those from mods."
-  },
-  {
     "repo": "anolex/gecko-turret",
     "internalName": "gecko",
     "name": "Gecko",
@@ -7796,5 +7782,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Tap the lock key (default L) to lock on to an enemy unit or building and focus fire. Commands selected units via the vanilla network command path. / 按锁定键（默认 L）锁定敌方单位或建筑并集火，选中的指挥单位通过原版网络命令路径集火。"
+  },
+  {
+    "repo": "huanxefh/fluid-cells",
+    "internalName": "fcell",
+    "name": "Fluid Cells",
+    "version": "101",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-08-22T20:09:05Z",
+    "stars": 0,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Automatically adds fluid cell items for every fluid in game, including those from mods."
   }
 ]
