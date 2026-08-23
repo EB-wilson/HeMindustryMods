@@ -133,7 +133,7 @@
     "hidden": false,
     "author": "RAdea.exe",
     "lastUpdated": "2026-08-22T09:03:07Z",
-    "stars": 150,
+    "stars": 151,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -160,8 +160,8 @@
     "version": "16.0",
     "hidden": false,
     "author": "Snake",
-    "lastUpdated": "2026-08-12T16:25:07Z",
-    "stars": 140,
+    "lastUpdated": "2026-08-23T10:14:29Z",
+    "stars": 141,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -818,7 +818,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-23T07:40:12Z",
+    "lastUpdated": "2026-08-23T10:03:58Z",
     "stars": 31,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1042,7 +1042,7 @@
     "version": "110008",
     "hidden": true,
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-08-18T16:48:45Z",
+    "lastUpdated": "2026-08-23T10:10:34Z",
     "stars": 25,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1246,6 +1246,20 @@
     "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
   },
   {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-08-22T15:20:11Z",
+    "stars": 18,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
+  },
+  {
     "repo": "itzcraft/epsilon",
     "internalName": "epsilon",
     "name": "Epsilon",
@@ -1314,20 +1328,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
-  },
-  {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-08-22T15:20:11Z",
-    "stars": 17,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
   },
   {
     "repo": "topyrit/capital_progress",
@@ -2184,20 +2184,6 @@
     "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
-    "repo": "koctz34/modularis",
-    "internalName": "modularis",
-    "name": "Modularis",
-    "version": "0.3",
-    "hidden": false,
-    "author": "Ion - 7274",
-    "lastUpdated": "2026-07-21T10:36:55Z",
-    "stars": 9,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
-  },
-  {
     "repo": "mnchetra/mapgenerator",
     "internalName": "mapgenerator",
     "name": "MapGenerator",
@@ -2240,20 +2226,6 @@
     "description": "Improves your experience on the official io  Flood server."
   },
   {
-    "repo": "determination-wind/logicsugar",
-    "internalName": "logicsugar",
-    "name": "Logic Sugar",
-    "version": "2.1.7",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-18T16:48:32Z",
-    "stars": 9,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2266,6 +2238,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
+  },
+  {
+    "repo": "koctz34/modularis",
+    "internalName": "modularis",
+    "name": "Modularis",
+    "version": "0.3",
+    "hidden": false,
+    "author": "Ion - 7274",
+    "lastUpdated": "2026-08-23T09:19:26Z",
+    "stars": 9,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
+  },
+  {
+    "repo": "determination-wind/logicsugar",
+    "internalName": "logicsugar",
+    "name": "Logic Sugar",
+    "version": "2.1.8",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-23T10:07:35Z",
+    "stars": 9,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
     "repo": "p101q/snowdustry",
