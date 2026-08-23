@@ -860,7 +860,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-08-23T08:27:04Z",
+    "lastUpdated": "2026-08-23T19:44:56Z",
     "stars": 29,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -1722,6 +1722,20 @@
     "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "version": "159.7.a",
+    "hidden": true,
+    "author": "Agzam4",
+    "lastUpdated": "2026-08-22T23:47:41Z",
+    "stars": 12,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
+  },
+  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -1902,20 +1916,6 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "version": "159.7.a",
-    "hidden": true,
-    "author": "Agzam4",
-    "lastUpdated": "2026-08-22T23:47:41Z",
-    "stars": 11,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
