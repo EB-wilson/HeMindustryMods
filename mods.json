@@ -818,7 +818,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-23T05:31:26Z",
+    "lastUpdated": "2026-08-23T07:40:12Z",
     "stars": 31,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -860,7 +860,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-08-21T16:10:25Z",
+    "lastUpdated": "2026-08-23T08:27:04Z",
     "stars": 29,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -2442,7 +2442,7 @@
     "version": "10",
     "hidden": true,
     "author": "128_OTEML",
-    "lastUpdated": "2026-08-23T06:12:01Z",
+    "lastUpdated": "2026-08-23T07:44:14Z",
     "stars": 8,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -4200,20 +4200,6 @@
     "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-08-08[white]"
   },
   {
-    "repo": "nosbhghggg/jump-line-color",
-    "internalName": "logic-assist",
-    "name": "Logic Assist",
-    "version": "1.1.2",
-    "hidden": true,
-    "author": "VT4JIGMQG",
-    "lastUpdated": "2026-08-10T02:06:35Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Logic editor enhancements: jump line coloring, box select, expression editor, scrollbar enhancement, and JUMP navigation. See https://github.com/nosbhghggg/logic-assist for details."
-  },
-  {
     "repo": "frilofril/omega",
     "internalName": "omega",
     "name": "Omega",
@@ -4310,6 +4296,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nThis mod is currently in testing."
+  },
+  {
+    "repo": "nosbhghggg/jump-line-color",
+    "internalName": "logic-assist",
+    "name": "Logic Assist",
+    "version": "1.1.4",
+    "hidden": true,
+    "author": "VT4JIGMQG",
+    "lastUpdated": "2026-08-23T07:53:28Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Logic editor enhancements: jump line coloring, box select, expression editor, scrollbar enhancement, JUMP navigation, and label copy. See https://github.com/nosbhghggg/logic-assist for details."
   },
   {
     "repo": "leyn-pl/iconpicker",
