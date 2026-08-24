@@ -370,7 +370,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-08-24T04:31:23Z",
+    "lastUpdated": "2026-08-24T07:31:09Z",
     "stars": 65,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -455,7 +455,7 @@
     "hidden": false,
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
     "lastUpdated": "2026-08-07T03:36:17Z",
-    "stars": 54,
+    "stars": 55,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -804,7 +804,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-24T05:35:24Z",
+    "lastUpdated": "2026-08-24T08:31:19Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -860,7 +860,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-08-23T21:37:25Z",
+    "lastUpdated": "2026-08-24T08:46:16Z",
     "stars": 29,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -1742,7 +1742,7 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-08-24T01:22:38Z",
+    "lastUpdated": "2026-08-24T08:42:57Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2240,20 +2240,6 @@
     "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "version": "0.6.3",
-    "hidden": false,
-    "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-08-23T10:50:54Z",
-    "stars": 9,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
-  },
-  {
     "repo": "determination-wind/logicsugar",
     "internalName": "logicsugar",
     "name": "Logic Sugar",
@@ -2266,6 +2252,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "version": "0.6.3",
+    "hidden": false,
+    "author": "Watermolecules and Hydroabyss",
+    "lastUpdated": "2026-08-24T08:22:29Z",
+    "stars": 9,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
     "repo": "p101q/snowdustry",
@@ -4298,6 +4298,20 @@
     "description": "Logic editor enhancements: jump line coloring, box select, expression editor, scrollbar enhancement, JUMP navigation, and label copy. See https://github.com/nosbhghggg/logic-assist for details."
   },
   {
+    "repo": "undefined-1026/mindustry_multidimensionalmod",
+    "internalName": "mdimension",
+    "name": "Multi Dimensional",
+    "version": "0.1.3",
+    "hidden": false,
+    "author": "Bilibili:arknights player / Github:undefined-1026",
+    "lastUpdated": "2026-08-23T13:37:16Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A to be produced mod"
+  },
+  {
     "repo": "bowen-h0/mindustry-mod-cryon",
     "internalName": "cryon",
     "name": "Cryon",
@@ -5236,20 +5250,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "defowl0/tuffschem",
-    "internalName": "tuffschem",
-    "name": "Tuffschem",
-    "version": "1.0.1",
-    "hidden": true,
-    "author": "Folk",
-    "lastUpdated": "2026-08-22T10:52:46Z",
-    "stars": 2,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "rocket550/zytheron-technology-java-",
     "internalName": "zytheron",
     "name": "Zytheron Technology(Java)",
@@ -5278,18 +5278,18 @@
     "description": "New sectors to Erekir"
   },
   {
-    "repo": "undefined-1026/mindustry_multidimensionalmod",
-    "internalName": "mdimension",
-    "name": "Multi Dimensional",
-    "version": "0.1.3",
-    "hidden": false,
-    "author": "Bilibili:arknights player / Github:undefined-1026",
-    "lastUpdated": "2026-08-23T13:37:16Z",
+    "repo": "defowl0/tuffschem",
+    "internalName": "tuffschem",
+    "name": "Tuffschem",
+    "version": "1.0.2",
+    "hidden": true,
+    "author": "Folk",
+    "lastUpdated": "2026-08-24T07:53:48Z",
     "stars": 2,
     "minGameVersion": "159",
     "hasScripts": false,
-    "hasJava": true,
-    "description": "A to be produced mod"
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
