@@ -860,7 +860,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-08-25T12:35:35Z",
+    "lastUpdated": "2026-08-25T20:23:36Z",
     "stars": 29,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -1288,20 +1288,6 @@
     "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
   },
   {
-    "repo": "otamamori917/axthrix-modded-java",
-    "internalName": "aj",
-    "name": "Axthrix",
-    "version": "2.2",
-    "hidden": false,
-    "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret, blackhole related stuff.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites\n    RushieWashie/jirocab| AmmoLifeTimeUnitType",
-    "lastUpdated": "2026-08-19T01:53:23Z",
-    "stars": 17,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "BETA sandbox only! requires blackhole render by meep of faith"
-  },
-  {
     "repo": "laomoze/warhammer",
     "internalName": "wh",
     "name": "WarHammer",
@@ -1328,6 +1314,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
+  },
+  {
+    "repo": "otamamori917/axthrix-modded-java",
+    "internalName": "aj",
+    "name": "Axthrix",
+    "version": "2.2",
+    "hidden": false,
+    "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret, blackhole related stuff.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites\n    RushieWashie/jirocab| AmmoLifeTimeUnitType",
+    "lastUpdated": "2026-08-25T20:18:45Z",
+    "stars": 17,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "BETA sandbox only! requires blackhole render by meep of faith"
   },
   {
     "repo": "topyrit/capital_progress",
