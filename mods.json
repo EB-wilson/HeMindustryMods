@@ -804,7 +804,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-26T09:50:18Z",
+    "lastUpdated": "2026-08-26T10:51:28Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1742,7 +1742,7 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-08-26T04:12:19Z",
+    "lastUpdated": "2026-08-26T12:07:22Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2016,20 +2016,6 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.5.8",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-08-25T10:26:34Z",
-    "stars": 10,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -2042,6 +2028,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.5.8",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-08-26T11:26:25Z",
+    "stars": 10,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "koctz34/factor",
@@ -6592,6 +6592,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java remake of my json unfinished mod."
+  },
+  {
+    "repo": "dustdustry/wayzermapbrowser-java",
+    "internalName": "wayzer-maps",
+    "name": "Wayzer地图站",
+    "version": "1.5.5",
+    "hidden": true,
+    "author": "miner(minRi2)",
+    "lastUpdated": "2026-08-26T11:00:09Z",
+    "stars": 1,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
