@@ -35,7 +35,7 @@
     "hidden": false,
     "author": "guiY",
     "lastUpdated": "2026-08-10T09:26:52Z",
-    "stars": 267,
+    "stars": 266,
     "minGameVersion": "155",
     "hasScripts": false,
     "hasJava": true,
@@ -413,7 +413,7 @@
     "hidden": true,
     "author": "foo, buthed010203",
     "lastUpdated": "2026-03-12T20:50:04Z",
-    "stars": 59,
+    "stars": 58,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -770,20 +770,6 @@
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
   },
   {
-    "repo": "eyeofdarkness/advance-lighting",
-    "internalName": "advance-lighting",
-    "name": "Advance lighting",
-    "version": "v1.5.4.0",
-    "hidden": true,
-    "author": "EoD",
-    "lastUpdated": "2024-05-18T05:50:46Z",
-    "stars": 32,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
-  },
-  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -810,6 +796,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version isnt available or is\nbugged then please use download from the \nlatest releases instead.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 30 stars)[]\n"
+  },
+  {
+    "repo": "eyeofdarkness/advance-lighting",
+    "internalName": "advance-lighting",
+    "name": "Advance lighting",
+    "version": "v1.5.4.0",
+    "hidden": true,
+    "author": "EoD",
+    "lastUpdated": "2024-05-18T05:50:46Z",
+    "stars": 31,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "zelaux/bytelogicmod",
@@ -860,7 +860,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-08-26T14:03:20Z",
+    "lastUpdated": "2026-08-26T19:13:34Z",
     "stars": 29,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -2170,20 +2170,6 @@
     "description": "A mindustry mod which allow customize player's unit via using existing contents."
   },
   {
-    "repo": "7003mars/bridges",
-    "internalName": "bridging",
-    "name": "Bridging assistant",
-    "version": "REPLACEME",
-    "hidden": true,
-    "author": "Mars",
-    "lastUpdated": "2026-07-12T03:21:33Z",
-    "stars": 9,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Displays all bridge links. Helps with bridge weaving"
-  },
-  {
     "repo": "mnchetra/mapgenerator",
     "internalName": "mapgenerator",
     "name": "MapGenerator",
@@ -2240,20 +2226,6 @@
     "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "version": "0.6.3",
-    "hidden": false,
-    "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-08-26T13:12:49Z",
-    "stars": 9,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
-  },
-  {
     "repo": "determination-wind/logicsugar",
     "internalName": "logicsugar",
     "name": "Logic Sugar",
@@ -2266,6 +2238,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "version": "0.6.3",
+    "hidden": false,
+    "author": "Watermolecules and Hydroabyss",
+    "lastUpdated": "2026-08-26T17:26:49Z",
+    "stars": 9,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
     "repo": "p101q/snowdustry",
@@ -2364,6 +2350,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
+  },
+  {
+    "repo": "7003mars/bridges",
+    "internalName": "bridging",
+    "name": "Bridging assistant",
+    "version": "REPLACEME",
+    "hidden": true,
+    "author": "Mars",
+    "lastUpdated": "2026-07-12T03:21:33Z",
+    "stars": 8,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
     "repo": "sharlottes/mlogwatcher",
@@ -7796,5 +7796,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Shows the total resource cost of all blocks you have placed but not yet built (waiting for construction)."
+  },
+  {
+    "repo": "nolispe-epsilon/mindustry-translation-mod",
+    "internalName": "autotranslate",
+    "name": "Auto Translate",
+    "version": "0.1",
+    "hidden": true,
+    "author": "Nolispe-epsiloN",
+    "lastUpdated": "2026-08-26T18:34:23Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Automatically translates multiplayer chat using a local model. Incoming messages are detected and translated into your language; outgoing messages are translated into a language you pick before being sent. Fully local - nothing leaves your machine."
   }
 ]
