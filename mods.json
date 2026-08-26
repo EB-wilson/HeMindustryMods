@@ -720,7 +720,7 @@
     "version": "2.1.1.D",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-08-26T14:33:49Z",
+    "lastUpdated": "2026-08-26T15:20:21Z",
     "stars": 35,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -804,7 +804,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-26T14:14:03Z",
+    "lastUpdated": "2026-08-26T15:22:27Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1644,7 +1644,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "Jababa",
-    "lastUpdated": "2026-08-26T10:05:44Z",
+    "lastUpdated": "2026-08-26T16:15:34Z",
     "stars": 13,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -2240,20 +2240,6 @@
     "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
   },
   {
-    "repo": "determination-wind/logicsugar",
-    "internalName": "logicsugar",
-    "name": "Logic Sugar",
-    "version": "2.3.0",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-23T14:51:39Z",
-    "stars": 9,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2266,6 +2252,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
+  },
+  {
+    "repo": "determination-wind/logicsugar",
+    "internalName": "logicsugar",
+    "name": "Logic Sugar",
+    "version": "2.3.0",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-26T16:16:20Z",
+    "stars": 9,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
     "repo": "p101q/snowdustry",
