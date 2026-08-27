@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-08-26T10:21:00Z",
-    "stars": 619,
+    "stars": 620,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -49,7 +49,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-08-18T11:35:34Z",
-    "stars": 263,
+    "stars": 264,
     "minGameVersion": "156.2",
     "hasScripts": false,
     "hasJava": false,
@@ -546,6 +546,20 @@
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v159 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
   },
   {
+    "repo": "azaria-team/azaria",
+    "internalName": "hpl",
+    "name": "Project HPL",
+    "version": "0.2.3.1A",
+    "hidden": false,
+    "author": "HPL Team",
+    "lastUpdated": "2026-05-03T08:54:28Z",
+    "stars": 46,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
+  },
+  {
     "repo": "sh1penfire/meld",
     "internalName": "meld",
     "name": "Meld",
@@ -558,20 +572,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
-  },
-  {
-    "repo": "azaria-team/azaria",
-    "internalName": "hpl",
-    "name": "Project HPL",
-    "version": "0.2.3.1A",
-    "hidden": false,
-    "author": "HPL Team",
-    "lastUpdated": "2026-05-03T08:54:28Z",
-    "stars": 45,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
     "repo": "uenhe/fire",
@@ -790,7 +790,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-27T07:49:16Z",
+    "lastUpdated": "2026-08-27T16:03:43Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -860,7 +860,7 @@
     "version": "",
     "hidden": false,
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-08-27T07:09:29Z",
+    "lastUpdated": "2026-08-27T18:25:57Z",
     "stars": 29,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -1053,15 +1053,15 @@
     "repo": "sunkenmelody/rospule",
     "internalName": "rospule",
     "name": "「Rospule」",
-    "version": "v0.6.1",
+    "version": "v0.6.2",
     "hidden": false,
     "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
-    "lastUpdated": "2026-08-13T16:18:41Z",
+    "lastUpdated": "2026-08-27T13:59:54Z",
     "stars": 24,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": false,
-    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]50+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.6.1 -- Minor Bug fixes. Improved 5-10's weather perfomance and messages.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Plooey\r\n"
+    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nRospule is fixed at [sky]NORMAL[white] difficulty and cannot be changed.\r\n[sky]Contains 50+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.6.2 -- Fixed several bundle typos. Readjusted 4-10, 5-8, 5-9 and 5-10's difficulty for better experience.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Plooey\r\n"
   },
   {
     "repo": "dustdustry/itembridgex",
@@ -1288,20 +1288,6 @@
     "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
   },
   {
-    "repo": "laomoze/warhammer",
-    "internalName": "wh",
-    "name": "WarHammer",
-    "version": "beta.2.1",
-    "hidden": false,
-    "author": "LaoMoze",
-    "lastUpdated": "2026-08-19T14:42:06Z",
-    "stars": 17,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
-  },
-  {
     "repo": "jojofr1/multicrafter",
     "internalName": "multicrafter",
     "name": "MultiCrafter",
@@ -1328,6 +1314,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
+  },
+  {
+    "repo": "laomoze/warhammer",
+    "internalName": "wh",
+    "name": "WarHammer",
+    "version": "beta.2.1",
+    "hidden": false,
+    "author": "LaoMoze",
+    "lastUpdated": "2026-08-27T14:05:10Z",
+    "stars": 17,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
     "repo": "topyrit/capital_progress",
@@ -1694,6 +1694,20 @@
     "description": "Mod add tanks, aircraft and naval ships"
   },
   {
+    "repo": "spore-biometh-team/sandmod",
+    "internalName": "sand",
+    "name": "Greektech",
+    "version": "1.0.2",
+    "hidden": false,
+    "author": "Watermocules",
+    "lastUpdated": "2026-07-15T05:56:22Z",
+    "stars": 12,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
+  },
+  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1742,7 +1756,7 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-08-27T05:52:27Z",
+    "lastUpdated": "2026-08-27T10:12:17Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1848,20 +1862,6 @@
     "description": "Adds extra utilities to map editor."
   },
   {
-    "repo": "spore-biometh-team/sandmod",
-    "internalName": "sand",
-    "name": "Greektech",
-    "version": "1.0.2",
-    "hidden": false,
-    "author": "Watermocules",
-    "lastUpdated": "2026-07-15T05:56:22Z",
-    "stars": 11,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
-  },
-  {
     "repo": "aevorlum/liminal-protocol",
     "internalName": "lp",
     "name": "Liminal Protocol",
@@ -1910,7 +1910,7 @@
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-08-26T09:52:20Z",
+    "lastUpdated": "2026-08-27T13:47:48Z",
     "stars": 11,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -2042,6 +2042,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
+  },
+  {
+    "repo": "determination-wind/logicsugar",
+    "internalName": "logicsugar",
+    "name": "Logic Sugar",
+    "version": "3.0.1",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-27T12:50:59Z",
+    "stars": 10,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
     "repo": "koctz34/factor",
@@ -2232,26 +2246,12 @@
     "version": "0.6.3",
     "hidden": false,
     "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-08-26T17:26:49Z",
+    "lastUpdated": "2026-08-27T14:35:59Z",
     "stars": 9,
     "minGameVersion": "156",
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
-  },
-  {
-    "repo": "determination-wind/logicsugar",
-    "internalName": "logicsugar",
-    "name": "Logic Sugar",
-    "version": "3.0.0",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-27T07:31:29Z",
-    "stars": 9,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
     "repo": "p101q/snowdustry",
@@ -2660,6 +2660,20 @@
     "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
   },
   {
+    "repo": "ramazanduruev/darklife.",
+    "internalName": "mo",
+    "name": "DarkLife",
+    "version": "0.3",
+    "hidden": false,
+    "author": "Votak",
+    "lastUpdated": "2026-08-16T06:45:12Z",
+    "stars": 7,
+    "minGameVersion": "157.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
+  },
+  {
     "repo": "determination-wind/stealthpath",
     "internalName": "stealth-path",
     "name": "Stealth Path / 偷袭小道",
@@ -3008,20 +3022,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
-  },
-  {
-    "repo": "ramazanduruev/darklife.",
-    "internalName": "mo",
-    "name": "DarkLife",
-    "version": "0.3",
-    "hidden": false,
-    "author": "Votak",
-    "lastUpdated": "2026-08-16T06:45:12Z",
-    "stars": 6,
-    "minGameVersion": "157.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
     "repo": "pirojok3000/erekir-cargo-drone-for-serpulo",
@@ -6118,20 +6118,6 @@
     "description": "Instantly unlock all research on the tech-tree for Serpulo and Erekir. Features: per-planet unlock/reset, auto-unlock on campaign load. Used raffel080108's Tech Tree Unlocker"
   },
   {
-    "repo": "xerxes-anominus/randustry",
-    "internalName": "xr",
-    "name": "Randustry",
-    "version": "I",
-    "hidden": false,
-    "author": "[#0000ff]Xe[#0066ff]rx[#00ccff]es[]",
-    "lastUpdated": "2026-06-17T05:44:04Z",
-    "stars": 1,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Gambling"
-  },
-  {
     "repo": "pproton96/cursorspoofer",
     "internalName": "cursor-spoofer",
     "name": "Cursor Spoofer",
@@ -6538,20 +6524,6 @@
     "description": "异验丁真，鉴定为：抽锐刻五抽的"
   },
   {
-    "repo": "cuber-david/k-s-repository",
-    "internalName": "kmod",
-    "name": "FecesMod",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Cuber",
-    "lastUpdated": "2026-08-21T16:22:12Z",
-    "stars": 1,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Make a beautiful world with feces."
-  },
-  {
     "repo": "lebrops/sporbels-inventions",
     "internalName": "sporbel's inventions",
     "name": "SporBel's Inventions",
@@ -6620,6 +6592,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "cuber-david/k-s-repository",
+    "internalName": "kmod",
+    "name": "FecesMod",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Cuber",
+    "lastUpdated": "2026-08-27T15:25:50Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Make a beautiful world with feces."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
