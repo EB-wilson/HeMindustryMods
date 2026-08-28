@@ -370,7 +370,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-08-27T03:29:17Z",
+    "lastUpdated": "2026-08-28T04:02:26Z",
     "stars": 66,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -790,7 +790,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-27T16:03:43Z",
+    "lastUpdated": "2026-08-28T03:56:15Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1756,7 +1756,7 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-08-27T10:12:17Z",
+    "lastUpdated": "2026-08-28T02:58:42Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2212,7 +2212,7 @@
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
   },
   {
-    "repo": "mindustry-antigrief/floodcompat",
+    "repo": "coriummindustry/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
     "version": "2.8.8",
@@ -2422,20 +2422,6 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-08-20T08:31:17Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "128oteml/mindustryoptifine",
     "internalName": "mindustry-optifine",
     "name": "Mindustry OptiFine",
@@ -2462,6 +2448,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "1.03",
+    "hidden": false,
+    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
+    "lastUpdated": "2026-08-28T02:33:49Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -2674,20 +2674,6 @@
     "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
-    "repo": "determination-wind/stealthpath",
-    "internalName": "stealth-path",
-    "name": "Stealth Path / 偷袭小道",
-    "version": "5.3.2",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-08-18T07:05:17Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
-  },
-  {
     "repo": "thepi14/tekton",
     "internalName": "tekton",
     "name": "Tekton",
@@ -2770,6 +2756,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
+  },
+  {
+    "repo": "determination-wind/stealthpath",
+    "internalName": "stealth-path",
+    "name": "Stealth Path / 偷袭小道",
+    "version": "5.3.2",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-08-28T01:58:07Z",
+    "stars": 7,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -4270,20 +4270,6 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.8",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-08-19T22:34:44Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "nosbhghggg/jump-line-color",
     "internalName": "logic-assist",
     "name": "Logic Assist",
@@ -4312,15 +4298,29 @@
     "description": "A to be produced mod"
   },
   {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.8",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-08-27T21:07:20Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
     "repo": "bowen-h0/mindustry-mod-cryon",
     "internalName": "cryon",
     "name": "Cryon",
-    "version": "20.5.0",
+    "version": "20.8.0",
     "hidden": false,
     "author": "Bowen-H0",
-    "lastUpdated": "2026-08-26T00:50:05Z",
+    "lastUpdated": "2026-08-27T23:39:13Z",
     "stars": 3,
-    "minGameVersion": "154",
+    "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
     "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nThis mod is currently in testing."
@@ -6552,20 +6552,6 @@
     "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了就别怪我啦。\n若是mod本身存在问题，请及时反馈给我，我会非常感谢你的！虽然没什么奖励就是了。\n没有华丽的制作团队，只有作者一人的挣扎..."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.3.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-08-25T18:07:51Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "m-e-l-i-s/silviriumjava",
     "internalName": "sli",
     "name": "Silvirium",
@@ -6594,13 +6580,27 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.3.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-08-27T21:32:43Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
     "repo": "cuber-david/k-s-repository",
     "internalName": "kmod",
     "name": "FecesMod",
     "version": "1.0",
     "hidden": false,
     "author": "Cuber",
-    "lastUpdated": "2026-08-27T15:25:50Z",
+    "lastUpdated": "2026-08-28T03:50:07Z",
     "stars": 1,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -7796,5 +7796,33 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Automatically translates multiplayer chat using a local model. Incoming messages are detected and translated into your language; outgoing messages are translated into a language you pick before being sent. Fully local - nothing leaves your machine."
+  },
+  {
+    "repo": "stinkybird21/vane-shield-library",
+    "internalName": "mcs",
+    "name": "Vane‑Shield Library",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Stinkbird21&MouseBird&DODO",
+    "lastUpdated": "2026-08-28T02:53:14Z",
+    "stars": 0,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides a self‑rotating flat‑segment shield ability, featuring bullet interception, projectile rebound chance, damage cycle and regeneration system.\n\n⚠️ Warning: Core functions are fully working. Only parameter values fail to show on‑screen.\nThis display issue will not affect gameplay and is expected to be fixed within two days.\n\n为像素工厂提供一款可用于自定义单位的自转分片平板护盾能力。支持子弹拦截、投射物反弹概率、护盾受损破碎以及冷却重生整套生命周期。\n\n⚠️ 警告：主要功能全部正常。仅参数数值无法在界面显示。\n该显示问题不会影响实际使用，预计两天之内修复。\n\nFeel free to submit feedback via GitHub.\n欢迎通过 GitHub 反馈。"
+  },
+  {
+    "repo": "jovinull/factoryscope",
+    "internalName": "factory-scope",
+    "name": "FactoryScope",
+    "version": "0.2.0",
+    "hidden": true,
+    "author": "Jovinull",
+    "lastUpdated": "2026-08-28T03:42:46Z",
+    "stars": 0,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Diagnose factory efficiency, inputs, outputs and production problems directly in Mindustry."
   }
 ]
