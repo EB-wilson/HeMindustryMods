@@ -1708,20 +1708,6 @@
     "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
   },
   {
-    "repo": "novanox4/meridium",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "version": "0.1",
-    "hidden": false,
-    "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-08-11T20:47:10Z",
-    "stars": 12,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
-  },
-  {
     "repo": "tyt-xexebe/qol-control",
     "internalName": "qol-control",
     "name": "QoL Control",
@@ -1750,13 +1736,27 @@
     "description": "Additional functionality"
   },
   {
+    "repo": "novanox4/meridium",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "version": "0.1",
+    "hidden": false,
+    "author": "NV-NX (FULL CREDITS IN DESC.)",
+    "lastUpdated": "2026-08-31T19:55:50Z",
+    "stars": 12,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-08-31T11:40:29Z",
+    "lastUpdated": "2026-08-31T22:00:50Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4318,7 +4318,7 @@
     "version": "21.2.0",
     "hidden": false,
     "author": "Bowen-H0",
-    "lastUpdated": "2026-08-30T23:45:37Z",
+    "lastUpdated": "2026-08-31T22:56:21Z",
     "stars": 3,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -5318,6 +5318,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New sectors to Erekir"
+  },
+  {
+    "repo": "oleksiy1409liut/periodic-overhaul",
+    "internalName": "periodic",
+    "name": "periodic overhaul",
+    "version": "0.11",
+    "hidden": false,
+    "author": "oleksiy",
+    "lastUpdated": "2026-08-31T20:38:22Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7866,5 +7880,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Diagnose factory efficiency, inputs, outputs and production problems directly in Mindustry."
+  },
+  {
+    "repo": "itskirby69/mincedustry",
+    "internalName": "mincedustry",
+    "name": "Mincedustry",
+    "version": "v1.0",
+    "hidden": false,
+    "author": "itsKirby",
+    "lastUpdated": "2026-08-31T22:03:43Z",
+    "stars": 0,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Java mod for the Mindustry Java Mod Guide!"
   }
 ]
