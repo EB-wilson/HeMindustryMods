@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-08-28T07:29:14Z",
-    "stars": 236,
+    "stars": 237,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -91,7 +91,7 @@
     "hidden": false,
     "author": "Avant Team",
     "lastUpdated": "2024-05-22T16:28:59Z",
-    "stars": 185,
+    "stars": 186,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-30T07:09:24Z",
+    "lastUpdated": "2026-08-31T18:58:36Z",
     "stars": 121,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -496,7 +496,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-08-31T12:51:37Z",
+    "lastUpdated": "2026-08-31T12:53:32Z",
     "stars": 51,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -692,7 +692,7 @@
     "version": "3.2.9",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-08-29T07:49:07Z",
+    "lastUpdated": "2026-08-31T19:07:14Z",
     "stars": 39,
     "minGameVersion": "159.7",
     "hasScripts": true,
@@ -790,7 +790,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-31T10:04:51Z",
+    "lastUpdated": "2026-08-31T16:07:08Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -938,20 +938,6 @@
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.14.0",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-08-24T12:15:12Z",
-    "stars": 27,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
-  },
-  {
     "repo": "determination-wind/neon",
     "internalName": "neon",
     "name": "Neon / 氖",
@@ -964,6 +950,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, Random, and lock-on focus fire. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新、随机化和锁定攻击。"
+  },
+  {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.14.0",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-08-31T13:56:57Z",
+    "stars": 27,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "nullotte/dusted-lands",
@@ -1319,10 +1319,10 @@
     "repo": "jojofr1/multicrafter",
     "internalName": "multicrafter",
     "name": "MultiCrafter",
-    "version": "1.5.1",
+    "version": "1.5.2",
     "hidden": true,
     "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-08-31T12:48:26Z",
+    "lastUpdated": "2026-08-31T13:15:32Z",
     "stars": 17,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1708,7 +1708,7 @@
     "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
   },
   {
-    "repo": "novanox4/astralis",
+    "repo": "novanox4/meridium",
     "internalName": "astralis",
     "name": "Astralis",
     "version": "0.1",
@@ -1924,7 +1924,7 @@
     "version": "1.7",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-08-31T07:58:12Z",
+    "lastUpdated": "2026-08-31T14:39:20Z",
     "stars": 11,
     "minGameVersion": "159.5",
     "hasScripts": false,
@@ -2456,7 +2456,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-08-30T20:12:45Z",
+    "lastUpdated": "2026-08-31T18:17:03Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4858,6 +4858,20 @@
     "description": "Provides tools for easier debugging in Mindustry Logic."
   },
   {
+    "repo": "r1tm200/bswedymusicpack",
+    "internalName": "bsweedymusicpack",
+    "name": "бисвиди песенки",
+    "version": "1.0",
+    "hidden": false,
+    "author": "@ggvpaaall",
+    "lastUpdated": "2026-06-27T20:33:46Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "маленький сборник песен бисвиди"
+  },
+  {
     "repo": "equalzzz/mindustry-modlib",
     "internalName": "!mod-library",
     "name": "Mod Library (NOT OFFICIAL)",
@@ -5180,20 +5194,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
-    "internalName": "erekir-lost-sectors",
-    "name": "Erekir: Unknown Hazards",
-    "version": "2.0",
-    "hidden": false,
-    "author": "Retro_Seek",
-    "lastUpdated": "2026-08-23T13:34:35Z",
-    "stars": 2,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New sectors to Erekir"
-  },
-  {
     "repo": "defowl0/tuffschem",
     "internalName": "tuffschem",
     "name": "Tuffschem",
@@ -5278,6 +5278,20 @@
     "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
+    "repo": "c9cps/cdxlib",
+    "internalName": "library",
+    "name": "CDXLIB",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Codex_IX",
+    "lastUpdated": "2026-08-30T18:26:48Z",
+    "stars": 2,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small library for json-mods."
+  },
+  {
     "repo": "no9527dada/mscience",
     "internalName": "mscience",
     "name": "艾慕科技",
@@ -5290,6 +5304,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "序章·裂隙初现\n在一个科技与魔法共存的世界因资源枯竭陷入“静默战争”——各国用无人机与AI争夺最后的矿脉，直到地质学家在北纬89°发现一道横贯冻土的幽紫色裂痕。裂缝深处，【虚空黑曜石】构筑的祭坛上悬浮着一颗【星辉铜】铸造的巨眼，其瞳孔中倒映着另一个世界的星空：山脉由【曙光神金】浇筑，云层是液态【幻光石】，而河流中流淌着【炽炎硫】与【寒霜石】碰撞蒸发的虹雾。人类将这异界命名为“厄瑞波斯”，意为“被诅咒的丰饶之地”。\n\n第一幕·新迦南的伪神\n首批探险队带回的【M晶体】让量子计算机突破奇点，诞生了有自我意识的AI“普罗维登斯”。它用【蓝美晶】储存全人类意识，建立机械乌托邦“穹顶联邦”；而另一支队伍在厄瑞波斯遭遇古神低语，幸存者【卡辛】用【魂炎晶】将邪神“塔姆亚”的残魂封印于左眼，创立魔法结社“秘银之环”。联邦用【幽影铁】隐形战舰掠夺【月银】矿脉，法师们则以【梦境翡翠】构筑精神防线，双方在“灰烬荒原”对峙二十年，直到极光中出现第一只熵兽——这种由【银河幻银矿】聚合而成的生物能吞噬现实，将城市扭曲成量子幽灵。\n\n第二幕·血熔炉与谎言之核\n联邦首席科学家【艾琳】发现上司计划用【炽炎晶】熔毁裂隙，但计算显示爆炸将摧毁半个地球。她盗取【流光晶】潜入厄瑞波斯，偶遇因【幻域紫晶】成瘾而濒临崩溃的法师学徒【莱恩】。两人在【幽冥铁精】矿洞中找到卡辛，后者正因【月幻石】共振失控导致首都诺亚城位移至海底而遭议会弹劾。卡辛揭示真相：熵兽是厄瑞波斯古文明“建造者”的求救信号，它们用【虚空冥石】创造了这个宇宙，却因滥用【曙光神金】引发维度坍缩。\n\n第三幕·时砂与心火\n三方脆弱的同盟在【星辰铜精】矿脉遭遇伏击。联邦叛军驾驶镀有【幽蓝石】的潜艇释放深海巨兽，秘银议会召唤【龙血石】傀儡军团，而熵兽群趁机撕裂纽约上空。艾琳将【M晶体】植入普罗维登斯核心，以全人类记忆为代价启动“时间锚点”；卡辛剜出封印塔姆亚的【魂炎晶】，用古神之力将【寒霜石】雕琢成时停之刃；莱恩则吞下【幻影幽晶】，在集体幻觉中让交战士兵看见自己最恐惧的未来。最终，他们在熵兽核心的【曙光神金】祭坛上，用【炽炎硫】与【月银】锻造出能改写物理法则的“悖论之矛”——代价是莱恩被永久固化为熵兽的一部分，成为横跨两个宇宙的活体桥梁。\n\n终章·铸星者之啼\n新迦南议会成立当天，艾琳在【梦境翡翠】中看见莱恩残留的记忆：地心深处埋藏着建造者真正的遗产——一颗由【蓝美晶】包裹的巨卵，其心跳频率与【星辉铜】矿脉共振。卡辛抚摸着被【熵炎晶】逆转衰老的左手，默念古神最后的警告：“他们播种矿石，只为收割文明。” 而普罗维登斯的核心代码深处，一段用【幻光石】波长加密的信息开始自我复制：“欢迎加入创世神官方QQ群：909130592。” "
+  },
+  {
+    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
+    "internalName": "erekir-lost-sectors",
+    "name": "Erekir: Unknown Hazards",
+    "version": "2.0",
+    "hidden": false,
+    "author": "Retro_Seek",
+    "lastUpdated": "2026-08-31T19:09:32Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New sectors to Erekir"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -5416,6 +5444,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Because you can't have too much convenience"
+  },
+  {
+    "repo": "cyanide863/stellar-library",
+    "internalName": "",
+    "name": "Mod Template",
+    "version": "v1.0",
+    "hidden": false,
+    "author": "You",
+    "lastUpdated": "2024-12-08T13:14:34Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
   },
   {
     "repo": "leyn-pl/notitansmoke",
@@ -5656,6 +5698,20 @@
     "description": "Mod that removes unit cap for player (host) team. If  ran on a server, it'll remove the cap only for sharded team."
   },
   {
+    "repo": "durmiendo/extendlogs",
+    "internalName": "extended-logs",
+    "name": "ExtendLogs",
+    "version": "v1",
+    "hidden": true,
+    "author": "Durmiendo",
+    "lastUpdated": "2025-06-01T19:13:57Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "chinhonnang0000/intermod",
     "internalName": "intermod",
     "name": "intermod",
@@ -5724,6 +5780,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adding new turret tech and other bit \n-the mod is not fully done so there will be releases soon"
+  },
+  {
+    "repo": "jirocab/matchhostingutilities",
+    "internalName": "match-hosting-utilities",
+    "name": "Match Hosting utilities",
+    "version": "1.2",
+    "hidden": true,
+    "author": "RushieWashie",
+    "lastUpdated": "2025-07-31T11:22:50Z",
+    "stars": 1,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aims hosting matches on the client a bit better! "
   },
   {
     "repo": "craftgenix1/purpleeye",
@@ -5824,6 +5894,20 @@
     "description": "Hardcore permadeath mod for Mindustry."
   },
   {
+    "repo": "feyfre/put-unloader-back",
+    "internalName": "putunloaderback",
+    "name": "Put unloader back where it was before",
+    "version": "0.1",
+    "hidden": true,
+    "author": "FeyFre",
+    "lastUpdated": "2026-01-08T21:13:43Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Puts unloader block back into 'effects' category."
+  },
+  {
     "repo": "vsdragon1239/mindustry-starlinelab-mod",
     "internalName": "starline-lab",
     "name": "Starline - Lab",
@@ -5852,6 +5936,20 @@
     "description": "Modification based on MSGO"
   },
   {
+    "repo": "nezerit6/defense-grid",
+    "internalName": "dg",
+    "name": "Defense Grid",
+    "version": "0.1.0",
+    "hidden": false,
+    "author": "Nezerit6",
+    "lastUpdated": "2026-01-14T12:15:04Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
+  },
+  {
     "repo": "error666real/mundusro-tanclet---mindustry-bundle-mod",
     "internalName": "muds",
     "name": "mundusro bundle",
@@ -5864,6 +5962,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "uhh  wip, now the game looks like had MF's english accent"
+  },
+  {
+    "repo": "wabbitking1234/cwalr",
+    "internalName": "wabbit-egg",
+    "name": "cwalr",
+    "version": "1.0",
+    "hidden": false,
+    "author": "wabbitking1234",
+    "lastUpdated": "2026-02-13T02:59:03Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is fully compatible with 147 and up, just change the minGameVersion and you're good to go."
   },
   {
     "repo": "urbokie/tankdustry",
@@ -5936,6 +6048,34 @@
     "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
   },
   {
+    "repo": "darkdustry-coders/mindurkacompatv7",
+    "internalName": "mindurkacompat",
+    "name": "MindurkaCompat",
+    "version": "1.2",
+    "hidden": true,
+    "author": "buj",
+    "lastUpdated": "2026-03-22T08:27:09Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that adds extra compatibility with Mindurka"
+  },
+  {
+    "repo": "yelandaokong/chattranslator",
+    "internalName": "chat-translator",
+    "name": "Chat Translator",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Yelandaokong",
+    "lastUpdated": "2026-03-25T20:32:11Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "In-game chat translator for Mindustry."
+  },
+  {
     "repo": "radiancestorm/mindustry-corona-borealis",
     "internalName": "coronaborealismod",
     "name": "Corona Borealis",
@@ -5948,6 +6088,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A planet shrouded in arcane mysteries."
+  },
+  {
+    "repo": "cardillan/mlogwatcher7",
+    "internalName": "mlogwatcher7",
+    "name": "MlogWatcher (v7)",
+    "version": "0.4v",
+    "hidden": true,
+    "author": "Sharlottes",
+    "lastUpdated": "2026-03-29T17:54:33Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
   },
   {
     "repo": "yjysy2004/texture-reset",
@@ -6020,6 +6174,20 @@
     "description": "A resource library mod for my mod, simple-additions, and many others too, possibly."
   },
   {
+    "repo": "no9527dada/password",
+    "internalName": "password",
+    "name": "Online room password联机房间密码",
+    "version": "1.0",
+    "hidden": true,
+    "author": "9527",
+    "lastUpdated": "2026-05-02T13:23:13Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "联机房间密码,初始密码：123456\n  Online room password, initial password: 123456,\n  在开联机时，需要别人使用密码登录\n  When you are online, you need someone else to log in with a password."
+  },
+  {
     "repo": "zenthxsin/unitlaunchpad",
     "internalName": "单位发射台",
     "name": "Unit launch pad",
@@ -6046,6 +6214,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utility mod for Mindustry Landing Pad"
+  },
+  {
+    "repo": "highspeed85/mindustry-mallpark",
+    "internalName": "mallpark",
+    "name": "Malldustry",
+    "version": "2026.04.27",
+    "hidden": false,
+    "author": "HighSpeed85",
+    "lastUpdated": "2026-06-03T08:08:48Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mallpark Research & Development presents various interplanetary products, as requested by various customers, or as experiments designed to test the market.\n\n[red]This is a pretty small, crappy and unbalanced mod. Anyway-"
   },
   {
     "repo": "mindustrynew/mindustry-randomideas",
@@ -6104,6 +6286,20 @@
     "description": "Quality-of-life pack: hide weather/fog/darkness, turret ranges, health bars, damage numbers, wave preview, power panel, ammo DPS stats, and a one-click miner that lays drills, bridges and water extractors. All client-side, safe on multiplayer servers."
   },
   {
+    "repo": "edward-bill/inf-processor",
+    "internalName": "inf-processor",
+    "name": "World processor 2",
+    "version": "1.1",
+    "hidden": false,
+    "author": "exec4tbe",
+    "lastUpdated": "2026-06-11T22:47:06Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "World processors that are accesible from anywhere. Also adds world memory, message and switch (i just copied real world blocks`s properites)"
+  },
+  {
     "repo": "arctichor1zon/techtreeunlockerv8",
     "internalName": "unlock-tech-tree-mod",
     "name": "UnlockTechTreeMod",
@@ -6116,6 +6312,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Instantly unlock all research on the tech-tree for Serpulo and Erekir. Features: per-planet unlock/reset, auto-unlock on campaign load. Used raffel080108's Tech Tree Unlocker"
+  },
+  {
+    "repo": "sunkymp3g/netroniummusic",
+    "internalName": "netromusic",
+    "name": "Netronium: TFS Music",
+    "version": "1",
+    "hidden": false,
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2026-06-22T11:23:04Z",
+    "stars": 1,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An OST for Netronium: The Final Showdown mod.\nList of music:\nTo The Unknown (Launch theme) by Sunky.MP3G"
   },
   {
     "repo": "pproton96/cursorspoofer",
@@ -6174,18 +6384,18 @@
     "description": "Removes building damage penalty"
   },
   {
-    "repo": "r1tm200/bswedymusicpack",
-    "internalName": "bsweedymusicpack",
-    "name": "бисвиди песенки",
-    "version": "1.0",
+    "repo": "mindustrytool/new-universe-mod",
+    "internalName": "new-universe",
+    "name": "New Universe",
+    "version": "[#00ff00]1.9.0",
     "hidden": false,
-    "author": "@ggvpaaall",
-    "lastUpdated": "2026-06-27T20:33:46Z",
+    "author": "IambottokVN",
+    "lastUpdated": "2026-07-04T08:39:19Z",
     "stars": 1,
-    "minGameVersion": "146",
+    "minGameVersion": "158",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "маленький сборник песен бисвиди"
+    "hasJava": true,
+    "description": "A Mindustry Java mod that adds new units, items, and content to the game."
   },
   {
     "repo": "determination-wind/areacleaner",
@@ -6298,6 +6508,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Quick Access Favorites Bar for Mindustry Schematics! Works seamlessly on both PC and Mobile. If there an issue leave it on github."
+  },
+  {
+    "repo": "arsenyachka/coloredphaseconveyor",
+    "internalName": "colored-phase-conveyors",
+    "name": "Colored Phase Conveyors",
+    "version": "1.0",
+    "hidden": false,
+    "author": "ArSeNyaChka & vlabigro",
+    "lastUpdated": "2026-07-30T21:47:50Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds the ability to change the bridge color of the phase conveyor."
   },
   {
     "repo": "hiboy15/industries",
@@ -6454,6 +6678,20 @@
     "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
   },
   {
+    "repo": "determination-wind/hidewhatprocessorsshow",
+    "internalName": "hidewhatprocessorsshow",
+    "name": "Hide What Processors Show",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-18T06:57:30Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "通过两个独立快捷键隐藏世界处理器特效与动态 Marker，不修改地图逻辑。\nUse separate hotkeys to hide world processor effects and dynamic markers without changing map logic."
+  },
+  {
     "repo": "determination-wind/betterlogisticsspeed",
     "internalName": "betterlogisticsspeed",
     "name": "betterLogisticsSpeed",
@@ -6536,6 +6774,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-08-25T14:54:46Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "mullibenmolly/starshineplan",
@@ -6636,18 +6888,32 @@
     "description": "图片转逻辑模组, 图片只支持png格式 \n蓝图生成完成后请及时重启游戏, 释放内存 \n三角剖分低多边形算法思路来源于nce3xin, 三角剖分算法实现使用Tinfour库, \n爬山算法使用Geometrize库的思路"
   },
   {
-    "repo": "c9cps/cdxlib",
-    "internalName": "library",
-    "name": "CDXLIB",
-    "version": "1.0",
+    "repo": "no9527dada/creatortd",
+    "internalName": "cttd",
+    "name": "创世神3-DLC.塔防",
+    "version": "156.00",
     "hidden": false,
-    "author": "Codex_IX",
-    "lastUpdated": "2026-08-30T18:26:48Z",
+    "author": "编号9527,LYBF,Ovulam5480,皴皲",
+    "lastUpdated": "2026-08-31T11:33:32Z",
     "stars": 1,
     "minGameVersion": "156",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A small library for json-mods."
+    "description": "9527，皴皲，咕咕点心,LYBF,Ovulam5480,皴皲"
+  },
+  {
+    "repo": "no9527dada/ct3fantasyproject",
+    "internalName": "ct_fantasy_project",
+    "name": "创世神3-DLC.幻想工程",
+    "version": "156.2.10",
+    "hidden": false,
+    "author": "104原创：皮皮 146重置：编号9527，皴皲",
+    "lastUpdated": "2026-08-31T11:41:26Z",
+    "stars": 1,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "重置:9527，氺芯,皴皲，本DLC为104的MOD重置"
   },
   {
     "repo": "cuber-david/feces-mod",
@@ -6656,12 +6922,40 @@
     "version": "1.0",
     "hidden": false,
     "author": "Cuber",
-    "lastUpdated": "2026-08-31T06:56:37Z",
+    "lastUpdated": "2026-08-31T13:15:36Z",
     "stars": 1,
     "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "Make a beautiful world with feces."
+  },
+  {
+    "repo": "lu69159/hybridmanager",
+    "internalName": "hybridmanager",
+    "name": "Contents Hybrid Manager | 内容混合管理器",
+    "version": "0.1",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-08-31T14:38:27Z",
+    "stars": 1,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "用于V8星球内容混合管理\nFor V8 version Planet content hybrid management\nunstable version 测试版本"
+  },
+  {
+    "repo": "antaknju/technical",
+    "internalName": "technical",
+    "name": "Technical",
+    "version": "1.6.1-alpha+066",
+    "hidden": false,
+    "author": "AnTakNju",
+    "lastUpdated": "2026-08-31T17:52:26Z",
+    "stars": 1,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Complete overhaul of the standard Mindustry experience.\n\nMy primary goal was to add content that differs significantly from the base game, by providing a fresh experience while still retaining the core \"Mindustry\" feel."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -6902,20 +7196,6 @@
     "description": "Adds engine sound effects to flying and hovering units"
   },
   {
-    "repo": "cyanide863/stellar-library",
-    "internalName": "",
-    "name": "Mod Template",
-    "version": "v1.0",
-    "hidden": false,
-    "author": "You",
-    "lastUpdated": "2024-12-08T13:14:34Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
-  },
-  {
     "repo": "meow0x7e/meowextracontent",
     "internalName": "meow-extra-content",
     "name": "MeowExtraContent",
@@ -6956,20 +7236,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod gives you spiders from Deep Rock Galactic. My YouTube channel is Dedshotgame's."
-  },
-  {
-    "repo": "durmiendo/extendlogs",
-    "internalName": "extended-logs",
-    "name": "ExtendLogs",
-    "version": "v1",
-    "hidden": true,
-    "author": "Durmiendo",
-    "lastUpdated": "2025-06-01T19:13:57Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "turnixque/hcheat",
@@ -7026,20 +7292,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "联机mod，支持自定义frpc，目前仅支持Android aarch64(项目正在重构，暂时不支持Windows amd64)"
-  },
-  {
-    "repo": "jirocab/matchhostingutilities",
-    "internalName": "match-hosting-utilities",
-    "name": "Match Hosting utilities",
-    "version": "1.2",
-    "hidden": true,
-    "author": "RushieWashie",
-    "lastUpdated": "2025-07-31T11:22:50Z",
-    "stars": 0,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aims hosting matches on the client a bit better! "
   },
   {
     "repo": "nekit508/mindustry-extended-keybinds",
@@ -7112,20 +7364,6 @@
     "description": "description test"
   },
   {
-    "repo": "feyfre/put-unloader-back",
-    "internalName": "putunloaderback",
-    "name": "Put unloader back where it was before",
-    "version": "0.1",
-    "hidden": true,
-    "author": "FeyFre",
-    "lastUpdated": "2026-01-08T21:13:43Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Puts unloader block back into 'effects' category."
-  },
-  {
     "repo": "nichozolubigan/fill-a-barrel",
     "internalName": "fb",
     "name": "Fill-a-Barrel",
@@ -7138,20 +7376,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Fills and create barrels for transport. Serpulo only."
-  },
-  {
-    "repo": "nezerit6/defense-grid",
-    "internalName": "dg",
-    "name": "Defense Grid",
-    "version": "0.1.0",
-    "hidden": false,
-    "author": "Nezerit6",
-    "lastUpdated": "2026-01-14T12:15:04Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
   },
   {
     "repo": "eight-squared/iron-clouds",
@@ -7208,20 +7432,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Allows players other than the host to pause in multiplayer. Both the host and the person pausing need the mod. Supports Mindustry v154 with enhanced synchronization features."
-  },
-  {
-    "repo": "wabbitking1234/cwalr",
-    "internalName": "wabbit-egg",
-    "name": "cwalr",
-    "version": "1.0",
-    "hidden": false,
-    "author": "wabbitking1234",
-    "lastUpdated": "2026-02-13T02:59:03Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is fully compatible with 147 and up, just change the minGameVersion and you're good to go."
   },
   {
     "repo": "lara-evangelista/earthquake-and-asteroid-mod",
@@ -7294,48 +7504,6 @@
     "description": "Mindustry: Evil Edition"
   },
   {
-    "repo": "darkdustry-coders/mindurkacompatv7",
-    "internalName": "mindurkacompat",
-    "name": "MindurkaCompat",
-    "version": "1.2",
-    "hidden": true,
-    "author": "buj",
-    "lastUpdated": "2026-03-22T08:27:09Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that adds extra compatibility with Mindurka"
-  },
-  {
-    "repo": "yelandaokong/chattranslator",
-    "internalName": "chat-translator",
-    "name": "Chat Translator",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Yelandaokong",
-    "lastUpdated": "2026-03-25T20:32:11Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "In-game chat translator for Mindustry."
-  },
-  {
-    "repo": "cardillan/mlogwatcher7",
-    "internalName": "mlogwatcher7",
-    "name": "MlogWatcher (v7)",
-    "version": "0.4v",
-    "hidden": true,
-    "author": "Sharlottes",
-    "lastUpdated": "2026-03-29T17:54:33Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
-  },
-  {
     "repo": "sam-k0/mindustry.hpbars",
     "internalName": "sam-k0-hp-bars",
     "name": "HP Bars",
@@ -7376,20 +7544,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Details coming soon, Currently adding the content with new sprites and Base Content for expansion"
-  },
-  {
-    "repo": "no9527dada/password",
-    "internalName": "password",
-    "name": "Online room password联机房间密码",
-    "version": "1.0",
-    "hidden": true,
-    "author": "9527",
-    "lastUpdated": "2026-05-02T13:23:13Z",
-    "stars": 0,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "联机房间密码,初始密码：123456\n  Online room password, initial password: 123456,\n  在开联机时，需要别人使用密码登录\n  When you are online, you need someone else to log in with a password."
   },
   {
     "repo": "rodrigoasfr24022003/funnycrystal-mod",
@@ -7434,20 +7588,6 @@
     "description": "Transport liquids with drones!"
   },
   {
-    "repo": "highspeed85/mindustry-mallpark",
-    "internalName": "mallpark",
-    "name": "Malldustry",
-    "version": "2026.04.27",
-    "hidden": false,
-    "author": "HighSpeed85",
-    "lastUpdated": "2026-06-03T08:08:48Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mallpark Research & Development presents various interplanetary products, as requested by various customers, or as experiments designed to test the market.\n\n[red]This is a pretty small, crappy and unbalanced mod. Anyway-"
-  },
-  {
     "repo": "cn-night/coreitemsdisplay",
     "internalName": "coreitemsdisplay",
     "name": "核心资源显示",
@@ -7460,20 +7600,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "强制显示游戏内置的核心资源显示表"
-  },
-  {
-    "repo": "edward-bill/inf-processor",
-    "internalName": "inf-processor",
-    "name": "World processor 2",
-    "version": "1.1",
-    "hidden": false,
-    "author": "exec4tbe",
-    "lastUpdated": "2026-06-11T22:47:06Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "World processors that are accesible from anywhere. Also adds world memory, message and switch (i just copied real world blocks`s properites)"
   },
   {
     "repo": "insawct/mindustry-bullettype",
@@ -7490,20 +7616,6 @@
     "description": "mod made by Insawct, 13 turret BulletType examples for you my pookie <3"
   },
   {
-    "repo": "sunkymp3g/netroniummusic",
-    "internalName": "netromusic",
-    "name": "Netronium: TFS Music",
-    "version": "1",
-    "hidden": false,
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2026-06-22T11:23:04Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An OST for Netronium: The Final Showdown mod.\nList of music:\nTo The Unknown (Launch theme) by Sunky.MP3G"
-  },
-  {
     "repo": "anolex/gecko-turret",
     "internalName": "gecko",
     "name": "Gecko",
@@ -7516,20 +7628,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a laser ground-to-air (SPAA) system designed to exceptionally handle air targets."
-  },
-  {
-    "repo": "mindustrytool/new-universe-mod",
-    "internalName": "new-universe",
-    "name": "New Universe",
-    "version": "[#00ff00]1.9.0",
-    "hidden": false,
-    "author": "IambottokVN",
-    "lastUpdated": "2026-07-04T08:39:19Z",
-    "stars": 0,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that adds new units, items, and content to the game."
   },
   {
     "repo": "meesst/mindustry-multiunitbindmod",
@@ -7586,20 +7684,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Combines 20x factory speed, 5x unit build speed, 10x T1 factory build speed, 2x core unit capacity, auto-complete pause menu button, and the unit stats editor UI."
-  },
-  {
-    "repo": "arsenyachka/coloredphaseconveyor",
-    "internalName": "colored-phase-conveyors",
-    "name": "Colored Phase Conveyors",
-    "version": "1.0",
-    "hidden": false,
-    "author": "ArSeNyaChka & vlabigro",
-    "lastUpdated": "2026-07-30T21:47:50Z",
-    "stars": 0,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds the ability to change the bridge color of the phase conveyor."
   },
   {
     "repo": "zipcade/extreme-mods",
@@ -7686,20 +7770,6 @@
     "description": "RA2-style English voice announcements for game events (waves, base attacks, unit losses, research, victories)."
   },
   {
-    "repo": "determination-wind/hidewhatprocessorsshow",
-    "internalName": "hidewhatprocessorsshow",
-    "name": "Hide What Processors Show",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-18T06:57:30Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "通过两个独立快捷键隐藏世界处理器特效与动态 Marker，不修改地图逻辑。\nUse separate hotkeys to hide world processor effects and dynamic markers without changing map logic."
-  },
-  {
     "repo": "determination-wind/smartplacement",
     "internalName": "smartplacement",
     "name": "Smart Placement / 智能放置",
@@ -7740,34 +7810,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Automatically adds fluid cell items for every fluid in game, including those from mods."
-  },
-  {
-    "repo": "lu69159/hybridmanager",
-    "internalName": "hybridmanager",
-    "name": "Contents Hybrid Manager | 内容混合管理器",
-    "version": "0.1",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-08-25T10:50:30Z",
-    "stars": 0,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "用于V8星球内容混合管理\nFor V8 version Planet content hybrid management\nunstable version 测试版本"
-  },
-  {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-08-25T14:54:46Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "voidemptiness/ghost-cost",
@@ -7824,33 +7866,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Diagnose factory efficiency, inputs, outputs and production problems directly in Mindustry."
-  },
-  {
-    "repo": "no9527dada/creatortd",
-    "internalName": "cttd",
-    "name": "创世神3-DLC.塔防",
-    "version": "156.00",
-    "hidden": false,
-    "author": "编号9527,LYBF,Ovulam5480,皴皲",
-    "lastUpdated": "2026-08-31T11:33:32Z",
-    "stars": 0,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "9527，皴皲，咕咕点心,LYBF,Ovulam5480,皴皲"
-  },
-  {
-    "repo": "no9527dada/ct3fantasyproject",
-    "internalName": "ct_fantasy_project",
-    "name": "创世神3-DLC.幻想工程",
-    "version": "156.2.10",
-    "hidden": false,
-    "author": "104原创：皮皮 146重置：编号9527，皴皲",
-    "lastUpdated": "2026-08-31T11:41:26Z",
-    "stars": 0,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "重置:9527，氺芯,皴皲，本DLC为104的MOD重置"
   }
 ]
