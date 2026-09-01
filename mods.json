@@ -790,7 +790,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-08-31T16:07:08Z",
+    "lastUpdated": "2026-09-01T00:53:33Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1756,7 +1756,7 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-08-31T22:00:50Z",
+    "lastUpdated": "2026-09-01T01:22:32Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3640,20 +3640,6 @@
     "description": "A to be produced mod"
   },
   {
-    "repo": "youming66681/magic",
-    "internalName": "magic",
-    "name": "幻境",
-    "version": "0.1",
-    "hidden": false,
-    "author": "幻境模组制作团队",
-    "lastUpdated": "2026-08-31T09:25:48Z",
-    "stars": 4,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "幻境永无止境"
-  },
-  {
     "repo": "no9527dada/ctcoresystem",
     "internalName": "ctcoresystem",
     "name": "创世神核心加载系统前置",
@@ -3666,6 +3652,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Creators Core System"
+  },
+  {
+    "repo": "youming66681/magic",
+    "internalName": "magic",
+    "name": "幻境",
+    "version": "0.1",
+    "hidden": false,
+    "author": "幻境模组制作团队",
+    "lastUpdated": "2026-09-01T03:47:52Z",
+    "stars": 4,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "幻境永无止境"
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -4284,20 +4284,6 @@
     "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.8",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-08-30T00:57:30Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4312,13 +4298,27 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.8",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-09-01T00:30:10Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
     "repo": "bowen-h0/mindustry-mod-cryon",
     "internalName": "cryon",
     "name": "Cryon",
     "version": "21.2.0",
     "hidden": false,
     "author": "Bowen-H0",
-    "lastUpdated": "2026-08-31T22:56:21Z",
+    "lastUpdated": "2026-09-01T00:58:41Z",
     "stars": 3,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -7868,20 +7868,6 @@
     "description": "Provides a self‑rotating flat‑segment shield ability, featuring bullet interception, projectile rebound chance, damage cycle and regeneration system.\n\n⚠️ Warning: Core functions are fully working. Only parameter values fail to show on‑screen.\nThis display issue will not affect gameplay and is expected to be fixed within two days.\n\n为像素工厂提供一款可用于自定义单位的自转分片平板护盾能力。支持子弹拦截、投射物反弹概率、护盾受损破碎以及冷却重生整套生命周期。\n\n⚠️ 警告：主要功能全部正常。仅参数数值无法在界面显示。\n该显示问题不会影响实际使用，预计两天之内修复。\n\nFeel free to submit feedback via GitHub.\n欢迎通过 GitHub 反馈。"
   },
   {
-    "repo": "jovinull/factoryscope",
-    "internalName": "factory-scope",
-    "name": "FactoryScope",
-    "version": "0.2.1",
-    "hidden": true,
-    "author": "Jovinull",
-    "lastUpdated": "2026-08-30T14:54:09Z",
-    "stars": 0,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Diagnose factory efficiency, inputs, outputs and production problems directly in Mindustry."
-  },
-  {
     "repo": "itskirby69/mincedustry",
     "internalName": "mincedustry",
     "name": "Mincedustry",
@@ -7894,5 +7880,33 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Java mod for the Mindustry Java Mod Guide!"
+  },
+  {
+    "repo": "jovinull/factoryscope",
+    "internalName": "factory-scope",
+    "name": "FactoryScope",
+    "version": "0.2.1",
+    "hidden": true,
+    "author": "Jovinull",
+    "lastUpdated": "2026-09-01T01:09:43Z",
+    "stars": 0,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Diagnose factory efficiency, inputs, outputs and production problems directly in Mindustry."
+  },
+  {
+    "repo": "akilis81x/fenadi",
+    "internalName": "fenadi",
+    "name": "Fenadi",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Akilis81",
+    "lastUpdated": "2026-09-01T02:39:53Z",
+    "stars": 0,
+    "minGameVersion": "154.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
   }
 ]
