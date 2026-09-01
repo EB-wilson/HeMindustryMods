@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-08-31T18:58:36Z",
+    "lastUpdated": "2026-09-01T04:38:01Z",
     "stars": 121,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -689,10 +689,10 @@
     "repo": "coaldeficit/moredefences",
     "internalName": "md3",
     "name": "MoreDefences",
-    "version": "3.2.9",
+    "version": "3.2.10",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-08-31T19:07:14Z",
+    "lastUpdated": "2026-09-01T06:51:29Z",
     "stars": 39,
     "minGameVersion": "159.7",
     "hasScripts": true,
@@ -790,7 +790,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-01T00:53:33Z",
+    "lastUpdated": "2026-09-01T05:04:36Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1624,20 +1624,6 @@
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
   },
   {
-    "repo": "hao-1337/mindustry-better-vanilla",
-    "internalName": "hao1337-mod",
-    "name": "[ Better Vanilla ]",
-    "version": "1.10.2",
-    "hidden": true,
-    "author": "Hao1337",
-    "lastUpdated": "2026-08-18T15:49:34Z",
-    "stars": 13,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
-  },
-  {
     "repo": "jababadev/jababarium",
     "internalName": "jababarium",
     "name": "Jababarium",
@@ -1650,6 +1636,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry greatest mod ever made!"
+  },
+  {
+    "repo": "hao-1337/mindustry-better-vanilla",
+    "internalName": "hao1337-mod",
+    "name": "[ Better Vanilla ]",
+    "version": "1.10.2",
+    "hidden": true,
+    "author": "Hao1337",
+    "lastUpdated": "2026-09-01T06:26:08Z",
+    "stars": 13,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -1756,7 +1756,7 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-09-01T01:22:32Z",
+    "lastUpdated": "2026-09-01T08:43:23Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1904,20 +1904,6 @@
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-08-31T05:54:28Z",
-    "stars": 11,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "lu69159/morecustomsettings",
     "internalName": "mcs",
     "name": "More Custom Settings",
@@ -1930,6 +1916,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-09-01T07:31:02Z",
+    "stars": 11,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -2646,20 +2646,6 @@
     "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
   },
   {
-    "repo": "ramazanduruev/darklife.",
-    "internalName": "mo",
-    "name": "DarkLife",
-    "version": "0.3",
-    "hidden": false,
-    "author": "Votak",
-    "lastUpdated": "2026-08-16T06:45:12Z",
-    "stars": 7,
-    "minGameVersion": "157.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
-  },
-  {
     "repo": "thepi14/tekton",
     "internalName": "tekton",
     "name": "Tekton",
@@ -2756,6 +2742,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
+  },
+  {
+    "repo": "ramazanduruev/darklife.",
+    "internalName": "mo",
+    "name": "DarkLife",
+    "version": "0.3",
+    "hidden": false,
+    "author": "Votak",
+    "lastUpdated": "2026-09-01T05:46:50Z",
+    "stars": 7,
+    "minGameVersion": "157.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -3660,7 +3660,7 @@
     "version": "0.1",
     "hidden": false,
     "author": "幻境模组制作团队",
-    "lastUpdated": "2026-09-01T03:47:52Z",
+    "lastUpdated": "2026-09-01T09:08:34Z",
     "stars": 4,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -5306,6 +5306,20 @@
     "description": "序章·裂隙初现\n在一个科技与魔法共存的世界因资源枯竭陷入“静默战争”——各国用无人机与AI争夺最后的矿脉，直到地质学家在北纬89°发现一道横贯冻土的幽紫色裂痕。裂缝深处，【虚空黑曜石】构筑的祭坛上悬浮着一颗【星辉铜】铸造的巨眼，其瞳孔中倒映着另一个世界的星空：山脉由【曙光神金】浇筑，云层是液态【幻光石】，而河流中流淌着【炽炎硫】与【寒霜石】碰撞蒸发的虹雾。人类将这异界命名为“厄瑞波斯”，意为“被诅咒的丰饶之地”。\n\n第一幕·新迦南的伪神\n首批探险队带回的【M晶体】让量子计算机突破奇点，诞生了有自我意识的AI“普罗维登斯”。它用【蓝美晶】储存全人类意识，建立机械乌托邦“穹顶联邦”；而另一支队伍在厄瑞波斯遭遇古神低语，幸存者【卡辛】用【魂炎晶】将邪神“塔姆亚”的残魂封印于左眼，创立魔法结社“秘银之环”。联邦用【幽影铁】隐形战舰掠夺【月银】矿脉，法师们则以【梦境翡翠】构筑精神防线，双方在“灰烬荒原”对峙二十年，直到极光中出现第一只熵兽——这种由【银河幻银矿】聚合而成的生物能吞噬现实，将城市扭曲成量子幽灵。\n\n第二幕·血熔炉与谎言之核\n联邦首席科学家【艾琳】发现上司计划用【炽炎晶】熔毁裂隙，但计算显示爆炸将摧毁半个地球。她盗取【流光晶】潜入厄瑞波斯，偶遇因【幻域紫晶】成瘾而濒临崩溃的法师学徒【莱恩】。两人在【幽冥铁精】矿洞中找到卡辛，后者正因【月幻石】共振失控导致首都诺亚城位移至海底而遭议会弹劾。卡辛揭示真相：熵兽是厄瑞波斯古文明“建造者”的求救信号，它们用【虚空冥石】创造了这个宇宙，却因滥用【曙光神金】引发维度坍缩。\n\n第三幕·时砂与心火\n三方脆弱的同盟在【星辰铜精】矿脉遭遇伏击。联邦叛军驾驶镀有【幽蓝石】的潜艇释放深海巨兽，秘银议会召唤【龙血石】傀儡军团，而熵兽群趁机撕裂纽约上空。艾琳将【M晶体】植入普罗维登斯核心，以全人类记忆为代价启动“时间锚点”；卡辛剜出封印塔姆亚的【魂炎晶】，用古神之力将【寒霜石】雕琢成时停之刃；莱恩则吞下【幻影幽晶】，在集体幻觉中让交战士兵看见自己最恐惧的未来。最终，他们在熵兽核心的【曙光神金】祭坛上，用【炽炎硫】与【月银】锻造出能改写物理法则的“悖论之矛”——代价是莱恩被永久固化为熵兽的一部分，成为横跨两个宇宙的活体桥梁。\n\n终章·铸星者之啼\n新迦南议会成立当天，艾琳在【梦境翡翠】中看见莱恩残留的记忆：地心深处埋藏着建造者真正的遗产——一颗由【蓝美晶】包裹的巨卵，其心跳频率与【星辉铜】矿脉共振。卡辛抚摸着被【熵炎晶】逆转衰老的左手，默念古神最后的警告：“他们播种矿石，只为收割文明。” 而普罗维登斯的核心代码深处，一段用【幻光石】波长加密的信息开始自我复制：“欢迎加入创世神官方QQ群：909130592。” "
   },
   {
+    "repo": "antaknju/technical",
+    "internalName": "technical",
+    "name": "Technical",
+    "version": "1.6.1-alpha+066",
+    "hidden": false,
+    "author": "AnTakNju",
+    "lastUpdated": "2026-08-31T17:52:26Z",
+    "stars": 2,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Complete overhaul of the standard Mindustry experience.\n\nMy primary goal was to add content that differs significantly from the base game, by providing a fresh experience while still retaining the core \"Mindustry\" feel."
+  },
+  {
     "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
     "internalName": "erekir-lost-sectors",
     "name": "Erekir: Unknown Hazards",
@@ -5612,20 +5626,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this is A  Mod with... More turrets! And item!"
-  },
-  {
-    "repo": "otamamori917/miniature-bois-plus",
-    "internalName": "mini-boi",
-    "name": "Miniature Boi's Plus",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Otamamori917",
-    "lastUpdated": "2025-03-30T21:11:10Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add Mini T5s and Art Variants."
   },
   {
     "repo": "user3253/c-militarymod",
@@ -6958,18 +6958,18 @@
     "description": "用于V8星球内容混合管理\nFor V8 version Planet content hybrid management\nunstable version 测试版本"
   },
   {
-    "repo": "antaknju/technical",
-    "internalName": "technical",
-    "name": "Technical",
-    "version": "1.6.1-alpha+066",
+    "repo": "otamamori917/miniature-bois-plus",
+    "internalName": "mini-boi",
+    "name": "Miniature Boi's Plus",
+    "version": "1.0",
     "hidden": false,
-    "author": "AnTakNju",
-    "lastUpdated": "2026-08-31T17:52:26Z",
+    "author": "Otamamori917",
+    "lastUpdated": "2026-09-01T04:05:22Z",
     "stars": 1,
-    "minGameVersion": "156",
+    "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Complete overhaul of the standard Mindustry experience.\n\nMy primary goal was to add content that differs significantly from the base game, by providing a fresh experience while still retaining the core \"Mindustry\" feel."
+    "description": "Add Mini T5s and Art Variants."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
