@@ -370,7 +370,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-08-31T05:30:24Z",
+    "lastUpdated": "2026-09-02T00:08:43Z",
     "stars": 66,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -524,7 +524,7 @@
     "version": "4",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-08-25T15:09:18Z",
+    "lastUpdated": "2026-09-02T01:46:15Z",
     "stars": 50,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -1722,20 +1722,6 @@
     "description": "Additional functionality"
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "version": "0.3.6",
-    "hidden": false,
-    "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-09-01T13:08:58Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
     "repo": "novanox4/meridium",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1748,6 +1734,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "version": "0.3.6",
+    "hidden": false,
+    "author": "Slashkig, IAmRustee, VoidThreader",
+    "lastUpdated": "2026-09-02T02:27:10Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -5026,20 +5026,6 @@
     "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   },
   {
-    "repo": "arial1102/mindustry-tier-list",
-    "internalName": "tier-language",
-    "name": "Tier List Addition",
-    "version": "",
-    "hidden": false,
-    "author": "tandzs1tg",
-    "lastUpdated": "2026-07-30T01:06:35Z",
-    "stars": 2,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "a mod that add tier list as localization\nEnglish only\n"
-  },
-  {
     "repo": "momiji142857/momijicrafterlib",
     "internalName": "momiji_crafter_lib",
     "name": "MomijiCrafterLib",
@@ -5360,6 +5346,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
+  },
+  {
+    "repo": "arial1102/mindustry-tier-list",
+    "internalName": "tier-language",
+    "name": "Tier List Addition",
+    "version": "",
+    "hidden": false,
+    "author": "tandzs1tg",
+    "lastUpdated": "2026-09-02T02:00:17Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "a mod that add tier list as localization\nEnglish only\n"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7868,20 +7868,6 @@
     "description": "A Java mod for the Mindustry Java Mod Guide!"
   },
   {
-    "repo": "jovinull/factoryscope",
-    "internalName": "factory-scope",
-    "name": "FactoryScope",
-    "version": "0.2.1",
-    "hidden": true,
-    "author": "Jovinull",
-    "lastUpdated": "2026-09-01T01:09:43Z",
-    "stars": 0,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Diagnose factory efficiency, inputs, outputs and production problems directly in Mindustry."
-  },
-  {
     "repo": "wmf-industries/extremity",
     "internalName": "extremity",
     "name": "Extremity",
@@ -7908,5 +7894,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
+  },
+  {
+    "repo": "jovinull/factoryscope",
+    "internalName": "factory-scope",
+    "name": "FactoryScope",
+    "version": "0.3.0",
+    "hidden": true,
+    "author": "Jovinull",
+    "lastUpdated": "2026-09-02T01:53:49Z",
+    "stars": 0,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Diagnose factory efficiency, inputs, outputs and production problems directly in Mindustry."
   }
 ]
