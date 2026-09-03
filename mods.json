@@ -650,7 +650,7 @@
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-09-03T14:03:00Z",
+    "lastUpdated": "2026-09-03T15:59:33Z",
     "stars": 41,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -692,7 +692,7 @@
     "version": "3.2.10",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-09-02T23:03:20Z",
+    "lastUpdated": "2026-09-03T16:49:24Z",
     "stars": 39,
     "minGameVersion": "159.7",
     "hasScripts": true,
@@ -720,7 +720,7 @@
     "version": "2.1.1.F",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-09-03T12:22:50Z",
+    "lastUpdated": "2026-09-03T16:00:24Z",
     "stars": 36,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1722,20 +1722,6 @@
     "description": "Additional functionality"
   },
   {
-    "repo": "novanox4/meridium",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "version": "0.1",
-    "hidden": false,
-    "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-09-02T17:56:57Z",
-    "stars": 12,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -1748,6 +1734,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "novanox4/meridium",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "version": "0.1",
+    "hidden": false,
+    "author": "NV-NX (FULL CREDITS IN DESC.)",
+    "lastUpdated": "2026-09-03T18:52:57Z",
+    "stars": 12,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -1918,20 +1918,6 @@
     "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.7",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-09-03T07:34:29Z",
-    "stars": 11,
-    "minGameVersion": "159.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -1944,6 +1930,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.8",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-09-03T18:58:07Z",
+    "stars": 11,
+    "minGameVersion": "159.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -2142,20 +2142,6 @@
     "description": "Adds a dialog for turning images into schematics"
   },
   {
-    "repo": "sputnuc/deepsea",
-    "internalName": "deepsea",
-    "name": "Project: Deep Sea (Alpha)",
-    "version": "0.2",
-    "hidden": false,
-    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
-    "lastUpdated": "2026-03-25T19:21:50Z",
-    "stars": 9,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
-  },
-  {
     "repo": "laohuajiofficial/unitarsenal",
     "internalName": "unit-arsenal",
     "name": "Unit Arsenal",
@@ -2238,6 +2224,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Improves your experience on the official io  Flood server."
+  },
+  {
+    "repo": "sputnuc/deepsea",
+    "internalName": "deepsea",
+    "name": "Project: Deep Sea (Alpha)",
+    "version": "0.2",
+    "hidden": false,
+    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
+    "lastUpdated": "2026-09-03T17:23:47Z",
+    "stars": 9,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
     "repo": "p101q/snowdustry",
@@ -5334,20 +5334,6 @@
     "description": "written entirely in JavaScript"
   },
   {
-    "repo": "oleksiy1409liut/periodic-overhaul",
-    "internalName": "periodic",
-    "name": "periodic overhaul",
-    "version": "0.11",
-    "hidden": false,
-    "author": "oleksiy",
-    "lastUpdated": "2026-09-01T16:40:22Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
-  },
-  {
     "repo": "arial1102/mindustry-tier-list",
     "internalName": "tier-language",
     "name": "Tier List Addition",
@@ -5360,6 +5346,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a mod that add tier list as localization\nEnglish only\n"
+  },
+  {
+    "repo": "oleksiy1409liut/periodic-overhaul",
+    "internalName": "periodic",
+    "name": "periodic overhaul",
+    "version": "0.11",
+    "hidden": false,
+    "author": "oleksiy",
+    "lastUpdated": "2026-09-03T19:05:49Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -6964,7 +6964,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "Cuber",
-    "lastUpdated": "2026-09-03T07:40:54Z",
+    "lastUpdated": "2026-09-03T14:47:16Z",
     "stars": 1,
     "minGameVersion": "158.1",
     "hasScripts": false,
