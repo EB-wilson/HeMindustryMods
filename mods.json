@@ -868,6 +868,20 @@
     "description": "Add the new sectors and content on Erekir"
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.14.0",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-09-04T02:53:46Z",
+    "stars": 28,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
+  },
+  {
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
     "internalName": "sporepod",
     "name": "Spore Biomechs",
@@ -936,20 +950,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, Random, and lock-on focus fire. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新、随机化和锁定攻击。"
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.14.0",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-08-31T13:56:57Z",
-    "stars": 27,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "nullotte/dusted-lands",
@@ -1722,20 +1722,6 @@
     "description": "Additional functionality"
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "version": "0.3.6",
-    "hidden": false,
-    "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-09-03T11:00:12Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
     "repo": "novanox4/meridium",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1748,6 +1734,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "version": "0.3.6",
+    "hidden": false,
+    "author": "Slashkig, IAmRustee, VoidThreader",
+    "lastUpdated": "2026-09-04T01:21:28Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -2632,20 +2632,6 @@
     "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2026-08-22T02:27:08Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "i-drink-gasoline/admin-button-2",
     "internalName": "admin-button-2",
     "name": "Admin Button 2",
@@ -2742,6 +2728,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, blocks, units, mechanics and hazards.\n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2026-09-04T03:05:45Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -4298,20 +4298,6 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "21.2.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-09-03T00:47:46Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors: LSK133\n\nThis mod is currently in testing."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4324,6 +4310,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "21.6.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-09-04T01:02:50Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors: LSK133\n\nThis mod is currently in testing."
   },
   {
     "repo": "leyn-pl/iconpicker",
