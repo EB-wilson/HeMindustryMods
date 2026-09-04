@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v4.59.0-v8",
+    "version": "v4.59.1-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-08-28T07:29:14Z",
+    "lastUpdated": "2026-09-04T13:46:21Z",
     "stars": 237,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -189,7 +189,7 @@
     "hidden": true,
     "author": "BlackDeluxeCat",
     "lastUpdated": "2026-08-10T02:59:55Z",
-    "stars": 134,
+    "stars": 135,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -790,7 +790,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-04T05:25:56Z",
+    "lastUpdated": "2026-09-04T13:11:16Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -868,6 +868,20 @@
     "description": "Add the new sectors and content on Erekir"
   },
   {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "version": "110008",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-08-27T06:08:40Z",
+    "stars": 28,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, Random, and lock-on focus fire. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新、随机化和锁定攻击。"
+  },
+  {
     "repo": "dustdustry/patcheditor",
     "internalName": "patch-editor",
     "name": "PatchEditor",
@@ -936,20 +950,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
-  },
-  {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "version": "110008",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-08-27T06:08:40Z",
-    "stars": 27,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, Random, and lock-on focus fire. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新、随机化和锁定攻击。"
   },
   {
     "repo": "nullotte/dusted-lands",
@@ -1372,6 +1372,20 @@
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
   },
   {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "version": "",
+    "hidden": false,
+    "author": "bttodi",
+    "lastUpdated": "2026-07-12T00:26:18Z",
+    "stars": 16,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
+  },
+  {
     "repo": "gmugxd/qr-mod",
     "internalName": "camod",
     "name": "Quantum Realm Mod",
@@ -1398,20 +1412,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The best sensory overload you can get, at least legally."
-  },
-  {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "version": "",
-    "hidden": false,
-    "author": "bttodi",
-    "lastUpdated": "2026-07-12T00:26:18Z",
-    "stars": 15,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
     "repo": "no9527dada/ct-origin",
@@ -1742,12 +1742,26 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-09-04T05:35:13Z",
+    "lastUpdated": "2026-09-04T10:33:27Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "determination-wind/logicsugar",
+    "internalName": "logicsugar",
+    "name": "Logic Sugar",
+    "version": "3.0.1",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-09-04T10:53:37Z",
+    "stars": 12,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -1904,20 +1918,6 @@
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
-    "repo": "determination-wind/logicsugar",
-    "internalName": "logicsugar",
-    "name": "Logic Sugar",
-    "version": "3.0.1",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-27T12:50:59Z",
-    "stars": 11,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -1935,10 +1935,10 @@
     "repo": "lu69159/morecustomsettings",
     "internalName": "mcs",
     "name": "More Custom Settings",
-    "version": "1.8",
+    "version": "1.8.1",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-09-04T08:24:53Z",
+    "lastUpdated": "2026-09-04T09:52:40Z",
     "stars": 11,
     "minGameVersion": "159.5",
     "hasScripts": false,
@@ -2394,20 +2394,6 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
-    "repo": "unquis/fading-revelations-remake",
-    "internalName": "fading-revelations-remake",
-    "name": "Fading Revelations Remake",
-    "version": "2.5.0",
-    "hidden": false,
-    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2026-08-27T03:48:02Z",
-    "stars": 8,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
-  },
-  {
     "repo": "128oteml/mindustryoptifine",
     "internalName": "mindustry-optifine",
     "name": "Mindustry OptiFine",
@@ -2448,6 +2434,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-09-03[white]"
+  },
+  {
+    "repo": "unquis/fading-revelations-remake",
+    "internalName": "fading-revelations-remake",
+    "name": "Fading Revelations Remake",
+    "version": "2.5.0",
+    "hidden": false,
+    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2026-09-04T12:47:23Z",
+    "stars": 8,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "mitemi/blastanium",
@@ -2996,6 +2996,20 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
   },
   {
+    "repo": "undefined-1026/mindustry_multidimensionalmod",
+    "internalName": "mdimension",
+    "name": "Multi Dimensional",
+    "version": "0.1.3",
+    "hidden": false,
+    "author": "Bilibili:arknights player / Github:undefined-1026",
+    "lastUpdated": "2026-08-29T09:31:54Z",
+    "stars": 6,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A to be produced mod"
+  },
+  {
     "repo": "redloong9527/logic-chinese-localization",
     "internalName": "logicchineselocalization",
     "name": "逻辑汉化补丁v1.3.1",
@@ -3218,20 +3232,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Addon son ton everon worn"
-  },
-  {
-    "repo": "undefined-1026/mindustry_multidimensionalmod",
-    "internalName": "mdimension",
-    "name": "Multi Dimensional",
-    "version": "0.1.3",
-    "hidden": false,
-    "author": "Bilibili:arknights player / Github:undefined-1026",
-    "lastUpdated": "2026-08-29T09:31:54Z",
-    "stars": 5,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A to be produced mod"
   },
   {
     "repo": "koctz34/canvases",
@@ -4318,7 +4318,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-09-04T07:44:20Z",
+    "lastUpdated": "2026-09-04T08:43:50Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -6664,20 +6664,6 @@
     "description": "-Added new planet: Componda\n-Added 4 new turrets!\n-Added silicon furnace\n-Added 7 units\n-Added 3 sectors for Componda\n-Added new item: cobalt\n-Added distribution blocks\n-Added power blocks\n-Added walls (electrum, lead)\n-Added drills\n-Balance improvements\n-Bug fixes"
   },
   {
-    "repo": "determination-wind/mobilejoystickcontrol",
-    "internalName": "mobilejoystickcontrol",
-    "name": "Mobile Joystick Control 移动摇杆操控",
-    "version": "1.1.0",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-08-10T12:58:25Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Minecraft PE style mobile joystick control for player units with movement scaling, boost toggle, and dual/single-stick shooting modes. / 提供类似 Minecraft 手机端的摇杆操控：按幅度移动、Boost 切换、双摇杆或单摇杆开火。"
-  },
-  {
     "repo": "6atapei9/wavesinfo",
     "internalName": "wave-info",
     "name": "WaveInfo",
@@ -6958,18 +6944,18 @@
     "description": "实用功能合集：方块搜索（在方块选择菜单添加搜索栏，跨分类搜索所有合法方块，支持拼音）与多人暂停（允许其他玩家请求暂停/解除暂停，支持管理员与自定义白名单模式）。"
   },
   {
-    "repo": "lu69159/hybridmanager",
-    "internalName": "hybridmanager",
-    "name": "Contents Hybrid Manager | 内容混合管理器",
-    "version": "1.0",
+    "repo": "determination-wind/mobilejoystickcontrol",
+    "internalName": "mobilejoystickcontrol",
+    "name": "Mobile Joystick Control 移动摇杆操控",
+    "version": "1.1.0",
     "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-09-03T05:34:19Z",
+    "author": "DeterMination",
+    "lastUpdated": "2026-09-04T11:30:07Z",
     "stars": 1,
-    "minGameVersion": "159",
+    "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "此模组内容正在移植到MoreCustomSettings，如果与MoreCustomSettings一起使用，请关闭MoreCustomSettings设置中的启用自定义内容管理\n\nThis mod's content is being ported to MoreCustomSettings. If used together with MoreCustomSettings mod, please disable Enable Custom Content Manager in the MoreCustomSettings settings."
+    "description": "Minecraft PE style mobile joystick control for player units with movement scaling, boost toggle, and dual/single-stick shooting modes. / 提供类似 Minecraft 手机端的摇杆操控：按幅度移动、Boost 切换、双摇杆或单摇杆开火。"
   },
   {
     "repo": "cuber-david/feces-mod",
@@ -6978,7 +6964,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "Cuber",
-    "lastUpdated": "2026-09-03T14:47:16Z",
+    "lastUpdated": "2026-09-04T11:41:44Z",
     "stars": 1,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -7908,5 +7894,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Diagnose factory efficiency, inputs, outputs and production problems directly in Mindustry."
+  },
+  {
+    "repo": "promiha27/fun-mode",
+    "internalName": "sonka-fun-mode",
+    "name": "Fun Mode",
+    "version": "0.1",
+    "hidden": false,
+    "author": "sonka",
+    "lastUpdated": "2026-09-04T12:37:27Z",
+    "stars": 0,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[TESTING VERSION - may contain bugs and softlocks!] A meme overhaul in the spirit of Factorio's Fun Mode: a pile of cursed-but-playable gameplay changes, each toggleable. Works in singleplayer and when hosting; joining someone else's server disables the simulation-touching curses.\n\n[ТЕСТОВАЯ ВЕРСИЯ - возможны баги и софтлоки!] Мем-переделка в духе Fun Mode для Factorio: набор безумных, но играбельных изменений геймплея, каждое из которых можно включить или выключить отдельно. Работает в одиночной игре и при хостинге; при подключении к чужому серверу механики, влияющие на симуляцию, автоматически отключаются."
   }
 ]
