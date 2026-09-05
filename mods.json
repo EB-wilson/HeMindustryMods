@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-05T16:53:32Z",
+    "lastUpdated": "2026-09-05T20:45:52Z",
     "stars": 120,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -672,6 +672,20 @@
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
+    "repo": "coaldeficit/moredefences",
+    "internalName": "md3",
+    "name": "MoreDefences",
+    "version": "3.2.10",
+    "hidden": false,
+    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
+    "lastUpdated": "2026-09-03T16:49:24Z",
+    "stars": 40,
+    "minGameVersion": "159.7",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
+  },
+  {
     "repo": "retodera/technologium",
     "internalName": "t",
     "name": "Technologium",
@@ -684,20 +698,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
-  },
-  {
-    "repo": "coaldeficit/moredefences",
-    "internalName": "md3",
-    "name": "MoreDefences",
-    "version": "3.2.10",
-    "hidden": false,
-    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-09-03T16:49:24Z",
-    "stars": 39,
-    "minGameVersion": "159.7",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
   },
   {
     "repo": "rogeh4/virtual-scheme-pack-",
@@ -2506,6 +2506,20 @@
     "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch \r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
   },
   {
+    "repo": "sputnuc/expansion",
+    "internalName": "expansion",
+    "name": "expansion",
+    "version": "3.86",
+    "hidden": false,
+    "author": "sputnuc",
+    "lastUpdated": "2025-09-12T18:06:20Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
+  },
+  {
     "repo": "fivedextor/axoxium",
     "internalName": "axoxium",
     "name": "Axoxium",
@@ -3178,6 +3192,20 @@
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
+    "repo": "determination-wind/more-details",
+    "internalName": "[more-details]更多描述",
+    "name": "More-details更多描述",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Determination",
+    "lastUpdated": "2026-07-11T13:43:47Z",
+    "stars": 5,
+    "minGameVersion": "151",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "模仿了学术端cyan字的效果，增加了几乎所有物品的下方灰字补充说明"
+  },
+  {
     "repo": "thechronodonut1337/silent-orchestra",
     "internalName": "silent-orchestra",
     "name": "Sounds like Argus",
@@ -3330,6 +3358,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Allows mods to create and read custom json tags from other mods, acting as libraries for JSON/JS mods."
+  },
+  {
+    "repo": "weeersix/ernomytase-erekir-dlc",
+    "internalName": "ernom",
+    "name": "Ernomytase | Erekir DLC",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "Weeersix",
+    "lastUpdated": "2025-03-23T09:03:20Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Ernomytase - a modification that adds a continuation of the Erekir campaign"
   },
   {
     "repo": "evdes190/derpulo",
@@ -4228,20 +4270,6 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "21.6.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-09-04T01:02:50Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors: LSK133\n\nThis mod is currently in testing."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4296,6 +4324,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "krucaaaa - mod\n Elder - maps.\n \n \n \n \nA simple mod, that adds 12 new sectors to Erekir"
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "21.7.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-09-05T21:59:00Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors: LSK133\n\nThis mod is currently in testing."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -4984,6 +5026,20 @@
     "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   },
   {
+    "repo": "momiji142857/momijicrafterlib",
+    "internalName": "momiji_crafter_lib",
+    "name": "MomijiCrafterLib",
+    "version": "1.4",
+    "hidden": false,
+    "author": "[sky]Momiji142857[white] (with DeepSeek)",
+    "lastUpdated": "2026-08-02T18:37:53Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n展示一下我拼的工厂uwu"
+  },
+  {
     "repo": "wynej/map-collection",
     "internalName": "map-collection",
     "name": "Map Collection",
@@ -5222,20 +5278,6 @@
     "description": "New sectors to Erekir"
   },
   {
-    "repo": "rocket550/zytheron-technology-java-",
-    "internalName": "zytheron",
-    "name": "Zytheron Technology(Java)",
-    "version": "0.1.9.4",
-    "hidden": false,
-    "author": "Trocket",
-    "lastUpdated": "2026-09-01T11:23:54Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a java edition of my mod that eventually will replace the json one"
-  },
-  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
@@ -5320,13 +5362,27 @@
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
+    "repo": "rocket550/zytheron-technology-java-",
+    "internalName": "zytheron",
+    "name": "Zytheron Technology(Java)",
+    "version": "0.1.9.4",
+    "hidden": false,
+    "author": "Trocket",
+    "lastUpdated": "2026-09-05T20:20:06Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a java edition of my mod that eventually will replace the json one"
+  },
+  {
     "repo": "akilis81x/fenadi",
     "internalName": "fenadi",
     "name": "Fenadi",
     "version": "0.1",
     "hidden": false,
     "author": "Akilis81",
-    "lastUpdated": "2026-09-05T19:54:11Z",
+    "lastUpdated": "2026-09-05T21:04:35Z",
     "stars": 2,
     "minGameVersion": "154.1",
     "hasScripts": false,
@@ -5614,6 +5670,20 @@
     "description": "Gradually updating."
   },
   {
+    "repo": "saniiis/morecraft",
+    "internalName": "morecraft",
+    "name": "MoreCraft",
+    "version": "1.9a",
+    "hidden": false,
+    "author": "saniiis",
+    "lastUpdated": "2025-04-09T08:10:11Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod adds a lot of new blocks and items"
+  },
+  {
     "repo": "leyn-pl/randomaccent",
     "internalName": "randomaccent",
     "name": "Random Accent",
@@ -5780,6 +5850,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Aims hosting matches on the client a bit better! "
+  },
+  {
+    "repo": "craftgenix1/purpleeye",
+    "internalName": "purpleeye",
+    "name": "Purple eye",
+    "version": "Pre-content",
+    "hidden": false,
+    "author": "Craftgenix",
+    "lastUpdated": "2025-08-09T07:02:39Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "WIP mindustry mod - Empty"
   },
   {
     "repo": "forgestove/reforge",
@@ -6384,6 +6468,20 @@
     "description": "Hold a hotkey to drag a rectangle, then queue RTS commands for selected units to clear enemy buildings inside that area."
   },
   {
+    "repo": "hamsterhat/octopusdefence",
+    "internalName": "mod",
+    "name": "OCTOPUS DEFENCE: The Roleplay Update",
+    "version": "Alpha 0.7.9.3",
+    "hidden": false,
+    "author": "alex",
+    "lastUpdated": "2026-07-13T13:14:51Z",
+    "stars": 1,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Мод добавляет планету Пунь."
+  },
+  {
     "repo": "marckop/dedefarius",
     "internalName": "dedefarius",
     "name": "Dedefarius",
@@ -6620,6 +6718,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
+  },
+  {
+    "repo": "determination-wind/hidewhatprocessorsshow",
+    "internalName": "hidewhatprocessorsshow",
+    "name": "Hide What Processors Show",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-18T06:57:30Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "通过两个独立快捷键隐藏世界处理器特效与动态 Marker，不修改地图逻辑。\nUse separate hotkeys to hide world processor effects and dynamic markers without changing map logic."
   },
   {
     "repo": "determination-wind/betterlogisticsspeed",
@@ -7168,6 +7280,20 @@
     "description": "add blocks and items and more."
   },
   {
+    "repo": "tafgo7162/aerion",
+    "internalName": "aerion",
+    "name": "Aerion",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Tafgo7162",
+    "lastUpdated": "2025-07-06T10:42:19Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Aerion mod was actually made before, but got abandoned, so that's just new version"
+  },
+  {
     "repo": "byzp/line",
     "internalName": "line",
     "name": "line",
@@ -7628,6 +7754,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "In-game MdtC logic editor with dual-pane layout. Compile .mdtc to .mdtcode in real-time."
+  },
+  {
+    "repo": "determination-wind/ra2announcer",
+    "internalName": "ra2-announcer",
+    "name": "RA2 Announcer",
+    "version": "1.0.1",
+    "hidden": true,
+    "author": "codex",
+    "lastUpdated": "2026-08-17T09:21:56Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "RA2-style English voice announcements for game events (waves, base attacks, unit losses, research, victories)."
   },
   {
     "repo": "determination-wind/smartplacement",
