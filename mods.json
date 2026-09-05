@@ -588,6 +588,20 @@
     "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
   },
   {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.4.3",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2026-08-18T19:19:52Z",
+    "stars": 43,
+    "minGameVersion": "159.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends."
+  },
+  {
     "repo": "eb-wilson/universecore",
     "internalName": "universe-core",
     "name": "Universe Core",
@@ -616,20 +630,6 @@
     "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.4.3",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-08-18T19:19:52Z",
-    "stars": 42,
-    "minGameVersion": "159.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends."
-  },
-  {
     "repo": "oleglysukhin/cheat",
     "internalName": "cheat",
     "name": "CheatMod",
@@ -650,7 +650,7 @@
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-09-04T07:05:09Z",
+    "lastUpdated": "2026-09-05T06:18:25Z",
     "stars": 41,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -720,7 +720,7 @@
     "version": "2.1.1.F",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-09-03T16:00:24Z",
+    "lastUpdated": "2026-09-05T07:56:14Z",
     "stars": 36,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -734,7 +734,7 @@
     "version": "v1.3",
     "hidden": false,
     "author": "SezoVK",
-    "lastUpdated": "2026-09-05T02:08:47Z",
+    "lastUpdated": "2026-09-05T05:52:33Z",
     "stars": 34,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -790,7 +790,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-04T15:53:21Z",
+    "lastUpdated": "2026-09-05T07:13:52Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -854,6 +854,20 @@
     "description": "Some content for people to enjoy :>"
   },
   {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "version": "110008",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-08-27T06:08:40Z",
+    "stars": 29,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, Random, and lock-on focus fire. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新、随机化和锁定攻击。"
+  },
+  {
     "repo": "routerxdd/erekir-extended",
     "internalName": "erek",
     "name": "Erekir Extended",
@@ -866,20 +880,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Add the new sectors and content on Erekir"
-  },
-  {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "version": "110008",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-08-27T06:08:40Z",
-    "stars": 28,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, Random, and lock-on focus fire. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新、随机化和锁定攻击。"
   },
   {
     "repo": "dustdustry/patcheditor",
@@ -1308,7 +1308,7 @@
     "version": "beta.2.1",
     "hidden": false,
     "author": "LaoMoze",
-    "lastUpdated": "2026-09-04T16:54:41Z",
+    "lastUpdated": "2026-09-05T04:08:42Z",
     "stars": 17,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -1918,32 +1918,32 @@
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.8.2",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-09-05T05:01:50Z",
+    "stars": 11,
+    "minGameVersion": "159.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
+  },
+  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-09-04T05:17:56Z",
+    "lastUpdated": "2026-09-05T07:12:39Z",
     "stars": 11,
     "minGameVersion": "159",
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.8.1",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-09-04T09:52:40Z",
-    "stars": 11,
-    "minGameVersion": "159.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -5766,20 +5766,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "JSON-javaScript compliation of several mods that are unplayable. \n\nThe contents as they were, no balancing adjustments, no respriting unless prompted. All sprites belong to respective owners"
-  },
-  {
-    "repo": "dong-wo-long/fear1-ost",
-    "internalName": "fear1-ost",
-    "name": "F.E.A.R. 1 ost",
-    "version": "v1.0.0",
-    "hidden": true,
-    "author": "D&X",
-    "lastUpdated": "2025-07-12T17:32:41Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The mod only replaces the in-game music, everything else remains unchanged."
   },
   {
     "repo": "kirillaldashkin/nohitmod",
