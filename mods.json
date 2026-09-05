@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-04T22:33:26Z",
+    "lastUpdated": "2026-09-05T15:56:00Z",
     "stars": 120,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -790,7 +790,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-05T11:29:53Z",
+    "lastUpdated": "2026-09-05T16:20:57Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -2408,20 +2408,6 @@
     "description": "A modern shaders mod for Mindustry."
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-08-31T18:17:03Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "momiji142857/ve-addon-schematics",
     "internalName": "ve-addon-schematics",
     "name": "VE Addon: Schematics",
@@ -2448,6 +2434,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "1.03",
+    "hidden": false,
+    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
+    "lastUpdated": "2026-09-05T13:38:47Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -2786,6 +2786,20 @@
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
   },
   {
+    "repo": "redonomo-team/colorspectrum",
+    "internalName": "colorspec",
+    "name": "Color Spectrum",
+    "version": "0.12a",
+    "hidden": false,
+    "author": "redonomo Team",
+    "lastUpdated": "2025-04-21T13:32:47Z",
+    "stars": 6,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The mod of fight 4 colors"
+  },
+  {
     "repo": "sova444/compressing-mod",
     "internalName": "compression",
     "name": "compression",
@@ -2996,20 +3010,6 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
   },
   {
-    "repo": "undefined-1026/mindustry_multidimensionalmod",
-    "internalName": "mdimension",
-    "name": "Multi Dimensional",
-    "version": "0.1.3",
-    "hidden": false,
-    "author": "Bilibili:arknights player / Github:undefined-1026",
-    "lastUpdated": "2026-08-29T09:31:54Z",
-    "stars": 6,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A to be produced mod"
-  },
-  {
     "repo": "redloong9527/logic-chinese-localization",
     "internalName": "logicchineselocalization",
     "name": "逻辑汉化补丁v1.3.1",
@@ -3022,6 +3022,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
+  },
+  {
+    "repo": "undefined-1026/mindustry_multidimensionalmod",
+    "internalName": "mdimension",
+    "name": "Multi Dimensional",
+    "version": "0.1.3",
+    "hidden": false,
+    "author": "Bilibili:arknights player / Github:undefined-1026",
+    "lastUpdated": "2026-09-05T14:06:21Z",
+    "stars": 6,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A to be produced mod"
   },
   {
     "repo": "pirojok3000/erekir-cargo-drone-for-serpulo",
@@ -3064,20 +3078,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Just mod with random shit"
-  },
-  {
-    "repo": "redonomo-team/colorspectrum",
-    "internalName": "colorspec",
-    "name": "Color Spectrum",
-    "version": "0.12a",
-    "hidden": false,
-    "author": "redonomo Team",
-    "lastUpdated": "2025-04-21T13:32:47Z",
-    "stars": 5,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The mod of fight 4 colors"
   },
   {
     "repo": "blackdeluxecat/mapfilterext",
@@ -5306,20 +5306,6 @@
     "description": "written entirely in JavaScript"
   },
   {
-    "repo": "akilis81x/fenadi",
-    "internalName": "fenadi",
-    "name": "Fenadi",
-    "version": "0.1",
-    "hidden": false,
-    "author": "Akilis81",
-    "lastUpdated": "2026-09-01T13:50:10Z",
-    "stars": 2,
-    "minGameVersion": "154.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
-  },
-  {
     "repo": "arial1102/mindustry-tier-list",
     "internalName": "tier-language",
     "name": "Tier List Addition",
@@ -5376,13 +5362,27 @@
     "description": "Provides new logic instructions and other tools for easier debugging in Mindustry Logic."
   },
   {
+    "repo": "akilis81x/fenadi",
+    "internalName": "fenadi",
+    "name": "Fenadi",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Akilis81",
+    "lastUpdated": "2026-09-05T13:55:42Z",
+    "stars": 2,
+    "minGameVersion": "154.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
+  },
+  {
     "repo": "oleksiy1409liut/periodic-overhaul",
     "internalName": "periodic",
     "name": "periodic overhaul",
     "version": "0.11",
     "hidden": false,
     "author": "oleksiy",
-    "lastUpdated": "2026-09-05T13:05:33Z",
+    "lastUpdated": "2026-09-05T16:32:56Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6978,7 +6978,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "Cuber",
-    "lastUpdated": "2026-09-05T12:53:59Z",
+    "lastUpdated": "2026-09-05T15:56:04Z",
     "stars": 1,
     "minGameVersion": "158.1",
     "hasScripts": false,
