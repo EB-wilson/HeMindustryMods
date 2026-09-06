@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-06T16:28:03Z",
+    "lastUpdated": "2026-09-06T21:12:07Z",
     "stars": 120,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -2716,20 +2716,6 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
-    "repo": "ramazanduruev/darklife.",
-    "internalName": "mo",
-    "name": "DarkLife",
-    "version": "0.3",
-    "hidden": false,
-    "author": "Votak",
-    "lastUpdated": "2026-09-06T04:29:00Z",
-    "stars": 7,
-    "minGameVersion": "157.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
-  },
-  {
     "repo": "i-drink-gasoline/admin-button-2",
     "internalName": "admin-button-2",
     "name": "Admin Button 2",
@@ -2742,6 +2728,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": " [accent]Admin Button 2[]  - A mod with lots of features for multiplayer and singleplayer games\n\n [accent]Control panel[]: Control panel with customizable buttons\n\n [accent]Chat enhancements[]: You can customize how your chat messages look so that you can stand out\n\n [accent]Wave viewer[]: Waves can be viewed while playing\n\n [accent]Image generator[]: Generating schematics with images has never been easier\n\n [accent]AutoFill[]: A very customizable way to automatically fill buildings with items\n\n [accent]Player controller[]: Automatically control your unit\n\n [accent]Turret range[]: Range of turrets can be viewed\n\n [accent]And more[]: Lots of other features"
+  },
+  {
+    "repo": "ramazanduruev/darklife.",
+    "internalName": "mo",
+    "name": "DarkLife",
+    "version": "0.9.1",
+    "hidden": false,
+    "author": "Votak",
+    "lastUpdated": "2026-09-06T20:16:53Z",
+    "stars": 7,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod add new planet and also adds new evolution and infection mechanics \n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -4312,20 +4312,6 @@
     "description": "krucaaaa - mod\n Elder - maps.\n \n \n \n \nA simple mod, that adds 12 new sectors to Erekir"
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "21.9.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-09-05T23:48:21Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors: LSK133\n\nThis mod is currently in testing."
-  },
-  {
     "repo": "oleksiy1409liut/periodic-overhaul",
     "internalName": "periodic",
     "name": "periodic overhaul",
@@ -4352,6 +4338,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides new logic instructions and other tools for easier debugging in Mindustry Logic."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "21.9.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-09-06T23:25:44Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors: LSK133\n\nThis mod is currently in testing."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -6508,20 +6508,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "增加了全新的内容：石英及其制品！！！\nAdded entirely new content: quartz and its products!!! \nДобавлен совершенно новый контент: кварц и изделия из него!!!\n更新日志：\n增加了英语English、俄语Русский的翻译"
-  },
-  {
-    "repo": "chax0180/mindustry-texture-tweaks",
-    "internalName": "chax0180's texture tweaks",
-    "name": "mindustry-texture-tweaks",
-    "version": "2.18",
-    "hidden": true,
-    "author": "Chax0180",
-    "lastUpdated": "2026-07-24T02:05:11Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Aims to completely redesign almost all of Mindustry's block textures, primarily on Serpulo."
   },
   {
     "repo": "fadyelkbeer/sirenalarmspeaker",
