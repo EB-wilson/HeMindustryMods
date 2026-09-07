@@ -62,7 +62,7 @@
     "version": "v4.59.1-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-07T13:04:24Z",
+    "lastUpdated": "2026-09-07T17:40:47Z",
     "stars": 238,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -160,7 +160,7 @@
     "version": "0.1.2A Indev 8",
     "hidden": false,
     "author": "stabu",
-    "lastUpdated": "2026-09-07T12:00:02Z",
+    "lastUpdated": "2026-09-07T19:30:56Z",
     "stars": 141,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -790,7 +790,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-07T15:26:50Z",
+    "lastUpdated": "2026-09-07T15:33:00Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1708,20 +1708,6 @@
     "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "version": "159.7.b",
-    "hidden": true,
-    "author": "Agzam4",
-    "lastUpdated": "2026-08-30T23:58:40Z",
-    "stars": 12,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "novanox4/meridium",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1776,6 +1762,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
+  },
+  {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "version": "159.7.b",
+    "hidden": true,
+    "author": "Agzam4",
+    "lastUpdated": "2026-09-07T19:23:41Z",
+    "stars": 12,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -2212,20 +2212,6 @@
     "description": "Improves your experience on the official io  Flood server."
   },
   {
-    "repo": "sputnuc/deepsea",
-    "internalName": "deepsea",
-    "name": "Project: Deep Sea (Alpha)",
-    "version": "0.2",
-    "hidden": false,
-    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
-    "lastUpdated": "2026-09-04T18:43:17Z",
-    "stars": 9,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2238,6 +2224,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
+  },
+  {
+    "repo": "sputnuc/deepsea",
+    "internalName": "deepsea",
+    "name": "Project: Deep Sea (Alpha)",
+    "version": "0.2",
+    "hidden": false,
+    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
+    "lastUpdated": "2026-09-07T19:01:41Z",
+    "stars": 9,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
     "repo": "p101q/snowdustry",
@@ -3640,20 +3640,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "roman859/mindustry-better-vanilla",
-    "internalName": "bettervanilla",
-    "name": "Better Vanilla+",
-    "version": "0.4.7",
-    "hidden": false,
-    "author": "Roman",
-    "lastUpdated": "2026-09-02T09:08:00Z",
-    "stars": 4,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
-  },
-  {
     "repo": "youming66681/magic",
     "internalName": "magic",
     "name": "幻境/magical",
@@ -3680,6 +3666,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gotoh-san turned into a force projector!!"
+  },
+  {
+    "repo": "roman859/mindustry-better-vanilla",
+    "internalName": "bettervanilla",
+    "name": "Better Vanilla+",
+    "version": "0.4.7",
+    "hidden": false,
+    "author": "Roman",
+    "lastUpdated": "2026-09-07T15:50:54Z",
+    "stars": 4,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -4326,34 +4326,6 @@
     "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
   },
   {
-    "repo": "cardillan/mlogassertions",
-    "internalName": "mlog-assertions-8",
-    "name": "Mlog Assertions (v8)",
-    "version": "0.8.1",
-    "hidden": false,
-    "author": "cardillan",
-    "lastUpdated": "2026-09-06T17:02:37Z",
-    "stars": 3,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides new logic instructions and other tools for easier debugging in Mindustry Logic."
-  },
-  {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "22.0.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-09-07T03:10:45Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4366,6 +4338,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "22.0.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-09-07T17:51:44Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
+  },
+  {
+    "repo": "cardillan/mlogassertions",
+    "internalName": "mlog-assertions-8",
+    "name": "Mlog Assertions (v8)",
+    "version": "0.8.1",
+    "hidden": false,
+    "author": "cardillan",
+    "lastUpdated": "2026-09-07T19:33:26Z",
+    "stars": 3,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides new logic instructions and other tools for easier debugging in Mindustry Logic."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5222,20 +5222,6 @@
     "description": "Make RTS control groups easier to create, select, and recognize."
   },
   {
-    "repo": "trmuhittin/mindtranslator",
-    "internalName": "mindtranslator",
-    "name": "MindTranslator",
-    "version": "2.2",
-    "hidden": true,
-    "author": "LunarNetwork",
-    "lastUpdated": "2026-08-29T11:31:06Z",
-    "stars": 2,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Translates chat messages in place: pick the language your messages are translated to, the language you write in, and the language incoming messages are translated to. Client-side only; works on any server. Prevents double translation with an invisible marker protocol, includes a passive mode for servers that already translate (e.g. foo-client servers), and runs alongside Mindustry Tool. Fully configurable in-game via the gear button in the top-left corner."
-  },
-  {
     "repo": "c9cps/cdxlib",
     "internalName": "library",
     "name": "CDXLIB",
@@ -5402,6 +5388,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "trmuhittin/mindtranslator",
+    "internalName": "mindtranslator",
+    "name": "MindTranslator",
+    "version": "2.2",
+    "hidden": true,
+    "author": "LunarNetwork",
+    "lastUpdated": "2026-09-07T17:23:41Z",
+    "stars": 2,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Translates chat messages in place: pick the language your messages are translated to, the language you write in, and the language incoming messages are translated to. Client-side only; works on any server. Prevents double translation with an invisible marker protocol, includes a passive mode for servers that already translate (e.g. foo-client servers), and runs alongside Mindustry Tool. Fully configurable in-game via the gear button in the top-left corner."
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
