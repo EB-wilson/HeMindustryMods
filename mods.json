@@ -790,7 +790,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-06T15:53:34Z",
+    "lastUpdated": "2026-09-06T23:54:47Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -854,6 +854,20 @@
     "description": "Some content for people to enjoy :>"
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "version": "1.14.0",
+    "hidden": true,
+    "author": "minRi2",
+    "lastUpdated": "2026-09-04T02:53:46Z",
+    "stars": 29,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
+  },
+  {
     "repo": "determination-wind/neon",
     "internalName": "neon",
     "name": "Neon / 氖",
@@ -880,20 +894,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Add the new sectors and content on Erekir"
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "version": "1.14.0",
-    "hidden": true,
-    "author": "minRi2",
-    "lastUpdated": "2026-09-04T02:53:46Z",
-    "stars": 28,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
@@ -4343,15 +4343,15 @@
     "repo": "bowen-h0/mindustry-mod-cryon",
     "internalName": "cryon",
     "name": "Cryon",
-    "version": "21.9.0",
+    "version": "22.0.0",
     "hidden": false,
     "author": "Bowen-H0",
-    "lastUpdated": "2026-09-06T23:25:44Z",
+    "lastUpdated": "2026-09-07T03:10:45Z",
     "stars": 3,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors: LSK133\n\nThis mod is currently in testing."
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -6508,6 +6508,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "增加了全新的内容：石英及其制品！！！\nAdded entirely new content: quartz and its products!!! \nДобавлен совершенно новый контент: кварц и изделия из него!!!\n更新日志：\n增加了英语English、俄语Русский的翻译"
+  },
+  {
+    "repo": "chax0180/mindustry-texture-tweaks",
+    "internalName": "chax0180's texture tweaks",
+    "name": "mindustry-texture-tweaks",
+    "version": "2.18",
+    "hidden": true,
+    "author": "Chax0180",
+    "lastUpdated": "2026-07-24T02:05:11Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Aims to completely redesign almost all of Mindustry's block textures, primarily on Serpulo."
   },
   {
     "repo": "fadyelkbeer/sirenalarmspeaker",
