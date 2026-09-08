@@ -62,7 +62,7 @@
     "version": "v4.59.1-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-08T08:38:34Z",
+    "lastUpdated": "2026-09-08T12:11:53Z",
     "stars": 238,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -735,7 +735,7 @@
     "hidden": false,
     "author": "SezoVK",
     "lastUpdated": "2026-09-06T03:16:06Z",
-    "stars": 34,
+    "stars": 35,
     "minGameVersion": "154.3",
     "hasScripts": true,
     "hasJava": false,
@@ -790,7 +790,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-07T15:33:00Z",
+    "lastUpdated": "2026-09-08T12:18:25Z",
     "stars": 32,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1770,7 +1770,7 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-09-08T08:05:48Z",
+    "lastUpdated": "2026-09-08T10:39:36Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2674,20 +2674,6 @@
     "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
   },
   {
-    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
-    "internalName": "eec",
-    "name": "Extended Erekir Campaign",
-    "version": "[red]1.0",
-    "hidden": false,
-    "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-08-30T17:34:55Z",
-    "stars": 7,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
-  },
-  {
     "repo": "thepi14/tekton",
     "internalName": "tekton",
     "name": "Tekton",
@@ -2742,6 +2728,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod add new planet and also adds new evolution and infection mechanics \n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
+  },
+  {
+    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
+    "internalName": "eec",
+    "name": "Extended Erekir Campaign",
+    "version": "[red]1.0",
+    "hidden": false,
+    "author": "ARKNET, iqtik123",
+    "lastUpdated": "2026-09-08T09:39:22Z",
+    "stars": 7,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -4340,20 +4340,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "cardillan/mlogassertions",
-    "internalName": "mlog-assertions-8",
-    "name": "Mlog Assertions (v8)",
-    "version": "0.8.1",
-    "hidden": false,
-    "author": "cardillan",
-    "lastUpdated": "2026-09-07T19:42:59Z",
-    "stars": 3,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides new logic instructions and other tools for easier debugging in Mindustry Logic."
-  },
-  {
     "repo": "bowen-h0/mindustry-mod-cryon",
     "internalName": "cryon",
     "name": "Cryon",
@@ -4374,12 +4360,26 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-09-08T08:37:05Z",
+    "lastUpdated": "2026-09-08T10:10:06Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "cardillan/mlogassertions",
+    "internalName": "mlog-assertions-8",
+    "name": "Mlog Assertions (v8)",
+    "version": "0.8.2",
+    "hidden": false,
+    "author": "cardillan",
+    "lastUpdated": "2026-09-08T11:44:39Z",
+    "stars": 3,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides new logic instructions and other tools for easier debugging in Mindustry Logic."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5362,20 +5362,6 @@
     "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
   },
   {
-    "repo": "rocket550/zytheron-technology-java-",
-    "internalName": "zytheron",
-    "name": "Zytheron Technology(Java)",
-    "version": "0.1.9.4",
-    "hidden": false,
-    "author": "Trocket",
-    "lastUpdated": "2026-09-05T22:08:20Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a java edition of my mod that eventually will replace the json one"
-  },
-  {
     "repo": "hamsterhat/oct-lib",
     "internalName": "octlib",
     "name": "Octopus Defence Library",
@@ -5402,6 +5388,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Translates chat messages in place: pick the language your messages are translated to, the language you write in, and the language incoming messages are translated to. Client-side only; works on any server. Prevents double translation with an invisible marker protocol, includes a passive mode for servers that already translate (e.g. foo-client servers), and runs alongside Mindustry Tool. Fully configurable in-game via the gear button in the top-left corner."
+  },
+  {
+    "repo": "rocket550/zytheron-technology-java-",
+    "internalName": "zytheron",
+    "name": "Zytheron Technology(Java)",
+    "version": "0.1.9.4",
+    "hidden": false,
+    "author": "Trocket",
+    "lastUpdated": "2026-09-08T11:16:58Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7006,7 +7006,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "Cuber",
-    "lastUpdated": "2026-09-08T06:12:31Z",
+    "lastUpdated": "2026-09-08T12:52:56Z",
     "stars": 1,
     "minGameVersion": "158.1",
     "hasScripts": false,
