@@ -650,7 +650,7 @@
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-09-08T05:02:35Z",
+    "lastUpdated": "2026-09-08T14:18:28Z",
     "stars": 41,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -770,6 +770,20 @@
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
   },
   {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v4 - Gier",
+    "hidden": false,
+    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
+    "lastUpdated": "2026-09-08T14:48:40Z",
+    "stars": 33,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version isnt available or is\nbugged then please use download from the \nlatest releases instead.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 30 stars)[]\n"
+  },
+  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -782,20 +796,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dynamic load custom contents patch account to server"
-  },
-  {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v4 - Gier",
-    "hidden": false,
-    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-08T12:18:25Z",
-    "stars": 32,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version isnt available or is\nbugged then please use download from the \nlatest releases instead.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 30 stars)[]\n"
   },
   {
     "repo": "eyeofdarkness/advance-lighting",
@@ -1252,7 +1252,7 @@
     "version": "1.5.2",
     "hidden": true,
     "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-08-31T13:15:32Z",
+    "lastUpdated": "2026-09-08T17:33:11Z",
     "stars": 18,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -5026,20 +5026,6 @@
     "description": "该模组仍在开发中,可能有大量致命bug,请小心在战役中使用.\n项目规划:\n在原版的基础上拓展和延伸,并计划添加许多工厂、物品、单位、以及全新的战役与机制!\n\n=====\n更新日志：\n\nbeta-v0.6-f13752\n1.修复大量已知bug\n2.添加大量建筑\n3.为大量建筑绘制贴图并计划后续重制部分贴图\n|\n\n_beta-0.5.1：\n1.添加一些建筑\n2.更新大量贴图\n3.修复大量已知bug\n|\n\n_beta-0.5.1：\n1.本次更新了6种核心以及对应的核心机(贴图未制作)\n2.新增一些工厂以及为部分建筑绘制贴图\n|\n\n_beta-0.4.8：\n修复大量BUG(也不知道修上了没)\n|\n\n_beta-0.4：\n1.修复科技树关联错误的bug\n2.修复了研究钛合金冶炼炉需要先研究电磁线圈塑型机，但研究电磁线圈塑型机需要先研究钛合金的bug，因为这意味着你无法得到钛合金，但是没有钛合金就无法研究电磁线圈塑型机，没有电磁线圈塑型机就无法研究钛合金冶炼炉\n3.为大量物品和建筑添加大量贴图，在此感谢冰晶为本模组绘制的钛合金冶炼炉。部分物品配色由ai提供建议\n|\n\n_beta-0.3：\n1.完善科技树\n2.添加少许工厂\n|\n\n_beta-0.2：\n添加大量物品与大量工厂建筑\n|\n\n_beta-0.1：\n项目正式成立，添加了mod.json以及2种物品"
   },
   {
-    "repo": "muniine/scheme_plus",
-    "internalName": "scheme_plus",
-    "name": "Scheme+",
-    "version": "v2.0",
-    "hidden": false,
-    "author": "Munline",
-    "lastUpdated": "2026-07-24T20:04:27Z",
-    "stars": 2,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Scheme Plus adds a compact breakdown of every item and liquid the schematic consumes or produces per second."
-  },
-  {
     "repo": "sunkymp3g/netroniumtfs",
     "internalName": "netroniummod",
     "name": "Netronium: The Final Showdown",
@@ -5402,6 +5388,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is a java edition of my mod that eventually will replace the json one"
+  },
+  {
+    "repo": "muniine/scheme_plus",
+    "internalName": "scheme_plus",
+    "name": "Scheme+",
+    "version": "v2.0.1",
+    "hidden": true,
+    "author": "Munline",
+    "lastUpdated": "2026-09-08T15:46:12Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Scheme Plus adds a compact breakdown of every item and liquid the schematic consumes or produces per second."
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
