@@ -370,7 +370,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-09-08T07:29:40Z",
+    "lastUpdated": "2026-09-09T02:50:50Z",
     "stars": 66,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -678,7 +678,7 @@
     "version": "3.2.10",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-09-03T16:49:24Z",
+    "lastUpdated": "2026-09-09T01:35:39Z",
     "stars": 40,
     "minGameVersion": "159.7",
     "hasScripts": true,
@@ -1770,7 +1770,7 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-09-08T21:41:53Z",
+    "lastUpdated": "2026-09-09T02:26:13Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3612,6 +3612,20 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
+    "repo": "determination-wind/patchviewer",
+    "internalName": "patchviewer",
+    "name": "PatchViewer / 补丁查看器",
+    "version": "2.4.0",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-08-28T16:08:05Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Native database and quick before/after diff viewer for Mindustry datapatches. / 保持原版数据库显示的数据补丁与快捷差异查看器。"
+  },
+  {
     "repo": "no9527dada/ctcoresystem",
     "internalName": "ctcoresystem",
     "name": "创世神核心加载系统前置",
@@ -4326,20 +4340,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "22.1.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-09-08T00:35:25Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4366,6 +4366,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides new logic instructions and other tools for easier debugging in Mindustry Logic."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "22.3.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-09-09T01:43:19Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -6384,6 +6398,20 @@
     "description": "An OST for Netronium: The Final Showdown mod.\nList of music:\nTo The Unknown (Launch theme) by Sunky.MP3G"
   },
   {
+    "repo": "pproton96/cursorspoofer",
+    "internalName": "cursor-spoofer",
+    "name": "Cursor Spoofer",
+    "version": "1.0",
+    "hidden": true,
+    "author": "PProton",
+    "lastUpdated": "2026-06-22T11:28:39Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hides your cursor from cheaters, now it will appear to always be on your unit, unless you try to shoot."
+  },
+  {
     "repo": "wantechfan/mindustry-evil-liquids",
     "internalName": "evil-liquids",
     "name": "Evil Liquids",
@@ -6620,6 +6648,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry auto translate mod (fork, AI-enhanced)."
+  },
+  {
+    "repo": "saranekoth/creative-crimes",
+    "internalName": "creative-crimes",
+    "name": "Creative Crimes",
+    "version": "3.0",
+    "hidden": false,
+    "author": "SaraNekoTH",
+    "lastUpdated": "2026-08-07T07:36:18Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Take Sandbox with you wherever you go. Place Infinite Item Sources, Liquid Sources, and Power Sources on any map or game mode—no Sandbox mode required. Perfect for testing, creative builds, or completely abandoning the idea of resource management.\n\nWhat could possibly go wrong?\nNo..? Okay this is legal then :)\n\n⚠ Warning: using this mod may cause you to lose the intended game experience due to having access to unlimited resources."
   },
   {
     "repo": "saranekoth/naval-arsenal",
@@ -7916,7 +7958,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "GrapeLeaf",
-    "lastUpdated": "2026-09-08T21:28:06Z",
+    "lastUpdated": "2026-09-08T23:08:29Z",
     "stars": 0,
     "minGameVersion": "159.7",
     "hasScripts": true,
