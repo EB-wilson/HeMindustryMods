@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-08T04:31:29Z",
+    "lastUpdated": "2026-09-09T21:16:31Z",
     "stars": 120,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -678,7 +678,7 @@
     "version": "3.2.10",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-09-09T01:35:39Z",
+    "lastUpdated": "2026-09-09T21:27:30Z",
     "stars": 40,
     "minGameVersion": "159.7",
     "hasScripts": true,
@@ -4312,20 +4312,6 @@
     "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.8",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-09-07T13:13:43Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "cardillan/mlogassertions",
     "internalName": "mlog-assertions-8",
     "name": "Mlog Assertions (v8)",
@@ -4366,6 +4352,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.8",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-09-09T22:05:38Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "leyn-pl/iconpicker",
