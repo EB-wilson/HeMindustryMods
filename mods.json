@@ -62,7 +62,7 @@
     "version": "v4.59.1-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-08T12:11:53Z",
+    "lastUpdated": "2026-09-09T08:11:36Z",
     "stars": 238,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -370,7 +370,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-09-09T02:50:50Z",
+    "lastUpdated": "2026-09-09T03:26:45Z",
     "stars": 66,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1694,20 +1694,6 @@
     "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
   },
   {
-    "repo": "tyt-xexebe/qol-control",
-    "internalName": "qol-control",
-    "name": "QoL Control",
-    "version": "6.9",
-    "hidden": true,
-    "author": "TyTxexebe",
-    "lastUpdated": "2026-08-23T23:03:15Z",
-    "stars": 12,
-    "minGameVersion": "159.5",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
-  },
-  {
     "repo": "novanox4/meridium",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1776,6 +1762,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "tyt-xexebe/qol-control",
+    "internalName": "qol-control",
+    "name": "QoL Control",
+    "version": "7.0",
+    "hidden": true,
+    "author": "TyTxexebe",
+    "lastUpdated": "2026-09-09T07:50:41Z",
+    "stars": 12,
+    "minGameVersion": "159.5",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -3640,20 +3640,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "youming66681/magic",
-    "internalName": "magic",
-    "name": "幻境/magical",
-    "version": "0.2",
-    "hidden": false,
-    "author": "幻境模组制作团队",
-    "lastUpdated": "2026-09-03T13:50:11Z",
-    "stars": 4,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730"
-  },
-  {
     "repo": "7003mars/bocchi-the-shield",
     "internalName": "bocchi",
     "name": "Bocchi shield",
@@ -3680,6 +3666,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
+  },
+  {
+    "repo": "youming66681/magic",
+    "internalName": "magic",
+    "name": "幻境/magical",
+    "version": "0.2",
+    "hidden": false,
+    "author": "幻境模组制作团队",
+    "lastUpdated": "2026-09-09T08:30:21Z",
+    "stars": 4,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730"
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -4340,20 +4340,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-09-08T10:10:06Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "cardillan/mlogassertions",
     "internalName": "mlog-assertions-8",
     "name": "Mlog Assertions (v8)",
@@ -4380,6 +4366,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-09-09T08:19:13Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5376,20 +5376,6 @@
     "description": "Translates chat messages in place: pick the language your messages are translated to, the language you write in, and the language incoming messages are translated to. Client-side only; works on any server. Prevents double translation with an invisible marker protocol, includes a passive mode for servers that already translate (e.g. foo-client servers), and runs alongside Mindustry Tool. Fully configurable in-game via the gear button in the top-left corner."
   },
   {
-    "repo": "rocket550/zytheron-technology-java",
-    "internalName": "zytheron",
-    "name": "Zytheron Technology(Java)",
-    "version": "0.1.9.4",
-    "hidden": false,
-    "author": "Trocket",
-    "lastUpdated": "2026-09-08T11:16:58Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a java edition of my mod that eventually will replace the json one"
-  },
-  {
     "repo": "muniine/scheme_plus",
     "internalName": "scheme_plus",
     "name": "Scheme+",
@@ -5402,6 +5388,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Scheme Plus adds a compact breakdown of every item and liquid the schematic consumes or produces per second."
+  },
+  {
+    "repo": "rocket550/zytheron-technology-java",
+    "internalName": "zytheron",
+    "name": "Zytheron Technology(Java)",
+    "version": "0.1.9.4",
+    "hidden": false,
+    "author": "Trocket",
+    "lastUpdated": "2026-09-09T04:39:03Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7958,7 +7958,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "GrapeLeaf",
-    "lastUpdated": "2026-09-08T23:08:29Z",
+    "lastUpdated": "2026-09-09T05:47:14Z",
     "stars": 0,
     "minGameVersion": "159.7",
     "hasScripts": true,
