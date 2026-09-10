@@ -469,7 +469,7 @@
     "hidden": false,
     "author": "AndromedaGalaxy29",
     "lastUpdated": "2026-08-19T22:53:19Z",
-    "stars": 54,
+    "stars": 55,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -496,7 +496,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-09-10T14:04:25Z",
+    "lastUpdated": "2026-09-10T14:37:08Z",
     "stars": 51,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -776,7 +776,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-10T05:43:42Z",
+    "lastUpdated": "2026-09-10T14:33:42Z",
     "stars": 33,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -840,6 +840,20 @@
     "description": "Needs the Hjson++ library\n\nMOD IN THE ALPHA!\nThis is collaboration mod.\n\nAsterion Team\n\n[#92d3ff]Sputnuc [white]— [accent]creator.\n[#ffa0a0]Bloody Ocean [white]— [accent]spriter.\n[#d13050]AnDashik [white]— [accent]coder, spriter, mapper.\n[#a3e7b8]Ace [white]— [accent]composer.\n[#5245c9]R.O.T [white]— [accent]coder, spriter.\n[#e2478f]Sundered [white]— [accent]some sprites.\n[#dbddca]Los Sasikos [white]— [accent]help with balance & sprites."
   },
   {
+    "repo": "routerxdd/erekir-extended",
+    "internalName": "erek",
+    "name": "Erekir Extended",
+    "version": "0.3",
+    "hidden": false,
+    "author": "RouterXdd (R.O.T)",
+    "lastUpdated": "2026-07-16T14:28:33Z",
+    "stars": 29,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add the new sectors and content on Erekir"
+  },
+  {
     "repo": "wmf-industries/expandedindustries",
     "internalName": "ei",
     "name": "Expanded Industries",
@@ -880,20 +894,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, Random, and lock-on focus fire. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新、随机化和锁定攻击。"
-  },
-  {
-    "repo": "routerxdd/erekir-extended",
-    "internalName": "erek",
-    "name": "Erekir Extended",
-    "version": "0.3",
-    "hidden": false,
-    "author": "RouterXdd (R.O.T)",
-    "lastUpdated": "2026-07-16T14:28:33Z",
-    "stars": 28,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add the new sectors and content on Erekir"
   },
   {
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
@@ -1722,20 +1722,6 @@
     "description": "Additional functionality"
   },
   {
-    "repo": "determination-wind/logicsugar",
-    "internalName": "logicsugar",
-    "name": "Logic Sugar",
-    "version": "4.0.0",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-09-09T13:55:15Z",
-    "stars": 12,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
-  },
-  {
     "repo": "novanox4/meridium",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1776,6 +1762,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "determination-wind/logicsugar",
+    "internalName": "logicsugar",
+    "name": "Logic Sugar",
+    "version": "4.0.0",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-09-10T17:24:21Z",
+    "stars": 12,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -2450,6 +2450,20 @@
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
+    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
+    "internalName": "eec",
+    "name": "Extended Erekir Campaign",
+    "version": "[red]1.0",
+    "hidden": false,
+    "author": "ARKNET, iqtik123",
+    "lastUpdated": "2026-09-10T14:51:26Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
+  },
+  {
     "repo": "mitemi/blastanium",
     "internalName": "blastanium",
     "name": "Blastanium",
@@ -2728,20 +2742,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
-  },
-  {
-    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
-    "internalName": "eec",
-    "name": "Extended Erekir Campaign",
-    "version": "[red]1.0",
-    "hidden": false,
-    "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-09-10T05:57:43Z",
-    "stars": 7,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -7000,6 +7000,20 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
+    "repo": "grapeleaf/masatomo",
+    "internalName": "masatomo",
+    "name": "Masatomo",
+    "version": "1.0",
+    "hidden": false,
+    "author": "GrapeLeaf",
+    "lastUpdated": "2026-09-10T14:51:55Z",
+    "stars": 1,
+    "minGameVersion": "159.7",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nAdds a new planet, Masatomo with a semi-Erekir like campaign.\n"
+  },
+  {
     "repo": "lorendoscsharp/tzarbimbajava",
     "internalName": "tzarbimbajava",
     "name": "tzarbimbajava",
@@ -7936,20 +7950,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "我的第一个java模组"
-  },
-  {
-    "repo": "grapeleaf/masatomo",
-    "internalName": "masatomo",
-    "name": "Masatomo",
-    "version": "1.0",
-    "hidden": false,
-    "author": "GrapeLeaf",
-    "lastUpdated": "2026-09-10T12:33:51Z",
-    "stars": 0,
-    "minGameVersion": "159.7",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nAdds a new planet, Masatomo with a semi-Erekir like campaign.\n"
   },
   {
     "repo": "fallendraggon/miningaimode",
