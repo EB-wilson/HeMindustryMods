@@ -776,7 +776,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-09T15:17:49Z",
+    "lastUpdated": "2026-09-10T05:43:42Z",
     "stars": 33,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1694,20 +1694,6 @@
     "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "version": "0.3.6",
-    "hidden": false,
-    "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-09-09T02:26:13Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
     "repo": "tyt-xexebe/qol-control",
     "internalName": "qol-control",
     "name": "QoL Control",
@@ -1736,20 +1722,6 @@
     "description": "Additional functionality"
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.8.4",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-09-09T13:50:03Z",
-    "stars": 12,
-    "minGameVersion": "159.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
     "repo": "determination-wind/logicsugar",
     "internalName": "logicsugar",
     "name": "Logic Sugar",
@@ -1776,6 +1748,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.8.4",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-09-10T04:34:59Z",
+    "stars": 12,
+    "minGameVersion": "159.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "version": "0.3.6",
+    "hidden": false,
+    "author": "Slashkig, IAmRustee, VoidThreader",
+    "lastUpdated": "2026-09-10T04:51:20Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -2422,20 +2422,6 @@
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-09-05T13:38:47Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "momiji142857/ve-addon-schematics",
     "internalName": "ve-addon-schematics",
     "name": "VE Addon: Schematics",
@@ -2448,6 +2434,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-09-03[white]"
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "1.03",
+    "hidden": false,
+    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
+    "lastUpdated": "2026-09-10T07:23:44Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -2632,20 +2632,6 @@
     "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
   },
   {
-    "repo": "alecthe2nd/tantros",
-    "internalName": "tantros",
-    "name": "Tantros",
-    "version": "1.1.0",
-    "hidden": false,
-    "author": "Alecthe2nd, bob26786",
-    "lastUpdated": "2026-08-24T05:08:56Z",
-    "stars": 7,
-    "minGameVersion": "159.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
-  },
-  {
     "repo": "koctz34/browser-windows",
     "internalName": "browser-windows",
     "name": "Browser Windows (MinduCEF)",
@@ -2716,20 +2702,6 @@
     "description": "This mod add new planet and also adds new evolution and infection mechanics \n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
-    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
-    "internalName": "eec",
-    "name": "Extended Erekir Campaign",
-    "version": "[red]1.0",
-    "hidden": false,
-    "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-09-08T09:39:22Z",
-    "stars": 7,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -2742,6 +2714,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
+  },
+  {
+    "repo": "alecthe2nd/tantros",
+    "internalName": "tantros",
+    "name": "Tantros",
+    "version": "1.1.0",
+    "hidden": false,
+    "author": "Alecthe2nd, bob26786",
+    "lastUpdated": "2026-09-10T04:26:51Z",
+    "stars": 7,
+    "minGameVersion": "159.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
+  },
+  {
+    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
+    "internalName": "eec",
+    "name": "Extended Erekir Campaign",
+    "version": "[red]1.0",
+    "hidden": false,
+    "author": "ARKNET, iqtik123",
+    "lastUpdated": "2026-09-10T05:57:43Z",
+    "stars": 7,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -3660,7 +3660,7 @@
     "version": "0.2",
     "hidden": false,
     "author": "幻境模组制作团队",
-    "lastUpdated": "2026-09-10T02:53:03Z",
+    "lastUpdated": "2026-09-10T06:33:39Z",
     "stars": 4,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -4360,7 +4360,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-09-10T03:20:59Z",
+    "lastUpdated": "2026-09-10T04:09:52Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
