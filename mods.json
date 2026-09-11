@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-10T21:34:23Z",
+    "lastUpdated": "2026-09-11T00:19:29Z",
     "stars": 120,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -454,7 +454,7 @@
     "version": "1.2.23",
     "hidden": false,
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-09-06T19:59:34Z",
+    "lastUpdated": "2026-09-11T00:21:34Z",
     "stars": 56,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -678,7 +678,7 @@
     "version": "3.2.10",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-09-10T21:48:11Z",
+    "lastUpdated": "2026-09-10T22:50:28Z",
     "stars": 40,
     "minGameVersion": "159.7",
     "hasScripts": true,
@@ -4340,20 +4340,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "22.4.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-09-10T01:08:53Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4366,6 +4352,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "22.4.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-09-11T01:45:55Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5122,6 +5122,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a Natural Water filter to the map editor terrain generator. / 在地图编辑器地形生成器中添加自然水体滤镜。"
+  },
+  {
+    "repo": "vic-ugreen/mindustry-advanced-canvas-mod",
+    "internalName": "advanced-canvas-plus-img-to-canvas-schematic",
+    "name": "Advanced Canvas plus Image to Canvas Schematic",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Ugr1N",
+    "lastUpdated": "2026-08-20T00:32:54Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds advanced canvas which allows you to use whole RGB spectrum! Also, you can turn any image into a schematic with canvases, allowing you to decorate your sectors with beautiful paintings! Use responsibly. PC only (didn't test on android, maybe it will work there too for some reason)."
   },
   {
     "repo": "mohamedgonem/ore-gens",
@@ -6760,20 +6774,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Predict overdrive placement impact on power balance, scan and mark conflicting projectors, and provide optional chat/map warnings. / 预判超速投影放置后的电网盈亏，扫描并标记冲突投影，支持聊天与地图提示。"
-  },
-  {
-    "repo": "vic-ugreen/mindustry-advanced-canvas-mod",
-    "internalName": "advanced-canvas-plus-img-to-canvas-schematic",
-    "name": "Advanced Canvas plus Image to Canvas Schematic",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Ugr1N",
-    "lastUpdated": "2026-08-20T00:32:54Z",
-    "stars": 1,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds advanced canvas which allows you to use whole RGB spectrum! Also, you can turn any image into a schematic with canvases, allowing you to decorate your sectors with beautiful paintings! Use responsibly. PC only (didn't test on android, maybe it will work there too for some reason)."
   },
   {
     "repo": "kr10genka/attribute-editor",
