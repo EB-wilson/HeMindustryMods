@@ -48,7 +48,7 @@
     "version": "1.7.4",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2026-09-05T18:10:19Z",
+    "lastUpdated": "2026-09-11T09:29:27Z",
     "stars": 265,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -62,8 +62,8 @@
     "version": "v4.59.1-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-11T08:34:23Z",
-    "stars": 238,
+    "lastUpdated": "2026-09-11T12:52:44Z",
+    "stars": 239,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -189,7 +189,7 @@
     "hidden": true,
     "author": "BlackDeluxeCat",
     "lastUpdated": "2026-09-11T03:44:27Z",
-    "stars": 135,
+    "stars": 136,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-11T07:12:20Z",
+    "lastUpdated": "2026-09-11T12:50:41Z",
     "stars": 120,
     "minGameVersion": "159.6",
     "hasScripts": false,
@@ -252,6 +252,20 @@
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "DeepSpace",
+    "version": "Alpha-7787",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-09-05T12:57:01Z",
+    "stars": 95,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "降临新行星[阿德里],收集遗物获得全局增益,构建矩阵网络重构物流体系,在血肉与钢铁交织的异星上,体验截然不同的工厂与战斗———最后,选择你的道路\n\nLand on the planet Ardery, collect Remains for global bonuses, build Matrix Networks to restructure your logistics, and experience a completely different kind of factory and combat on an alien world where flesh and steel intertwine———In the end, choose your path."
+  },
+  {
     "repo": "zielonytrojkat/frozen-farlands",
     "internalName": "moon mod",
     "name": "Frozen Farlands",
@@ -264,20 +278,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "DeepSpace",
-    "version": "Alpha-7787",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-09-05T12:57:01Z",
-    "stars": 94,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "降临新行星[阿德里],收集遗物获得全局增益,构建矩阵网络重构物流体系,在血肉与钢铁交织的异星上,体验截然不同的工厂与战斗———最后,选择你的道路\n\nLand on the planet Ardery, collect Remains for global bonuses, build Matrix Networks to restructure your logistics, and experience a completely different kind of factory and combat on an alien world where flesh and steel intertwine———In the end, choose your path."
   },
   {
     "repo": "meepoffaith/prog-mats-java",
@@ -1596,20 +1596,6 @@
     "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
   },
   {
-    "repo": "wantechfan/mindustry-cursed-bundles",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "version": "1.13",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-08-16T07:12:38Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
-  },
-  {
     "repo": "jababadev/jababarium",
     "internalName": "jababarium",
     "name": "Jababarium",
@@ -1636,6 +1622,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
+  },
+  {
+    "repo": "wantechfan/mindustry-cursed-bundles",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "version": "1.13",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-09-11T09:00:39Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -1722,34 +1722,6 @@
     "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "version": "0.3.6",
-    "hidden": false,
-    "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-09-10T04:51:20Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
-    "repo": "determination-wind/logicsugar",
-    "internalName": "logicsugar",
-    "name": "Logic Sugar",
-    "version": "4.0.0",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-09-10T17:24:21Z",
-    "stars": 12,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
-  },
-  {
     "repo": "tyt-xexebe/qol-control",
     "internalName": "qol-control",
     "name": "QoL Control",
@@ -1776,6 +1748,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
+  },
+  {
+    "repo": "determination-wind/logicsugar",
+    "internalName": "logicsugar",
+    "name": "Logic Sugar",
+    "version": "4.0.0",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-09-11T13:35:34Z",
+    "stars": 12,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "version": "0.3.6",
+    "hidden": false,
+    "author": "Slashkig, IAmRustee, VoidThreader",
+    "lastUpdated": "2026-09-11T13:54:59Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -2232,12 +2232,26 @@
     "version": "0.6.4",
     "hidden": false,
     "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-09-06T14:07:37Z",
+    "lastUpdated": "2026-09-11T09:54:39Z",
     "stars": 9,
     "minGameVersion": "156",
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
+  },
+  {
+    "repo": "unquis/fading-revelations-remake",
+    "internalName": "fading-revelations-remake",
+    "name": "Fading Revelations Remake",
+    "version": "2.5.0",
+    "hidden": false,
+    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2026-09-11T13:42:30Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "p101q/snowdustry",
@@ -2448,20 +2462,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
-  },
-  {
-    "repo": "unquis/fading-revelations-remake",
-    "internalName": "fading-revelations-remake",
-    "name": "Fading Revelations Remake",
-    "version": "2.5.0",
-    "hidden": false,
-    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2026-09-11T08:01:00Z",
-    "stars": 8,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "mitemi/blastanium",
@@ -3226,7 +3226,7 @@
     "version": "0.1",
     "hidden": true,
     "author": "Wantechfan",
-    "lastUpdated": "2026-08-16T07:12:38Z",
+    "lastUpdated": "2026-09-11T08:50:58Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3674,7 +3674,7 @@
     "version": "0.2",
     "hidden": false,
     "author": "幻境模组制作团队",
-    "lastUpdated": "2026-09-11T06:50:19Z",
+    "lastUpdated": "2026-09-11T14:03:24Z",
     "stars": 4,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -5404,6 +5404,20 @@
     "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
   },
   {
+    "repo": "sentineldart919/waterreflections",
+    "internalName": "b919-waterreflection",
+    "name": "Water Reflections Mod",
+    "version": "1.0",
+    "hidden": false,
+    "author": "B919",
+    "lastUpdated": "2026-09-11T10:02:19Z",
+    "stars": 2,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Water Reflection shader I made on aquarion, now independent. Fully Configurable compatible with Android and PC."
+  },
+  {
     "repo": "routerxdd/mechanicalwarfareport",
     "internalName": "mechanical-warfare-revisit",
     "name": "Forgotten Wartech",
@@ -6804,20 +6818,6 @@
     "description": "异验丁真，鉴定为：抽锐刻五抽的"
   },
   {
-    "repo": "lebrops/sporbels-inventions",
-    "internalName": "sporbel's inventions",
-    "name": "SporBel's Inventions",
-    "version": "1.1.5",
-    "hidden": false,
-    "author": "SporBel (aka. leBropS)",
-    "lastUpdated": "2026-08-22T15:09:08Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
@@ -7012,6 +7012,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Make a beautiful world with feces."
+  },
+  {
+    "repo": "lebrops/sporbels-inventions",
+    "internalName": "sporbel's inventions",
+    "name": "SporBel's Inventions",
+    "version": "1.1.5",
+    "hidden": false,
+    "author": "SporBel (aka. leBropS)",
+    "lastUpdated": "2026-09-11T13:34:23Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
