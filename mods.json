@@ -35,7 +35,7 @@
     "hidden": false,
     "author": "guiY",
     "lastUpdated": "2026-08-10T09:26:52Z",
-    "stars": 267,
+    "stars": 268,
     "minGameVersion": "155",
     "hasScripts": false,
     "hasJava": true,
@@ -62,7 +62,7 @@
     "version": "v4.59.1-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-12T07:53:14Z",
+    "lastUpdated": "2026-09-12T13:18:36Z",
     "stars": 239,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -189,7 +189,7 @@
     "hidden": true,
     "author": "BlackDeluxeCat",
     "lastUpdated": "2026-09-11T03:44:27Z",
-    "stars": 137,
+    "stars": 138,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
@@ -216,7 +216,7 @@
     "version": "4.1.0.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-11T20:23:07Z",
+    "lastUpdated": "2026-09-12T09:24:32Z",
     "stars": 120,
     "minGameVersion": "160.1",
     "hasScripts": false,
@@ -301,7 +301,7 @@
     "hidden": false,
     "author": "滞人",
     "lastUpdated": "2026-06-13T12:08:06Z",
-    "stars": 89,
+    "stars": 90,
     "minGameVersion": "158",
     "hasScripts": true,
     "hasJava": false,
@@ -496,7 +496,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-09-12T07:52:34Z",
+    "lastUpdated": "2026-09-12T08:25:16Z",
     "stars": 51,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -577,12 +577,12 @@
     "repo": "uenhe/fire",
     "internalName": "fire",
     "name": "Fire",
-    "version": "1.5.6",
+    "version": "1.5.7",
     "hidden": false,
     "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
-    "lastUpdated": "2026-09-12T08:14:18Z",
+    "lastUpdated": "2026-09-12T09:02:35Z",
     "stars": 45,
-    "minGameVersion": "159",
+    "minGameVersion": "160.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
@@ -1308,7 +1308,7 @@
     "version": "beta.2.1",
     "hidden": false,
     "author": "LaoMoze",
-    "lastUpdated": "2026-09-06T08:09:49Z",
+    "lastUpdated": "2026-09-12T10:42:17Z",
     "stars": 17,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -1750,20 +1750,6 @@
     "description": "Additional functionality"
   },
   {
-    "repo": "determination-wind/logicsugar",
-    "internalName": "logicsugar",
-    "name": "Logic Sugar",
-    "version": "4.0.0",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-09-11T13:35:34Z",
-    "stars": 12,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -1776,6 +1762,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "determination-wind/logicsugar",
+    "internalName": "logicsugar",
+    "name": "Logic Sugar",
+    "version": "4.0.0",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-09-12T12:31:18Z",
+    "stars": 12,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -2030,6 +2030,20 @@
     "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
   },
   {
+    "repo": "determination-wind/power-grid-minimap-",
+    "internalName": "powergrid-minimap",
+    "name": "电网小地图 / Power Grid Minimap",
+    "version": "1.18.2",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-08-18T06:57:10Z",
+    "stars": 10,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
+  },
+  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -2184,20 +2198,6 @@
     "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
   },
   {
-    "repo": "determination-wind/power-grid-minimap-",
-    "internalName": "powergrid-minimap",
-    "name": "电网小地图 / Power Grid Minimap",
-    "version": "1.18.2",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-08-18T06:57:10Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
-  },
-  {
     "repo": "koctz34/modularis",
     "internalName": "modularis",
     "name": "Modularis",
@@ -2240,20 +2240,6 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "qsbich/stell-product",
-    "internalName": "原版拓展",
-    "name": "钢铁工业",
-    "version": "2.4.1",
-    "hidden": false,
-    "author": "Fat Cat1145",
-    "lastUpdated": "2026-09-12T03:43:10Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "当你在在行星发射终端击退最后敌人时，他们小部分部队逃逸到了更遥远的星球，他们用极快的时间打败了原住民，当你发现他们的时候他们早已占领整个星球以及他旁边的卫星"
-  },
-  {
     "repo": "unquis/fading-revelations-remake",
     "internalName": "fading-revelations-remake",
     "name": "Fading Revelations Remake",
@@ -2266,6 +2252,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
+    "repo": "qsbich/stell-product",
+    "internalName": "原版拓展",
+    "name": "钢铁工业",
+    "version": "2.4.2",
+    "hidden": false,
+    "author": "Lock创作室",
+    "lastUpdated": "2026-09-12T10:37:49Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "当你在在行星发射终端击退最后敌人时，他们小部分部队逃逸到了更遥远的星球，他们用极快的时间打败了原住民，当你发现他们的时候他们早已占领整个星球以及他旁边的卫星"
   },
   {
     "repo": "p101q/snowdustry",
@@ -3024,20 +3024,6 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
   },
   {
-    "repo": "redloong9527/logic-chinese-localization",
-    "internalName": "logicchineselocalization",
-    "name": "逻辑汉化补丁v1.3.1",
-    "version": "157.4",
-    "hidden": true,
-    "author": "redloong9527",
-    "lastUpdated": "2026-09-02T06:58:18Z",
-    "stars": 6,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
-  },
-  {
     "repo": "undefined-1026/mindustry_multidimensionalmod",
     "internalName": "mdimension",
     "name": "Multi Dimensional",
@@ -3050,6 +3036,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A to be produced mod"
+  },
+  {
+    "repo": "redloong9527/logic-chinese-localization",
+    "internalName": "logicchineselocalization",
+    "name": "逻辑汉化补丁v1.3.1",
+    "version": "157.4",
+    "hidden": true,
+    "author": "redloong9527",
+    "lastUpdated": "2026-09-12T13:10:12Z",
+    "stars": 6,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
   },
   {
     "repo": "pirojok3000/erekir-cargo-drone-for-serpulo",
@@ -4368,20 +4368,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "sentinel-addon",
-    "name": "ATLAS' Revolutions",
-    "version": "",
-    "hidden": false,
-    "author": "The skelebros",
-    "lastUpdated": "2026-09-11T07:59:53Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
     "repo": "bowen-h0/mindustry-mod-cryon",
     "internalName": "cryon",
     "name": "Cryon",
@@ -4394,6 +4380,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "sentinel-addon",
+    "name": "ATLAS' Revolutions",
+    "version": "",
+    "hidden": false,
+    "author": "The skelebros",
+    "lastUpdated": "2026-09-12T11:39:28Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -6832,34 +6832,6 @@
     "description": "异验丁真，鉴定为：抽锐刻五抽的"
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-08-25T14:54:46Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
-    "repo": "mullibenmolly/starshineplan",
-    "internalName": "xx-mod",
-    "name": "StarshinePlan",
-    "version": "0.0.3_v159.3",
-    "hidden": false,
-    "author": "molo\nmullibenMolly",
-    "lastUpdated": "2026-08-25T15:46:34Z",
-    "stars": 1,
-    "minGameVersion": "159.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了就别怪我啦。\n若是mod本身存在问题，请及时反馈给我，我会非常感谢你的！虽然没什么奖励就是了。\n没有华丽的制作团队，只有作者一人的挣扎..."
-  },
-  {
     "repo": "dustdustry/wayzermapbrowser-java",
     "internalName": "wayzer-maps",
     "name": "Wayzer地图站",
@@ -7040,6 +7012,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nAdds a new planet, Masatomo with a semi-Erekir like campaign.\n"
+  },
+  {
+    "repo": "mullibenmolly/starshineplan",
+    "internalName": "xx-mod",
+    "name": "StarshinePlan",
+    "version": "0.0.3_v159.3",
+    "hidden": false,
+    "author": "molo\nmullibenMolly",
+    "lastUpdated": "2026-09-12T09:18:33Z",
+    "stars": 1,
+    "minGameVersion": "159.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了就别怪我啦。\n若是mod本身存在问题，请及时反馈给我，我会非常感谢你的！虽然没什么奖励就是了。\n没有华丽的制作团队，只有作者一人的挣扎..."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-09-12T11:21:24Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -7938,7 +7938,7 @@
     "description": "Diagnose factory efficiency, inputs, outputs and production problems directly in Mindustry."
   },
   {
-    "repo": "promiha27/fun-mode",
+    "repo": "arcyde0078/fun-mode",
     "internalName": "sonka-fun-mode",
     "name": "Fun Mode",
     "version": "0.1",
