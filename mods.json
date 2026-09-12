@@ -62,7 +62,7 @@
     "version": "v4.59.1-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-12T13:18:36Z",
+    "lastUpdated": "2026-09-12T15:48:35Z",
     "stars": 239,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -129,12 +129,12 @@
     "repo": "ra2exe/saturation-firepower",
     "internalName": "sfire-mod",
     "name": "Saturation Firepower Mod",
-    "version": "4.0.5.2",
+    "version": "4.0.6",
     "hidden": false,
     "author": "RAdea.exe",
-    "lastUpdated": "2026-09-01T11:15:53Z",
+    "lastUpdated": "2026-09-12T15:09:10Z",
     "stars": 152,
-    "minGameVersion": "159.7",
+    "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "Hell time, once for all\n\nThis mod adds new items, buildings, units, and turrets, and has a planet for you to explore.\nMore campaign maps WIP.\nWarning: This mod makes certain modifications to the original game content to accommodate the mod's operation."
@@ -322,6 +322,20 @@
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
+    "repo": "eb-wilson/toomanyitems",
+    "internalName": "tmi",
+    "name": "Too Many Items",
+    "version": "3.2",
+    "hidden": true,
+    "author": "EBwilson",
+    "lastUpdated": "2026-09-10T21:23:32Z",
+    "stars": 74,
+    "minGameVersion": "157.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n\n---\n\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
+  },
+  {
     "repo": "pointifix/autodrill",
     "internalName": "auto-drill",
     "name": "AutoDrill",
@@ -334,20 +348,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
-    "repo": "eb-wilson/toomanyitems",
-    "internalName": "tmi",
-    "name": "Too Many Items",
-    "version": "3.2",
-    "hidden": true,
-    "author": "EBwilson",
-    "lastUpdated": "2026-09-10T21:23:32Z",
-    "stars": 73,
-    "minGameVersion": "157.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n\n---\n\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "teamoct/fos",
@@ -524,7 +524,7 @@
     "version": "4",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-09-12T04:59:08Z",
+    "lastUpdated": "2026-09-12T15:35:11Z",
     "stars": 50,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -678,7 +678,7 @@
     "version": "3.2.10",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-09-10T22:50:28Z",
+    "lastUpdated": "2026-09-12T16:45:56Z",
     "stars": 40,
     "minGameVersion": "159.7",
     "hasScripts": true,
@@ -1252,7 +1252,7 @@
     "version": "1.5.2",
     "hidden": true,
     "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-09-08T17:33:11Z",
+    "lastUpdated": "2026-09-12T14:09:01Z",
     "stars": 18,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1644,7 +1644,7 @@
     "version": "1.8.5",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-09-12T05:04:23Z",
+    "lastUpdated": "2026-09-12T16:04:28Z",
     "stars": 13,
     "minGameVersion": "159.5",
     "hasScripts": false,
@@ -3702,7 +3702,7 @@
     "version": "0.2",
     "hidden": false,
     "author": "幻境模组制作团队",
-    "lastUpdated": "2026-09-11T15:57:05Z",
+    "lastUpdated": "2026-09-12T14:00:00Z",
     "stars": 4,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -6986,20 +6986,6 @@
     "description": "Make a beautiful world with feces."
   },
   {
-    "repo": "lebrops/sporbels-inventions",
-    "internalName": "sporbel's inventions",
-    "name": "SporBel's Inventions",
-    "version": "1.1.5",
-    "hidden": false,
-    "author": "SporBel (aka. leBropS)",
-    "lastUpdated": "2026-09-11T13:34:23Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
     "repo": "grapeleaf/masatomo",
     "internalName": "masatomo",
     "name": "Masatomo",
@@ -7040,6 +7026,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "lebrops/sporbels-inventions",
+    "internalName": "sporbel's inventions",
+    "name": "SporBel's Inventions",
+    "version": "1.1.5",
+    "hidden": false,
+    "author": "SporBel (aka. leBropS)",
+    "lastUpdated": "2026-09-12T16:47:02Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -7938,20 +7938,6 @@
     "description": "Diagnose factory efficiency, inputs, outputs and production problems directly in Mindustry."
   },
   {
-    "repo": "arcyde0078/fun-mode",
-    "internalName": "sonka-fun-mode",
-    "name": "Fun Mode",
-    "version": "0.1",
-    "hidden": false,
-    "author": "sonka",
-    "lastUpdated": "2026-09-04T12:37:27Z",
-    "stars": 0,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[TESTING VERSION - may contain bugs and softlocks!] A meme overhaul in the spirit of Factorio's Fun Mode: a pile of cursed-but-playable gameplay changes, each toggleable. Works in singleplayer and when hosting; joining someone else's server disables the simulation-touching curses.\n\n[ТЕСТОВАЯ ВЕРСИЯ - возможны баги и софтлоки!] Мем-переделка в духе Fun Mode для Factorio: набор безумных, но играбельных изменений геймплея, каждое из которых можно включить или выключить отдельно. Работает в одиночной игре и при хостинге; при подключении к чужому серверу механики, влияющие на симуляцию, автоматически отключаются."
-  },
-  {
     "repo": "determination-wind/ra2announcer",
     "internalName": "ra2-announcer",
     "name": "RA2 Announcer",
@@ -8006,5 +7992,33 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Full 60 Hz simulation steps for desktop Mindustry 160.1. Single-player only. Shows achieved speed and slows down when CPU-limited."
+  },
+  {
+    "repo": "arcyde0078/fun-mode",
+    "internalName": "sonka-fun-mode",
+    "name": "Fun Mode",
+    "version": "0.2",
+    "hidden": false,
+    "author": "ARCYDE",
+    "lastUpdated": "2026-09-12T15:06:22Z",
+    "stars": 0,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[TESTING VERSION - may contain bugs and softlocks!] A meme overhaul in the spirit of Factorio's Fun Mode: a pile of cursed-but-playable gameplay changes, each toggleable. Works in singleplayer and when hosting; joining someone else's server disables the simulation-touching curses.\n\n[ТЕСТОВАЯ ВЕРСИЯ - возможны баги и софтлоки!] Мем-переделка в духе Fun Mode для Factorio: набор безумных, но играбельных изменений геймплея, каждое из которых можно включить или выключить отдельно. Работает в одиночной игре и при хостинге; при подключении к чужому серверу механики, влияющие на симуляцию, автоматически отключаются."
+  },
+  {
+    "repo": "arcyde0078/mindustry-mobile-pause",
+    "internalName": "mobile-pause",
+    "name": "Mobile Pause",
+    "version": "1.2",
+    "hidden": true,
+    "author": "ARCYDE",
+    "lastUpdated": "2026-09-12T15:09:01Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Working pause button on mobile. The built-in mobile HUD pause button turns into a player-list toggle while you're hosting, instead of pausing."
   }
 ]
