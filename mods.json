@@ -160,7 +160,7 @@
     "version": "0.1.2A Indev 8",
     "hidden": false,
     "author": "stabu",
-    "lastUpdated": "2026-09-08T21:31:40Z",
+    "lastUpdated": "2026-09-12T21:18:41Z",
     "stars": 141,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -213,12 +213,12 @@
     "repo": "twcash/aquarion",
     "internalName": "aquarion",
     "name": "Aquarion",
-    "version": "4.1.0.1",
+    "version": "4.2.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-12T18:37:27Z",
+    "lastUpdated": "2026-09-12T23:41:46Z",
     "stars": 120,
-    "minGameVersion": "160.1",
+    "minGameVersion": "160.2",
     "hasScripts": false,
     "hasJava": true,
     "description": "A complete rewrite of the campaign. Currently in heavy development."
@@ -581,7 +581,7 @@
     "hidden": false,
     "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
     "lastUpdated": "2026-09-12T09:02:35Z",
-    "stars": 45,
+    "stars": 46,
     "minGameVersion": "160.1",
     "hasScripts": false,
     "hasJava": true,
@@ -658,6 +658,20 @@
     "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.6.0\n\n## Highlight\n1. Support Mindustry 159.2\n2. feat(capture_exceptions): Hook exceptions and print (Desktop Only)\n3. Optimize flame graph performance.\n4. Fix some bugs:\n- Improve the security check logic for application class loader settings in Tester.\n- Add text boundary safety checks to TextAreaTab to prevent array out-of-bounds errors.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
+    "repo": "coaldeficit/moredefences",
+    "internalName": "md3",
+    "name": "MoreDefences",
+    "version": "3.2.10",
+    "hidden": false,
+    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
+    "lastUpdated": "2026-09-12T17:41:53Z",
+    "stars": 41,
+    "minGameVersion": "159.7",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
+  },
+  {
     "repo": "sublemon-team/subvoyage",
     "internalName": "subvoyage",
     "name": "Subvoyage",
@@ -670,20 +684,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
-  },
-  {
-    "repo": "coaldeficit/moredefences",
-    "internalName": "md3",
-    "name": "MoreDefences",
-    "version": "3.2.10",
-    "hidden": false,
-    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-09-12T17:41:53Z",
-    "stars": 40,
-    "minGameVersion": "159.7",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
   },
   {
     "repo": "retodera/technologium",
@@ -2450,20 +2450,6 @@
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
-    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
-    "internalName": "eec",
-    "name": "Extended Erekir Campaign",
-    "version": "[red]1.0",
-    "hidden": false,
-    "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-09-10T14:51:26Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
-  },
-  {
     "repo": "sharlottes/mlogwatcher",
     "internalName": "mlogwatcher",
     "name": "MlogWatcher",
@@ -2476,6 +2462,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
+  },
+  {
+    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
+    "internalName": "eec",
+    "name": "Extended Erekir Campaign",
+    "version": "[red]1.0",
+    "hidden": false,
+    "author": "ARKNET, iqtik123",
+    "lastUpdated": "2026-09-12T23:23:30Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
     "repo": "mitemi/blastanium",
@@ -4368,32 +4368,32 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "22.6.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-09-12T01:20:01Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-09-12T11:39:28Z",
+    "lastUpdated": "2026-09-12T21:31:33Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "22.7.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-09-12T23:38:21Z",
+    "stars": 3,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5304,6 +5304,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a mod that add tier list as localization\nEnglish only\n"
+  },
+  {
+    "repo": "determination-wind/mobilejoystickcontrol",
+    "internalName": "mobilejoystickcontrol",
+    "name": "Mobile Joystick Control 移动摇杆操控",
+    "version": "1.1.0",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-09-04T11:30:07Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Minecraft PE style mobile joystick control for player units with movement scaling, boost toggle, and dual/single-stick shooting modes. / 提供类似 Minecraft 手机端的摇杆操控：按幅度移动、Boost 切换、双摇杆或单摇杆开火。"
   },
   {
     "repo": "rqddqwq/darksteel",
@@ -6930,20 +6944,6 @@
     "description": "实用功能合集：方块搜索（在方块选择菜单添加搜索栏，跨分类搜索所有合法方块，支持拼音）与多人暂停（允许其他玩家请求暂停/解除暂停，支持管理员与自定义白名单模式）。"
   },
   {
-    "repo": "determination-wind/mobilejoystickcontrol",
-    "internalName": "mobilejoystickcontrol",
-    "name": "Mobile Joystick Control 移动摇杆操控",
-    "version": "1.1.0",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-09-04T11:30:07Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Minecraft PE style mobile joystick control for player units with movement scaling, boost toggle, and dual/single-stick shooting modes. / 提供类似 Minecraft 手机端的摇杆操控：按幅度移动、Boost 切换、双摇杆或单摇杆开火。"
-  },
-  {
     "repo": "nexionspacesfs-eng/fernostest1",
     "internalName": "fernos",
     "name": "Fernos",
@@ -7894,20 +7894,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides a self‑rotating flat‑segment shield ability, featuring bullet interception, projectile rebound chance, damage cycle and regeneration system.\n\n⚠️ Warning: Core functions are fully working. Only parameter values fail to show on‑screen.\nThis display issue will not affect gameplay and is expected to be fixed within two days.\n\n为像素工厂提供一款可用于自定义单位的自转分片平板护盾能力。支持子弹拦截、投射物反弹概率、护盾受损破碎以及冷却重生整套生命周期。\n\n⚠️ 警告：主要功能全部正常。仅参数数值无法在界面显示。\n该显示问题不会影响实际使用，预计两天之内修复。\n\nFeel free to submit feedback via GitHub.\n欢迎通过 GitHub 反馈。"
-  },
-  {
-    "repo": "itskirby69/mincedustry",
-    "internalName": "mincedustry",
-    "name": "Mincedustry",
-    "version": "v1.0",
-    "hidden": false,
-    "author": "itsKirby",
-    "lastUpdated": "2026-08-31T22:03:43Z",
-    "stars": 0,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Java mod for the Mindustry Java Mod Guide!"
   },
   {
     "repo": "wmf-industries/extremity",
