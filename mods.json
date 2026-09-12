@@ -776,7 +776,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-11T15:46:11Z",
+    "lastUpdated": "2026-09-12T01:44:33Z",
     "stars": 33,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -3668,6 +3668,20 @@
     "description": "Gotoh-san turned into a force projector!!"
   },
   {
+    "repo": "sentineldart919/waterreflections",
+    "internalName": "b919-waterreflection",
+    "name": "Water Reflections Mod",
+    "version": "1.0",
+    "hidden": false,
+    "author": "B919",
+    "lastUpdated": "2026-09-11T10:02:19Z",
+    "stars": 4,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Water Reflection shader I made on aquarion, now independent. Fully Configurable compatible with Android and PC."
+  },
+  {
     "repo": "youming66681/magic",
     "internalName": "magic",
     "name": "幻境/magical",
@@ -4340,20 +4354,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "22.4.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-09-11T01:45:55Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4368,18 +4368,18 @@
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
   {
-    "repo": "sentineldart919/waterreflections",
-    "internalName": "b919-waterreflection",
-    "name": "Water Reflections Mod",
-    "version": "1.0",
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "22.6.0",
     "hidden": false,
-    "author": "B919",
-    "lastUpdated": "2026-09-11T10:02:19Z",
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-09-12T01:20:01Z",
     "stars": 3,
-    "minGameVersion": "160",
+    "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Water Reflection shader I made on aquarion, now independent. Fully Configurable compatible with Android and PC."
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
   },
   {
     "repo": "leyn-pl/iconpicker",
