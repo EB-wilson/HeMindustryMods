@@ -48,7 +48,7 @@
     "version": "1.7.5",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2026-09-14T14:19:10Z",
+    "lastUpdated": "2026-09-14T17:56:25Z",
     "stars": 266,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -62,7 +62,7 @@
     "version": "v4.59.1-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-14T15:00:52Z",
+    "lastUpdated": "2026-09-14T19:59:09Z",
     "stars": 240,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -216,7 +216,7 @@
     "version": "4.2.4",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-13T21:41:47Z",
+    "lastUpdated": "2026-09-14T18:42:08Z",
     "stars": 120,
     "minGameVersion": "160.3",
     "hasScripts": false,
@@ -2072,20 +2072,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
-    "repo": "sputnuc/deepsea",
-    "internalName": "deepsea",
-    "name": "Project: Deep Sea (Alpha)",
-    "version": "0.2",
-    "hidden": false,
-    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
-    "lastUpdated": "2026-09-07T19:01:41Z",
-    "stars": 10,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
-  },
-  {
     "repo": "7003mars/pic2tri",
     "internalName": "triangles",
     "name": "PicToTri",
@@ -2098,6 +2084,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a dialog for turning images into schematics"
+  },
+  {
+    "repo": "sputnuc/deepsea",
+    "internalName": "deepsea",
+    "name": "Project: Deep Sea (Alpha)",
+    "version": "0.2",
+    "hidden": false,
+    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
+    "lastUpdated": "2026-09-14T18:27:43Z",
+    "stars": 10,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
     "repo": "koctz34/factor",
@@ -2702,20 +2702,6 @@
     "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
   },
   {
-    "repo": "thepi14/tekton",
-    "internalName": "tekton",
-    "name": "Tekton",
-    "version": "v0.4.37",
-    "hidden": false,
-    "author": "ThePi14",
-    "lastUpdated": "2026-09-03T13:31:05Z",
-    "stars": 7,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, blocks, units, mechanics and hazards.\n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
-  },
-  {
     "repo": "i-drink-gasoline/admin-button-2",
     "internalName": "admin-button-2",
     "name": "Admin Button 2",
@@ -2770,6 +2756,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
+  },
+  {
+    "repo": "thepi14/tekton",
+    "internalName": "tekton",
+    "name": "Tekton",
+    "version": "v0.4.40",
+    "hidden": false,
+    "author": "ThePi14",
+    "lastUpdated": "2026-09-14T16:16:30Z",
+    "stars": 7,
+    "minGameVersion": "160.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, blocks, units, mechanics and hazards.\n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -3724,20 +3724,6 @@
     "description": "Gotoh-san turned into a force projector!!"
   },
   {
-    "repo": "sentineldart919/waterreflections",
-    "internalName": "b919-waterreflection",
-    "name": "Water Reflections Mod",
-    "version": "1.0",
-    "hidden": false,
-    "author": "B919",
-    "lastUpdated": "2026-09-11T10:02:19Z",
-    "stars": 4,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Water Reflection shader I made on aquarion, now independent. Fully Configurable compatible with Android and PC."
-  },
-  {
     "repo": "youming66681/magic",
     "internalName": "magic",
     "name": "幻境/magical",
@@ -3750,6 +3736,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730\n服务器:103.40.14.91:42275\n备用:114.66.28.186:45689"
+  },
+  {
+    "repo": "sentineldart919/waterreflections",
+    "internalName": "b919-waterreflection",
+    "name": "Water Reflections Mod",
+    "version": "1.1.0",
+    "hidden": true,
+    "author": "B919",
+    "lastUpdated": "2026-09-14T20:52:41Z",
+    "stars": 4,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Water Reflection shader I made on aquarion, now independent. Fully Configurable compatible with Android and PC."
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
