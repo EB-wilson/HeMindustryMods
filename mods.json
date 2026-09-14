@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-09-12T04:42:37Z",
-    "stars": 626,
+    "stars": 627,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -45,10 +45,10 @@
     "repo": "catana791/asthosus",
     "internalName": "asthosus",
     "name": "Asthosus",
-    "version": "1.7.4",
+    "version": "1.7.5",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2026-09-14T08:02:01Z",
+    "lastUpdated": "2026-09-14T14:19:10Z",
     "stars": 266,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -62,8 +62,8 @@
     "version": "v4.59.1-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-14T08:21:12Z",
-    "stars": 239,
+    "lastUpdated": "2026-09-14T15:00:52Z",
+    "stars": 240,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -91,7 +91,7 @@
     "hidden": false,
     "author": "Avant Team",
     "lastUpdated": "2024-05-22T16:28:59Z",
-    "stars": 188,
+    "stars": 189,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -238,20 +238,6 @@
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
-    "repo": "hubdustrylab/hubdustry-mod",
-    "internalName": "hubdustry",
-    "name": "Hubdustry",
-    "version": "0.1.1",
-    "hidden": true,
-    "author": "Hubdustry Community",
-    "lastUpdated": "2026-09-14T06:18:16Z",
-    "stars": 110,
-    "minGameVersion": "160.3",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A community hub for Mindustry."
-  },
-  {
     "repo": "sharlottes/informatis",
     "internalName": "informatis",
     "name": "Informatis",
@@ -292,6 +278,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
+  },
+  {
+    "repo": "hubdustrylab/hubdustry-mod",
+    "internalName": "hubdustry",
+    "name": "Hubdustry",
+    "version": "0.1.2",
+    "hidden": true,
+    "author": "Hubdustry Community",
+    "lastUpdated": "2026-09-14T10:28:32Z",
+    "stars": 94,
+    "minGameVersion": "160.3",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A community hub for Mindustry."
   },
   {
     "repo": "meepoffaith/prog-mats-java",
@@ -510,7 +510,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-09-12T08:25:16Z",
+    "lastUpdated": "2026-09-14T14:05:06Z",
     "stars": 51,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -574,20 +574,6 @@
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
-    "repo": "sh1penfire/meld",
-    "internalName": "meld",
-    "name": "Meld",
-    "version": "",
-    "hidden": false,
-    "author": "Sh1penfire",
-    "lastUpdated": "2026-05-15T07:21:04Z",
-    "stars": 46,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
-  },
-  {
     "repo": "uenhe/fire",
     "internalName": "fire",
     "name": "Fire",
@@ -600,6 +586,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
+  },
+  {
+    "repo": "sh1penfire/meld",
+    "internalName": "meld",
+    "name": "Meld",
+    "version": "",
+    "hidden": false,
+    "author": "Sh1penfire",
+    "lastUpdated": "2026-09-14T13:14:24Z",
+    "stars": 46,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
     "repo": "xpdustry/claj",
@@ -658,20 +658,6 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "version": "1.6.0",
-    "hidden": true,
-    "author": "I hope...",
-    "lastUpdated": "2026-09-11T05:12:14Z",
-    "stars": 41,
-    "minGameVersion": "159.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.6.0\n\n## Highlight\n1. Support Mindustry 159.2\n2. feat(capture_exceptions): Hook exceptions and print (Desktop Only)\n3. Optimize flame graph performance.\n4. Fix some bugs:\n- Improve the security check logic for application class loader settings in Tester.\n- Add text boundary safety checks to TextAreaTab to prevent array out-of-bounds errors.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
-  },
-  {
     "repo": "martian238/vanilla-expansion-mod",
     "internalName": "ve",
     "name": "Vanilla Expansion",
@@ -692,12 +678,26 @@
     "version": "3.2.10",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-09-13T12:16:28Z",
+    "lastUpdated": "2026-09-14T12:12:38Z",
     "stars": 41,
     "minGameVersion": "159.7",
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "version": "1.6.0",
+    "hidden": true,
+    "author": "I hope...",
+    "lastUpdated": "2026-09-14T14:57:10Z",
+    "stars": 41,
+    "minGameVersion": "159.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.6.0\n\n## Highlight\n1. Support Mindustry 159.2\n2. feat(capture_exceptions): Hook exceptions and print (Desktop Only)\n3. Optimize flame graph performance.\n4. Fix some bugs:\n- Improve the security check logic for application class loader settings in Tester.\n- Add text boundary safety checks to TextAreaTab to prevent array out-of-bounds errors.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "sublemon-team/subvoyage",
@@ -762,8 +762,8 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-14T08:00:52Z",
-    "stars": 34,
+    "lastUpdated": "2026-09-14T14:47:50Z",
+    "stars": 35,
     "minGameVersion": "159",
     "hasScripts": true,
     "hasJava": false,
@@ -1057,7 +1057,7 @@
     "hidden": true,
     "author": "minRi2",
     "lastUpdated": "2026-04-26T05:57:32Z",
-    "stars": 24,
+    "stars": 25,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -1526,6 +1526,34 @@
     "description": "A mod that adds a new planet, where we will play in underground"
   },
   {
+    "repo": "hao-1337/mindustry-better-vanilla",
+    "internalName": "hao1337-mod",
+    "name": "[ Better Vanilla ]",
+    "version": "1.10.2",
+    "hidden": true,
+    "author": "Hao1337",
+    "lastUpdated": "2026-09-01T06:26:08Z",
+    "stars": 14,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
+  },
+  {
+    "repo": "determination-wind/logicsugar",
+    "internalName": "logicsugar",
+    "name": "Logic Sugar",
+    "version": "5.1.0",
+    "hidden": false,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-09-13T09:03:29Z",
+    "stars": 14,
+    "minGameVersion": "160.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
+  },
+  {
     "repo": "guiymou/adaptivecoredatabase",
     "internalName": "adaptivecoredatabase",
     "name": "自适应核心数据库（Adaptive Core Database）",
@@ -1624,20 +1652,6 @@
     "description": "A Mindustry greatest mod ever made!"
   },
   {
-    "repo": "hao-1337/mindustry-better-vanilla",
-    "internalName": "hao1337-mod",
-    "name": "[ Better Vanilla ]",
-    "version": "1.10.2",
-    "hidden": true,
-    "author": "Hao1337",
-    "lastUpdated": "2026-09-01T06:26:08Z",
-    "stars": 13,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
-  },
-  {
     "repo": "wantechfan/mindustry-cursed-bundles",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
@@ -1664,20 +1678,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
-    "repo": "determination-wind/logicsugar",
-    "internalName": "logicsugar",
-    "name": "Logic Sugar",
-    "version": "5.1.0",
-    "hidden": false,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-09-13T09:03:29Z",
-    "stars": 13,
-    "minGameVersion": "160.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -1812,7 +1812,7 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-09-14T07:03:06Z",
+    "lastUpdated": "2026-09-14T14:33:25Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2240,20 +2240,6 @@
     "description": "Improves your experience on the official io  Flood server."
   },
   {
-    "repo": "unquis/fading-revelations-remake",
-    "internalName": "fading-revelations-remake",
-    "name": "Fading Revelations Remake",
-    "version": "2.5.0",
-    "hidden": false,
-    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2026-09-12T05:45:57Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
-  },
-  {
     "repo": "qsbich/stell-product",
     "internalName": "原版拓展",
     "name": "钢铁工业",
@@ -2280,6 +2266,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
+  },
+  {
+    "repo": "unquis/fading-revelations-remake",
+    "internalName": "fading-revelations-remake",
+    "name": "Fading Revelations Remake",
+    "version": "2.5.0",
+    "hidden": false,
+    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2026-09-14T12:04:33Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "p101q/snowdustry",
@@ -2744,20 +2744,6 @@
     "description": "This mod add new planet and also adds new evolution and infection mechanics \n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2026-09-10T02:56:49Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "alecthe2nd/tantros",
     "internalName": "tantros",
     "name": "Tantros",
@@ -2770,6 +2756,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2026-09-14T11:29:12Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -3248,6 +3248,20 @@
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
   },
   {
+    "repo": "roman859/mindustry-better-vanilla",
+    "internalName": "bettervanilla",
+    "name": "Better Vanilla+",
+    "version": "0.4.7",
+    "hidden": false,
+    "author": "Roman",
+    "lastUpdated": "2026-09-07T15:50:54Z",
+    "stars": 5,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
+  },
+  {
     "repo": "wantechfan/mindustry-sondustry",
     "internalName": "sondustry",
     "name": "Sondustry",
@@ -3528,6 +3542,20 @@
     "description": "this mod add more command blocks to help mod-creators, inspired in \"testers\" by sk7725"
   },
   {
+    "repo": "5gamemaker/mindustrycoloredbridges",
+    "internalName": "colored-bridges",
+    "name": "Colored Bridges",
+    "version": "0.3",
+    "hidden": true,
+    "author": "buj",
+    "lastUpdated": "2026-05-18T08:17:36Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that colors the bridges"
+  },
+  {
     "repo": "wmf-industries/terios",
     "internalName": "terios",
     "name": "Terios",
@@ -3582,6 +3610,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[#ffd28a]NEXUS_OS // MOD ENGINE\n[#aab0b4]Rhino/JS control engine for Mindustry V8.\n\n[#10e5e5]CORE SYSTEMS\n[white]> [#ffd28a]World & Waves  [#aab0b4]simulation, weather and wave control\n[white]> [#ffd28a]Items & Units  [#aab0b4]batch core injection and unit deployment\n[white]> [#ffd28a]Weapons  [#aab0b4]stable unit fire-rate and turret tuning\n[white]> [#ffd28a]Mining  [#aab0b4]multi-ore fleet assignments\n[white]> [#ffd28a]Inspector  [#aab0b4]live deployments and mod-unit filtering\n[white]> [#ffd28a]Builds & Radius  [#aab0b4]factory filling and team-colored overlays\n[white]> [#ffd28a]Hotkeys & Console  [#aab0b4]persistent binds and Rhino shell\n\n[#10e5e5]QUICK ACCESS\n[#aab0b4]HUD tools hide on the full map and stack below compatible third-party panels.\n\n[#69e89b]TIP [#aab0b4]Set Inspector PAGE SIZE to 20-40 on weaker devices.\n[#646b76]JS-only mod. No Java classpath required."
+  },
+  {
+    "repo": "2936832655luoyu/mindustry.trace-day",
+    "internalName": "痕迹日",
+    "name": "痕迹日",
+    "version": "1.0.17",
+    "hidden": false,
+    "author": "常青[代码编写]，云意[代码支持，代码编写]，火影3000无敌大王[绘图，贴图]，铭[地图]，纸归关[提出此模组的想法]",
+    "lastUpdated": "2026-07-18T09:48:02Z",
+    "stars": 4,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "介绍日后再写"
   },
   {
     "repo": "mr816543/endless_compression",
@@ -3666,20 +3708,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Creators Core System"
-  },
-  {
-    "repo": "roman859/mindustry-better-vanilla",
-    "internalName": "bettervanilla",
-    "name": "Better Vanilla+",
-    "version": "0.4.7",
-    "hidden": false,
-    "author": "Roman",
-    "lastUpdated": "2026-09-07T15:50:54Z",
-    "stars": 4,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
     "repo": "7003mars/bocchi-the-shield",
@@ -4060,20 +4088,6 @@
     "description": "Matter, void energy, advanced power, turrets, and units for Mindustry v8."
   },
   {
-    "repo": "5gamemaker/mindustrycoloredbridges",
-    "internalName": "colored-bridges",
-    "name": "Colored Bridges",
-    "version": "0.3",
-    "hidden": true,
-    "author": "buj",
-    "lastUpdated": "2026-05-18T08:17:36Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that colors the bridges"
-  },
-  {
     "repo": "volproil/ultimate-military-technic",
     "internalName": "ultimate-military-technic-mod",
     "name": "Ultimate Military Technic Mod",
@@ -4198,20 +4212,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod allowing to modify pixelate filter scale (when you downloaded a bad iron ore mod and don't want your eyes to bleed)"
-  },
-  {
-    "repo": "2936832655luoyu/mindustry.trace-day",
-    "internalName": "痕迹日",
-    "name": "痕迹日",
-    "version": "1.0.17",
-    "hidden": false,
-    "author": "常青[代码编写]，云意[代码支持，代码编写]，火影3000无敌大王[绘图，贴图]，铭[地图]，纸归关[提出此模组的想法]",
-    "lastUpdated": "2026-07-18T09:48:02Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "介绍日后再写"
   },
   {
     "repo": "wmf-industries/thesunvanished",
@@ -4998,20 +4998,6 @@
     "description": "[kk]Mindustry ойынының толық қазақ тіліндегі аудармасы. Барлық мәтіндер, блоктар, юниттер, интерфейс және логикалық нұсқаулар аударылған.\nОрнатқаннан кейін Settings → Language → Қазақша таңдаңыз.\r\n[RU]Полный казахский перевод игры Mindustry. Переведены все тексты, блоки, юниты, интерфейс и логические инструкции.\nПосле установки выберите Settings → Language → Қазақша.\r\n[ENG]Full Kazakh translation of Mindustry. All texts, blocks, units, interface and logic instructions are translated.\nAfter installation, select Settings → Language → Қазақша."
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "version": "0.15",
-    "hidden": false,
-    "author": "oleskiy",
-    "lastUpdated": "2026-07-09T19:12:45Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
-  },
-  {
     "repo": "darkjeanne/schempack-manager",
     "internalName": "schempack-manager",
     "name": "SchemPack Manager",
@@ -5486,6 +5472,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first Java mod! This mod adds new technology and a sector."
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "version": "0.15",
+    "hidden": false,
+    "author": "oleskiy",
+    "lastUpdated": "2026-09-14T15:21:36Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7062,7 +7062,7 @@
     "version": "v1.2",
     "hidden": true,
     "author": "T555",
-    "lastUpdated": "2026-09-13T19:00:38Z",
+    "lastUpdated": "2026-09-14T15:27:10Z",
     "stars": 1,
     "minGameVersion": "144",
     "hasScripts": false,
