@@ -1812,7 +1812,7 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-09-14T14:33:25Z",
+    "lastUpdated": "2026-09-14T23:26:33Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5208,20 +5208,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "kukoldiki/md-proxy",
-    "internalName": "md-proxy",
-    "name": "Proxy Mod",
-    "version": "1.0",
-    "hidden": true,
-    "author": "kuko",
-    "lastUpdated": "2026-08-25T14:05:30Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "idk."
-  },
-  {
     "repo": "determination-wind/betterrtsformation",
     "internalName": "betterrtsformation",
     "name": "Better RTS Formation",
@@ -5486,6 +5472,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
+  },
+  {
+    "repo": "kukoldiki/md-proxy",
+    "internalName": "md-proxy",
+    "name": "Proxy Mod",
+    "version": "1.0",
+    "hidden": true,
+    "author": "kuko",
+    "lastUpdated": "2026-09-14T21:59:21Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "idk."
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7068,6 +7068,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "меняет текстуры мода Newhorizon ."
+  },
+  {
+    "repo": "chax0180/mindustry-diesel-generators",
+    "internalName": "oil",
+    "name": "Mindustry: Diesel Generators",
+    "version": "0.0",
+    "hidden": false,
+    "author": "Chax0180",
+    "lastUpdated": "2026-09-14T22:38:58Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Inspired by a certain Create mod addon. Adds the ability to refine oil into several other fluids which can be used for a variety of purposes."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
