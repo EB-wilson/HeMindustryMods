@@ -59,11 +59,11 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v5.0.26-v8",
+    "version": "v5.0.28-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-15T17:25:58Z",
-    "stars": 239,
+    "lastUpdated": "2026-09-15T21:00:45Z",
+    "stars": 240,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
@@ -357,7 +357,7 @@
     "hidden": true,
     "author": "Pointifix",
     "lastUpdated": "2026-05-30T09:43:24Z",
-    "stars": 73,
+    "stars": 74,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
@@ -1932,20 +1932,6 @@
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\n\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nThis mod is not the original unofficial port of Scheme Size — it is a fork. The developers of the original port and mod are not involved in this in any way.\n\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-09-13T14:01:45Z",
-    "stars": 11,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "wantechfan/mindustry-cool-musics",
     "internalName": "cool-musics",
     "name": "Cool Musics",
@@ -1958,6 +1944,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-09-15T19:49:48Z",
+    "stars": 11,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -4424,6 +4424,20 @@
     "description": "\nAdds a new planet, Masatomo with a semi-Erekir like campaign.\n"
   },
   {
+    "repo": "kukoldiki/md-proxy",
+    "internalName": "md-proxy",
+    "name": "Proxy Mod",
+    "version": "1.0",
+    "hidden": true,
+    "author": "kuko",
+    "lastUpdated": "2026-09-15T16:00:34Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "idk."
+  },
+  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -5458,20 +5472,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
-  },
-  {
-    "repo": "kukoldiki/md-proxy",
-    "internalName": "md-proxy",
-    "name": "Proxy Mod",
-    "version": "1.0",
-    "hidden": true,
-    "author": "kuko",
-    "lastUpdated": "2026-09-15T16:00:34Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "idk."
   },
   {
     "repo": "hamsterhat/oct-lib",
