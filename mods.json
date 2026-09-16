@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v5.0.31-v8",
+    "version": "v5.0.33-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-15T23:35:02Z",
+    "lastUpdated": "2026-09-16T09:44:45Z",
     "stars": 240,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -217,7 +217,7 @@
     "hidden": false,
     "author": "twcash",
     "lastUpdated": "2026-09-15T17:36:59Z",
-    "stars": 120,
+    "stars": 121,
     "minGameVersion": "160.3",
     "hasScripts": false,
     "hasJava": true,
@@ -238,6 +238,20 @@
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "DeepSpace",
+    "version": "Alpha-7787",
+    "hidden": false,
+    "author": "Alon",
+    "lastUpdated": "2026-09-15T10:10:25Z",
+    "stars": 99,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "降临新行星[阿德里],收集遗物获得全局增益,构建矩阵网络重构物流体系,在血肉与钢铁交织的异星上,体验截然不同的工厂与战斗———最后,选择你的道路\n\nLand on the planet Ardery, collect Remains for global bonuses, build Matrix Networks to restructure your logistics, and experience a completely different kind of factory and combat on an alien world where flesh and steel intertwine———In the end, choose your path."
+  },
+  {
     "repo": "sharlottes/informatis",
     "internalName": "informatis",
     "name": "Informatis",
@@ -250,20 +264,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "DeepSpace",
-    "version": "Alpha-7787",
-    "hidden": false,
-    "author": "Alon",
-    "lastUpdated": "2026-09-15T10:10:25Z",
-    "stars": 98,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "降临新行星[阿德里],收集遗物获得全局增益,构建矩阵网络重构物流体系,在血肉与钢铁交织的异星上,体验截然不同的工厂与战斗———最后,选择你的道路\n\nLand on the planet Ardery, collect Remains for global bonuses, build Matrix Networks to restructure your logistics, and experience a completely different kind of factory and combat on an alien world where flesh and steel intertwine———In the end, choose your path."
   },
   {
     "repo": "zielonytrojkat/frozen-farlands",
@@ -322,20 +322,6 @@
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
-    "repo": "hubdustrylab/hubdustry-mod",
-    "internalName": "hubdustry",
-    "name": "Hubdustry",
-    "version": "0.1.2",
-    "hidden": true,
-    "author": "Hubdustry Community",
-    "lastUpdated": "2026-09-14T10:28:32Z",
-    "stars": 77,
-    "minGameVersion": "160.3",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A community hub for Mindustry."
-  },
-  {
     "repo": "eb-wilson/toomanyitems",
     "internalName": "tmi",
     "name": "Too Many Items",
@@ -364,6 +350,20 @@
     "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
+    "repo": "hubdustrylab/hubdustry-mod",
+    "internalName": "hubdustry",
+    "name": "Hubdustry",
+    "version": "0.1.2",
+    "hidden": true,
+    "author": "Hubdustry Community",
+    "lastUpdated": "2026-09-14T10:28:32Z",
+    "stars": 73,
+    "minGameVersion": "160.3",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A community hub for Mindustry."
+  },
+  {
     "repo": "teamoct/fos",
     "internalName": "fos",
     "name": "Fictional Octo System",
@@ -384,7 +384,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-09-16T02:12:05Z",
+    "lastUpdated": "2026-09-16T09:01:35Z",
     "stars": 66,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -762,7 +762,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-16T02:57:42Z",
+    "lastUpdated": "2026-09-16T10:10:36Z",
     "stars": 35,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1266,7 +1266,7 @@
     "version": "1.5.2",
     "hidden": true,
     "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-09-12T14:09:01Z",
+    "lastUpdated": "2026-09-16T08:32:05Z",
     "stars": 18,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -4354,20 +4354,6 @@
     "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
   },
   {
-    "repo": "cardillan/mlogassertions",
-    "internalName": "mlog-assertions-8",
-    "name": "Mlog Assertions (v8)",
-    "version": "0.8.2",
-    "hidden": false,
-    "author": "cardillan",
-    "lastUpdated": "2026-09-08T11:44:39Z",
-    "stars": 3,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides new logic instructions and other tools for easier debugging in Mindustry Logic."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4450,6 +4436,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "cardillan/mlogassertions",
+    "internalName": "mlog-assertions-8",
+    "name": "Mlog Assertions (v8)",
+    "version": "0.8.2",
+    "hidden": false,
+    "author": "cardillan",
+    "lastUpdated": "2026-09-16T09:22:58Z",
+    "stars": 3,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides new logic instructions and other tools for easier debugging in Mindustry Logic."
   },
   {
     "repo": "leyn-pl/iconpicker",
