@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v5.0.49-v8",
+    "version": "v5.0.51-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-19T12:58:12Z",
+    "lastUpdated": "2026-09-19T15:23:00Z",
     "stars": 239,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -510,7 +510,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-09-19T09:25:51Z",
+    "lastUpdated": "2026-09-19T13:44:41Z",
     "stars": 51,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -650,7 +650,7 @@
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-09-18T14:00:12Z",
+    "lastUpdated": "2026-09-19T16:11:33Z",
     "stars": 42,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -762,7 +762,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-19T03:29:18Z",
+    "lastUpdated": "2026-09-19T15:04:56Z",
     "stars": 35,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1672,7 +1672,7 @@
     "version": "1.8.7",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-09-19T12:42:04Z",
+    "lastUpdated": "2026-09-19T14:28:48Z",
     "stars": 13,
     "minGameVersion": "159.5",
     "hasScripts": false,
@@ -1764,20 +1764,6 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
-    "repo": "novanox4/meridium",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "version": "0.1",
-    "hidden": false,
-    "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-09-09T17:28:57Z",
-    "stars": 12,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
-  },
-  {
     "repo": "tyt-xexebe/qol-control",
     "internalName": "qol-control",
     "name": "QoL Control",
@@ -1818,6 +1804,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "novanox4/meridium",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "version": "0.1",
+    "hidden": false,
+    "author": "NV-NX (FULL CREDITS IN DESC.)",
+    "lastUpdated": "2026-09-19T16:55:38Z",
+    "stars": 12,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -2086,6 +2086,20 @@
     "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
+    "repo": "cirrusisakey/arikoth",
+    "internalName": "arikoth",
+    "name": "Arikoth",
+    "version": "0.0.1",
+    "hidden": false,
+    "author": "Hyperium",
+    "lastUpdated": "2026-09-17T20:00:14Z",
+    "stars": 10,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Arikoth mod, wip."
+  },
+  {
     "repo": "koctz34/factor",
     "internalName": "factor",
     "name": "Factor",
@@ -2240,20 +2254,6 @@
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
-    "repo": "cirrusisakey/arikoth",
-    "internalName": "arikoth",
-    "name": "Arikoth",
-    "version": "0.0.1",
-    "hidden": false,
-    "author": "Hyperium",
-    "lastUpdated": "2026-09-17T20:00:14Z",
-    "stars": 9,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Arikoth mod, wip."
-  },
-  {
     "repo": "coriummindustry/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2274,7 +2274,7 @@
     "version": "0.6.5",
     "hidden": false,
     "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-09-19T13:38:17Z",
+    "lastUpdated": "2026-09-19T14:56:48Z",
     "stars": 9,
     "minGameVersion": "156",
     "hasScripts": false,
@@ -3248,6 +3248,20 @@
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
   },
   {
+    "repo": "tomahawkarc/mindustry-v8-engine",
+    "internalName": "mod-engine",
+    "name": "Mod Engine",
+    "version": "1.9.1",
+    "hidden": false,
+    "author": "[#10e5e5]Tomahawk",
+    "lastUpdated": "2026-07-17T19:03:52Z",
+    "stars": 5,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[#ffd28a]NEXUS_OS // MOD ENGINE\n[#aab0b4]Rhino/JS control engine for Mindustry V8.\n\n[#10e5e5]CORE SYSTEMS\n[white]> [#ffd28a]World & Waves  [#aab0b4]simulation, weather and wave control\n[white]> [#ffd28a]Items & Units  [#aab0b4]batch core injection and unit deployment\n[white]> [#ffd28a]Weapons  [#aab0b4]stable unit fire-rate and turret tuning\n[white]> [#ffd28a]Mining  [#aab0b4]multi-ore fleet assignments\n[white]> [#ffd28a]Inspector  [#aab0b4]live deployments and mod-unit filtering\n[white]> [#ffd28a]Builds & Radius  [#aab0b4]factory filling and team-colored overlays\n[white]> [#ffd28a]Hotkeys & Console  [#aab0b4]persistent binds and Rhino shell\n\n[#10e5e5]QUICK ACCESS\n[#aab0b4]HUD tools hide on the full map and stack below compatible third-party panels.\n\n[#69e89b]TIP [#aab0b4]Set Inspector PAGE SIZE to 20-40 on weaker devices.\n[#646b76]JS-only mod. No Java classpath required."
+  },
+  {
     "repo": "roman859/mindustry-better-vanilla",
     "internalName": "bettervanilla",
     "name": "Better Vanilla+",
@@ -3610,20 +3624,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
-  },
-  {
-    "repo": "tomahawkarc/mindustry-v8-engine",
-    "internalName": "mod-engine",
-    "name": "Mod Engine",
-    "version": "1.9.1",
-    "hidden": false,
-    "author": "[#10e5e5]Tomahawk",
-    "lastUpdated": "2026-07-17T19:03:52Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[#ffd28a]NEXUS_OS // MOD ENGINE\n[#aab0b4]Rhino/JS control engine for Mindustry V8.\n\n[#10e5e5]CORE SYSTEMS\n[white]> [#ffd28a]World & Waves  [#aab0b4]simulation, weather and wave control\n[white]> [#ffd28a]Items & Units  [#aab0b4]batch core injection and unit deployment\n[white]> [#ffd28a]Weapons  [#aab0b4]stable unit fire-rate and turret tuning\n[white]> [#ffd28a]Mining  [#aab0b4]multi-ore fleet assignments\n[white]> [#ffd28a]Inspector  [#aab0b4]live deployments and mod-unit filtering\n[white]> [#ffd28a]Builds & Radius  [#aab0b4]factory filling and team-colored overlays\n[white]> [#ffd28a]Hotkeys & Console  [#aab0b4]persistent binds and Rhino shell\n\n[#10e5e5]QUICK ACCESS\n[#aab0b4]HUD tools hide on the full map and stack below compatible third-party panels.\n\n[#69e89b]TIP [#aab0b4]Set Inspector PAGE SIZE to 20-40 on weaker devices.\n[#646b76]JS-only mod. No Java classpath required."
   },
   {
     "repo": "2936832655luoyu/mindustry.trace-day",
@@ -4422,6 +4422,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides new logic instructions and other tools for easier debugging in Mindustry Logic."
+  },
+  {
+    "repo": "mohamedgonem/ore-gens",
+    "internalName": "ore-gens",
+    "name": "Ore Generators",
+    "version": "2.0.0",
+    "hidden": false,
+    "author": "MohamedGonem",
+    "lastUpdated": "2026-09-16T13:15:10Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Blocks that extract and synthesize ore from airborne trace elements,\ndissolved ion suspensions and cryogenic precipitation - plus a fully\nself-contained liquid economy.\n\nFive tiers per ore:\n- Small Powered (2x2): fast, needs power, moderate cost.\n- Small Unpowered (2x2): slow, no power, expensive to build.\n- Liquid-fed (3x3): fast, needs water (ozone on Erekir), no power.\n- Cryofluid-fed (3x3): fastest, needs power + cryofluid.\n- Magma-fed (4x4): ultimate output, needs slag (gallium on Erekir) + cryofluid + power.\n\nOres: copper, lead, coal, titanium, scrap, thorium, sand (Serpulo),\nberyllium, tungsten (Erekir).\n\nSelf-contained liquids: water/ozone, cryofluid and slag/gallium generators\nproduce every liquid the tiers consume, each progressively more expensive.\n\nMulti-ore synthesizers (4x4) batch-produce basic ores with fixed ratios;\nrefined and advanced versions add titanium and thorium.\n\nEvery tier is gated behind a 3-step research quest (15 milestones per ore).\nUpgrades run to ten levels each - Speed I-X, Capacity I-X, Output I-X,\nEfficiency I-X - with escalating, huge research costs.\nAnimated: powered, liquid, cryo and magma tiers glow and spin while running."
   },
   {
     "repo": "kukoldiki/md-proxy",
@@ -5460,20 +5474,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "mohamedgonem/ore-gens",
-    "internalName": "ore-gens",
-    "name": "Ore Generators",
-    "version": "2.0.0",
-    "hidden": false,
-    "author": "MohamedGonem",
-    "lastUpdated": "2026-09-16T13:15:10Z",
-    "stars": 2,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Blocks that extract and synthesize ore from airborne trace elements,\ndissolved ion suspensions and cryogenic precipitation - plus a fully\nself-contained liquid economy.\n\nFive tiers per ore:\n- Small Powered (2x2): fast, needs power, moderate cost.\n- Small Unpowered (2x2): slow, no power, expensive to build.\n- Liquid-fed (3x3): fast, needs water (ozone on Erekir), no power.\n- Cryofluid-fed (3x3): fastest, needs power + cryofluid.\n- Magma-fed (4x4): ultimate output, needs slag (gallium on Erekir) + cryofluid + power.\n\nOres: copper, lead, coal, titanium, scrap, thorium, sand (Serpulo),\nberyllium, tungsten (Erekir).\n\nSelf-contained liquids: water/ozone, cryofluid and slag/gallium generators\nproduce every liquid the tiers consume, each progressively more expensive.\n\nMulti-ore synthesizers (4x4) batch-produce basic ores with fixed ratios;\nrefined and advanced versions add titanium and thorium.\n\nEvery tier is gated behind a 3-step research quest (15 milestones per ore).\nUpgrades run to ten levels each - Speed I-X, Capacity I-X, Output I-X,\nEfficiency I-X - with escalating, huge research costs.\nAnimated: powered, liquid, cryo and magma tiers glow and spin while running."
-  },
-  {
     "repo": "oleksiy1409liut/oleksiysstuff",
     "internalName": "oleksiyresprites",
     "name": "oleksiy's stuff",
@@ -5488,13 +5488,27 @@
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
   },
   {
+    "repo": "dylac4ik/production-calculator-mindustry-mod",
+    "internalName": "production-calculator",
+    "name": "Production calculator",
+    "version": "1.0",
+    "hidden": false,
+    "author": "DYLANCHIK",
+    "lastUpdated": "2026-09-19T10:23:42Z",
+    "stars": 2,
+    "minGameVersion": "160",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My first mod. This mod gives you a new calculator button. Now you can fully calculate the required amount of resources, energy, and heat for production."
+  },
+  {
     "repo": "lamamega/attarax-modpack",
     "internalName": "attarax mod-pack",
     "name": "AttaraX Mod-Pack",
     "version": "1.0",
     "hidden": false,
     "author": "AttaraX",
-    "lastUpdated": "2026-09-18T21:33:34Z",
+    "lastUpdated": "2026-09-19T15:44:47Z",
     "stars": 2,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -7112,20 +7126,6 @@
     "description": "Add long-window moving-average logistics speed rows under vanilla item speed display. / 在原版物流速度显示下方追加长窗口滑动平均行。"
   },
   {
-    "repo": "dylac4ik/production-calculator-mindustry-mod",
-    "internalName": "production-calculator",
-    "name": "Production calculator",
-    "version": "1.0",
-    "hidden": false,
-    "author": "DYLANCHIK",
-    "lastUpdated": "2026-09-19T10:23:42Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "My first mod. This mod gives you a new calculator button. Now you can fully calculate the required amount of resources, energy, and heat for production."
-  },
-  {
     "repo": "lorendoscsharp/tzarbimbajava",
     "internalName": "tzarbimbajava",
     "name": "tzarbimbajava",
@@ -8123,10 +8123,10 @@
     "repo": "glaziness/gl-adminmode",
     "internalName": "gl-admin-mode",
     "name": "GL Admin Mode",
-    "version": "2.5",
+    "version": "2.6",
     "hidden": true,
     "author": "GLaziness (based on SimpleAdminMode by FD)",
-    "lastUpdated": "2026-09-19T09:03:50Z",
+    "lastUpdated": "2026-09-19T16:53:26Z",
     "stars": 0,
     "minGameVersion": "155",
     "hasScripts": false,
