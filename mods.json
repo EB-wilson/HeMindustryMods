@@ -48,7 +48,7 @@
     "version": "1.7.5",
     "hidden": false,
     "author": "Catser",
-    "lastUpdated": "2026-09-19T05:20:56Z",
+    "lastUpdated": "2026-09-19T18:14:55Z",
     "stars": 264,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -1652,20 +1652,6 @@
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
   },
   {
-    "repo": "jababadev/jababarium",
-    "internalName": "jababarium",
-    "name": "Jababarium",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Jababa",
-    "lastUpdated": "2026-09-19T12:15:22Z",
-    "stars": 13,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry greatest mod ever made!"
-  },
-  {
     "repo": "lu69159/morecustomsettings",
     "internalName": "mcs",
     "name": "More Custom Settings",
@@ -1678,6 +1664,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
+  },
+  {
+    "repo": "jababadev/jababarium",
+    "internalName": "jababarium",
+    "name": "Jababarium",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Jababa",
+    "lastUpdated": "2026-09-19T19:25:12Z",
+    "stars": 13,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry greatest mod ever made!"
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -2436,20 +2436,6 @@
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-09-03[white]"
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-09-10T07:23:44Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "sharlottes/mlogwatcher",
     "internalName": "mlogwatcher",
     "name": "MlogWatcher",
@@ -2490,6 +2476,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "version": "1.03",
+    "hidden": false,
+    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
+    "lastUpdated": "2026-09-19T18:58:33Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -4396,20 +4396,6 @@
     "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Cryon",
-    "version": "22.9.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-09-15T01:32:53Z",
-    "stars": 3,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
-  },
-  {
     "repo": "cardillan/mlogassertions",
     "internalName": "mlog-assertions-8",
     "name": "Mlog Assertions (v8)",
@@ -4478,6 +4464,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Cryon",
+    "version": "23.0.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-09-19T19:00:27Z",
+    "stars": 3,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Cryon adds a brand new frozen planet to the game.\n\nYou can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nCurrent development progress: T1 ~ T3 tech is complete. The campaign is currently being tested.\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nContributors:\nLSK133\nGary\n\nThis mod is currently in testing."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -7042,20 +7042,6 @@
     "description": "Full 60 Hz simulation steps for desktop Mindustry 160.1. Single-player only. Shows achieved speed and slows down when CPU-limited."
   },
   {
-    "repo": "mullibenmolly/starshineplan",
-    "internalName": "xx-mod",
-    "name": "StarshinePlan",
-    "version": "0.0.3_v159.3",
-    "hidden": false,
-    "author": "molo\nmullibenMolly",
-    "lastUpdated": "2026-09-12T09:18:33Z",
-    "stars": 1,
-    "minGameVersion": "159.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了就别怪我啦。\n若是mod本身存在问题，请及时反馈给我，我会非常感谢你的！虽然没什么奖励就是了。\n没有华丽的制作团队，只有作者一人的挣扎..."
-  },
-  {
     "repo": "lebrops/sporbels-inventions",
     "internalName": "sporbel's inventions",
     "name": "SporBel's Inventions",
@@ -7124,6 +7110,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add long-window moving-average logistics speed rows under vanilla item speed display. / 在原版物流速度显示下方追加长窗口滑动平均行。"
+  },
+  {
+    "repo": "mullibenmolly/starshineplan",
+    "internalName": "xx-mod",
+    "name": "StarshinePlan",
+    "version": "0.0.3_v159.3",
+    "hidden": false,
+    "author": "molo\nmullibenMolly",
+    "lastUpdated": "2026-09-19T17:13:40Z",
+    "stars": 1,
+    "minGameVersion": "159.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了就别怪我啦。\n若是mod本身存在问题，请及时反馈给我，我会非常感谢你的！虽然没什么奖励就是了。\n没有华丽的制作团队，只有作者一人的挣扎..."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8123,10 +8123,10 @@
     "repo": "glaziness/gl-adminmode",
     "internalName": "gl-admin-mode",
     "name": "GL Admin Mode",
-    "version": "2.6",
+    "version": "2.7",
     "hidden": true,
     "author": "GLaziness (based on SimpleAdminMode by FD)",
-    "lastUpdated": "2026-09-19T16:53:26Z",
+    "lastUpdated": "2026-09-19T19:43:42Z",
     "stars": 0,
     "minGameVersion": "155",
     "hasScripts": false,
