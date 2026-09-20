@@ -62,7 +62,7 @@
     "version": "v5.0.51-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-19T15:23:00Z",
+    "lastUpdated": "2026-09-20T07:33:19Z",
     "stars": 239,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -216,7 +216,7 @@
     "version": "4.2.4",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-20T00:46:13Z",
+    "lastUpdated": "2026-09-20T08:23:03Z",
     "stars": 124,
     "minGameVersion": "160.3",
     "hasScripts": false,
@@ -357,7 +357,7 @@
     "hidden": true,
     "author": "Hubdustry Community",
     "lastUpdated": "2026-09-19T05:08:16Z",
-    "stars": 73,
+    "stars": 72,
     "minGameVersion": "160.3",
     "hasScripts": true,
     "hasJava": true,
@@ -384,7 +384,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-09-19T23:47:07Z",
+    "lastUpdated": "2026-09-20T08:50:31Z",
     "stars": 66,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1652,20 +1652,6 @@
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.8.7",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-09-19T14:28:48Z",
-    "stars": 13,
-    "minGameVersion": "159.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
     "repo": "jababadev/jababarium",
     "internalName": "jababarium",
     "name": "Jababarium",
@@ -1678,6 +1664,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry greatest mod ever made!"
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.8.7",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-09-20T04:48:53Z",
+    "stars": 13,
+    "minGameVersion": "159.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -2702,20 +2702,6 @@
     "description": " [accent]Admin Button 2[]  - A mod with lots of features for multiplayer and singleplayer games\n\n [accent]Control panel[]: Control panel with customizable buttons\n\n [accent]Chat enhancements[]: You can customize how your chat messages look so that you can stand out\n\n [accent]Wave viewer[]: Waves can be viewed while playing\n\n [accent]Image generator[]: Generating schematics with images has never been easier\n\n [accent]AutoFill[]: A very customizable way to automatically fill buildings with items\n\n [accent]Player controller[]: Automatically control your unit\n\n [accent]Turret range[]: Range of turrets can be viewed\n\n [accent]And more[]: Lots of other features"
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "version": "7.1.4",
-    "hidden": true,
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2026-09-14T11:29:12Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
     "repo": "thepi14/tekton",
     "internalName": "tekton",
     "name": "Tekton",
@@ -2770,6 +2756,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "version": "7.1.4",
+    "hidden": true,
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2026-09-20T04:48:59Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -8132,5 +8132,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Admin tools for tracking players and banning griefers, with a compact HUD panel under the left panels. Based on SimpleAdminMode."
+  },
+  {
+    "repo": "spiralsky/morewaves",
+    "internalName": "morewaves",
+    "name": "More Waves",
+    "version": "1.0",
+    "hidden": false,
+    "author": "SpiralSky",
+    "lastUpdated": "2026-09-20T08:38:09Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A Mod that doubles campaign waves"
   }
 ]
