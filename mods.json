@@ -62,7 +62,7 @@
     "version": "v5.0.52-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-20T23:02:10Z",
+    "lastUpdated": "2026-09-21T00:02:59Z",
     "stars": 239,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -216,7 +216,7 @@
     "version": "4.2.4",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-20T13:19:12Z",
+    "lastUpdated": "2026-09-21T03:19:02Z",
     "stars": 124,
     "minGameVersion": "160.3",
     "hasScripts": false,
@@ -280,6 +280,20 @@
     "description": "[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
+    "repo": "hubdustrylab/hubdustry-mod",
+    "internalName": "hubdustry",
+    "name": "Hubdustry",
+    "version": "0.1.5",
+    "hidden": true,
+    "author": "Hubdustry Community",
+    "lastUpdated": "2026-09-21T02:47:41Z",
+    "stars": 93,
+    "minGameVersion": "160.3",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A community hub for Mindustry."
+  },
+  {
     "repo": "meepoffaith/prog-mats-java",
     "internalName": "",
     "name": "Meepscellaneous Concepts",
@@ -306,20 +320,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
-  },
-  {
-    "repo": "hubdustrylab/hubdustry-mod",
-    "internalName": "hubdustry",
-    "name": "Hubdustry",
-    "version": "0.1.4",
-    "hidden": true,
-    "author": "Hubdustry Community",
-    "lastUpdated": "2026-09-19T05:08:16Z",
-    "stars": 79,
-    "minGameVersion": "160.3",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A community hub for Mindustry."
   },
   {
     "repo": "vvseangtvv/project-restoration",
@@ -819,7 +819,7 @@
     "hidden": true,
     "author": "DeterMination (BEK)",
     "lastUpdated": "2026-09-19T03:05:52Z",
-    "stars": 31,
+    "stars": 32,
     "minGameVersion": "160.1",
     "hasScripts": false,
     "hasJava": true,
@@ -1260,6 +1260,20 @@
     "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
   },
   {
+    "repo": "guiymou/mindustry-lotterymod",
+    "internalName": "lottery",
+    "name": "lottery mod（抽卡模拟）",
+    "version": "beta0.6",
+    "hidden": false,
+    "author": "guiY",
+    "lastUpdated": "2026-08-07T06:56:54Z",
+    "stars": 18,
+    "minGameVersion": "148",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
+  },
+  {
     "repo": "laomoze/warhammer",
     "internalName": "wh",
     "name": "WarHammer",
@@ -1300,20 +1314,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
-  },
-  {
-    "repo": "guiymou/mindustry-lotterymod",
-    "internalName": "lottery",
-    "name": "lottery mod（抽卡模拟）",
-    "version": "beta0.6",
-    "hidden": false,
-    "author": "guiY",
-    "lastUpdated": "2026-08-07T06:56:54Z",
-    "stars": 17,
-    "minGameVersion": "148",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
   },
   {
     "repo": "otamamori917/axthrix-modded-java",
@@ -1484,6 +1484,20 @@
     "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
   },
   {
+    "repo": "guiymou/adaptivecoredatabase",
+    "internalName": "adaptivecoredatabase",
+    "name": "自适应核心数据库（Adaptive Core Database）",
+    "version": "beta0.2",
+    "hidden": true,
+    "author": "guiY",
+    "lastUpdated": "2025-04-29T05:46:57Z",
+    "stars": 14,
+    "minGameVersion": "148",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "为模组作者提供一个还原V7星球放置规则的可能，使用方法请参考README.md\n\nProvide a possibility for mod authors to restore the placement rules of V7 planet. Please refer to README.md for instructions on how to use it"
+  },
+  {
     "repo": "reversteams/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
@@ -1552,20 +1566,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
-  },
-  {
-    "repo": "guiymou/adaptivecoredatabase",
-    "internalName": "adaptivecoredatabase",
-    "name": "自适应核心数据库（Adaptive Core Database）",
-    "version": "beta0.2",
-    "hidden": true,
-    "author": "guiY",
-    "lastUpdated": "2025-04-29T05:46:57Z",
-    "stars": 13,
-    "minGameVersion": "148",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "为模组作者提供一个还原V7星球放置规则的可能，使用方法请参考README.md\n\nProvide a possibility for mod authors to restore the placement rules of V7 planet. Please refer to README.md for instructions on how to use it"
   },
   {
     "repo": "falkowitz/medieval-mindustry",
@@ -1694,6 +1694,20 @@
     "description": "Ru: Данная модификация изменяет внешний вид юнитов. Респрайты только Серпуловских юнитов.\r\n\r\nEng: This modification changes the appearance of the units. Resprites of only Serpulo units."
   },
   {
+    "repo": "guiymou/sakana-and-chinanago",
+    "internalName": "sakana",
+    "name": "~SAKANA~",
+    "version": "1.1",
+    "hidden": false,
+    "author": "guiY",
+    "lastUpdated": "2024-10-13T02:39:15Z",
+    "stars": 12,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "莉可丽丝的弹弹弹\n有点上头就做了，之前一直忘了"
+  },
+  {
     "repo": "alnyled/astherive",
     "internalName": "astherive",
     "name": "Astherive",
@@ -1818,20 +1832,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
-    "repo": "guiymou/sakana-and-chinanago",
-    "internalName": "sakana",
-    "name": "~SAKANA~",
-    "version": "1.1",
-    "hidden": false,
-    "author": "guiY",
-    "lastUpdated": "2024-10-13T02:39:15Z",
-    "stars": 11,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "莉可丽丝的弹弹弹\n有点上头就做了，之前一直忘了"
   },
   {
     "repo": "slotterleet/a-lot-of-damage",
