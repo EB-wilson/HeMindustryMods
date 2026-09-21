@@ -210,32 +210,32 @@
     "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
+    "repo": "hubdustrylab/hubdustry-mod",
+    "internalName": "hubdustry",
+    "name": "Hubdustry",
+    "version": "0.1.8",
+    "hidden": true,
+    "author": "Hubdustry Community",
+    "lastUpdated": "2026-09-21T17:45:44Z",
+    "stars": 125,
+    "minGameVersion": "160.3",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A community hub for Mindustry."
+  },
+  {
     "repo": "twcash/aquarion",
     "internalName": "aquarion",
     "name": "Aquarion",
     "version": "4.2.4",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-21T15:30:00Z",
+    "lastUpdated": "2026-09-21T18:34:45Z",
     "stars": 124,
     "minGameVersion": "160.3",
     "hasScripts": false,
     "hasJava": true,
     "description": "A complete rewrite of the campaign. Currently in heavy development."
-  },
-  {
-    "repo": "hubdustrylab/hubdustry-mod",
-    "internalName": "hubdustry",
-    "name": "Hubdustry",
-    "version": "0.1.7",
-    "hidden": true,
-    "author": "Hubdustry Community",
-    "lastUpdated": "2026-09-21T12:07:35Z",
-    "stars": 123,
-    "minGameVersion": "160.3",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A community hub for Mindustry."
   },
   {
     "repo": "liplum/cyberio",
@@ -339,12 +339,12 @@
     "repo": "eb-wilson/toomanyitems",
     "internalName": "tmi",
     "name": "Too Many Items",
-    "version": "3.2",
+    "version": "3.3",
     "hidden": true,
     "author": "EBwilson",
-    "lastUpdated": "2026-09-21T14:06:00Z",
+    "lastUpdated": "2026-09-21T17:06:22Z",
     "stars": 75,
-    "minGameVersion": "157.1",
+    "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n\n---\n\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
@@ -3682,20 +3682,6 @@
     "description": "多配方工厂"
   },
   {
-    "repo": "rodrigoasfr24022003/rodrigonia-mod",
-    "internalName": "rodrigonia",
-    "name": "Rodrigonia",
-    "version": "1.2.3",
-    "hidden": false,
-    "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2026-08-25T08:23:01Z",
-    "stars": 4,
-    "minGameVersion": "157",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
-  },
-  {
     "repo": "determination-wind/patchviewer",
     "internalName": "patchviewer",
     "name": "PatchViewer / 补丁查看器",
@@ -3792,6 +3778,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
+  },
+  {
+    "repo": "rodrigoasfr24022003/rodrigonia-mod",
+    "internalName": "rodrigonia",
+    "name": "Rodrigonia",
+    "version": "1.2.3",
+    "hidden": false,
+    "author": "rodrigo_of_rodrigonia",
+    "lastUpdated": "2026-09-21T20:16:31Z",
+    "stars": 4,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -5514,6 +5514,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "世界は新たに創造され、我々は文明を再構築する"
+  },
+  {
+    "repo": "xenonixq/destoyed-field",
+    "internalName": "destroyend-field-map",
+    "name": "Destroyed Field",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Xenonix",
+    "lastUpdated": "2026-09-21T19:37:22Z",
+    "stars": 2,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds funny map."
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
