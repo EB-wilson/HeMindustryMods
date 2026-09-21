@@ -62,7 +62,7 @@
     "version": "v5.0.52-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-21T00:02:59Z",
+    "lastUpdated": "2026-09-21T09:22:41Z",
     "stars": 239,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -216,7 +216,7 @@
     "version": "4.2.4",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-21T03:19:02Z",
+    "lastUpdated": "2026-09-21T05:38:49Z",
     "stars": 124,
     "minGameVersion": "160.3",
     "hasScripts": false,
@@ -236,6 +236,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+  },
+  {
+    "repo": "hubdustrylab/hubdustry-mod",
+    "internalName": "hubdustry",
+    "name": "Hubdustry",
+    "version": "0.1.6",
+    "hidden": true,
+    "author": "Hubdustry Community",
+    "lastUpdated": "2026-09-21T03:56:07Z",
+    "stars": 109,
+    "minGameVersion": "160.3",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A community hub for Mindustry."
   },
   {
     "repo": "icexuegao/deepspace",
@@ -278,20 +292,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
-  },
-  {
-    "repo": "hubdustrylab/hubdustry-mod",
-    "internalName": "hubdustry",
-    "name": "Hubdustry",
-    "version": "0.1.5",
-    "hidden": true,
-    "author": "Hubdustry Community",
-    "lastUpdated": "2026-09-21T02:47:41Z",
-    "stars": 93,
-    "minGameVersion": "160.3",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A community hub for Mindustry."
   },
   {
     "repo": "meepoffaith/prog-mats-java",
@@ -384,7 +384,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-09-20T08:50:31Z",
+    "lastUpdated": "2026-09-21T06:07:35Z",
     "stars": 66,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -650,7 +650,7 @@
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-09-19T16:11:33Z",
+    "lastUpdated": "2026-09-21T04:44:46Z",
     "stars": 42,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -692,7 +692,7 @@
     "version": "3.2.10",
     "hidden": false,
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-09-17T13:47:33Z",
+    "lastUpdated": "2026-09-21T08:47:40Z",
     "stars": 41,
     "minGameVersion": "159.7",
     "hasScripts": true,
@@ -762,7 +762,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-20T15:30:40Z",
+    "lastUpdated": "2026-09-21T05:28:35Z",
     "stars": 35,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1232,6 +1232,20 @@
     "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
   },
   {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-09-02T06:49:01Z",
+    "stars": 20,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
+  },
+  {
     "repo": "sporrus/randommindustry",
     "internalName": "random-mindustry",
     "name": "Random Mindustry",
@@ -1244,20 +1258,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
-  },
-  {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-09-02T06:49:01Z",
-    "stars": 19,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
   },
   {
     "repo": "guiymou/mindustry-lotterymod",
@@ -1302,6 +1302,20 @@
     "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
+    "repo": "thomasthings/xenacia",
+    "internalName": "xenacia",
+    "name": "Xenacia",
+    "version": "v0.0.1",
+    "hidden": false,
+    "author": "Thomas's Things",
+    "lastUpdated": "2025-01-30T21:02:20Z",
+    "stars": 17,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
+  },
+  {
     "repo": "itzcraft/epsilon",
     "internalName": "epsilon",
     "name": "Epsilon",
@@ -1330,6 +1344,20 @@
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
   },
   {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "version": "",
+    "hidden": false,
+    "author": "bttodi",
+    "lastUpdated": "2026-09-17T03:46:21Z",
+    "stars": 17,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
+  },
+  {
     "repo": "topyrit/capital_progress",
     "internalName": "capital progress",
     "name": "CAPITAL PROGRESS",
@@ -1342,20 +1370,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
-  },
-  {
-    "repo": "thomasthings/xenacia",
-    "internalName": "xenacia",
-    "name": "Xenacia",
-    "version": "v0.0.1",
-    "hidden": false,
-    "author": "Thomas's Things",
-    "lastUpdated": "2025-01-30T21:02:20Z",
-    "stars": 16,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
   },
   {
     "repo": "blackdeluxecat/schematicparse",
@@ -1384,20 +1398,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nThis is a revamp of discontinued mod called Astherive Genesis\n\nIf you have issues with this mod let me know through the Github repo. Or dm me, my username is yroo1."
-  },
-  {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "version": "",
-    "hidden": false,
-    "author": "bttodi",
-    "lastUpdated": "2026-09-17T03:46:21Z",
-    "stars": 16,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
     "repo": "gmugxd/qr-mod",
@@ -1672,7 +1672,7 @@
     "version": "1.9",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-09-20T14:45:15Z",
+    "lastUpdated": "2026-09-21T09:03:21Z",
     "stars": 13,
     "minGameVersion": "159.5",
     "hasScripts": false,
@@ -1952,7 +1952,7 @@
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-09-20T13:22:31Z",
+    "lastUpdated": "2026-09-21T08:48:00Z",
     "stars": 11,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -2470,7 +2470,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-09-19T18:58:33Z",
+    "lastUpdated": "2026-09-21T07:53:45Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2744,20 +2744,6 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
   },
   {
-    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
-    "internalName": "eec",
-    "name": "Extended Erekir Campaign",
-    "version": "[red]1.0",
-    "hidden": false,
-    "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-09-20T11:42:02Z",
-    "stars": 7,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
-  },
-  {
     "repo": "alecthe2nd/tantros",
     "internalName": "tantros",
     "name": "Tantros",
@@ -2770,6 +2756,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
+  },
+  {
+    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
+    "internalName": "eec",
+    "name": "Extended Erekir Campaign",
+    "version": "[red]1.0",
+    "hidden": false,
+    "author": "ARKNET, iqtik123",
+    "lastUpdated": "2026-09-21T08:39:43Z",
+    "stars": 7,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -3058,7 +3058,7 @@
     "version": "0.1.3",
     "hidden": false,
     "author": "Bilibili:arknights player / Github:undefined-1026",
-    "lastUpdated": "2026-09-19T13:27:01Z",
+    "lastUpdated": "2026-09-21T08:44:20Z",
     "stars": 6,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -4466,6 +4466,20 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
+    "repo": "abdullah-ajeebi/pause-enemy",
+    "internalName": "pause-enemy",
+    "name": "Pause Enemy",
+    "version": "1.0",
+    "hidden": false,
+    "author": "john sound",
+    "lastUpdated": "2026-09-21T05:26:27Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a keybind and UI part that lets you pause enemy waves and unit fabricators at any time."
+  },
+  {
     "repo": "leyn-pl/iconpicker",
     "internalName": "icon-picker",
     "name": "Icon Picker",
@@ -5486,20 +5500,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mindustry? Yes, but more!"
-  },
-  {
-    "repo": "abdullah-ajeebi/pause-enemy",
-    "internalName": "pause-enemy",
-    "name": "Pause Enemy",
-    "version": "1.0",
-    "hidden": false,
-    "author": "john sound",
-    "lastUpdated": "2026-09-20T14:04:07Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a keybind and UI part that lets you pause enemy waves and unit fabricators at any time."
   },
   {
     "repo": "figseu-technology/greenfortress",
