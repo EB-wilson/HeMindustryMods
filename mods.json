@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v5.1.0-v8",
+    "version": "v5.1.2-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-09-22T17:39:34Z",
+    "lastUpdated": "2026-09-22T20:13:53Z",
     "stars": 239,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -203,7 +203,7 @@
     "hidden": true,
     "author": "Hubdustry Community",
     "lastUpdated": "2026-09-22T16:33:42Z",
-    "stars": 133,
+    "stars": 135,
     "minGameVersion": "160.3",
     "hasScripts": true,
     "hasJava": true,
@@ -230,7 +230,7 @@
     "version": "4.2.6",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-22T17:16:10Z",
+    "lastUpdated": "2026-09-22T18:41:04Z",
     "stars": 124,
     "minGameVersion": "160.3",
     "hasScripts": false,
@@ -426,7 +426,7 @@
     "version": "beta-1.6",
     "hidden": true,
     "author": "EBwilson",
-    "lastUpdated": "2026-09-22T08:36:48Z",
+    "lastUpdated": "2026-09-22T19:07:57Z",
     "stars": 60,
     "minGameVersion": "156",
     "hasScripts": false,
@@ -1806,20 +1806,6 @@
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "version": "0.3.6",
-    "hidden": false,
-    "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-09-20T15:26:31Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
     "repo": "agzam4/mindustry-mod-v8",
     "internalName": "agzam4mod",
     "name": "Agzam's Mod",
@@ -1832,6 +1818,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "version": "0.3.6",
+    "hidden": false,
+    "author": "Slashkig, IAmRustee, VoidThreader",
+    "lastUpdated": "2026-09-22T20:53:26Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "slotterleet/a-lot-of-damage",
@@ -1932,20 +1932,6 @@
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\n\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nThis mod is not the original unofficial port of Scheme Size — it is a fork. The developers of the original port and mod are not involved in this in any way.\n\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-09-22T13:33:41Z",
-    "stars": 11,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "wantechfan/mindustry-cool-musics",
     "internalName": "cool-musics",
     "name": "Cool Musics",
@@ -1958,6 +1944,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-09-22T19:58:28Z",
+    "stars": 11,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
