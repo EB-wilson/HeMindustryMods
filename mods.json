@@ -216,7 +216,7 @@
     "version": "4.2.7",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-24T23:17:06Z",
+    "lastUpdated": "2026-09-25T08:44:14Z",
     "stars": 124,
     "minGameVersion": "160.5",
     "hasScripts": false,
@@ -580,7 +580,7 @@
     "version": "",
     "hidden": false,
     "author": "Sh1penfire",
-    "lastUpdated": "2026-09-24T07:23:51Z",
+    "lastUpdated": "2026-09-25T08:14:01Z",
     "stars": 46,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -636,7 +636,7 @@
     "version": "2.1.2.0",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-09-23T14:41:29Z",
+    "lastUpdated": "2026-09-25T06:46:23Z",
     "stars": 42,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -748,7 +748,7 @@
     "version": "v4 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n",
-    "lastUpdated": "2026-09-24T23:58:06Z",
+    "lastUpdated": "2026-09-25T05:44:54Z",
     "stars": 34,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1224,7 +1224,7 @@
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-09-24T15:42:17Z",
+    "lastUpdated": "2026-09-25T06:33:36Z",
     "stars": 20,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1658,7 +1658,7 @@
     "version": "1.9.1",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-09-24T12:59:14Z",
+    "lastUpdated": "2026-09-25T08:36:30Z",
     "stars": 13,
     "minGameVersion": "159.5",
     "hasScripts": false,
@@ -1938,7 +1938,7 @@
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-09-24T15:40:32Z",
+    "lastUpdated": "2026-09-25T06:26:30Z",
     "stars": 11,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -2078,7 +2078,7 @@
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-09-24T15:41:26Z",
+    "lastUpdated": "2026-09-25T06:29:08Z",
     "stars": 10,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -2394,6 +2394,20 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
+    "repo": "determination-wind/stealthpath",
+    "internalName": "stealth-path",
+    "name": "Stealth Path / 偷袭小道",
+    "version": "5.3.2",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-08-28T01:58:07Z",
+    "stars": 8,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
+  },
+  {
     "repo": "128oteml/mindustryoptifine",
     "internalName": "mindustry-optifine",
     "name": "Mindustry OptiFine",
@@ -2658,20 +2672,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
-  },
-  {
-    "repo": "determination-wind/stealthpath",
-    "internalName": "stealth-path",
-    "name": "Stealth Path / 偷袭小道",
-    "version": "5.3.2",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-08-28T01:58:07Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
   },
   {
     "repo": "i-drink-gasoline/admin-button-2",
@@ -3786,7 +3786,7 @@
     "version": "0.10.21",
     "hidden": true,
     "author": "cardillan",
-    "lastUpdated": "2026-09-24T20:44:07Z",
+    "lastUpdated": "2026-09-25T06:15:13Z",
     "stars": 4,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -4424,20 +4424,6 @@
     "description": "idk."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.8",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-09-16T19:03:27Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "abdullah-ajeebi/pause-enemy",
     "internalName": "pause-enemy",
     "name": "Pause Enemy",
@@ -4478,6 +4464,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.8",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-09-25T04:40:08Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5318,20 +5318,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Minecraft PE style mobile joystick control for player units with movement scaling, boost toggle, and dual/single-stick shooting modes. / 提供类似 Minecraft 手机端的摇杆操控：按幅度移动、Boost 切换、双摇杆或单摇杆开火。"
-  },
-  {
-    "repo": "rqddqwq/darksteel",
-    "internalName": "玄钢重工",
-    "name": "玄钢重工",
-    "version": "0.07",
-    "hidden": false,
-    "author": "容器",
-    "lastUpdated": "2026-09-05T08:54:06Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "未知"
   },
   {
     "repo": "m1cxzfw3q/thermalengineering",
@@ -7000,6 +6986,20 @@
     "description": "A new planet that broke formed under medium intensity pressure, very similar to surpulo but has a few unique aspects"
   },
   {
+    "repo": "rqddqwq/darksteel",
+    "internalName": "玄钢重工",
+    "name": "玄钢重工",
+    "version": "0.07",
+    "hidden": false,
+    "author": "容器",
+    "lastUpdated": "2026-09-05T08:54:06Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "未知"
+  },
+  {
     "repo": "cuber-david/feces-mod",
     "internalName": "kmod",
     "name": "FecesMod",
@@ -7924,20 +7924,6 @@
     "description": "Tap the lock key (default L) to lock on to an enemy unit or building and focus fire. Commands selected units via the vanilla network command path. / 按锁定键（默认 L）锁定敌方单位或建筑并集火，选中的指挥单位通过原版网络命令路径集火。"
   },
   {
-    "repo": "huanxefh/fluid-cells",
-    "internalName": "fcell",
-    "name": "Fluid Cells",
-    "version": "102",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-08-23T10:26:24Z",
-    "stars": 0,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Automatically adds fluid cell items for every fluid in game, including those from mods."
-  },
-  {
     "repo": "voidemptiness/ghost-cost",
     "internalName": "ghost-cost",
     "name": "Ghost Cost",
@@ -8146,5 +8132,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A Mod that doubles campaign waves"
+  },
+  {
+    "repo": "huanxefh/fluid-cells",
+    "internalName": "fcell",
+    "name": "Fluid Cells",
+    "version": "103",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-09-25T06:36:03Z",
+    "stars": 0,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Automatically adds fluid cell items for every fluid in game, including those from mods."
   }
 ]
