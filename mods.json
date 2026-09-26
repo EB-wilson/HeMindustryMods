@@ -874,7 +874,7 @@
     "version": "1.15",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-09-25T02:08:56Z",
+    "lastUpdated": "2026-09-26T01:36:05Z",
     "stars": 29,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1812,7 +1812,7 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-09-25T22:36:04Z",
+    "lastUpdated": "2026-09-26T02:32:38Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3150,20 +3150,6 @@
     "description": "Hbm's NTM (by Bobcat) in mindustry!\nMinecraft, Satisfactory, Rust, Day R and other...\n\nOnly decorative blocks.\n\nDisable linear filtering in settings!"
   },
   {
-    "repo": "fghjk455rg/items-reforged-by-captain-doshik",
-    "internalName": "ir",
-    "name": "Items Reforged",
-    "version": "1",
-    "hidden": false,
-    "author": "Captain Doshik",
-    "lastUpdated": "2026-05-31T21:16:46Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod replaces vanilla sprites with modified versions."
-  },
-  {
     "repo": "kyokonagaro/viridium",
     "internalName": "viridium",
     "name": "Viridium",
@@ -3288,6 +3274,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Addon son ton everon worn"
+  },
+  {
+    "repo": "fghjk455rg/items-reforged-by-captain-doshik",
+    "internalName": "ir",
+    "name": "Items Reforged",
+    "version": "1",
+    "hidden": false,
+    "author": "Captain Doshik",
+    "lastUpdated": "2026-09-26T00:56:26Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod replaces vanilla sprites with modified versions."
   },
   {
     "repo": "koctz34/canvases",
@@ -4472,7 +4472,7 @@
     "version": "4.3.8",
     "hidden": true,
     "author": "Xpdustry",
-    "lastUpdated": "2026-09-25T19:00:18Z",
+    "lastUpdated": "2026-09-25T23:08:48Z",
     "stars": 3,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -7118,12 +7118,26 @@
     "version": "1.3.0",
     "hidden": true,
     "author": "xpdustry",
-    "lastUpdated": "2026-09-25T19:44:50Z",
+    "lastUpdated": "2026-09-25T23:52:53Z",
     "stars": 1,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "radiancestorm/mindustry-corona-borealis",
+    "internalName": "corona-borealis",
+    "name": "Corona Borealis",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": "Radiance",
+    "lastUpdated": "2026-09-26T02:54:59Z",
+    "stars": 1,
+    "minGameVersion": "160.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A planet shrouded in arcane mystery."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8132,6 +8146,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A Mod that doubles campaign waves"
+  },
+  {
+    "repo": "abdullah-ajeebi/edmdustry",
+    "internalName": "edmdustry",
+    "name": "EDMdustry",
+    "version": "1.0",
+    "hidden": true,
+    "author": "john sound",
+    "lastUpdated": "2026-09-24T18:53:39Z",
+    "stars": 0,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "EDM 🔥🔥🔥🔥"
   },
   {
     "repo": "huanxefh/fluid-cells",
