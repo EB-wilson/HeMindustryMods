@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-09-24T04:54:54Z",
-    "stars": 631,
+    "stars": 632,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -857,12 +857,12 @@
     "repo": "wmf-industries/expandedindustries",
     "internalName": "ei",
     "name": "Expanded Industries",
-    "version": "1.8.7",
+    "version": "1.8.8",
     "hidden": false,
     "author": "WMF Industries",
-    "lastUpdated": "2026-07-26T05:21:28Z",
+    "lastUpdated": "2026-09-27T21:28:02Z",
     "stars": 29,
-    "minGameVersion": "159.1",
+    "minGameVersion": "160.5",
     "hasScripts": false,
     "hasJava": true,
     "description": "Some content for people to enjoy :>"
@@ -8188,5 +8188,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
+  },
+  {
+    "repo": "rovstam/mindustry-tool-assisted-speedrun",
+    "internalName": "tool assisted speedrun (tas)",
+    "name": "Mindustry TAS",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Rovstam",
+    "lastUpdated": "2026-09-27T22:46:19Z",
+    "stars": 0,
+    "minGameVersion": "160.5",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod is for doing Tool Assisted Speedruns."
   }
 ]
