@@ -371,7 +371,7 @@
     "hidden": false,
     "author": "TnmSpiroct",
     "lastUpdated": "2026-09-27T01:49:25Z",
-    "stars": 66,
+    "stars": 67,
     "minGameVersion": "160",
     "hasScripts": true,
     "hasJava": false,
@@ -451,12 +451,12 @@
     "repo": "itskirby69/minedusty",
     "internalName": "minedusty",
     "name": "MineDusty",
-    "version": "1.2.23",
+    "version": "1.2.24",
     "hidden": false,
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-09-26T17:01:10Z",
+    "lastUpdated": "2026-09-28T00:48:25Z",
     "stars": 57,
-    "minGameVersion": "159.7",
+    "minGameVersion": "160.5",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
@@ -636,7 +636,7 @@
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-09-27T08:24:20Z",
+    "lastUpdated": "2026-09-28T03:04:24Z",
     "stars": 42,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -1148,20 +1148,6 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
-    "repo": "meepoffaith/black-holes-library",
-    "internalName": "black-hole-renderer",
-    "name": "Black Holes Library",
-    "version": "18",
-    "hidden": true,
-    "author": "MEEPofFaith",
-    "lastUpdated": "2026-02-14T01:32:54Z",
-    "stars": 21,
-    "minGameVersion": "155.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library mod for rendering black holes."
-  },
-  {
     "repo": "itzcraft/xanthia",
     "internalName": "xanthia-3",
     "name": "Xanthia",
@@ -1188,6 +1174,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "你是否觉得原版瘤液的用途,在矿渣池中焚毁,过于单一;如此富有生物活性的材料应该还有有别的用途:作为弹药,合成新材料,甚至是组建自己的生物军队...请尽情发挥你的想象.\n\n什么？你已经等不及了吗？那么就让我们开启这趟血淋淋的旅途吧"
+  },
+  {
+    "repo": "meepoffaith/black-holes-library",
+    "internalName": "black-hole-renderer",
+    "name": "Black Holes Library",
+    "version": "18",
+    "hidden": true,
+    "author": "MEEPofFaith",
+    "lastUpdated": "2026-09-28T03:59:45Z",
+    "stars": 21,
+    "minGameVersion": "155.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod for rendering black holes."
   },
   {
     "repo": "saigon0nozomi/nightscape",
@@ -1658,7 +1658,7 @@
     "version": "1.9.4",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-09-27T14:58:29Z",
+    "lastUpdated": "2026-09-28T03:41:22Z",
     "stars": 13,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -7154,6 +7154,20 @@
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
+    "repo": "rovstam/mindustry-tool-assisted-speedrun",
+    "internalName": "tool assisted speedrun (tas)",
+    "name": "Mindustry TAS",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Rovstam",
+    "lastUpdated": "2026-09-28T02:29:41Z",
+    "stars": 1,
+    "minGameVersion": "160.5",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod is for doing Tool Assisted Speedruns."
+  },
+  {
     "repo": "lorendoscsharp/tzarbimbajava",
     "internalName": "tzarbimbajava",
     "name": "tzarbimbajava",
@@ -8188,19 +8202,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
-  },
-  {
-    "repo": "rovstam/mindustry-tool-assisted-speedrun",
-    "internalName": "tool assisted speedrun (tas)",
-    "name": "Mindustry TAS",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Rovstam",
-    "lastUpdated": "2026-09-27T22:46:19Z",
-    "stars": 0,
-    "minGameVersion": "160.5",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod is for doing Tool Assisted Speedruns."
   }
 ]
