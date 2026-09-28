@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-09-26T04:52:22Z",
-    "stars": 240,
+    "stars": 241,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
@@ -175,7 +175,7 @@
     "hidden": false,
     "author": "stabu",
     "lastUpdated": "2026-09-24T21:31:28Z",
-    "stars": 141,
+    "stars": 140,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -216,7 +216,7 @@
     "version": "4.2.7",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-09-28T08:56:16Z",
+    "lastUpdated": "2026-09-28T12:43:24Z",
     "stars": 124,
     "minGameVersion": "160.5",
     "hasScripts": false,
@@ -308,20 +308,6 @@
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
   },
   {
-    "repo": "vvseangtvv/project-restoration",
-    "internalName": "restored-mind",
-    "name": "Project: Restoration",
-    "version": "0.4.0 Beta",
-    "hidden": false,
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2026-06-29T05:02:32Z",
-    "stars": 76,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
-  },
-  {
     "repo": "eb-wilson/toomanyitems",
     "internalName": "tmi",
     "name": "Too Many Items",
@@ -334,6 +320,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n\n---\n\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
+  },
+  {
+    "repo": "vvseangtvv/project-restoration",
+    "internalName": "restored-mind",
+    "name": "Project: Restoration",
+    "version": "0.4.0 Beta",
+    "hidden": false,
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2026-06-29T05:02:32Z",
+    "stars": 75,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
     "repo": "pointifix/autodrill",
@@ -1658,7 +1658,7 @@
     "version": "1.9.4",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-09-28T05:43:31Z",
+    "lastUpdated": "2026-09-28T17:04:03Z",
     "stars": 13,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -2484,7 +2484,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-09-28T06:03:37Z",
+    "lastUpdated": "2026-09-28T18:50:32Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2674,20 +2674,6 @@
     "description": " [accent]Admin Button 2[]  - A mod with lots of features for multiplayer and singleplayer games\n\n [accent]Control panel[]: Control panel with customizable buttons\n\n [accent]Chat enhancements[]: You can customize how your chat messages look so that you can stand out\n\n [accent]Wave viewer[]: Waves can be viewed while playing\n\n [accent]Image generator[]: Generating schematics with images has never been easier\n\n [accent]AutoFill[]: A very customizable way to automatically fill buildings with items\n\n [accent]Player controller[]: Automatically control your unit\n\n [accent]Turret range[]: Range of turrets can be viewed\n\n [accent]And more[]: Lots of other features"
   },
   {
-    "repo": "thepi14/tekton",
-    "internalName": "tekton",
-    "name": "Tekton",
-    "version": "v0.4.42",
-    "hidden": false,
-    "author": "ThePi14",
-    "lastUpdated": "2026-09-15T02:37:30Z",
-    "stars": 7,
-    "minGameVersion": "160.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, blocks, units, mechanics and hazards.\n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
-  },
-  {
     "repo": "ramazanduruev/darklife.",
     "internalName": "mo",
     "name": "DarkLife",
@@ -2756,6 +2742,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
+  },
+  {
+    "repo": "thepi14/tekton",
+    "internalName": "tekton",
+    "name": "Tekton",
+    "version": "v0.4.43",
+    "hidden": false,
+    "author": "ThePi14",
+    "lastUpdated": "2026-09-28T16:01:04Z",
+    "stars": 7,
+    "minGameVersion": "160.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, blocks, units, mechanics and hazards.\n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -3134,6 +3134,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[accent] [#FFD700]Unit Namer[white]  - Give Your Units Personality!\n\n[white]Transform your gameplay by giving every unit a unique, custom name that follows them across the battlefield. Perfect for organizing squads, tracking your favorites, or just having fun!\n\n[gray]Note still in beta so expect some bugs also don't click the reset default its bugged\n\n[accent] [#00D4FF]Features:\n[white] Tap any unit to open the rename menu\n[white] Custom names float elegantly above your units\n[white] Names persist as long as the unit lives\n[white] Simple one-tap interface - no complex commands\n\n[accent] [#FFD700]How to Use:\n[#BFBFBF] 1. Tap on any unit in the game\n[#BFBFBF] 2. Click \"Rename Unit\" in the popup\n[#BFBFBF] 3. Enter your custom name\n[#BFBFBF] 4. Watch your named unit in action!\n\n[accent] [#00D4FF]Pro Tips:\n[white] • Name your tank squadrons (Alpha, Bravo, Charlie)\n[white] • Track powerful units with special names\n[white] • Organize attack groups with themed names\n[white] • Have fun with personality names for your favorites!"
+  },
+  {
+    "repo": "salivion/extended-ui",
+    "internalName": "extended-ui",
+    "name": "Extended UI+",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "Simuss",
+    "lastUpdated": "2026-03-22T15:54:36Z",
+    "stars": 5,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extends your UI with useful features."
   },
   {
     "repo": "koctz34/minduntm",
@@ -3526,20 +3540,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Recreation of my first mod"
-  },
-  {
-    "repo": "salivion/extended-ui",
-    "internalName": "extended-ui",
-    "name": "Extended UI+",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "Simuss",
-    "lastUpdated": "2026-03-22T15:54:36Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extends your UI with useful features."
   },
   {
     "repo": "r99space99yt/apolotus",
@@ -4486,7 +4486,7 @@
     "version": "0.0.3",
     "hidden": false,
     "author": "[sky]114514[white]",
-    "lastUpdated": "2026-09-27T18:27:04Z",
+    "lastUpdated": "2026-09-28T13:03:51Z",
     "stars": 3,
     "minGameVersion": "151.1",
     "hasScripts": false,
@@ -7140,20 +7140,6 @@
     "description": "A planet shrouded in arcane mystery."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-09-27T15:16:37Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "rovstam/mindustry-tool-assisted-speedrun",
     "internalName": "tool assisted speedrun (tas)",
     "name": "Mindustry TAS",
@@ -7166,6 +7152,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod is for doing Tool Assisted Speedruns."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-09-28T15:52:19Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
