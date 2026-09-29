@@ -762,7 +762,7 @@
     "version": "v5 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n- 黒板消し (kokubankesei)\n",
-    "lastUpdated": "2026-09-29T14:40:29Z",
+    "lastUpdated": "2026-09-29T14:45:12Z",
     "stars": 34,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -7126,20 +7126,6 @@
     "description": "A planet shrouded in arcane mystery."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-09-28T15:52:19Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -7166,6 +7152,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod is for doing Tool Assisted Speedruns."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-09-29T16:09:57Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8207,14 +8207,14 @@
     "repo": "nikitos-f/signaturew",
     "internalName": "signaturew",
     "name": "Signature W",
-    "version": "0.0.0.1",
+    "version": "0.0.0.1.1",
     "hidden": false,
     "author": "Creen & -Arlekino-",
-    "lastUpdated": "2026-09-29T12:14:09Z",
+    "lastUpdated": "2026-09-29T20:16:05Z",
     "stars": 0,
-    "minGameVersion": "154",
+    "minGameVersion": "157.4",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Fuck yourself"
+    "description": "PvP oriented mod. (In distant future)"
   }
 ]
