@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-09-26T04:52:22Z",
-    "stars": 242,
+    "stars": 243,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
@@ -762,7 +762,7 @@
     "version": "v5 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n- 黒板消し (kokubankesei)\n",
-    "lastUpdated": "2026-09-30T09:14:03Z",
+    "lastUpdated": "2026-09-30T23:58:56Z",
     "stars": 34,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1294,7 +1294,7 @@
     "version": "5.5.0",
     "hidden": true,
     "author": "DeterMination-Wind",
-    "lastUpdated": "2026-09-30T17:24:36Z",
+    "lastUpdated": "2026-09-30T23:46:54Z",
     "stars": 18,
     "minGameVersion": "160.1",
     "hasScripts": false,
@@ -3752,20 +3752,6 @@
     "description": "\nAdds a new planet, Masatomo with a semi-Erekir like campaign.\n"
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Project Farstar (Cryon)",
-    "version": "24.0.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-09-29T00:59:48Z",
-    "stars": 4,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
-  },
-  {
     "repo": "youming66681/magic",
     "internalName": "magic",
     "name": "幻境/magical",
@@ -3792,6 +3778,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides new logic instructions and other tools for easier debugging in Mindustry Logic."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Project Farstar (Cryon)",
+    "version": "24.0.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-09-30T22:14:01Z",
+    "stars": 4,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -6104,20 +6104,6 @@
     "description": "Modification based on MSGO"
   },
   {
-    "repo": "nezerit6/defense-grid",
-    "internalName": "dg",
-    "name": "Defense Grid",
-    "version": "0.1.0",
-    "hidden": false,
-    "author": "Nezerit6",
-    "lastUpdated": "2026-01-14T12:15:04Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
-  },
-  {
     "repo": "error666real/mundusro-tanclet---mindustry-bundle-mod",
     "internalName": "muds",
     "name": "mundusro bundle",
@@ -7180,6 +7166,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Ring of Hell — a pack of 7 sectors maps"
+  },
+  {
+    "repo": "nezerit6/defense-grid",
+    "internalName": "dg",
+    "name": "Defense Grid",
+    "version": "0.1.0",
+    "hidden": false,
+    "author": "Nezerit6",
+    "lastUpdated": "2026-10-01T00:51:05Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
