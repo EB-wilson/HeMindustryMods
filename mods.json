@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v5.1.3-v8",
+    "version": "v5.1.5-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-10-01T16:53:22Z",
+    "lastUpdated": "2026-10-01T21:42:46Z",
     "stars": 243,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -118,7 +118,7 @@
     "version": "4.0.6",
     "hidden": false,
     "author": "RAdea.exe",
-    "lastUpdated": "2026-10-01T16:46:36Z",
+    "lastUpdated": "2026-10-01T16:55:09Z",
     "stars": 157,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -196,20 +196,6 @@
     "description": "UAW is a port and sequel to Heavy Armaments Industries, implementing new unique content to vanilla Mindustry, from more turrets, units, and crafters/factories.\n\nA lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
-    "repo": "twcash/aquarion",
-    "internalName": "aquarion",
-    "name": "Aquarion",
-    "version": "4.2.7",
-    "hidden": false,
-    "author": "twcash",
-    "lastUpdated": "2026-10-01T15:38:38Z",
-    "stars": 127,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A complete rewrite of the campaign. Currently in heavy development."
-  },
-  {
     "repo": "catana791/fading-revelations",
     "internalName": "me",
     "name": "Fading Revelations",
@@ -222,6 +208,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
+    "repo": "twcash/aquarion",
+    "internalName": "aquarion",
+    "name": "Aquarion",
+    "version": "4.2.7",
+    "hidden": false,
+    "author": "twcash",
+    "lastUpdated": "2026-10-01T21:55:35Z",
+    "stars": 126,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A complete rewrite of the campaign. Currently in heavy development."
   },
   {
     "repo": "liplum/cyberio",
@@ -356,7 +356,7 @@
     "version": "0.71",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-01T15:50:38Z",
+    "lastUpdated": "2026-10-01T17:24:25Z",
     "stars": 68,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -560,20 +560,6 @@
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
-    "repo": "uenhe/fire",
-    "internalName": "fire",
-    "name": "Fire",
-    "version": "1.5.9",
-    "hidden": false,
-    "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
-    "lastUpdated": "2026-09-15T09:05:56Z",
-    "stars": 46,
-    "minGameVersion": "160.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
-  },
-  {
     "repo": "sh1penfire/meld",
     "internalName": "meld",
     "name": "Meld",
@@ -586,6 +572,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
+  },
+  {
+    "repo": "uenhe/fire",
+    "internalName": "fire",
+    "name": "Fire",
+    "version": "1.5.10",
+    "hidden": false,
+    "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
+    "lastUpdated": "2026-10-01T19:15:54Z",
+    "stars": 46,
+    "minGameVersion": "160.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
   },
   {
     "repo": "xpdustry/claj",
@@ -2750,7 +2750,7 @@
     "version": "[red]1.0",
     "hidden": false,
     "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-10-01T09:25:06Z",
+    "lastUpdated": "2026-10-01T21:17:00Z",
     "stars": 7,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -4242,20 +4242,6 @@
     "description": "The sun is gone guys, what do we do?"
   },
   {
-    "repo": "momiji142857/ve-addon-momijiadd",
-    "internalName": "ve-addon-momiji",
-    "name": "VE Addon: MomijiAdd",
-    "version": "1.1",
-    "hidden": false,
-    "author": "[sky]Momiji142857[white]",
-    "lastUpdated": "2026-08-08T12:40:47Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-08-08[white]"
-  },
-  {
     "repo": "frilofril/omega",
     "internalName": "omega",
     "name": "Omega",
@@ -4492,6 +4478,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "momiji142857/ve-addon-momijiadd",
+    "internalName": "ve-addon-momiji",
+    "name": "VE Addon: MomijiAdd",
+    "version": "1.1",
+    "hidden": false,
+    "author": "[sky]Momiji142857[white]",
+    "lastUpdated": "2026-10-01T22:00:18Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add‑on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组在VE本体的基础上添加了一些实用的内容，可能会降低游戏难度或破坏平衡，建议对VE本体足够熟悉后再使用。\nThis mod adds some practical content on top of VE, which may reduce difficulty or affect game balance. It is recommended to be used after getting familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-08-08[white]"
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -4912,6 +4912,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": " A single JS script that makes game a lot harder. \n \n Thx Sputnic for optimization and the idea of changing statistics using js script \n \n This mod: \n 1. Makes all blocks cost 10 times more \n 2. Makes hp of blocks 10 times less \n 3. Makes itemCapacity in all Cores 10 times more (so you could place some blocks) \n 4. Makes buildCostMultiplier = 10 (so you can place blocks and not wait for eternity) \n 5. Idk makes early game a lil bit harder (drillTime of mechanicalDrill is *= 1.25)"
+  },
+  {
+    "repo": "westycj/jarate-mod",
+    "internalName": "jarate mod",
+    "name": "Jarate-Mod",
+    "version": "2.1",
+    "hidden": false,
+    "author": "[red]Westycj[]",
+    "lastUpdated": "2026-04-15T16:12:53Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A light mod with a funny name and a focus on extending Surge-alloy technology, adds a few unique turrets and production buildings with (what I think are) some interesting mechanics.\r\n\r\nMade for Serpulo, the mod has integration for/works well with blocks like the tsunami and wave, so try and find some usecases, turret combos, and whatnot.\r\n\r\nReports on bugs, balancing issues, or simply suggestions are very much welcome."
   },
   {
     "repo": "argon1321/simple-additions",
@@ -5460,20 +5474,6 @@
     "description": "世界は新たに創造され、我々は文明を再構築する"
   },
   {
-    "repo": "lamamega/attarax-modpack",
-    "internalName": "attarax mod-pack",
-    "name": "AttaraX Mod-Pack",
-    "version": "1.0",
-    "hidden": false,
-    "author": "AttaraX",
-    "lastUpdated": "2026-09-22T17:35:33Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry? Yes, but more!"
-  },
-  {
     "repo": "ggllfr/envalloc",
     "internalName": "env-alloc",
     "name": "Env Alloc",
@@ -5486,20 +5486,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Java mod library to add new Env flags."
-  },
-  {
-    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
-    "internalName": "erekir-lost-sectors",
-    "name": "Erekir: Unknown Hazards",
-    "version": "2.0",
-    "hidden": false,
-    "author": "Retro_Seek",
-    "lastUpdated": "2026-09-30T19:15:27Z",
-    "stars": 2,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New sectors to Erekir"
   },
   {
     "repo": "m1cxzfw3q/thermalengineering",
@@ -5528,6 +5514,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "致谢\n某个t3小飞机 - 核心蓝图\n白义F-061 - 战役地图 & 剧情 & 部分简介\n\n[red]请在游玩此MOD前开启双击采矿！\n[red]Please enable Double-Tap to Mine before playing this MOD!"
+  },
+  {
+    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
+    "internalName": "erekir-lost-sectors",
+    "name": "Erekir: Unknown Hazards",
+    "version": "2.0",
+    "hidden": false,
+    "author": "Retro_Seek",
+    "lastUpdated": "2026-10-01T19:12:34Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "New sectors to Erekir"
+  },
+  {
+    "repo": "lamamega/attarax-modpack",
+    "internalName": "attarax mod-pack",
+    "name": "AttaraX Mod-Pack",
+    "version": "1.0",
+    "hidden": false,
+    "author": "AttaraX",
+    "lastUpdated": "2026-10-01T20:05:36Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry? Yes, but more!"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -6284,20 +6298,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "当前版本:[V1.2.8-a]\n  所有内容均已得到授权\n  mi2的钍反(未启用)\n  内容来自:工业mod，tinport-fancy-resprites mod，矩形mod， Fables mod\n  v1.2.8-a:允许用户自行编译背景图功能紧急回退，无法解决技术性难题\n  github地址：https://github.com/yjysy2004/Texture-reset\n  鸣谢原材质的作者：xelo Neko-copper[铜]- tinport- 裙带菜-Fallen Dragon\n  "
-  },
-  {
-    "repo": "westycj/jarate-mod",
-    "internalName": "jarate mod",
-    "name": "Jarate-Mod",
-    "version": "2.1",
-    "hidden": false,
-    "author": "[red]Westycj[]",
-    "lastUpdated": "2026-04-15T16:12:53Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A light mod with a funny name and a focus on extending Surge-alloy technology, adds a few unique turrets and production buildings with (what I think are) some interesting mechanics.\r\n\r\nMade for Serpulo, the mod has integration for/works well with blocks like the tsunami and wave, so try and find some usecases, turret combos, and whatnot.\r\n\r\nReports on bugs, balancing issues, or simply suggestions are very much welcome."
   },
   {
     "repo": "hungrycloud4913/the-reformed-universes-project",
@@ -7188,12 +7188,26 @@
     "version": "0.1.0",
     "hidden": false,
     "author": "Nezerit6",
-    "lastUpdated": "2026-10-01T16:02:19Z",
+    "lastUpdated": "2026-10-01T18:05:50Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
     "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
+  },
+  {
+    "repo": "justtheblazinggear/advanceddifficulties",
+    "internalName": "advdiff",
+    "name": "Advanced Difficulties",
+    "version": "1.0",
+    "hidden": false,
+    "author": "[#ffb876]BlazingGear",
+    "lastUpdated": "2026-10-01T18:47:37Z",
+    "stars": 1,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that overhauls the difficulty selection mechanic with better visuals, more flexible and new unique settings.\n\nThanks to lu69159/MoreCustomSettings for the modifiers that persist for each planet and some other code."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
