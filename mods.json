@@ -356,7 +356,7 @@
     "version": "0.93",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-03T16:19:14Z",
+    "lastUpdated": "2026-10-04T05:43:35Z",
     "stars": 69,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -507,12 +507,12 @@
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
-    "version": "4",
+    "version": "5",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-10-03T05:41:36Z",
+    "lastUpdated": "2026-10-04T02:31:50Z",
     "stars": 50,
-    "minGameVersion": "159.7",
+    "minGameVersion": "160.5",
     "hasScripts": false,
     "hasJava": true,
     "description": "No nowhere has nothing anywhere."
@@ -762,7 +762,7 @@
     "version": "v5 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n- 黒板消し (kokubankesei)\n",
-    "lastUpdated": "2026-10-03T15:39:50Z",
+    "lastUpdated": "2026-10-04T06:02:32Z",
     "stars": 34,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1246,20 +1246,6 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "version": "1.5.2",
-    "hidden": true,
-    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-09-30T17:19:05Z",
-    "stars": 19,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
-  },
-  {
     "repo": "determination-wind/logicsugar",
     "internalName": "logicsugar",
     "name": "Logic Sugar",
@@ -1272,6 +1258,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
+  },
+  {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "version": "1.5.2",
+    "hidden": true,
+    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
+    "lastUpdated": "2026-10-04T01:37:46Z",
+    "stars": 19,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
     "repo": "guiymou/mindustry-lotterymod",
@@ -1812,7 +1812,7 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-03T11:12:25Z",
+    "lastUpdated": "2026-10-04T04:03:29Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -7196,20 +7196,6 @@
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
-    "repo": "b-919/water-reflections",
-    "internalName": "b919-waterreflection",
-    "name": "Water Reflections Mod",
-    "version": "1.1.0",
-    "hidden": true,
-    "author": "B919",
-    "lastUpdated": "2026-10-02T15:44:23Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Water Reflection shader all water surfaces now have reflections. Fully Configurable compatible with Android and PC."
-  },
-  {
     "repo": "j-n-ix/mindustryspidermodtemplate",
     "internalName": "spooder-template",
     "name": "spider template",
@@ -7224,20 +7210,6 @@
     "description": "mod assist, free to distribute or use"
   },
   {
-    "repo": "nezerit6/defense-grid",
-    "internalName": "dg",
-    "name": "Defense Grid",
-    "version": "0.1.0",
-    "hidden": false,
-    "author": "Nezerit6",
-    "lastUpdated": "2026-10-03T17:27:12Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
-  },
-  {
     "repo": "mullibenmolly/starshineplan",
     "internalName": "xx-mod",
     "name": "StarshinePlan",
@@ -7250,6 +7222,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了就别怪我啦。\n若是mod本身存在问题，请及时反馈给我，我会非常感谢你的！虽然没什么奖励就是了。\n没有华丽的制作团队，只有作者一人的挣扎..."
+  },
+  {
+    "repo": "b-919/water-reflections",
+    "internalName": "b919-waterreflection",
+    "name": "Water Reflections Mod",
+    "version": "2.1.1",
+    "hidden": true,
+    "author": "B919",
+    "lastUpdated": "2026-10-04T02:23:17Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Water Reflection shader all water surfaces now have reflections. Fully Configurable compatible with Android and PC."
+  },
+  {
+    "repo": "nezerit6/defense-grid",
+    "internalName": "dg",
+    "name": "Defense Grid",
+    "version": "0.1.0",
+    "hidden": false,
+    "author": "Nezerit6",
+    "lastUpdated": "2026-10-04T07:41:00Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
