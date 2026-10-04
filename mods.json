@@ -301,7 +301,7 @@
     "hidden": false,
     "author": "滞人",
     "lastUpdated": "2026-06-13T12:08:06Z",
-    "stars": 90,
+    "stars": 89,
     "minGameVersion": "158",
     "hasScripts": true,
     "hasJava": false,
@@ -2750,7 +2750,7 @@
     "version": "[red]1.0",
     "hidden": false,
     "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-10-03T20:38:35Z",
+    "lastUpdated": "2026-10-03T20:59:08Z",
     "stars": 7,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -3318,6 +3318,20 @@
     "description": "This mod replaces vanilla sprites with modified versions."
   },
   {
+    "repo": "justtheblazinggear/advanceddifficulties",
+    "internalName": "advdiff",
+    "name": "Advanced Difficulties",
+    "version": "1.0",
+    "hidden": false,
+    "author": "[#ffb876]BlazingGear",
+    "lastUpdated": "2026-10-01T18:47:37Z",
+    "stars": 5,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that overhauls the difficulty selection mechanic with better visuals, more flexible and new unique settings.\n\nThanks to lu69159/MoreCustomSettings for the modifiers that persist for each planet and some other code."
+  },
+  {
     "repo": "koctz34/canvases",
     "internalName": "canvases-2",
     "name": "Canvases V2",
@@ -3766,34 +3780,6 @@
     "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730\n服务器:103.40.14.91:42275\n备用:114.66.28.186:45689"
   },
   {
-    "repo": "justtheblazinggear/advanceddifficulties",
-    "internalName": "advdiff",
-    "name": "Advanced Difficulties",
-    "version": "1.0",
-    "hidden": false,
-    "author": "[#ffb876]BlazingGear",
-    "lastUpdated": "2026-10-01T18:47:37Z",
-    "stars": 4,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that overhauls the difficulty selection mechanic with better visuals, more flexible and new unique settings.\n\nThanks to lu69159/MoreCustomSettings for the modifiers that persist for each planet and some other code."
-  },
-  {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Project Farstar (Cryon)",
-    "version": "24.1.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-10-02T00:28:03Z",
-    "stars": 4,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
-  },
-  {
     "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
     "internalName": "erekir-lost-sectors",
     "name": "Erekir: Unknown Hazards",
@@ -3820,6 +3806,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod aims to make debugging in Mindustry Logic a bit easier:[lightgray]\n\nEnhanced [accent]Vars[] screen: showing numeric values in full precision and color values, sorting variables by name, copying variables and the text buffer contents to the clipboard.\n\n[accent]Memory[] screen for inspecting contents of memory blocks, using the same interface as the [accent]Vars[] screen. Includes a command to clear (reset) the contents of memory blocks.\n\nSettings for overriding instruction limit, by up to 1000 instructions. This allows you to insert debugging code (e.g., additional [accent]print[] or [accent]assert[] instructions) into your code, even if the original instruction limit is exceeded.\n\n[accent]Snapshots[] allow saving, reviewing and restoring the state of logic processors, memory blocks and all other blocks on the map. A snapshot can be created manually or using a [accent]snapshot[] instruction. A limited number of snapshots is kept for each block, allowing to review the exact block state at the time the smapshot has been created.\n\nA [accent]profiler[] for gathering statistics about individual processor instructions execution.\n\nCustom mlog instructions for performing runtime checks, logging messages, reporting errors, triggering a bbreakpoint, taking snaphots and managing profiling.\n\nVisual indication of stopped processors, processors executing a [accent]wait[] instruction, and failed runtime checks, directly on the map.\n\n[white]Using this mod on maps with lots of processors may impact the game's performance.[]\n\nSee the [accent]README.md[] file in the mod's GitHub repository for more information."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Project Farstar (Cryon)",
+    "version": "24.1.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-10-04T00:19:48Z",
+    "stars": 4,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -7210,20 +7210,6 @@
     "description": "Water Reflection shader all water surfaces now have reflections. Fully Configurable compatible with Android and PC."
   },
   {
-    "repo": "mullibenmolly/starshineplan",
-    "internalName": "xx-mod",
-    "name": "StarshinePlan",
-    "version": "0.0.3_v159.3",
-    "hidden": false,
-    "author": "molo\nmullibenMolly",
-    "lastUpdated": "2026-10-03T13:39:06Z",
-    "stars": 1,
-    "minGameVersion": "159.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了就别怪我啦。\n若是mod本身存在问题，请及时反馈给我，我会非常感谢你的！虽然没什么奖励就是了。\n没有华丽的制作团队，只有作者一人的挣扎..."
-  },
-  {
     "repo": "j-n-ix/mindustryspidermodtemplate",
     "internalName": "spooder-template",
     "name": "spider template",
@@ -7250,6 +7236,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A focused turret expansion for vanilla Mindustry. Designed around clean progression and minimal redundancy."
+  },
+  {
+    "repo": "mullibenmolly/starshineplan",
+    "internalName": "xx-mod",
+    "name": "StarshinePlan",
+    "version": "0.0.3_v159.3",
+    "hidden": false,
+    "author": "molo\nmullibenMolly",
+    "lastUpdated": "2026-10-04T00:10:02Z",
+    "stars": 1,
+    "minGameVersion": "159.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了就别怪我啦。\n若是mod本身存在问题，请及时反馈给我，我会非常感谢你的！虽然没什么奖励就是了。\n没有华丽的制作团队，只有作者一人的挣扎..."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8333,10 +8333,10 @@
     "repo": "jovinull/factoryscope",
     "internalName": "factory-scope",
     "name": "FactoryScope",
-    "version": "0.6.0",
+    "version": "0.7.0",
     "hidden": true,
     "author": "Jovinull",
-    "lastUpdated": "2026-10-03T19:12:40Z",
+    "lastUpdated": "2026-10-04T00:21:13Z",
     "stars": 0,
     "minGameVersion": "160",
     "hasScripts": false,
