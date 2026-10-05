@@ -59,10 +59,10 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v5.2.3-v8",
+    "version": "v5.2.5-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-10-04T16:09:02Z",
+    "lastUpdated": "2026-10-05T05:07:17Z",
     "stars": 243,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -496,7 +496,7 @@
     "version": "0.32",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-10-04T15:54:26Z",
+    "lastUpdated": "2026-10-05T05:48:00Z",
     "stars": 51,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -762,7 +762,7 @@
     "version": "v5 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n- 黒板消し (kokubankesei)\n",
-    "lastUpdated": "2026-10-04T16:04:28Z",
+    "lastUpdated": "2026-10-05T05:07:02Z",
     "stars": 34,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1204,20 +1204,6 @@
     "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "1.1.159.7",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-08-11T14:40:31Z",
-    "stars": 20,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
-  },
-  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -1230,6 +1216,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
+  },
+  {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "1.5.159.7",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-10-05T07:45:36Z",
+    "stars": 20,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
   },
   {
     "repo": "sporrus/randommindustry",
@@ -3794,20 +3794,6 @@
     "description": "New sectors to Erekir"
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Project Farstar (Cryon)",
-    "version": "24.1.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-10-04T00:19:48Z",
-    "stars": 4,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
-  },
-  {
     "repo": "cardillan/mlogassertions",
     "internalName": "mlog-assertions-8",
     "name": "Mlog Dev Tools",
@@ -3820,6 +3806,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod aims to make debugging in Mindustry Logic a bit easier:[lightgray]\n\nEnhanced [accent]Vars[] screen: showing numeric values in full precision and color values, sorting variables by name, copying variables and the text buffer contents to the clipboard.\n\n[accent]Memory[] screen for inspecting contents of memory blocks, using the same interface as the [accent]Vars[] screen. Includes a command to clear (reset) the contents of memory blocks.\n\nSettings for overriding instruction limit, by up to 1000 instructions. This allows you to insert debugging code (e.g., additional [accent]print[] or [accent]assert[] instructions) into your code, even if the original instruction limit is exceeded.\n\n[accent]Snapshots[] allow saving, reviewing and restoring the state of logic processors, memory blocks and all other blocks on the map. A snapshot can be created manually or using a [accent]snapshot[] instruction. A limited number of snapshots is kept for each block, allowing to review the exact block state at the time the smapshot has been created.\n\nA [accent]profiler[] for gathering statistics about individual processor instructions execution.\n\nCustom mlog instructions for performing runtime checks, logging messages, reporting errors, triggering a bbreakpoint, taking snaphots and managing profiling.\n\nVisual indication of stopped processors, processors executing a [accent]wait[] instruction, and failed runtime checks, directly on the map.\n\n[white]Using this mod on maps with lots of processors may impact the game's performance.[]\n\nSee the [accent]README.md[] file in the mod's GitHub repository for more information."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Project Farstar (Cryon)",
+    "version": "24.3.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-10-05T03:20:58Z",
+    "stars": 4,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -5152,20 +5152,6 @@
     "description": "该模组仍在开发中,可能有大量致命bug,请小心在战役中使用.\n项目规划:\n在原版的基础上拓展和延伸,并计划添加许多工厂、物品、单位、以及全新的战役与机制!\n\n=====\n更新日志：\n\nbeta-v0.6-f13752\n1.修复大量已知bug\n2.添加大量建筑\n3.为大量建筑绘制贴图并计划后续重制部分贴图\n|\n\n_beta-0.5.1：\n1.添加一些建筑\n2.更新大量贴图\n3.修复大量已知bug\n|\n\n_beta-0.5.1：\n1.本次更新了6种核心以及对应的核心机(贴图未制作)\n2.新增一些工厂以及为部分建筑绘制贴图\n|\n\n_beta-0.4.8：\n修复大量BUG(也不知道修上了没)\n|\n\n_beta-0.4：\n1.修复科技树关联错误的bug\n2.修复了研究钛合金冶炼炉需要先研究电磁线圈塑型机，但研究电磁线圈塑型机需要先研究钛合金的bug，因为这意味着你无法得到钛合金，但是没有钛合金就无法研究电磁线圈塑型机，没有电磁线圈塑型机就无法研究钛合金冶炼炉\n3.为大量物品和建筑添加大量贴图，在此感谢冰晶为本模组绘制的钛合金冶炼炉。部分物品配色由ai提供建议\n|\n\n_beta-0.3：\n1.完善科技树\n2.添加少许工厂\n|\n\n_beta-0.2：\n添加大量物品与大量工厂建筑\n|\n\n_beta-0.1：\n项目正式成立，添加了mod.json以及2种物品"
   },
   {
-    "repo": "wynej/map-collection",
-    "internalName": "map-collection",
-    "name": "Map Collection",
-    "version": "b0.2",
-    "hidden": true,
-    "author": "Wine",
-    "lastUpdated": "2026-08-03T11:39:56Z",
-    "stars": 2,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Simple json mod containing many high quality mindustry maps. Currently in beta with [stat]43 maps[]. All maps are vanilla compatible.\n\n[stat]Thanks to all the map creators who let me include their maps here!\n\n[grey]b0.2 Changelog:\n Added:\n Cryoriver by Comi\n Summit by uio\n Tidal Cove by Wine"
-  },
-  {
     "repo": "itsxeroc/scheme-size",
     "internalName": "scheme-size",
     "name": "!Scheme Size",
@@ -5556,6 +5542,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Red Alert 2 battlefield announcer with the original Sophia (Zofia) voice: waves, base alerts, rally and core-threat detection, manual control marking, unit/building loss reports with callout names, production and high-value target alerts, plus a right-side event feed. 红警2索菲亚语音战场播报:波次/基地警报、敌方集结与核心威胁、单控标点、带具体类别的损失与生产播报、右侧事件卡片。"
+  },
+  {
+    "repo": "wynej/map-collection",
+    "internalName": "map-collection",
+    "name": "Map Collection",
+    "version": "b0.3",
+    "hidden": true,
+    "author": "Wine",
+    "lastUpdated": "2026-10-05T07:26:27Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Simple json mod containing many high quality mindustry maps. Currently in beta with [stat]48 maps[]. All maps are vanilla compatible.\n\n[stat]Thanks to all the map creators who let me include their maps here!\n\n[grey]b0.3 Changelog:\n Added:\n 'Arkyic Grove' & 'Blast' by Comi\n 'Desolate Plateau' by uio\n 'Moss Ironworks' & 'Vines' by ncLr"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7098,20 +7098,6 @@
     "description": "A planet shrouded in arcane mystery."
   },
   {
-    "repo": "rovstam/mindustry-tool-assisted-speedrun",
-    "internalName": "tool assisted speedrun (tas)",
-    "name": "Mindustry TAS",
-    "version": "1.1.01",
-    "hidden": false,
-    "author": "Rovstam",
-    "lastUpdated": "2026-09-29T03:38:27Z",
-    "stars": 1,
-    "minGameVersion": "160.5",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod is for doing Tool Assisted Speedruns."
-  },
-  {
     "repo": "rqddqwq/darksteel",
     "internalName": "玄钢重工",
     "name": "玄钢重工",
@@ -7196,20 +7182,6 @@
     "description": "mod assist, free to distribute or use"
   },
   {
-    "repo": "mullibenmolly/starshineplan",
-    "internalName": "xx-mod",
-    "name": "StarshinePlan",
-    "version": "0.0.3_v159.3",
-    "hidden": false,
-    "author": "molo\nmullibenMolly",
-    "lastUpdated": "2026-10-04T00:10:02Z",
-    "stars": 1,
-    "minGameVersion": "159.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了就别怪我啦。\n若是mod本身存在问题，请及时反馈给我，我会非常感谢你的！虽然没什么奖励就是了。\n没有华丽的制作团队，只有作者一人的挣扎..."
-  },
-  {
     "repo": "b-919/water-reflections",
     "internalName": "b919-waterreflection",
     "name": "Water Reflections Mod",
@@ -7222,6 +7194,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Water Reflection shader all water surfaces now have reflections. Fully Configurable compatible with Android and PC."
+  },
+  {
+    "repo": "rovstam/mindustry-tool-assisted-speedrun",
+    "internalName": "tool assisted speedrun (tas)",
+    "name": "Mindustry TAS",
+    "version": "1.1.01",
+    "hidden": false,
+    "author": "Rovstam",
+    "lastUpdated": "2026-10-05T04:29:46Z",
+    "stars": 1,
+    "minGameVersion": "160.5",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod is for doing Tool Assisted Speedruns."
+  },
+  {
+    "repo": "mullibenmolly/starshineplan",
+    "internalName": "xx-mod",
+    "name": "StarshinePlan",
+    "version": "0.0.3_v160.5",
+    "hidden": false,
+    "author": "molo\nmullibenMolly",
+    "lastUpdated": "2026-10-05T05:31:26Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了就别怪我啦。\n若是mod本身存在问题，请及时反馈给我，我会非常感谢你的！虽然没什么奖励就是了。\n没有华丽的制作团队，只有作者一人的挣扎..."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -7544,20 +7544,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "联机mod，支持自定义frpc，目前仅支持Android aarch64(项目正在重构，暂时不支持Windows amd64)"
-  },
-  {
-    "repo": "forgestove/reforge",
-    "internalName": "reforge",
-    "name": "ReForge",
-    "version": "1.0.3",
-    "hidden": true,
-    "author": "ForgeStove",
-    "lastUpdated": "2025-08-21T17:20:02Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that reforged abilities."
   },
   {
     "repo": "nekit508/mindustry-extended-keybinds",
@@ -8308,7 +8294,7 @@
     "version": "1.0.1",
     "hidden": true,
     "author": "Jovinull",
-    "lastUpdated": "2026-10-04T23:58:50Z",
+    "lastUpdated": "2026-10-05T03:38:31Z",
     "stars": 0,
     "minGameVersion": "160",
     "hasScripts": false,
