@@ -1238,7 +1238,7 @@
     "version": "1.5.159.7",
     "hidden": true,
     "author": "Arksource",
-    "lastUpdated": "2026-10-05T09:26:35Z",
+    "lastUpdated": "2026-10-06T01:03:39Z",
     "stars": 20,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -1792,20 +1792,6 @@
     "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "version": "0.3.6",
-    "hidden": false,
-    "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-05T09:38:23Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
     "repo": "novanox4/meridium",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1818,6 +1804,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "version": "0.3.6",
+    "hidden": false,
+    "author": "Slashkig, IAmRustee, VoidThreader",
+    "lastUpdated": "2026-10-06T00:07:30Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "slotterleet/a-lot-of-damage",
@@ -4542,7 +4542,7 @@
     "version": "0.1",
     "hidden": false,
     "author": "Akilis81",
-    "lastUpdated": "2026-10-05T14:36:54Z",
+    "lastUpdated": "2026-10-05T23:11:06Z",
     "stars": 3,
     "minGameVersion": "154.1",
     "hasScripts": false,
@@ -7196,20 +7196,6 @@
     "description": "Water Reflection shader all water surfaces now have reflections. Fully Configurable compatible with Android and PC."
   },
   {
-    "repo": "rovstam/mindustry-tool-assisted-speedrun",
-    "internalName": "tool assisted speedrun (tas)",
-    "name": "Mindustry TAS",
-    "version": "1.1.01",
-    "hidden": false,
-    "author": "Rovstam",
-    "lastUpdated": "2026-10-05T04:29:46Z",
-    "stars": 1,
-    "minGameVersion": "160.5",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod is for doing Tool Assisted Speedruns."
-  },
-  {
     "repo": "mullibenmolly/starshineplan",
     "internalName": "xx-mod",
     "name": "StarshinePlan",
@@ -7250,6 +7236,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "rovstam/mindustry-tool-assisted-speedrun",
+    "internalName": "tool assisted speedrun (tas)",
+    "name": "Mindustry TAS",
+    "version": "1.1.01",
+    "hidden": false,
+    "author": "Rovstam",
+    "lastUpdated": "2026-10-06T00:08:04Z",
+    "stars": 1,
+    "minGameVersion": "160.5",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod is for doing Tool Assisted Speedruns."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8291,10 +8291,10 @@
     "repo": "jovinull/factoryscope",
     "internalName": "factory-scope",
     "name": "FactoryScope",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "hidden": true,
     "author": "Jovinull",
-    "lastUpdated": "2026-10-05T17:50:50Z",
+    "lastUpdated": "2026-10-05T21:41:08Z",
     "stars": 0,
     "minGameVersion": "160",
     "hasScripts": false,
