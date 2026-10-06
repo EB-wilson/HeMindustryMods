@@ -174,7 +174,7 @@
     "version": "0.1.2A Indev 8",
     "hidden": false,
     "author": "stabu",
-    "lastUpdated": "2026-09-29T08:46:13Z",
+    "lastUpdated": "2026-10-06T19:58:37Z",
     "stars": 141,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -216,7 +216,7 @@
     "version": "4.2.9",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-04T21:27:10Z",
+    "lastUpdated": "2026-10-06T19:53:31Z",
     "stars": 126,
     "minGameVersion": "160.5",
     "hasScripts": false,
@@ -490,6 +490,20 @@
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "5",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-10-04T02:31:50Z",
+    "stars": 51,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
+  },
+  {
     "repo": "deercarbonate/azimuth",
     "internalName": "azimut",
     "name": "Azimut",
@@ -502,20 +516,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A hybrid mod primarily built around Erekir and its linear progression system. The mod introduces new gameplay mechanics that are tightly integrated into the campaign and accompany you throughout the entire playthrough.\nThe mod also has a Discord server — you can find the link in the README file on the GitHub page.\n\nTHIS MOD IS STILL IN DEVELOPMENT!\nAt the moment, development is approximately 47% complete and features 9 fully polished sectors.\n\n////////////////////////////////\n\nLand on a subcryogenic terra, gradually warming under its star, known as Gelion.\nYour objective is to eliminate enemy forces on the planet, secure rare resources, and continue your expansion across the galaxy.\n\nLimited space and complex logistics present a serious challenge. Plan your production wisely!\n\nIf you enjoy the mod, consider giving it a star! >~<\nThanks for playing!\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
-  },
-  {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "5",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-10-04T02:31:50Z",
-    "stars": 50,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "flintyx/animalia",
@@ -616,6 +616,20 @@
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends."
   },
   {
+    "repo": "eb-wilson/universecore",
+    "internalName": "universe-core",
+    "name": "Universe Core",
+    "version": "2.3.1",
+    "hidden": false,
+    "author": "EBwilson",
+    "lastUpdated": "2025-04-26T08:19:53Z",
+    "stars": 42,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
     "repo": "electricgun/cheat-codes-mod",
     "internalName": "cheat-codes",
     "name": "Cheat Codes Mod",
@@ -636,26 +650,12 @@
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-10-06T16:09:45Z",
+    "lastUpdated": "2026-10-06T16:35:15Z",
     "stars": 42,
     "minGameVersion": "159.2",
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.6.0\n\n## Highlight\n1. Support Mindustry 159.2\n2. feat(capture_exceptions): Hook exceptions and print (Desktop Only)\n3. Optimize flame graph performance.\n4. Fix some bugs:\n- Improve the security check logic for application class loader settings in Tester.\n- Add text boundary safety checks to TextAreaTab to prevent array out-of-bounds errors.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
-  },
-  {
-    "repo": "eb-wilson/universecore",
-    "internalName": "universe-core",
-    "name": "Universe Core",
-    "version": "2.3.1",
-    "hidden": false,
-    "author": "EBwilson",
-    "lastUpdated": "2025-04-26T08:19:53Z",
-    "stars": 41,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "oleglysukhin/cheat",
@@ -2254,20 +2254,6 @@
     "description": "Improves your experience on the official Corium  Flood server."
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "version": "0.6.5",
-    "hidden": false,
-    "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-10-04T18:27:50Z",
-    "stars": 9,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
-  },
-  {
     "repo": "dsfdsfwxp/savemaster",
     "internalName": "savemaster",
     "name": "SaveMaster",
@@ -2280,6 +2266,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A plugin mod for Mindustry that gives you more control over your saves: back up and restore a whole save (maps, schematics and progress settings included), edit the maps inside a save or a backup without leaving the game, keep several independent players on one device, and sync a save between devices with a cloud save server you host yourself. It adds no game content and does not affect net multiplayer. More details in the GitHub repo."
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "version": "0.6.5",
+    "hidden": false,
+    "author": "Watermolecules and Hydroabyss",
+    "lastUpdated": "2026-10-06T17:33:24Z",
+    "stars": 9,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
     "repo": "p101q/snowdustry",
@@ -3836,20 +3836,6 @@
     "description": "ERA.Dark QQ:526675268"
   },
   {
-    "repo": "cardillan/mlogassertions",
-    "internalName": "mlog-assertions-8",
-    "name": "Mlog Dev Tools",
-    "version": "0.11.4",
-    "hidden": true,
-    "author": "cardillan",
-    "lastUpdated": "2026-10-05T18:41:03Z",
-    "stars": 4,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod aims to make debugging in Mindustry Logic a bit easier:[lightgray]\n\nEnhanced [accent]Vars[] screen: showing numeric values in full precision and color values, sorting variables by name, copying variables and the text buffer contents to the clipboard.\n\n[accent]Memory[] screen for inspecting contents of memory blocks, using the same interface as the [accent]Vars[] screen. Includes a command to clear (reset) the contents of memory blocks.\n\nSettings for overriding instruction limit, by up to 1000 instructions. This allows you to insert debugging code (e.g., additional [accent]print[] or [accent]assert[] instructions) into your code, even if the original instruction limit is exceeded.\n\n[accent]Snapshots[] allow saving, reviewing and restoring the state of logic processors, memory blocks and all other blocks on the map. A snapshot can be created manually or using a [accent]snapshot[] instruction. A limited number of snapshots is kept for each block, allowing to review the exact block state at the time the smapshot has been created.\n\nA [accent]profiler[] for gathering statistics about individual processor instructions execution.\n\nCustom mlog instructions for performing runtime checks, logging messages, reporting errors, triggering a bbreakpoint, taking snaphots and managing profiling.\n\nVisual indication of stopped processors, processors executing a [accent]wait[] instruction, and failed runtime checks, directly on the map.\n\n[white]Using this mod on maps with lots of processors may impact the game's performance.[]\n\nSee the [accent]README.md[] file in the mod's GitHub repository for more information."
-  },
-  {
     "repo": "bowen-h0/mindustry-mod-cryon",
     "internalName": "cryon",
     "name": "Project Farstar (Cryon)",
@@ -3862,6 +3848,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
+  },
+  {
+    "repo": "cardillan/mlogassertions",
+    "internalName": "mlog-assertions-8",
+    "name": "Mlog Dev Tools",
+    "version": "0.11.5",
+    "hidden": true,
+    "author": "cardillan",
+    "lastUpdated": "2026-10-06T18:17:37Z",
+    "stars": 4,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod aims to make debugging in Mindustry Logic a bit easier:[lightgray]\n\nEnhanced [accent]Vars[] screen: showing numeric values in full precision and color values, sorting variables by name, copying variables and the text buffer contents to the clipboard.\n\n[accent]Memory[] screen for inspecting contents of memory blocks, using the same interface as the [accent]Vars[] screen. Includes a command to clear (reset) the contents of memory blocks.\n\nSettings for overriding instruction limit, by up to 1000 instructions. This allows you to insert debugging code (e.g., additional [accent]print[] or [accent]assert[] instructions) into your code, even if the original instruction limit is exceeded.\n\n[accent]Snapshots[] allow saving, reviewing and restoring the state of logic processors, memory blocks and all other blocks on the map. A snapshot can be created manually or using a [accent]snapshot[] instruction. A limited number of snapshots is kept for each block, allowing to review the exact block state at the time the smapshot has been created.\n\nA [accent]profiler[] for gathering statistics about individual processor instructions execution.\n\nCustom mlog instructions for performing runtime checks, logging messages, reporting errors, triggering a bbreakpoint, taking snaphots and managing profiling.\n\nVisual indication of stopped processors, processors executing a [accent]wait[] instruction, and failed runtime checks, directly on the map.\n\n[white]Using this mod on maps with lots of processors may impact the game's performance.[]\n\nSee the [accent]README.md[] file in the mod's GitHub repository for more information."
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -7244,7 +7244,7 @@
     "version": "3.1.0",
     "hidden": true,
     "author": "Dark_Matter",
-    "lastUpdated": "2026-10-06T12:11:23Z",
+    "lastUpdated": "2026-10-06T19:40:18Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": true,
