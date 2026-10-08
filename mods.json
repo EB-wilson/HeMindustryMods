@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-10-05T05:07:17Z",
-    "stars": 244,
+    "stars": 245,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
@@ -216,7 +216,7 @@
     "version": "4.2.9",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-07T13:47:00Z",
+    "lastUpdated": "2026-10-07T22:04:14Z",
     "stars": 127,
     "minGameVersion": "160.5",
     "hasScripts": false,
@@ -357,7 +357,7 @@
     "hidden": false,
     "author": "TnmSpiroct",
     "lastUpdated": "2026-10-04T05:43:35Z",
-    "stars": 69,
+    "stars": 70,
     "minGameVersion": "160",
     "hasScripts": true,
     "hasJava": false,
@@ -1106,6 +1106,20 @@
     "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
   },
   {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "1.6.2.160.5",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-10-06T04:24:44Z",
+    "stars": 22,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
+  },
+  {
     "repo": "jirocab/nyfalis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1230,20 +1244,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
-  },
-  {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "1.6.2.160.5",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-10-06T04:24:44Z",
-    "stars": 20,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
   },
   {
     "repo": "jojofr1/multicrafter",
@@ -7252,20 +7252,6 @@
     "description": "Quick bar + tabbed menu: help builders, build planner, auto mine (incl. wall ores), heal at repair point, speed boost, anti-grief with rebuild, overlays, mod-user detection."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.3.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-10-07T11:34:54Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
@@ -7278,6 +7264,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.3.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-10-07T21:41:33Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
