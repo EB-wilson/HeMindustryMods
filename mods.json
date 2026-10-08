@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-10-07T13:13:59Z",
-    "stars": 634,
+    "stars": 635,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -59,12 +59,12 @@
     "repo": "mindustrytool/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
-    "version": "v5.2.5-v8",
+    "version": "v5.2.6-v8",
     "hidden": true,
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-10-05T05:07:17Z",
+    "lastUpdated": "2026-10-08T05:36:06Z",
     "stars": 245,
-    "minGameVersion": "160",
+    "minGameVersion": "160.7",
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent] [#FFF000]Mindustry Tool  [white]- The Ultimate Utility for Every Player[]\n\n[white]Mindustry Tool is a feature-rich mod that integrates with [#88C6ED]mindustry-tool.com[white], enhancing your gameplay with community content, advanced automation, and powerful visual analysis tools.\n\n\n[accent] [#88C6ED]Content Browser:[]\n[white] Access a curated repository of [#394BA0]Maps [white]and [#D54799]Schematics [white]directly in-game.\n[white] Filter by size, mode, planet, and version to find exactly what you need.\n\n[accent] [#FFF000]Automation (Autoplay):[]\n[white] Smart task management for building support, repairing, and automated mining.\n[white] Dynamic AI control that takes over your unit to optimize efficiency.\n\n[accent] [#FAA31B]Enhanced Communication:[]\n[white] [#88C6ED]Global Chat:[white] Connect with other mod users across all servers.\n[white] [#82C341]Real-time Translation:[white] Translate chat messages instantly using Gemini or DeepL.\n\n[accent] [#EF4444]Visualizers & HUD:[]\n[white] Customizable health bars, enemy pathfinding prediction, and range indicators.\n[white] Enhanced resource tracking and HUD elements for better situational awareness.\n\n[accent] [#009F75]Multiplayer & Networking:[]\n[white] [#009F75]Player Connect:[white] Easily create or join private rooms with friends.\n[white] Optimized connections with built-in latency monitoring for hosts.\n\n[accent] [#82C341]Quality of Life:[]\n[white] [#82C341]Smart Upgrade:[white] Instantly upgrade entire distribution chains with one tap.\n[white] [#FAA31B]God Mode:[white] Powerful suite for sandbox testing and server administration.\n\n[accent] [#FFF000]Community Credits[]:\n[#88C6ED] Design-it Community:  \n[#394BA0]  Discord: [white]discord.gg/SYVkWPhmXY  \n[#394BA0]  GitHub: [white]MindustryDesignIt\n\n[#82C341] Mindustry Top Community:  \n[#88C6ED]  Website: [white]www.mindustry.top  \n[#009F75]  Email: [white]me@wayzer.top\n\n[accent] [#FFF000]Useful Links[]:\n[#88C6ED]  Website: [white]mindustry-tool.com[]\n[#394BA0]  Discord: [white]discord.gg/nQDrEHVkrt[]"
@@ -280,20 +280,6 @@
     "description": "[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
-    "repo": "meepoffaith/prog-mats-java",
-    "internalName": "",
-    "name": "Meepscellaneous Concepts",
-    "version": "30.6",
-    "hidden": false,
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
-    "lastUpdated": "2026-06-22T23:13:09Z",
-    "stars": 91,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN."
-  },
-  {
     "repo": "abomb4/super-cheat",
     "internalName": "invincible cheat mod v8",
     "name": "(v8) Invincible Cheat 无敌作弊",
@@ -306,6 +292,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
+  },
+  {
+    "repo": "meepoffaith/prog-mats-java",
+    "internalName": "",
+    "name": "Meepscellaneous Concepts",
+    "version": "30.6",
+    "hidden": false,
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
+    "lastUpdated": "2026-06-22T23:13:09Z",
+    "stars": 90,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN."
   },
   {
     "repo": "eb-wilson/toomanyitems",
@@ -356,7 +356,7 @@
     "version": "0.93",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-04T05:43:35Z",
+    "lastUpdated": "2026-10-08T07:22:43Z",
     "stars": 70,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -728,6 +728,20 @@
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v5 - Gier",
+    "hidden": false,
+    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n- 黒板消し (kokubankesei)\n",
+    "lastUpdated": "2026-10-08T05:15:59Z",
+    "stars": 36,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\nGiving it procedural endless maps that refresh\ndaily. plus a secondary challange planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nDownload from the latest commits\notherwise refer to the newest release if\nthe current commit is bugged\n[]\n\nReport bugs on the repo or discord server\nand has partial chinese support\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 40 stars)[]\n"
+  },
+  {
     "repo": "typicaldeveloper123/biotic-zlo",
     "internalName": "corpuscles",
     "name": "Corpuscles",
@@ -740,20 +754,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that features life.\nSPOILER:\n- MIGHT CONTAIN DISTURBING GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- SOME UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n\nThanks to HunNimbus, and VdobleMSG for some of the sprites!\nAvailable in these languages:\n- English\n- Indonesia\n\nWIP\n  "
-  },
-  {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v5 - Gier",
-    "hidden": false,
-    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n- 黒板消し (kokubankesei)\n",
-    "lastUpdated": "2026-10-07T15:22:20Z",
-    "stars": 35,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\nGiving it procedural endless maps that refresh\ndaily. plus a secondary challange planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nDownload from the latest commits\notherwise refer to the newest release if\nthe current commit is bugged\n[]\n\nReport bugs on the repo or discord server\nand has partial chinese support\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 40 stars)[]\n"
   },
   {
     "repo": "haznobrain/erekir-liquefied",
@@ -924,20 +924,6 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "apszoldat/mindustrymappingutilities",
-    "internalName": "mapping-utilities",
-    "name": " Mapping Utilities ",
-    "version": "1.9",
-    "hidden": true,
-    "author": "ApsZoldat",
-    "lastUpdated": "2026-07-07T10:42:23Z",
-    "stars": 27,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#fed570] The[] [#feba93]Map[] [#fea0b6]Edi[][#ff85d9]tor[] [#ff6afc]mod []\n\n[#fff580] Improves Editor convenience and possibilities[]\n\nMaps created with this mod are [#89ff7a]fully compatible with vanilla []\n\n\n[#fff580] Features:[]\n\n[#efa8ff]- Revealed Hidden Features  -[]\nAbility to draw cliffs, use extra 250 teams, hidden map rules and planet backgrounds\n\n[#efa8ff]- Improved Dialogs  -[]\nBetter banned content dialogs (that's it rn)\n\n[#efa8ff]- Limit Bypasses  -[]\nMap sizes from 1 up to 2147483647\n\n\n[#ff8e82]⚠ In case of some other mods incompatibilities, feel free to open an issue on GitHub []"
-  },
-  {
     "repo": "rednzba990/warboundindustriesmod",
     "internalName": "wi",
     "name": "Warbound Industries",
@@ -964,6 +950,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
+  },
+  {
+    "repo": "apszoldat/mindustrymappingutilities",
+    "internalName": "mapping-utilities",
+    "name": " Mapping Utilities ",
+    "version": "1.9",
+    "hidden": true,
+    "author": "ApsZoldat",
+    "lastUpdated": "2026-10-08T05:01:27Z",
+    "stars": 27,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#fed570] The[] [#feba93]Map[] [#fea0b6]Edi[][#ff85d9]tor[] [#ff6afc]mod []\n\n[#fff580] Improves Editor convenience and possibilities[]\n\nMaps created with this mod are [#89ff7a]fully compatible with vanilla []\n\n\n[#fff580] Features:[]\n\n[#efa8ff]- Revealed Hidden Features  -[]\nAbility to draw cliffs, use extra 250 teams, hidden map rules and planet backgrounds\n\n[#efa8ff]- Improved Dialogs  -[]\nBetter banned content dialogs (that's it rn)\n\n[#efa8ff]- Limit Bypasses  -[]\nMap sizes from 1 up to 2147483647\n\n\n[#ff8e82]⚠ In case of some other mods incompatibilities, feel free to open an issue on GitHub []"
   },
   {
     "repo": "nullotte/dusted-lands",
@@ -1078,6 +1078,20 @@
     "description": "My new planet mod!"
   },
   {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "1.6.2.160.5",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-10-06T04:24:44Z",
+    "stars": 23,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
+  },
+  {
     "repo": "dong-wo-long/enhancementunits",
     "internalName": "enhancement-units",
     "name": "Enhancement Units",
@@ -1104,20 +1118,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
-  },
-  {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "1.6.2.160.5",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-10-06T04:24:44Z",
-    "stars": 22,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
   },
   {
     "repo": "jirocab/nyfalis",
@@ -1812,7 +1812,7 @@
     "version": "0.3.6",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-07T18:59:42Z",
+    "lastUpdated": "2026-10-08T06:24:56Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2870,6 +2870,20 @@
     "description": "You might be interested in taking a look..."
   },
   {
+    "repo": "samielxd/unitnamermod",
+    "internalName": "unit-namer",
+    "name": "Unit Namer",
+    "version": "1.0",
+    "hidden": false,
+    "author": "[#00D4FF]SamielXD",
+    "lastUpdated": "2025-12-28T23:34:31Z",
+    "stars": 6,
+    "minGameVersion": "153",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[accent] [#FFD700]Unit Namer[white]  - Give Your Units Personality!\n\n[white]Transform your gameplay by giving every unit a unique, custom name that follows them across the battlefield. Perfect for organizing squads, tracking your favorites, or just having fun!\n\n[gray]Note still in beta so expect some bugs also don't click the reset default its bugged\n\n[accent] [#00D4FF]Features:\n[white] Tap any unit to open the rename menu\n[white] Custom names float elegantly above your units\n[white] Names persist as long as the unit lives\n[white] Simple one-tap interface - no complex commands\n\n[accent] [#FFD700]How to Use:\n[#BFBFBF] 1. Tap on any unit in the game\n[#BFBFBF] 2. Click \"Rename Unit\" in the popup\n[#BFBFBF] 3. Enter your custom name\n[#BFBFBF] 4. Watch your named unit in action!\n\n[accent] [#00D4FF]Pro Tips:\n[white] • Name your tank squadrons (Alpha, Bravo, Charlie)\n[white] • Track powerful units with special names\n[white] • Organize attack groups with themed names\n[white] • Have fun with personality names for your favorites!"
+  },
+  {
     "repo": "alnyled/astherivegenesis",
     "internalName": "astherive-gen",
     "name": "Genesis",
@@ -3044,7 +3058,7 @@
     "version": "0.2.1",
     "hidden": false,
     "author": "Bilibili:arknights player / Github:undefined-1026",
-    "lastUpdated": "2026-10-07T08:57:55Z",
+    "lastUpdated": "2026-10-08T07:56:29Z",
     "stars": 6,
     "minGameVersion": "160.3",
     "hasScripts": false,
@@ -3120,20 +3134,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod where i focus on making a content base on Infinitode 2, The Campaign is Still Playable, But it will getting Remaked and the Sector will be Remade Alongside the Tech Tree As Well"
-  },
-  {
-    "repo": "samielxd/unitnamermod",
-    "internalName": "unit-namer",
-    "name": "Unit Namer",
-    "version": "1.0",
-    "hidden": false,
-    "author": "[#00D4FF]SamielXD",
-    "lastUpdated": "2025-12-28T23:34:31Z",
-    "stars": 5,
-    "minGameVersion": "153",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[accent] [#FFD700]Unit Namer[white]  - Give Your Units Personality!\n\n[white]Transform your gameplay by giving every unit a unique, custom name that follows them across the battlefield. Perfect for organizing squads, tracking your favorites, or just having fun!\n\n[gray]Note still in beta so expect some bugs also don't click the reset default its bugged\n\n[accent] [#00D4FF]Features:\n[white] Tap any unit to open the rename menu\n[white] Custom names float elegantly above your units\n[white] Names persist as long as the unit lives\n[white] Simple one-tap interface - no complex commands\n\n[accent] [#FFD700]How to Use:\n[#BFBFBF] 1. Tap on any unit in the game\n[#BFBFBF] 2. Click \"Rename Unit\" in the popup\n[#BFBFBF] 3. Enter your custom name\n[#BFBFBF] 4. Watch your named unit in action!\n\n[accent] [#00D4FF]Pro Tips:\n[white] • Name your tank squadrons (Alpha, Bravo, Charlie)\n[white] • Track powerful units with special names\n[white] • Organize attack groups with themed names\n[white] • Have fun with personality names for your favorites!"
   },
   {
     "repo": "salivion/extended-ui",
@@ -7210,20 +7210,6 @@
     "description": "Make a beautiful world with feces."
   },
   {
-    "repo": "rovstam/mindustry-tool-assisted-speedrun",
-    "internalName": "tool assisted speedrun (tas)",
-    "name": "Mindustry TAS",
-    "version": "1.1.01",
-    "hidden": false,
-    "author": "Rovstam",
-    "lastUpdated": "2026-10-06T00:08:04Z",
-    "stars": 1,
-    "minGameVersion": "160.5",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod is for doing Tool Assisted Speedruns."
-  },
-  {
     "repo": "charhon/casino-mod-v2",
     "internalName": "casino-mod",
     "name": "Казино|Casino",
@@ -7236,20 +7222,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RU:Добавляет блок Казино: ставь одни предметы на другие, шанс зависит от ценности предметов EN:This mod add block-Casino"
-  },
-  {
-    "repo": "crimson-gamer/mobile-tool",
-    "internalName": "mobile-tools",
-    "name": "Mobile Tools",
-    "version": "3.1.0",
-    "hidden": true,
-    "author": "Dark_Matter",
-    "lastUpdated": "2026-10-06T19:40:18Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Quick bar + tabbed menu: help builders, build planner, auto mine (incl. wall ores), heal at repair point, speed boost, anti-grief with rebuild, overlays, mod-user detection."
   },
   {
     "repo": "october-maker/tri-mod",
@@ -7278,6 +7250,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "rovstam/mindustry-tool-assisted-speedrun",
+    "internalName": "tool assisted speedrun (tas)",
+    "name": "Mindustry TAS",
+    "version": "1.1.01",
+    "hidden": true,
+    "author": "Rovstam",
+    "lastUpdated": "2026-10-08T01:40:41Z",
+    "stars": 1,
+    "minGameVersion": "160.5",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod is for doing Tool Assisted Speedruns."
+  },
+  {
+    "repo": "crimson-gamer/mobile-tool",
+    "internalName": "mobile-tools",
+    "name": "Mobile Tools",
+    "version": "3.1.0",
+    "hidden": true,
+    "author": "Dark_Matter",
+    "lastUpdated": "2026-10-08T01:51:10Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Quick bar + tabbed menu: help builders, build planner, auto mine (incl. wall ores), heal at repair point, speed boost, anti-grief with rebuild, overlays, mod-user detection."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
