@@ -62,7 +62,7 @@
     "version": "v5.3.0-v8",
     "hidden": true,
     "author": "[#FFC2D1]S[#FFADC2]h[#FF97B3]a[#FF81A3]r[#FF6C94]l[#F45885]o[#E84375]t[#DD2F67]t[#D11A58]e[]",
-    "lastUpdated": "2026-10-10T17:12:49Z",
+    "lastUpdated": "2026-10-10T19:33:59Z",
     "stars": 245,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -216,7 +216,7 @@
     "version": "4.2.9",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-10T17:08:57Z",
+    "lastUpdated": "2026-10-10T21:07:06Z",
     "stars": 126,
     "minGameVersion": "160.5",
     "hasScripts": false,
@@ -1764,20 +1764,6 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
-    "repo": "tyt-xexebe/qol-control",
-    "internalName": "qol-control",
-    "name": "QoL Control",
-    "version": "7.3",
-    "hidden": true,
-    "author": "TyTxexebe",
-    "lastUpdated": "2026-10-02T08:55:42Z",
-    "stars": 12,
-    "minGameVersion": "159.5",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
-  },
-  {
     "repo": "novanox4/meridium",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1804,6 +1790,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
+  },
+  {
+    "repo": "tyt-xexebe/qol-control",
+    "internalName": "qol-control",
+    "name": "QoL Control",
+    "version": "7.4",
+    "hidden": true,
+    "author": "TyTxexebe",
+    "lastUpdated": "2026-10-10T21:00:47Z",
+    "stars": 12,
+    "minGameVersion": "159.5",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
     "repo": "slotterleet/a-lot-of-damage",
@@ -2940,7 +2940,7 @@
     "description": "A project of a mod that will include three planets but so far only two is playable.\n\nThis mod has to be played on 147+\n\nRusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential.\n\nDunes is a wasted planet near serpulo but far from the sun, take control and provide chaos to this dead planet.\n\nQuick notes: [\nLushion is currently in WIP.\nBe sure to have weather graphics for weather's if your on a low end device turn it off.\nMake sure to reinstall regular.\nGive a star if you enjoy Thanks!!!.\nThe sound is being worked on so don't worry to much\nmany sectors are kinda unbalanced so be warned iam balancing it \n}"
   },
   {
-    "repo": "fallingdice/mechanical-factions",
+    "repo": "atoposatrax/mechanical-factions",
     "internalName": "mechanical-factions",
     "name": "JunkTech Industry(WIP)",
     "version": "[cyan]0.6.7",
@@ -4528,7 +4528,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-10-09T23:18:47Z",
+    "lastUpdated": "2026-10-10T21:13:33Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5528,6 +5528,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Red Alert 2 battlefield announcer with the original Sophia (Zofia) voice: waves, base alerts, rally and core-threat detection, manual control marking, unit/building loss reports with callout names, production and high-value target alerts, plus a right-side event feed. 红警2索菲亚语音战场播报:波次/基地警报、敌方集结与核心威胁、单控标点、带具体类别的损失与生产播报、右侧事件卡片。"
+  },
+  {
+    "repo": "charhon/casino-mod-v2",
+    "internalName": "casino-mod",
+    "name": "Казино|Casino",
+    "version": "Beta Version",
+    "hidden": false,
+    "author": "Charhon",
+    "lastUpdated": "2026-10-06T12:48:56Z",
+    "stars": 2,
+    "minGameVersion": "160.5",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU:Добавляет блок Казино: ставь одни предметы на другие, шанс зависит от ценности предметов EN:This mod add block-Casino"
   },
   {
     "repo": "hamsterhat/oct-lib",
@@ -7208,20 +7222,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Make a beautiful world with feces."
-  },
-  {
-    "repo": "charhon/casino-mod-v2",
-    "internalName": "casino-mod",
-    "name": "Казино|Casino",
-    "version": "Beta Version",
-    "hidden": false,
-    "author": "Charhon",
-    "lastUpdated": "2026-10-06T12:48:56Z",
-    "stars": 1,
-    "minGameVersion": "160.5",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "RU:Добавляет блок Казино: ставь одни предметы на другие, шанс зависит от ценности предметов EN:This mod add block-Casino"
   },
   {
     "repo": "rovstam/mindustry-tool-assisted-speedrun",
