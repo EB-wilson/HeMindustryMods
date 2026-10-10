@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-10-07T13:13:59Z",
-    "stars": 634,
+    "stars": 635,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -119,7 +119,7 @@
     "hidden": false,
     "author": "RAdea.exe",
     "lastUpdated": "2026-10-03T10:43:23Z",
-    "stars": 159,
+    "stars": 160,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
@@ -216,7 +216,7 @@
     "version": "4.2.9",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-09T22:25:52Z",
+    "lastUpdated": "2026-10-10T00:09:43Z",
     "stars": 126,
     "minGameVersion": "160.5",
     "hasScripts": false,
@@ -315,7 +315,7 @@
     "hidden": true,
     "author": "EBwilson",
     "lastUpdated": "2026-09-21T17:06:22Z",
-    "stars": 77,
+    "stars": 78,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-09T17:04:12Z",
+    "lastUpdated": "2026-10-10T04:27:14Z",
     "stars": 71,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -1938,7 +1938,7 @@
     "version": "0.4.0",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-09T07:37:47Z",
+    "lastUpdated": "2026-10-10T02:06:17Z",
     "stars": 11,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -2156,6 +2156,20 @@
     "description": "[accent]MobileConsole v1.0 - Developer Tools for Mobile Players[]\n[white]📱 Full console access on your phone or tablet![]\n[yellow]⚠️ This mod is specifically designed for mobile devices where console features are normally unavailable.[]\n[red]⚠️ SINGLE-PLAYER ONLY - This mod does not work in multiplayer![]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[red]⚠️ IMPORTANT DISCLAIMERS:[]\n[yellow]• Not all commands may work on every device or game version[]\n[yellow]• Commands only work in single-player mode[]\n[yellow]• Building commands require appropriate permissions[]\n[yellow]• Use at your own risk - some commands may affect game performance[]\n[yellow]• This mod is in active development - bugs may occur[]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]📋 What Is This?[]\nMobileConsole brings developer tools to your mobile device. Build, spawn, modify, and control your game with over 20 commands optimized for touch screens.\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]🎮 How to Access:[]\n[white]In-Game:[]\n• Type [cyan]/customhelp[] in chat to see all commands\n• Type [cyan]/chelp[] for console system help\n[white]Settings Menu:[]\n• Open Settings → Developer Console\n• Tap [cyan]Open Console[] button\n[white]Quick Commands:[]\n• Type any command in chat starting with /\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🏗️ Building Commands:[]\n[cyan]/wallcore [type][] - Builds walls around your core\n[cyan]/fill     [] - Fill area with blocks\n[cyan]/clear [radius][] - Clear buildings around position\n[cyan]/conveyor    [] - Build conveyor lines\n[cyan]/powerline    [] - Create power connections\n[cyan]/wallline     [type][] - Draw wall lines\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[yellow]🔧 Modification Commands:[]\n[cyan]/upgrade  [] - Upgrade building types\n[cyan]/replace  [] - Replace blocks\n[cyan]/toggle [block][] - Enable/disable buildings\n[cyan]/repair[] - Repair all damaged buildings\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[royal]⚔️ Unit Commands:[]\n[cyan]/spawn   [x] [y][] - Spawn units\n[cyan]/healunits[] - Restore all friendly units to full health\n[cyan]/rally[] - Command units to your position\n[cyan]/killenemies [radius][] - Eliminate enemies\n[cyan]/units[] - Display unit statistics\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]⚡ Quick Actions:[]\n[cyan]/turrets[] - Toggle all turrets\n[cyan]/power[] - Display power grid statistics\n[cyan]/resources[] - Check core resources\n[cyan]/screenshot[] - Take clean screenshot\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🖥️ Console System:[]\n[cyan]/chelp[] - Show console help\n[cyan]/clear[] - Clear console logs\n[cyan]/scan[] - Scan for available commands\n[cyan]/stats[] - Show console statistics\n[cyan]/commands[] - List all detected commands\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]🎯 Features:[]\n• Command history (last 50 commands)\n• Favorites system\n• Log management (1,500 entries)\n• Search and filter functionality\n• Touch-optimized interface\n• Color-coded logs\n• Mod management system\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[white]Type [cyan]/customhelp[] in chat or open Settings → Developer Console to start![]\n[yellow]Report issues on GitHub: github.com/SamielXD/MobileConsole[]\n[white]- SamielXD[]"
   },
   {
+    "repo": "oscaremoran/beyondserpulo-mod",
+    "internalName": "xorinal",
+    "name": "Beyond Serpulo",
+    "version": "1.6",
+    "hidden": false,
+    "author": "Oscar Moran",
+    "lastUpdated": "2026-05-22T22:59:46Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.6. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. \nUPDATES:\nLICHEN UPDATE (v1.2)\nFLAMEWAR UPDATE (v1.3)\nTETRA UPDATE (v1.4)\nQOL UPDATE (v1.5)\nPILOTS UPDATE (v1.6) \n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add more campaign features!"
+  },
+  {
     "repo": "mnchetra/mapgenerator",
     "internalName": "mapgenerator",
     "name": "MapGenerator",
@@ -2350,20 +2364,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library for adding icons to game font."
-  },
-  {
-    "repo": "oscaremoran/beyondserpulo-mod",
-    "internalName": "xorinal",
-    "name": "Beyond Serpulo",
-    "version": "1.6",
-    "hidden": false,
-    "author": "Oscar Moran",
-    "lastUpdated": "2026-05-22T22:59:46Z",
-    "stars": 8,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.6. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. \nUPDATES:\nLICHEN UPDATE (v1.2)\nFLAMEWAR UPDATE (v1.3)\nTETRA UPDATE (v1.4)\nQOL UPDATE (v1.5)\nPILOTS UPDATE (v1.6) \n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add more campaign features!"
   },
   {
     "repo": "lefalcon352/frozen-farlands-resprite",
@@ -7224,20 +7224,6 @@
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
-    "repo": "crimson-gamer/mobile-tool",
-    "internalName": "mobile-tools",
-    "name": "Mobile Tools",
-    "version": "3.1.3",
-    "hidden": true,
-    "author": "Dark_Matter",
-    "lastUpdated": "2026-10-08T20:03:52Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Quick bar + tabbed menu: help builders, build planner, auto mine (incl. wall ores), heal at repair point, speed boost, anti-grief with rebuild, overlays, mod-user detection."
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -7278,6 +7264,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a small set of blocks to make challenge maps more interesting."
+  },
+  {
+    "repo": "crimson-gamer/mobile-tool",
+    "internalName": "mobile-tools",
+    "name": "Mobile Tools",
+    "version": "3.1.5",
+    "hidden": true,
+    "author": "Dark_Matter",
+    "lastUpdated": "2026-10-10T00:47:55Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Quick bar + tabbed menu: help builders, build planner, auto mine (incl. wall ores), heal at repair point, speed boost, anti-grief with rebuild, overlays, mod-user detection."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8384,5 +8384,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Hardcore permadeath mod for Mindustry."
+  },
+  {
+    "repo": "liubrain39/modlab-homing-lab",
+    "internalName": "modlab-homing",
+    "name": "ModLab Homing Lab",
+    "version": "0.1.0",
+    "hidden": false,
+    "author": "ModLab",
+    "lastUpdated": "2026-10-10T02:15:39Z",
+    "stars": 0,
+    "minGameVersion": "160.7",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A free single-player homing-missile workshop. Two copper turrets, one repeatable moving-target lab. Open ModLab Homing Lab from the main menu, or press F8. Built with Codex and the Universal Modder workflow."
   }
 ]
