@@ -216,7 +216,7 @@
     "version": "4.2.9",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-10T21:07:06Z",
+    "lastUpdated": "2026-10-10T22:01:36Z",
     "stars": 126,
     "minGameVersion": "160.5",
     "hasScripts": false,
@@ -343,7 +343,7 @@
     "hidden": true,
     "author": "Pointifix",
     "lastUpdated": "2026-05-30T09:43:24Z",
-    "stars": 74,
+    "stars": 73,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-10T04:27:14Z",
+    "lastUpdated": "2026-10-10T23:01:38Z",
     "stars": 71,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -3822,20 +3822,6 @@
     "description": "ERA.Dark QQ:526675268"
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Project Farstar (Cryon)",
-    "version": "24.4.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-10-07T02:39:06Z",
-    "stars": 4,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
-  },
-  {
     "repo": "cardillan/mlogassertions",
     "internalName": "mlog-assertions-8",
     "name": "Mlog Dev Tools",
@@ -3876,6 +3862,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730\n服务器:103.40.14.91:42275\n备用:114.66.28.186:45689"
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Project Farstar (Cryon)",
+    "version": "24.4.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-10-10T21:32:42Z",
+    "stars": 4,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -4528,7 +4528,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-10-10T21:13:33Z",
+    "lastUpdated": "2026-10-11T00:19:26Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -7168,20 +7168,6 @@
     "description": "Automatic mining AI: assigns miner units to resources by quotas/crisis logic."
   },
   {
-    "repo": "j-n-ix/mindustryspidermodtemplate",
-    "internalName": "spooder-template",
-    "name": "spider template",
-    "version": "1.01",
-    "hidden": false,
-    "author": "jinx",
-    "lastUpdated": "2026-10-03T15:20:23Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod assist, free to distribute or use"
-  },
-  {
     "repo": "b-919/water-reflections",
     "internalName": "b919-waterreflection",
     "name": "Water Reflections Mod",
@@ -7278,6 +7264,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "j-n-ix/mindustryspidermodtemplate",
+    "internalName": "spooder-template",
+    "name": "spider template",
+    "version": "1.03",
+    "hidden": false,
+    "author": "jinx",
+    "lastUpdated": "2026-10-10T22:09:21Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod assist, free to distribute or use"
+  },
+  {
+    "repo": "j-n-ix/microcore",
+    "internalName": "placeable-tiny-core",
+    "name": "Placeable Micro core",
+    "version": "1.2",
+    "hidden": false,
+    "author": "jinx",
+    "lastUpdated": "2026-10-10T22:12:53Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a placeable 1x1 core block. js mod variant."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
