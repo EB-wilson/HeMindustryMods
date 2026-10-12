@@ -413,7 +413,7 @@
     "hidden": true,
     "author": "EBwilson",
     "lastUpdated": "2026-09-26T20:26:48Z",
-    "stars": 61,
+    "stars": 62,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -427,7 +427,7 @@
     "hidden": true,
     "author": "foo, buthed010203",
     "lastUpdated": "2026-03-12T20:50:04Z",
-    "stars": 59,
+    "stars": 60,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -958,7 +958,7 @@
     "version": "1.9",
     "hidden": true,
     "author": "ApsZoldat",
-    "lastUpdated": "2026-10-11T11:07:56Z",
+    "lastUpdated": "2026-10-12T00:30:33Z",
     "stars": 27,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -1036,6 +1036,20 @@
     "description": "A mod for browsing schematic repositories."
   },
   {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "version": "1.6.2.160.5",
+    "hidden": true,
+    "author": "Arksource",
+    "lastUpdated": "2026-10-06T04:24:44Z",
+    "stars": 25,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
+  },
+  {
     "repo": "mindustrydagger/vanillaplus",
     "internalName": "vanillaplus",
     "name": "VanillaPlus",
@@ -1048,20 +1062,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
-  },
-  {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "version": "1.6.2.160.5",
-    "hidden": true,
-    "author": "Arksource",
-    "lastUpdated": "2026-10-06T04:24:44Z",
-    "stars": 24,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
   },
   {
     "repo": "lehanchic25/testplanetmindustry",
@@ -2548,6 +2548,20 @@
     "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
   },
   {
+    "repo": "samielxd/unitnamermod",
+    "internalName": "unit-namer",
+    "name": "Unit Namer",
+    "version": "1.0",
+    "hidden": false,
+    "author": "[#00D4FF]SamielXD",
+    "lastUpdated": "2025-12-28T23:34:31Z",
+    "stars": 7,
+    "minGameVersion": "153",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[accent] [#FFD700]Unit Namer[white]  - Give Your Units Personality!\n\n[white]Transform your gameplay by giving every unit a unique, custom name that follows them across the battlefield. Perfect for organizing squads, tracking your favorites, or just having fun!\n\n[gray]Note still in beta so expect some bugs also don't click the reset default its bugged\n\n[accent] [#00D4FF]Features:\n[white] Tap any unit to open the rename menu\n[white] Custom names float elegantly above your units\n[white] Names persist as long as the unit lives\n[white] Simple one-tap interface - no complex commands\n\n[accent] [#FFD700]How to Use:\n[#BFBFBF] 1. Tap on any unit in the game\n[#BFBFBF] 2. Click \"Rename Unit\" in the popup\n[#BFBFBF] 3. Enter your custom name\n[#BFBFBF] 4. Watch your named unit in action!\n\n[accent] [#00D4FF]Pro Tips:\n[white] • Name your tank squadrons (Alpha, Bravo, Charlie)\n[white] • Track powerful units with special names\n[white] • Organize attack groups with themed names\n[white] • Have fun with personality names for your favorites!"
+  },
+  {
     "repo": "fivedextor/axoxium",
     "internalName": "axoxium",
     "name": "Axoxium",
@@ -2868,20 +2882,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "You might be interested in taking a look..."
-  },
-  {
-    "repo": "samielxd/unitnamermod",
-    "internalName": "unit-namer",
-    "name": "Unit Namer",
-    "version": "1.0",
-    "hidden": false,
-    "author": "[#00D4FF]SamielXD",
-    "lastUpdated": "2025-12-28T23:34:31Z",
-    "stars": 6,
-    "minGameVersion": "153",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[accent] [#FFD700]Unit Namer[white]  - Give Your Units Personality!\n\n[white]Transform your gameplay by giving every unit a unique, custom name that follows them across the battlefield. Perfect for organizing squads, tracking your favorites, or just having fun!\n\n[gray]Note still in beta so expect some bugs also don't click the reset default its bugged\n\n[accent] [#00D4FF]Features:\n[white] Tap any unit to open the rename menu\n[white] Custom names float elegantly above your units\n[white] Names persist as long as the unit lives\n[white] Simple one-tap interface - no complex commands\n\n[accent] [#FFD700]How to Use:\n[#BFBFBF] 1. Tap on any unit in the game\n[#BFBFBF] 2. Click \"Rename Unit\" in the popup\n[#BFBFBF] 3. Enter your custom name\n[#BFBFBF] 4. Watch your named unit in action!\n\n[accent] [#00D4FF]Pro Tips:\n[white] • Name your tank squadrons (Alpha, Bravo, Charlie)\n[white] • Track powerful units with special names\n[white] • Organize attack groups with themed names\n[white] • Have fun with personality names for your favorites!"
   },
   {
     "repo": "alnyled/astherivegenesis",
@@ -4368,6 +4368,20 @@
     "description": "Client-side random text and texture presentation for Mindustry."
   },
   {
+    "repo": "determination-wind/betterrtsformation",
+    "internalName": "betterrtsformation",
+    "name": "Better RTS Formation",
+    "version": "2.0.0",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-28T06:38:35Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Make RTS control groups easier to create, select, and recognize."
+  },
+  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
@@ -5278,20 +5292,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "determination-wind/betterrtsformation",
-    "internalName": "betterrtsformation",
-    "name": "Better RTS Formation",
-    "version": "2.0.0",
-    "hidden": true,
-    "author": "DeterMination-Wind",
-    "lastUpdated": "2026-08-28T06:38:35Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Make RTS control groups easier to create, select, and recognize."
-  },
-  {
     "repo": "c9cps/cdxlib",
     "internalName": "library",
     "name": "CDXLIB",
@@ -5612,6 +5612,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mindustry? Yes, but more!"
+  },
+  {
+    "repo": "rovstam/drag-from-scheme-table",
+    "internalName": "drag-scheme-table",
+    "name": "Drag from Scheme Table",
+    "version": "1.0.1",
+    "hidden": true,
+    "author": "Rovstam",
+    "lastUpdated": "2026-10-12T00:36:45Z",
+    "stars": 2,
+    "minGameVersion": "158.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Move schematics between slots in the Extended UI Schematics table."
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
