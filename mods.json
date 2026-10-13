@@ -62,7 +62,7 @@
     "version": "v5.3.0-v8",
     "hidden": true,
     "author": "[#FFC2D1]S[#FFADC2]h[#FF97B3]a[#FF81A3]r[#FF6C94]l[#F45885]o[#E84375]t[#DD2F67]t[#D11A58]e[]",
-    "lastUpdated": "2026-10-13T08:38:59Z",
+    "lastUpdated": "2026-10-13T13:22:14Z",
     "stars": 244,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -287,7 +287,7 @@
     "hidden": false,
     "author": "滞人",
     "lastUpdated": "2026-06-13T12:08:06Z",
-    "stars": 90,
+    "stars": 91,
     "minGameVersion": "158",
     "hasScripts": true,
     "hasJava": false,
@@ -441,7 +441,7 @@
     "hidden": false,
     "author": "EoD",
     "lastUpdated": "2024-06-29T00:19:27Z",
-    "stars": 57,
+    "stars": 58,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -510,7 +510,7 @@
     "version": "0.51",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-10-13T06:22:49Z",
+    "lastUpdated": "2026-10-13T17:21:58Z",
     "stars": 51,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -734,7 +734,7 @@
     "version": "v5 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n- 黒板消し (kokubankesei)\n",
-    "lastUpdated": "2026-10-12T04:38:21Z",
+    "lastUpdated": "2026-10-13T13:32:55Z",
     "stars": 37,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1067,15 +1067,15 @@
     "repo": "sunkenmelody/rospule",
     "internalName": "rospule",
     "name": "「Rospule」",
-    "version": "v0.6.2",
+    "version": "v0.6.3",
     "hidden": false,
     "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
-    "lastUpdated": "2026-08-27T13:59:54Z",
+    "lastUpdated": "2026-10-13T16:22:17Z",
     "stars": 24,
-    "minGameVersion": "159.7",
+    "minGameVersion": "160.7",
     "hasScripts": false,
     "hasJava": false,
-    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nRospule is fixed at [sky]NORMAL[white] difficulty and cannot be changed.\r\n[sky]Contains 50+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.6.2 -- Fixed several bundle typos. Readjusted 4-10, 5-8, 5-9 and 5-10's difficulty for better experience.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Plooey\r\n"
+    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nRospule is fixed at [sky]NORMAL[white] difficulty and cannot be changed.\r\n[sky]Contains 50+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.6.3 -- Fixed several sectors' errors.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Plooey\r\n"
   },
   {
     "repo": "lehanchic25/testplanetmindustry",
@@ -1218,6 +1218,20 @@
     "description": "你是否觉得原版瘤液的用途,在矿渣池中焚毁,过于单一;如此富有生物活性的材料应该还有有别的用途:作为弹药,合成新材料,甚至是组建自己的生物军队...请尽情发挥你的想象.\n\n什么？你已经等不及了吗？那么就让我们开启这趟血淋淋的旅途吧"
   },
   {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "version": "1.5.2",
+    "hidden": true,
+    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
+    "lastUpdated": "2026-10-06T15:47:59Z",
+    "stars": 21,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
+  },
+  {
     "repo": "saigon0nozomi/nightscape",
     "internalName": "nscape",
     "name": "NightScape",
@@ -1230,20 +1244,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds hard new planet with unique content and new mechanics"
-  },
-  {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "version": "1.5.2",
-    "hidden": true,
-    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-10-06T15:47:59Z",
-    "stars": 20,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
     "repo": "determination-wind/logicsugar",
@@ -1918,20 +1918,6 @@
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
-    "repo": "sputnuc/deepsea",
-    "internalName": "deepsea",
-    "name": "Project: Deep Sea (Alpha)",
-    "version": "0.2.1",
-    "hidden": false,
-    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
-    "lastUpdated": "2026-09-27T19:33:45Z",
-    "stars": 11,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -1952,12 +1938,26 @@
     "version": "0.4.0",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-13T04:23:59Z",
+    "lastUpdated": "2026-10-13T09:23:59Z",
     "stars": 11,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for the rare and powerful [#bf2851]Erythronite Crystals[].\nFor centuries, Aziris has remained in the hands of the [blue]Sentinels[]. Now it is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore.\nThere isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n\n[purple] https://discord.gg/2qc4WaCreP []\n\nCurrently unavailable for mobile platforms, sorry :/"
+  },
+  {
+    "repo": "sputnuc/deepsea",
+    "internalName": "deepsea",
+    "name": "Project: Deep Sea (Alpha)",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
+    "lastUpdated": "2026-10-13T14:45:58Z",
+    "stars": 11,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -3164,6 +3164,20 @@
     "description": "模仿了学术端cyan字的效果，增加了几乎所有物品的下方灰字补充说明"
   },
   {
+    "repo": "vini230909/hide-units",
+    "internalName": "vinicator",
+    "name": "Vinicator",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Vini230909",
+    "lastUpdated": "2026-07-11T19:51:27Z",
+    "stars": 5,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
+  },
+  {
     "repo": "thechronodonut1337/silent-orchestra",
     "internalName": "silent-orchestra",
     "name": "Sounds like Argus",
@@ -3598,20 +3612,6 @@
     "description": "Automatically fills nearby item turrets with the best ammo from your carried items or the closest core. Toggle with F4; configure ammo priorities in Settings > Turret Auto Fill."
   },
   {
-    "repo": "vini230909/hide-units",
-    "internalName": "vinicator",
-    "name": "Vinicator",
-    "version": "1.0",
-    "hidden": true,
-    "author": "Vini230909",
-    "lastUpdated": "2026-07-11T19:51:27Z",
-    "stars": 4,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
-  },
-  {
     "repo": "2936832655luoyu/mindustry.trace-day",
     "internalName": "痕迹日",
     "name": "痕迹日",
@@ -3856,7 +3856,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "幻境模组制作团队",
-    "lastUpdated": "2026-10-13T08:07:05Z",
+    "lastUpdated": "2026-10-13T12:03:03Z",
     "stars": 4,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -5558,20 +5558,6 @@
     "description": "组合工厂QQ群:973942058\n1.2 组合普通工厂/地形加成工厂/分离机/普通钻头/挖墙钻头（含震地钻头），支持跨模组覆盖（关闭模组后原版建筑需重新解锁）\n1.3 组合发电机\n1.4 组合力墙、修复投影、超速投影、发射台\n1.5 组合仓库\n1.6 组合泵、接收台、挖墙钻\n1.7 组合逻辑处理器，蓝图里的建筑也会被替换为组合建筑\n1.8 组合炮台、组合抽水机、组合墙\n1.9 支持过剧情\n2.0 核心机多线程建造\n2.1 组合单位工厂、组合单位升级厂\n2.2 每种物品、每种液体各自独立储存（不再共用一份总量）；发电机燃料消耗与原版一致、不再一次吞掉多个燃料；组合仓库连通核心时给核心扩容；物品外送改为每 tick 一次（塞得满传送带/管道）；联机时建造菜单里的组合建筑不再消失\n2.3 新增协作组合：继承原版类、自己写了新功能的方块（js 与 java 子类）也能组合 —— 物品/液体/容量/电力/热量共享，支持跨类型组合，中间产物留在组内，点击方块可在其正上方查看整组内容；新增组合连接器与组合节点：同样能组合 js/java 子类与组合方块，支持节点激光跨距离连接，接起来的组合体共用一份库存、容量与信息面板都按整张网络算；建造武器按 E 可停掉全部线程、并优先去帮正在施工的建筑；放置组合节点时会标出可连接的组合体\n2.4更了组合石油钻井，修了一点东西\n2.5 设置里可按名字搜索、逐个开关「协作组合」（js/java 功能扩展建筑），开关立刻生效；核反应堆的发电效率按核反应堆自己的容量算（组合里塞了大容量建筑也不需要多喂燃料），效率上限 100%；组合节点不再自动连线（放下后要连谁得自己点），点已连目标即断开；组合墙血池的修复量按整组算，修复投影能把整组修满（不再一直显示破损）；修废墟时蓝图框里的建筑会被立刻全部重建；组合节点与组合连接器也能给被替换的组合建筑接上完整组合功能（组合墙接上就共享血量、拆线即拆组）；矿渣制热机等产热机对外只报自己那一份热量（多台并排不会被重复计入）；修好 Erekir 发射核心时误要铜/铅（星球默认核心没跟着换成组合核心 新增液体卸载器（从相邻建筑抽选定的液体倒给下游）。组合连接器、组合节点、液体卸载器进了塞普罗与埃里克尔两棵科技树：塞普罗用铜铅（卸载器加钢化玻璃），埃里克尔用铍钨氧化物，研究解锁；组合节点可以互相连线接力，把组合范围延伸出去\n2.6更新:组合单位\n2.7更新:炮台合体，组合单位独立"
   },
   {
-    "repo": "lamamega/attarax-modpack",
-    "internalName": "attarax mod-pack",
-    "name": "AttaraX Mod-Pack",
-    "version": "1.0",
-    "hidden": false,
-    "author": "AttaraX",
-    "lastUpdated": "2026-10-12T19:54:40Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry? Yes, but more!"
-  },
-  {
     "repo": "rovstam/schematic-table-qol",
     "internalName": "schematic table qol",
     "name": "Schematic table QoL",
@@ -5584,6 +5570,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Move schematics between table slots and drag them from the library into the Extended UI table."
+  },
+  {
+    "repo": "lamamega/attarax-modpack",
+    "internalName": "attarax mod-pack",
+    "name": "AttaraX Mod-Pack",
+    "version": "1.0",
+    "hidden": false,
+    "author": "AttaraX",
+    "lastUpdated": "2026-10-13T15:13:29Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry? Yes, but more!"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7272,7 +7272,7 @@
     "version": "0.2.2.1",
     "hidden": false,
     "author": "October",
-    "lastUpdated": "2026-10-12T16:11:10Z",
+    "lastUpdated": "2026-10-13T16:10:07Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -8386,20 +8386,6 @@
     "description": "Logic Monitor — real-time logic & hardware inspector.\nQQGroup: 615081546 (adapted for v160.5, desktop & Android merged jar)\n1. Main window (yr2lm):\n  add: Pick a block to monitor\n  copy: Copy block config & code\n  paste: Paste config to target block\n  Monitor List:\n     Toggle window visibility\n     Manually refresh window\n     Remove & close window\n2. Logic Processor:\n  Variable Tools:\n     Reset @counter to zero\n     Reset debug session globally\n     Persistent entity tracer line\n     Toggle page: variables / editor\n    Search: Filter variable names\n    [Cc]: Case-sensitive\n    [W]: Whole-word match\n    textBuffer: Print-buffer monitor\n  Code Editor:\n     Reload block code\n     Save & commit code to block\n     Toggle single / dual-pane\n    / Pause / Resume\n     Step one instruction\n     Run to next breakpoint\n     Toggle trace panel\n  Trace Timeline:\n     Export trace log\n     Clear trace history\n    [L.. -> L..]: Auto-collapse sequential steps\n    Diff: Mark jumps & multi-variable changes\n    Click a step: Time-travel snapshot rollback\n    [<<] step#: Current snapshot indicator\n     Restore real-time state\n  Code Line:\n    Click line head: Toggle breakpoint\n    >> arrow: Live execution pointer\n    Aurora-green bar: Paused highlight & trail\n    5 micro edit buttons (non-trace mode):\n       Inline edit this line\n       Insert blank line below\n       Paste code block (jumps re-mapped)\n       Reset line to original\n       Delete this line\n3. Memory Bank & Cell:\n  Start/End index: Observation range\n  Decimals (0-10): Precision slider\n  Columns per row (1-16): Display columns slider\n  / In-place edit & save mode\n  Warm-gold glow: Data-mutation flash\n  World tracer line: Floating-cell world connection\n4. Message Monitor:\n  / Pause / resume capture\n   Manual refresh\n   Clear all logs\n  128-entry ring buffer (anti-spam)\n  / Copy / delete a single log\n5. Global UX:\n   Pin to world building (scales with map)\n   Toggle holographic / 1:1 UI scaling\n   Collapse into 30px title capsule\n   Close window safely\n   Corner drag-resize with size memory\n   Gear injection & spawn from config bar\n  [y] Aurora-green button: Bottom-right reopen\n  Dual-end: Built-in classes.dex, all-platform jar\n==========================================\n逻辑监视器 — 逻辑与硬件实时交互监视器。\n交流群: 615081546 (适配 v160.5 双端合一)\n1.主窗口 (yr2lm):\n  add: 选取方块打开监视\n  copy: 复制方块配置与代码\n  paste: 粘贴配置至目标方块\n  方块列表:\n     窗口显示/隐藏\n     窗口手动刷新\n     移除关闭窗口\n2.逻辑块:\n  变量表:\n     将 @counter 置零\n     全局重置调试会话\n     全局常驻实体引线\n     切换变量表/编辑器\n    搜索框: 过滤变量名\n    [Cc]: 区分大小写\n    [W]: 全词匹配\n    textBuffer: 打印缓冲区监控\n  编辑器:\n     重新读取方块代码\n     保存提交代码到方块\n     切换单双栏并排\n    / 暂停/继续执行\n     单步推演一条指令\n     运行至下一个断点\n     智能流水面板开关\n  智能流水时序:\n     导出时序追踪日志\n     清空流水历史记录\n    [L.. -> L..]: 顺序步自动折叠\n    Diff 差分: 跳转与多变量突变标记\n    点击单步: 时间旅行快照历史回溯\n    [<<] 步号: 当前快照指示\n     恢复实时运行状态\n  代码行:\n    单击行首: 切换代码行断点\n    >> 箭头: 运行态实时执行指针\n    极光绿条: 暂停态停驻高亮与光轨\n    5 个微型编辑按键 (非流水模式):\n       单行就地编辑\n       向下插入空白代码行\n       导入代码块(jump 变换)\n       还原单行初始代码\n       删除本行代码\n3.内存块 (Memory Bank 与 Cell):\n  起始/末尾下标: 观察范围输入\n  保留小数 (0-10): 精度调节滑条\n  每行个数 (1-16): 显示列数滑条\n  / 内存就地编辑与保存\n  暖金微光: 数值修改突变闪烁\n  世界引线: 悬浮格子显示世界连线\n4.信息板:\n  / 暂停捕获记录\n   手动刷新消息\n   清空所有历史日志\n  128 条环形缓冲: 防爆内存循环记录\n  / 单条复制与删除\n5.通用交互:\n   钉在世界建筑上随地图缩放\n   切换全息随镜缩放 / 1:1 UI\n   折叠为 30px 标题迷你胶囊\n   安全关闭监视窗口\n   右下角微型拖拽缩放并记忆尺寸\n   配置条追加齿轮，单击展开，拖拽生窗\n  [y] 极光绿按钮: 右下角常驻唤出\n  双端合一: 内置 classes.dex 全平台通用"
   },
   {
-    "repo": "use-lessdev/the-aglomeration",
-    "internalName": "the-aglomeration",
-    "name": "The Aglomeration",
-    "version": "0.1",
-    "hidden": false,
-    "author": "Use-lessDev",
-    "lastUpdated": "2026-10-13T03:27:32Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod focused on new systems, including connected construction zones."
-  },
-  {
     "repo": "liubrain39/modlab-homing-lab",
     "internalName": "modlab-homing",
     "name": "ModLab Homing Lab",
@@ -8426,5 +8412,33 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "welloty/chichti",
+    "internalName": "chichts-menu",
+    "name": "ЧИЧТЫ",
+    "version": "1.6",
+    "hidden": false,
+    "author": "codex, gpt 6 luna medium",
+    "lastUpdated": "2026-10-13T11:07:43Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Рофло мод-меню: настраиваемый спавн Т5, очистка своих юнитов, эффекты и шуточные события."
+  },
+  {
+    "repo": "use-lessdev/the-aglomeration",
+    "internalName": "the-aglomeration",
+    "name": "The Aglomeration",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Use-lessDev",
+    "lastUpdated": "2026-10-13T13:37:09Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod focused on new systems, including connected construction zones."
   }
 ]
