@@ -216,7 +216,7 @@
     "version": "4.2.9",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-14T18:53:13Z",
+    "lastUpdated": "2026-10-14T22:42:06Z",
     "stars": 126,
     "minGameVersion": "160.5",
     "hasScripts": false,
@@ -1952,7 +1952,7 @@
     "version": "0.4.0",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-14T08:51:46Z",
+    "lastUpdated": "2026-10-14T20:07:15Z",
     "stars": 11,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -7182,20 +7182,6 @@
     "description": "Make a beautiful world with feces."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.3.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-10-09T00:25:45Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "chax0180/challenge-additions",
     "internalName": "chad",
     "name": "Challenge Additions",
@@ -7278,6 +7264,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.3.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-10-14T22:51:38Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
