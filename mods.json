@@ -62,7 +62,7 @@
     "version": "v5.3.0-v8",
     "hidden": true,
     "author": "[#FFC2D1]S[#FFADC2]h[#FF97B3]a[#FF81A3]r[#FF6C94]l[#F45885]o[#E84375]t[#DD2F67]t[#D11A58]e[]",
-    "lastUpdated": "2026-10-13T13:22:14Z",
+    "lastUpdated": "2026-10-14T14:53:37Z",
     "stars": 245,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -174,7 +174,7 @@
     "version": "0.1.2A Indev 8",
     "hidden": false,
     "author": "stabu",
-    "lastUpdated": "2026-10-13T19:01:51Z",
+    "lastUpdated": "2026-10-14T13:54:33Z",
     "stars": 141,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -734,7 +734,7 @@
     "version": "v5 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n- 黒板消し (kokubankesei)\n",
-    "lastUpdated": "2026-10-14T05:17:52Z",
+    "lastUpdated": "2026-10-14T14:51:47Z",
     "stars": 37,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -768,6 +768,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
+  },
+  {
+    "repo": "dong-wo-long/betterdustrymod",
+    "internalName": "bsm",
+    "name": "Betterustry Mod",
+    "version": "v1.0.0 beta",
+    "hidden": false,
+    "author": "D&X",
+    "lastUpdated": "2026-03-22T14:50:18Z",
+    "stars": 33,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
   },
   {
     "repo": "way-zer/contentstweaker",
@@ -1092,6 +1106,20 @@
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radii go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
+    "repo": "meepoffaith/black-holes-library",
+    "internalName": "black-hole-renderer",
+    "name": "Black Holes Library",
+    "version": "19",
+    "hidden": true,
+    "author": "MEEPofFaith",
+    "lastUpdated": "2026-09-28T04:04:41Z",
+    "stars": 22,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod for rendering black holes."
+  },
+  {
     "repo": "jirocab/nyfalis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1160,20 +1188,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
-  },
-  {
-    "repo": "meepoffaith/black-holes-library",
-    "internalName": "black-hole-renderer",
-    "name": "Black Holes Library",
-    "version": "19",
-    "hidden": true,
-    "author": "MEEPofFaith",
-    "lastUpdated": "2026-09-28T04:04:41Z",
-    "stars": 21,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library mod for rendering black holes."
   },
   {
     "repo": "huanxefh/project-reindustrialization",
@@ -1644,7 +1658,7 @@
     "version": "1.9.8",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-10-14T04:55:31Z",
+    "lastUpdated": "2026-10-14T11:32:37Z",
     "stars": 13,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -4466,20 +4480,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "akilis81x/fenadi",
-    "internalName": "fenadi",
-    "name": "Fenadi",
-    "version": "0.1",
-    "hidden": false,
-    "author": "Akilis81",
-    "lastUpdated": "2026-10-06T15:07:04Z",
-    "stars": 3,
-    "minGameVersion": "154.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4492,6 +4492,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "akilis81x/fenadi",
+    "internalName": "fenadi",
+    "name": "Fenadi",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Akilis81",
+    "lastUpdated": "2026-10-14T14:11:34Z",
+    "stars": 3,
+    "minGameVersion": "154.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5502,20 +5516,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "momiji142857/momijicrafterlib",
-    "internalName": "momiji_crafter_lib",
-    "name": "MomijiCrafterLib",
-    "version": "1.4",
-    "hidden": false,
-    "author": "[sky]Momiji142857[white] (with DeepSeek)",
-    "lastUpdated": "2026-10-08T10:49:51Z",
-    "stars": 2,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n展示一下我拼的工厂uwu"
-  },
-  {
     "repo": "dark-matter-yt/mobile-tool",
     "internalName": "mobile-tools",
     "name": "Mobile Tools",
@@ -5570,6 +5570,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mindustry? Yes, but more!"
+  },
+  {
+    "repo": "momiji142857/momijicrafterlib",
+    "internalName": "momiji-lib",
+    "name": "MomijiLib",
+    "version": "1.6.0",
+    "hidden": false,
+    "author": "[sky]Momiji142857[white]",
+    "lastUpdated": "2026-10-14T12:12:16Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "磨米机库.\n2026-10-14"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -8370,6 +8384,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Logic Monitor — real-time logic & hardware inspector.\nQQGroup: 615081546 (adapted for v160.5, desktop & Android merged jar)\n1. Main window (yr2lm):\n  add: Pick a block to monitor\n  copy: Copy block config & code\n  paste: Paste config to target block\n  Monitor List:\n     Toggle window visibility\n     Manually refresh window\n     Remove & close window\n2. Logic Processor:\n  Variable Tools:\n     Reset @counter to zero\n     Reset debug session globally\n     Persistent entity tracer line\n     Toggle page: variables / editor\n    Search: Filter variable names\n    [Cc]: Case-sensitive\n    [W]: Whole-word match\n    textBuffer: Print-buffer monitor\n  Code Editor:\n     Reload block code\n     Save & commit code to block\n     Toggle single / dual-pane\n    / Pause / Resume\n     Step one instruction\n     Run to next breakpoint\n     Toggle trace panel\n  Trace Timeline:\n     Export trace log\n     Clear trace history\n    [L.. -> L..]: Auto-collapse sequential steps\n    Diff: Mark jumps & multi-variable changes\n    Click a step: Time-travel snapshot rollback\n    [<<] step#: Current snapshot indicator\n     Restore real-time state\n  Code Line:\n    Click line head: Toggle breakpoint\n    >> arrow: Live execution pointer\n    Aurora-green bar: Paused highlight & trail\n    5 micro edit buttons (non-trace mode):\n       Inline edit this line\n       Insert blank line below\n       Paste code block (jumps re-mapped)\n       Reset line to original\n       Delete this line\n3. Memory Bank & Cell:\n  Start/End index: Observation range\n  Decimals (0-10): Precision slider\n  Columns per row (1-16): Display columns slider\n  / In-place edit & save mode\n  Warm-gold glow: Data-mutation flash\n  World tracer line: Floating-cell world connection\n4. Message Monitor:\n  / Pause / resume capture\n   Manual refresh\n   Clear all logs\n  128-entry ring buffer (anti-spam)\n  / Copy / delete a single log\n5. Global UX:\n   Pin to world building (scales with map)\n   Toggle holographic / 1:1 UI scaling\n   Collapse into 30px title capsule\n   Close window safely\n   Corner drag-resize with size memory\n   Gear injection & spawn from config bar\n  [y] Aurora-green button: Bottom-right reopen\n  Dual-end: Built-in classes.dex, all-platform jar\n==========================================\n逻辑监视器 — 逻辑与硬件实时交互监视器。\n交流群: 615081546 (适配 v160.5 双端合一)\n1.主窗口 (yr2lm):\n  add: 选取方块打开监视\n  copy: 复制方块配置与代码\n  paste: 粘贴配置至目标方块\n  方块列表:\n     窗口显示/隐藏\n     窗口手动刷新\n     移除关闭窗口\n2.逻辑块:\n  变量表:\n     将 @counter 置零\n     全局重置调试会话\n     全局常驻实体引线\n     切换变量表/编辑器\n    搜索框: 过滤变量名\n    [Cc]: 区分大小写\n    [W]: 全词匹配\n    textBuffer: 打印缓冲区监控\n  编辑器:\n     重新读取方块代码\n     保存提交代码到方块\n     切换单双栏并排\n    / 暂停/继续执行\n     单步推演一条指令\n     运行至下一个断点\n     智能流水面板开关\n  智能流水时序:\n     导出时序追踪日志\n     清空流水历史记录\n    [L.. -> L..]: 顺序步自动折叠\n    Diff 差分: 跳转与多变量突变标记\n    点击单步: 时间旅行快照历史回溯\n    [<<] 步号: 当前快照指示\n     恢复实时运行状态\n  代码行:\n    单击行首: 切换代码行断点\n    >> 箭头: 运行态实时执行指针\n    极光绿条: 暂停态停驻高亮与光轨\n    5 个微型编辑按键 (非流水模式):\n       单行就地编辑\n       向下插入空白代码行\n       导入代码块(jump 变换)\n       还原单行初始代码\n       删除本行代码\n3.内存块 (Memory Bank 与 Cell):\n  起始/末尾下标: 观察范围输入\n  保留小数 (0-10): 精度调节滑条\n  每行个数 (1-16): 显示列数滑条\n  / 内存就地编辑与保存\n  暖金微光: 数值修改突变闪烁\n  世界引线: 悬浮格子显示世界连线\n4.信息板:\n  / 暂停捕获记录\n   手动刷新消息\n   清空所有历史日志\n  128 条环形缓冲: 防爆内存循环记录\n  / 单条复制与删除\n5.通用交互:\n   钉在世界建筑上随地图缩放\n   切换全息随镜缩放 / 1:1 UI\n   折叠为 30px 标题迷你胶囊\n   安全关闭监视窗口\n   右下角微型拖拽缩放并记忆尺寸\n   配置条追加齿轮，单击展开，拖拽生窗\n  [y] 极光绿按钮: 右下角常驻唤出\n  双端合一: 内置 classes.dex 全平台通用"
+  },
+  {
+    "repo": "savnecro/mindustry-rime",
+    "internalName": "ice-expansion-rime",
+    "name": "Ice Expansion: Rime",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": "Savnecro",
+    "lastUpdated": "2026-10-13T01:46:12Z",
+    "stars": 0,
+    "minGameVersion": "160",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A compact, ice-themed content mod with cryogenic materials, utility blocks, and three complete T1-T5 unit lines."
   },
   {
     "repo": "liubrain39/modlab-homing-lab",
