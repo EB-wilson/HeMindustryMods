@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-15T07:26:06Z",
+    "lastUpdated": "2026-10-15T15:28:47Z",
     "stars": 71,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -490,32 +490,32 @@
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "5.1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-10-14T14:59:02Z",
-    "stars": 51,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
-  },
-  {
     "repo": "deercarbonate/azimuth",
     "internalName": "azimut",
     "name": "Azimuth",
     "version": "0.51",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-10-14T17:20:46Z",
+    "lastUpdated": "2026-10-15T17:54:43Z",
     "stars": 51,
     "minGameVersion": "160",
     "hasScripts": true,
     "hasJava": false,
     "description": "[#d3f2f4]Hybrid[] mod primarily built around a gradually branching campaign that expands in multiple directions.\n\nThe mod adds a new planet, [#f7e9af]Gelion[], featuring its own campaign, star system, research tree, and gameplay mechanics.\nThe planet offers over 90 blocks to research, 12 units [#ffd37f]each with their own unique abilities[], 13 campaign sectors, more than [#ffd37f]6 new mechanics[], and plenty of room for map creation.\n\nOn top of that, the campaign also stands out with absolutely [#e65c5c]BRUTAL[] visual effects. Every texture was made with care and dedication.\n\n[#e65c5c]THIS MOD IS STILL IN DEVELOPMENT![]\n[#ffd37f]The current completion percentage is approximately 64%, with plenty of room to grow![]\n\nHelp me develop the mod! Join the [#768bff]Azimuth Discord server[] using the [#ffd37f]link in the README file on the mod's official GitHub page.[]\n\n///////////////////////////////\n\nLand on a [#c9c1eb]sub-cryonic[] terra slowly heating up beneath its [#e99696]unstable star[]. The celestial body is suffering from [#ffbe93]global warming[] — glaciers are melting, atmospheric pressure is rising, and temperatures continue to climb.\n[#e99696]Exterminate the enemy faction[]. Turn the planet into a temporary source of raw materials. [#d1e3ff]Witness a world that will soon become[] [#506381]ash[].\n\nIf you enjoyed the mod, please consider giving it a star!\n[#c9c1eb]Thank you for playing.[]\n\n///////////////////////////////\n\nDevelopers:\nCode: [#c3961f]Deer[][#876409]Carbonate[]\nSprites: [#c3961f]Deer[][#876409]Carbonate[]\nMaps: [#c3961f]Deer[][#876409]Carbonate[]\nLocalization: [#c3961f]Deer[][#876409]Carbonate[]\n\nSpecial Thanks:\nMusic: [purple]ACE[] — \"the last fight\", \"in orbit\", \"create\", \"smth far away\"; [#ffe1a4]garretski[] — The main Azimuth soundtrack.\nMaps: [#ce7e5c]Kivet/БОБ[] — \"Cold Harbor\"; [#fce4e0]Fate of Adrastus[] — \"Tight Caverns\"; [#84f491]Alpotat[] — assistance with the map \"Arrival\".\nCode: [white]KO[][#A4A4A4]STO[][#6D6D6D]LOM[]"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "5.1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-10-15T19:11:10Z",
+    "stars": 51,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "flintyx/animalia",
@@ -2260,7 +2260,7 @@
     "version": "0.4",
     "hidden": false,
     "author": "Ion - 7274",
-    "lastUpdated": "2026-10-15T13:58:18Z",
+    "lastUpdated": "2026-10-15T15:21:25Z",
     "stars": 9,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -7252,20 +7252,6 @@
     "description": "Adds a placeable 1x1 core block. js mod variant."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-10-14T15:02:47Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -7278,6 +7264,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-10-15T16:32:27Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -7824,20 +7824,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod replaces set by default sound effects with some audio-memes.\r\nThis mod is under construction!"
-  },
-  {
-    "repo": "coaxgames/mcem-e",
-    "internalName": "mcem extension",
-    "name": "MCEM-E",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Xaon4207",
-    "lastUpdated": "2026-04-25T11:57:52Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Details coming soon, Currently adding the content with new sprites and Base Content for expansion"
   },
   {
     "repo": "rodrigoasfr24022003/funnycrystal-mod",
@@ -8454,5 +8440,33 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Рофло мод-меню: настраиваемый спавн Т5, очистка своих юнитов, эффекты и шуточные события."
+  },
+  {
+    "repo": "coaxgames/mcem-e",
+    "internalName": "mcem extension",
+    "name": "MCEM-E",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Xaon4207",
+    "lastUpdated": "2026-10-15T14:58:11Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Details coming soon, Currently adding the content with new sprites and Base Content for expansion"
+  },
+  {
+    "repo": "coaxgames/multiplayer-campaign-expansion-mod",
+    "internalName": "mcem",
+    "name": "Multiplayer Campaign Expansion Mod",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Xaon4207",
+    "lastUpdated": "2026-10-15T16:11:15Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Allows Clients to pause during a Capmaign hosting session, More features will be available soon! Adds Most items from Carbon_Vanilla, These assets will be slowly replaced as i get to making and adding new content.\n\n------Credit------\nCarbon_vanilla is made by AcookieG, Check out the mod when you can. There is Active updates, overtime this mod will Work alongside Carbon_Vanilla As a dependency and become its own thing, This way both mods can work seperate from eachother \n\n------Warning------\nContent WILL Change overtime!\nThis Mod is in Testing mode, Im still learning but i have a backround. So once i know The mod api a bit better i can start doing my own thing fully"
   }
 ]
