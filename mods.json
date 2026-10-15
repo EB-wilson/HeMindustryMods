@@ -216,7 +216,7 @@
     "version": "4.2.9",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-14T22:42:06Z",
+    "lastUpdated": "2026-10-15T20:23:00Z",
     "stars": 126,
     "minGameVersion": "160.5",
     "hasScripts": false,
@@ -1952,7 +1952,7 @@
     "version": "0.4.0",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-15T13:58:10Z",
+    "lastUpdated": "2026-10-15T22:33:41Z",
     "stars": 11,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -8468,5 +8468,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Allows Clients to pause during a Capmaign hosting session, More features will be available soon! Adds Most items from Carbon_Vanilla, These assets will be slowly replaced as i get to making and adding new content.\n\n------Credit------\nCarbon_vanilla is made by AcookieG, Check out the mod when you can. There is Active updates, overtime this mod will Work alongside Carbon_Vanilla As a dependency and become its own thing, This way both mods can work seperate from eachother \n\n------Warning------\nContent WILL Change overtime!\nThis Mod is in Testing mode, Im still learning but i have a backround. So once i know The mod api a bit better i can start doing my own thing fully"
+  },
+  {
+    "repo": "wang-0-1/random-enhancement",
+    "internalName": "raen",
+    "name": " 随机强化  Random Enhancement",
+    "version": "160.3.3",
+    "hidden": false,
+    "author": "WaNg-0-1",
+    "lastUpdated": "2026-10-15T22:20:55Z",
+    "stars": 0,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "一个给敌军提供随机强化的Java模组\n A Java mod that gives random buffs to the enemy army"
   }
 ]
