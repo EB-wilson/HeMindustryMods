@@ -119,7 +119,7 @@
     "hidden": false,
     "author": "RAdea.exe",
     "lastUpdated": "2026-10-10T14:58:59Z",
-    "stars": 160,
+    "stars": 161,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
@@ -490,20 +490,6 @@
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
-    "repo": "deercarbonate/azimuth",
-    "internalName": "azimut",
-    "name": "Azimuth",
-    "version": "0.51",
-    "hidden": false,
-    "author": "DeerCarbonate",
-    "lastUpdated": "2026-10-16T07:38:47Z",
-    "stars": 51,
-    "minGameVersion": "160",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[#d3f2f4]Hybrid[] mod primarily built around a gradually branching campaign that expands in multiple directions.\n\nThe mod adds a new planet, [#f7e9af]Gelion[], featuring its own campaign, star system, research tree, and gameplay mechanics.\nThe planet offers over 90 blocks to research, 12 units [#ffd37f]each with their own unique abilities[], 13 campaign sectors, more than [#ffd37f]6 new mechanics[], and plenty of room for map creation.\n\nOn top of that, the campaign also stands out with absolutely [#e65c5c]BRUTAL[] visual effects. Every texture was made with care and dedication.\n\n[#e65c5c]THIS MOD IS STILL IN DEVELOPMENT![]\n[#ffd37f]The current completion percentage is approximately 64%, with plenty of room to grow![]\n\nHelp me develop the mod! Join the [#768bff]Azimuth Discord server[] using the [#ffd37f]link in the README file on the mod's official GitHub page.[]\n\n///////////////////////////////\n\nLand on a [#c9c1eb]sub-cryonic[] terra slowly heating up beneath its [#e99696]unstable star[]. The celestial body is suffering from [#ffbe93]global warming[] — glaciers are melting, atmospheric pressure is rising, and temperatures continue to climb.\n[#e99696]Exterminate the enemy faction[]. Turn the planet into a temporary source of raw materials. [#d1e3ff]Witness a world that will soon become[] [#506381]ash[].\n\nIf you enjoyed the mod, please consider giving it a star!\n[#c9c1eb]Thank you for playing.[]\n\n///////////////////////////////\n\nDevelopers:\nCode: [#c3961f]Deer[][#876409]Carbonate[]\nSprites: [#c3961f]Deer[][#876409]Carbonate[]\nMaps: [#c3961f]Deer[][#876409]Carbonate[]\nLocalization: [#c3961f]Deer[][#876409]Carbonate[]\n\nSpecial Thanks:\nMusic: [purple]ACE[] — \"the last fight\", \"in orbit\", \"create\", \"smth far away\"; [#ffe1a4]garretski[] — The main Azimuth soundtrack.\nMaps: [#ce7e5c]Kivet/БОБ[] — \"Cold Harbor\"; [#fce4e0]Fate of Adrastus[] — \"Tight Caverns\"; [#84f491]Alpotat[] — assistance with the map \"Arrival\".\nCode: [white]KO[][#A4A4A4]STO[][#6D6D6D]LOM[]"
-  },
-  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
@@ -516,6 +502,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No nowhere has nothing anywhere."
+  },
+  {
+    "repo": "deercarbonate/azimuth",
+    "internalName": "azimut",
+    "name": "Azimuth",
+    "version": "0.51",
+    "hidden": false,
+    "author": "DeerCarbonate",
+    "lastUpdated": "2026-10-16T17:34:07Z",
+    "stars": 51,
+    "minGameVersion": "160",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[#d3f2f4]Hybrid[] mod primarily built around a gradually branching campaign that expands in multiple directions.\n\nThe mod adds a new planet, [#f7e9af]Gelion[], featuring its own campaign, star system, research tree, and gameplay mechanics.\nThe planet offers over 90 blocks to research, 12 units [#ffd37f]each with their own unique abilities[], 13 campaign sectors, more than [#ffd37f]6 new mechanics[], and plenty of room for map creation.\n\nOn top of that, the campaign also stands out with absolutely [#e65c5c]BRUTAL[] visual effects. Every texture was made with care and dedication.\n\n[#e65c5c]THIS MOD IS STILL IN DEVELOPMENT![]\n[#ffd37f]The current completion percentage is approximately 64%, with plenty of room to grow![]\n\nHelp me develop the mod! Join the [#768bff]Azimuth Discord server[] using the [#ffd37f]link in the README file on the mod's official GitHub page.[]\n\n///////////////////////////////\n\nLand on a [#c9c1eb]sub-cryonic[] terra slowly heating up beneath its [#e99696]unstable star[]. The celestial body is suffering from [#ffbe93]global warming[] — glaciers are melting, atmospheric pressure is rising, and temperatures continue to climb.\n[#e99696]Exterminate the enemy faction[]. Turn the planet into a temporary source of raw materials. [#d1e3ff]Witness a world that will soon become[] [#506381]ash[].\n\nIf you enjoyed the mod, please consider giving it a star!\n[#c9c1eb]Thank you for playing.[]\n\n///////////////////////////////\n\nDevelopers:\nCode: [#c3961f]Deer[][#876409]Carbonate[]\nSprites: [#c3961f]Deer[][#876409]Carbonate[]\nMaps: [#c3961f]Deer[][#876409]Carbonate[]\nLocalization: [#c3961f]Deer[][#876409]Carbonate[]\n\nSpecial Thanks:\nMusic: [purple]ACE[] — \"the last fight\", \"in orbit\", \"create\", \"smth far away\"; [#ffe1a4]garretski[] — The main Azimuth soundtrack.\nMaps: [#ce7e5c]Kivet/БОБ[] — \"Cold Harbor\"; [#fce4e0]Fate of Adrastus[] — \"Tight Caverns\"; [#84f491]Alpotat[] — assistance with the map \"Arrival\".\nCode: [white]KO[][#A4A4A4]STO[][#6D6D6D]LOM[]"
   },
   {
     "repo": "flintyx/animalia",
@@ -650,7 +650,7 @@
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-10-16T12:46:35Z",
+    "lastUpdated": "2026-10-16T15:00:17Z",
     "stars": 42,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -3038,6 +3038,20 @@
     "description": "A to be produced mod"
   },
   {
+    "repo": "justtheblazinggear/advanceddifficulties",
+    "internalName": "advdiff",
+    "name": "Advanced Difficulties",
+    "version": "1.0.1",
+    "hidden": false,
+    "author": "[#ffb876]BlazingGear",
+    "lastUpdated": "2026-10-12T20:07:28Z",
+    "stars": 6,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that overhauls the difficulty selection mechanic with better visuals, more flexible and new unique settings.\n\nThanks to lu69159/MoreCustomSettings for the modifiers that persist for each planet and some other code."
+  },
+  {
     "repo": "thomasthings/serpulo-scaled",
     "internalName": "ss",
     "name": "Serpulo Scaled",
@@ -3260,20 +3274,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod replaces vanilla sprites with modified versions."
-  },
-  {
-    "repo": "justtheblazinggear/advanceddifficulties",
-    "internalName": "advdiff",
-    "name": "Advanced Difficulties",
-    "version": "1.0.1",
-    "hidden": false,
-    "author": "[#ffb876]BlazingGear",
-    "lastUpdated": "2026-10-12T20:07:28Z",
-    "stars": 5,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that overhauls the difficulty selection mechanic with better visuals, more flexible and new unique settings.\n\nThanks to lu69159/MoreCustomSettings for the modifiers that persist for each planet and some other code."
   },
   {
     "repo": "koctz34/canvases",
@@ -3878,6 +3878,20 @@
     "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730\n服务器:103.40.14.91:42275\n备用:114.66.28.186:45689"
   },
   {
+    "repo": "jovinull/factoryscope",
+    "internalName": "factory-scope",
+    "name": "FactoryScope",
+    "version": "1.1.0",
+    "hidden": true,
+    "author": "Jovinull",
+    "lastUpdated": "2026-10-16T16:51:21Z",
+    "stars": 4,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Read-only Mindustry factory diagnostics: building state, area reports, supported item/liquid routes, and power-grid evidence."
+  },
+  {
     "repo": "evo04taser/mindustry-turrets-extension",
     "internalName": "new-turrets",
     "name": "Mindustry Turrets Extension",
@@ -4452,20 +4466,6 @@
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
-    "repo": "momiji142857/ve-addon-momijiadd",
-    "internalName": "ve-addon-momiji",
-    "name": "VE Addon: MomijiAdd",
-    "version": "1.3",
-    "hidden": false,
-    "author": "[sky]Momiji142857[white]",
-    "lastUpdated": "2026-10-03T16:45:25Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add-on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]本模组以 VE 为软依赖，主要内容仅在同时启用 VE 时可用。\n首次启用本模组时，可能会提示缺少前置模组，此时可以忽略，退出并重启游戏即可。\nThis mod treats VE as a soft dependency; its main content is only available when VE is also enabled.\nWhen you first enable this mod, it may warn about missing prerequisites. You can ignore the warning and restart the game.[white]\n\n本模组在 VE 本体基础上添加了一些实用内容，可能会降低游戏难度或影响平衡；建议在熟悉 VE 本体后再使用。\nThis mod adds some practical content on top of VE. It may reduce difficulty or affect balance, so it is recommended for players already familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-10-02[white]"
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -4480,20 +4480,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "jovinull/factoryscope",
-    "internalName": "factory-scope",
-    "name": "FactoryScope",
-    "version": "1.1.0",
-    "hidden": true,
-    "author": "Jovinull",
-    "lastUpdated": "2026-10-05T21:41:08Z",
-    "stars": 3,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Read-only Mindustry factory diagnostics: building state, area reports, supported item/liquid routes, and power-grid evidence."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4506,6 +4492,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "momiji142857/ve-addon-momijiadd",
+    "internalName": "ve-addon-momiji",
+    "name": "VE Addon: MomijiAdd",
+    "version": "1.3.1",
+    "hidden": false,
+    "author": "[sky]Momiji142857[white]",
+    "lastUpdated": "2026-10-16T19:11:08Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion (VE) 原版扩展[white]的个人向内容扩展附属\nA personal content add-on for [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]本模组以 VE 为软依赖，主要内容仅在同时启用 VE 时可用。\n首次启用本模组时，可能会提示缺少前置模组，此时可以忽略，退出并重启游戏即可。\nThis mod treats VE as a soft dependency; its main content is only available when VE is also enabled.\nWhen you first enable this mod, it may warn about missing prerequisites. You can ignore the warning and restart the game.[white]\n\n本模组在 VE 本体基础上添加了一些实用内容，可能会降低游戏难度或影响平衡；建议在熟悉 VE 本体后再使用。\nThis mod adds some practical content on top of VE. It may reduce difficulty or affect balance, so it is recommended for players already familiar with VE.\n\n[accent]最后更新 / Last updated: 2026-10-17[white]"
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5558,20 +5558,6 @@
     "description": "Mindustry? Yes, but more!"
   },
   {
-    "repo": "momiji142857/momijicrafterlib",
-    "internalName": "momiji-lib",
-    "name": "MomijiLib",
-    "version": "1.6.0",
-    "hidden": false,
-    "author": "[sky]Momiji142857[white]",
-    "lastUpdated": "2026-10-14T12:12:16Z",
-    "stars": 2,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "磨米机库.\n2026-10-14"
-  },
-  {
     "repo": "rovstam/schematic-table-qol",
     "internalName": "schematic table qol",
     "name": "Schematic table QoL",
@@ -5598,6 +5584,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
+  },
+  {
+    "repo": "momiji142857/momijicrafterlib",
+    "internalName": "momiji-lib",
+    "name": "MomijiLib",
+    "version": "1.7.0",
+    "hidden": false,
+    "author": "[sky]Momiji142857[white]",
+    "lastUpdated": "2026-10-16T18:39:36Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "磨米机库.\n2026-10-17"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7286,7 +7286,7 @@
     "version": "0.2.2.1",
     "hidden": false,
     "author": "October",
-    "lastUpdated": "2026-10-15T16:32:27Z",
+    "lastUpdated": "2026-10-16T15:55:10Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -8484,20 +8484,6 @@
     "description": "Allows clients to pause during a campaign hosting session. More features are planned."
   },
   {
-    "repo": "enwelk/mindustry-replaymod",
-    "internalName": "replaymod",
-    "name": "ReplayMod",
-    "version": "3.0",
-    "hidden": false,
-    "author": "EnWelk",
-    "lastUpdated": "2026-10-16T12:51:01Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Record and replay your gameplay sessions in Mindustry. Telegram: @EnWelk"
-  },
-  {
     "repo": "wang-0-1/random-enhancement",
     "internalName": "raen",
     "name": " 随机强化  Random Enhancement",
@@ -8510,5 +8496,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "一个给敌军提供随机强化的Java模组\n A Java mod that gives random buffs to the enemy army"
+  },
+  {
+    "repo": "enwelk/mindustry-replaymod",
+    "internalName": "replaymod",
+    "name": "ReplayMod",
+    "version": "0.3.3.1",
+    "hidden": false,
+    "author": "EnWelk",
+    "lastUpdated": "2026-10-16T17:10:53Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Record and replay your gameplay sessions in Mindustry. Telegram: @EnWelk. I didn't test it in multiplayer and with random unit logic."
   }
 ]
