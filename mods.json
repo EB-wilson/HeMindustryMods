@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FFC2D1]S[#FFADC2]h[#FF97B3]a[#FF81A3]r[#FF6C94]l[#F45885]o[#E84375]t[#DD2F67]t[#D11A58]e[]",
     "lastUpdated": "2026-10-14T15:27:10Z",
-    "stars": 246,
+    "stars": 247,
     "minGameVersion": "160.7",
     "hasScripts": false,
     "hasJava": true,
@@ -203,7 +203,7 @@
     "hidden": false,
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
     "lastUpdated": "2025-11-10T07:24:23Z",
-    "stars": 127,
+    "stars": 128,
     "minGameVersion": "140",
     "hasScripts": true,
     "hasJava": false,
@@ -216,7 +216,7 @@
     "version": "4.2.9",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-15T20:23:00Z",
+    "lastUpdated": "2026-10-16T14:04:21Z",
     "stars": 127,
     "minGameVersion": "160.5",
     "hasScripts": false,
@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-16T04:58:36Z",
+    "lastUpdated": "2026-10-16T12:59:08Z",
     "stars": 71,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -490,20 +490,6 @@
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "5.1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-10-15T19:11:10Z",
-    "stars": 51,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
-  },
-  {
     "repo": "deercarbonate/azimuth",
     "internalName": "azimut",
     "name": "Azimuth",
@@ -516,6 +502,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[#d3f2f4]Hybrid[] mod primarily built around a gradually branching campaign that expands in multiple directions.\n\nThe mod adds a new planet, [#f7e9af]Gelion[], featuring its own campaign, star system, research tree, and gameplay mechanics.\nThe planet offers over 90 blocks to research, 12 units [#ffd37f]each with their own unique abilities[], 13 campaign sectors, more than [#ffd37f]6 new mechanics[], and plenty of room for map creation.\n\nOn top of that, the campaign also stands out with absolutely [#e65c5c]BRUTAL[] visual effects. Every texture was made with care and dedication.\n\n[#e65c5c]THIS MOD IS STILL IN DEVELOPMENT![]\n[#ffd37f]The current completion percentage is approximately 64%, with plenty of room to grow![]\n\nHelp me develop the mod! Join the [#768bff]Azimuth Discord server[] using the [#ffd37f]link in the README file on the mod's official GitHub page.[]\n\n///////////////////////////////\n\nLand on a [#c9c1eb]sub-cryonic[] terra slowly heating up beneath its [#e99696]unstable star[]. The celestial body is suffering from [#ffbe93]global warming[] — glaciers are melting, atmospheric pressure is rising, and temperatures continue to climb.\n[#e99696]Exterminate the enemy faction[]. Turn the planet into a temporary source of raw materials. [#d1e3ff]Witness a world that will soon become[] [#506381]ash[].\n\nIf you enjoyed the mod, please consider giving it a star!\n[#c9c1eb]Thank you for playing.[]\n\n///////////////////////////////\n\nDevelopers:\nCode: [#c3961f]Deer[][#876409]Carbonate[]\nSprites: [#c3961f]Deer[][#876409]Carbonate[]\nMaps: [#c3961f]Deer[][#876409]Carbonate[]\nLocalization: [#c3961f]Deer[][#876409]Carbonate[]\n\nSpecial Thanks:\nMusic: [purple]ACE[] — \"the last fight\", \"in orbit\", \"create\", \"smth far away\"; [#ffe1a4]garretski[] — The main Azimuth soundtrack.\nMaps: [#ce7e5c]Kivet/БОБ[] — \"Cold Harbor\"; [#fce4e0]Fate of Adrastus[] — \"Tight Caverns\"; [#84f491]Alpotat[] — assistance with the map \"Arrival\".\nCode: [white]KO[][#A4A4A4]STO[][#6D6D6D]LOM[]"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "5.1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-10-16T13:33:22Z",
+    "stars": 51,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "flintyx/animalia",
@@ -608,12 +608,26 @@
     "version": "2.4.4",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-10-08T21:09:00Z",
+    "lastUpdated": "2026-10-16T12:53:00Z",
     "stars": 44,
     "minGameVersion": "159.5",
     "hasScripts": false,
     "hasJava": true,
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends."
+  },
+  {
+    "repo": "electricgun/cheat-codes-mod",
+    "internalName": "cheat-codes",
+    "name": "Cheat Codes Mod",
+    "version": "v1.7.3",
+    "hidden": true,
+    "author": "electricgun",
+    "lastUpdated": "2026-05-17T17:10:49Z",
+    "stars": 43,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
     "repo": "eb-wilson/universecore",
@@ -630,27 +644,13 @@
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
-    "repo": "electricgun/cheat-codes-mod",
-    "internalName": "cheat-codes",
-    "name": "Cheat Codes Mod",
-    "version": "v1.7.3",
-    "hidden": true,
-    "author": "electricgun",
-    "lastUpdated": "2026-05-17T17:10:49Z",
-    "stars": 42,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
-  },
-  {
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
     "name": "mod-tools",
     "version": "1.6.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-10-12T15:21:48Z",
+    "lastUpdated": "2026-10-16T12:46:35Z",
     "stars": 42,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -734,7 +734,7 @@
     "version": "v5 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n- 黒板消し (kokubankesei)\n",
-    "lastUpdated": "2026-10-16T05:48:02Z",
+    "lastUpdated": "2026-10-16T13:48:51Z",
     "stars": 37,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1246,6 +1246,20 @@
     "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
+    "repo": "determination-wind/logicsugar",
+    "internalName": "logicsugar",
+    "name": "Logic Sugar",
+    "version": "5.9.1",
+    "hidden": true,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-10-15T04:48:29Z",
+    "stars": 20,
+    "minGameVersion": "160.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog."
+  },
+  {
     "repo": "sporrus/randommindustry",
     "internalName": "random-mindustry",
     "name": "Random Mindustry",
@@ -1641,10 +1655,10 @@
     "repo": "lu69159/morecustomsettings",
     "internalName": "mcs",
     "name": "More Custom Settings",
-    "version": "1.9.8",
+    "version": "1.10.0",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-10-16T08:43:03Z",
+    "lastUpdated": "2026-10-16T09:07:27Z",
     "stars": 13,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1938,7 +1952,7 @@
     "version": "0.4.0",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-16T03:56:06Z",
+    "lastUpdated": "2026-10-16T14:25:04Z",
     "stars": 11,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1958,6 +1972,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry modding utilities to make mod development easier."
+  },
+  {
+    "repo": "koctz34/factor",
+    "internalName": "factor",
+    "name": "Factor",
+    "version": "0.0.3Alpha",
+    "hidden": false,
+    "author": "MISTICA",
+    "lastUpdated": "2024-07-05T06:43:37Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "THE MAIN PLANET Nauvis IS STILL UNDER DEVELOPMENT, IT IS EXTREMELY NOT RECOMMENDED TO PLAY ON IT.\n\nFactorio in mindustry!\n\nIn this mod, almost all the content from the Factorio game will be transferred. You have to build a big factory... and launch a rocket! The mod is not in very active development, support is needed for the development of the mod.\n\nFor an atmospheric game, it is recommended to download factroundustry. Good luck with building the factory!"
   },
   {
     "repo": "agzam4/mindustry-mod",
@@ -2056,20 +2084,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A plugin mod for Mindustry that gives you more control over your saves: back up and restore a whole save (maps, schematics and progress settings included), edit the maps inside a save or a backup without leaving the game, keep several independent players on one device, and sync a save between devices with a cloud save server you host yourself. It adds no game content and does not affect net multiplayer. More details in the GitHub repo."
-  },
-  {
-    "repo": "koctz34/factor",
-    "internalName": "factor",
-    "name": "Factor",
-    "version": "0.0.3Alpha",
-    "hidden": false,
-    "author": "MISTICA",
-    "lastUpdated": "2024-07-05T06:43:37Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "THE MAIN PLANET Nauvis IS STILL UNDER DEVELOPMENT, IT IS EXTREMELY NOT RECOMMENDED TO PLAY ON IT.\n\nFactorio in mindustry!\n\nIn this mod, almost all the content from the Factorio game will be transferred. You have to build a big factory... and launch a rocket! The mod is not in very active development, support is needed for the development of the mod.\n\nFor an atmospheric game, it is recommended to download factroundustry. Good luck with building the factory!"
   },
   {
     "repo": "i-hope1/mod.make",
@@ -2198,20 +2212,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
-    "repo": "coriummindustry/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "version": "2.9.1",
-    "hidden": true,
-    "author": "io community",
-    "lastUpdated": "2026-10-02T13:47:47Z",
-    "stars": 9,
-    "minGameVersion": "160.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Improves your experience on the official Corium  Flood server."
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2252,6 +2252,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
+    "repo": "coriummindustry/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "version": "2.9.3",
+    "hidden": true,
+    "author": "io community",
+    "lastUpdated": "2026-10-16T12:03:05Z",
+    "stars": 9,
+    "minGameVersion": "160.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Improves your experience on the official Corium  Flood server."
   },
   {
     "repo": "p101q/snowdustry",
@@ -4074,6 +4088,20 @@
     "description": "Explore a new planet submerged in naphtha and utilize buildings with an exotic, new form."
   },
   {
+    "repo": "nickseal80/mindustry-time-factor-2",
+    "internalName": "time-factor 2",
+    "name": "Time Factor 2",
+    "version": "2.2",
+    "hidden": false,
+    "author": "Seal",
+    "lastUpdated": "2026-03-22T19:24:35Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Real-time speed control for Mindustry. Customize speed limits and reset instantly with a clean UI."
+  },
+  {
     "repo": "axilians/arx-alpha-mod-mindustry",
     "internalName": "arx-khimeris",
     "name": "⚠ Test Mod",
@@ -4452,6 +4480,20 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
+    "repo": "jovinull/factoryscope",
+    "internalName": "factory-scope",
+    "name": "FactoryScope",
+    "version": "1.1.0",
+    "hidden": true,
+    "author": "Jovinull",
+    "lastUpdated": "2026-10-05T21:41:08Z",
+    "stars": 3,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Read-only Mindustry factory diagnostics: building state, area reports, supported item/liquid routes, and power-grid evidence."
+  },
+  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -4730,6 +4772,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A campaign mod with a planet themed around magic.\n\nCompletion rate: ~50%\n\nContent is designed with intention . Tech tree is non-linear, and levels actually play differently from each other.\n\nLore is for chumps, this is raw gameplay injected right into your veins!\n\n[red]Difficulty:[] modest, no handholding\n[yellow]Length:[] short if you're good\n[green]Quality:[] astonishing really\n[cyan]Translation:[] none\n[cyan]Release date:[] in the future"
+  },
+  {
+    "repo": "stabu-dev/thats-fire",
+    "internalName": "that'sfire",
+    "name": "That's Fire",
+    "version": "1.0",
+    "hidden": true,
+    "author": "stabu_",
+    "lastUpdated": "2025-08-03T21:20:12Z",
+    "stars": 2,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Makes fire pretty \n[gray](and blocky)"
   },
   {
     "repo": "dustdustry/logicscreenshot",
@@ -8232,20 +8288,6 @@
     "description": "Eine Mod, die extrophaxenolithische Technologien hinzufügt. BITTE DEN NEUSTEN RELEASE HERUNTERLADEN!"
   },
   {
-    "repo": "jovinull/factoryscope",
-    "internalName": "factory-scope",
-    "name": "FactoryScope",
-    "version": "1.1.0",
-    "hidden": true,
-    "author": "Jovinull",
-    "lastUpdated": "2026-10-05T21:41:08Z",
-    "stars": 0,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Read-only Mindustry factory diagnostics: building state, area reports, supported item/liquid routes, and power-grid evidence."
-  },
-  {
     "repo": "charhon/casino-mod",
     "internalName": "casino-mod",
     "name": "Казино|Casino",
@@ -8414,18 +8456,18 @@
     "description": "Details coming soon, Currently adding the content with new sprites and Base Content for expansion"
   },
   {
-    "repo": "wang-0-1/random-enhancement",
-    "internalName": "raen",
-    "name": " 随机强化  Random Enhancement",
-    "version": "160.3.3",
-    "hidden": false,
-    "author": "WaNg-0-1",
-    "lastUpdated": "2026-10-15T22:20:55Z",
+    "repo": "yandujun363/splitport",
+    "internalName": "splitport",
+    "name": "SplitPort (SRV)",
+    "version": "2.3.0",
+    "hidden": true,
+    "author": "yandujun363",
+    "lastUpdated": "2026-10-16T10:17:50Z",
     "stars": 0,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "一个给敌军提供随机强化的Java模组\n A Java mod that gives random buffs to the enemy army"
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Client-side only: reads the separate TCP and UDP ports from the _mindustry._tcp and _mindustry._udp SRV records, so you can join servers whose NAT exposes a different external port for each protocol. Falls back to the vanilla single-port logic whenever no SRV record answers, adds no content, and is hidden from the multiplayer mod handshake so servers without it never kick you."
   },
   {
     "repo": "coaxgames/multiplayer-campaign-expansion-mod",
@@ -8434,11 +8476,39 @@
     "version": "3.2",
     "hidden": false,
     "author": "Xaon4207",
-    "lastUpdated": "2026-10-16T08:40:56Z",
+    "lastUpdated": "2026-10-16T12:12:12Z",
     "stars": 0,
     "minGameVersion": "160.5",
     "hasScripts": false,
     "hasJava": true,
     "description": "Allows clients to pause during a campaign hosting session. More features are planned."
+  },
+  {
+    "repo": "enwelk/mindustry-replaymod",
+    "internalName": "replaymod",
+    "name": "ReplayMod",
+    "version": "3.0",
+    "hidden": false,
+    "author": "EnWelk",
+    "lastUpdated": "2026-10-16T12:51:01Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Record and replay your gameplay sessions in Mindustry. Telegram: @EnWelk"
+  },
+  {
+    "repo": "wang-0-1/random-enhancement",
+    "internalName": "raen",
+    "name": " 随机强化  Random Enhancement",
+    "version": "160.3.4",
+    "hidden": false,
+    "author": "WaNg-0-1",
+    "lastUpdated": "2026-10-16T13:29:25Z",
+    "stars": 0,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "一个给敌军提供随机强化的Java模组\n A Java mod that gives random buffs to the enemy army"
   }
 ]
