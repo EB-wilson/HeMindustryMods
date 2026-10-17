@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-16T12:59:08Z",
+    "lastUpdated": "2026-10-17T03:13:02Z",
     "stars": 71,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -490,20 +490,6 @@
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "5.1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-10-16T13:33:22Z",
-    "stars": 51,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
-  },
-  {
     "repo": "deercarbonate/azimuth",
     "internalName": "azimut",
     "name": "Azimuth",
@@ -516,6 +502,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[#d3f2f4]Hybrid[] mod primarily built around a gradually branching campaign that expands in multiple directions.\n\nThe mod adds a new planet, [#f7e9af]Gelion[], featuring its own campaign, star system, research tree, and gameplay mechanics.\nThe planet offers over 90 blocks to research, 12 units [#ffd37f]each with their own unique abilities[], 13 campaign sectors, more than [#ffd37f]6 new mechanics[], and plenty of room for map creation.\n\nOn top of that, the campaign also stands out with absolutely [#e65c5c]BRUTAL[] visual effects. Every texture was made with care and dedication.\n\n[#e65c5c]THIS MOD IS STILL IN DEVELOPMENT![]\n[#ffd37f]The current completion percentage is approximately 64%, with plenty of room to grow![]\n\nHelp me develop the mod! Join the [#768bff]Azimuth Discord server[] using the [#ffd37f]link in the README file on the mod's official GitHub page.[]\n\n///////////////////////////////\n\nLand on a [#c9c1eb]sub-cryonic[] terra slowly heating up beneath its [#e99696]unstable star[]. The celestial body is suffering from [#ffbe93]global warming[] — glaciers are melting, atmospheric pressure is rising, and temperatures continue to climb.\n[#e99696]Exterminate the enemy faction[]. Turn the planet into a temporary source of raw materials. [#d1e3ff]Witness a world that will soon become[] [#506381]ash[].\n\nIf you enjoyed the mod, please consider giving it a star!\n[#c9c1eb]Thank you for playing.[]\n\n///////////////////////////////\n\nDevelopers:\nCode: [#c3961f]Deer[][#876409]Carbonate[]\nSprites: [#c3961f]Deer[][#876409]Carbonate[]\nMaps: [#c3961f]Deer[][#876409]Carbonate[]\nLocalization: [#c3961f]Deer[][#876409]Carbonate[]\n\nSpecial Thanks:\nMusic: [purple]ACE[] — \"the last fight\", \"in orbit\", \"create\", \"smth far away\"; [#ffe1a4]garretski[] — The main Azimuth soundtrack.\nMaps: [#ce7e5c]Kivet/БОБ[] — \"Cold Harbor\"; [#fce4e0]Fate of Adrastus[] — \"Tight Caverns\"; [#84f491]Alpotat[] — assistance with the map \"Arrival\".\nCode: [white]KO[][#A4A4A4]STO[][#6D6D6D]LOM[]"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "5.1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-10-17T00:45:19Z",
+    "stars": 51,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "flintyx/animalia",
@@ -3850,20 +3850,6 @@
     "description": "[TESTING VERSION - may contain bugs and softlocks!] A meme overhaul in the spirit of Factorio's Fun Mode: a pile of cursed-but-playable gameplay changes, each toggleable. Works in singleplayer and when hosting; joining someone else's server disables the simulation-touching curses.\n\n[ТЕСТОВАЯ ВЕРСИЯ - возможны баги и софтлоки!] Мем-переделка в духе Fun Mode для Factorio: набор безумных, но играбельных изменений геймплея, каждое из которых можно включить или выключить отдельно. Работает в одиночной игре и при хостинге; при подключении к чужому серверу механики, влияющие на симуляцию, автоматически отключаются."
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Project Farstar (Cryon)",
-    "version": "24.4.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-10-16T02:41:24Z",
-    "stars": 4,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
-  },
-  {
     "repo": "youming66681/magic",
     "internalName": "magic",
     "name": "幻境/magical",
@@ -3884,12 +3870,26 @@
     "version": "1.1.0",
     "hidden": true,
     "author": "Jovinull",
-    "lastUpdated": "2026-10-16T22:33:27Z",
+    "lastUpdated": "2026-10-17T00:44:47Z",
     "stars": 4,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "Read-only Mindustry factory diagnostics: building state, area reports, supported item/liquid routes, and power-grid evidence."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Project Farstar (Cryon)",
+    "version": "24.4.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-10-17T02:49:03Z",
+    "stars": 4,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -5460,20 +5460,6 @@
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
-    "repo": "shenqixingqioule/dawn",
-    "internalName": "破晓",
-    "name": "DAWN",
-    "version": "alpha-0-2",
-    "hidden": false,
-    "author": "神奇星球了",
-    "lastUpdated": "2026-10-01T06:38:28Z",
-    "stars": 2,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "致谢\n某个t3小飞机 - 核心蓝图\n白义F-061 - 战役地图 & 剧情 & 部分简介\n\n[red]请在游玩此MOD前开启双击采矿！\n[red]Please enable Double-Tap to Mine before playing this MOD!"
-  },
-  {
     "repo": "determination-wind/ra2announcer",
     "internalName": "ra2-announcer",
     "name": "RA2 Announcer 索菲亚战场播报",
@@ -5584,6 +5570,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "磨米机库.\n2026-10-17"
+  },
+  {
+    "repo": "shenqixingqioule/dawn",
+    "internalName": "破晓",
+    "name": "DAWN",
+    "version": "alpha-0-2-2",
+    "hidden": false,
+    "author": "神奇星球了",
+    "lastUpdated": "2026-10-17T03:05:12Z",
+    "stars": 2,
+    "minGameVersion": "160.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n\n[gray]支持语言\n\n - [red]简体中文\n\n[gray] - [red]English\n\n\n[white]致谢\n某个t3小飞机 - 核心蓝图\n白义F-061 - 战役地图 & 部分简介\n\n为了您游玩此MOD拥有更佳的体验，请使用原版Mindustry游玩(不包含MdtX、学术等辅助版本)\n\n\n[red]请在游玩此MOD前开启双击采矿！\n\n[red]Please enable Double-Tap to Mine before playing this MOD!\n\n\n[gray]GitHub开源链接: https://github.com/shenqixingqioule/DAWN"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7286,12 +7286,26 @@
     "version": "1.0.3",
     "hidden": true,
     "author": "Rovstam",
-    "lastUpdated": "2026-10-16T21:11:24Z",
+    "lastUpdated": "2026-10-17T02:04:14Z",
     "stars": 1,
     "minGameVersion": "158.1",
     "hasScripts": true,
     "hasJava": false,
     "description": "Move schematics between table slots and drag them from the library into the Extended UI table."
+  },
+  {
+    "repo": "itzmellory/advanced-redactor",
+    "internalName": "advanced-redactor",
+    "name": " Advanced Redactor ",
+    "version": "1.0",
+    "hidden": true,
+    "author": "3301 (AKA Mellory) and VI Clan",
+    "lastUpdated": "2026-10-17T02:31:39Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Advanced map editor tools and custom world generation."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8470,20 +8484,6 @@
     "description": "Client-side only: reads the separate TCP and UDP ports from the _mindustry._tcp and _mindustry._udp SRV records, so you can join servers whose NAT exposes a different external port for each protocol. Falls back to the vanilla single-port logic whenever no SRV record answers, adds no content, and is hidden from the multiplayer mod handshake so servers without it never kick you."
   },
   {
-    "repo": "coaxgames/multiplayer-campaign-expansion-mod",
-    "internalName": "mcem",
-    "name": "Multiplayer Campaign Expansion Mod",
-    "version": "3.2",
-    "hidden": false,
-    "author": "Xaon4207",
-    "lastUpdated": "2026-10-16T12:12:12Z",
-    "stars": 0,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Allows clients to pause during a campaign hosting session. More features are planned."
-  },
-  {
     "repo": "wang-0-1/random-enhancement",
     "internalName": "raen",
     "name": " 随机强化  Random Enhancement",
@@ -8510,5 +8510,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Record and replay your gameplay sessions in Mindustry. Telegram: @EnWelk. I didn't test it in multiplayer and with random unit logic."
+  },
+  {
+    "repo": "coaxgames/multiplayer-campaign-expansion-mod",
+    "internalName": "mcem",
+    "name": "Multiplayer Campaign Expansion Mod",
+    "version": "3.3",
+    "hidden": false,
+    "author": "Xaon4207",
+    "lastUpdated": "2026-10-17T01:18:04Z",
+    "stars": 0,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Allows clients to pause during a campaign hosting session. More features are planned."
   }
 ]
