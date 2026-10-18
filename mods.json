@@ -154,6 +154,20 @@
     "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
   },
   {
+    "repo": "stabu-dev/omaloon",
+    "internalName": "omaloon",
+    "name": "Omaloon",
+    "version": "0.1.2A Indev 8",
+    "hidden": false,
+    "author": "stabu",
+    "lastUpdated": "2026-10-18T23:09:53Z",
+    "stars": 142,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An ambitious campaign expansion featuring a brand new star system.\n\n[red]⚠️ Stable Build is Outdated ⚠️[]\nThe current stable release doesn't support Mindustry v8. All new features and v8 compatibility are actively being built in [accent]Indev[] (In-Development) snapshots.\n\n[accent]How to play the v8 Indevs:[]\nThe default install button ignores pre-releases. To get the latest content:\n[gray]1.[] Tap [accent]View Releases[] in this menu.\n[gray]2.[] Select the newest [orange]indev[] version.\n[gray]3.[] Install it manually."
+  },
+  {
     "repo": "blackdeluxecat/mi2-utilities-java",
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
@@ -161,25 +175,11 @@
     "hidden": true,
     "author": "BlackDeluxeCat",
     "lastUpdated": "2026-09-13T14:37:50Z",
-    "stars": 142,
+    "stars": 141,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "QOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players."
-  },
-  {
-    "repo": "stabu-dev/omaloon",
-    "internalName": "omaloon",
-    "name": "Omaloon",
-    "version": "0.1.2A Indev 8",
-    "hidden": false,
-    "author": "stabu",
-    "lastUpdated": "2026-10-18T19:34:09Z",
-    "stars": 142,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An ambitious campaign expansion featuring a brand new star system.\n\n[red]⚠️ Stable Build is Outdated ⚠️[]\nThe current stable release doesn't support Mindustry v8. All new features and v8 compatibility are actively being built in [accent]Indev[] (In-Development) snapshots.\n\n[accent]How to play the v8 Indevs:[]\nThe default install button ignores pre-releases. To get the latest content:\n[gray]1.[] Tap [accent]View Releases[] in this menu.\n[gray]2.[] Select the newest [orange]indev[] version.\n[gray]3.[] Install it manually."
   },
   {
     "repo": "eschatologue/unlimited-armament-works",
@@ -199,12 +199,12 @@
     "repo": "twcash/aquarion",
     "internalName": "aquarion",
     "name": "Aquarion",
-    "version": "4.2.9",
+    "version": "4.3.0",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-18T18:16:40Z",
+    "lastUpdated": "2026-10-18T22:44:26Z",
     "stars": 129,
-    "minGameVersion": "160.5",
+    "minGameVersion": "160.7",
     "hasScripts": false,
     "hasJava": true,
     "description": "A complete rewrite of the campaign. Currently in heavy development."
@@ -287,7 +287,7 @@
     "hidden": false,
     "author": "滞人",
     "lastUpdated": "2026-06-13T12:08:06Z",
-    "stars": 91,
+    "stars": 90,
     "minGameVersion": "158",
     "hasScripts": true,
     "hasJava": false,
@@ -549,10 +549,10 @@
     "repo": "00sunray00/scheme-size-port",
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
-    "version": "2.2.0",
+    "version": "2.2.5",
     "hidden": true,
     "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22",
-    "lastUpdated": "2026-10-18T19:56:37Z",
+    "lastUpdated": "2026-10-18T20:16:11Z",
     "stars": 47,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1750,20 +1750,6 @@
     "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
   },
   {
-    "repo": "meepoffaith/additional-logistics",
-    "internalName": "tranqol",
-    "name": "Additional Logistics",
-    "version": "v8.3",
-    "hidden": false,
-    "author": "MEEPofFaith",
-    "lastUpdated": "2026-09-05T10:21:40Z",
-    "stars": 12,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A quality of life mod that adds useful blocks for transportation and logistics."
-  },
-  {
     "repo": "novanox4/meridium",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1902,6 +1888,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\n\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nThis mod is not the original unofficial port of Scheme Size — it is a fork. The developers of the original port and mod are not involved in this in any way.\n\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
+  },
+  {
+    "repo": "meepoffaith/additional-logistics",
+    "internalName": "tranqol",
+    "name": "Additional Logistics",
+    "version": "v8.3",
+    "hidden": false,
+    "author": "MEEPofFaith",
+    "lastUpdated": "2026-09-05T10:21:40Z",
+    "stars": 11,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
     "repo": "wantechfan/mindustry-community-musics",
@@ -3898,7 +3898,7 @@
     "version": "24.4.0",
     "hidden": false,
     "author": "Bowen-H0",
-    "lastUpdated": "2026-10-18T17:27:40Z",
+    "lastUpdated": "2026-10-18T23:26:19Z",
     "stars": 4,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -4326,6 +4326,20 @@
     "description": "The sun is gone guys, what do we do?"
   },
   {
+    "repo": "frilofril/omega",
+    "internalName": "omega",
+    "name": "Omega",
+    "version": "Pre-Demo 0.2.2/5",
+    "hidden": false,
+    "author": "Frilofril",
+    "lastUpdated": "2026-08-14T13:34:05Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n"
+  },
+  {
     "repo": "determination-wind/pinyinsearchsupport",
     "internalName": "pinyinsearchsupport-dev",
     "name": "PinyinSearchSupport / 拼音搜索支持",
@@ -4500,7 +4514,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-10-18T13:44:01Z",
+    "lastUpdated": "2026-10-18T23:39:43Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5166,20 +5180,6 @@
     "description": "[white] This mod adds ability to share schematics via png images.[]\n\n[accent] [#FFF000]Features:[]\n[white] Export schematic-images and share them with your friends (or enemy).[]\n[white] Dropdown images to import schematics.[]\n\n How does it works?\n[white] The game stores schematics either as msch files or base64 encoded strings.\nThis mod stores schematic data inside png itself.\nBy that you can both share and show your schematics at the same time.[]"
   },
   {
-    "repo": "frilofril/omega",
-    "internalName": "omega",
-    "name": "Omega",
-    "version": "Pre-Demo 0.2.2/5",
-    "hidden": false,
-    "author": "Frilofril",
-    "lastUpdated": "2026-08-14T13:34:05Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n"
-  },
-  {
     "repo": "determination-wind/color-the-duct",
     "internalName": "color-the-ducts",
     "name": "Color-the-ducts",
@@ -5589,15 +5589,15 @@
     "repo": "kernelitt/kernelit-s-advanced-schemepack",
     "internalName": "kernelit-advanced-schemepack",
     "name": "Kernelit's Advanced SchemePack",
-    "version": "1.2",
+    "version": "1.3",
     "hidden": true,
     "author": "Kernelit",
-    "lastUpdated": "2026-10-18T11:21:22Z",
+    "lastUpdated": "2026-10-18T22:11:43Z",
     "stars": 2,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Динамический схемпак для кампании и пвп. Тестовая версия. Много схем взяты с сервера, и ещё не под всё они найдутся. 216 схем на текущий момент"
+    "description": "Динамический схемпак для кампании и пвп. Тестовая версия. Много схем взяты с сервера, и ещё не под всё они найдутся. ~270 схем на текущий момент"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7280,20 +7280,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "rovstam/schematic-table-qol",
-    "internalName": "schematic table qol",
-    "name": "Schematic table QoL",
-    "version": "1.0.3",
-    "hidden": true,
-    "author": "Rovstam",
-    "lastUpdated": "2026-10-17T02:04:14Z",
-    "stars": 1,
-    "minGameVersion": "158.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Move schematics between table slots and drag them from the library into the Extended UI table."
-  },
-  {
     "repo": "mullibenmolly/starshineplan",
     "internalName": "xx-mod",
     "name": "StarshinePlan",
@@ -7322,20 +7308,6 @@
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
-    "repo": "itzmellory/advanced-redactor",
-    "internalName": "advanced-redactor",
-    "name": " Advanced Redactor ",
-    "version": "1.0",
-    "hidden": true,
-    "author": "[#00f2fe]⚠ 3301[] [#48b2fe]and[] [#9072fe]VI Clan []",
-    "lastUpdated": "2026-10-18T10:01:59Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#00f2fe] The[] [#24d2fe]Ulti[][#48b2fe]mate[] [#6c92fe]Map[] [#9072fe]Editor []\n\n[#7af0ff] Next-generation terrain synthesis and advanced mapping utilities[]\n[#d0e8ff]Maps created with this mod are[] [#89ff7a]100% compatible with vanilla Mindustry []\n\n[#00f2fe] Fea[][#48b2fe]tures[] [#9072fe](EN):[]\n\n[#00f2fe]- Adv[][#36c2fe]anced[] [#6c92fe]Terrain[] [#9072fe]Creator  -[]\n[#c4d7ff]Multi-layered biome generation, jagged cliffs, shoreline outlines, central basins, and procedural cave networks.[]\n\n[#00f2fe]- Cus[][#36c2fe]tom[] [#6c92fe]Editor[] [#9072fe]UI  -[]\n[#c4d7ff]Seamlessly integrated panels and extended filter controls directly inside the map generator.[]\n\n[#00f2fe]- Com[][#36c2fe]plete[] [#6c92fe]Terrain[] [#9072fe]Control  -[]\n[#c4d7ff]Domain warping, ridged noise, Void Border masks, and multi-floor blending for realistic landscapes.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#00f2fe] Про[][#24d2fe]двину[][#48b2fe]тый[] [#6c92fe]Редак[][#9072fe]тор Карт []\n\n[#7af0ff] Генерация сложного рельефа нового поколения и инструменты картографа[]\n[#d0e8ff]Карты, созданные с этим модом,[] [#89ff7a]полностью совместимы с ванильной игрой []\n\n[#00f2fe] Осо[][#48b2fe]бенно[][#9072fe]сти (RU):[]\n\n[#00f2fe]- Про[][#36c2fe]двинутый[] [#6c92fe]Создатель[] [#9072fe]Рельефа  -[]\n[#c4d7ff]Многослойные биомы, рваные скалы, береговая окантовка, центральные озера и процедурные сети каньонов и пещер.[]\n\n[#00f2fe]- Рас[][#36c2fe]ширен[][#6c92fe]ный[] [#9072fe]Интерфейс  -[]\n[#c4d7ff]Удобные кастомные панели и гибкие настройки фильтров, встроенные прямо в меню генерации.[]\n\n[#00f2fe]- Пол[][#36c2fe]ный[] [#6c92fe]Контроль[] [#9072fe]Ландшафта  -[]\n[#c4d7ff]Искажение координат, гребневый шум, маска внешних границ (Void Border) и смешивание пород.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#ff6b6b]⚠ Glo[][#ff8e82]ry to[] [#ffb199]VI, Bro[][#ffd3b0]thers and[] [#ffece0]Sisters! []"
-  },
-  {
     "repo": "dimon112/directed-lib",
     "internalName": "directed-lib",
     "name": "Directed-Lib",
@@ -7348,6 +7320,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library and utility mod providing directional output crafters and custom drawers for Mindustry, suggested by oscillatorium"
+  },
+  {
+    "repo": "itzmellory/advanced-redactor",
+    "internalName": "advanced-redactor",
+    "name": " Advanced Redactor ",
+    "version": "1.0",
+    "hidden": true,
+    "author": "[#00f2fe]⚠ 3301[] [#48b2fe]and[] [#9072fe]VI Clan []",
+    "lastUpdated": "2026-10-18T23:29:49Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#00f2fe] The[] [#24d2fe]Ulti[][#48b2fe]mate[] [#6c92fe]Map[] [#9072fe]Editor []\n\n[#7af0ff] Next-generation terrain synthesis and advanced mapping utilities[]\n[#d0e8ff]Maps created with this mod are[] [#89ff7a]100% compatible with vanilla Mindustry []\n\n[#00f2fe] Fea[][#48b2fe]tures[] [#9072fe](EN):[]\n\n[#00f2fe]- Adv[][#36c2fe]anced[] [#6c92fe]Terrain[] [#9072fe]Creator  -[]\n[#c4d7ff]Multi-layered biome generation, jagged cliffs, shoreline outlines, central basins, and procedural cave networks.[]\n\n[#00f2fe]- Cus[][#36c2fe]tom[] [#6c92fe]Editor[] [#9072fe]UI  -[]\n[#c4d7ff]Seamlessly integrated panels and extended filter controls directly inside the map generator.[]\n\n[#00f2fe]- Com[][#36c2fe]plete[] [#6c92fe]Terrain[] [#9072fe]Control  -[]\n[#c4d7ff]Domain warping, ridged noise, Void Border masks, and multi-floor blending for realistic landscapes.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#00f2fe] Про[][#24d2fe]двину[][#48b2fe]тый[] [#6c92fe]Редак[][#9072fe]тор Карт []\n\n[#7af0ff] Генерация сложного рельефа нового поколения и инструменты картографа[]\n[#d0e8ff]Карты, созданные с этим модом,[] [#89ff7a]полностью совместимы с ванильной игрой []\n\n[#00f2fe] Осо[][#48b2fe]бенно[][#9072fe]сти (RU):[]\n\n[#00f2fe]- Про[][#36c2fe]двинутый[] [#6c92fe]Создатель[] [#9072fe]Рельефа  -[]\n[#c4d7ff]Многослойные биомы, рваные скалы, береговая окантовка, центральные озера и процедурные сети каньонов и пещер.[]\n\n[#00f2fe]- Рас[][#36c2fe]ширен[][#6c92fe]ный[] [#9072fe]Интерфейс  -[]\n[#c4d7ff]Удобные кастомные панели и гибкие настройки фильтров, встроенные прямо в меню генерации.[]\n\n[#00f2fe]- Пол[][#36c2fe]ный[] [#6c92fe]Контроль[] [#9072fe]Ландшафта  -[]\n[#c4d7ff]Искажение координат, гребневый шум, маска внешних границ (Void Border) и смешивание пород.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#ff6b6b]⚠ Glo[][#ff8e82]ry to[] [#ffb199]VI, Bro[][#ffd3b0]thers and[] [#ffece0]Sisters! []"
+  },
+  {
+    "repo": "rovstam/schematic-table-qol",
+    "internalName": "schematic table qol",
+    "name": "Schematic table QoL",
+    "version": "1.0.4",
+    "hidden": true,
+    "author": "Rovstam",
+    "lastUpdated": "2026-10-18T23:50:32Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Move, delete, and drag schematics in the Extended UI table."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
