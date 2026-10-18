@@ -735,7 +735,7 @@
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n- 黒板消し (kokubankesei)\n",
     "lastUpdated": "2026-10-16T13:48:51Z",
-    "stars": 37,
+    "stars": 38,
     "minGameVersion": "159",
     "hasScripts": true,
     "hasJava": false,
@@ -1952,7 +1952,7 @@
     "version": "0.4.0",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-17T10:18:41Z",
+    "lastUpdated": "2026-10-18T01:51:48Z",
     "stars": 11,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -2240,20 +2240,6 @@
     "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
   },
   {
-    "repo": "unquis/fading-revelations-remake",
-    "internalName": "fading-revelations-remake",
-    "name": "Fading Revelations Remake",
-    "version": "2.5.0",
-    "hidden": false,
-    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2026-10-16T07:43:36Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
-  },
-  {
     "repo": "coriummindustry/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2266,6 +2252,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Improves your experience on the official Corium  Flood server."
+  },
+  {
+    "repo": "unquis/fading-revelations-remake",
+    "internalName": "fading-revelations-remake",
+    "name": "Fading Revelations Remake",
+    "version": "2.5.0",
+    "hidden": false,
+    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2026-10-18T01:40:10Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "p101q/snowdustry",
@@ -3279,10 +3279,10 @@
     "repo": "jovinull/factoryscope",
     "internalName": "factory-scope",
     "name": "FactoryScope",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "hidden": true,
     "author": "Jovinull",
-    "lastUpdated": "2026-10-17T21:23:12Z",
+    "lastUpdated": "2026-10-18T02:47:41Z",
     "stars": 5,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -7294,20 +7294,6 @@
     "description": "[#00f2fe] The[] [#24d2fe]Ulti[][#48b2fe]mate[] [#6c92fe]Map[] [#9072fe]Editor []\n\n[#7af0ff] Next-generation terrain synthesis and advanced mapping utilities[]\n[#d0e8ff]Maps created with this mod are[] [#89ff7a]100% compatible with vanilla Mindustry []\n\n[#00f2fe] Fea[][#48b2fe]tures[] [#9072fe](EN):[]\n\n[#00f2fe]- Adv[][#36c2fe]anced[] [#6c92fe]Terrain[] [#9072fe]Creator  -[]\n[#c4d7ff]Multi-layered biome generation, jagged cliffs, shoreline outlines, central basins, and procedural cave networks.[]\n\n[#00f2fe]- Cus[][#36c2fe]tom[] [#6c92fe]Editor[] [#9072fe]UI  -[]\n[#c4d7ff]Seamlessly integrated panels and extended filter controls directly inside the map generator.[]\n\n[#00f2fe]- Com[][#36c2fe]plete[] [#6c92fe]Terrain[] [#9072fe]Control  -[]\n[#c4d7ff]Domain warping, ridged noise, Void Border masks, and multi-floor blending for realistic landscapes.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#00f2fe] Про[][#24d2fe]двину[][#48b2fe]тый[] [#6c92fe]Редак[][#9072fe]тор Карт []\n\n[#7af0ff] Генерация сложного рельефа нового поколения и инструменты картографа[]\n[#d0e8ff]Карты, созданные с этим модом,[] [#89ff7a]полностью совместимы с ванильной игрой []\n\n[#00f2fe] Осо[][#48b2fe]бенно[][#9072fe]сти (RU):[]\n\n[#00f2fe]- Про[][#36c2fe]двинутый[] [#6c92fe]Создатель[] [#9072fe]Рельефа  -[]\n[#c4d7ff]Многослойные биомы, рваные скалы, береговая окантовка, центральные озера и процедурные сети каньонов и пещер.[]\n\n[#00f2fe]- Рас[][#36c2fe]ширен[][#6c92fe]ный[] [#9072fe]Интерфейс  -[]\n[#c4d7ff]Удобные кастомные панели и гибкие настройки фильтров, встроенные прямо в меню генерации.[]\n\n[#00f2fe]- Пол[][#36c2fe]ный[] [#6c92fe]Контроль[] [#9072fe]Ландшафта  -[]\n[#c4d7ff]Искажение координат, гребневый шум, маска внешних границ (Void Border) и смешивание пород.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#ff6b6b]⚠ Glo[][#ff8e82]ry to[] [#ffb199]VI, Bro[][#ffd3b0]thers and[] [#ffece0]Sisters! []"
   },
   {
-    "repo": "mullibenmolly/starshineplan",
-    "internalName": "xx-mod",
-    "name": "StarshinePlan",
-    "version": "0.0.3_v160.5",
-    "hidden": false,
-    "author": "molo\nmullibenMolly",
-    "lastUpdated": "2026-10-17T14:03:42Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了就别怪我啦。\n若是mod本身存在问题，请及时反馈给我，我会非常感谢你的！虽然没什么奖励就是了。\n没有华丽的制作团队，只有作者一人的挣扎..."
-  },
-  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
@@ -7320,6 +7306,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "mullibenmolly/starshineplan",
+    "internalName": "xx-mod",
+    "name": "StarshinePlan",
+    "version": "0.0.3_v160.5",
+    "hidden": false,
+    "author": "molo\nmullibenMolly",
+    "lastUpdated": "2026-10-18T00:26:02Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了就别怪我啦。\n若是mod本身存在问题，请及时反馈给我，我会非常感谢你的！虽然没什么奖励就是了。\n没有华丽的制作团队，只有作者一人的挣扎..."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
