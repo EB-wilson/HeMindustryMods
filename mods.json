@@ -62,7 +62,7 @@
     "version": "v5.5.17-v8",
     "hidden": true,
     "author": "[#FFC2D1]S[#FFADC2]h[#FF97B3]a[#FF81A3]r[#FF6C94]l[#F45885]o[#E84375]t[#DD2F67]t[#D11A58]e[]",
-    "lastUpdated": "2026-10-19T08:52:50Z",
+    "lastUpdated": "2026-10-19T16:42:57Z",
     "stars": 248,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -161,7 +161,7 @@
     "hidden": false,
     "author": "stabu",
     "lastUpdated": "2026-10-18T23:09:53Z",
-    "stars": 142,
+    "stars": 143,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -199,10 +199,10 @@
     "repo": "twcash/aquarion",
     "internalName": "aquarion",
     "name": "Aquarion",
-    "version": "4.3.0",
+    "version": "4.3.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-19T08:26:52Z",
+    "lastUpdated": "2026-10-19T14:52:51Z",
     "stars": 129,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -1666,6 +1666,20 @@
     "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
+    "repo": "tyt-xexebe/qol-control",
+    "internalName": "qol-control",
+    "name": "QoL Control",
+    "version": "7.9",
+    "hidden": true,
+    "author": "TyTxexebe",
+    "lastUpdated": "2026-10-19T12:52:05Z",
+    "stars": 13,
+    "minGameVersion": "159.5",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A lot of useful & QoL features\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
+  },
+  {
     "repo": "bloody-ocean/bloodyvisual",
     "internalName": "vu",
     "name": "Visual Units",
@@ -1776,20 +1790,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
-  },
-  {
-    "repo": "tyt-xexebe/qol-control",
-    "internalName": "qol-control",
-    "name": "QoL Control",
-    "version": "7.9",
-    "hidden": true,
-    "author": "TyTxexebe",
-    "lastUpdated": "2026-10-19T05:30:13Z",
-    "stars": 12,
-    "minGameVersion": "159.5",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A lot of useful & QoL features\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
     "repo": "slotterleet/a-lot-of-damage",
@@ -3279,15 +3279,15 @@
     "repo": "jovinull/factoryscope",
     "internalName": "factory-scope",
     "name": "FactoryScope",
-    "version": "1.2.1",
+    "version": "1.3.0",
     "hidden": true,
     "author": "Jovinull",
-    "lastUpdated": "2026-10-18T15:53:21Z",
+    "lastUpdated": "2026-10-19T14:36:56Z",
     "stars": 5,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Read-only Mindustry factory diagnostics: building state, area reports, supported item/liquid routes, and power-grid evidence."
+    "description": "Read-only Mindustry factory diagnostics: building state, area reports, supported item/payload/liquid routes, and power-grid evidence."
   },
   {
     "repo": "koctz34/canvases",
@@ -4528,7 +4528,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-10-19T03:57:15Z",
+    "lastUpdated": "2026-10-19T11:14:24Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -7294,20 +7294,6 @@
     "description": "基本独立于原版内容，请勿与原版混用。\n没做兼容哦，崩了就别怪我啦。\n若是mod本身存在问题，请及时反馈给我，我会非常感谢你的！虽然没什么奖励就是了。\n没有华丽的制作团队，只有作者一人的挣扎..."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-10-18T08:56:56Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "dimon112/directed-lib",
     "internalName": "directed-lib",
     "name": "Directed-Lib",
@@ -7322,20 +7308,6 @@
     "description": "A library and utility mod providing directional output crafters and custom drawers for Mindustry, suggested by oscillatorium"
   },
   {
-    "repo": "rovstam/schematic-table-qol",
-    "internalName": "schematic table qol",
-    "name": "Schematic table QoL",
-    "version": "1.0.4",
-    "hidden": true,
-    "author": "Rovstam",
-    "lastUpdated": "2026-10-19T02:38:39Z",
-    "stars": 1,
-    "minGameVersion": "158.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Move, delete, and drag schematics in the Extended UI table."
-  },
-  {
     "repo": "itzmellory/advanced-redactor",
     "internalName": "advanced-redactor",
     "name": " Advanced Redactor ",
@@ -7348,6 +7320,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#00f2fe] The[] [#24d2fe]Ulti[][#48b2fe]mate[] [#6c92fe]Map[] [#9072fe]Editor []\n\n[#7af0ff] Next-generation terrain synthesis and advanced mapping utilities[]\n[#d0e8ff]Maps created with this mod are[] [#89ff7a]100% compatible with vanilla Mindustry []\n\n[#00f2fe] Fea[][#48b2fe]tures[] [#9072fe](EN):[]\n\n[#00f2fe]- Adv[][#36c2fe]anced[] [#6c92fe]Terrain[] [#9072fe]Creator  -[]\n[#c4d7ff]Multi-layered biome generation, jagged cliffs, shoreline outlines, central basins, and procedural cave networks.[]\n\n[#00f2fe]- Cus[][#36c2fe]tom[] [#6c92fe]Editor[] [#9072fe]UI  -[]\n[#c4d7ff]Seamlessly integrated panels and extended filter controls directly inside the map generator.[]\n\n[#00f2fe]- Com[][#36c2fe]plete[] [#6c92fe]Terrain[] [#9072fe]Control  -[]\n[#c4d7ff]Domain warping, ridged noise, Void Border masks, and multi-floor blending for realistic landscapes.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#00f2fe] Про[][#24d2fe]двину[][#48b2fe]тый[] [#6c92fe]Редак[][#9072fe]тор Карт []\n\n[#7af0ff] Генерация сложного рельефа нового поколения и инструменты картографа[]\n[#d0e8ff]Карты, созданные с этим модом,[] [#89ff7a]полностью совместимы с ванильной игрой []\n\n[#00f2fe] Осо[][#48b2fe]бенно[][#9072fe]сти (RU):[]\n\n[#00f2fe]- Про[][#36c2fe]двинутый[] [#6c92fe]Создатель[] [#9072fe]Рельефа  -[]\n[#c4d7ff]Многослойные биомы, рваные скалы, береговая окантовка, центральные озера и процедурные сети каньонов и пещер.[]\n\n[#00f2fe]- Рас[][#36c2fe]ширен[][#6c92fe]ный[] [#9072fe]Интерфейс  -[]\n[#c4d7ff]Удобные кастомные панели и гибкие настройки фильтров, встроенные прямо в меню генерации.[]\n\n[#00f2fe]- Пол[][#36c2fe]ный[] [#6c92fe]Контроль[] [#9072fe]Ландшафта  -[]\n[#c4d7ff]Искажение координат, гребневый шум, маска внешних границ (Void Border) и смешивание пород.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#ff6b6b]⚠ Glo[][#ff8e82]ry to[] [#ffb199]VI, Bro[][#ffd3b0]thers and[] [#ffece0]Sisters! []"
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-10-19T15:02:35Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "rovstam/schematic-table-qol",
+    "internalName": "schematic table qol",
+    "name": "Schematic table QoL",
+    "version": "1.0.4",
+    "hidden": true,
+    "author": "Rovstam",
+    "lastUpdated": "2026-10-19T16:07:39Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Move, delete, and drag schematics in the Extended UI table."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8566,5 +8566,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Record and replay your gameplay sessions in Mindustry. Telegram: @EnWelk. I didn't test it in multiplayer and with random unit logic. If you notice an error in the translation, please write to me. Movement playback on PC may have some inaccuracies. I'd appreciate it if you could let me know which unit missed its target and by approximately how much (e.g., one tile, half a tile, etc.)."
+  },
+  {
+    "repo": "dokmimn/mega-router",
+    "internalName": "mega router",
+    "name": "MEGA Router",
+    "version": "1.0",
+    "hidden": false,
+    "author": "dokmimn",
+    "lastUpdated": "2026-10-19T16:13:25Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a MEGA router that is 3x3 blocks in size. While its functionality remains the same as a standard router, it can be quite useful in-game. This is my first mod, please download it and add it to your favorites! "
   }
 ]
