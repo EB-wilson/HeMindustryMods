@@ -2736,7 +2736,7 @@
     "version": "[red]1.0",
     "hidden": false,
     "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-10-17T10:22:39Z",
+    "lastUpdated": "2026-10-20T20:38:27Z",
     "stars": 7,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -5516,20 +5516,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "lamamega/attarax-modpack",
-    "internalName": "attarax mod-pack",
-    "name": "AttaraX Mod-Pack",
-    "version": "1.0",
-    "hidden": false,
-    "author": "AttaraX",
-    "lastUpdated": "2026-10-13T20:25:05Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry? Yes, but more!"
-  },
-  {
     "repo": "shenqixingqioule/dawn",
     "internalName": "破晓",
     "name": "DAWN",
@@ -5600,13 +5586,41 @@
     "description": "Динамический схемпак для кампании и пвп. Тестовая версия. Много схем взяты с сервера, и ещё не под всё они найдутся. ~270 схем на текущий момент"
   },
   {
+    "repo": "annguyen2k8/mindustrypackloader",
+    "internalName": "mindustry-packloader",
+    "name": "PackLoader",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "Anzuno",
+    "lastUpdated": "2026-10-20T09:04:27Z",
+    "stars": 2,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Bulk import maps (.msav) and schematics (.msch) directly from ZIP packs or folders on Android."
+  },
+  {
+    "repo": "lamamega/attarax-modpack",
+    "internalName": "attarax mod-pack",
+    "name": "AttaraX Mod-Pack",
+    "version": "1.0",
+    "hidden": false,
+    "author": "AttaraX",
+    "lastUpdated": "2026-10-20T20:07:43Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry? Yes, but more!"
+  },
+  {
     "repo": "rovstam/schematic-table-qol",
     "internalName": "schematic table qol",
     "name": "Schematic table QoL",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "hidden": true,
     "author": "Rovstam",
-    "lastUpdated": "2026-10-19T22:56:53Z",
+    "lastUpdated": "2026-10-20T22:00:43Z",
     "stars": 2,
     "minGameVersion": "158.1",
     "hasScripts": true,
@@ -7294,20 +7308,6 @@
     "description": "A library and utility mod providing directional output crafters and custom drawers for Mindustry, suggested by oscillatorium"
   },
   {
-    "repo": "annguyen2k8/mindustrypackloader",
-    "internalName": "mindustry-packloader",
-    "name": "PackLoader",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "Anzuno",
-    "lastUpdated": "2026-10-20T09:04:27Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Bulk import maps (.msav) and schematics (.msch) directly from ZIP packs or folders on Android."
-  },
-  {
     "repo": "itzmellory/advanced-redactor",
     "internalName": "advanced-redactor",
     "name": " Advanced Redactor ",
@@ -7376,6 +7376,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java remake of my json unfinished mod."
+  },
+  {
+    "repo": "kavun-sama/auto-drill-v2",
+    "internalName": "auto-drill",
+    "name": "AutoDrill V2",
+    "version": "1.6.5",
+    "hidden": true,
+    "author": "Pointifix, Kavun-Sama",
+    "lastUpdated": "2026-10-20T21:26:19Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
