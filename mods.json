@@ -202,7 +202,7 @@
     "version": "4.3.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-19T14:52:51Z",
+    "lastUpdated": "2026-10-20T01:49:02Z",
     "stars": 129,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -490,20 +490,6 @@
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "5.1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-10-17T00:45:19Z",
-    "stars": 51,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
-  },
-  {
     "repo": "deercarbonate/azimuth",
     "internalName": "azimut",
     "name": "Azimuth",
@@ -516,6 +502,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[#d3f2f4]Hybrid[] mod primarily built around a gradually branching campaign that expands in multiple directions.\n\nThe mod adds a new planet, [#f7e9af]Gelion[], featuring its own campaign, star system, research tree, and gameplay mechanics.\nThe planet offers over 90 blocks to research, 12 units [#ffd37f]each with their own unique abilities[], 13 campaign sectors, more than [#ffd37f]6 new mechanics[], and plenty of room for map creation.\n\nOn top of that, the campaign also stands out with absolutely [#e65c5c]BRUTAL[] visual effects. Every texture was made with care and dedication.\n\n[#e65c5c]THIS MOD IS STILL IN DEVELOPMENT![]\n[#ffd37f]The current completion percentage is approximately 64%, with plenty of room to grow![]\n\nHelp me develop the mod! Join the [#768bff]Azimuth Discord server[] using the [#ffd37f]link in the README file on the mod's official GitHub page.[]\n\n///////////////////////////////\n\nLand on a [#c9c1eb]sub-cryonic[] terra slowly heating up beneath its [#e99696]unstable star[]. The celestial body is suffering from [#ffbe93]global warming[] — glaciers are melting, atmospheric pressure is rising, and temperatures continue to climb.\n[#e99696]Exterminate the enemy faction[]. Turn the planet into a temporary source of raw materials. [#d1e3ff]Witness a world that will soon become[] [#506381]ash[].\n\nIf you enjoyed the mod, please consider giving it a star!\n[#c9c1eb]Thank you for playing.[]\n\n///////////////////////////////\n\nDevelopers:\nCode: [#c3961f]Deer[][#876409]Carbonate[]\nSprites: [#c3961f]Deer[][#876409]Carbonate[]\nMaps: [#c3961f]Deer[][#876409]Carbonate[]\nLocalization: [#c3961f]Deer[][#876409]Carbonate[]\n\nSpecial Thanks:\nMusic: [purple]ACE[] — \"the last fight\", \"in orbit\", \"create\", \"smth far away\"; [#ffe1a4]garretski[] — The main Azimuth soundtrack.\nMaps: [#ce7e5c]Kivet/БОБ[] — \"Cold Harbor\"; [#fce4e0]Fate of Adrastus[] — \"Tight Caverns\"; [#84f491]Alpotat[] — assistance with the map \"Arrival\".\nCode: [white]KO[][#A4A4A4]STO[][#6D6D6D]LOM[]"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "5.1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-10-20T02:26:12Z",
+    "stars": 51,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "flintyx/animalia",
@@ -1140,7 +1140,7 @@
     "version": "1.7.9",
     "hidden": false,
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2026-10-09T04:31:41Z",
+    "lastUpdated": "2026-10-20T02:47:57Z",
     "stars": 22,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1652,20 +1652,6 @@
     "description": "A Mindustry greatest mod ever made!"
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.11.1",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-10-19T02:00:41Z",
-    "stars": 13,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
     "repo": "tyt-xexebe/qol-control",
     "internalName": "qol-control",
     "name": "QoL Control",
@@ -1678,6 +1664,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A lot of useful & QoL features\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.11.1",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-10-20T02:16:20Z",
+    "stars": 13,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -7342,7 +7342,7 @@
     "version": "1.0.4",
     "hidden": true,
     "author": "Rovstam",
-    "lastUpdated": "2026-10-19T18:51:29Z",
+    "lastUpdated": "2026-10-19T22:56:53Z",
     "stars": 1,
     "minGameVersion": "158.1",
     "hasScripts": true,
@@ -8540,20 +8540,6 @@
     "description": "Allows clients to pause during a campaign hosting session. More features are planned."
   },
   {
-    "repo": "rong-mo/sepker",
-    "internalName": "黄队的奇妙大冒险",
-    "name": "黄队的奇妙大冒险",
-    "version": "0.6.10",
-    "hidden": false,
-    "author": "喜欢青冈的容墨",
-    "lastUpdated": "2026-10-19T04:36:00Z",
-    "stars": 0,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "B站关注许君w/喜欢青冈的容墨"
-  },
-  {
     "repo": "enwelk/mindustry-replaymod",
     "internalName": "replaymod",
     "name": "ReplayMod",
@@ -8580,5 +8566,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds a MEGA router that is 3x3 blocks in size. While its functionality remains the same as a standard router, it can be quite useful in-game. This is my first mod, please download it and add it to your favorites! "
+  },
+  {
+    "repo": "rong-mo/sepker",
+    "internalName": "黄队的奇妙大冒险",
+    "name": "黄队的奇妙大冒险",
+    "version": "0.6.11",
+    "hidden": false,
+    "author": "喜欢青冈的容墨",
+    "lastUpdated": "2026-10-19T22:48:45Z",
+    "stars": 0,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "B站关注许君w/喜欢青冈的容墨"
   }
 ]
