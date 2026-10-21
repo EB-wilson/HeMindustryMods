@@ -202,7 +202,7 @@
     "version": "4.3.1",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-20T17:26:23Z",
+    "lastUpdated": "2026-10-21T09:46:08Z",
     "stars": 131,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -510,7 +510,7 @@
     "version": "0.51",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-10-21T09:01:48Z",
+    "lastUpdated": "2026-10-21T12:52:18Z",
     "stars": 51,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -630,20 +630,6 @@
     "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "version": "1.6.0",
-    "hidden": true,
-    "author": "I hope...",
-    "lastUpdated": "2026-10-16T15:00:17Z",
-    "stars": 43,
-    "minGameVersion": "159.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.6.0\n\n## Highlight\n1. Support Mindustry 159.2\n2. feat(capture_exceptions): Hook exceptions and print (Desktop Only)\n3. Optimize flame graph performance.\n4. Fix some bugs:\n- Improve the security check logic for application class loader settings in Tester.\n- Add text boundary safety checks to TextAreaTab to prevent array out-of-bounds errors.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
-  },
-  {
     "repo": "eb-wilson/universecore",
     "internalName": "universe-core",
     "name": "Universe Core",
@@ -734,7 +720,7 @@
     "version": "v5 - Gier",
     "hidden": false,
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n- 黒板消し (kokubankesei)\n",
-    "lastUpdated": "2026-10-16T13:48:51Z",
+    "lastUpdated": "2026-10-21T10:59:10Z",
     "stars": 38,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -1669,10 +1655,10 @@
     "repo": "lu69159/morecustomsettings",
     "internalName": "mcs",
     "name": "More Custom Settings",
-    "version": "1.11.1",
+    "version": "1.12",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-10-21T06:51:32Z",
+    "lastUpdated": "2026-10-21T14:30:13Z",
     "stars": 13,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1932,20 +1918,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for the rare and powerful [#bf2851]Erythronite Crystals[].\nFor centuries, Aziris has remained in the hands of the [blue]Sentinels[]. Now it is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore.\nThere isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n\n[purple] https://discord.gg/2qc4WaCreP []\n\nCurrently unavailable for mobile platforms, sorry :/"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-10-20T15:41:18Z",
-    "stars": 11,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "sputnuc/deepsea",
     "internalName": "deepsea",
     "name": "Project: Deep Sea (Alpha)",
@@ -1958,6 +1930,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-10-21T10:14:11Z",
+    "stars": 11,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -5617,15 +5603,15 @@
     "repo": "annguyen2k8/mindustrypackloader",
     "internalName": "mindustry-packloader",
     "name": "PackLoader",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "hidden": true,
     "author": "Anzuno",
-    "lastUpdated": "2026-10-21T08:59:13Z",
+    "lastUpdated": "2026-10-21T10:12:25Z",
     "stars": 2,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Bulk import maps (.msav) and schematics (.msch) directly from ZIP packs or folders on Android."
+    "description": "[accent]Bulk import[] maps ([stat][]) and schematics ([stat][]) directly from ZIP archives or folders on Android and Desktop.\n\n[accent]Usage:[]\n[accent]1.[] [stat]Main Menu:[] [lightgray]Click [white]\"Pack Loader\"[] to open the loader dialog.[]\n[accent]2.[] [stat]Schematics / Maps:[] [lightgray]Click [white]\"Import .zip\"[] or [white]\"Scan Folder\"[] directly inside their respective dialogs.[]\n[accent]3.[] [stat]Workflow:[] [lightgray]Select Source -> Review items & Conflict policy -> Tap Import.[]\n\n[accent]Features:[]\n[stat] Bulk Import:[] [lightgray]Import dozens of maps and schematics from .zip packs or folders in one operation.[]\n[stat] Smart Conflict Handling:[] [lightgray]Choose how to resolve duplicate files ([white]Skip[], [white]Overwrite[], [white]Rename[]).[]\n[stat] Instant Hot-Reload:[] [lightgray]Automatically reloads game maps and schematics immediately without restarting Mindustry.[]\n[stat] Safe & Validated:[] [lightgray]Built-in Zip Slip protection, format header validation, and atomic writes.[]\n[stat] Mobile-Optimized:[] [lightgray]Touch-friendly UI, search filtering, and System File Picker ([white]SAF[]) support.[]\n[stat] Seamless Integration:[] [lightgray]Quick-access buttons in Main Menu, Schematics, Custom Game, and Map Editor.[]"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7378,20 +7364,6 @@
     "description": "FLOATING TEXT DAMAGE BROOO!!!!!!"
   },
   {
-    "repo": "itzmellory/advanced-redactor",
-    "internalName": "advanced-redactor",
-    "name": " Advanced Redactor ",
-    "version": "1.0",
-    "hidden": true,
-    "author": "[#00f2fe]⚠ 3301[] [#48b2fe]and[] [#9072fe]VI Clan []",
-    "lastUpdated": "2026-10-21T07:01:12Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#00f2fe] The[] [#24d2fe]Ulti[][#48b2fe]mate[] [#6c92fe]Map[] [#9072fe]Editor []\n\n[#7af0ff] Next-generation terrain synthesis and advanced mapping utilities[]\n[#d0e8ff]Maps created with this mod are[] [#89ff7a]100% compatible with vanilla Mindustry []\n\n[#00f2fe] Fea[][#48b2fe]tures[] [#9072fe](EN):[]\n\n[#00f2fe]- Adv[][#36c2fe]anced[] [#6c92fe]Terrain[] [#9072fe]Creator  -[]\n[#c4d7ff]Multi-layered biome generation, jagged cliffs, shoreline outlines, central basins, and procedural cave networks.[]\n\n[#00f2fe]- Cus[][#36c2fe]tom[] [#6c92fe]Editor[] [#9072fe]UI  -[]\n[#c4d7ff]Seamlessly integrated panels and extended filter controls directly inside the map generator.[]\n\n[#00f2fe]- Com[][#36c2fe]plete[] [#6c92fe]Terrain[] [#9072fe]Control  -[]\n[#c4d7ff]Domain warping, ridged noise, Void Border masks, and multi-floor blending for realistic landscapes.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#00f2fe] Про[][#24d2fe]двину[][#48b2fe]тый[] [#6c92fe]Редак[][#9072fe]тор Карт []\n\n[#7af0ff] Генерация сложного рельефа нового поколения и инструменты картографа[]\n[#d0e8ff]Карты, созданные с этим модом,[] [#89ff7a]полностью совместимы с ванильной игрой []\n\n[#00f2fe] Осо[][#48b2fe]бенно[][#9072fe]сти (RU):[]\n\n[#00f2fe]- Про[][#36c2fe]двинутый[] [#6c92fe]Создатель[] [#9072fe]Рельефа  -[]\n[#c4d7ff]Многослойные биомы, рваные скалы, береговая окантовка, центральные озера и процедурные сети каньонов и пещер.[]\n\n[#00f2fe]- Рас[][#36c2fe]ширен[][#6c92fe]ный[] [#9072fe]Интерфейс  -[]\n[#c4d7ff]Удобные кастомные панели и гибкие настройки фильтров, встроенные прямо в меню генерации.[]\n\n[#00f2fe]- Пол[][#36c2fe]ный[] [#6c92fe]Контроль[] [#9072fe]Ландшафта  -[]\n[#c4d7ff]Искажение координат, гребневый шум, маска внешних границ (Void Border) и смешивание пород.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#ff6b6b]⚠ Glo[][#ff8e82]ry to[] [#ffb199]VI, Bro[][#ffd3b0]thers and[] [#ffece0]Sisters! []"
-  },
-  {
     "repo": "welloty/chichti",
     "internalName": "chichts-menu",
     "name": "ЧИЧТЫ",
@@ -7404,6 +7376,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Рофло мод-меню: настраиваемый спавн Т5, очистка своих юнитов, эффекты и шуточные события."
+  },
+  {
+    "repo": "itzmellory/advanced-redactor",
+    "internalName": "advanced-redactor",
+    "name": " Advanced Redactor ",
+    "version": "1.0",
+    "hidden": true,
+    "author": "[#00f2fe]⚠ 3301[] [#48b2fe]and[] [#9072fe]VI Clan []",
+    "lastUpdated": "2026-10-21T14:51:25Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#00f2fe] The[] [#24d2fe]Ulti[][#48b2fe]mate[] [#6c92fe]Map[] [#9072fe]Editor []\n\n[#7af0ff] Next-generation terrain synthesis and advanced mapping utilities[]\n[#d0e8ff]Maps created with this mod are[] [#89ff7a]100% compatible with vanilla Mindustry []\n\n[#00f2fe] Fea[][#48b2fe]tures[] [#9072fe](EN):[]\n\n[#00f2fe]- Adv[][#36c2fe]anced[] [#6c92fe]Terrain[] [#9072fe]Creator  -[]\n[#c4d7ff]Multi-layered biome generation, jagged cliffs, shoreline outlines, central basins, and procedural cave networks.[]\n\n[#00f2fe]- Cus[][#36c2fe]tom[] [#6c92fe]Editor[] [#9072fe]UI  -[]\n[#c4d7ff]Seamlessly integrated panels and extended filter controls directly inside the map generator.[]\n\n[#00f2fe]- Com[][#36c2fe]plete[] [#6c92fe]Terrain[] [#9072fe]Control  -[]\n[#c4d7ff]Domain warping, ridged noise, Void Border masks, and multi-floor blending for realistic landscapes.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#00f2fe] Про[][#24d2fe]двину[][#48b2fe]тый[] [#6c92fe]Редак[][#9072fe]тор Карт []\n\n[#7af0ff] Генерация сложного рельефа нового поколения и инструменты картографа[]\n[#d0e8ff]Карты, созданные с этим модом,[] [#89ff7a]полностью совместимы с ванильной игрой []\n\n[#00f2fe] Осо[][#48b2fe]бенно[][#9072fe]сти (RU):[]\n\n[#00f2fe]- Про[][#36c2fe]двинутый[] [#6c92fe]Создатель[] [#9072fe]Рельефа  -[]\n[#c4d7ff]Многослойные биомы, рваные скалы, береговая окантовка, центральные озера и процедурные сети каньонов и пещер.[]\n\n[#00f2fe]- Рас[][#36c2fe]ширен[][#6c92fe]ный[] [#9072fe]Интерфейс  -[]\n[#c4d7ff]Удобные кастомные панели и гибкие настройки фильтров, встроенные прямо в меню генерации.[]\n\n[#00f2fe]- Пол[][#36c2fe]ный[] [#6c92fe]Контроль[] [#9072fe]Ландшафта  -[]\n[#c4d7ff]Искажение координат, гребневый шум, маска внешних границ (Void Border) и смешивание пород.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#ff6b6b]⚠ Glo[][#ff8e82]ry to[] [#ffb199]VI, Bro[][#ffd3b0]thers and[] [#ffece0]Sisters! []"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
