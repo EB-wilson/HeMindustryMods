@@ -510,7 +510,7 @@
     "version": "0.51",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-10-21T12:52:18Z",
+    "lastUpdated": "2026-10-21T17:49:40Z",
     "stars": 51,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -628,6 +628,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "version": "1.6.0",
+    "hidden": true,
+    "author": "I hope...",
+    "lastUpdated": "2026-10-16T15:00:17Z",
+    "stars": 43,
+    "minGameVersion": "159.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.6.0\n\n## Highlight\n1. Support Mindustry 159.2\n2. feat(capture_exceptions): Hook exceptions and print (Desktop Only)\n3. Optimize flame graph performance.\n4. Fix some bugs:\n- Improve the security check logic for application class loader settings in Tester.\n- Add text boundary safety checks to TextAreaTab to prevent array out-of-bounds errors.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "eb-wilson/universecore",
@@ -1638,20 +1652,6 @@
     "description": "A Mindustry greatest mod ever made!"
   },
   {
-    "repo": "tyt-xexebe/qol-control",
-    "internalName": "qol-control",
-    "name": "QoL Control",
-    "version": "7.9",
-    "hidden": true,
-    "author": "TyTxexebe",
-    "lastUpdated": "2026-10-19T12:52:05Z",
-    "stars": 13,
-    "minGameVersion": "159.5",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A lot of useful & QoL features\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
-  },
-  {
     "repo": "lu69159/morecustomsettings",
     "internalName": "mcs",
     "name": "More Custom Settings",
@@ -1664,6 +1664,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
+  },
+  {
+    "repo": "tyt-xexebe/qol-control",
+    "internalName": "qol-control",
+    "name": "QoL Control",
+    "version": "7.10",
+    "hidden": true,
+    "author": "TyTxexebe",
+    "lastUpdated": "2026-10-21T19:46:06Z",
+    "stars": 13,
+    "minGameVersion": "159.5",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A lot of useful & QoL features\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -1904,20 +1918,6 @@
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "version": "0.4.0",
-    "hidden": false,
-    "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-20T06:51:44Z",
-    "stars": 11,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for the rare and powerful [#bf2851]Erythronite Crystals[].\nFor centuries, Aziris has remained in the hands of the [blue]Sentinels[]. Now it is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore.\nThere isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n\n[purple] https://discord.gg/2qc4WaCreP []\n\nCurrently unavailable for mobile platforms, sorry :/"
-  },
-  {
     "repo": "sputnuc/deepsea",
     "internalName": "deepsea",
     "name": "Project: Deep Sea (Alpha)",
@@ -1944,6 +1944,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "version": "0.4.0",
+    "hidden": false,
+    "author": "Slashkig, IAmRustee, VoidThreader",
+    "lastUpdated": "2026-10-21T15:46:57Z",
+    "stars": 11,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for the rare and powerful [#bf2851]Erythronite Crystals[].\nFor centuries, Aziris has remained in the hands of the [blue]Sentinels[]. Now it is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore.\nThere isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n\n[purple] https://discord.gg/2qc4WaCreP []\n\nCurrently unavailable for mobile platforms, sorry :/"
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -2436,6 +2450,20 @@
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
+    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
+    "internalName": "eec",
+    "name": "Extended Erekir Campaign",
+    "version": "[red]1.0",
+    "hidden": false,
+    "author": "ARKNET, iqtik123",
+    "lastUpdated": "2026-10-20T20:38:27Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
+  },
+  {
     "repo": "mitemi/blastanium",
     "internalName": "blastanium",
     "name": "Blastanium",
@@ -2714,20 +2742,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
-  },
-  {
-    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
-    "internalName": "eec",
-    "name": "Extended Erekir Campaign",
-    "version": "[red]1.0",
-    "hidden": false,
-    "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-10-20T20:38:27Z",
-    "stars": 7,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -7294,20 +7308,6 @@
     "description": "A library and utility mod providing directional output crafters and custom drawers for Mindustry, suggested by oscillatorium"
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-10-20T16:01:50Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -7350,20 +7350,6 @@
     "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
-    "repo": "capueinedaffe-cmd/float-damage-text",
-    "internalName": "damage-numbers",
-    "name": "Damage Numbers",
-    "version": "1.0.6",
-    "hidden": false,
-    "author": "Rain",
-    "lastUpdated": "2026-10-20T23:48:16Z",
-    "stars": 1,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "FLOATING TEXT DAMAGE BROOO!!!!!!"
-  },
-  {
     "repo": "welloty/chichti",
     "internalName": "chichts-menu",
     "name": "ЧИЧТЫ",
@@ -7378,18 +7364,46 @@
     "description": "Рофло мод-меню: настраиваемый спавн Т5, очистка своих юнитов, эффекты и шуточные события."
   },
   {
+    "repo": "capueinedaffe-cmd/float-damage-text",
+    "internalName": "damage-numbers",
+    "name": "Damage Numbers",
+    "version": "1.0.6",
+    "hidden": false,
+    "author": "Rain",
+    "lastUpdated": "2026-10-21T15:09:40Z",
+    "stars": 1,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "FLOATING TEXT DAMAGE BROOO!!!!!!"
+  },
+  {
     "repo": "itzmellory/advanced-redactor",
     "internalName": "advanced-redactor",
     "name": " Advanced Redactor ",
     "version": "1.0",
     "hidden": true,
     "author": "[#00f2fe]⚠ 3301[] [#48b2fe]and[] [#9072fe]VI Clan []",
-    "lastUpdated": "2026-10-21T14:51:25Z",
+    "lastUpdated": "2026-10-21T15:27:54Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#00f2fe] The[] [#24d2fe]Ulti[][#48b2fe]mate[] [#6c92fe]Map[] [#9072fe]Editor []\n\n[#7af0ff] Next-generation terrain synthesis and advanced mapping utilities[]\n[#d0e8ff]Maps created with this mod are[] [#89ff7a]100% compatible with vanilla Mindustry []\n\n[#00f2fe] Fea[][#48b2fe]tures[] [#9072fe](EN):[]\n\n[#00f2fe]- Adv[][#36c2fe]anced[] [#6c92fe]Terrain[] [#9072fe]Creator  -[]\n[#c4d7ff]Multi-layered biome generation, jagged cliffs, shoreline outlines, central basins, and procedural cave networks.[]\n\n[#00f2fe]- Cus[][#36c2fe]tom[] [#6c92fe]Editor[] [#9072fe]UI  -[]\n[#c4d7ff]Seamlessly integrated panels and extended filter controls directly inside the map generator.[]\n\n[#00f2fe]- Com[][#36c2fe]plete[] [#6c92fe]Terrain[] [#9072fe]Control  -[]\n[#c4d7ff]Domain warping, ridged noise, Void Border masks, and multi-floor blending for realistic landscapes.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#00f2fe] Про[][#24d2fe]двину[][#48b2fe]тый[] [#6c92fe]Редак[][#9072fe]тор Карт []\n\n[#7af0ff] Генерация сложного рельефа нового поколения и инструменты картографа[]\n[#d0e8ff]Карты, созданные с этим модом,[] [#89ff7a]полностью совместимы с ванильной игрой []\n\n[#00f2fe] Осо[][#48b2fe]бенно[][#9072fe]сти (RU):[]\n\n[#00f2fe]- Про[][#36c2fe]двинутый[] [#6c92fe]Создатель[] [#9072fe]Рельефа  -[]\n[#c4d7ff]Многослойные биомы, рваные скалы, береговая окантовка, центральные озера и процедурные сети каньонов и пещер.[]\n\n[#00f2fe]- Рас[][#36c2fe]ширен[][#6c92fe]ный[] [#9072fe]Интерфейс  -[]\n[#c4d7ff]Удобные кастомные панели и гибкие настройки фильтров, встроенные прямо в меню генерации.[]\n\n[#00f2fe]- Пол[][#36c2fe]ный[] [#6c92fe]Контроль[] [#9072fe]Ландшафта  -[]\n[#c4d7ff]Искажение координат, гребневый шум, маска внешних границ (Void Border) и смешивание пород.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#ff6b6b]⚠ Glo[][#ff8e82]ry to[] [#ffb199]VI, Bro[][#ffd3b0]thers and[] [#ffece0]Sisters! []"
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-10-21T16:01:19Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8608,5 +8622,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "B站关注许君w/喜欢青冈的容墨"
+  },
+  {
+    "repo": "alexandremonoyioudis/rebuild-turrets-mindusty-mod",
+    "internalName": "rebuild-turrets",
+    "name": "Rebuild Turrets",
+    "version": "1.0",
+    "hidden": false,
+    "author": "AlexandreMonoyioudis",
+    "lastUpdated": "2026-10-21T17:37:45Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "These new Turrets help rebuild destroyed bases and helps the player build faster. \n+ rebuild Turret \n + macro rebuild Turret"
   }
 ]
