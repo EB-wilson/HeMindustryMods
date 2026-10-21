@@ -490,20 +490,6 @@
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "version": "5.1",
-    "hidden": false,
-    "author": "Liz Aurora",
-    "lastUpdated": "2026-10-20T02:26:12Z",
-    "stars": 51,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No nowhere has nothing anywhere."
-  },
-  {
     "repo": "deercarbonate/azimuth",
     "internalName": "azimut",
     "name": "Azimuth",
@@ -516,6 +502,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[#d3f2f4]Hybrid[] mod primarily built around a gradually branching campaign that expands in multiple directions.\n\nThe mod adds a new planet, [#f7e9af]Gelion[], featuring its own campaign, star system, research tree, and gameplay mechanics.\nThe planet offers over 90 blocks to research, 12 units [#ffd37f]each with their own unique abilities[], 13 campaign sectors, more than [#ffd37f]6 new mechanics[], and plenty of room for map creation.\n\nOn top of that, the campaign also stands out with absolutely [#e65c5c]BRUTAL[] visual effects. Every texture was made with care and dedication.\n\n[#e65c5c]THIS MOD IS STILL IN DEVELOPMENT![]\n[#ffd37f]The current completion percentage is approximately 64%, with plenty of room to grow![]\n\nHelp me develop the mod! Join the [#768bff]Azimuth Discord server[] using the [#ffd37f]link in the README file on the mod's official GitHub page.[]\n\n///////////////////////////////\n\nLand on a [#c9c1eb]sub-cryonic[] terra slowly heating up beneath its [#e99696]unstable star[]. The celestial body is suffering from [#ffbe93]global warming[] — glaciers are melting, atmospheric pressure is rising, and temperatures continue to climb.\n[#e99696]Exterminate the enemy faction[]. Turn the planet into a temporary source of raw materials. [#d1e3ff]Witness a world that will soon become[] [#506381]ash[].\n\nIf you enjoyed the mod, please consider giving it a star!\n[#c9c1eb]Thank you for playing.[]\n\n///////////////////////////////\n\nDevelopers:\nCode: [#c3961f]Deer[][#876409]Carbonate[]\nSprites: [#c3961f]Deer[][#876409]Carbonate[]\nMaps: [#c3961f]Deer[][#876409]Carbonate[]\nLocalization: [#c3961f]Deer[][#876409]Carbonate[]\n\nSpecial Thanks:\nMusic: [purple]ACE[] — \"the last fight\", \"in orbit\", \"create\", \"smth far away\"; [#ffe1a4]garretski[] — The main Azimuth soundtrack.\nMaps: [#ce7e5c]Kivet/БОБ[] — \"Cold Harbor\"; [#fce4e0]Fate of Adrastus[] — \"Tight Caverns\"; [#84f491]Alpotat[] — assistance with the map \"Arrival\".\nCode: [white]KO[][#A4A4A4]STO[][#6D6D6D]LOM[]"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "version": "5.1",
+    "hidden": false,
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-10-21T02:29:31Z",
+    "stars": 51,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No nowhere has nothing anywhere."
   },
   {
     "repo": "flintyx/animalia",
@@ -5376,20 +5376,6 @@
     "description": "Scheme Plus adds a compact breakdown of every item and liquid the schematic consumes or produces per second."
   },
   {
-    "repo": "rocket550/zytheron-technology-java",
-    "internalName": "zytheron",
-    "name": "Zytheron Technology(Java)",
-    "version": "0.1.9.4",
-    "hidden": false,
-    "author": "Trocket",
-    "lastUpdated": "2026-09-09T04:39:03Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a java edition of my mod that eventually will replace the json one"
-  },
-  {
     "repo": "chax0180/mindustry-diesel-generators",
     "internalName": "oil",
     "name": "Mindustry: Diesel Generators",
@@ -5626,6 +5612,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Move, delete, and drag schematics in the Extended UI table."
+  },
+  {
+    "repo": "rocket550/zytheron-technology-java",
+    "internalName": "zytheron",
+    "name": "Zytheron Technology(Java)",
+    "version": "0.1.9.9",
+    "hidden": false,
+    "author": "Trocket",
+    "lastUpdated": "2026-10-21T00:08:00Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a java edition of my mod that will eventually replace the json one \n\nHere you have a list of colors to use because why not?\nred\ngreen\nblue\nyellow\norange\nwhite\ngray\ndarkgray\nblack"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7336,20 +7336,6 @@
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
-    "repo": "capueinedaffe-cmd/float-damage-text",
-    "internalName": "damage-numbers",
-    "name": "Damage Numbers",
-    "version": "1.0.6",
-    "hidden": false,
-    "author": "Rain",
-    "lastUpdated": "2026-10-20T17:04:50Z",
-    "stars": 1,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "FLOATING TEXT DAMAGE BROOO!!!!!!"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -7390,6 +7376,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
+    "repo": "capueinedaffe-cmd/float-damage-text",
+    "internalName": "damage-numbers",
+    "name": "Damage Numbers",
+    "version": "1.0.6",
+    "hidden": false,
+    "author": "Rain",
+    "lastUpdated": "2026-10-20T23:48:16Z",
+    "stars": 1,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "FLOATING TEXT DAMAGE BROOO!!!!!!"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
