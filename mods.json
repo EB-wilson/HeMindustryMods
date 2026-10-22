@@ -202,7 +202,7 @@
     "version": "4.3.6",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-22T14:43:31Z",
+    "lastUpdated": "2026-10-22T18:26:05Z",
     "stars": 131,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -1672,7 +1672,7 @@
     "version": "1.12",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-10-22T10:55:15Z",
+    "lastUpdated": "2026-10-22T15:47:45Z",
     "stars": 13,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1932,32 +1932,32 @@
     "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "version": "0.4.0",
-    "hidden": false,
-    "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-22T05:49:49Z",
-    "stars": 11,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for the rare and powerful [#bf2851]Erythronite Crystals[].\nFor centuries, Aziris has remained in the hands of the [blue]Sentinels[]. Now it is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore.\nThere isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n\n[purple] https://discord.gg/2qc4WaCreP []\n\nCurrently unavailable for mobile platforms, sorry :/"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "version": "101.4",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-10-22T13:24:25Z",
+    "lastUpdated": "2026-10-22T18:31:34Z",
     "stars": 11,
     "minGameVersion": "159",
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "version": "0.4.0",
+    "hidden": false,
+    "author": "Slashkig, IAmRustee, VoidThreader",
+    "lastUpdated": "2026-10-22T19:08:20Z",
+    "stars": 11,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for the rare and powerful [#bf2851]Erythronite Crystals[].\nFor centuries, Aziris has remained in the hands of the [blue]Sentinels[]. Now it is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore.\nThere isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n\n[purple] https://discord.gg/2qc4WaCreP []\n\nCurrently unavailable for mobile platforms, sorry :/"
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -3282,7 +3282,7 @@
     "version": "0.1A",
     "hidden": false,
     "author": "Unauthorized",
-    "lastUpdated": "2026-10-22T08:35:55Z",
+    "lastUpdated": "2026-10-22T19:16:07Z",
     "stars": 5,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -4842,6 +4842,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Make pretty screenshot for your logic."
+  },
+  {
+    "repo": "darkjune0122/javelinunit",
+    "internalName": "javelin-unit-mod",
+    "name": "Javelin Unit Mod",
+    "version": "1.0",
+    "hidden": false,
+    "author": "DarkJune",
+    "lastUpdated": "2025-08-17T05:29:03Z",
+    "stars": 2,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry mod, that adds javelin unit to your game"
   },
   {
     "repo": "jirocab/yetanotherserpulorebalance",
@@ -7350,20 +7364,6 @@
     "description": "Рофло мод-меню: настраиваемый спавн Т5, очистка своих юнитов, эффекты и шуточные события."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-10-21T16:01:19Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "capueinedaffe-cmd/float-damage-text",
     "internalName": "damage-numbers",
     "name": "Damage Numbers",
@@ -7418,6 +7418,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-10-22T15:28:59Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
