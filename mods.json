@@ -202,7 +202,7 @@
     "version": "4.3.6",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-23T03:05:55Z",
+    "lastUpdated": "2026-10-23T12:35:46Z",
     "stars": 132,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -510,7 +510,7 @@
     "version": "0.51",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-10-23T09:06:16Z",
+    "lastUpdated": "2026-10-23T09:20:17Z",
     "stars": 51,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -609,7 +609,7 @@
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
     "lastUpdated": "2026-10-18T16:10:57Z",
-    "stars": 44,
+    "stars": 45,
     "minGameVersion": "159.5",
     "hasScripts": false,
     "hasJava": true,
@@ -1764,18 +1764,18 @@
     "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
   },
   {
-    "repo": "novanox4/meridium",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "version": "0.1",
-    "hidden": false,
-    "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-10-05T10:56:08Z",
+    "repo": "wantechfan/mindustry-community-musics",
+    "internalName": "comunity-musics",
+    "name": "Community Musics",
+    "version": "1.6",
+    "hidden": true,
+    "author": "WantechFan",
+    "lastUpdated": "2026-09-24T09:46:35Z",
     "stars": 12,
-    "minGameVersion": "157",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+    "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
     "repo": "agzam4/mindustry-mod-v8",
@@ -1902,20 +1902,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
-  },
-  {
-    "repo": "wantechfan/mindustry-community-musics",
-    "internalName": "comunity-musics",
-    "name": "Community Musics",
-    "version": "1.6",
-    "hidden": true,
-    "author": "WantechFan",
-    "lastUpdated": "2026-09-24T09:46:35Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
     "repo": "sputnuc/deepsea",
@@ -4542,7 +4528,7 @@
     "version": "",
     "hidden": false,
     "author": "The skelebros",
-    "lastUpdated": "2026-10-20T04:32:33Z",
+    "lastUpdated": "2026-10-23T12:08:55Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5558,20 +5544,6 @@
     "description": "Динамический схемпак для кампании и пвп. Тестовая версия. Много схем взяты с сервера, и ещё не под всё они найдутся. ~270 схем на текущий момент"
   },
   {
-    "repo": "lamamega/attarax-modpack",
-    "internalName": "attarax mod-pack",
-    "name": "AttaraX Mod-Pack",
-    "version": "1.0",
-    "hidden": false,
-    "author": "AttaraX",
-    "lastUpdated": "2026-10-20T20:07:43Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry? Yes, but more!"
-  },
-  {
     "repo": "rovstam/schematic-table-qol",
     "internalName": "schematic table qol",
     "name": "Schematic table QoL",
@@ -5626,6 +5598,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first Java mod! This mod adds new technology and a sector."
+  },
+  {
+    "repo": "lamamega/attarax-modpack",
+    "internalName": "attarax mod-pack",
+    "name": "AttaraX Mod-Pack",
+    "version": "1.0",
+    "hidden": false,
+    "author": "AttaraX",
+    "lastUpdated": "2026-10-23T09:19:36Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry? Yes, but more!"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7238,6 +7224,20 @@
     "description": "mod assist, free to distribute or use"
   },
   {
+    "repo": "nosbhghggg/new-yr2-logic-monitor",
+    "internalName": "yr2-logic-monitor",
+    "name": "new-yr2-logic-monitor",
+    "version": "1.6.0",
+    "hidden": true,
+    "author": "yaddrx2 (Refurbished by NOSBhghgg)",
+    "lastUpdated": "2026-10-11T05:18:14Z",
+    "stars": 1,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Logic Monitor — real-time logic & hardware inspector.\nQQGroup: 615081546 (adapted for v160.5, desktop & Android merged jar)\n1. Main window (yr2lm):\n  add: Pick a block to monitor\n  copy: Copy block config & code\n  paste: Paste config to target block\n  Monitor List:\n     Toggle window visibility\n     Manually refresh window\n     Remove & close window\n2. Logic Processor:\n  Variable Tools:\n     Reset @counter to zero\n     Reset debug session globally\n     Persistent entity tracer line\n     Toggle page: variables / editor\n    Search: Filter variable names\n    [Cc]: Case-sensitive\n    [W]: Whole-word match\n    textBuffer: Print-buffer monitor\n  Code Editor:\n     Reload block code\n     Save & commit code to block\n     Toggle single / dual-pane\n    / Pause / Resume\n     Step one instruction\n     Run to next breakpoint\n     Toggle trace panel\n  Trace Timeline:\n     Export trace log\n     Clear trace history\n    [L.. -> L..]: Auto-collapse sequential steps\n    Diff: Mark jumps & multi-variable changes\n    Click a step: Time-travel snapshot rollback\n    [<<] step#: Current snapshot indicator\n     Restore real-time state\n  Code Line:\n    Click line head: Toggle breakpoint\n    >> arrow: Live execution pointer\n    Aurora-green bar: Paused highlight & trail\n    5 micro edit buttons (non-trace mode):\n       Inline edit this line\n       Insert blank line below\n       Paste code block (jumps re-mapped)\n       Reset line to original\n       Delete this line\n3. Memory Bank & Cell:\n  Start/End index: Observation range\n  Decimals (0-10): Precision slider\n  Columns per row (1-16): Display columns slider\n  / In-place edit & save mode\n  Warm-gold glow: Data-mutation flash\n  World tracer line: Floating-cell world connection\n4. Message Monitor:\n  / Pause / resume capture\n   Manual refresh\n   Clear all logs\n  128-entry ring buffer (anti-spam)\n  / Copy / delete a single log\n5. Global UX:\n   Pin to world building (scales with map)\n   Toggle holographic / 1:1 UI scaling\n   Collapse into 30px title capsule\n   Close window safely\n   Corner drag-resize with size memory\n   Gear injection & spawn from config bar\n  [y] Aurora-green button: Bottom-right reopen\n  Dual-end: Built-in classes.dex, all-platform jar\n==========================================\n逻辑监视器 — 逻辑与硬件实时交互监视器。\n交流群: 615081546 (适配 v160.5 双端合一)\n1.主窗口 (yr2lm):\n  add: 选取方块打开监视\n  copy: 复制方块配置与代码\n  paste: 粘贴配置至目标方块\n  方块列表:\n     窗口显示/隐藏\n     窗口手动刷新\n     移除关闭窗口\n2.逻辑块:\n  变量表:\n     将 @counter 置零\n     全局重置调试会话\n     全局常驻实体引线\n     切换变量表/编辑器\n    搜索框: 过滤变量名\n    [Cc]: 区分大小写\n    [W]: 全词匹配\n    textBuffer: 打印缓冲区监控\n  编辑器:\n     重新读取方块代码\n     保存提交代码到方块\n     切换单双栏并排\n    / 暂停/继续执行\n     单步推演一条指令\n     运行至下一个断点\n     智能流水面板开关\n  智能流水时序:\n     导出时序追踪日志\n     清空流水历史记录\n    [L.. -> L..]: 顺序步自动折叠\n    Diff 差分: 跳转与多变量突变标记\n    点击单步: 时间旅行快照历史回溯\n    [<<] 步号: 当前快照指示\n     恢复实时运行状态\n  代码行:\n    单击行首: 切换代码行断点\n    >> 箭头: 运行态实时执行指针\n    极光绿条: 暂停态停驻高亮与光轨\n    5 个微型编辑按键 (非流水模式):\n       单行就地编辑\n       向下插入空白代码行\n       导入代码块(jump 变换)\n       还原单行初始代码\n       删除本行代码\n3.内存块 (Memory Bank 与 Cell):\n  起始/末尾下标: 观察范围输入\n  保留小数 (0-10): 精度调节滑条\n  每行个数 (1-16): 显示列数滑条\n  / 内存就地编辑与保存\n  暖金微光: 数值修改突变闪烁\n  世界引线: 悬浮格子显示世界连线\n4.信息板:\n  / 暂停捕获记录\n   手动刷新消息\n   清空所有历史日志\n  128 条环形缓冲: 防爆内存循环记录\n  / 单条复制与删除\n5.通用交互:\n   钉在世界建筑上随地图缩放\n   切换全息随镜缩放 / 1:1 UI\n   折叠为 30px 标题迷你胶囊\n   安全关闭监视窗口\n   右下角微型拖拽缩放并记忆尺寸\n   配置条追加齿轮，单击展开，拖拽生窗\n  [y] 极光绿按钮: 右下角常驻唤出\n  双端合一: 内置 classes.dex 全平台通用"
+  },
+  {
     "repo": "rovstam/mindustry-tool-assisted-speedrun",
     "internalName": "tool assisted speedrun (tas)",
     "name": "Mindustry TAS",
@@ -7432,6 +7432,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#00f2fe] The[] [#24d2fe]Ulti[][#48b2fe]mate[] [#6c92fe]Map[] [#9072fe]Editor []\n\n[#7af0ff] Next-generation terrain synthesis and advanced mapping utilities[]\n[#d0e8ff]Maps created with this mod are[] [#89ff7a]100% compatible with vanilla Mindustry []\n\n[#00f2fe] Fea[][#48b2fe]tures[] [#9072fe](EN):[]\n\n[#00f2fe]- Adv[][#36c2fe]anced[] [#6c92fe]Terrain[] [#9072fe]Creator  -[]\n[#c4d7ff]Multi-layered biome generation, jagged cliffs, shoreline outlines, central basins, and procedural cave networks.[]\n\n[#00f2fe]- Cus[][#36c2fe]tom[] [#6c92fe]Editor[] [#9072fe]UI  -[]\n[#c4d7ff]Seamlessly integrated panels and extended filter controls directly inside the map generator.[]\n\n[#00f2fe]- Com[][#36c2fe]plete[] [#6c92fe]Terrain[] [#9072fe]Control  -[]\n[#c4d7ff]Domain warping, ridged noise, Void Border masks, and multi-floor blending for realistic landscapes.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#00f2fe] Про[][#24d2fe]двину[][#48b2fe]тый[] [#6c92fe]Редак[][#9072fe]тор Карт []\n\n[#7af0ff] Генерация сложного рельефа нового поколения и инструменты картографа[]\n[#d0e8ff]Карты, созданные с этим модом,[] [#89ff7a]полностью совместимы с ванильной игрой []\n\n[#00f2fe] Осо[][#48b2fe]бенно[][#9072fe]сти (RU):[]\n\n[#00f2fe]- Про[][#36c2fe]двинутый[] [#6c92fe]Создатель[] [#9072fe]Рельефа  -[]\n[#c4d7ff]Многослойные биомы, рваные скалы, береговая окантовка, центральные озера и процедурные сети каньонов и пещер.[]\n\n[#00f2fe]- Рас[][#36c2fe]ширен[][#6c92fe]ный[] [#9072fe]Интерфейс  -[]\n[#c4d7ff]Удобные кастомные панели и гибкие настройки фильтров, встроенные прямо в меню генерации.[]\n\n[#00f2fe]- Пол[][#36c2fe]ный[] [#6c92fe]Контроль[] [#9072fe]Ландшафта  -[]\n[#c4d7ff]Искажение координат, гребневый шум, маска внешних границ (Void Border) и смешивание пород.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#ff6b6b]⚠ Glo[][#ff8e82]ry to[] [#ffb199]VI, Bro[][#ffd3b0]thers and[] [#ffece0]Sisters! []"
+  },
+  {
+    "repo": "lukanin122/schemedirection",
+    "internalName": "scheme-direction",
+    "name": "Scheme Direction",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "[#666999]Name[#CC0000]less[#FFFF00]Ways",
+    "lastUpdated": "2026-10-23T10:49:45Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": " QoL mod: Displays a directional arrow during schematic rotation. Direction can be changed in settings. For desktop PCs only.\n Отображает стрелку направления при вращении схемы. Направление изменяемо в настройках. Только для настольных ПК."
+  },
+  {
+    "repo": "loewenkrieger/exogenesis-aftershock-mod",
+    "internalName": "exogenesis-aftershock",
+    "name": "Exogenesis: Aftershock",
+    "version": "0.3.4",
+    "hidden": false,
+    "author": "Loewenkrieger",
+    "lastUpdated": "2026-10-23T11:10:46Z",
+    "stars": 1,
+    "minGameVersion": "160.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Addon for Exogenesis 1.9.1 by AureusStratus. Advanced industry, a labyrinth world and endless waves. Requires the original Exogenesis mod. PC + Android."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8456,20 +8484,6 @@
     "description": "Hardcore permadeath mod for Mindustry."
   },
   {
-    "repo": "nosbhghggg/new-yr2-logic-monitor",
-    "internalName": "yr2-logic-monitor",
-    "name": "new-yr2-logic-monitor",
-    "version": "1.6.0",
-    "hidden": true,
-    "author": "yaddrx2 (Refurbished by NOSBhghgg)",
-    "lastUpdated": "2026-10-11T05:18:14Z",
-    "stars": 0,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Logic Monitor — real-time logic & hardware inspector.\nQQGroup: 615081546 (adapted for v160.5, desktop & Android merged jar)\n1. Main window (yr2lm):\n  add: Pick a block to monitor\n  copy: Copy block config & code\n  paste: Paste config to target block\n  Monitor List:\n     Toggle window visibility\n     Manually refresh window\n     Remove & close window\n2. Logic Processor:\n  Variable Tools:\n     Reset @counter to zero\n     Reset debug session globally\n     Persistent entity tracer line\n     Toggle page: variables / editor\n    Search: Filter variable names\n    [Cc]: Case-sensitive\n    [W]: Whole-word match\n    textBuffer: Print-buffer monitor\n  Code Editor:\n     Reload block code\n     Save & commit code to block\n     Toggle single / dual-pane\n    / Pause / Resume\n     Step one instruction\n     Run to next breakpoint\n     Toggle trace panel\n  Trace Timeline:\n     Export trace log\n     Clear trace history\n    [L.. -> L..]: Auto-collapse sequential steps\n    Diff: Mark jumps & multi-variable changes\n    Click a step: Time-travel snapshot rollback\n    [<<] step#: Current snapshot indicator\n     Restore real-time state\n  Code Line:\n    Click line head: Toggle breakpoint\n    >> arrow: Live execution pointer\n    Aurora-green bar: Paused highlight & trail\n    5 micro edit buttons (non-trace mode):\n       Inline edit this line\n       Insert blank line below\n       Paste code block (jumps re-mapped)\n       Reset line to original\n       Delete this line\n3. Memory Bank & Cell:\n  Start/End index: Observation range\n  Decimals (0-10): Precision slider\n  Columns per row (1-16): Display columns slider\n  / In-place edit & save mode\n  Warm-gold glow: Data-mutation flash\n  World tracer line: Floating-cell world connection\n4. Message Monitor:\n  / Pause / resume capture\n   Manual refresh\n   Clear all logs\n  128-entry ring buffer (anti-spam)\n  / Copy / delete a single log\n5. Global UX:\n   Pin to world building (scales with map)\n   Toggle holographic / 1:1 UI scaling\n   Collapse into 30px title capsule\n   Close window safely\n   Corner drag-resize with size memory\n   Gear injection & spawn from config bar\n  [y] Aurora-green button: Bottom-right reopen\n  Dual-end: Built-in classes.dex, all-platform jar\n==========================================\n逻辑监视器 — 逻辑与硬件实时交互监视器。\n交流群: 615081546 (适配 v160.5 双端合一)\n1.主窗口 (yr2lm):\n  add: 选取方块打开监视\n  copy: 复制方块配置与代码\n  paste: 粘贴配置至目标方块\n  方块列表:\n     窗口显示/隐藏\n     窗口手动刷新\n     移除关闭窗口\n2.逻辑块:\n  变量表:\n     将 @counter 置零\n     全局重置调试会话\n     全局常驻实体引线\n     切换变量表/编辑器\n    搜索框: 过滤变量名\n    [Cc]: 区分大小写\n    [W]: 全词匹配\n    textBuffer: 打印缓冲区监控\n  编辑器:\n     重新读取方块代码\n     保存提交代码到方块\n     切换单双栏并排\n    / 暂停/继续执行\n     单步推演一条指令\n     运行至下一个断点\n     智能流水面板开关\n  智能流水时序:\n     导出时序追踪日志\n     清空流水历史记录\n    [L.. -> L..]: 顺序步自动折叠\n    Diff 差分: 跳转与多变量突变标记\n    点击单步: 时间旅行快照历史回溯\n    [<<] 步号: 当前快照指示\n     恢复实时运行状态\n  代码行:\n    单击行首: 切换代码行断点\n    >> 箭头: 运行态实时执行指针\n    极光绿条: 暂停态停驻高亮与光轨\n    5 个微型编辑按键 (非流水模式):\n       单行就地编辑\n       向下插入空白代码行\n       导入代码块(jump 变换)\n       还原单行初始代码\n       删除本行代码\n3.内存块 (Memory Bank 与 Cell):\n  起始/末尾下标: 观察范围输入\n  保留小数 (0-10): 精度调节滑条\n  每行个数 (1-16): 显示列数滑条\n  / 内存就地编辑与保存\n  暖金微光: 数值修改突变闪烁\n  世界引线: 悬浮格子显示世界连线\n4.信息板:\n  / 暂停捕获记录\n   手动刷新消息\n   清空所有历史日志\n  128 条环形缓冲: 防爆内存循环记录\n  / 单条复制与删除\n5.通用交互:\n   钉在世界建筑上随地图缩放\n   切换全息随镜缩放 / 1:1 UI\n   折叠为 30px 标题迷你胶囊\n   安全关闭监视窗口\n   右下角微型拖拽缩放并记忆尺寸\n   配置条追加齿轮，单击展开，拖拽生窗\n  [y] 极光绿按钮: 右下角常驻唤出\n  双端合一: 内置 classes.dex 全平台通用"
-  },
-  {
     "repo": "savnecro/mindustry-rime",
     "internalName": "ice-expansion-rime",
     "name": "Ice Expansion: Rime",
@@ -8540,20 +8554,6 @@
     "description": "Client-side only: reads the separate TCP and UDP ports from the _mindustry._tcp and _mindustry._udp SRV records, so you can join servers whose NAT exposes a different external port for each protocol. Falls back to the vanilla single-port logic whenever no SRV record answers, adds no content, and is hidden from the multiplayer mod handshake so servers without it never kick you."
   },
   {
-    "repo": "wang-0-1/random-enhancement",
-    "internalName": "raen",
-    "name": " 随机强化  Random Enhancement",
-    "version": "160.3.4",
-    "hidden": false,
-    "author": "WaNg-0-1",
-    "lastUpdated": "2026-10-16T13:29:25Z",
-    "stars": 0,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "一个给敌军提供随机强化的Java模组\n A Java mod that gives random buffs to the enemy army"
-  },
-  {
     "repo": "coaxgames/multiplayer-campaign-expansion-mod",
     "internalName": "mcem",
     "name": "Multiplayer Campaign Expansion Mod",
@@ -8566,20 +8566,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Allows clients to pause during a campaign hosting session. More features are planned."
-  },
-  {
-    "repo": "enwelk/mindustry-replaymod",
-    "internalName": "replaymod",
-    "name": "ReplayMod",
-    "version": "0.4.0",
-    "hidden": false,
-    "author": "EnWelk",
-    "lastUpdated": "2026-10-19T07:57:42Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Record and replay your gameplay sessions in Mindustry. Telegram: @EnWelk. I didn't test it in multiplayer and with random unit logic. If you notice an error in the translation, please write to me. Movement playback on PC may have some inaccuracies. I'd appreciate it if you could let me know which unit missed its target and by approximately how much (e.g., one tile, half a tile, etc.)."
   },
   {
     "repo": "dokmimn/mega-router",
@@ -8624,20 +8610,6 @@
     "description": "These new Turrets help rebuild destroyed bases and helps the player build faster. \n+ rebuild Turret \n + macro rebuild Turret"
   },
   {
-    "repo": "literal234xzha-cpu/singularity-reactors-mod",
-    "internalName": "singularity-reactors",
-    "name": "Singularity Reactors",
-    "version": "2.2.4",
-    "hidden": false,
-    "author": "LOLOCORD",
-    "lastUpdated": "2026-10-23T02:11:32Z",
-    "stars": 0,
-    "minGameVersion": "160.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reactores Alpha-Omega (50k–250k/s) + Sistema Delta: central nuclear realista con temperatura, turbinas y controles avanzados."
-  },
-  {
     "repo": "huanxefh/fluid-cells",
     "internalName": "fcell",
     "name": "Fluid Cells",
@@ -8650,5 +8622,47 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Automatically adds fluid cell items for every fluid in game, including those from mods."
+  },
+  {
+    "repo": "enwelk/mindustry-replaymod",
+    "internalName": "replaymod",
+    "name": "ReplayMod",
+    "version": "0.4.1",
+    "hidden": false,
+    "author": "EnWelk",
+    "lastUpdated": "2026-10-23T09:32:42Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Record and replay your gameplay sessions in Mindustry. Telegram: @EnWelk. I didn't test it in multiplayer and with random unit logic. If you notice an error in the translation, please write to me. Movement playback on PC may have some inaccuracies. I'd appreciate it if you could let me know which unit missed its target and by approximately how much (e.g., one tile, half a tile, etc.)."
+  },
+  {
+    "repo": "wang-0-1/random-enhancement",
+    "internalName": "raen",
+    "name": " 随机强化  Random Enhancement",
+    "version": "160.3.5",
+    "hidden": false,
+    "author": "WaNg-0-1",
+    "lastUpdated": "2026-10-23T11:13:25Z",
+    "stars": 0,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "一个给敌军提供随机强化的Java模组\n A Java mod that gives random buffs to the enemy army"
+  },
+  {
+    "repo": "literal234xzha-cpu/singularity-reactors-mod",
+    "internalName": "singularity-reactors",
+    "name": "Singularity Reactors",
+    "version": "2.2.4",
+    "hidden": false,
+    "author": "LOLOCORD",
+    "lastUpdated": "2026-10-23T14:31:44Z",
+    "stars": 0,
+    "minGameVersion": "160.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reactores Alpha-Omega (50k–250k/s) + Sistema Delta: central nuclear realista con temperatura, turbinas y controles avanzados."
   }
 ]
