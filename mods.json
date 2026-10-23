@@ -161,7 +161,7 @@
     "hidden": false,
     "author": "stabu",
     "lastUpdated": "2026-10-20T15:12:02Z",
-    "stars": 142,
+    "stars": 143,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-17T03:15:36Z",
+    "lastUpdated": "2026-10-23T05:12:42Z",
     "stars": 72,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -510,7 +510,7 @@
     "version": "0.51",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-10-22T13:00:10Z",
+    "lastUpdated": "2026-10-23T09:06:16Z",
     "stars": 51,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -700,6 +700,20 @@
     "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
   },
   {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "version": "v5 - Gier",
+    "hidden": false,
+    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n- 黒板消し (kokubankesei)\n",
+    "lastUpdated": "2026-10-21T10:59:10Z",
+    "stars": 39,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\nGiving it procedural endless maps that refresh\ndaily. plus a secondary challange planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nDownload from the latest commits\notherwise refer to the newest release if\nthe current commit is bugged\n[]\n\nReport bugs on the repo or discord server\nand has partial chinese support\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 40 stars)[]\n"
+  },
+  {
     "repo": "rogeh4/virtual-scheme-pack-",
     "internalName": "v-scheme-pack",
     "name": "Virtual Scheme Pack",
@@ -726,20 +740,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
-  },
-  {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "version": "v5 - Gier",
-    "hidden": false,
-    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n- anupamme (Anupam Mediratta)\n- 黒板消し (kokubankesei)\n",
-    "lastUpdated": "2026-10-21T10:59:10Z",
-    "stars": 38,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\nGiving it procedural endless maps that refresh\ndaily. plus a secondary challange planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nDownload from the latest commits\notherwise refer to the newest release if\nthe current commit is bugged\n[]\n\nReport bugs on the repo or discord server\nand has partial chinese support\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 40 stars)[]\n"
   },
   {
     "repo": "typicaldeveloper123/biotic-zlo",
@@ -1204,20 +1204,6 @@
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-10-01T08:43:47Z",
-    "stars": 21,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
-  },
-  {
     "repo": "jojofr1/multicrafter",
     "internalName": "multicrafter",
     "name": "MultiCrafter",
@@ -1230,6 +1216,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-10-23T06:28:02Z",
+    "stars": 21,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
   },
   {
     "repo": "saigon0nozomi/nightscape",
@@ -1669,10 +1669,10 @@
     "repo": "lu69159/morecustomsettings",
     "internalName": "mcs",
     "name": "More Custom Settings",
-    "version": "1.12",
+    "version": "1.12.3",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-10-23T01:32:24Z",
+    "lastUpdated": "2026-10-23T07:17:38Z",
     "stars": 13,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1918,20 +1918,6 @@
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-10-22T18:31:34Z",
-    "stars": 11,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "sputnuc/deepsea",
     "internalName": "deepsea",
     "name": "Project: Deep Sea (Alpha)",
@@ -1958,6 +1944,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for the rare and powerful [#bf2851]Erythronite Crystals[].\nFor centuries, Aziris has remained in the hands of the [blue]Sentinels[]. Now it is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore.\nThere isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n\n[purple] https://discord.gg/2qc4WaCreP []\n\nCurrently unavailable for mobile platforms, sorry :/"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-10-23T06:35:21Z",
+    "stars": 11,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "redstonneur1256/mindustry-modlib",
@@ -2198,20 +2198,6 @@
     "description": "当你在在行星发射终端击退最后敌人时，他们小部分部队逃逸到了更遥远的星球，他们用极快的时间打败了原住民，当你发现他们的时候他们早已占领整个星球以及他旁边的卫星"
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101.4",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-10-01T05:20:11Z",
-    "stars": 9,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2266,6 +2252,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101.4",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-10-23T06:11:20Z",
+    "stars": 9,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "p101q/snowdustry",
@@ -2520,20 +2520,6 @@
     "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch \r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
   },
   {
-    "repo": "sputnuc/expansion",
-    "internalName": "expansion",
-    "name": "expansion",
-    "version": "3.86",
-    "hidden": false,
-    "author": "sputnuc",
-    "lastUpdated": "2025-09-12T18:06:20Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
-  },
-  {
     "repo": "samielxd/unitnamermod",
     "internalName": "unit-namer",
     "name": "Unit Namer",
@@ -2742,6 +2728,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
+  },
+  {
+    "repo": "sputnuc/expansion",
+    "internalName": "expansion",
+    "name": "expansion",
+    "version": "3.86",
+    "hidden": false,
+    "author": "sputnuc",
+    "lastUpdated": "2026-10-23T09:06:54Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -5620,7 +5620,7 @@
     "version": "2.0-test",
     "hidden": false,
     "author": "Windswept",
-    "lastUpdated": "2026-10-23T03:16:12Z",
+    "lastUpdated": "2026-10-23T04:01:13Z",
     "stars": 2,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -8344,20 +8344,6 @@
     "description": "EDM 🔥🔥🔥🔥"
   },
   {
-    "repo": "huanxefh/fluid-cells",
-    "internalName": "fcell",
-    "name": "Fluid Cells",
-    "version": "103",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-09-25T06:36:03Z",
-    "stars": 0,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Automatically adds fluid cell items for every fluid in game, including those from mods."
-  },
-  {
     "repo": "wmf-industries/extremity",
     "internalName": "extremity",
     "name": "Extremity",
@@ -8650,5 +8636,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reactores Alpha-Omega (50k–250k/s) + Sistema Delta: central nuclear realista con temperatura, turbinas y controles avanzados."
+  },
+  {
+    "repo": "huanxefh/fluid-cells",
+    "internalName": "fcell",
+    "name": "Fluid Cells",
+    "version": "105",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-10-23T06:40:14Z",
+    "stars": 0,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Automatically adds fluid cell items for every fluid in game, including those from mods."
   }
 ]
