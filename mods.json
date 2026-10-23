@@ -202,7 +202,7 @@
     "version": "4.3.6",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-22T21:30:42Z",
+    "lastUpdated": "2026-10-23T03:05:55Z",
     "stars": 132,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -468,7 +468,7 @@
     "version": "1.2.24",
     "hidden": false,
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-10-22T21:16:14Z",
+    "lastUpdated": "2026-10-23T02:01:16Z",
     "stars": 55,
     "minGameVersion": "160.5",
     "hasScripts": false,
@@ -1672,7 +1672,7 @@
     "version": "1.12",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-10-22T15:47:45Z",
+    "lastUpdated": "2026-10-23T01:32:24Z",
     "stars": 13,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -5530,20 +5530,6 @@
     "description": "\n\n[gray]支持语言\n\n - [red]简体中文\n\n[gray] - [red]English\n\n\n[white]致谢\n某个t3小飞机 - 核心蓝图\n白义F-061 - 战役地图 & 部分简介\n\n为了您游玩此MOD拥有更佳的体验，请使用原版Mindustry游玩(不包含MdtX、学术等辅助版本)\n\n\n[red]请在游玩此MOD前开启双击采矿！\n\n[red]Please enable Double-Tap to Mine before playing this MOD!\n\n\n[gray]GitHub开源链接: https://github.com/shenqixingqioule/DAWN"
   },
   {
-    "repo": "tjgkwlsabc1-cmd/advenced-technology",
-    "internalName": "advenced-technology",
-    "name": "Advanced Technology",
-    "version": "2.0-test",
-    "hidden": false,
-    "author": "Windswept",
-    "lastUpdated": "2026-10-17T04:14:01Z",
-    "stars": 2,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first Java mod! This mod adds new technology and a sector."
-  },
-  {
     "repo": "akilis81x/fenadi",
     "internalName": "fenadi",
     "name": "Fenadi",
@@ -5626,6 +5612,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent]Bulk import[] maps ([stat][]) and schematics ([stat][]) directly from ZIP archives or folders on Android and Desktop.\n\n[accent]Usage:[]\n[accent]1.[] [stat]Main Menu:[] [lightgray]Click [white]\"Pack Loader\"[] to open the loader dialog.[]\n[accent]2.[] [stat]Schematics / Maps:[] [lightgray]Click [white]\"Import .zip\"[] or [white]\"Scan Folder\"[] directly inside their respective dialogs.[]\n[accent]3.[] [stat]Workflow:[] [lightgray]Select Source -> Review items & Conflict policy -> Tap Import.[]\n\n[accent]Features:[]\n[stat] Bulk Import:[] [lightgray]Import dozens of maps and schematics from .zip packs or folders in one operation.[]\n[stat] Smart Conflict Handling:[] [lightgray]Choose how to resolve duplicate files ([white]Skip[], [white]Overwrite[], [white]Rename[]).[]\n[stat] Instant Hot-Reload:[] [lightgray]Automatically reloads game maps and schematics immediately without restarting Mindustry.[]\n[stat] Safe & Validated:[] [lightgray]Built-in Zip Slip protection, format header validation, and atomic writes.[]\n[stat] Mobile-Optimized:[] [lightgray]Touch-friendly UI, search filtering, and System File Picker ([white]SAF[]) support.[]\n[stat] Seamless Integration:[] [lightgray]Quick-access buttons in Main Menu, Schematics, Custom Game, and Map Editor.[]"
+  },
+  {
+    "repo": "tjgkwlsabc1-cmd/advenced-technology",
+    "internalName": "advenced-technology",
+    "name": "Advanced Technology",
+    "version": "2.0-test",
+    "hidden": false,
+    "author": "Windswept",
+    "lastUpdated": "2026-10-23T03:16:12Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first Java mod! This mod adds new technology and a sector."
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7392,34 +7392,6 @@
     "description": "A Mindustry mod that adds nodes to transport items using laser links. Desktop Only Java Mod. For 160.5"
   },
   {
-    "repo": "itzmellory/advanced-redactor",
-    "internalName": "advanced-redactor",
-    "name": " Advanced Redactor ",
-    "version": "1.0",
-    "hidden": true,
-    "author": "[#00f2fe]⚠ 3301[] [#48b2fe]and[] [#9072fe]VI Clan []",
-    "lastUpdated": "2026-10-22T13:54:11Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#00f2fe] The[] [#24d2fe]Ulti[][#48b2fe]mate[] [#6c92fe]Map[] [#9072fe]Editor []\n\n[#7af0ff] Next-generation terrain synthesis and advanced mapping utilities[]\n[#d0e8ff]Maps created with this mod are[] [#89ff7a]100% compatible with vanilla Mindustry []\n\n[#00f2fe] Fea[][#48b2fe]tures[] [#9072fe](EN):[]\n\n[#00f2fe]- Adv[][#36c2fe]anced[] [#6c92fe]Terrain[] [#9072fe]Creator  -[]\n[#c4d7ff]Multi-layered biome generation, jagged cliffs, shoreline outlines, central basins, and procedural cave networks.[]\n\n[#00f2fe]- Cus[][#36c2fe]tom[] [#6c92fe]Editor[] [#9072fe]UI  -[]\n[#c4d7ff]Seamlessly integrated panels and extended filter controls directly inside the map generator.[]\n\n[#00f2fe]- Com[][#36c2fe]plete[] [#6c92fe]Terrain[] [#9072fe]Control  -[]\n[#c4d7ff]Domain warping, ridged noise, Void Border masks, and multi-floor blending for realistic landscapes.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#00f2fe] Про[][#24d2fe]двину[][#48b2fe]тый[] [#6c92fe]Редак[][#9072fe]тор Карт []\n\n[#7af0ff] Генерация сложного рельефа нового поколения и инструменты картографа[]\n[#d0e8ff]Карты, созданные с этим модом,[] [#89ff7a]полностью совместимы с ванильной игрой []\n\n[#00f2fe] Осо[][#48b2fe]бенно[][#9072fe]сти (RU):[]\n\n[#00f2fe]- Про[][#36c2fe]двинутый[] [#6c92fe]Создатель[] [#9072fe]Рельефа  -[]\n[#c4d7ff]Многослойные биомы, рваные скалы, береговая окантовка, центральные озера и процедурные сети каньонов и пещер.[]\n\n[#00f2fe]- Рас[][#36c2fe]ширен[][#6c92fe]ный[] [#9072fe]Интерфейс  -[]\n[#c4d7ff]Удобные кастомные панели и гибкие настройки фильтров, встроенные прямо в меню генерации.[]\n\n[#00f2fe]- Пол[][#36c2fe]ный[] [#6c92fe]Контроль[] [#9072fe]Ландшафта  -[]\n[#c4d7ff]Искажение координат, гребневый шум, маска внешних границ (Void Border) и смешивание пород.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#ff6b6b]⚠ Glo[][#ff8e82]ry to[] [#ffb199]VI, Bro[][#ffd3b0]thers and[] [#ffece0]Sisters! []"
-  },
-  {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.3.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-10-22T13:57:46Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
@@ -7432,6 +7404,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.3.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-10-23T00:41:13Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "itzmellory/advanced-redactor",
+    "internalName": "advanced-redactor",
+    "name": " Advanced Redactor ",
+    "version": "1.0",
+    "hidden": true,
+    "author": "[#00f2fe]⚠ 3301[] [#48b2fe]and[] [#9072fe]VI Clan []",
+    "lastUpdated": "2026-10-23T03:12:49Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#00f2fe] The[] [#24d2fe]Ulti[][#48b2fe]mate[] [#6c92fe]Map[] [#9072fe]Editor []\n\n[#7af0ff] Next-generation terrain synthesis and advanced mapping utilities[]\n[#d0e8ff]Maps created with this mod are[] [#89ff7a]100% compatible with vanilla Mindustry []\n\n[#00f2fe] Fea[][#48b2fe]tures[] [#9072fe](EN):[]\n\n[#00f2fe]- Adv[][#36c2fe]anced[] [#6c92fe]Terrain[] [#9072fe]Creator  -[]\n[#c4d7ff]Multi-layered biome generation, jagged cliffs, shoreline outlines, central basins, and procedural cave networks.[]\n\n[#00f2fe]- Cus[][#36c2fe]tom[] [#6c92fe]Editor[] [#9072fe]UI  -[]\n[#c4d7ff]Seamlessly integrated panels and extended filter controls directly inside the map generator.[]\n\n[#00f2fe]- Com[][#36c2fe]plete[] [#6c92fe]Terrain[] [#9072fe]Control  -[]\n[#c4d7ff]Domain warping, ridged noise, Void Border masks, and multi-floor blending for realistic landscapes.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#00f2fe] Про[][#24d2fe]двину[][#48b2fe]тый[] [#6c92fe]Редак[][#9072fe]тор Карт []\n\n[#7af0ff] Генерация сложного рельефа нового поколения и инструменты картографа[]\n[#d0e8ff]Карты, созданные с этим модом,[] [#89ff7a]полностью совместимы с ванильной игрой []\n\n[#00f2fe] Осо[][#48b2fe]бенно[][#9072fe]сти (RU):[]\n\n[#00f2fe]- Про[][#36c2fe]двинутый[] [#6c92fe]Создатель[] [#9072fe]Рельефа  -[]\n[#c4d7ff]Многослойные биомы, рваные скалы, береговая окантовка, центральные озера и процедурные сети каньонов и пещер.[]\n\n[#00f2fe]- Рас[][#36c2fe]ширен[][#6c92fe]ный[] [#9072fe]Интерфейс  -[]\n[#c4d7ff]Удобные кастомные панели и гибкие настройки фильтров, встроенные прямо в меню генерации.[]\n\n[#00f2fe]- Пол[][#36c2fe]ный[] [#6c92fe]Контроль[] [#9072fe]Ландшафта  -[]\n[#c4d7ff]Искажение координат, гребневый шум, маска внешних границ (Void Border) и смешивание пород.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#ff6b6b]⚠ Glo[][#ff8e82]ry to[] [#ffb199]VI, Bro[][#ffd3b0]thers and[] [#ffece0]Sisters! []"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8636,5 +8636,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "These new Turrets help rebuild destroyed bases and helps the player build faster. \n+ rebuild Turret \n + macro rebuild Turret"
+  },
+  {
+    "repo": "literal234xzha-cpu/singularity-reactors-mod",
+    "internalName": "singularity-reactors",
+    "name": "Singularity Reactors",
+    "version": "2.2.4",
+    "hidden": false,
+    "author": "LOLOCORD",
+    "lastUpdated": "2026-10-23T02:11:32Z",
+    "stars": 0,
+    "minGameVersion": "160.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reactores Alpha-Omega (50k–250k/s) + Sistema Delta: central nuclear realista con temperatura, turbinas y controles avanzados."
   }
 ]
