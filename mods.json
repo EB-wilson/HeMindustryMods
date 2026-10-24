@@ -202,7 +202,7 @@
     "version": "4.3.7",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-24T08:40:59Z",
+    "lastUpdated": "2026-10-24T11:59:14Z",
     "stars": 132,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -633,15 +633,15 @@
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
     "name": "mod-tools",
-    "version": "1.6.0",
+    "version": "1.7.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-10-16T15:00:17Z",
+    "lastUpdated": "2026-10-24T09:58:57Z",
     "stars": 43,
     "minGameVersion": "159.2",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.6.0\n\n## Highlight\n1. Support Mindustry 159.2\n2. feat(capture_exceptions): Hook exceptions and print (Desktop Only)\n3. Optimize flame graph performance.\n4. Fix some bugs:\n- Improve the security check logic for application class loader settings in Tester.\n- Add text boundary safety checks to TextAreaTab to prevent array out-of-bounds errors.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.7.0\n\n## Highlight\n\n## New\n1. Deadlock detection watchdog: divergence heuristics for platform and virtual threads, JSON thread dumps, and a directed-graph cycle analysis that names the lock ring. Runs separately from the 5 ms CPU sampler so it cannot skew it.\n2. Review element editor: edit Element fields live to see the effect, no recompile needed.\n3. Layout check: LayoutIssues collects layout problems and LayoutReportWindow renders the report; cells also get a details window.\n4. Tester completion rewritten: member completion, array and object destructuring bindings, arrow parameter types from generic arguments; covered by JUnit 5.\n5. JS syntax highlighting for the Rhino editor, resolving members and generic types for accurate colouring.\n6. Zero-allocation float formatting: Schubfach shortest round-trip conversion, DoubleConversion and FastFormat, replacing Double.toString in Vec2/Vec3/Rect/Color formatting.\n\n## Hot swap\n7. Hot swap runs on a self-contained Remold agent, attached before settings load; a -javaagent setup that lacks plugin-arc now degrades with one warning instead of failing.\n8. UI hot swap: Table creator and Cell property chains are tracked, so a redefined builder rebuilds only the affected cells.\n9. Lambda and anonymous class alignment: LambdaAligner, AnonClassAligner and content-hash fingerprints keep anonymous classes paired across redefinition.\n10. Redefinition is gated on instance field-layout compatibility, and slot numbers held by pending aligned classes are not reused.\n11. The hotswap_plus switch is split into init_fix and force_static_lambda.\n\n## Performance\n12. ValueLabel, FieldValueLabel and InlineLabel format without boxing; PairProv shares one buffer and compares content before rebuilding.\n13. Flame graph: canvas clipping and culling, zero-allocation map lookups, spatial depth bucketing.\n14. Fewer per-frame allocations in LimitTable, SearchedLabel and completion prefix matching.\n15. Selection panel: dynamic region scanning is throttled to every 10 frames instead of running on a background executor; unit and bullet sets are cached between scans; tile and building icons are cached per block size.\n\n## Fixes\n- Completion popup not showing, and candidates beyond the first page being unreachable.\n- Completion popup covering the line being typed on.\n- changedFx flash overflowing the scroll pane viewport.\n- Viewers: Mat and Affine2 support, opening brace alignment in pretty print, and label markup state preserved across appends.\n- Android: HiddenApi trimmed in favour of the bundled bypass.\n\n## Dependencies\n- ASM 9.11 (security advisories), Remold 0.1.2.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "eb-wilson/universecore",
@@ -770,6 +770,20 @@
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
   },
   {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "version": "180000",
+    "hidden": true,
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-10-18T09:33:05Z",
+    "stars": 34,
+    "minGameVersion": "160.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, Random, and lock-on focus fire. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新、随机化和锁定攻击。"
+  },
+  {
     "repo": "dong-wo-long/betterdustrymod",
     "internalName": "bsm",
     "name": "Betterustry Mod",
@@ -782,20 +796,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
-  },
-  {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "version": "180000",
-    "hidden": true,
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-10-18T09:33:05Z",
-    "stars": 33,
-    "minGameVersion": "160.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, Random, and lock-on focus fire. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新、随机化和锁定攻击。"
   },
   {
     "repo": "way-zer/contentstweaker",
@@ -1470,6 +1470,20 @@
     "description": "Pyratite focused mod which adds units turrets drills and factory\nNOT the most balanced"
   },
   {
+    "repo": "tyt-xexebe/qol-control",
+    "internalName": "qol-control",
+    "name": "QoL Control",
+    "version": "7.12",
+    "hidden": true,
+    "author": "TyTxexebe",
+    "lastUpdated": "2026-10-23T21:16:03Z",
+    "stars": 15,
+    "minGameVersion": "159.5",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A lot of useful & QoL features\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
+  },
+  {
     "repo": "guiymou/adaptivecoredatabase",
     "internalName": "adaptivecoredatabase",
     "name": "自适应核心数据库（Adaptive Core Database）",
@@ -1568,20 +1582,6 @@
     "description": "A mod that adds a new planet, where we will play in underground"
   },
   {
-    "repo": "tyt-xexebe/qol-control",
-    "internalName": "qol-control",
-    "name": "QoL Control",
-    "version": "7.12",
-    "hidden": true,
-    "author": "TyTxexebe",
-    "lastUpdated": "2026-10-23T21:16:03Z",
-    "stars": 14,
-    "minGameVersion": "159.5",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A lot of useful & QoL features\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
-  },
-  {
     "repo": "falkowitz/medieval-mindustry",
     "internalName": "mm",
     "name": "Medieval Mindustry",
@@ -1672,7 +1672,7 @@
     "version": "1.12.4",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-10-24T05:06:05Z",
+    "lastUpdated": "2026-10-24T13:47:27Z",
     "stars": 13,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1938,7 +1938,7 @@
     "version": "0.4.0",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-24T07:42:35Z",
+    "lastUpdated": "2026-10-24T13:36:11Z",
     "stars": 11,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -2422,20 +2422,6 @@
     "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
   },
   {
-    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
-    "internalName": "eec",
-    "name": "Extended Erekir Campaign",
-    "version": "[red]1.0",
-    "hidden": false,
-    "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-10-20T20:38:27Z",
-    "stars": 8,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
-  },
-  {
     "repo": "oscillatorium/alef-null",
     "internalName": "alef-null",
     "name": "Alef-Null",
@@ -2448,6 +2434,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
+    "repo": "a-r-k-n-e-t/extended-erekir-campaign",
+    "internalName": "eec",
+    "name": "Extended Erekir Campaign",
+    "version": "[red]1.0",
+    "hidden": false,
+    "author": "ARKNET, iqtik123",
+    "lastUpdated": "2026-10-24T13:46:04Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
   },
   {
     "repo": "mitemi/blastanium",
@@ -5208,6 +5208,20 @@
     "description": "[white] This mod adds ability to share schematics via png images.[]\n\n[accent] [#FFF000]Features:[]\n[white] Export schematic-images and share them with your friends (or enemy).[]\n[white] Dropdown images to import schematics.[]\n\n How does it works?\n[white] The game stores schematics either as msch files or base64 encoded strings.\nThis mod stores schematic data inside png itself.\nBy that you can both share and show your schematics at the same time.[]"
   },
   {
+    "repo": "determination-wind/tripwire",
+    "internalName": "tripwire-dev",
+    "name": "Tripwire",
+    "version": "1.1.1",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-08-18T06:57:29Z",
+    "stars": 2,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
+  },
+  {
     "repo": "determination-wind/color-the-duct",
     "internalName": "color-the-ducts",
     "name": "Color-the-ducts",
@@ -5388,6 +5402,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Inspired by a certain Create mod addon. Adds the ability to refine oil into several other fluids which can be used for a variety of purposes."
+  },
+  {
+    "repo": "determination-wind/betterlogisticsspeed",
+    "internalName": "betterlogisticsspeed",
+    "name": "betterLogisticsSpeed",
+    "version": "2.0.1",
+    "hidden": true,
+    "author": "DeterMination",
+    "lastUpdated": "2026-09-18T13:19:02Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add long-window moving-average logistics speed rows under vanilla item speed display. / 在原版物流速度显示下方追加长窗口滑动平均行。"
   },
   {
     "repo": "oleksiy1409liut/oleksiysstuff",
@@ -5612,6 +5640,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Move, delete, and drag schematics in the Extended UI table."
+  },
+  {
+    "repo": "kernelitt/campaignstats",
+    "internalName": "kernelit-campaign-stats",
+    "name": "Campaign Stats",
+    "version": "1.0",
+    "hidden": true,
+    "author": "Kernelit",
+    "lastUpdated": "2026-10-24T08:59:36Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Простой мод для отображения статистики в кампании"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -6874,20 +6916,6 @@
     "description": "Enhanced minimap overlay with directional unit icons, smart unit clustering, and optional building markers with team-aware filters. / 提供带朝向的单位图标、智能单位聚合与可筛选建筑标记的小地图增强层。"
   },
   {
-    "repo": "determination-wind/tripwire",
-    "internalName": "tripwire-dev",
-    "name": "Tripwire",
-    "version": "1.1.1",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-08-18T06:57:29Z",
-    "stars": 1,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
-  },
-  {
     "repo": "determination-wind/hidewhatprocessorsshow",
     "internalName": "hidewhatprocessorsshow",
     "name": "Hide What Processors Show",
@@ -7082,20 +7110,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "меняет текстуры мода Newhorizon ."
-  },
-  {
-    "repo": "determination-wind/betterlogisticsspeed",
-    "internalName": "betterlogisticsspeed",
-    "name": "betterLogisticsSpeed",
-    "version": "2.0.1",
-    "hidden": true,
-    "author": "DeterMination",
-    "lastUpdated": "2026-09-18T13:19:02Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add long-window moving-average logistics speed rows under vanilla item speed display. / 在原版物流速度显示下方追加长窗口滑动平均行。"
   },
   {
     "repo": "m1cxzfw3q/ruikeui",
@@ -7392,20 +7406,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "itzmellory/advanced-redactor",
-    "internalName": "advanced-redactor",
-    "name": " Advanced Redactor ",
-    "version": "1.0",
-    "hidden": true,
-    "author": "[#00f2fe]⚠ 3301[] [#48b2fe]and[] [#9072fe]VI Clan []",
-    "lastUpdated": "2026-10-23T03:12:49Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#00f2fe] The[] [#24d2fe]Ulti[][#48b2fe]mate[] [#6c92fe]Map[] [#9072fe]Editor []\n\n[#7af0ff] Next-generation terrain synthesis and advanced mapping utilities[]\n[#d0e8ff]Maps created with this mod are[] [#89ff7a]100% compatible with vanilla Mindustry []\n\n[#00f2fe] Fea[][#48b2fe]tures[] [#9072fe](EN):[]\n\n[#00f2fe]- Adv[][#36c2fe]anced[] [#6c92fe]Terrain[] [#9072fe]Creator  -[]\n[#c4d7ff]Multi-layered biome generation, jagged cliffs, shoreline outlines, central basins, and procedural cave networks.[]\n\n[#00f2fe]- Cus[][#36c2fe]tom[] [#6c92fe]Editor[] [#9072fe]UI  -[]\n[#c4d7ff]Seamlessly integrated panels and extended filter controls directly inside the map generator.[]\n\n[#00f2fe]- Com[][#36c2fe]plete[] [#6c92fe]Terrain[] [#9072fe]Control  -[]\n[#c4d7ff]Domain warping, ridged noise, Void Border masks, and multi-floor blending for realistic landscapes.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#00f2fe] Про[][#24d2fe]двину[][#48b2fe]тый[] [#6c92fe]Редак[][#9072fe]тор Карт []\n\n[#7af0ff] Генерация сложного рельефа нового поколения и инструменты картографа[]\n[#d0e8ff]Карты, созданные с этим модом,[] [#89ff7a]полностью совместимы с ванильной игрой []\n\n[#00f2fe] Осо[][#48b2fe]бенно[][#9072fe]сти (RU):[]\n\n[#00f2fe]- Про[][#36c2fe]двинутый[] [#6c92fe]Создатель[] [#9072fe]Рельефа  -[]\n[#c4d7ff]Многослойные биомы, рваные скалы, береговая окантовка, центральные озера и процедурные сети каньонов и пещер.[]\n\n[#00f2fe]- Рас[][#36c2fe]ширен[][#6c92fe]ный[] [#9072fe]Интерфейс  -[]\n[#c4d7ff]Удобные кастомные панели и гибкие настройки фильтров, встроенные прямо в меню генерации.[]\n\n[#00f2fe]- Пол[][#36c2fe]ный[] [#6c92fe]Контроль[] [#9072fe]Ландшафта  -[]\n[#c4d7ff]Искажение координат, гребневый шум, маска внешних границ (Void Border) и смешивание пород.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#ff6b6b]⚠ Glo[][#ff8e82]ry to[] [#ffb199]VI, Bro[][#ffd3b0]thers and[] [#ffece0]Sisters! []"
-  },
-  {
     "repo": "loewenkrieger/exogenesis-aftershock-mod",
     "internalName": "exogenesis-aftershock",
     "name": "Exogenesis: Aftershock",
@@ -7454,12 +7454,26 @@
     "version": "0.2.2.1",
     "hidden": false,
     "author": "October",
-    "lastUpdated": "2026-10-24T08:14:18Z",
+    "lastUpdated": "2026-10-24T09:07:50Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "itzmellory/advanced-redactor",
+    "internalName": "advanced-redactor",
+    "name": " Advanced Redactor ",
+    "version": "1.0",
+    "hidden": true,
+    "author": "[#00f2fe]⚠ 3301[] [#48b2fe]and[] [#9072fe]VI Clan []",
+    "lastUpdated": "2026-10-24T09:18:29Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#00f2fe] The[] [#24d2fe]Ulti[][#48b2fe]mate[] [#6c92fe]Map[] [#9072fe]Editor []\n\n[#7af0ff] Next-generation terrain synthesis and advanced mapping utilities[]\n[#d0e8ff]Maps created with this mod are[] [#89ff7a]100% compatible with vanilla Mindustry []\n\n[#00f2fe] Fea[][#48b2fe]tures[] [#9072fe](EN):[]\n\n[#00f2fe]- Adv[][#36c2fe]anced[] [#6c92fe]Terrain[] [#9072fe]Creator  -[]\n[#c4d7ff]Multi-layered biome generation, jagged cliffs, shoreline outlines, central basins, and procedural cave networks.[]\n\n[#00f2fe]- Cus[][#36c2fe]tom[] [#6c92fe]Editor[] [#9072fe]UI  -[]\n[#c4d7ff]Seamlessly integrated panels and extended filter controls directly inside the map generator.[]\n\n[#00f2fe]- Com[][#36c2fe]plete[] [#6c92fe]Terrain[] [#9072fe]Control  -[]\n[#c4d7ff]Domain warping, ridged noise, Void Border masks, and multi-floor blending for realistic landscapes.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#00f2fe] Про[][#24d2fe]двину[][#48b2fe]тый[] [#6c92fe]Редак[][#9072fe]тор Карт []\n\n[#7af0ff] Генерация сложного рельефа нового поколения и инструменты картографа[]\n[#d0e8ff]Карты, созданные с этим модом,[] [#89ff7a]полностью совместимы с ванильной игрой []\n\n[#00f2fe] Осо[][#48b2fe]бенно[][#9072fe]сти (RU):[]\n\n[#00f2fe]- Про[][#36c2fe]двинутый[] [#6c92fe]Создатель[] [#9072fe]Рельефа  -[]\n[#c4d7ff]Многослойные биомы, рваные скалы, береговая окантовка, центральные озера и процедурные сети каньонов и пещер.[]\n\n[#00f2fe]- Рас[][#36c2fe]ширен[][#6c92fe]ный[] [#9072fe]Интерфейс  -[]\n[#c4d7ff]Удобные кастомные панели и гибкие настройки фильтров, встроенные прямо в меню генерации.[]\n\n[#00f2fe]- Пол[][#36c2fe]ный[] [#6c92fe]Контроль[] [#9072fe]Ландшафта  -[]\n[#c4d7ff]Искажение координат, гребневый шум, маска внешних границ (Void Border) и смешивание пород.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#ff6b6b]⚠ Glo[][#ff8e82]ry to[] [#ffb199]VI, Bro[][#ffd3b0]thers and[] [#ffece0]Sisters! []"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
