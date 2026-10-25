@@ -62,7 +62,7 @@
     "version": "v5.5.21-v8",
     "hidden": true,
     "author": "[#FFC2D1]S[#FFADC2]h[#FF97B3]a[#FF81A3]r[#FF6C94]l[#F45885]o[#E84375]t[#DD2F67]t[#D11A58]e[]",
-    "lastUpdated": "2026-10-25T16:31:33Z",
+    "lastUpdated": "2026-10-25T19:37:01Z",
     "stars": 252,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -3766,20 +3766,6 @@
     "description": "Logic editor enhancements: jump line coloring, box select, expression editor, scrollbar enhancement, JUMP navigation, and label copy. See https://github.com/nosbhghggg/logic-assist for details."
   },
   {
-    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
-    "internalName": "erekir-lost-sectors",
-    "name": "Erekir: Unknown Hazards",
-    "version": "2.0",
-    "hidden": false,
-    "author": "Retro_Seek",
-    "lastUpdated": "2026-10-02T14:10:40Z",
-    "stars": 4,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "New sectors to Erekir"
-  },
-  {
     "repo": "wynej/map-collection",
     "internalName": "map-collection",
     "name": "Map Collection",
@@ -3890,6 +3876,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
+  },
+  {
+    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
+    "internalName": "erekir-lost-sectors",
+    "name": "Erekir: Unknown Signal",
+    "version": "v1.0",
+    "hidden": false,
+    "author": "Retro_Seek & Zyruh",
+    "lastUpdated": "2026-10-25T19:32:09Z",
+    "stars": 4,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[#ff3030]// SIGNAL LOG //[]\n\n[#9b9b9b]Origin:[] [#ff0000]UNDETERMINED[]\n[#9b9b9b]Source:[] [#ff3030]UNKNOWN[]\n[#9b9b9b]Classification:[] [#ff8a24]UNIDENTIFIED[]\n\n[#e0e0e0]Something has appeared beyond the known territories of Erekir.[]\n\n[#ff8a24]New sectors have been discovered.[]\n[#00d9ff]Unfamiliar environments have been recorded.[]\n[#00d9ff]Unknown anomalies have been detected.[]\n\n[#e0e0e0]Explore the forgotten regions of [#ff8a24]Erekir[],\nuncover the secrets hidden within its uncharted sectors,\nand follow the signal to discover what lies beyond the known frontier.[]\n\n[#ff8a24]NEW TECHNOLOGIES DETECTED[]\n\n[#00d9ff]• New blocks[]\n[#00d9ff]• New turrets[]\n[#00d9ff]• New resources and technologies[]\n[#00d9ff]• New sectors to explore[]\n\n[#ff3030]WARNING:[]\n[#cfcfcf]The source remains unidentified.[]\n[#cfcfcf]The signal is still active.[]\n\n[#777777]Proceed with caution.[]\n\n\n[#8a8a8a]Languages:[] [#00d9ff]English[], [#ff8a24]Russian[]"
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -7462,20 +7462,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "kiagoblin/goblin-storage-android",
-    "internalName": "goblin-link",
-    "name": "Goblin Link",
-    "version": "1.0.0",
-    "hidden": false,
-    "author": "Kiagoblin",
-    "lastUpdated": "2026-10-25T09:54:08Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Хранилище с возможностью авто-забора предметов из ядра."
-  },
-  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
@@ -7488,6 +7474,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "kennyzhang0819/mindustry-survivors",
+    "internalName": "mindustry-survivors",
+    "name": "Mindustry Survivors",
+    "version": "0.1.0",
+    "hidden": false,
+    "author": "Zerkka",
+    "lastUpdated": "2026-10-25T17:19:56Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry Survivors\nVampire Survivors in Mindustry\n\n\nHow to play\n\nSurvive 50 waves on a random map while enemies chase you from every side.\n\nKill them to pick up gems and level up. Each level, pick 1 of 3 random cards:\n> new turrets\n> upgrades for turrets you have\n> passives that make you faster or tougher\n\nThere is nothing to build. Just move, aim and stay alive.\n\n\nWhat waits for you\n\n> All 28 turrets from Serpulo and Erekir, each with 10 levels\n> Bosses every 25 waves\n> Curses past Eradication for a real challenge (experimental, not balanced yet)\n> Endless mode after wave 50\n\n\nNeeds Mindustry v8 (build 160 or newer). Desktop only."
+  },
+  {
+    "repo": "kiagoblin/goblin-storage-android",
+    "internalName": "goblin-link",
+    "name": "Goblin Link",
+    "version": "1.1.0",
+    "hidden": false,
+    "author": "Kiagoblin",
+    "lastUpdated": "2026-10-25T19:18:36Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Хранилище с возможностью авто-забора предметов из ядра."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8624,20 +8638,6 @@
     "description": "B站关注许君w/喜欢青冈的容墨"
   },
   {
-    "repo": "alexandremonoyioudis/rebuild-turrets-mindusty-mod",
-    "internalName": "rebuild-turrets",
-    "name": "Rebuild Turrets",
-    "version": "1.0",
-    "hidden": false,
-    "author": "AlexandreMonoyioudis",
-    "lastUpdated": "2026-10-22T08:47:30Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "These new Turrets help rebuild destroyed bases and helps the player build faster. \n+ rebuild Turret \n + macro rebuild Turret"
-  },
-  {
     "repo": "huanxefh/fluid-cells",
     "internalName": "fcell",
     "name": "Fluid Cells",
@@ -8680,17 +8680,17 @@
     "description": "一个给敌军提供随机强化的Java模组\n A Java mod that gives random buffs to the enemy army"
   },
   {
-    "repo": "kennyzhang0819/mindustry-survivors",
-    "internalName": "mindustry-survivors",
-    "name": "Mindustry Survivors",
-    "version": "0.1.0",
+    "repo": "alexandremonoyioudis/rebuild-turrets-mindusty-mod",
+    "internalName": "rebuild-turrets",
+    "name": "Rebuild Turrets",
+    "version": "1.0",
     "hidden": false,
-    "author": "Zerkka",
-    "lastUpdated": "2026-10-25T17:19:56Z",
+    "author": "AlexandreMonoyioudis",
+    "lastUpdated": "2026-10-25T18:03:35Z",
     "stars": 0,
-    "minGameVersion": "160",
+    "minGameVersion": "146",
     "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry Survivors\nVampire Survivors in Mindustry\n\n\nHow to play\n\nSurvive 50 waves on a random map while enemies chase you from every side.\n\nKill them to pick up gems and level up. Each level, pick 1 of 3 random cards:\n> new turrets\n> upgrades for turrets you have\n> passives that make you faster or tougher\n\nThere is nothing to build. Just move, aim and stay alive.\n\n\nWhat waits for you\n\n> All 28 turrets from Serpulo and Erekir, each with 10 levels\n> Bosses every 25 waves\n> Curses past Eradication for a real challenge (experimental, not balanced yet)\n> Endless mode after wave 50\n\n\nNeeds Mindustry v8 (build 160 or newer). Desktop only."
+    "hasJava": false,
+    "description": "These new Turrets help rebuild destroyed bases and helps the player build faster. \n+ rebuild Turret \n + macro rebuild Turret"
   }
 ]
