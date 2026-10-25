@@ -202,7 +202,7 @@
     "version": "4.3.7",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-10-24T11:59:14Z",
+    "lastUpdated": "2026-10-24T21:38:46Z",
     "stars": 132,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-24T15:35:25Z",
+    "lastUpdated": "2026-10-24T23:45:23Z",
     "stars": 72,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -1008,6 +1008,20 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
+    "repo": "mindustrydesignit/schematic-browser-mod",
+    "internalName": "schematic-browser",
+    "name": "Schematic Browser",
+    "version": "1.2",
+    "hidden": true,
+    "author": "SByte, Eeve-lyn, zxtej",
+    "lastUpdated": "2025-12-18T12:25:30Z",
+    "stars": 26,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod for browsing schematic repositories."
+  },
+  {
     "repo": "teamviscott/modprojectviscott",
     "internalName": "project-viscott",
     "name": "Project Viscott",
@@ -1020,20 +1034,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
-  },
-  {
-    "repo": "mindustrydesignit/schematic-browser-mod",
-    "internalName": "schematic-browser",
-    "name": "Schematic Browser",
-    "version": "1.2",
-    "hidden": true,
-    "author": "SByte, Eeve-lyn, zxtej",
-    "lastUpdated": "2025-12-18T12:25:30Z",
-    "stars": 25,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod for browsing schematic repositories."
   },
   {
     "repo": "arktcode/dynamic-shadows",
@@ -1781,10 +1781,10 @@
     "repo": "agzam4/mindustry-mod-v8",
     "internalName": "agzam4mod",
     "name": "Agzam's Mod",
-    "version": "160.6.a",
+    "version": "160.7.a",
     "hidden": true,
     "author": "Agzam4",
-    "lastUpdated": "2026-10-11T18:41:02Z",
+    "lastUpdated": "2026-10-24T22:32:18Z",
     "stars": 12,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1904,20 +1904,6 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
-    "repo": "sputnuc/deepsea",
-    "internalName": "deepsea",
-    "name": "Project: Deep Sea (Alpha)",
-    "version": "0.2.1",
-    "hidden": false,
-    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
-    "lastUpdated": "2026-10-23T14:47:27Z",
-    "stars": 11,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -1932,13 +1918,27 @@
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
+    "repo": "sputnuc/deepsea",
+    "internalName": "deepsea",
+    "name": "Project: Deep Sea (Alpha)",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
+    "lastUpdated": "2026-10-24T21:37:31Z",
+    "stars": 11,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
+  },
+  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
     "version": "0.4.0",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-24T13:36:11Z",
+    "lastUpdated": "2026-10-24T22:37:35Z",
     "stars": 11,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -2442,7 +2442,7 @@
     "version": "1.03",
     "hidden": false,
     "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-10-24T20:19:53Z",
+    "lastUpdated": "2026-10-24T21:00:32Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3884,7 +3884,7 @@
     "version": "24.4.0",
     "hidden": false,
     "author": "Bowen-H0",
-    "lastUpdated": "2026-10-24T19:37:58Z",
+    "lastUpdated": "2026-10-24T21:32:53Z",
     "stars": 4,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -4382,20 +4382,6 @@
     "description": "一个自动生成的模组，感谢deepseek"
   },
   {
-    "repo": "krucaaaa/moreerekir",
-    "internalName": "mod-for-elder",
-    "name": "More Erekir!",
-    "version": "1.02",
-    "hidden": true,
-    "author": "krucaaaa and  Элдер",
-    "lastUpdated": "2026-09-05T11:56:01Z",
-    "stars": 3,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "krucaaaa - mod\n Elder - maps.\n \n \n \n \nA simple mod, that adds 12 new sectors to Erekir"
-  },
-  {
     "repo": "mohamedgonem/ore-gens",
     "internalName": "ore-gens",
     "name": "Ore Generators",
@@ -4534,6 +4520,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
+  },
+  {
+    "repo": "krucaaaa/moreerekir",
+    "internalName": "mod-for-elder",
+    "name": "More Erekir!",
+    "version": "1.02",
+    "hidden": true,
+    "author": "krucaaaa and  Элдер",
+    "lastUpdated": "2026-10-24T21:23:48Z",
+    "stars": 3,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "krucaaaa - mod\n Elder - maps.\n \n \n \n \nA simple mod, that adds 12 new sectors to Erekir"
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5362,20 +5362,6 @@
     "description": "Minecraft PE style mobile joystick control for player units with movement scaling, boost toggle, and dual/single-stick shooting modes. / 提供类似 Minecraft 手机端的摇杆操控：按幅度移动、Boost 切换、双摇杆或单摇杆开火。"
   },
   {
-    "repo": "trmuhittin/mindtranslator",
-    "internalName": "mindtranslator",
-    "name": "MindTranslator",
-    "version": "2.2",
-    "hidden": true,
-    "author": "LunarNetwork",
-    "lastUpdated": "2026-09-07T17:23:41Z",
-    "stars": 2,
-    "minGameVersion": "159.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Translates chat messages in place: pick the language your messages are translated to, the language you write in, and the language incoming messages are translated to. Client-side only; works on any server. Prevents double translation with an invisible marker protocol, includes a passive mode for servers that already translate (e.g. foo-client servers), and runs alongside Mindustry Tool. Fully configurable in-game via the gear button in the top-left corner."
-  },
-  {
     "repo": "muniine/scheme_plus",
     "internalName": "scheme_plus",
     "name": "Scheme+",
@@ -5654,6 +5640,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mindustry? Yes, but more!"
+  },
+  {
+    "repo": "trmuhittin/mindtranslator",
+    "internalName": "mindtranslator",
+    "name": "MindTranslator",
+    "version": "2.2",
+    "hidden": true,
+    "author": "LunarNetwork",
+    "lastUpdated": "2026-10-25T00:00:23Z",
+    "stars": 2,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Translates chat messages in place: pick the language your messages are translated to, the language you write in, and the language incoming messages are translated to. Client-side only; works on any server. Prevents double translation with an invisible marker protocol, includes a passive mode for servers that already translate (e.g. foo-client servers), and runs alongside Mindustry Tool. Fully configurable in-game via the gear button in the top-left corner."
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -8664,19 +8664,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "一个给敌军提供随机强化的Java模组\n A Java mod that gives random buffs to the enemy army"
-  },
-  {
-    "repo": "literal234xzha-cpu/singularity-reactors-mod",
-    "internalName": "singularity-reactors",
-    "name": "Singularity Reactors",
-    "version": "",
-    "hidden": false,
-    "author": "LOLOCORD",
-    "lastUpdated": "2026-10-23T18:36:41Z",
-    "stars": 0,
-    "minGameVersion": "160.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reactores Alpha-Omega + Sistema Delta + GPU (MicroGPU, GPU, HiperGPU) con 35 funciones.\n  "
   }
 ]
