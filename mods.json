@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FFC2D1]S[#FFADC2]h[#FF97B3]a[#FF81A3]r[#FF6C94]l[#F45885]o[#E84375]t[#DD2F67]t[#D11A58]e[]",
     "lastUpdated": "2026-10-26T08:38:42Z",
-    "stars": 253,
+    "stars": 254,
     "minGameVersion": "160.7",
     "hasScripts": false,
     "hasJava": true,
@@ -160,7 +160,7 @@
     "version": "0.1.2A Indev 8",
     "hidden": false,
     "author": "stabu",
-    "lastUpdated": "2026-10-20T15:12:02Z",
+    "lastUpdated": "2026-10-26T15:46:53Z",
     "stars": 143,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -1316,6 +1316,20 @@
     "description": " [accent]以战锤40k为原型的MOD[]，拥有自设模组背景和战锤或许关系不大,设定与qq群链接可以到 [accent]模组简介[]里面找\n[sky]QQ群316481519[]\n[unlaunched]贡献者:DOC-A-7244(bundles和翻译),Eipusino(java技术指导)[]\n [accent]The MOD based on Warhammer 40k[],Having a custom mod background may not necessarily relate to Warhammer， with its settings and links to the QQ group, can be found in the  [accent]mod introduction[]\n[sky]QQ group 316481519[]\nDiscord will consider adding features in its subsequent improvements\n[unlaunched]Contributors: DOC-A-7244 (bundles and translation), Eipusino (Java technical guidance)[]"
   },
   {
+    "repo": "itzcraft/epsilon",
+    "internalName": "epsilon",
+    "name": "Epsilon",
+    "version": "0.284",
+    "hidden": false,
+    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
+    "lastUpdated": "2026-10-24T19:44:04Z",
+    "stars": 18,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
     "repo": "thomasthings/xenacia",
     "internalName": "xenacia",
     "name": "Xenacia",
@@ -1342,20 +1356,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
-  },
-  {
-    "repo": "itzcraft/epsilon",
-    "internalName": "epsilon",
-    "name": "Epsilon",
-    "version": "0.284",
-    "hidden": false,
-    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-10-24T19:44:04Z",
-    "stars": 17,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
     "repo": "topyrit/capital_progress",
@@ -1672,7 +1672,7 @@
     "version": "1.12.4",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-10-24T13:47:27Z",
+    "lastUpdated": "2026-10-26T13:10:06Z",
     "stars": 13,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -2434,20 +2434,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
-  },
-  {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-10-25T08:33:11Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "mitemi/blastanium",
@@ -4858,20 +4844,6 @@
     "description": "Make pretty screenshot for your logic."
   },
   {
-    "repo": "darkjune0122/javelinunit",
-    "internalName": "javelin-unit-mod",
-    "name": "Javelin Unit Mod",
-    "version": "1.0",
-    "hidden": false,
-    "author": "DarkJune",
-    "lastUpdated": "2025-08-17T05:29:03Z",
-    "stars": 2,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry mod, that adds javelin unit to your game"
-  },
-  {
     "repo": "jirocab/yetanotherserpulorebalance",
     "internalName": "yasr",
     "name": "Yet another Serpulo Rebalance",
@@ -5556,20 +5528,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n\n[gray]支持语言\n\n - [red]简体中文\n\n[gray] - [red]English\n\n\n[white]致谢\n某个t3小飞机 - 核心蓝图\n白义F-061 - 战役地图 & 部分简介\n\n为了您游玩此MOD拥有更佳的体验，请使用原版Mindustry游玩(不包含MdtX、学术等辅助版本)\n\n\n[red]请在游玩此MOD前开启双击采矿！\n\n[red]Please enable Double-Tap to Mine before playing this MOD!\n\n\n[gray]GitHub开源链接: https://github.com/shenqixingqioule/DAWN"
-  },
-  {
-    "repo": "akilis81x/fenadi",
-    "internalName": "fenadi",
-    "name": "Fenadi",
-    "version": "0.1",
-    "hidden": false,
-    "author": "Akilis81",
-    "lastUpdated": "2026-10-17T22:02:35Z",
-    "stars": 2,
-    "minGameVersion": "154.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
   },
   {
     "repo": "kernelitt/kernelit-s-advanced-schemepack",
@@ -7322,6 +7280,20 @@
     "description": "No description provided."
   },
   {
+    "repo": "akilis81x/fenadi",
+    "internalName": "fenadi",
+    "name": "Fenadi",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Akilis81",
+    "lastUpdated": "2026-10-17T22:02:35Z",
+    "stars": 1,
+    "minGameVersion": "154.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
+  },
+  {
     "repo": "mullibenmolly/starshineplan",
     "internalName": "xx-mod",
     "name": "StarshinePlan",
@@ -7462,20 +7434,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-10-25T15:21:44Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "kiagoblin/goblin-storage-android",
     "internalName": "goblin-link",
     "name": "Goblin Link",
@@ -7516,6 +7474,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ffffff] The[] [#e3e3e3]Ulti[][#c7c7c7]mate[] [#ababab]Map[] [#8f8f8f]Editor []\n\n[#e6e6e6] Next-generation terrain synthesis and advanced mapping utilities[]\n[#cccccc]Maps created with this mod are[] [#ffffff]100% compatible with vanilla Mindustry []\n\n[#ffffff] Fea[][#c7c7c7]tures[] [#8f8f8f](EN):[]\n\n[#ffffff]- Cus[][#e3e3e3]tom[] [#ababab]Generators[] [#8f8f8f] -[]\n[#b3b3b3]Advanced Terrain, Water, Ruins, and Rotation filters for complex landscapes.[]\n\n[#ffffff]- Ext[][#e3e3e3]ended[] [#ababab]Editor UI[] [#8f8f8f] -[]\n[#b3b3b3]Dedicated generator columns, Map Art tools, and Land Copy-Paste utilities.[]\n\n[#ffffff]- No[] [#e3e3e3]Lim[][#ababab]its[] [#8f8f8f] -[]\n[#b3b3b3]Built-in Map Size Unlocker completely removes vanilla dimension boundaries.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] Про[][#e3e3e3]двину[][#c7c7c7]тый[] [#ababab]Редак[][#8f8f8f]тор Карт []\n\n[#e6e6e6] Генерация сложного рельефа и расширенные утилиты картографа[]\n[#cccccc]Карты, созданные с этим модом,[] [#ffffff]полностью совместимы с ванильной игрой []\n\n[#ffffff] Осо[][#c7c7c7]бенно[][#8f8f8f]сти (RU):[]\n\n[#ffffff]- Про[][#e3e3e3]двинутые[] [#ababab]Генераторы[] [#8f8f8f] -[]\n[#b3b3b3]Специализированные фильтры ландшафта, воды, руин и вращения (Rotation).[]\n\n[#ffffff]- Рас[][#e3e3e3]ширенный[] [#ababab]Интерфейс[] [#8f8f8f] -[]\n[#b3b3b3]Отдельная колонка фильтров, Map Art генератор и утилиты копирования зон (Copy-Paste).[]\n\n[#ffffff]- Сня[][#e3e3e3]тие[] [#ababab]Лимитов[] [#8f8f8f] -[]\n[#b3b3b3]Map Size Unlocker позволяет обходить стандартные ограничения на максимальный размер карты.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff]⚠ Glo[][#e3e3e3]ry to[] [#c7c7c7]VI, Bro[][#ababab]thers and[] [#8f8f8f]Sisters! []"
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-10-26T16:04:14Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
