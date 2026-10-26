@@ -3822,20 +3822,6 @@
     "description": "[TESTING VERSION - may contain bugs and softlocks!] A meme overhaul in the spirit of Factorio's Fun Mode: a pile of cursed-but-playable gameplay changes, each toggleable. Works in singleplayer and when hosting; joining someone else's server disables the simulation-touching curses.\n\n[ТЕСТОВАЯ ВЕРСИЯ - возможны баги и софтлоки!] Мем-переделка в духе Fun Mode для Factorio: набор безумных, но играбельных изменений геймплея, каждое из которых можно включить или выключить отдельно. Работает в одиночной игре и при хостинге; при подключении к чужому серверу механики, влияющие на симуляцию, автоматически отключаются."
   },
   {
-    "repo": "youming66681/magic",
-    "internalName": "magic",
-    "name": "幻境/magical",
-    "version": "0.21",
-    "hidden": false,
-    "author": "幻境模组制作团队",
-    "lastUpdated": "2026-10-16T05:48:03Z",
-    "stars": 4,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730\n服务器:103.40.14.91:42275\n备用:114.66.28.186:45689"
-  },
-  {
     "repo": "cardillan/mlogassertions",
     "internalName": "mlog-assertions-8",
     "name": "Mlog Dev Tools",
@@ -3890,6 +3876,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
+  },
+  {
+    "repo": "youming66681/magic",
+    "internalName": "magic",
+    "name": "幻境/magical",
+    "version": "0.21",
+    "hidden": false,
+    "author": "幻境模组制作团队",
+    "lastUpdated": "2026-10-26T03:30:16Z",
+    "stars": 4,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730\n服务器:103.40.14.91:42275\n备用:114.66.28.186:45689"
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -5642,20 +5642,6 @@
     "description": "Простой мод для отображения статистики в кампании"
   },
   {
-    "repo": "lamamega/attarax-modpack",
-    "internalName": "attarax mod-pack",
-    "name": "AttaraX Mod-Pack",
-    "version": "1.0",
-    "hidden": false,
-    "author": "AttaraX",
-    "lastUpdated": "2026-10-24T19:00:47Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry? Yes, but more!"
-  },
-  {
     "repo": "trmuhittin/mindtranslator",
     "internalName": "mindtranslator",
     "name": "MindTranslator",
@@ -5682,6 +5668,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Survivors\nVampire Survivors in Mindustry\n\n\nHow to play\n\nSurvive 50 waves on a random map while enemies chase you from every side.\n\nKill them to pick up gems and level up. Each level, pick 1 of 3 random cards:\n> new turrets\n> upgrades for turrets you have\n> passives that make you faster or tougher\n\nThere is nothing to build. Just move, aim and stay alive.\n\n\nWhat waits for you\n\n> All 28 turrets from Serpulo and Erekir, each with 10 levels\n> Bosses every 25 waves\n> Curses past Eradication for a real challenge (experimental, not balanced yet)\n> Endless mode after wave 50\n\n\nNeeds Mindustry v8 (build 160 or newer). Desktop only."
+  },
+  {
+    "repo": "lamamega/attarax-modpack",
+    "internalName": "attarax mod-pack",
+    "name": "AttaraX Mod-Pack",
+    "version": "1.0",
+    "hidden": false,
+    "author": "AttaraX",
+    "lastUpdated": "2026-10-26T00:23:39Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry? Yes, but more!"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7448,34 +7448,6 @@
     "description": " QoL mod: Displays a directional arrow during schematic rotation. Direction can be changed in settings. For desktop PCs only.\n Отображает стрелку направления при вращении схемы. Направление изменяемо в настройках. Только для настольных ПК. "
   },
   {
-    "repo": "itzmellory/advanced-redactor",
-    "internalName": "advanced-redactor",
-    "name": " Advanced Redactor ",
-    "version": "1.0",
-    "hidden": true,
-    "author": "[#00f2fe]⚠ 3301[] [#48b2fe]and[] [#9072fe]VI Clan []",
-    "lastUpdated": "2026-10-24T09:18:29Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#00f2fe] The[] [#24d2fe]Ulti[][#48b2fe]mate[] [#6c92fe]Map[] [#9072fe]Editor []\n\n[#7af0ff] Next-generation terrain synthesis and advanced mapping utilities[]\n[#d0e8ff]Maps created with this mod are[] [#89ff7a]100% compatible with vanilla Mindustry []\n\n[#00f2fe] Fea[][#48b2fe]tures[] [#9072fe](EN):[]\n\n[#00f2fe]- Adv[][#36c2fe]anced[] [#6c92fe]Terrain[] [#9072fe]Creator  -[]\n[#c4d7ff]Multi-layered biome generation, jagged cliffs, shoreline outlines, central basins, and procedural cave networks.[]\n\n[#00f2fe]- Cus[][#36c2fe]tom[] [#6c92fe]Editor[] [#9072fe]UI  -[]\n[#c4d7ff]Seamlessly integrated panels and extended filter controls directly inside the map generator.[]\n\n[#00f2fe]- Com[][#36c2fe]plete[] [#6c92fe]Terrain[] [#9072fe]Control  -[]\n[#c4d7ff]Domain warping, ridged noise, Void Border masks, and multi-floor blending for realistic landscapes.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#00f2fe] Про[][#24d2fe]двину[][#48b2fe]тый[] [#6c92fe]Редак[][#9072fe]тор Карт []\n\n[#7af0ff] Генерация сложного рельефа нового поколения и инструменты картографа[]\n[#d0e8ff]Карты, созданные с этим модом,[] [#89ff7a]полностью совместимы с ванильной игрой []\n\n[#00f2fe] Осо[][#48b2fe]бенно[][#9072fe]сти (RU):[]\n\n[#00f2fe]- Про[][#36c2fe]двинутый[] [#6c92fe]Создатель[] [#9072fe]Рельефа  -[]\n[#c4d7ff]Многослойные биомы, рваные скалы, береговая окантовка, центральные озера и процедурные сети каньонов и пещер.[]\n\n[#00f2fe]- Рас[][#36c2fe]ширен[][#6c92fe]ный[] [#9072fe]Интерфейс  -[]\n[#c4d7ff]Удобные кастомные панели и гибкие настройки фильтров, встроенные прямо в меню генерации.[]\n\n[#00f2fe]- Пол[][#36c2fe]ный[] [#6c92fe]Контроль[] [#9072fe]Ландшафта  -[]\n[#c4d7ff]Искажение координат, гребневый шум, маска внешних границ (Void Border) и смешивание пород.[]\n\n[#00f2fe]───────[][#24d2fe]───────[][#48b2fe]───  ───[][#6c92fe]───────[][#9072fe]───────[]\n\n[#ff6b6b]⚠ Glo[][#ff8e82]ry to[] [#ffb199]VI, Bro[][#ffd3b0]thers and[] [#ffece0]Sisters! []"
-  },
-  {
-    "repo": "capueinedaffe-cmd/float-damage-text",
-    "internalName": "damage-numbers",
-    "name": "Damage Numbers",
-    "version": "1.0.6",
-    "hidden": false,
-    "author": "Rain",
-    "lastUpdated": "2026-10-25T06:13:30Z",
-    "stars": 1,
-    "minGameVersion": "160.5",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "FLOATING TEXT DAMAGE BROOO!!!!!!"
-  },
-  {
     "repo": "dustdustry/wayzermapbrowser-java",
     "internalName": "wayzer-maps",
     "name": "Wayzer地图站",
@@ -7516,6 +7488,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Хранилище с возможностью авто-забора предметов из ядра."
+  },
+  {
+    "repo": "capueinedaffe-cmd/float-damage-text",
+    "internalName": "damage-numbers",
+    "name": "Damage Numbers",
+    "version": "1.0.6",
+    "hidden": false,
+    "author": "Rain",
+    "lastUpdated": "2026-10-26T00:45:57Z",
+    "stars": 1,
+    "minGameVersion": "160.5",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "FLOATING TEXT DAMAGE BROOO!!!!!!"
+  },
+  {
+    "repo": "itzmellory/advanced-redactor",
+    "internalName": "advanced-redactor",
+    "name": " Advanced Redactor ",
+    "version": "1.0",
+    "hidden": true,
+    "author": "[#ffffff]⚠ 3301[] [#c7c7c7]and[] [#8f8f8f]VI Clan []",
+    "lastUpdated": "2026-10-26T03:20:11Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ffffff] The[] [#e3e3e3]Ulti[][#c7c7c7]mate[] [#ababab]Map[] [#8f8f8f]Editor []\n\n[#e6e6e6] Next-generation terrain synthesis and advanced mapping utilities[]\n[#cccccc]Maps created with this mod are[] [#ffffff]100% compatible with vanilla Mindustry []\n\n[#ffffff] Fea[][#c7c7c7]tures[] [#8f8f8f](EN):[]\n\n[#ffffff]- Cus[][#e3e3e3]tom[] [#ababab]Generators[] [#8f8f8f] -[]\n[#b3b3b3]Advanced Terrain, Water, Ruins, and Rotation filters for complex landscapes.[]\n\n[#ffffff]- Ext[][#e3e3e3]ended[] [#ababab]Editor UI[] [#8f8f8f] -[]\n[#b3b3b3]Dedicated generator columns, Map Art tools, and Land Copy-Paste utilities.[]\n\n[#ffffff]- No[] [#e3e3e3]Lim[][#ababab]its[] [#8f8f8f] -[]\n[#b3b3b3]Built-in Map Size Unlocker completely removes vanilla dimension boundaries.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] Про[][#e3e3e3]двину[][#c7c7c7]тый[] [#ababab]Редак[][#8f8f8f]тор Карт []\n\n[#e6e6e6] Генерация сложного рельефа и расширенные утилиты картографа[]\n[#cccccc]Карты, созданные с этим модом,[] [#ffffff]полностью совместимы с ванильной игрой []\n\n[#ffffff] Осо[][#c7c7c7]бенно[][#8f8f8f]сти (RU):[]\n\n[#ffffff]- Про[][#e3e3e3]двинутые[] [#ababab]Генераторы[] [#8f8f8f] -[]\n[#b3b3b3]Специализированные фильтры ландшафта, воды, руин и вращения (Rotation).[]\n\n[#ffffff]- Рас[][#e3e3e3]ширенный[] [#ababab]Интерфейс[] [#8f8f8f] -[]\n[#b3b3b3]Отдельная колонка фильтров, Map Art генератор и утилиты копирования зон (Copy-Paste).[]\n\n[#ffffff]- Сня[][#e3e3e3]тие[] [#ababab]Лимитов[] [#8f8f8f] -[]\n[#b3b3b3]Map Size Unlocker позволяет обходить стандартные ограничения на максимальный размер карты.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff]⚠ Glo[][#e3e3e3]ry to[] [#c7c7c7]VI, Bro[][#ababab]thers and[] [#8f8f8f]Sisters! []"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
