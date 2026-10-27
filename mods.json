@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-24T23:45:23Z",
+    "lastUpdated": "2026-10-27T10:22:32Z",
     "stars": 73,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -1484,6 +1484,20 @@
     "description": "A lot of useful & QoL features\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
+    "repo": "teamoct/erekir-music",
+    "internalName": "erekir-music",
+    "name": "Team Oct's Erekir Music",
+    "version": "1.4",
+    "hidden": true,
+    "author": "Team Oct",
+    "lastUpdated": "2026-10-27T11:22:29Z",
+    "stars": 15,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
+  },
+  {
     "repo": "guiymou/adaptivecoredatabase",
     "internalName": "adaptivecoredatabase",
     "name": "自适应核心数据库（Adaptive Core Database）",
@@ -1952,7 +1966,7 @@
     "version": "101.5",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-10-27T05:18:17Z",
+    "lastUpdated": "2026-10-27T11:59:48Z",
     "stars": 11,
     "minGameVersion": "160.1",
     "hasScripts": true,
@@ -3808,20 +3822,6 @@
     "description": "ERA.Dark QQ:526675268"
   },
   {
-    "repo": "florfir/md-proxy",
-    "internalName": "md-proxy",
-    "name": "Proxy Mod",
-    "version": "1.0",
-    "hidden": true,
-    "author": "kuko",
-    "lastUpdated": "2026-10-14T17:59:36Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "idk."
-  },
-  {
     "repo": "arcyde0078/fun-mode",
     "internalName": "sonka-fun-mode",
     "name": "Fun Mode",
@@ -3878,20 +3878,6 @@
     "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
   },
   {
-    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
-    "internalName": "erekir-lost-sectors",
-    "name": "Erekir: Unknown Signal",
-    "version": "v1.0",
-    "hidden": false,
-    "author": "Retro_Seek & Zyruh",
-    "lastUpdated": "2026-10-26T08:24:32Z",
-    "stars": 4,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[#ff3030]// SIGNAL LOG //[]\n\n[#9b9b9b]Origin:[] [#ff0000]UNDETERMINED[]\n[#9b9b9b]Source:[] [#ff3030]UNKNOWN[]\n[#9b9b9b]Classification:[] [#ff8a24]UNIDENTIFIED[]\n\n[#e0e0e0]Something has appeared beyond the known territories of Erekir.[]\n\n[#ff8a24]New sectors have been discovered.[]\n[#00d9ff]Unfamiliar environments have been recorded.[]\n[#00d9ff]Unknown anomalies have been detected.[]\n\n[#e0e0e0]Explore the forgotten regions of [#ff8a24]Erekir[],\nuncover the secrets hidden within its uncharted sectors,\nand follow the signal to discover what lies beyond the known frontier.[]\n\n[#ff8a24]NEW TECHNOLOGIES DETECTED[]\n\n[#00d9ff]• New blocks[]\n[#00d9ff]• New turrets[]\n[#00d9ff]• New resources and technologies[]\n[#00d9ff]• New sectors to explore[]\n\n[#ff3030]WARNING:[]\n[#cfcfcf]The source remains unidentified.[]\n[#cfcfcf]The signal is still active.[]\n\n[#777777]Proceed with caution.[]\n\n\n[#8a8a8a]Languages:[] [#00d9ff]English[], [#ff8a24]Russian[]"
-  },
-  {
     "repo": "youming66681/magic",
     "internalName": "magic",
     "name": "幻境/magical",
@@ -3904,6 +3890,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730\n服务器:103.40.14.91:42275\n备用:114.66.28.186:45689"
+  },
+  {
+    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
+    "internalName": "erekir-lost-sectors",
+    "name": "Erekir: Unknown Signal",
+    "version": "v1.0",
+    "hidden": false,
+    "author": "Retro_Seek & Zyruh",
+    "lastUpdated": "2026-10-27T11:57:42Z",
+    "stars": 4,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[#ff3030]// SIGNAL LOG //[]\n\n[#9b9b9b]Origin:[] [#ff0000]UNDETERMINED[]\n[#9b9b9b]Source:[] [#ff3030]UNKNOWN[]\n[#9b9b9b]Classification:[] [#ff8a24]UNIDENTIFIED[]\n\n[#e0e0e0]Something has appeared beyond the known territories of Erekir.[]\n\n[#ff8a24]New sectors have been discovered.[]\n[#00d9ff]Unfamiliar environments have been recorded.[]\n[#00d9ff]Unknown anomalies have been detected.[]\n\n[#e0e0e0]Explore the forgotten regions of [#ff8a24]Erekir[],\nuncover the secrets hidden within its uncharted sectors,\nand follow the signal to discover what lies beyond the known frontier.[]\n\n[#ff8a24]NEW TECHNOLOGIES DETECTED[]\n\n[#00d9ff]• New blocks[]\n[#00d9ff]• New turrets[]\n[#00d9ff]• New resources and technologies[]\n[#00d9ff]• New sectors to explore[]\n\n[#ff3030]WARNING:[]\n[#cfcfcf]The source remains unidentified.[]\n[#cfcfcf]The signal is still active.[]\n\n[#777777]Proceed with caution.[]\n\n\n[#8a8a8a]Languages:[] [#00d9ff]English[], [#ff8a24]Russian[]"
+  },
+  {
+    "repo": "florfir/md-proxy",
+    "internalName": "md-proxy",
+    "name": "Proxy Mod",
+    "version": "1.0",
+    "hidden": true,
+    "author": "kuko",
+    "lastUpdated": "2026-10-27T14:05:56Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "idk."
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -5668,6 +5682,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a mod that add tier list as localization\nEnglish only\n"
+  },
+  {
+    "repo": "lehanchic/factory-units",
+    "internalName": "factory units",
+    "name": "Factory units",
+    "version": "1",
+    "hidden": false,
+    "author": "Lehanchic25 ",
+    "lastUpdated": "2023-03-20T15:23:27Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "In this mod units will look like factory"
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -7490,20 +7518,6 @@
     "description": "FLOATING TEXT DAMAGE BROOO!!!!!!"
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-10-26T16:04:14Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "itzmellory/advanced-redactor",
     "internalName": "advanced-editor",
     "name": " Advanced Editor ",
@@ -7516,6 +7530,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ffffff] Adv[][#e3e3e3]anced[] [#c7c7c7]Map[] [#ababab]Edi[][#8f8f8f]tor []\n\n[#e6e6e6] Next-generation complex terrain synthesis and advanced mapmaker tools[]\n[#cccccc]Maps created with this modification are[] [#ffffff]fully compatible with the original game []\n\n[#ffffff] Fea[][#c7c7c7]tu[][#8f8f8f]res:[]\n\n[#ffffff]- Adv[][#e3e3e3]anced[] [#ababab]Generators[] [#8f8f8f] -[]\n[#b3b3b3]Generators for terrain (noise, octaves, falloff, tilt, distortion), water (shallow water, shoals, depth warping), ruins (scatter and structures with rooms, corridors, and step configuration), and block rotation.[]\n\n[#ffffff]- Ter[][#e3e3e3]rain[] [#ababab]Clipboard and Schematics[] [#8f8f8f] -[]\n[#b3b3b3]Selection, copying, cutting, pasting, rotation, and flipping of terrain areas. Saving terrain templates, rectangular and shaped brushes, cliff editor, and strict 45-degree lines.[]\n\n[#ffffff]- Map[] [#e3e3e3]Art[] [#ababab]and Stencils[] [#8f8f8f] -[]\n[#b3b3b3]Converting images into structures made of terrain or colored blocks. Overlaying semi-transparent stencils on top of the map for accurate drawing.[]\n\n[#ffffff]- Rem[][#e3e3e3]oving[] [#ababab]Size Limits[] [#8f8f8f] -[]\n[#b3b3b3]The built-in unlocker module completely removes standard limits on the minimum and maximum size of created maps.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] Про[][#e3e3e3]двину[][#c7c7c7]тый[] [#ababab]Редак[][#8f8f8f]тор Карт []\n\n[#e6e6e6] Синтез сложного рельефа нового поколения и расширенные инструменты создателя карт[]\n[#cccccc]Карты, созданные с этой модификацией,[] [#ffffff]полностью совместимы с оригинальной игрой []\n\n[#ffffff] Осо[][#c7c7c7]бенно[][#8f8f8f]сти:[]\n\n[#ffffff]- Про[][#e3e3e3]двинутые[] [#ababab]Генераторы[] [#8f8f8f] -[]\n[#b3b3b3]Генераторы рельефа (шум, октавы, спад, наклон, искажение), воды (мелководье, отмели, искривление глубины), руин (разброс и структуры с комнатами, коридорами и настройкой шагов) и вращения блоков.[]\n\n[#ffffff]- Буф[][#e3e3e3]ер[] [#ababab]Ландшафта и Схемы[] [#8f8f8f] -[]\n[#b3b3b3]Выделение, копирование, вырезание, вставка, поворот и отражение участков местности. Сохранение шаблонов рельефа, прямоугольные и фигурные кисти, редактор скал и линии строго под 45 градусов.[]\n\n[#ffffff]- Кар[][#e3e3e3]тины на[] [#ababab]Карте и Трафареты[] [#8f8f8f] -[]\n[#b3b3b3]Преобразование изображений в постройки из ландшафта или цветных блоков. Наложение полупрозрачных трафаретов поверх карты для точной отрисовки.[]\n\n[#ffffff]- Сня[][#e3e3e3]тие[] [#ababab]Ограничений Размера[] [#8f8f8f] -[]\n[#b3b3b3]Встроенный модуль разблокировки полностью убирает стандартные лимиты на минимальный и максимальный размер создаваемых карт.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] 高级[][#e3e3e3]地图[][#c7c7c7]编辑[][#ababab]器[][#8f8f8f] []\n\n[#e6e6e6] 新一代复杂地形合成与扩展地图制作工具[]\n[#cccccc]使用此模组创建的地图[] [#ffffff]与原版游戏完全兼容 []\n\n[#ffffff] 功[][#c7c7c7]能特[][#8f8f8f]点：[]\n\n[#ffffff]- 高级[][#e3e3e3]生成[] [#ababab]器[] [#8f8f8f] -[]\n[#b3b3b3]包含地形（噪声、八度、衰减、倾斜、扭曲）、水域（浅水、浅滩、深度扭曲）、废墟（散布模式以及带有房间、走廊和步骤设置的结构）与方块旋转生成器。[]\n\n[#ffffff]- 地形[][#e3e3e3]剪贴板[] [#ababab]与蓝图[] [#8f8f8f] -[]\n[#b3b3b3]支持地形区域的框选、复制、剪切、粘贴、旋转与翻转。支持保存地形模板，提供矩形与形状画笔、悬崖编辑器以及严格 45 度角直线。[]\n\n[#ffffff]- 地图[][#e3e3e3]画与[] [#ababab]参考模板[] [#8f8f8f] -[]\n[#b3b3b3]将图像转换为由地形或彩色方块构成的建筑。在地图上方叠加半透明参考模板以进行精确绘制。[]\n\n[#ffffff]- 解除[][#e3e3e3]尺寸[] [#ababab]限制[] [#8f8f8f] -[]\n[#b3b3b3]内置解锁模块彻底移除了创建地图时的最小与最大标准尺寸限制。[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff]⚠ Glo[][#e3e3e3]ry to[] [#c7c7c7]VI, Bro[][#ababab]thers and[] [#8f8f8f]Sisters! []"
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-10-27T15:17:24Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
