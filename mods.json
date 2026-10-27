@@ -203,7 +203,7 @@
     "hidden": false,
     "author": "twcash",
     "lastUpdated": "2026-10-26T23:04:31Z",
-    "stars": 132,
+    "stars": 133,
     "minGameVersion": "160.7",
     "hasScripts": false,
     "hasJava": true,
@@ -370,7 +370,7 @@
     "version": "1.1 beta build-2.2",
     "hidden": false,
     "author": "Team Oct",
-    "lastUpdated": "2026-06-06T15:23:16Z",
+    "lastUpdated": "2026-10-27T18:49:31Z",
     "stars": 67,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -3192,20 +3192,6 @@
     "description": "[#ffd28a]NEXUS_OS // MOD ENGINE\n[#aab0b4]Rhino/JS control engine for Mindustry V8.\n\n[#10e5e5]CORE SYSTEMS\n[white]> [#ffd28a]World & Waves  [#aab0b4]simulation, weather and wave control\n[white]> [#ffd28a]Items & Units  [#aab0b4]batch core injection and unit deployment\n[white]> [#ffd28a]Weapons  [#aab0b4]stable unit fire-rate and turret tuning\n[white]> [#ffd28a]Mining  [#aab0b4]multi-ore fleet assignments\n[white]> [#ffd28a]Inspector  [#aab0b4]live deployments and mod-unit filtering\n[white]> [#ffd28a]Builds & Radius  [#aab0b4]factory filling and team-colored overlays\n[white]> [#ffd28a]Hotkeys & Console  [#aab0b4]persistent binds and Rhino shell\n\n[#10e5e5]QUICK ACCESS\n[#aab0b4]HUD tools hide on the full map and stack below compatible third-party panels.\n\n[#69e89b]TIP [#aab0b4]Set Inspector PAGE SIZE to 20-40 on weaker devices.\n[#646b76]JS-only mod. No Java classpath required."
   },
   {
-    "repo": "roman859/mindustry-better-vanilla",
-    "internalName": "bettervanilla",
-    "name": "Better Vanilla+",
-    "version": "0.4.7",
-    "hidden": false,
-    "author": "Roman",
-    "lastUpdated": "2026-09-07T15:50:54Z",
-    "stars": 5,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
-  },
-  {
     "repo": "oleksiy1409liut/periodic-overhaul",
     "internalName": "periodic",
     "name": "periodic overhaul",
@@ -3288,6 +3274,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod themed around game: Corebound by Overcurve\n\nOriginally supposed to be an april fools version of Buried In Ice but i fucked up with deadlines\n\n\nWARNING: Mod is not going to explain its own mechanics directly so... READ THE DAMN DESCRIPTIONS OF BLOCKS please...\n"
+  },
+  {
+    "repo": "roman859/mindustry-better-vanilla",
+    "internalName": "bettervanilla",
+    "name": "Better Vanilla+",
+    "version": "0.4.7",
+    "hidden": false,
+    "author": "Roman",
+    "lastUpdated": "2026-10-27T19:38:11Z",
+    "stars": 5,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
     "repo": "koctz34/canvases",
@@ -5656,20 +5656,6 @@
     "description": "Mindustry Survivors\nVampire Survivors in Mindustry\n\n\nHow to play\n\nSurvive 50 waves on a random map while enemies chase you from every side.\n\nKill them to pick up gems and level up. Each level, pick 1 of 3 random cards:\n> new turrets\n> upgrades for turrets you have\n> passives that make you faster or tougher\n\nThere is nothing to build. Just move, aim and stay alive.\n\n\nWhat waits for you\n\n> All 28 turrets from Serpulo and Erekir, each with 10 levels\n> Bosses every 25 waves\n> Curses past Eradication for a real challenge (experimental, not balanced yet)\n> Endless mode after wave 50\n\n\nNeeds Mindustry v8 (build 160 or newer). Desktop only."
   },
   {
-    "repo": "lamamega/attarax-modpack",
-    "internalName": "attarax mod-pack",
-    "name": "AttaraX Mod-Pack",
-    "version": "1.0",
-    "hidden": false,
-    "author": "AttaraX",
-    "lastUpdated": "2026-10-26T00:23:39Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry? Yes, but more!"
-  },
-  {
     "repo": "arial1102/mindustry-tier-list",
     "internalName": "tier-language",
     "name": "Tier List Addition",
@@ -5682,6 +5668,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a mod that add tier list as localization\nEnglish only\n"
+  },
+  {
+    "repo": "lamamega/attarax-modpack",
+    "internalName": "attarax mod-pack",
+    "name": "AttaraX Mod-Pack",
+    "version": "1.0",
+    "hidden": false,
+    "author": "AttaraX",
+    "lastUpdated": "2026-10-27T18:06:38Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry? Yes, but more!"
   },
   {
     "repo": "lehanchic/factory-units",
