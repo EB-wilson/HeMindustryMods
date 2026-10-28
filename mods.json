@@ -35,7 +35,7 @@
     "hidden": false,
     "author": "guiY",
     "lastUpdated": "2026-08-10T09:26:52Z",
-    "stars": 275,
+    "stars": 276,
     "minGameVersion": "155",
     "hasScripts": false,
     "hasJava": true,
@@ -49,7 +49,7 @@
     "hidden": false,
     "author": "Catser",
     "lastUpdated": "2026-10-07T14:20:49Z",
-    "stars": 272,
+    "stars": 274,
     "minGameVersion": "156.2",
     "hasScripts": false,
     "hasJava": false,
@@ -84,6 +84,20 @@
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
   },
   {
+    "repo": "sk7725/timecontrol",
+    "internalName": "time-control",
+    "name": "Time Control",
+    "version": "0.2",
+    "hidden": true,
+    "author": "sk7725",
+    "lastUpdated": "2026-04-13T00:22:11Z",
+    "stars": 190,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
     "repo": "avantteam/projectunitypublic",
     "internalName": "unity",
     "name": "Project Unity",
@@ -96,20 +110,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community."
-  },
-  {
-    "repo": "sk7725/timecontrol",
-    "internalName": "time-control",
-    "name": "Time Control",
-    "version": "0.2",
-    "hidden": true,
-    "author": "sk7725",
-    "lastUpdated": "2026-04-13T00:22:11Z",
-    "stars": 189,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
     "repo": "ra2exe/saturation-firepower",
@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-28T07:56:18Z",
+    "lastUpdated": "2026-10-28T07:58:58Z",
     "stars": 73,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -874,7 +874,7 @@
     "version": "1.17",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-10-18T10:48:07Z",
+    "lastUpdated": "2026-10-28T10:53:00Z",
     "stars": 29,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1106,6 +1106,20 @@
     "description": "A library mod for rendering black holes."
   },
   {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.5",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-10-27T23:06:03Z",
+    "stars": 23,
+    "minGameVersion": "160.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n- Fluid Cells\n\n\nOptional mods:\n- TooManyItems\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\nDo not directly download ProjReind and its dependencies in mod browser. The game chooses latest version differently for Java mods and JS/JSON mods, which can lead to unmatched version or even crash.\n\nDownload every single mod from \"View Releases\" manually. Do not rely on any means of auto-download or auto-update.\n\nVersion number including a date number (xxx.x.xxxxxxxx) is for unstable test versions. Normally you shouldn't download them, do not try test versions unless you're ready."
+  },
+  {
     "repo": "dong-wo-long/enhancementunits",
     "internalName": "enhancement-units",
     "name": "Enhancement Units",
@@ -1146,20 +1160,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
-  },
-  {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.5",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-10-27T23:06:03Z",
-    "stars": 22,
-    "minGameVersion": "160.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n- Fluid Cells\n\n\nOptional mods:\n- TooManyItems\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\nDo not directly download ProjReind and its dependencies in mod browser. The game chooses latest version differently for Java mods and JS/JSON mods, which can lead to unmatched version or even crash.\n\nDownload every single mod from \"View Releases\" manually. Do not rely on any means of auto-download or auto-update.\n\nVersion number including a date number (xxx.x.xxxxxxxx) is for unstable test versions. Normally you shouldn't download them, do not try test versions unless you're ready."
   },
   {
     "repo": "saigon0nozomi/nightscape",
@@ -1302,6 +1302,20 @@
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
+    "repo": "itzcraft/epsilon",
+    "internalName": "epsilon",
+    "name": "Epsilon",
+    "version": "0.284",
+    "hidden": false,
+    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
+    "lastUpdated": "2026-10-24T19:44:04Z",
+    "stars": 19,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
     "repo": "laomoze/warhammer",
     "internalName": "wh",
     "name": "WarHammer",
@@ -1314,20 +1328,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": " [accent]以战锤40k为原型的MOD[]，拥有自设模组背景和战锤或许关系不大,设定与qq群链接可以到 [accent]模组简介[]里面找\n[sky]QQ群316481519[]\n[unlaunched]贡献者:DOC-A-7244(bundles和翻译),Eipusino(java技术指导)[]\n [accent]The MOD based on Warhammer 40k[],Having a custom mod background may not necessarily relate to Warhammer， with its settings and links to the QQ group, can be found in the  [accent]mod introduction[]\n[sky]QQ group 316481519[]\nDiscord will consider adding features in its subsequent improvements\n[unlaunched]Contributors: DOC-A-7244 (bundles and translation), Eipusino (Java technical guidance)[]"
-  },
-  {
-    "repo": "itzcraft/epsilon",
-    "internalName": "epsilon",
-    "name": "Epsilon",
-    "version": "0.284",
-    "hidden": false,
-    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-10-24T19:44:04Z",
-    "stars": 18,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
     "repo": "thomasthings/xenacia",
@@ -2072,6 +2072,20 @@
     "description": "A mindustry mod which allow customize player's unit via using existing contents."
   },
   {
+    "repo": "mnchetra/mapgenerator",
+    "internalName": "mapgenerator",
+    "name": "MapGenerator",
+    "version": "1.2",
+    "hidden": false,
+    "author": "Seven",
+    "lastUpdated": "2026-08-06T06:04:13Z",
+    "stars": 10,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
+  },
+  {
     "repo": "cirrusisakey/arikoth",
     "internalName": "arikoth",
     "name": "Arikoth",
@@ -2168,20 +2182,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[accent]MobileConsole v1.0 - Developer Tools for Mobile Players[]\n[white]📱 Full console access on your phone or tablet![]\n[yellow]⚠️ This mod is specifically designed for mobile devices where console features are normally unavailable.[]\n[red]⚠️ SINGLE-PLAYER ONLY - This mod does not work in multiplayer![]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[red]⚠️ IMPORTANT DISCLAIMERS:[]\n[yellow]• Not all commands may work on every device or game version[]\n[yellow]• Commands only work in single-player mode[]\n[yellow]• Building commands require appropriate permissions[]\n[yellow]• Use at your own risk - some commands may affect game performance[]\n[yellow]• This mod is in active development - bugs may occur[]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]📋 What Is This?[]\nMobileConsole brings developer tools to your mobile device. Build, spawn, modify, and control your game with over 20 commands optimized for touch screens.\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]🎮 How to Access:[]\n[white]In-Game:[]\n• Type [cyan]/customhelp[] in chat to see all commands\n• Type [cyan]/chelp[] for console system help\n[white]Settings Menu:[]\n• Open Settings → Developer Console\n• Tap [cyan]Open Console[] button\n[white]Quick Commands:[]\n• Type any command in chat starting with /\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🏗️ Building Commands:[]\n[cyan]/wallcore [type][] - Builds walls around your core\n[cyan]/fill     [] - Fill area with blocks\n[cyan]/clear [radius][] - Clear buildings around position\n[cyan]/conveyor    [] - Build conveyor lines\n[cyan]/powerline    [] - Create power connections\n[cyan]/wallline     [type][] - Draw wall lines\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[yellow]🔧 Modification Commands:[]\n[cyan]/upgrade  [] - Upgrade building types\n[cyan]/replace  [] - Replace blocks\n[cyan]/toggle [block][] - Enable/disable buildings\n[cyan]/repair[] - Repair all damaged buildings\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[royal]⚔️ Unit Commands:[]\n[cyan]/spawn   [x] [y][] - Spawn units\n[cyan]/healunits[] - Restore all friendly units to full health\n[cyan]/rally[] - Command units to your position\n[cyan]/killenemies [radius][] - Eliminate enemies\n[cyan]/units[] - Display unit statistics\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]⚡ Quick Actions:[]\n[cyan]/turrets[] - Toggle all turrets\n[cyan]/power[] - Display power grid statistics\n[cyan]/resources[] - Check core resources\n[cyan]/screenshot[] - Take clean screenshot\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🖥️ Console System:[]\n[cyan]/chelp[] - Show console help\n[cyan]/clear[] - Clear console logs\n[cyan]/scan[] - Scan for available commands\n[cyan]/stats[] - Show console statistics\n[cyan]/commands[] - List all detected commands\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]🎯 Features:[]\n• Command history (last 50 commands)\n• Favorites system\n• Log management (1,500 entries)\n• Search and filter functionality\n• Touch-optimized interface\n• Color-coded logs\n• Mod management system\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[white]Type [cyan]/customhelp[] in chat or open Settings → Developer Console to start![]\n[yellow]Report issues on GitHub: github.com/SamielXD/MobileConsole[]\n[white]- SamielXD[]"
-  },
-  {
-    "repo": "mnchetra/mapgenerator",
-    "internalName": "mapgenerator",
-    "name": "MapGenerator",
-    "version": "1.2",
-    "hidden": false,
-    "author": "Seven",
-    "lastUpdated": "2026-08-06T06:04:13Z",
-    "stars": 9,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
   },
   {
     "repo": "determination-wind/radial-build-menu-hud-",
@@ -2394,6 +2394,20 @@
     "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
+    "repo": "zenthxsin/voidshield",
+    "internalName": "voidshield",
+    "name": "Void Shield",
+    "version": "alpha-01",
+    "hidden": false,
+    "author": "zxs",
+    "lastUpdated": "2026-08-04T12:34:38Z",
+    "stars": 8,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "虚空盾\n\n一个由kotlin编写，参看战锤40k虚空盾的全新护盾系统\n\n全新的指令集，让护盾使用的自由度大大提高。全新的热量系统，与原版热量系统与众不同的体验\n\n全新的护盾机制，令人焕然一新\n需要一定的逻辑基础\n在这里，你可以：\n1. 创建一个自定义形状的护盾\n2. 可以通多逻辑来控制你的护盾\n3. 通过建筑的堆叠和逻辑优化不断升级你的护盾\n\n游玩指栏：\n首先，你需要建筑虚空之心，帷幕溶解器，空间穿刺机，和一个用于控制这个系统的逻辑处理器\n然后，为这个系统搭建其独立的散热线路\n最后，编写控制它们的逻辑\n\n逻辑编写指栏：\n\n首先，你需要使用CircleZone（或其他）来创建一个场，然后使用UseZone来将这个场加载到对应建筑，\n最后，使用UpdateZone来控制这个场\n\n如果你想要让它可以阻挡子弹，你需要使用Bind来把帷幕溶解器绑定给空间穿刺机，最后使用AutoBlock开启自动拦截\n这套逻辑将在未来继续扩展\n\n目前mod还在开发测试中，欢迎issue\n\n代码编写: ZXS\n贴图制作: 花杨永瀛\n委托: 一得阁拉米\n\n\nVoid Shield\n\nA brand-new shield system written in Kotlin, inspired by Warhammer 40K's Void Shield.\n\nNew instruction set, greatly improving the freedom of shield usage. New heat system, a completely different experience from the vanilla heat system.\nNew shield mechanism, a refreshing new gameplay.\n\nRequires some basic knowledge of logic programming.\n\nHere, you can:\n\n1. Create shields with custom shapes\n2. Control shields via the Logic Processor\n3. Continuously upgrade shields through block stacking and logic optimization\n\n\nHow to Play:\nFirst, build a Void Heart, a Veil Dissolver, a Spatial Piercer, and a Logic Processor to control this system\nThen, set up an independent cooling line for this system\nFinally, write logic to control them\n\nLogic Scripting Guide:\n\nFirst, use CircleZone (or others) to create a zone, then use UseZone to load that zone into the corresponding block,\nFinally, use UpdateZone to control that zone\n\nIf you want it to block bullets, use Bind to bind the Veil Dissolver to the Spatial Piercer, then use AutoBlock to activate automatic interception\nThis instruction set will continue to be expanded in the future.\n\nThis mod is currently under active development and testing. Issues and feedback are welcome!\n\nCode: ZXS\nSprites: 花杨永瀛\nCommission: 一得阁拉米"
+  },
+  {
     "repo": "determination-wind/stealthpath",
     "internalName": "stealth-path",
     "name": "Stealth Path / 偷袭小道",
@@ -2406,6 +2420,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
+  },
+  {
+    "repo": "ramazanduruev/darklife.",
+    "internalName": "mo",
+    "name": "DarkLife",
+    "version": "0.9.1",
+    "hidden": false,
+    "author": "Votak",
+    "lastUpdated": "2026-09-19T05:30:59Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod add new planet and also adds new evolution and infection mechanics \n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
+  },
+  {
+    "repo": "fat-bird-owner/the-infestations",
+    "internalName": "infestation",
+    "name": "The Infestation",
+    "version": "\n[lightgrey[]]v2-Infestation\n[grey[]]- Act 2.25\n- 6 Sectors\n- C2236\n",
+    "hidden": false,
+    "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
+    "lastUpdated": "2026-09-26T09:04:28Z",
+    "stars": 8,
+    "minGameVersion": "154.3",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
   },
   {
     "repo": "alecthe2nd/tantros",
@@ -2436,6 +2478,20 @@
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-09-03[white]"
   },
   {
+    "repo": "justtheblazinggear/advanceddifficulties",
+    "internalName": "advdiff",
+    "name": "Advanced Difficulties",
+    "version": "1.0.1",
+    "hidden": false,
+    "author": "[#ffb876]BlazingGear",
+    "lastUpdated": "2026-10-12T20:07:28Z",
+    "stars": 8,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that overhauls the difficulty selection mechanic with better visuals, more flexible and new unique settings.\n\nThanks to lu69159/MoreCustomSettings for the modifiers that persist for each planet and some other code."
+  },
+  {
     "repo": "sharlottes/mlogwatcher",
     "internalName": "mlogwatcher",
     "name": "MlogWatcher",
@@ -2456,7 +2512,7 @@
     "version": "[red]1.0",
     "hidden": false,
     "author": "ARKNET, iqtik123",
-    "lastUpdated": "2026-10-24T17:54:22Z",
+    "lastUpdated": "2026-10-28T11:03:20Z",
     "stars": 8,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -2590,20 +2646,6 @@
     "description": "用于显示子弹溅射范围或者单位坠落伤害半径的辅助模组(起码以前是)"
   },
   {
-    "repo": "zenthxsin/voidshield",
-    "internalName": "voidshield",
-    "name": "Void Shield",
-    "version": "alpha-01",
-    "hidden": false,
-    "author": "zxs",
-    "lastUpdated": "2026-08-04T12:34:38Z",
-    "stars": 7,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "虚空盾\n\n一个由kotlin编写，参看战锤40k虚空盾的全新护盾系统\n\n全新的指令集，让护盾使用的自由度大大提高。全新的热量系统，与原版热量系统与众不同的体验\n\n全新的护盾机制，令人焕然一新\n需要一定的逻辑基础\n在这里，你可以：\n1. 创建一个自定义形状的护盾\n2. 可以通多逻辑来控制你的护盾\n3. 通过建筑的堆叠和逻辑优化不断升级你的护盾\n\n游玩指栏：\n首先，你需要建筑虚空之心，帷幕溶解器，空间穿刺机，和一个用于控制这个系统的逻辑处理器\n然后，为这个系统搭建其独立的散热线路\n最后，编写控制它们的逻辑\n\n逻辑编写指栏：\n\n首先，你需要使用CircleZone（或其他）来创建一个场，然后使用UseZone来将这个场加载到对应建筑，\n最后，使用UpdateZone来控制这个场\n\n如果你想要让它可以阻挡子弹，你需要使用Bind来把帷幕溶解器绑定给空间穿刺机，最后使用AutoBlock开启自动拦截\n这套逻辑将在未来继续扩展\n\n目前mod还在开发测试中，欢迎issue\n\n代码编写: ZXS\n贴图制作: 花杨永瀛\n委托: 一得阁拉米\n\n\nVoid Shield\n\nA brand-new shield system written in Kotlin, inspired by Warhammer 40K's Void Shield.\n\nNew instruction set, greatly improving the freedom of shield usage. New heat system, a completely different experience from the vanilla heat system.\nNew shield mechanism, a refreshing new gameplay.\n\nRequires some basic knowledge of logic programming.\n\nHere, you can:\n\n1. Create shields with custom shapes\n2. Control shields via the Logic Processor\n3. Continuously upgrade shields through block stacking and logic optimization\n\n\nHow to Play:\nFirst, build a Void Heart, a Veil Dissolver, a Spatial Piercer, and a Logic Processor to control this system\nThen, set up an independent cooling line for this system\nFinally, write logic to control them\n\nLogic Scripting Guide:\n\nFirst, use CircleZone (or others) to create a zone, then use UseZone to load that zone into the corresponding block,\nFinally, use UpdateZone to control that zone\n\nIf you want it to block bullets, use Bind to bind the Veil Dissolver to the Spatial Piercer, then use AutoBlock to activate automatic interception\nThis instruction set will continue to be expanded in the future.\n\nThis mod is currently under active development and testing. Issues and feedback are welcome!\n\nCode: ZXS\nSprites: 花杨永瀛\nCommission: 一得阁拉米"
-  },
-  {
     "repo": "meepoffaith/extra-sand-redux",
     "internalName": "extra-sand-redux",
     "name": "Extra Sand in the Sandbox - Redux",
@@ -2660,20 +2702,6 @@
     "description": " [accent]Admin Button 2[]  - A mod with lots of features for multiplayer and singleplayer games\n\n [accent]Control panel[]: Control panel with customizable buttons\n\n [accent]Chat enhancements[]: You can customize how your chat messages look so that you can stand out\n\n [accent]Wave viewer[]: Waves can be viewed while playing\n\n [accent]Image generator[]: Generating schematics with images has never been easier\n\n [accent]AutoFill[]: A very customizable way to automatically fill buildings with items\n\n [accent]Player controller[]: Automatically control your unit\n\n [accent]Turret range[]: Range of turrets can be viewed\n\n [accent]And more[]: Lots of other features"
   },
   {
-    "repo": "ramazanduruev/darklife.",
-    "internalName": "mo",
-    "name": "DarkLife",
-    "version": "0.9.1",
-    "hidden": false,
-    "author": "Votak",
-    "lastUpdated": "2026-09-19T05:30:59Z",
-    "stars": 7,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod add new planet and also adds new evolution and infection mechanics \n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -2686,20 +2714,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dapat berfungsi di Versi 8 Build 147 !!!"
-  },
-  {
-    "repo": "fat-bird-owner/the-infestations",
-    "internalName": "infestation",
-    "name": "The Infestation",
-    "version": "\n[lightgrey[]]v2-Infestation\n[grey[]]- Act 2.25\n- 6 Sectors\n- C2236\n",
-    "hidden": false,
-    "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-09-26T09:04:28Z",
-    "stars": 7,
-    "minGameVersion": "154.3",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
   },
   {
     "repo": "thepi14/tekton",
@@ -2728,20 +2742,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A to be produced mod"
-  },
-  {
-    "repo": "justtheblazinggear/advanceddifficulties",
-    "internalName": "advdiff",
-    "name": "Advanced Difficulties",
-    "version": "1.0.1",
-    "hidden": false,
-    "author": "[#ffb876]BlazingGear",
-    "lastUpdated": "2026-10-12T20:07:28Z",
-    "stars": 7,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that overhauls the difficulty selection mechanic with better visuals, more flexible and new unique settings.\n\nThanks to lu69159/MoreCustomSettings for the modifiers that persist for each planet and some other code."
   },
   {
     "repo": "sputnuc/expansion",
@@ -3892,20 +3892,6 @@
     "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730\n服务器:103.40.14.91:42275\n备用:114.66.28.186:45689"
   },
   {
-    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
-    "internalName": "erekir-lost-sectors",
-    "name": "Erekir: Unknown Signal",
-    "version": "v1.0",
-    "hidden": false,
-    "author": "Retro_Seek & Zyruh",
-    "lastUpdated": "2026-10-27T11:57:42Z",
-    "stars": 4,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[#ff3030]// SIGNAL LOG //[]\n\n[#9b9b9b]Origin:[] [#ff0000]UNDETERMINED[]\n[#9b9b9b]Source:[] [#ff3030]UNKNOWN[]\n[#9b9b9b]Classification:[] [#ff8a24]UNIDENTIFIED[]\n\n[#e0e0e0]Something has appeared beyond the known territories of Erekir.[]\n\n[#ff8a24]New sectors have been discovered.[]\n[#00d9ff]Unfamiliar environments have been recorded.[]\n[#00d9ff]Unknown anomalies have been detected.[]\n\n[#e0e0e0]Explore the forgotten regions of [#ff8a24]Erekir[],\nuncover the secrets hidden within its uncharted sectors,\nand follow the signal to discover what lies beyond the known frontier.[]\n\n[#ff8a24]NEW TECHNOLOGIES DETECTED[]\n\n[#00d9ff]• New blocks[]\n[#00d9ff]• New turrets[]\n[#00d9ff]• New resources and technologies[]\n[#00d9ff]• New sectors to explore[]\n\n[#ff3030]WARNING:[]\n[#cfcfcf]The source remains unidentified.[]\n[#cfcfcf]The signal is still active.[]\n\n[#777777]Proceed with caution.[]\n\n\n[#8a8a8a]Languages:[] [#00d9ff]English[], [#ff8a24]Russian[]"
-  },
-  {
     "repo": "florfir/md-proxy",
     "internalName": "md-proxy",
     "name": "Proxy Mod",
@@ -3918,6 +3904,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "idk."
+  },
+  {
+    "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
+    "internalName": "erekir-lost-sectors",
+    "name": "Erekir: Unknown Signal",
+    "version": "v1.0",
+    "hidden": false,
+    "author": "Retro_Seek & Zyruh",
+    "lastUpdated": "2026-10-28T14:52:39Z",
+    "stars": 4,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[#ff3030]// SIGNAL LOG //[]\n\n[#9b9b9b]Origin:[] [#ff0000]UNDETERMINED[]\n[#9b9b9b]Source:[] [#ff3030]UNKNOWN[]\n[#9b9b9b]Classification:[] [#ff8a24]UNIDENTIFIED[]\n\n[#e0e0e0]Something has appeared beyond the known territories of Erekir.[]\n\n[#ff8a24]New sectors have been discovered.[]\n[#00d9ff]Unfamiliar environments have been recorded.[]\n[#00d9ff]Unknown anomalies have been detected.[]\n\n[#e0e0e0]Explore the forgotten regions of [#ff8a24]Erekir[],\nuncover the secrets hidden within its uncharted sectors,\nand follow the signal to discover what lies beyond the known frontier.[]\n\n[#ff8a24]NEW TECHNOLOGIES DETECTED[]\n\n[#00d9ff]• New blocks[]\n[#00d9ff]• New turrets[]\n[#00d9ff]• New resources and technologies[]\n[#00d9ff]• New sectors to explore[]\n\n[#ff3030]WARNING:[]\n[#cfcfcf]The source remains unidentified.[]\n[#cfcfcf]The signal is still active.[]\n\n[#777777]Proceed with caution.[]\n\n\n[#8a8a8a]Languages:[] [#00d9ff]English[], [#ff8a24]Russian[]"
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -5110,20 +5110,6 @@
     "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
   },
   {
-    "repo": "r1tm200/bswedymusicpack",
-    "internalName": "bsweedymusicpack",
-    "name": "бисвиди песенки",
-    "version": "1.0",
-    "hidden": false,
-    "author": "@ggvpaaall",
-    "lastUpdated": "2026-06-27T20:33:46Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "маленький сборник песен бисвиди"
-  },
-  {
     "repo": "equalzzz/mindustry-modlib",
     "internalName": "!mod-library",
     "name": "Mod Library (NOT OFFICIAL)",
@@ -5670,6 +5656,20 @@
     "description": "a mod that add tier list as localization\nEnglish only\n"
   },
   {
+    "repo": "itzmellory/advanced-redactor",
+    "internalName": "advanced-editor",
+    "name": " Advanced Editor ",
+    "version": "1.0",
+    "hidden": true,
+    "author": "[#ffffff]⚠ X-Tree[] [#c7c7c7]and[] [#8f8f8f]VI Clan []",
+    "lastUpdated": "2026-10-27T07:54:44Z",
+    "stars": 2,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ffffff] Adv[][#e3e3e3]anced[] [#c7c7c7]Map[] [#ababab]Edi[][#8f8f8f]tor []\n\n[#e6e6e6] Next-generation complex terrain synthesis and advanced mapmaker tools[]\n[#cccccc]Maps created with this modification are[] [#ffffff]fully compatible with the original game []\n\n[#ffffff] Fea[][#c7c7c7]tu[][#8f8f8f]res:[]\n\n[#ffffff]- Adv[][#e3e3e3]anced[] [#ababab]Generators[] [#8f8f8f] -[]\n[#b3b3b3]Generators for terrain (noise, octaves, falloff, tilt, distortion), water (shallow water, shoals, depth warping), ruins (scatter and structures with rooms, corridors, and step configuration), and block rotation.[]\n\n[#ffffff]- Ter[][#e3e3e3]rain[] [#ababab]Clipboard and Schematics[] [#8f8f8f] -[]\n[#b3b3b3]Selection, copying, cutting, pasting, rotation, and flipping of terrain areas. Saving terrain templates, rectangular and shaped brushes, cliff editor, and strict 45-degree lines.[]\n\n[#ffffff]- Map[] [#e3e3e3]Art[] [#ababab]and Stencils[] [#8f8f8f] -[]\n[#b3b3b3]Converting images into structures made of terrain or colored blocks. Overlaying semi-transparent stencils on top of the map for accurate drawing.[]\n\n[#ffffff]- Rem[][#e3e3e3]oving[] [#ababab]Size Limits[] [#8f8f8f] -[]\n[#b3b3b3]The built-in unlocker module completely removes standard limits on the minimum and maximum size of created maps.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] Про[][#e3e3e3]двину[][#c7c7c7]тый[] [#ababab]Редак[][#8f8f8f]тор Карт []\n\n[#e6e6e6] Синтез сложного рельефа нового поколения и расширенные инструменты создателя карт[]\n[#cccccc]Карты, созданные с этой модификацией,[] [#ffffff]полностью совместимы с оригинальной игрой []\n\n[#ffffff] Осо[][#c7c7c7]бенно[][#8f8f8f]сти:[]\n\n[#ffffff]- Про[][#e3e3e3]двинутые[] [#ababab]Генераторы[] [#8f8f8f] -[]\n[#b3b3b3]Генераторы рельефа (шум, октавы, спад, наклон, искажение), воды (мелководье, отмели, искривление глубины), руин (разброс и структуры с комнатами, коридорами и настройкой шагов) и вращения блоков.[]\n\n[#ffffff]- Буф[][#e3e3e3]ер[] [#ababab]Ландшафта и Схемы[] [#8f8f8f] -[]\n[#b3b3b3]Выделение, копирование, вырезание, вставка, поворот и отражение участков местности. Сохранение шаблонов рельефа, прямоугольные и фигурные кисти, редактор скал и линии строго под 45 градусов.[]\n\n[#ffffff]- Кар[][#e3e3e3]тины на[] [#ababab]Карте и Трафареты[] [#8f8f8f] -[]\n[#b3b3b3]Преобразование изображений в постройки из ландшафта или цветных блоков. Наложение полупрозрачных трафаретов поверх карты для точной отрисовки.[]\n\n[#ffffff]- Сня[][#e3e3e3]тие[] [#ababab]Ограничений Размера[] [#8f8f8f] -[]\n[#b3b3b3]Встроенный модуль разблокировки полностью убирает стандартные лимиты на минимальный и максимальный размер создаваемых карт.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] 高级[][#e3e3e3]地图[][#c7c7c7]编辑[][#ababab]器[][#8f8f8f] []\n\n[#e6e6e6] 新一代复杂地形合成与扩展地图制作工具[]\n[#cccccc]使用此模组创建的地图[] [#ffffff]与原版游戏完全兼容 []\n\n[#ffffff] 功[][#c7c7c7]能特[][#8f8f8f]点：[]\n\n[#ffffff]- 高级[][#e3e3e3]生成[] [#ababab]器[] [#8f8f8f] -[]\n[#b3b3b3]包含地形（噪声、八度、衰减、倾斜、扭曲）、水域（浅水、浅滩、深度扭曲）、废墟（散布模式以及带有房间、走廊和步骤设置的结构）与方块旋转生成器。[]\n\n[#ffffff]- 地形[][#e3e3e3]剪贴板[] [#ababab]与蓝图[] [#8f8f8f] -[]\n[#b3b3b3]支持地形区域的框选、复制、剪切、粘贴、旋转与翻转。支持保存地形模板，提供矩形与形状画笔、悬崖编辑器以及严格 45 度角直线。[]\n\n[#ffffff]- 地图[][#e3e3e3]画与[] [#ababab]参考模板[] [#8f8f8f] -[]\n[#b3b3b3]将图像转换为由地形或彩色方块构成的建筑。在地图上方叠加半透明参考模板以进行精确绘制。[]\n\n[#ffffff]- 解除[][#e3e3e3]尺寸[] [#ababab]限制[] [#8f8f8f] -[]\n[#b3b3b3]内置解锁模块彻底移除了创建地图时的最小与最大标准尺寸限制。[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff]⚠ Glo[][#e3e3e3]ry to[] [#c7c7c7]VI, Bro[][#ababab]thers and[] [#8f8f8f]Sisters! []"
+  },
+  {
     "repo": "lamamega/attarax-modpack",
     "internalName": "attarax mod-pack",
     "name": "AttaraX Mod-Pack",
@@ -5682,6 +5682,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mindustry? Yes, but more!"
+  },
+  {
+    "repo": "r1tm200/bswedymusicpack",
+    "internalName": "bsweedymusicpack",
+    "name": "бисвиди песенки",
+    "version": "1.0",
+    "hidden": false,
+    "author": "@ggvpaaall",
+    "lastUpdated": "2026-10-28T12:39:13Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "маленький сборник песен бисвиди"
   },
   {
     "repo": "lehanchic/factory-units",
@@ -7504,20 +7518,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "itzmellory/advanced-redactor",
-    "internalName": "advanced-editor",
-    "name": " Advanced Editor ",
-    "version": "1.0",
-    "hidden": true,
-    "author": "[#ffffff]⚠ X-Tree[] [#c7c7c7]and[] [#8f8f8f]VI Clan []",
-    "lastUpdated": "2026-10-27T07:54:44Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ffffff] Adv[][#e3e3e3]anced[] [#c7c7c7]Map[] [#ababab]Edi[][#8f8f8f]tor []\n\n[#e6e6e6] Next-generation complex terrain synthesis and advanced mapmaker tools[]\n[#cccccc]Maps created with this modification are[] [#ffffff]fully compatible with the original game []\n\n[#ffffff] Fea[][#c7c7c7]tu[][#8f8f8f]res:[]\n\n[#ffffff]- Adv[][#e3e3e3]anced[] [#ababab]Generators[] [#8f8f8f] -[]\n[#b3b3b3]Generators for terrain (noise, octaves, falloff, tilt, distortion), water (shallow water, shoals, depth warping), ruins (scatter and structures with rooms, corridors, and step configuration), and block rotation.[]\n\n[#ffffff]- Ter[][#e3e3e3]rain[] [#ababab]Clipboard and Schematics[] [#8f8f8f] -[]\n[#b3b3b3]Selection, copying, cutting, pasting, rotation, and flipping of terrain areas. Saving terrain templates, rectangular and shaped brushes, cliff editor, and strict 45-degree lines.[]\n\n[#ffffff]- Map[] [#e3e3e3]Art[] [#ababab]and Stencils[] [#8f8f8f] -[]\n[#b3b3b3]Converting images into structures made of terrain or colored blocks. Overlaying semi-transparent stencils on top of the map for accurate drawing.[]\n\n[#ffffff]- Rem[][#e3e3e3]oving[] [#ababab]Size Limits[] [#8f8f8f] -[]\n[#b3b3b3]The built-in unlocker module completely removes standard limits on the minimum and maximum size of created maps.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] Про[][#e3e3e3]двину[][#c7c7c7]тый[] [#ababab]Редак[][#8f8f8f]тор Карт []\n\n[#e6e6e6] Синтез сложного рельефа нового поколения и расширенные инструменты создателя карт[]\n[#cccccc]Карты, созданные с этой модификацией,[] [#ffffff]полностью совместимы с оригинальной игрой []\n\n[#ffffff] Осо[][#c7c7c7]бенно[][#8f8f8f]сти:[]\n\n[#ffffff]- Про[][#e3e3e3]двинутые[] [#ababab]Генераторы[] [#8f8f8f] -[]\n[#b3b3b3]Генераторы рельефа (шум, октавы, спад, наклон, искажение), воды (мелководье, отмели, искривление глубины), руин (разброс и структуры с комнатами, коридорами и настройкой шагов) и вращения блоков.[]\n\n[#ffffff]- Буф[][#e3e3e3]ер[] [#ababab]Ландшафта и Схемы[] [#8f8f8f] -[]\n[#b3b3b3]Выделение, копирование, вырезание, вставка, поворот и отражение участков местности. Сохранение шаблонов рельефа, прямоугольные и фигурные кисти, редактор скал и линии строго под 45 градусов.[]\n\n[#ffffff]- Кар[][#e3e3e3]тины на[] [#ababab]Карте и Трафареты[] [#8f8f8f] -[]\n[#b3b3b3]Преобразование изображений в постройки из ландшафта или цветных блоков. Наложение полупрозрачных трафаретов поверх карты для точной отрисовки.[]\n\n[#ffffff]- Сня[][#e3e3e3]тие[] [#ababab]Ограничений Размера[] [#8f8f8f] -[]\n[#b3b3b3]Встроенный модуль разблокировки полностью убирает стандартные лимиты на минимальный и максимальный размер создаваемых карт.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] 高级[][#e3e3e3]地图[][#c7c7c7]编辑[][#ababab]器[][#8f8f8f] []\n\n[#e6e6e6] 新一代复杂地形合成与扩展地图制作工具[]\n[#cccccc]使用此模组创建的地图[] [#ffffff]与原版游戏完全兼容 []\n\n[#ffffff] 功[][#c7c7c7]能特[][#8f8f8f]点：[]\n\n[#ffffff]- 高级[][#e3e3e3]生成[] [#ababab]器[] [#8f8f8f] -[]\n[#b3b3b3]包含地形（噪声、八度、衰减、倾斜、扭曲）、水域（浅水、浅滩、深度扭曲）、废墟（散布模式以及带有房间、走廊和步骤设置的结构）与方块旋转生成器。[]\n\n[#ffffff]- 地形[][#e3e3e3]剪贴板[] [#ababab]与蓝图[] [#8f8f8f] -[]\n[#b3b3b3]支持地形区域的框选、复制、剪切、粘贴、旋转与翻转。支持保存地形模板，提供矩形与形状画笔、悬崖编辑器以及严格 45 度角直线。[]\n\n[#ffffff]- 地图[][#e3e3e3]画与[] [#ababab]参考模板[] [#8f8f8f] -[]\n[#b3b3b3]将图像转换为由地形或彩色方块构成的建筑。在地图上方叠加半透明参考模板以进行精确绘制。[]\n\n[#ffffff]- 解除[][#e3e3e3]尺寸[] [#ababab]限制[] [#8f8f8f] -[]\n[#b3b3b3]内置解锁模块彻底移除了创建地图时的最小与最大标准尺寸限制。[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff]⚠ Glo[][#e3e3e3]ry to[] [#c7c7c7]VI, Bro[][#ababab]thers and[] [#8f8f8f]Sisters! []"
-  },
-  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
@@ -7552,12 +7552,26 @@
     "version": "1.2.4",
     "hidden": false,
     "author": "Kiagoblin",
-    "lastUpdated": "2026-10-28T07:02:39Z",
+    "lastUpdated": "2026-10-28T08:22:17Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Хранилище с возможностью авто-забора предметов из ядра."
+    "description": "Хранилище с автозабором предметов из ядра. Модули ёмкости и скорости, узлы связи, три стадии игры."
+  },
+  {
+    "repo": "fat-bird-owner/gier-java-side",
+    "internalName": "gier-java",
+    "name": "Gier: Java Side",
+    "version": "v1",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-10-28T14:50:46Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java import of gier: revitalized."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
