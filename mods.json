@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-28T00:41:09Z",
+    "lastUpdated": "2026-10-28T07:56:18Z",
     "stars": 73,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -510,7 +510,7 @@
     "version": "5.1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-10-28T00:50:43Z",
+    "lastUpdated": "2026-10-28T03:58:23Z",
     "stars": 51,
     "minGameVersion": "160.5",
     "hasScripts": false,
@@ -2254,20 +2254,6 @@
     "description": "Improves your experience on the official Corium  Flood server."
   },
   {
-    "repo": "unquis/fading-revelations-remake",
-    "internalName": "fading-revelations-remake",
-    "name": "Fading Revelations Remake",
-    "version": "2.5.0",
-    "hidden": false,
-    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2026-10-18T01:40:10Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -2280,6 +2266,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, recipe data, chemical reactions, environmental blocks and planets."
+  },
+  {
+    "repo": "unquis/fading-revelations-remake",
+    "internalName": "fading-revelations-remake",
+    "name": "Fading Revelations Remake",
+    "version": "2.5.0",
+    "hidden": false,
+    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2026-10-28T01:37:32Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "p101q/snowdustry",
@@ -2716,6 +2716,34 @@
     "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, blocks, units, mechanics and hazards.\n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
   },
   {
+    "repo": "undefined-1026/mindustry_multidimensionalmod",
+    "internalName": "mdimension",
+    "name": "Multi Dimensional",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "Bilibili:arknights player / Github:undefined-1026",
+    "lastUpdated": "2026-10-08T07:56:29Z",
+    "stars": 7,
+    "minGameVersion": "160.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A to be produced mod"
+  },
+  {
+    "repo": "justtheblazinggear/advanceddifficulties",
+    "internalName": "advdiff",
+    "name": "Advanced Difficulties",
+    "version": "1.0.1",
+    "hidden": false,
+    "author": "[#ffb876]BlazingGear",
+    "lastUpdated": "2026-10-12T20:07:28Z",
+    "stars": 7,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that overhauls the difficulty selection mechanic with better visuals, more flexible and new unique settings.\n\nThanks to lu69159/MoreCustomSettings for the modifiers that persist for each planet and some other code."
+  },
+  {
     "repo": "sputnuc/expansion",
     "internalName": "expansion",
     "name": "expansion",
@@ -3008,34 +3036,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
-  },
-  {
-    "repo": "undefined-1026/mindustry_multidimensionalmod",
-    "internalName": "mdimension",
-    "name": "Multi Dimensional",
-    "version": "0.2.1",
-    "hidden": false,
-    "author": "Bilibili:arknights player / Github:undefined-1026",
-    "lastUpdated": "2026-10-08T07:56:29Z",
-    "stars": 6,
-    "minGameVersion": "160.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A to be produced mod"
-  },
-  {
-    "repo": "justtheblazinggear/advanceddifficulties",
-    "internalName": "advdiff",
-    "name": "Advanced Difficulties",
-    "version": "1.0.1",
-    "hidden": false,
-    "author": "[#ffb876]BlazingGear",
-    "lastUpdated": "2026-10-12T20:07:28Z",
-    "stars": 6,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that overhauls the difficulty selection mechanic with better visuals, more flexible and new unique settings.\n\nThanks to lu69159/MoreCustomSettings for the modifiers that persist for each planet and some other code."
   },
   {
     "repo": "thomasthings/serpulo-scaled",
@@ -7462,6 +7462,20 @@
     "description": "Addon for Exogenesis 1.9.1 by AureusStratus. Advanced industry, a labyrinth world and endless waves. Requires the original Exogenesis mod. PC + Android."
   },
   {
+    "repo": "wang-0-1/random-enhancement",
+    "internalName": "raen",
+    "name": " 随机强化  Random Enhancement",
+    "version": "160.3.5",
+    "hidden": false,
+    "author": "WaNg-0-1",
+    "lastUpdated": "2026-10-23T11:13:25Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "一个给敌军提供随机强化的Java模组\n A Java mod that gives random buffs to the enemy army"
+  },
+  {
     "repo": "lukanin122/schemedirection",
     "internalName": "scheme-direction",
     "name": "Scheme Direction",
@@ -7488,20 +7502,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "kiagoblin/goblin-storage-android",
-    "internalName": "goblin-link",
-    "name": "Goblin Link",
-    "version": "1.1.0",
-    "hidden": false,
-    "author": "Kiagoblin",
-    "lastUpdated": "2026-10-25T19:18:36Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Хранилище с возможностью авто-забора предметов из ядра."
   },
   {
     "repo": "itzmellory/advanced-redactor",
@@ -7538,12 +7538,26 @@
     "version": "1.0.6",
     "hidden": false,
     "author": "Rain",
-    "lastUpdated": "2026-10-27T21:11:23Z",
+    "lastUpdated": "2026-10-28T06:15:10Z",
     "stars": 1,
     "minGameVersion": "160.5",
     "hasScripts": false,
     "hasJava": true,
     "description": "FLOATING TEXT DAMAGE BROOO!!!!!!"
+  },
+  {
+    "repo": "kiagoblin/goblin-storage-android",
+    "internalName": "goblin-link",
+    "name": "Goblin Link",
+    "version": "1.2.4",
+    "hidden": false,
+    "author": "Kiagoblin",
+    "lastUpdated": "2026-10-28T07:02:39Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Хранилище с возможностью авто-забора предметов из ядра."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8706,20 +8720,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Record and replay your gameplay sessions in Mindustry. Telegram: @EnWelk. I didn't test it in multiplayer and with random unit logic. If you notice an error in the translation, please write to me. Movement playback on PC may have some inaccuracies. I'd appreciate it if you could let me know which unit missed its target and by approximately how much (e.g., one tile, half a tile, etc.)."
-  },
-  {
-    "repo": "wang-0-1/random-enhancement",
-    "internalName": "raen",
-    "name": " 随机强化  Random Enhancement",
-    "version": "160.3.5",
-    "hidden": false,
-    "author": "WaNg-0-1",
-    "lastUpdated": "2026-10-23T11:13:25Z",
-    "stars": 0,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "一个给敌军提供随机强化的Java模组\n A Java mod that gives random buffs to the enemy army"
   },
   {
     "repo": "alexandremonoyioudis/rebuild-turrets-mindusty-mod",
