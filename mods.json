@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-10-28T07:58:58Z",
+    "lastUpdated": "2026-10-29T06:53:27Z",
     "stars": 73,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -871,10 +871,10 @@
     "repo": "dustdustry/patcheditor",
     "internalName": "patch-editor",
     "name": "PatchEditor",
-    "version": "1.17",
+    "version": "1.18",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-10-28T16:16:33Z",
+    "lastUpdated": "2026-10-29T01:42:57Z",
     "stars": 29,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1602,7 +1602,7 @@
     "version": "1.12.4",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-10-26T13:10:06Z",
+    "lastUpdated": "2026-10-29T06:17:35Z",
     "stars": 14,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1966,7 +1966,7 @@
     "version": "101.5",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-10-27T23:05:44Z",
+    "lastUpdated": "2026-10-29T06:06:24Z",
     "stars": 11,
     "minGameVersion": "160.1",
     "hasScripts": true,
@@ -3234,6 +3234,20 @@
     "description": "This mod replaces vanilla sprites with modified versions."
   },
   {
+    "repo": "llliiilii/era.dark",
+    "internalName": "ed",
+    "name": "ERA.Dark",
+    "version": "1.1.4.0",
+    "hidden": false,
+    "author": "Supernova-68",
+    "lastUpdated": "2026-10-05T16:27:37Z",
+    "stars": 5,
+    "minGameVersion": "160",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "ERA.Dark QQ:526675268"
+  },
+  {
     "repo": "thechronodonut1337/silent-orchestra",
     "internalName": "silent-orchestra",
     "name": "Sounds like Argus",
@@ -3806,20 +3820,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Simple json mod containing many high quality mindustry maps. Currently in beta with [stat]48 maps[]. All maps are vanilla compatible.\n\n[stat]Thanks to all the map creators who let me include their maps here!\n\n[grey]b0.3 Changelog:\n Added:\n 'Arkyic Grove' & 'Blast' by Comi\n 'Desolate Plateau' by uio\n 'Moss Ironworks' & 'Vines' by ncLr"
-  },
-  {
-    "repo": "llliiilii/era.dark",
-    "internalName": "ed",
-    "name": "ERA.Dark",
-    "version": "1.1.4.0",
-    "hidden": false,
-    "author": "Supernova-68",
-    "lastUpdated": "2026-10-05T16:27:37Z",
-    "stars": 4,
-    "minGameVersion": "160",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "ERA.Dark QQ:526675268"
   },
   {
     "repo": "arcyde0078/fun-mode",
@@ -4590,6 +4590,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent]Bulk import[] maps ([stat][]) and schematics ([stat][]) directly from ZIP archives or folders on Android and Desktop.\n\n[accent]Usage:[]\n[accent]1.[] [stat]Main Menu:[] [lightgray]Click [white]\"Pack Loader\"[] to open the loader dialog.[]\n[accent]2.[] [stat]Schematics / Maps:[] [lightgray]Click [white]\"Import .zip\"[] or [white]\"Scan Folder\"[] directly inside their respective dialogs.[]\n[accent]3.[] [stat]Workflow:[] [lightgray]Select Source -> Review items & Conflict policy -> Tap Import.[]\n\n[accent]Features:[]\n[stat] Bulk Import:[] [lightgray]Import dozens of maps and schematics from .zip packs or folders in one operation.[]\n[stat] Smart Conflict Handling:[] [lightgray]Choose how to resolve duplicate files ([white]Skip[], [white]Overwrite[], [white]Rename[]).[]\n[stat] Instant Hot-Reload:[] [lightgray]Automatically reloads game maps and schematics immediately without restarting Mindustry.[]\n[stat] Safe & Validated:[] [lightgray]Built-in Zip Slip protection, format header validation, and atomic writes.[]\n[stat] Mobile-Optimized:[] [lightgray]Touch-friendly UI, search filtering, and System File Picker ([white]SAF[]) support.[]\n[stat] Seamless Integration:[] [lightgray]Quick-access buttons in Main Menu, Schematics, Custom Game, and Map Editor.[]"
+  },
+  {
+    "repo": "r1tm200/bswedymusicpack",
+    "internalName": "bsweedymusicpack",
+    "name": "бисвиди песенки",
+    "version": "2.0",
+    "hidden": false,
+    "author": "тг: @ggvpaaall",
+    "lastUpdated": "2026-10-29T07:34:24Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Сборник песен бисвиди\n\nЧто в обновлении:\n\n По просьбе пользователя мода: добавлены новые песни для меню, выбора сектора, посадки и редактора.\n\nПесни теперь выбираются случайно при перезаходе в меню/выбор сектора."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5696,20 +5710,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mindustry? Yes, but more!"
-  },
-  {
-    "repo": "r1tm200/bswedymusicpack",
-    "internalName": "bsweedymusicpack",
-    "name": "бисвиди песенки",
-    "version": "1.0",
-    "hidden": false,
-    "author": "@ggvpaaall",
-    "lastUpdated": "2026-10-28T12:39:13Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "маленький сборник песен бисвиди"
   },
   {
     "repo": "capueinedaffe-cmd/float-damage-text",
@@ -7518,20 +7518,6 @@
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
-    "repo": "fat-bird-owner/gier-java-side",
-    "internalName": "gier-java",
-    "name": "Gier: Java Side",
-    "version": "v1",
-    "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-10-28T16:03:05Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java import of gier: revitalized."
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -7558,6 +7544,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Хранилище с автозабором предметов из ядра. Модули ёмкости и скорости, узлы связи, три стадии игры."
+  },
+  {
+    "repo": "fat-bird-owner/gier-java-side",
+    "internalName": "gier-java",
+    "name": "Gier: Java Side",
+    "version": "v1",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-10-29T07:42:32Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java import of gier: revitalized."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8739,10 +8739,10 @@
     "repo": "hamafx/autodrill-ios",
     "internalName": "auto-drill-ios",
     "name": "AutoDrill (iOS)",
-    "version": "1.7.1",
+    "version": "1.8.0",
     "hidden": true,
     "author": "Pointifix (original mod), HamaFx (iOS port)",
-    "lastUpdated": "2026-10-29T01:11:54Z",
+    "lastUpdated": "2026-10-29T02:39:28Z",
     "stars": 0,
     "minGameVersion": "160",
     "hasScripts": true,
