@@ -35,7 +35,7 @@
     "hidden": false,
     "author": "guiY",
     "lastUpdated": "2026-08-10T09:26:52Z",
-    "stars": 276,
+    "stars": 277,
     "minGameVersion": "155",
     "hasScripts": false,
     "hasJava": true,
@@ -1599,10 +1599,10 @@
     "repo": "lu69159/morecustomsettings",
     "internalName": "mcs",
     "name": "More Custom Settings",
-    "version": "1.12.4",
+    "version": "1.13",
     "hidden": true,
     "author": "Space",
-    "lastUpdated": "2026-10-29T06:17:35Z",
+    "lastUpdated": "2026-10-31T04:08:21Z",
     "stars": 14,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1966,7 +1966,7 @@
     "version": "0.4.0",
     "hidden": false,
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-10-30T14:29:23Z",
+    "lastUpdated": "2026-10-31T04:10:31Z",
     "stars": 11,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -4088,6 +4088,20 @@
     "description": "WHERE IS OMNIMAN"
   },
   {
+    "repo": "glino-mes/the-root-of-ruin",
+    "internalName": "enigmatamod",
+    "name": "Roots of Ruin",
+    "version": "0.501",
+    "hidden": false,
+    "author": "Blam",
+    "lastUpdated": "2025-07-27T20:44:12Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A campaign mod with a planet themed around magic.\n\nCompletion rate: ~50%\n\nContent is designed with intention . Tech tree is non-linear, and levels actually play differently from each other.\n\nLore is for chumps, this is raw gameplay injected right into your veins!\n\n[red]Difficulty:[] modest, no handholding\n[yellow]Length:[] short if you're good\n[green]Quality:[] astonishing really\n[cyan]Translation:[] none\n[cyan]Release date:[] in the future"
+  },
+  {
     "repo": "kiwi-ustal/ntm-ru",
     "internalName": "ntm-ru",
     "name": "NTM - На русском",
@@ -4142,6 +4156,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Explore a new planet submerged in naphtha and utilize buildings with an exotic, new form."
+  },
+  {
+    "repo": "samielxd/zoomplus",
+    "internalName": "zoom+",
+    "name": "Zoom+",
+    "version": "1.0",
+    "hidden": false,
+    "author": "SamielXD",
+    "lastUpdated": "2026-01-02T12:38:20Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Zoom+ mod is made for Players that wants to increase the zoom feature ingame. other people already made this mod idea but I did it anyways because some people don't want to download big mods but they just wants the zoom feature in that mod"
   },
   {
     "repo": "nickseal80/mindustry-time-factor-2",
@@ -4858,20 +4886,6 @@
     "description": "Changes music files to tracks from the SANABI game (not a bad game, I advise you to take a closer look at it)"
   },
   {
-    "repo": "glino-mes/the-root-of-ruin",
-    "internalName": "enigmatamod",
-    "name": "Roots of Ruin",
-    "version": "0.501",
-    "hidden": false,
-    "author": "Blam",
-    "lastUpdated": "2025-07-27T20:44:12Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A campaign mod with a planet themed around magic.\n\nCompletion rate: ~50%\n\nContent is designed with intention . Tech tree is non-linear, and levels actually play differently from each other.\n\nLore is for chumps, this is raw gameplay injected right into your veins!\n\n[red]Difficulty:[] modest, no handholding\n[yellow]Length:[] short if you're good\n[green]Quality:[] astonishing really\n[cyan]Translation:[] none\n[cyan]Release date:[] in the future"
-  },
-  {
     "repo": "dustdustry/logicscreenshot",
     "internalName": "logic-screenshot",
     "name": "Logic Screenshot",
@@ -4954,20 +4968,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dps Heatmap"
-  },
-  {
-    "repo": "samielxd/zoomplus",
-    "internalName": "zoom+",
-    "name": "Zoom+",
-    "version": "1.0",
-    "hidden": false,
-    "author": "SamielXD",
-    "lastUpdated": "2026-01-02T12:38:20Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Zoom+ mod is made for Players that wants to increase the zoom feature ingame. other people already made this mod idea but I did it anyways because some people don't want to download big mods but they just wants the zoom feature in that mod"
   },
   {
     "repo": "miyuyuuki/arsenal-expansion-mod",
@@ -7518,20 +7518,6 @@
     "description": "Java import of gier: revitalized."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-10-30T16:48:48Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "lebrops/sporbels-inventions",
     "internalName": "sporbel's inventions",
     "name": "SporBel's Inventions",
@@ -7558,6 +7544,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-10-31T04:08:27Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
