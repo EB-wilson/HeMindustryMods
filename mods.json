@@ -496,7 +496,7 @@
     "version": "0.51",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-11-01T13:04:20Z",
+    "lastUpdated": "2026-11-01T16:44:02Z",
     "stars": 52,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -2338,20 +2338,6 @@
     "description": "A mod that adds logic components to the game, such as logic gates, wires and more."
   },
   {
-    "repo": "frilofril/cobatstry",
-    "internalName": "cobatstry",
-    "name": "Cobatstry",
-    "version": "V0.9",
-    "hidden": false,
-    "author": "Frilofril",
-    "lastUpdated": "2025-08-10T09:13:49Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch \r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
-  },
-  {
     "repo": "piggychu620/mindustryrandomplanet",
     "internalName": "ec620",
     "name": "Random Planet v0.2.4",
@@ -2546,6 +2532,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Значительно расширяет кампанию Эрекира. Мод добавляет исключительно новые сектора в кампанию."
+  },
+  {
+    "repo": "frilofril/cobatstry",
+    "internalName": "cobatstry",
+    "name": "Cobatstry",
+    "version": "V0.9",
+    "hidden": false,
+    "author": "Frilofril",
+    "lastUpdated": "2026-11-01T16:42:59Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch \r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
   },
   {
     "repo": "mitemi/blastanium",
@@ -3052,6 +3052,20 @@
     "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
   },
   {
+    "repo": "routerxdd/forgotten-depths",
+    "internalName": "fd",
+    "name": "Forgotten Depths",
+    "version": "0.1A",
+    "hidden": false,
+    "author": "Unauthorized",
+    "lastUpdated": "2026-10-22T19:16:07Z",
+    "stars": 6,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod themed around game: Corebound by Overcurve\n\nOriginally supposed to be an april fools version of Buried In Ice but i fucked up with deadlines\n\n\nWARNING: Mod is not going to explain its own mechanics directly so... READ THE DAMN DESCRIPTIONS OF BLOCKS please...\n"
+  },
+  {
     "repo": "roman859/mindustry-better-vanilla",
     "internalName": "bettervanilla",
     "name": "Better Vanilla+",
@@ -3290,20 +3304,6 @@
     "description": "Read-only Mindustry factory diagnostics: building state, area reports, supported item/payload/liquid routes, and power-grid evidence."
   },
   {
-    "repo": "routerxdd/forgotten-depths",
-    "internalName": "fd",
-    "name": "Forgotten Depths",
-    "version": "0.1A",
-    "hidden": false,
-    "author": "Unauthorized",
-    "lastUpdated": "2026-10-22T19:16:07Z",
-    "stars": 5,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod themed around game: Corebound by Overcurve\n\nOriginally supposed to be an april fools version of Buried In Ice but i fucked up with deadlines\n\n\nWARNING: Mod is not going to explain its own mechanics directly so... READ THE DAMN DESCRIPTIONS OF BLOCKS please...\n"
-  },
-  {
     "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
     "internalName": "erekir-lost-sectors",
     "name": "Erekir: Unknown Signal",
@@ -3316,6 +3316,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[#ff3030]// SIGNAL LOG //[]\n\n[#9b9b9b]Origin:[] [#ff0000]UNDETERMINED[]\n[#9b9b9b]Source:[] [#ff3030]UNKNOWN[]\n[#9b9b9b]Classification:[] [#ff8a24]UNIDENTIFIED[]\n\n[#e0e0e0]Something has appeared beyond the known territories of Erekir.[]\n\n[#ff8a24]New sectors have been discovered.[]\n[#00d9ff]Unfamiliar environments have been recorded.[]\n[#00d9ff]Unknown anomalies have been detected.[]\n\n[#e0e0e0]Explore the forgotten regions of [#ff8a24]Erekir[],\nuncover the secrets hidden within its uncharted sectors,\nand follow the signal to discover what lies beyond the known frontier.[]\n\n[#ff8a24]NEW TECHNOLOGIES DETECTED[]\n\n[#00d9ff]• New blocks[]\n[#00d9ff]• New turrets[]\n[#00d9ff]• New resources and technologies[]\n[#00d9ff]• New sectors to explore[]\n[#00d9ff]• New units to create[]\n\n[#ff3030]WARNING:[]\n[#cfcfcf]The source remains unidentified.[]\n[#cfcfcf]The signal is still active.[]\n\n[#777777]Proceed with caution.[]\n\n\n[#8a8a8a]Languages:[] [#00d9ff]English[], [#ff8a24]Russian[]"
+  },
+  {
+    "repo": "youming66681/magic",
+    "internalName": "magic",
+    "name": "幻境/magical",
+    "version": "0.21",
+    "hidden": false,
+    "author": "幻境模组制作团队",
+    "lastUpdated": "2026-11-01T03:21:59Z",
+    "stars": 5,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730\n服务器:103.40.14.91:42275\n备用:114.66.28.186:45689"
   },
   {
     "repo": "koctz34/canvases",
@@ -3890,20 +3904,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "idk."
-  },
-  {
-    "repo": "youming66681/magic",
-    "internalName": "magic",
-    "name": "幻境/magical",
-    "version": "0.21",
-    "hidden": false,
-    "author": "幻境模组制作团队",
-    "lastUpdated": "2026-11-01T03:21:59Z",
-    "stars": 4,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730\n服务器:103.40.14.91:42275\n备用:114.66.28.186:45689"
   },
   {
     "repo": "wynej/map-collection",
@@ -4606,20 +4606,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "frilofril/omega",
-    "internalName": "omega",
-    "name": "Omega",
-    "version": "Pre-Demo 0.2.2/5",
-    "hidden": false,
-    "author": "Frilofril",
-    "lastUpdated": "2026-11-01T11:14:29Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n"
-  },
-  {
     "repo": "nickseal80/mindustry-time-factor-2",
     "internalName": "time-factor 2",
     "name": "Time Factor 2",
@@ -4632,6 +4618,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Real-time speed control for Mindustry. Customize speed limits and reset instantly with a clean UI."
+  },
+  {
+    "repo": "frilofril/omega",
+    "internalName": "omega",
+    "name": "Omega",
+    "version": "Pre-Demo 0.2.2/5",
+    "hidden": false,
+    "author": "Frilofril",
+    "lastUpdated": "2026-11-01T16:41:57Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n"
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5704,7 +5704,7 @@
     "version": "1.0",
     "hidden": false,
     "author": "AttaraX",
-    "lastUpdated": "2026-10-30T23:06:59Z",
+    "lastUpdated": "2026-11-01T19:37:45Z",
     "stars": 2,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -7490,20 +7490,6 @@
     "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
   },
   {
-    "repo": "lebrops/sporbels-inventions",
-    "internalName": "sporbel's inventions",
-    "name": "SporBel's Inventions",
-    "version": "1.1.6",
-    "hidden": false,
-    "author": "SporBel (aka. leBropS)",
-    "lastUpdated": "2026-10-30T18:21:47Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -7586,6 +7572,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java import of gier: revitalized."
+  },
+  {
+    "repo": "lebrops/sporbels-inventions",
+    "internalName": "sporbel's inventions",
+    "name": "SporBel's Inventions",
+    "version": "1.1.6",
+    "hidden": false,
+    "author": "SporBel (aka. leBropS)",
+    "lastUpdated": "2026-11-01T20:26:53Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
