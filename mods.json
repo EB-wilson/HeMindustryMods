@@ -202,7 +202,7 @@
     "version": "4.3.7",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-11-01T15:33:25Z",
+    "lastUpdated": "2026-11-01T23:32:57Z",
     "stars": 133,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -6930,20 +6930,6 @@
     "description": "Real-world inspired heavy weaponry: | Phalanx CIWS-style rotary anti-air gatling turret | 20mm autocannon | 40mm auto cannon | 80mm howitzer. Available on both Serpulo and Erekir"
   },
   {
-    "repo": "mohitosemerkaa/mohito-s-modd",
-    "internalName": "mohitosmodd",
-    "name": "Mohito's Modd",
-    "version": "1.0",
-    "hidden": false,
-    "author": "MohitoSemerka",
-    "lastUpdated": "2026-08-09T09:40:39Z",
-    "stars": 1,
-    "minGameVersion": "159.6",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "-Added new planet: Componda\n-Added 4 new turrets!\n-Added silicon furnace\n-Added 7 units\n-Added 3 sectors for Componda\n-Added new item: cobalt\n-Added distribution blocks\n-Added power blocks\n-Added walls (electrum, lead)\n-Added drills\n-Balance improvements\n-Bug fixes"
-  },
-  {
     "repo": "6atapei9/wavesinfo",
     "internalName": "wave-info",
     "name": "WaveInfo",
@@ -7560,20 +7546,6 @@
     "description": "This mod adds a fully functional nuclear power plant capable of triggering a nuclear explosion!"
   },
   {
-    "repo": "fat-bird-owner/gier-java-side",
-    "internalName": "gier-java",
-    "name": "Gier: Java Side",
-    "version": "v1",
-    "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-11-01T16:28:36Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java import of gier: revitalized."
-  },
-  {
     "repo": "lebrops/sporbels-inventions",
     "internalName": "sporbel's inventions",
     "name": "SporBel's Inventions",
@@ -7586,6 +7558,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
+  },
+  {
+    "repo": "fat-bird-owner/gier-java-side",
+    "internalName": "gier-java",
+    "name": "Gier: Java Side",
+    "version": "v1",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-11-01T23:59:29Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java import of gier: revitalized."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
