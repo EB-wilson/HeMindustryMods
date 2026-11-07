@@ -202,7 +202,7 @@
     "version": "4.3.7",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-11-07T09:02:49Z",
+    "lastUpdated": "2026-11-07T17:25:41Z",
     "stars": 133,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -496,7 +496,7 @@
     "version": "0.51",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-11-04T13:29:05Z",
+    "lastUpdated": "2026-11-07T16:32:36Z",
     "stars": 54,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -510,7 +510,7 @@
     "version": "6.1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-11-07T03:26:18Z",
+    "lastUpdated": "2026-11-07T18:05:47Z",
     "stars": 51,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -1840,7 +1840,7 @@
     "version": "0.2.1",
     "hidden": false,
     "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
-    "lastUpdated": "2026-11-03T16:52:22Z",
+    "lastUpdated": "2026-11-07T17:16:52Z",
     "stars": 12,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -1966,7 +1966,7 @@
     "version": "101.5",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-11-06T08:33:05Z",
+    "lastUpdated": "2026-11-07T12:33:57Z",
     "stars": 11,
     "minGameVersion": "160.1",
     "hasScripts": true,
@@ -3360,20 +3360,6 @@
     "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
   },
   {
-    "repo": "oleksiy1409liut/periodic-overhaul",
-    "internalName": "periodic",
-    "name": "periodic overhaul",
-    "version": "0.11",
-    "hidden": false,
-    "author": "oleksiy",
-    "lastUpdated": "2026-11-07T09:12:03Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
-  },
-  {
     "repo": "itzmellory/advanced-redactor",
     "internalName": "advanced-editor",
     "name": " Advanced Editor ",
@@ -3386,6 +3372,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ffffff] Adv[][#e3e3e3]anced[] [#c7c7c7]Map[] [#ababab]Edi[][#8f8f8f]tor []\n\n[#e6e6e6] Next-generation complex terrain synthesis and advanced mapmaker tools[]\n[#cccccc]Maps created with this modification are[] [#ffffff]fully compatible with the original game []\n\n[#ffffff] Fea[][#c7c7c7]tu[][#8f8f8f]res:[]\n\n[#ffffff]- Adv[][#e3e3e3]anced[] [#ababab]Generators[] [#8f8f8f] -[]\n[#b3b3b3]Generators for terrain (noise, octaves, falloff, tilt, distortion), water (shallow water, shoals, depth warping), ruins (scatter and structures with rooms, corridors, and step configuration), and block rotation.[]\n\n[#ffffff]- Ter[][#e3e3e3]rain[] [#ababab]Clipboard and Schematics[] [#8f8f8f] -[]\n[#b3b3b3]Selection, copying, cutting, pasting, rotation, and flipping of terrain areas. Saving terrain templates, rectangular and shaped brushes, cliff editor, and strict 45-degree lines.[]\n\n[#ffffff]- Map[] [#e3e3e3]Art[] [#ababab]and Stencils[] [#8f8f8f] -[]\n[#b3b3b3]Converting images into structures made of terrain or colored blocks. Overlaying semi-transparent stencils on top of the map for accurate drawing.[]\n\n[#ffffff]- Rem[][#e3e3e3]oving[] [#ababab]Size Limits[] [#8f8f8f] -[]\n[#b3b3b3]The built-in unlocker module completely removes standard limits on the minimum and maximum size of created maps.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] Про[][#e3e3e3]двину[][#c7c7c7]тый[] [#ababab]Редак[][#8f8f8f]тор Карт []\n\n[#e6e6e6] Синтез сложного рельефа нового поколения и расширенные инструменты создателя карт[]\n[#cccccc]Карты, созданные с этой модификацией,[] [#ffffff]полностью совместимы с оригинальной игрой []\n\n[#ffffff] Осо[][#c7c7c7]бенно[][#8f8f8f]сти:[]\n\n[#ffffff]- Про[][#e3e3e3]двинутые[] [#ababab]Генераторы[] [#8f8f8f] -[]\n[#b3b3b3]Генераторы рельефа (шум, октавы, спад, наклон, искажение), воды (мелководье, отмели, искривление глубины), руин (разброс и структуры с комнатами, коридорами и настройкой шагов) и вращения блоков.[]\n\n[#ffffff]- Буф[][#e3e3e3]ер[] [#ababab]Ландшафта и Схемы[] [#8f8f8f] -[]\n[#b3b3b3]Выделение, копирование, вырезание, вставка, поворот и отражение участков местности. Сохранение шаблонов рельефа, прямоугольные и фигурные кисти, редактор скал и линии строго под 45 градусов.[]\n\n[#ffffff]- Кар[][#e3e3e3]тины на[] [#ababab]Карте и Трафареты[] [#8f8f8f] -[]\n[#b3b3b3]Преобразование изображений в постройки из ландшафта или цветных блоков. Наложение полупрозрачных трафаретов поверх карты для точной отрисовки.[]\n\n[#ffffff]- Сня[][#e3e3e3]тие[] [#ababab]Ограничений Размера[] [#8f8f8f] -[]\n[#b3b3b3]Встроенный модуль разблокировки полностью убирает стандартные лимиты на минимальный и максимальный размер создаваемых карт.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] 高级[][#e3e3e3]地图[][#c7c7c7]编辑[][#ababab]器[][#8f8f8f] []\n\n[#e6e6e6] 新一代复杂地形合成与扩展地图制作工具[]\n[#cccccc]使用此模组创建的地图[] [#ffffff]与原版游戏完全兼容 []\n\n[#ffffff] 功[][#c7c7c7]能特[][#8f8f8f]点：[]\n\n[#ffffff]- 高级[][#e3e3e3]生成[] [#ababab]器[] [#8f8f8f] -[]\n[#b3b3b3]包含地形（噪声、八度、衰减、倾斜、扭曲）、水域（浅水、浅滩、深度扭曲）、废墟（散布模式以及带有房间、走廊和步骤设置的结构）与方块旋转生成器。[]\n\n[#ffffff]- 地形[][#e3e3e3]剪贴板[] [#ababab]与蓝图[] [#8f8f8f] -[]\n[#b3b3b3]支持地形区域的框选、复制、剪切、粘贴、旋转与翻转。支持保存地形模板，提供矩形与形状画笔、悬崖编辑器以及严格 45 度角直线。[]\n\n[#ffffff]- 地图[][#e3e3e3]画与[] [#ababab]参考模板[] [#8f8f8f] -[]\n[#b3b3b3]将图像转换为由地形或彩色方块构成的建筑。在地图上方叠加半透明参考模板以进行精确绘制。[]\n\n[#ffffff]- 解除[][#e3e3e3]尺寸[] [#ababab]限制[] [#8f8f8f] -[]\n[#b3b3b3]内置解锁模块彻底移除了创建地图时的最小与最大标准尺寸限制。[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff]⚠ Glo[][#e3e3e3]ry to[] [#c7c7c7]VI, Bro[][#ababab]thers and[] [#8f8f8f]Sisters! []"
+  },
+  {
+    "repo": "oleksiy1409liut/periodic-overhaul",
+    "internalName": "periodic",
+    "name": "periodic overhaul",
+    "version": "0.11",
+    "hidden": false,
+    "author": "oleksiy",
+    "lastUpdated": "2026-11-07T14:04:54Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
   },
   {
     "repo": "koctz34/canvases",
@@ -7182,20 +7182,6 @@
     "description": "Water Reflection shader all water surfaces now have reflections. Fully Configurable compatible with Android and PC."
   },
   {
-    "repo": "cuber-david/feces-mod",
-    "internalName": "kmod",
-    "name": "FecesMod",
-    "version": "1.0",
-    "hidden": false,
-    "author": "Cuber",
-    "lastUpdated": "2026-10-05T12:59:05Z",
-    "stars": 1,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Make a beautiful world with feces."
-  },
-  {
     "repo": "chax0180/challenge-additions",
     "internalName": "chad",
     "name": "Challenge Additions",
@@ -7588,20 +7574,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "fat-bird-owner/gier-java-side",
-    "internalName": "gier-java",
-    "name": "Gier: Java Side",
-    "version": "v1",
-    "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-11-07T11:53:01Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java import of gier: revitalized."
-  },
-  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
@@ -7614,6 +7586,48 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "cuber-david/feces-mod",
+    "internalName": "kmod",
+    "name": "FecesMod",
+    "version": "1.0",
+    "hidden": false,
+    "author": "Cuber",
+    "lastUpdated": "2026-11-07T15:05:36Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Make a beautiful world with feces."
+  },
+  {
+    "repo": "fat-bird-owner/gier-java-side",
+    "internalName": "gier-java",
+    "name": "Gier: Java Side",
+    "version": "v1",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-11-07T16:24:41Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java import of gier: revitalized."
+  },
+  {
+    "repo": "use-lessdev/devilized-lunarians-system",
+    "internalName": "lunarians",
+    "name": "Lunarians",
+    "version": "3.78.2",
+    "hidden": true,
+    "author": "Ron",
+    "lastUpdated": "2026-11-07T17:15:22Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Domain expansion — Lunarians v3.78.2 (client-only, PC + mobile).\n\nAutomação & construção\n• Auto Fill (beta) • Auto Drill • Auto Connect Conveyor • Conveyor Upgrade • Auto Container • Auto Set (config/slots)\n\nUnidades & combate\n• Auto Unit • Auto Attack • Auto Defence • Auto Shield • Auto Heal • Auto Unit Heal • Auto Cargo • Auto Dock • Auto Moon • Formations\n\nEconomia & recursos\n• Auto Economy • Resource Loss Warn • Production Alert • Energy Watch • Power Link • Miner Fix/Units • Used Area\n\nQualidade de vida & utilitários\n• FreeCam (beta) • Units Follow Camera (beta) • Schematic Placer/Panel • Proton Schematics • Enemy Core Alert • Weather Safe • Server Guard • Chat Commands\n\nSocial/Hub\n• Lunarians Hub: chat global, presença, recursos de hub.\n\nAutor: Ron | java mod | minGame 154 | hidden"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8972,5 +8986,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "方块世界：Minecraft 的工具、武器、矿石、树木、生物与红石科技。Erekir 风格峡谷地形、五种生物群系、星球、核心、科技树、仓库、物流系统、兵工厂与雪傀儡/铁傀儡。"
+  },
+  {
+    "repo": "jovinull/vesper",
+    "internalName": "vesper",
+    "name": "Vesper",
+    "version": "0.8.1-alpha",
+    "hidden": false,
+    "author": "Jovinull",
+    "lastUpdated": "2026-11-07T18:05:26Z",
+    "stars": 0,
+    "minGameVersion": "160.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A derelict machine-planet slowly wakes as its ancient industry runs again. Alpha build: the VESPER planet and its campaign (Play > Campaign, then VESPER). Chapter One, The Silent Basin: First Awakening, Resonance Fault and The Buried Foundry, linked by its own tech tree and the records you recover. Chapter Two opens with Deep Signal: below the basin, three relays of an ancient network must run at once, on power and resonance cores, through a synchronization. Central Control follows: split your grid between two ancient protocols, containment that holds the vents shut and recovery that brings the complex back, and reactivate it. The maps can also be played on their own (Play > Custom Game), and so can Resonance Works, a standalone map of the resonance industry: dynamos that burn resonance cores for power and containment fields that hold the pulses back."
   }
 ]
