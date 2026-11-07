@@ -202,7 +202,7 @@
     "version": "4.3.7",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-11-07T02:49:40Z",
+    "lastUpdated": "2026-11-07T09:02:49Z",
     "stars": 133,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -538,7 +538,7 @@
     "version": "2.1.2.6",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-11-07T02:45:14Z",
+    "lastUpdated": "2026-11-07T10:36:45Z",
     "stars": 50,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1504,7 +1504,7 @@
     "version": "7.1.2",
     "hidden": false,
     "author": "\nAdrift - Main Dev\nXaoc - Original Mod\nT4SC, 4.b1, Hurb - Major help with everything\nMolten - Major help with effects and units\nHanLarence, petal - Major help with sprites and more\nClick, Hurb, Nameless - Minor help with sprites and ideas\nEris - Troubleshooting",
-    "lastUpdated": "2026-11-05T15:32:15Z",
+    "lastUpdated": "2026-11-07T11:00:01Z",
     "stars": 15,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -2534,20 +2534,6 @@
     "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch \r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "version": "1.03",
-    "hidden": false,
-    "author": "[#ff6600]К[][#e65a00]с[][#cc4e00]е[][#b34200]л[][#993600]и[][#802a00]р[][#661e00]и[][#4d1200]т[]",
-    "lastUpdated": "2026-11-05T06:27:22Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "determination-wind/stealthpath",
     "internalName": "stealth-path",
     "name": "Stealth Path / 偷袭小道",
@@ -3318,20 +3304,6 @@
     "description": "Read-only Mindustry factory diagnostics: building state, area reports, supported item/payload/liquid routes, and power-grid evidence."
   },
   {
-    "repo": "itzmellory/advanced-redactor",
-    "internalName": "advanced-editor",
-    "name": " Advanced Editor ",
-    "version": "1.0",
-    "hidden": true,
-    "author": "[#ffffff]⚠ X-Tree[] [#c7c7c7]and[] [#8f8f8f]VI Clan []",
-    "lastUpdated": "2026-10-27T07:54:44Z",
-    "stars": 5,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ffffff] Adv[][#e3e3e3]anced[] [#c7c7c7]Map[] [#ababab]Edi[][#8f8f8f]tor []\n\n[#e6e6e6] Next-generation complex terrain synthesis and advanced mapmaker tools[]\n[#cccccc]Maps created with this modification are[] [#ffffff]fully compatible with the original game []\n\n[#ffffff] Fea[][#c7c7c7]tu[][#8f8f8f]res:[]\n\n[#ffffff]- Adv[][#e3e3e3]anced[] [#ababab]Generators[] [#8f8f8f] -[]\n[#b3b3b3]Generators for terrain (noise, octaves, falloff, tilt, distortion), water (shallow water, shoals, depth warping), ruins (scatter and structures with rooms, corridors, and step configuration), and block rotation.[]\n\n[#ffffff]- Ter[][#e3e3e3]rain[] [#ababab]Clipboard and Schematics[] [#8f8f8f] -[]\n[#b3b3b3]Selection, copying, cutting, pasting, rotation, and flipping of terrain areas. Saving terrain templates, rectangular and shaped brushes, cliff editor, and strict 45-degree lines.[]\n\n[#ffffff]- Map[] [#e3e3e3]Art[] [#ababab]and Stencils[] [#8f8f8f] -[]\n[#b3b3b3]Converting images into structures made of terrain or colored blocks. Overlaying semi-transparent stencils on top of the map for accurate drawing.[]\n\n[#ffffff]- Rem[][#e3e3e3]oving[] [#ababab]Size Limits[] [#8f8f8f] -[]\n[#b3b3b3]The built-in unlocker module completely removes standard limits on the minimum and maximum size of created maps.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] Про[][#e3e3e3]двину[][#c7c7c7]тый[] [#ababab]Редак[][#8f8f8f]тор Карт []\n\n[#e6e6e6] Синтез сложного рельефа нового поколения и расширенные инструменты создателя карт[]\n[#cccccc]Карты, созданные с этой модификацией,[] [#ffffff]полностью совместимы с оригинальной игрой []\n\n[#ffffff] Осо[][#c7c7c7]бенно[][#8f8f8f]сти:[]\n\n[#ffffff]- Про[][#e3e3e3]двинутые[] [#ababab]Генераторы[] [#8f8f8f] -[]\n[#b3b3b3]Генераторы рельефа (шум, октавы, спад, наклон, искажение), воды (мелководье, отмели, искривление глубины), руин (разброс и структуры с комнатами, коридорами и настройкой шагов) и вращения блоков.[]\n\n[#ffffff]- Буф[][#e3e3e3]ер[] [#ababab]Ландшафта и Схемы[] [#8f8f8f] -[]\n[#b3b3b3]Выделение, копирование, вырезание, вставка, поворот и отражение участков местности. Сохранение шаблонов рельефа, прямоугольные и фигурные кисти, редактор скал и линии строго под 45 градусов.[]\n\n[#ffffff]- Кар[][#e3e3e3]тины на[] [#ababab]Карте и Трафареты[] [#8f8f8f] -[]\n[#b3b3b3]Преобразование изображений в постройки из ландшафта или цветных блоков. Наложение полупрозрачных трафаретов поверх карты для точной отрисовки.[]\n\n[#ffffff]- Сня[][#e3e3e3]тие[] [#ababab]Ограничений Размера[] [#8f8f8f] -[]\n[#b3b3b3]Встроенный модуль разблокировки полностью убирает стандартные лимиты на минимальный и максимальный размер создаваемых карт.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] 高级[][#e3e3e3]地图[][#c7c7c7]编辑[][#ababab]器[][#8f8f8f] []\n\n[#e6e6e6] 新一代复杂地形合成与扩展地图制作工具[]\n[#cccccc]使用此模组创建的地图[] [#ffffff]与原版游戏完全兼容 []\n\n[#ffffff] 功[][#c7c7c7]能特[][#8f8f8f]点：[]\n\n[#ffffff]- 高级[][#e3e3e3]生成[] [#ababab]器[] [#8f8f8f] -[]\n[#b3b3b3]包含地形（噪声、八度、衰减、倾斜、扭曲）、水域（浅水、浅滩、深度扭曲）、废墟（散布模式以及带有房间、走廊和步骤设置的结构）与方块旋转生成器。[]\n\n[#ffffff]- 地形[][#e3e3e3]剪贴板[] [#ababab]与蓝图[] [#8f8f8f] -[]\n[#b3b3b3]支持地形区域的框选、复制、剪切、粘贴、旋转与翻转。支持保存地形模板，提供矩形与形状画笔、悬崖编辑器以及严格 45 度角直线。[]\n\n[#ffffff]- 地图[][#e3e3e3]画与[] [#ababab]参考模板[] [#8f8f8f] -[]\n[#b3b3b3]将图像转换为由地形或彩色方块构成的建筑。在地图上方叠加半透明参考模板以进行精确绘制。[]\n\n[#ffffff]- 解除[][#e3e3e3]尺寸[] [#ababab]限制[] [#8f8f8f] -[]\n[#b3b3b3]内置解锁模块彻底移除了创建地图时的最小与最大标准尺寸限制。[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff]⚠ Glo[][#e3e3e3]ry to[] [#c7c7c7]VI, Bro[][#ababab]thers and[] [#8f8f8f]Sisters! []"
-  },
-  {
     "repo": "pil1234567890987654321-prog/erekir-unknown-signal",
     "internalName": "erekir-lost-sectors",
     "name": "Erekir: Unknown Signal",
@@ -3360,20 +3332,6 @@
     "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730\n服务器:103.40.14.91:42275\n备用:114.66.28.186:45689"
   },
   {
-    "repo": "oleksiy1409liut/periodic-overhaul",
-    "internalName": "periodic",
-    "name": "periodic overhaul",
-    "version": "0.11",
-    "hidden": false,
-    "author": "oleksiy",
-    "lastUpdated": "2026-11-06T19:17:31Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
-  },
-  {
     "repo": "osp54/shared-campaign-research",
     "internalName": "shared-campaign-research",
     "name": "Shared Campaign Research",
@@ -3400,6 +3358,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
+  },
+  {
+    "repo": "oleksiy1409liut/periodic-overhaul",
+    "internalName": "periodic",
+    "name": "periodic overhaul",
+    "version": "0.11",
+    "hidden": false,
+    "author": "oleksiy",
+    "lastUpdated": "2026-11-07T09:12:03Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
+  },
+  {
+    "repo": "itzmellory/advanced-redactor",
+    "internalName": "advanced-editor",
+    "name": " Advanced Editor ",
+    "version": "1.0",
+    "hidden": true,
+    "author": "[#ffffff]⚠ X-Tree[] [#c7c7c7]and[] [#8f8f8f]VI Clan []",
+    "lastUpdated": "2026-11-07T11:03:36Z",
+    "stars": 5,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ffffff] Adv[][#e3e3e3]anced[] [#c7c7c7]Map[] [#ababab]Edi[][#8f8f8f]tor []\n\n[#e6e6e6] Next-generation complex terrain synthesis and advanced mapmaker tools[]\n[#cccccc]Maps created with this modification are[] [#ffffff]fully compatible with the original game []\n\n[#ffffff] Fea[][#c7c7c7]tu[][#8f8f8f]res:[]\n\n[#ffffff]- Adv[][#e3e3e3]anced[] [#ababab]Generators[] [#8f8f8f] -[]\n[#b3b3b3]Generators for terrain (noise, octaves, falloff, tilt, distortion), water (shallow water, shoals, depth warping), ruins (scatter and structures with rooms, corridors, and step configuration), and block rotation.[]\n\n[#ffffff]- Ter[][#e3e3e3]rain[] [#ababab]Clipboard and Schematics[] [#8f8f8f] -[]\n[#b3b3b3]Selection, copying, cutting, pasting, rotation, and flipping of terrain areas. Saving terrain templates, rectangular and shaped brushes, cliff editor, and strict 45-degree lines.[]\n\n[#ffffff]- Map[] [#e3e3e3]Art[] [#ababab]and Stencils[] [#8f8f8f] -[]\n[#b3b3b3]Converting images into structures made of terrain or colored blocks. Overlaying semi-transparent stencils on top of the map for accurate drawing.[]\n\n[#ffffff]- Rem[][#e3e3e3]oving[] [#ababab]Size Limits[] [#8f8f8f] -[]\n[#b3b3b3]The built-in unlocker module completely removes standard limits on the minimum and maximum size of created maps.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] Про[][#e3e3e3]двину[][#c7c7c7]тый[] [#ababab]Редак[][#8f8f8f]тор Карт []\n\n[#e6e6e6] Синтез сложного рельефа нового поколения и расширенные инструменты создателя карт[]\n[#cccccc]Карты, созданные с этой модификацией,[] [#ffffff]полностью совместимы с оригинальной игрой []\n\n[#ffffff] Осо[][#c7c7c7]бенно[][#8f8f8f]сти:[]\n\n[#ffffff]- Про[][#e3e3e3]двинутые[] [#ababab]Генераторы[] [#8f8f8f] -[]\n[#b3b3b3]Генераторы рельефа (шум, октавы, спад, наклон, искажение), воды (мелководье, отмели, искривление глубины), руин (разброс и структуры с комнатами, коридорами и настройкой шагов) и вращения блоков.[]\n\n[#ffffff]- Буф[][#e3e3e3]ер[] [#ababab]Ландшафта и Схемы[] [#8f8f8f] -[]\n[#b3b3b3]Выделение, копирование, вырезание, вставка, поворот и отражение участков местности. Сохранение шаблонов рельефа, прямоугольные и фигурные кисти, редактор скал и линии строго под 45 градусов.[]\n\n[#ffffff]- Кар[][#e3e3e3]тины на[] [#ababab]Карте и Трафареты[] [#8f8f8f] -[]\n[#b3b3b3]Преобразование изображений в постройки из ландшафта или цветных блоков. Наложение полупрозрачных трафаретов поверх карты для точной отрисовки.[]\n\n[#ffffff]- Сня[][#e3e3e3]тие[] [#ababab]Ограничений Размера[] [#8f8f8f] -[]\n[#b3b3b3]Встроенный модуль разблокировки полностью убирает стандартные лимиты на минимальный и максимальный размер создаваемых карт.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] 高级[][#e3e3e3]地图[][#c7c7c7]编辑[][#ababab]器[][#8f8f8f] []\n\n[#e6e6e6] 新一代复杂地形合成与扩展地图制作工具[]\n[#cccccc]使用此模组创建的地图[] [#ffffff]与原版游戏完全兼容 []\n\n[#ffffff] 功[][#c7c7c7]能特[][#8f8f8f]点：[]\n\n[#ffffff]- 高级[][#e3e3e3]生成[] [#ababab]器[] [#8f8f8f] -[]\n[#b3b3b3]包含地形（噪声、八度、衰减、倾斜、扭曲）、水域（浅水、浅滩、深度扭曲）、废墟（散布模式以及带有房间、走廊和步骤设置的结构）与方块旋转生成器。[]\n\n[#ffffff]- 地形[][#e3e3e3]剪贴板[] [#ababab]与蓝图[] [#8f8f8f] -[]\n[#b3b3b3]支持地形区域的框选、复制、剪切、粘贴、旋转与翻转。支持保存地形模板，提供矩形与形状画笔、悬崖编辑器以及严格 45 度角直线。[]\n\n[#ffffff]- 地图[][#e3e3e3]画与[] [#ababab]参考模板[] [#8f8f8f] -[]\n[#b3b3b3]将图像转换为由地形或彩色方块构成的建筑。在地图上方叠加半透明参考模板以进行精确绘制。[]\n\n[#ffffff]- 解除[][#e3e3e3]尺寸[] [#ababab]限制[] [#8f8f8f] -[]\n[#b3b3b3]内置解锁模块彻底移除了创建地图时的最小与最大标准尺寸限制。[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff]⚠ Glo[][#e3e3e3]ry to[] [#c7c7c7]VI, Bro[][#ababab]thers and[] [#8f8f8f]Sisters! []"
   },
   {
     "repo": "koctz34/canvases",
@@ -6258,20 +6244,6 @@
     "description": "Mod created by one developer :p"
   },
   {
-    "repo": "nezerit6/extended-walls",
-    "internalName": "extended-walls",
-    "name": "Extended Walls",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Nezerit6",
-    "lastUpdated": "2025-11-26T17:00:43Z",
-    "stars": 1,
-    "minGameVersion": "153",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new wall sizes to both Serpulo and Erekir! All existing wall types now include 3x3 (Huge) and 4x4 (Gigantic) variants"
-  },
-  {
     "repo": "samielxd/enhancedunitcontrolmod",
     "internalName": "unitcontrol",
     "name": "Enhanced Unit Control",
@@ -7616,32 +7588,32 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-11-06T18:08:14Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "fat-bird-owner/gier-java-side",
     "internalName": "gier-java",
     "name": "Gier: Java Side",
     "version": "v1",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-11-07T04:19:12Z",
+    "lastUpdated": "2026-11-07T11:53:01Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "Java import of gier: revitalized."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-11-07T12:25:09Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8006,6 +7978,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds gold, iron, gold walls, iron walls, and lead walls. More will be added in the future. Stay tuned."
+  },
+  {
+    "repo": "nezerit6/extended-walls",
+    "internalName": "extended-walls",
+    "name": "Extended Walls",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Nezerit6",
+    "lastUpdated": "2025-11-26T17:00:43Z",
+    "stars": 0,
+    "minGameVersion": "153",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new wall sizes to both Serpulo and Erekir! All existing wall types now include 3x3 (Huge) and 4x4 (Gigantic) variants"
   },
   {
     "repo": "plsubfarm61/space-expansion",
@@ -8958,5 +8944,33 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Runs one campaign sector per server instance, with a shared campaign folder (sector saves, sector info, research). Server-side only. Part of the multi-sector campaign setup."
+  },
+  {
+    "repo": "sqwibles/drill-pump-chaining",
+    "internalName": "drill-pump-chaining",
+    "name": "Drill & Pump Chaining",
+    "version": "1.1",
+    "hidden": false,
+    "author": "Ranii",
+    "lastUpdated": "2026-11-07T12:18:29Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Chained drills and chained pumps share their own respective item/liquid, so only one block in a chain needs an output. Optimized to reduce lag."
+  },
+  {
+    "repo": "wu20100210/minecraft_on_mindustry",
+    "internalName": "mc-on-mindustry",
+    "name": "Minecraft_On_Mindustry",
+    "version": "1.6",
+    "hidden": false,
+    "author": "阿仔",
+    "lastUpdated": "2026-11-07T12:30:11Z",
+    "stars": 0,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "方块世界：Minecraft 的工具、武器、矿石、树木、生物与红石科技。Erekir 风格峡谷地形、五种生物群系、星球、核心、科技树、仓库、物流系统、兵工厂与雪傀儡/铁傀儡。"
   }
 ]
