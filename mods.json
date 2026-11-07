@@ -202,7 +202,7 @@
     "version": "4.3.7",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-11-07T17:25:41Z",
+    "lastUpdated": "2026-11-07T23:21:41Z",
     "stars": 133,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -1599,10 +1599,10 @@
     "repo": "sh1penfire/meld-java",
     "internalName": "meld2",
     "name": "Meld: Sand and Sunder",
-    "version": "gameplay test 5.1",
+    "version": "gameplay test 6",
     "hidden": false,
     "author": "Sh1p",
-    "lastUpdated": "2026-11-04T14:16:46Z",
+    "lastUpdated": "2026-11-07T21:30:17Z",
     "stars": 14,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -1966,7 +1966,7 @@
     "version": "101.5",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-11-07T12:33:57Z",
+    "lastUpdated": "2026-11-07T21:33:30Z",
     "stars": 11,
     "minGameVersion": "160.1",
     "hasScripts": true,
@@ -2070,20 +2070,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[accent]MobileConsole v1.0 - Developer Tools for Mobile Players[]\n[white]📱 Full console access on your phone or tablet![]\n[yellow]⚠️ This mod is specifically designed for mobile devices where console features are normally unavailable.[]\n[red]⚠️ SINGLE-PLAYER ONLY - This mod does not work in multiplayer![]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[red]⚠️ IMPORTANT DISCLAIMERS:[]\n[yellow]• Not all commands may work on every device or game version[]\n[yellow]• Commands only work in single-player mode[]\n[yellow]• Building commands require appropriate permissions[]\n[yellow]• Use at your own risk - some commands may affect game performance[]\n[yellow]• This mod is in active development - bugs may occur[]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]📋 What Is This?[]\nMobileConsole brings developer tools to your mobile device. Build, spawn, modify, and control your game with over 20 commands optimized for touch screens.\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]🎮 How to Access:[]\n[white]In-Game:[]\n• Type [cyan]/customhelp[] in chat to see all commands\n• Type [cyan]/chelp[] for console system help\n[white]Settings Menu:[]\n• Open Settings → Developer Console\n• Tap [cyan]Open Console[] button\n[white]Quick Commands:[]\n• Type any command in chat starting with /\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🏗️ Building Commands:[]\n[cyan]/wallcore [type][] - Builds walls around your core\n[cyan]/fill     [] - Fill area with blocks\n[cyan]/clear [radius][] - Clear buildings around position\n[cyan]/conveyor    [] - Build conveyor lines\n[cyan]/powerline    [] - Create power connections\n[cyan]/wallline     [type][] - Draw wall lines\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[yellow]🔧 Modification Commands:[]\n[cyan]/upgrade  [] - Upgrade building types\n[cyan]/replace  [] - Replace blocks\n[cyan]/toggle [block][] - Enable/disable buildings\n[cyan]/repair[] - Repair all damaged buildings\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[royal]⚔️ Unit Commands:[]\n[cyan]/spawn   [x] [y][] - Spawn units\n[cyan]/healunits[] - Restore all friendly units to full health\n[cyan]/rally[] - Command units to your position\n[cyan]/killenemies [radius][] - Eliminate enemies\n[cyan]/units[] - Display unit statistics\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]⚡ Quick Actions:[]\n[cyan]/turrets[] - Toggle all turrets\n[cyan]/power[] - Display power grid statistics\n[cyan]/resources[] - Check core resources\n[cyan]/screenshot[] - Take clean screenshot\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🖥️ Console System:[]\n[cyan]/chelp[] - Show console help\n[cyan]/clear[] - Clear console logs\n[cyan]/scan[] - Scan for available commands\n[cyan]/stats[] - Show console statistics\n[cyan]/commands[] - List all detected commands\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]🎯 Features:[]\n• Command history (last 50 commands)\n• Favorites system\n• Log management (1,500 entries)\n• Search and filter functionality\n• Touch-optimized interface\n• Color-coded logs\n• Mod management system\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[white]Type [cyan]/customhelp[] in chat or open Settings → Developer Console to start![]\n[yellow]Report issues on GitHub: github.com/SamielXD/MobileConsole[]\n[white]- SamielXD[]"
-  },
-  {
-    "repo": "laohuajiofficial/unitarsenal",
-    "internalName": "unit-arsenal",
-    "name": "Unit Arsenal",
-    "version": "1.03",
-    "hidden": true,
-    "author": "LaoHuaJi",
-    "lastUpdated": "2026-06-01T19:06:36Z",
-    "stars": 10,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod which allow customize player's unit via using existing contents."
   },
   {
     "repo": "cirrusisakey/arikoth",
@@ -3346,20 +3332,6 @@
     "description": "A co-op campaign mod for shared research. Players who joined the host can request research from the research screen, and the result is applied to the current campaign."
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Project Farstar (Cryon)",
-    "version": "24.4.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-11-07T02:31:00Z",
-    "stars": 5,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
-  },
-  {
     "repo": "itzmellory/advanced-redactor",
     "internalName": "advanced-editor",
     "name": " Advanced Editor ",
@@ -3386,6 +3358,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Project Farstar (Cryon)",
+    "version": "24.4.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-11-07T20:42:26Z",
+    "stars": 5,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
   },
   {
     "repo": "koctz34/canvases",
@@ -7630,6 +7616,20 @@
     "description": "Domain expansion — Lunarians v3.78.2 (client-only, PC + mobile).\n\nAutomação & construção\n• Auto Fill (beta) • Auto Drill • Auto Connect Conveyor • Conveyor Upgrade • Auto Container • Auto Set (config/slots)\n\nUnidades & combate\n• Auto Unit • Auto Attack • Auto Defence • Auto Shield • Auto Heal • Auto Unit Heal • Auto Cargo • Auto Dock • Auto Moon • Formations\n\nEconomia & recursos\n• Auto Economy • Resource Loss Warn • Production Alert • Energy Watch • Power Link • Miner Fix/Units • Used Area\n\nQualidade de vida & utilitários\n• FreeCam (beta) • Units Follow Camera (beta) • Schematic Placer/Panel • Proton Schematics • Enemy Core Alert • Weather Safe • Server Guard • Chat Commands\n\nSocial/Hub\n• Lunarians Hub: chat global, presença, recursos de hub.\n\nAutor: Ron | java mod | minGame 154 | hidden"
   },
   {
+    "repo": "sqwibles/drill-pump-chaining",
+    "internalName": "fluxweave",
+    "name": "Fluxweave",
+    "version": "1.8",
+    "hidden": false,
+    "author": "Ranii",
+    "lastUpdated": "2026-11-07T22:35:38Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Touching blocks work together as one; drills, pumps, reactors. A single input or output serves the whole line."
+  },
+  {
     "repo": "lorendoscsharp/tzarbimbajava",
     "internalName": "tzarbimbajava",
     "name": "tzarbimbajava",
@@ -8960,20 +8960,6 @@
     "description": "Runs one campaign sector per server instance, with a shared campaign folder (sector saves, sector info, research). Server-side only. Part of the multi-sector campaign setup."
   },
   {
-    "repo": "sqwibles/drill-pump-chaining",
-    "internalName": "drill-pump-chaining",
-    "name": "Drill & Pump Chaining",
-    "version": "1.1",
-    "hidden": false,
-    "author": "Ranii",
-    "lastUpdated": "2026-11-07T12:18:29Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Chained drills and chained pumps share their own respective item/liquid, so only one block in a chain needs an output. Optimized to reduce lag."
-  },
-  {
     "repo": "wu20100210/minecraft_on_mindustry",
     "internalName": "mc-on-mindustry",
     "name": "Minecraft_On_Mindustry",
@@ -8988,13 +8974,27 @@
     "description": "方块世界：Minecraft 的工具、武器、矿石、树木、生物与红石科技。Erekir 风格峡谷地形、五种生物群系、星球、核心、科技树、仓库、物流系统、兵工厂与雪傀儡/铁傀儡。"
   },
   {
+    "repo": "dragonfire2202/advanced-lighting-reworked",
+    "internalName": "advance-lighting",
+    "name": "Advance lighting",
+    "version": "v1.7.0",
+    "hidden": true,
+    "author": "EoD, Ported By: DragonFire",
+    "lastUpdated": "2026-11-07T19:50:34Z",
+    "stars": 0,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod adds a glow and bloom lighting system to Mindustry. Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects."
+  },
+  {
     "repo": "jovinull/vesper",
     "internalName": "vesper",
     "name": "Vesper",
     "version": "0.8.1-alpha",
     "hidden": false,
     "author": "Jovinull",
-    "lastUpdated": "2026-11-07T18:05:26Z",
+    "lastUpdated": "2026-11-07T20:37:23Z",
     "stars": 0,
     "minGameVersion": "160.7",
     "hasScripts": false,
