@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-11-08T11:26:18Z",
+    "lastUpdated": "2026-11-08T13:30:56Z",
     "stars": 74,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -370,7 +370,7 @@
     "version": "1.1 beta build-2.2",
     "hidden": false,
     "author": "Team Oct",
-    "lastUpdated": "2026-11-08T08:56:09Z",
+    "lastUpdated": "2026-11-08T18:38:57Z",
     "stars": 67,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1322,7 +1322,7 @@
     "version": "beta.3.81",
     "hidden": false,
     "author": "[yellow]Lao[gold]Mo[goldenrod]ze",
-    "lastUpdated": "2026-11-04T10:29:23Z",
+    "lastUpdated": "2026-11-08T15:00:32Z",
     "stars": 19,
     "minGameVersion": "160.1",
     "hasScripts": false,
@@ -2212,20 +2212,6 @@
     "description": "A mod that overhauls the difficulty selection mechanic with better visuals, more flexible and new unique settings.\n\nThanks to lu69159/MoreCustomSettings for the modifiers that persist for each planet and some other code."
   },
   {
-    "repo": "koctz34/modularis",
-    "internalName": "modularis",
-    "name": "Modularis",
-    "version": "0.4",
-    "hidden": false,
-    "author": "Ion - 7274",
-    "lastUpdated": "2026-10-15T15:21:25Z",
-    "stars": 9,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
-  },
-  {
     "repo": "coriummindustry/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2294,6 +2280,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
+  },
+  {
+    "repo": "koctz34/modularis",
+    "internalName": "modularis",
+    "name": "Modularis",
+    "version": "0.6",
+    "hidden": false,
+    "author": "Ion - 7274",
+    "lastUpdated": "2026-11-08T16:12:31Z",
+    "stars": 9,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
   },
   {
     "repo": "p101q/snowdustry",
@@ -3934,20 +3934,6 @@
     "description": "A simple json mod that aims to be a curated repository for Mindustry maps. Currently, the mod has [stat]50 maps[]. Maps are fully vanilla compatible.\n\n[stat]I asked permission from each map creator before including them in the mod, see github README for full list of credits.\n\n[grey]b0.4 Changelog:\n Added 'Tar Maar' & 'Twin Oxbow' by uio"
   },
   {
-    "repo": "tnmspiroct/mindustry-content-resprite",
-    "internalName": "tnmspr",
-    "name": "Mindustry Texture Packs",
-    "version": "0.9",
-    "hidden": true,
-    "author": "TnmSpiroct",
-    "lastUpdated": "2026-11-05T07:08:37Z",
-    "stars": 4,
-    "minGameVersion": "159.6",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Resprites some of serpulo sprites available on vanilla mindustry, work in progress."
-  },
-  {
     "repo": "determination-wind/patchviewer",
     "internalName": "patchviewer",
     "name": "PatchViewer / 补丁查看器",
@@ -3974,6 +3960,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Ark Of Rebirth or mod-AR is a mod that aim to extend the campaign by adding two more additional planets,now with comete reworks and resprites. Please note that the campaign is not tested yet after the rework and may not be playable."
+  },
+  {
+    "repo": "tnmspiroct/mindustry-content-resprite",
+    "internalName": "tnmspr",
+    "name": "Mindustry Texture Packs",
+    "version": "0.9",
+    "hidden": true,
+    "author": "TnmSpiroct",
+    "lastUpdated": "2026-11-08T13:50:35Z",
+    "stars": 4,
+    "minGameVersion": "159.6",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Resprites some of serpulo sprites available on vanilla mindustry, work in progress."
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -4536,20 +4536,6 @@
     "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n"
   },
   {
-    "repo": "annguyen2k8/mindustrypackloader",
-    "internalName": "mindustry-packloader",
-    "name": "PackLoader",
-    "version": "1.0.1",
-    "hidden": true,
-    "author": "Anzuno",
-    "lastUpdated": "2026-11-02T05:44:51Z",
-    "stars": 3,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[accent]Bulk import[] maps ([stat][]) and schematics ([stat][]) directly from ZIP archives or folders on Android and Desktop.\n\n[accent]Usage:[]\n[accent]1.[] [stat]Main Menu:[] [lightgray]Click [white]\"Pack Loader\"[] to open the loader dialog.[]\n[accent]2.[] [stat]Schematics / Maps:[] [lightgray]Click [white]\"Import .zip\"[] or [white]\"Scan Folder\"[] directly inside their respective dialogs.[]\n[accent]3.[] [stat]Workflow:[] [lightgray]Select Source -> Review items & Conflict policy -> Tap Import.[]\n\n[accent]Features:[]\n[stat] Bulk Import:[] [lightgray]Import dozens of maps and schematics from .zip packs or folders in one operation.[]\n[stat] Smart Conflict Handling:[] [lightgray]Choose how to resolve duplicate files ([white]Skip[], [white]Overwrite[], [white]Rename[]).[]\n[stat] Instant Hot-Reload:[] [lightgray]Automatically reloads game maps and schematics immediately without restarting Mindustry.[]\n[stat] Safe & Validated:[] [lightgray]Built-in Zip Slip protection, format header validation, and atomic writes.[]\n[stat] Mobile-Optimized:[] [lightgray]Touch-friendly UI, search filtering, and System File Picker ([white]SAF[]) support.[]\n[stat] Seamless Integration:[] [lightgray]Quick-access buttons in Main Menu, Schematics, Custom Game, and Map Editor.[]"
-  },
-  {
     "repo": "momiji142857/momijicrafterlib",
     "internalName": "momiji-lib",
     "name": "MomijiLib",
@@ -4660,6 +4646,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Quick bar + tabbed menu: help builders, build planner, auto mine (incl. wall ores), heal at repair point, speed boost, anti-grief with rebuild, overlays, mod-user detection."
+  },
+  {
+    "repo": "annguyen2k8/mindustrypackloader",
+    "internalName": "mindustry-packloader",
+    "name": "PackLoader",
+    "version": "1.0.1",
+    "hidden": true,
+    "author": "Anzuno",
+    "lastUpdated": "2026-11-08T14:18:33Z",
+    "stars": 3,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[accent]Bulk import[] maps ([stat][]) and schematics ([stat][]) directly from ZIP archives or folders on Android and Desktop.\n\n[accent]Usage:[]\n[accent]1.[] [stat]Main Menu:[] [lightgray]Click [white]\"Pack Loader\"[] to open the loader dialog.[]\n[accent]2.[] [stat]Schematics / Maps:[] [lightgray]Click [white]\"Import .zip\"[] or [white]\"Scan Folder\"[] directly inside their respective dialogs.[]\n[accent]3.[] [stat]Workflow:[] [lightgray]Select Source -> Review items & Conflict policy -> Tap Import.[]\n\n[accent]Features:[]\n[stat] Bulk Import:[] [lightgray]Import dozens of maps and schematics from .zip packs or folders in one operation.[]\n[stat] Smart Conflict Handling:[] [lightgray]Choose how to resolve duplicate files ([white]Skip[], [white]Overwrite[], [white]Rename[]).[]\n[stat] Instant Hot-Reload:[] [lightgray]Automatically reloads game maps and schematics immediately without restarting Mindustry.[]\n[stat] Safe & Validated:[] [lightgray]Built-in Zip Slip protection, format header validation, and atomic writes.[]\n[stat] Mobile-Optimized:[] [lightgray]Touch-friendly UI, search filtering, and System File Picker ([white]SAF[]) support.[]\n[stat] Seamless Integration:[] [lightgray]Quick-access buttons in Main Menu, Schematics, Custom Game, and Map Editor.[]"
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -7588,20 +7588,6 @@
     "description": "Make a beautiful world with feces."
   },
   {
-    "repo": "use-lessdev/devilized-lunarians-system",
-    "internalName": "lunarians",
-    "name": "Lunarians",
-    "version": "3.80.2",
-    "hidden": true,
-    "author": "Ron",
-    "lastUpdated": "2026-11-08T00:54:00Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Domain expansion — Lunarians v3.80.2 (client-only, PC + mobile).\n\nAutomação & construção\n• Auto Fill (beta) • Auto Drill • Auto Connect Conveyor • Conveyor Upgrade • Auto Container • Auto Set (config/slots)\n\nUnidades & combate\n• Auto Unit • Auto Attack (Rota inteligente: menos torres/caminho seguro, toggle) • Auto Defence • Auto Shield • Auto Heal • Auto Unit Heal • Auto Cargo • Auto Dock • Auto Moon • Formations\n\nEconomia & recursos\n• Auto Economy • Resource Loss Warn • Production Alert • Energy Watch • Power Link • Miner Fix/Units • Used Area\n\nQualidade de vida & utilitários\n• FreeCam (beta) • Units Follow Camera (beta) • Schematic Placer/Panel • Proton Schematics • Enemy Core Alert • Weather Safe • Server Guard • Chat Commands • Conversas entre unidades (EN): 5 por unidade (mantidas) + 5 únicas por par, com variação por parceiro; T1-T3 personalidade, T4-T5 sérias; toggle\n\nSocial/Hub\n• Lunarians Hub: chat global, presença, recursos de hub.\n\nAutor: Ron | java mod | minGame 154 | hidden"
-  },
-  {
     "repo": "xerxes-anominus/nevix",
     "internalName": "nevix",
     "name": "Nevix",
@@ -7616,32 +7602,46 @@
     "description": "Inspired by: Newex"
   },
   {
+    "repo": "newxaky/test",
+    "internalName": "show-hp",
+    "name": "Show HP",
+    "version": "1.0",
+    "hidden": false,
+    "author": "newex",
+    "lastUpdated": "2026-11-08T12:01:38Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hiển thị thanh máu cho đơn vị trong 5 giây sau khi bị thương, kèm hiệu ứng vỡ khi chết."
+  },
+  {
+    "repo": "use-lessdev/devilized-lunarians-system",
+    "internalName": "lunarians",
+    "name": "Lunarians",
+    "version": "3.81.1",
+    "hidden": true,
+    "author": "Ron",
+    "lastUpdated": "2026-11-08T12:58:29Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Domain expansion - Lunarians v3.81.1 (client-only, PC + mobile).\n\nAutomation & Building\n- Auto Fill (beta) - Auto Drill - Auto Connect Conveyor - Conveyor Upgrade - Auto Container - Auto Set (config/slots)\n\nUnits & Combat\n- Auto Unit - Auto Attack (Smart Path: fewer turrets/safer route to core, toggle; layer-by-layer formation) - Auto Defence - Auto Shield - Auto Heal - Auto Unit Heal - Auto Cargo - Auto Dock - Auto Moon - Formations\n\nEconomy & Resources\n- Auto Economy - Resource Loss Warn - Production Alert - Energy Watch - Power Link - Miner Fix/Units - Used Area\n\nQoL & Utilities\n- FreeCam (beta) - Units Follow Camera (beta) - Schematic Placer/Panel - Proton Schematics - Enemy Core Alert - Weather Safe - Server Guard - Chat Commands\n- Unit Conversations (EN, toggle): 5 per unit type (kept, longer) + 5 unique per pair for all combinations, partner variation; T1-T3 playful, T4-T5 serious; square speech bubbles; proximity/crowd/player-aware\n\nSocial/Hub\n- Lunarians Hub: global chat, presence, hub features.\n\nAuthor: Ron | Java mod | minGame 154 | hidden"
+  },
+  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
     "version": "0.2.2.1",
     "hidden": false,
     "author": "October",
-    "lastUpdated": "2026-11-08T08:43:04Z",
+    "lastUpdated": "2026-11-08T15:20:10Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
-    "repo": "sqwibles/drill-pump-chaining",
-    "internalName": "fluxweave",
-    "name": "Fluxweave",
-    "version": "1.9.1",
-    "hidden": false,
-    "author": "Ranii",
-    "lastUpdated": "2026-11-08T10:34:17Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Touching blocks work together as one; drills/pumps/factories/generators/reactors. A single input or output serves the whole line."
   },
   {
     "repo": "fat-bird-owner/gier-java-side",
@@ -7650,12 +7650,26 @@
     "version": "v1",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-11-08T12:29:01Z",
+    "lastUpdated": "2026-11-08T16:34:02Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "Java import of gier: revitalized."
+  },
+  {
+    "repo": "sqwibles/drill-pump-chaining",
+    "internalName": "fluxweave",
+    "name": "Fluxweave",
+    "version": "1.10.0",
+    "hidden": false,
+    "author": "Ranii",
+    "lastUpdated": "2026-11-08T17:23:59Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Touching blocks work together as one; drills/pumps/factories/generators/reactors. A single input or output serves the whole line."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8974,20 +8988,6 @@
     "description": "Record and replay your gameplay sessions in Mindustry. Telegram: @EnWelk. I didn't test it in multiplayer and with random unit logic. If you notice an error in the translation, please write to me. Movement playback on PC may have some inaccuracies. I'd appreciate it if you could let me know which unit missed its target and by approximately how much (e.g., one tile, half a tile, etc.)."
   },
   {
-    "repo": "jovinull/vesper",
-    "internalName": "vesper",
-    "name": "Vesper",
-    "version": "0.8.1-alpha",
-    "hidden": false,
-    "author": "Jovinull",
-    "lastUpdated": "2026-11-07T20:37:23Z",
-    "stars": 0,
-    "minGameVersion": "160.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A derelict machine-planet slowly wakes as its ancient industry runs again. Alpha build: the VESPER planet and its campaign (Play > Campaign, then VESPER). Chapter One, The Silent Basin: First Awakening, Resonance Fault and The Buried Foundry, linked by its own tech tree and the records you recover. Chapter Two opens with Deep Signal: below the basin, three relays of an ancient network must run at once, on power and resonance cores, through a synchronization. Central Control follows: split your grid between two ancient protocols, containment that holds the vents shut and recovery that brings the complex back, and reactivate it. The maps can also be played on their own (Play > Custom Game), and so can Resonance Works, a standalone map of the resonance industry: dynamos that burn resonance cores for power and containment fields that hold the pulses back."
-  },
-  {
     "repo": "wu20100210/minecraft_on_mindustry",
     "internalName": "minecraft-on-mindustry",
     "name": "Minecraft On Mindustry",
@@ -9000,20 +9000,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "方块世界：Minecraft 的工具、武器、矿石、树木、生物与红石科技。Erekir 风格峡谷地形、五种生物群系、星球、核心、科技树、仓库、物流系统、兵工厂与雪傀儡/铁傀儡。"
-  },
-  {
-    "repo": "newxaky/test",
-    "internalName": "show-hp",
-    "name": "Show HP",
-    "version": "1.0",
-    "hidden": false,
-    "author": "newex",
-    "lastUpdated": "2026-11-08T12:01:38Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hiển thị thanh máu cho đơn vị trong 5 giây sau khi bị thương, kèm hiệu ứng vỡ khi chết."
   },
   {
     "repo": "gghanera/mp-sectors",
@@ -9042,5 +9028,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod adds a glow and bloom lighting system to Mindustry. Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects."
+  },
+  {
+    "repo": "jovinull/vesper",
+    "internalName": "vesper",
+    "name": "Vesper",
+    "version": "0.8.1-alpha",
+    "hidden": false,
+    "author": "Jovinull",
+    "lastUpdated": "2026-11-08T14:41:50Z",
+    "stars": 0,
+    "minGameVersion": "160.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A derelict machine-planet slowly wakes as its ancient industry runs again. Alpha build: the VESPER planet and its campaign (Play > Campaign, then VESPER). Chapter One, The Silent Basin: First Awakening, Resonance Fault and The Buried Foundry, linked by its own tech tree and the records you recover. Chapter Two opens with Deep Signal: below the basin, three relays of an ancient network must run at once, on power and resonance cores, through a synchronization. Central Control follows: split your grid between two ancient protocols, containment that holds the vents shut and recovery that brings the complex back, and reactivate it. The maps can also be played on their own (Play > Custom Game), and so can Resonance Works, a standalone map of the resonance industry: dynamos that burn resonance cores for power and containment fields that hold the pulses back."
   }
 ]
