@@ -202,7 +202,7 @@
     "version": "4.3.7",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-11-08T23:35:32Z",
+    "lastUpdated": "2026-11-09T06:21:35Z",
     "stars": 134,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-11-09T02:56:15Z",
+    "lastUpdated": "2026-11-09T10:35:47Z",
     "stars": 74,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -496,7 +496,7 @@
     "version": "0.51",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-11-08T11:50:55Z",
+    "lastUpdated": "2026-11-09T13:55:59Z",
     "stars": 54,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -1966,7 +1966,7 @@
     "version": "101.5",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-11-07T21:33:30Z",
+    "lastUpdated": "2026-11-09T13:17:17Z",
     "stars": 11,
     "minGameVersion": "160.1",
     "hasScripts": true,
@@ -3394,7 +3394,7 @@
     "version": "1.0",
     "hidden": true,
     "author": "[#ffffff]⚠ X-Tree[] [#c7c7c7]and[] [#8f8f8f]VI Clan []",
-    "lastUpdated": "2026-11-09T04:55:13Z",
+    "lastUpdated": "2026-11-09T06:28:05Z",
     "stars": 5,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -3962,20 +3962,6 @@
     "description": "Native database and quick before/after diff viewer for Mindustry datapatches. / 保持原版数据库显示的数据补丁与快捷差异查看器。"
   },
   {
-    "repo": "justsharga/modar-sharga",
-    "internalName": "mod-ar",
-    "name": "Ark of Rebirth",
-    "version": "1.0",
-    "hidden": false,
-    "author": "sharga",
-    "lastUpdated": "2026-11-08T07:40:35Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Ark Of Rebirth or mod-AR is a mod that aim to extend the campaign by adding two more additional planets,now with comete reworks and resprites. Please note that the campaign is not tested yet after the rework and may not be playable."
-  },
-  {
     "repo": "tnmspiroct/mindustry-content-resprite",
     "internalName": "tnmspr",
     "name": "Mindustry Texture Packs",
@@ -3996,12 +3982,26 @@
     "version": "1.0.1",
     "hidden": true,
     "author": "Anzuno",
-    "lastUpdated": "2026-11-08T14:18:33Z",
+    "lastUpdated": "2026-11-09T14:52:50Z",
     "stars": 4,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent]Bulk import[] maps ([stat][]) and schematics ([stat][]) directly from ZIP archives or folders on Android and Desktop.\n\n[accent]Usage:[]\n[accent]1.[] [stat]Main Menu:[] [lightgray]Click [white]\"Pack Loader\"[] to open the loader dialog.[]\n[accent]2.[] [stat]Schematics / Maps:[] [lightgray]Click [white]\"Import .zip\"[] or [white]\"Scan Folder\"[] directly inside their respective dialogs.[]\n[accent]3.[] [stat]Workflow:[] [lightgray]Select Source -> Review items & Conflict policy -> Tap Import.[]\n\n[accent]Features:[]\n[stat] Bulk Import:[] [lightgray]Import dozens of maps and schematics from .zip packs or folders in one operation.[]\n[stat] Smart Conflict Handling:[] [lightgray]Choose how to resolve duplicate files ([white]Skip[], [white]Overwrite[], [white]Rename[]).[]\n[stat] Instant Hot-Reload:[] [lightgray]Automatically reloads game maps and schematics immediately without restarting Mindustry.[]\n[stat] Safe & Validated:[] [lightgray]Built-in Zip Slip protection, format header validation, and atomic writes.[]\n[stat] Mobile-Optimized:[] [lightgray]Touch-friendly UI, search filtering, and System File Picker ([white]SAF[]) support.[]\n[stat] Seamless Integration:[] [lightgray]Quick-access buttons in Main Menu, Schematics, Custom Game, and Map Editor.[]"
+  },
+  {
+    "repo": "justsharga/modar-sharga",
+    "internalName": "mod-ar",
+    "name": "Ark of Rebirth",
+    "version": "1.0",
+    "hidden": false,
+    "author": "sharga",
+    "lastUpdated": "2026-11-09T15:21:37Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Ark Of Rebirth or mod-AR is a mod that aim to extend the campaign by adding two more additional planets,now with comete reworks and resprites. Please note that the campaign is not tested yet after the rework and may not be playable."
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -5628,20 +5628,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "nikitos-f/signaturew",
-    "internalName": "signaturew",
-    "name": "Signature W",
-    "version": "X.1.1",
-    "hidden": false,
-    "author": "Creen & -Arlekino-",
-    "lastUpdated": "2026-11-03T16:29:09Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "RU: мод, ориентированный на долгое и тяжелое пвп, играющееся от глухой обороны и сильное промышленности (В будущем)\n\n\nEN: A mod focused on long and heavy PVP, played from a blind defense and a strong industry (In distant future)\n\n\n\nВступайте в наш дискорд \nJoin our discord server\n\nhttps://discord.gg/AsHckERqCW"
-  },
-  {
     "repo": "oleksiy1409liut/oleksiysstuff",
     "internalName": "oleksiyresprites",
     "name": "oleksiy's stuff",
@@ -5738,6 +5724,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Red Alert 2 battlefield announcer with the original Sophia (Zofia) voice: waves, base alerts, rally and core-threat detection, manual control marking, unit/building loss reports with callout names, production and high-value target alerts, plus a right-side event feed. 红警2索菲亚语音战场播报:波次/基地警报、敌方集结与核心威胁、单控标点、带具体类别的损失与生产播报、右侧事件卡片。"
+  },
+  {
+    "repo": "nikitos-f/signaturew",
+    "internalName": "signaturew",
+    "name": "Signature W",
+    "version": "X.1.1",
+    "hidden": false,
+    "author": "Creen & -Arlekino-",
+    "lastUpdated": "2026-11-09T10:00:15Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "RU: мод, ориентированный на долгое и тяжелое пвп, играющееся от глухой обороны и сильное промышленности (В будущем)\n\n\nEN: A mod focused on long and heavy PVP, played from a blind defense and a strong industry (In distant future)\n\n\n\nВступайте в наш дискорд \nJoin our discord server\n\nhttps://discord.gg/AsHckERqCW"
   },
   {
     "repo": "lehanchic/factory-units",
@@ -7630,20 +7630,6 @@
     "description": "Touching blocks work together as one; drills/pumps/factories/generators/reactors. A single input or output serves the whole line."
   },
   {
-    "repo": "newxaky/test",
-    "internalName": "show-hp",
-    "name": "Show HP",
-    "version": "1.0",
-    "hidden": false,
-    "author": "newex",
-    "lastUpdated": "2026-11-09T00:42:36Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hiển thị thanh máu cho đơn vị trong 5 giây sau khi bị thương, kèm hiệu ứng vỡ khi chết."
-  },
-  {
     "repo": "use-lessdev/devilized-lunarians-system",
     "internalName": "lunarians",
     "name": "Lunarians",
@@ -7658,32 +7644,32 @@
     "description": "Domain expansion - Lunarians v3.81.4 (client-only, PC + mobile).\n\nAutomation & Building\n- Auto Fill (beta) - Auto Drill - Auto Connect Conveyor - Conveyor Upgrade - Auto Container - Auto Set (config/slots)\n\nUnits & Combat\n- Auto Unit - Auto Attack (Smart Path: fewer turrets/safer route to core, toggle; layer-by-layer formation with configurable delay) - Formations: Line, Arc, Ring, Triangle, Diamond, Box, Chevron - Auto Defence - Auto Shield - Auto Heal - Auto Unit Heal - Auto Cargo - Auto Dock - Auto Moon - Formations\n\nEconomy & Resources\n- Auto Economy - Resource Loss Warn - Production Alert - Energy Watch - Power Link - Miner Fix/Units - Used Area\n\nQoL & Utilities\n- FreeCam (beta) - Units Follow Camera (beta) - Schematic Placer/Panel - Proton Schematics - Enemy Core Alert - Weather Safe - Server Guard - Chat Commands\n- Unit Conversations (EN, toggle): 5 per unit type (kept, longer) + 5 unique per pair for all combinations, partner variation; T1-T3 playful, T4-T5 serious; square speech bubbles; proximity/crowd/player-aware\n\nSocial/Hub\n- Lunarians Hub: global chat, presence, hub features.\n\nAuthor: Ron | Java mod | minGame 154 | hidden"
   },
   {
-    "repo": "xerxes-anominus/nevix",
-    "internalName": "nevix",
-    "name": "Nevix",
-    "version": "Beta: 0.1.0",
+    "repo": "newxaky/test",
+    "internalName": "show-hp",
+    "name": "Show HP",
+    "version": "1.0",
     "hidden": false,
-    "author": "[#9B59D0]X[#B56BE8]e[#D86FEA]a[#FF69B4]n[]",
-    "lastUpdated": "2026-11-09T02:57:34Z",
+    "author": "newex",
+    "lastUpdated": "2026-11-09T07:13:27Z",
     "stars": 1,
-    "minGameVersion": "160",
+    "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Inspired by: Newex"
+    "description": "Hiển thị thanh máu cho đơn vị trong 5 giây sau khi bị thương, kèm hiệu ứng vỡ khi chết."
   },
   {
-    "repo": "fat-bird-owner/gier-java-side",
-    "internalName": "gier-java",
-    "name": "Gier: Java Side",
-    "version": "v1",
+    "repo": "donatodiaz/mindustry-ai-player",
+    "internalName": "ai-player",
+    "name": "AI Player",
+    "version": "0.9.6",
     "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-11-09T03:00:58Z",
+    "author": "donatodiaz",
+    "lastUpdated": "2026-11-09T09:29:32Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Java import of gier: revitalized."
+    "description": "Adds a second AI-piloted player (AI-1) and a fair autonomous co-pilot for Mindustry v8.\n\nFeatures:\n- AI-1 is a real Player entity with a name, unit and respawn, controlled by AI.\n- Miners, builders and army are spawned with real resource costs (no cheats).\n- Dynamic support for Exogenesis and New Horizon content.\n- Smart construction roles: economy, defense, power and attack.\n- Generated power, defense and powered-turret schematics; your own .msch schematics are supported through role folders.\n- Sustainable-resource checks: skips content requiring absent ore or production.\n- Optional PC-only local LLM through Ollama with RAG strategy files.\n- Natural-language orders: order построй больше турелей, order атакуй врага.\n- Compact collapsible HUD, in-game AI command console, self-learning and cleanup.\n- Outpost expansion and optional campaign sector auto-launch.\n\nCommands: /ai, /ai status, /ai calc, /ai order <текст>, /ai ask <вопрос>, /ai demolish here, /ai llm on|off, /ai setup.\n\nMIT licensed. Source: https://github.com/DonatoDiaz/mindustry-ai-player"
   },
   {
     "repo": "ranii-reprograms/alterra",
@@ -7692,12 +7678,40 @@
     "version": "1.0",
     "hidden": false,
     "author": "Ranii",
-    "lastUpdated": "2026-11-09T04:26:12Z",
+    "lastUpdated": "2026-11-09T12:52:03Z",
     "stars": 1,
     "minGameVersion": "160.7",
     "hasScripts": false,
     "hasJava": true,
     "description": "Configurable editing tool for the Map Editor."
+  },
+  {
+    "repo": "fat-bird-owner/gier-java-side",
+    "internalName": "gier-java",
+    "name": "Gier: Java Side",
+    "version": "v1",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-11-09T14:15:16Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java import of gier: revitalized."
+  },
+  {
+    "repo": "xerxes-anominus/nevix",
+    "internalName": "nevix",
+    "name": "Nevix",
+    "version": "Beta: 0.1.0",
+    "hidden": false,
+    "author": "[#9B59D0]X[#B56BE8]e[#D86FEA]a[#FF69B4]n[]",
+    "lastUpdated": "2026-11-09T15:21:33Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Inspired by: Newex"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -9030,20 +9044,6 @@
     "description": "方块世界：Minecraft 的工具、武器、矿石、树木、生物与红石科技。Erekir 风格峡谷地形、五种生物群系、星球、核心、科技树、仓库、物流系统、兵工厂与雪傀儡/铁傀儡。"
   },
   {
-    "repo": "gghanera/mp-sectors",
-    "internalName": "mp-sectors",
-    "name": "MP Sectors",
-    "version": "0.3.2",
-    "hidden": true,
-    "author": "GGhanera",
-    "lastUpdated": "2026-11-08T12:46:44Z",
-    "stars": 0,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Runs one campaign sector per server instance, with a shared campaign folder (sector saves, sector info, research). Server-side only. Part of the multi-sector campaign setup."
-  },
-  {
     "repo": "dragonfire2202/advanced-lighting-reworked",
     "internalName": "advance-lighting",
     "name": "Advance lighting",
@@ -9070,5 +9070,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A derelict machine-planet slowly wakes as its ancient industry runs again. Alpha build: the VESPER planet and its campaign (Play > Campaign, then VESPER). Chapter One, The Silent Basin: First Awakening, Resonance Fault and The Buried Foundry, linked by its own tech tree and the records you recover. Chapter Two opens with Deep Signal: below the basin, three relays of an ancient network must run at once, on power and resonance cores, through a synchronization. Central Control follows: split your grid between two ancient protocols, containment that holds the vents shut and recovery that brings the complex back, and reactivate it. The maps can also be played on their own (Play > Custom Game), and so can Resonance Works, a standalone map of the resonance industry: dynamos that burn resonance cores for power and containment fields that hold the pulses back."
+  },
+  {
+    "repo": "gghanera/mp-sectors",
+    "internalName": "mp-sectors",
+    "name": "MP Sectors",
+    "version": "0.3.4",
+    "hidden": true,
+    "author": "GGhanera",
+    "lastUpdated": "2026-11-09T14:23:38Z",
+    "stars": 0,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Runs one campaign sector per server instance, with a shared campaign folder (sector saves, sector info, research). Server-side only. Part of the multi-sector campaign setup."
   }
 ]
