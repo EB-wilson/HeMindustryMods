@@ -356,7 +356,7 @@
     "version": "0.95",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-11-11T12:32:44Z",
+    "lastUpdated": "2026-11-11T13:57:08Z",
     "stars": 74,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -483,7 +483,7 @@
     "hidden": false,
     "author": "Nullotte",
     "lastUpdated": "2026-10-23T21:38:46Z",
-    "stars": 55,
+    "stars": 54,
     "minGameVersion": "160.5",
     "hasScripts": false,
     "hasJava": true,
@@ -608,7 +608,7 @@
     "version": "2.4.5",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-11-05T16:42:05Z",
+    "lastUpdated": "2026-11-11T20:19:27Z",
     "stars": 45,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -4634,20 +4634,6 @@
     "description": "组合工厂QQ群:973942058\n1.2 组合普通工厂/地形加成工厂/分离机/普通钻头/挖墙钻头（含震地钻头），支持跨模组覆盖（关闭模组后原版建筑需重新解锁）\n1.3 组合发电机\n1.4 组合力墙、修复投影、超速投影、发射台\n1.5 组合仓库\n1.6 组合泵、接收台、挖墙钻\n1.7 组合逻辑处理器，蓝图里的建筑也会被替换为组合建筑\n1.8 组合炮台、组合抽水机、组合墙\n1.9 支持过剧情\n2.0 核心机多线程建造\n2.1 组合单位工厂、组合单位升级厂\n2.2 每种物品、每种液体各自独立储存（不再共用一份总量）；发电机燃料消耗与原版一致、不再一次吞掉多个燃料；组合仓库连通核心时给核心扩容；物品外送改为每 tick 一次（塞得满传送带/管道）；联机时建造菜单里的组合建筑不再消失\n2.3 新增协作组合：继承原版类、自己写了新功能的方块（js 与 java 子类）也能组合 —— 物品/液体/容量/电力/热量共享，支持跨类型组合，中间产物留在组内，点击方块可在其正上方查看整组内容；新增组合连接器与组合节点：同样能组合 js/java 子类与组合方块，支持节点激光跨距离连接，接起来的组合体共用一份库存、容量与信息面板都按整张网络算；建造武器按 E 可停掉全部线程、并优先去帮正在施工的建筑；放置组合节点时会标出可连接的组合体\n2.4更了组合石油钻井，修了一点东西\n2.5 设置里可按名字搜索、逐个开关「协作组合」（js/java 功能扩展建筑），开关立刻生效；核反应堆的发电效率按核反应堆自己的容量算（组合里塞了大容量建筑也不需要多喂燃料），效率上限 100%；组合节点不再自动连线（放下后要连谁得自己点），点已连目标即断开；组合墙血池的修复量按整组算，修复投影能把整组修满（不再一直显示破损）；修废墟时蓝图框里的建筑会被立刻全部重建；组合节点与组合连接器也能给被替换的组合建筑接上完整组合功能（组合墙接上就共享血量、拆线即拆组）；矿渣制热机等产热机对外只报自己那一份热量（多台并排不会被重复计入）；修好 Erekir 发射核心时误要铜/铅（星球默认核心没跟着换成组合核心 新增液体卸载器（从相邻建筑抽选定的液体倒给下游）。组合连接器、组合节点、液体卸载器进了塞普罗与埃里克尔两棵科技树：塞普罗用铜铅（卸载器加钢化玻璃），埃里克尔用铍钨氧化物，研究解锁；组合节点可以互相连线接力，把组合范围延伸出去\n2.6更新:组合单位\n2.7更新:炮台合体，组合单位独立\n2.8.3更新:①工厂组合（跟组合炮台一样，尽量不要太乱，串料不太好解决），②钻头组合/矿物阴影（选取需要的矿物范围之后会自动打上阴影，钻头放上去会自动排序。且每个矿物点属于一个钻头，并且满载运行）③传送带组合/叠加（建造一遍传送带后，在原本传送带上面可额外再建造4层［满5层］建造的层数会在左下角显示出来）！以上3点更新所有建造后拆除不会返还任何资源，谨慎建造"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.9",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-11-10T18:11:31Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "dark-matter-yt/mobile-tool",
     "internalName": "mobile-tools",
     "name": "Mobile Tools",
@@ -4660,6 +4646,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Quick bar + tabbed menu: help builders, build planner, auto mine, auto Heal, speed boost, anti-grief with rebuild, overlays, and user detection."
+  },
+  {
+    "repo": "nikitos-f/signaturew",
+    "internalName": "signaturew",
+    "name": "Signature W",
+    "version": "X.1.1.A",
+    "hidden": false,
+    "author": "Creen & -Arlekino-",
+    "lastUpdated": "2026-11-11T15:18:21Z",
+    "stars": 3,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "RU: мод, ориентированный на долгое и тяжелое пвп, играющееся от глухой обороны и сильное промышленности (В будущем)\n\n\nEN: A mod focused on long and heavy PVP, played from a blind defense and a strong industry (In distant future)\n\n\n\nВступайте в наш дискорд \nJoin our discord server\n\nhttps://discord.gg/AsHckERqCW"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.9",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-11-11T20:24:44Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5724,20 +5738,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a second AI-piloted player (AI-1) and a fair autonomous co-pilot for Mindustry v8.\n\nFeatures:\n- AI-1 is a real Player entity with a name, unit and respawn, controlled by AI.\n- Miners, builders and army are spawned with real resource costs (no cheats).\n- Dynamic support for Exogenesis and New Horizon content.\n- Smart construction roles: economy, defense, power and attack.\n- Generated power, defense and powered-turret schematics; your own .msch schematics are supported through role folders.\n- Sustainable-resource checks: skips content requiring absent ore or production.\n- Optional PC-only local LLM through Ollama with RAG strategy files.\n- Natural-language orders: order построй больше турелей, order атакуй врага.\n- Compact collapsible HUD, in-game AI command console, self-learning and cleanup.\n- Outpost expansion and optional campaign sector auto-launch.\n\nCommands: /ai, /ai status, /ai calc, /ai order <текст>, /ai ask <вопрос>, /ai demolish here, /ai llm on|off, /ai setup.\n\nMIT licensed. Source: https://github.com/DonatoDiaz/mindustry-ai-player"
-  },
-  {
-    "repo": "nikitos-f/signaturew",
-    "internalName": "signaturew",
-    "name": "Signature W",
-    "version": "X.1.1",
-    "hidden": false,
-    "author": "Creen & -Arlekino-",
-    "lastUpdated": "2026-11-09T10:00:15Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "RU: мод, ориентированный на долгое и тяжелое пвп, играющееся от глухой обороны и сильное промышленности (В будущем)\n\n\nEN: A mod focused on long and heavy PVP, played from a blind defense and a strong industry (In distant future)\n\n\n\nВступайте в наш дискорд \nJoin our discord server\n\nhttps://discord.gg/AsHckERqCW"
   },
   {
     "repo": "lehanchic/factory-units",
@@ -7448,20 +7448,6 @@
     "description": "Хранилище с автозабором предметов из ядра. Модули ёмкости и скорости, узлы связи, три стадии игры."
   },
   {
-    "repo": "akilis81x/fenadi",
-    "internalName": "fenadi",
-    "name": "Fenadi",
-    "version": "0.1",
-    "hidden": false,
-    "author": "Akilis81",
-    "lastUpdated": "2026-10-29T12:46:15Z",
-    "stars": 1,
-    "minGameVersion": "154.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
-  },
-  {
     "repo": "hamafx/autodrill-mobile",
     "internalName": "auto-drill-mobile",
     "name": "AutoDrill",
@@ -7644,34 +7630,6 @@
     "description": "Configurable editing tool for the Map Editor."
   },
   {
-    "repo": "sqwibles/drill-pump-chaining",
-    "internalName": "fluxweave",
-    "name": "Fluxweave",
-    "version": "1.11.1",
-    "hidden": false,
-    "author": "Ranii",
-    "lastUpdated": "2026-11-10T10:34:20Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Touching blocks work together as one; drills/pumps/factories/generators/reactors. A single input or output serves the whole line.\n\nv1.10.0 - Balance update\nDrill and pump capacities lowered from 150 to their vanilla values (e.g. pneumatic drill = 10) to keep them balanced.\n\nv1.9.1 - Hotfix\nFixed long chains of factories (more than 5) not fully emptying through a single output. Products now drain toward the factory touching an output, so the far end empties too. If the output is removed or blocked for a while, the chain spreads evenly again and recovers when another output line is connected. One output line can only carry so much, so use a faster line if a chain backs up.\n\nv1.9\nReactors: touching reactors balance their coolant, so one conduit feeds the whole row. Fuel is never moved.\nFactories: touching factories of the same type share inputs and outputs, so one pipe, conveyor and output line serve a whole row.\nDrills: boost liquid like water is now shared along the chain.\nFixed a crash on Android and drills' outputs getting stuck next to walls.\n\nv1.11.0\nTurrets: touching turrets of the same type share coolant, so one conduit cools a whole arsenal of turrets, except ammo, they still need seperate ammo inputs.\nConveyors can now pass items through any drill in a chain, and those items flow to the chain's exit."
-  },
-  {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-11-10T15:48:52Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -7686,34 +7644,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "fat-bird-owner/gier-java-side",
-    "internalName": "gier-java",
-    "name": "Gier: Java Side",
-    "version": "v1",
-    "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-11-11T13:08:24Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java import of gier: revitalized."
-  },
-  {
-    "repo": "use-lessdev/devilized-lunarians-system",
-    "internalName": "lunarians",
-    "name": "Lunarians",
-    "version": "3.82.0",
-    "hidden": true,
-    "author": "Ron",
-    "lastUpdated": "2026-11-11T13:23:02Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Domain expansion - Lunarians v3.82.0 (client-only, PC + mobile).\n\nAutomation & Building\n- Auto Fill (beta) - Auto Drill - Auto Connect Conveyor - Conveyor Upgrade - Auto Container - Auto Set (config/slots)\n\nUnits & Combat\n- Auto Unit - Auto Attack (Smart Path: fewer turrets/safer route to core, toggle; layer-by-layer formation with configurable delay) - Formations: Line, Arc, Ring, Triangle, Diamond, Box, Chevron - Auto Defence - Auto Shield - Auto Heal - Auto Unit Heal - Auto Cargo - Auto Dock - Auto Moon - Formations\n\nEconomy & Resources\n- Auto Economy - Resource Loss Warn - Production Alert - Energy Watch - Power Link - Miner Fix/Units - Used Area\n\nQoL & Utilities\n- FreeCam (beta) - Units Follow Camera (beta) - Schematic Placer/Panel - Proton Schematics - Enemy Core Alert - Weather Safe - Server Guard - Chat Commands\n- Unit Conversations (EN, toggle): 5 per unit type (kept, longer) + 5 unique per pair for all combinations, partner variation; T1-T3 playful, T4-T5 serious; square speech bubbles; proximity/crowd/player-aware\n\nSocial/Hub\n- Lunarians Hub: global chat, presence, hub features.\n\nAuthor: Ron | Java mod | minGame 154 | hidden"
-  },
-  {
     "repo": "xerxes-anominus/nevix",
     "internalName": "nevix",
     "name": "Nevix",
@@ -7726,6 +7656,76 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Inspired by: Newex"
+  },
+  {
+    "repo": "akilis81x/fenadi",
+    "internalName": "fenadi",
+    "name": "Fenadi",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Akilis81",
+    "lastUpdated": "2026-11-11T14:20:08Z",
+    "stars": 1,
+    "minGameVersion": "154.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
+  },
+  {
+    "repo": "use-lessdev/devilized-lunarians-system",
+    "internalName": "lunarians",
+    "name": "Lunarians",
+    "version": "3.82.0",
+    "hidden": true,
+    "author": "Ron",
+    "lastUpdated": "2026-11-11T14:48:20Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Domain expansion - Lunarians v3.82.0 (client-only, PC + mobile).\n\nAutomation & Building\n- Auto Fill (beta) - Auto Drill - Auto Connect Conveyor - Conveyor Upgrade - Auto Container - Auto Set (config/slots)\n\nUnits & Combat\n- Auto Unit - Auto Attack (Smart Path: fewer turrets/safer route to core, toggle; layer-by-layer formation with configurable delay) - Formations: Line, Arc, Ring, Triangle, Diamond, Box, Chevron - Auto Defence - Auto Shield - Auto Heal - Auto Unit Heal - Auto Cargo - Auto Dock - Auto Moon - Formations\n\nEconomy & Resources\n- Auto Economy - Resource Loss Warn - Production Alert - Energy Watch - Power Link - Miner Fix/Units - Used Area\n\nQoL & Utilities\n- FreeCam (beta) - Units Follow Camera (beta) - Schematic Placer/Panel - Proton Schematics - Enemy Core Alert - Weather Safe - Server Guard - Chat Commands\n- Unit Conversations (EN, toggle): 5 per unit type (kept, longer) + 5 unique per pair for all combinations, partner variation; T1-T3 playful, T4-T5 serious; square speech bubbles; proximity/crowd/player-aware\n\nSocial/Hub\n- Lunarians Hub: global chat, presence, hub features.\n\nAuthor: Ron | Java mod | minGame 154 | hidden"
+  },
+  {
+    "repo": "fat-bird-owner/gier-java-side",
+    "internalName": "gier-java",
+    "name": "Gier: Java Side",
+    "version": "v1",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-11-11T15:30:00Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java import of gier: revitalized."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-11-11T16:03:03Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "gghanera/mp-sectors",
+    "internalName": "mp-sectors",
+    "name": "MP Sectors",
+    "version": "0.6.8",
+    "hidden": true,
+    "author": "GGhanera",
+    "lastUpdated": "2026-11-11T19:39:19Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Runs one campaign sector per server instance, with a shared campaign folder (sector saves, sector info, research). Server-side only. Part of the multi-sector campaign setup."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -9070,19 +9070,5 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Shows the total resource cost of all blocks you have placed but not yet built (waiting for construction)."
-  },
-  {
-    "repo": "gghanera/mp-sectors",
-    "internalName": "mp-sectors",
-    "name": "MP Sectors",
-    "version": "0.6.0",
-    "hidden": true,
-    "author": "GGhanera",
-    "lastUpdated": "2026-11-11T13:26:51Z",
-    "stars": 0,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Runs one campaign sector per server instance, with a shared campaign folder (sector saves, sector info, research). Server-side only. Part of the multi-sector campaign setup."
   }
 ]
