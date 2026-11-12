@@ -370,7 +370,7 @@
     "version": "1.1 beta build-2.2",
     "hidden": false,
     "author": "Team Oct",
-    "lastUpdated": "2026-11-11T06:33:21Z",
+    "lastUpdated": "2026-11-12T19:26:05Z",
     "stars": 67,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -496,7 +496,7 @@
     "version": "0.51",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-11-09T13:55:59Z",
+    "lastUpdated": "2026-11-12T16:40:40Z",
     "stars": 54,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -608,7 +608,7 @@
     "version": "2.4.5",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-11-11T20:19:27Z",
+    "lastUpdated": "2026-11-12T19:57:42Z",
     "stars": 45,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -2128,6 +2128,20 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
+    "repo": "koctz34/modularis",
+    "internalName": "modularis",
+    "name": "Modularis",
+    "version": "0.6",
+    "hidden": false,
+    "author": "Ion - 7274",
+    "lastUpdated": "2026-11-08T16:12:31Z",
+    "stars": 10,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
+  },
+  {
     "repo": "i-hope1/mod.make",
     "internalName": "mod make",
     "name": "mod.make",
@@ -2266,20 +2280,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
-  },
-  {
-    "repo": "koctz34/modularis",
-    "internalName": "modularis",
-    "name": "Modularis",
-    "version": "0.6",
-    "hidden": false,
-    "author": "Ion - 7274",
-    "lastUpdated": "2026-11-08T16:12:31Z",
-    "stars": 9,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
   },
   {
     "repo": "huanxefh/lovecraftian-laboratory",
@@ -2492,20 +2492,6 @@
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
   },
   {
-    "repo": "undefined-1026/mindustry_multidimensionalmod",
-    "internalName": "mdimension",
-    "name": "Multi Dimensional",
-    "version": "0.2.1",
-    "hidden": false,
-    "author": "Bilibili:arknights player / Github:undefined-1026",
-    "lastUpdated": "2026-10-08T07:56:29Z",
-    "stars": 8,
-    "minGameVersion": "160.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A to be produced mod"
-  },
-  {
     "repo": "sharlottes/mlogwatcher",
     "internalName": "mlogwatcher",
     "name": "MlogWatcher",
@@ -2574,6 +2560,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-11-08[white]"
+  },
+  {
+    "repo": "undefined-1026/mindustry_multidimensionalmod",
+    "internalName": "mdimension",
+    "name": "Multi Dimensional",
+    "version": "0.2.1",
+    "hidden": false,
+    "author": "Bilibili:arknights player / Github:undefined-1026",
+    "lastUpdated": "2026-11-12T13:36:01Z",
+    "stars": 8,
+    "minGameVersion": "160.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A to be produced mod"
   },
   {
     "repo": "mitemi/blastanium",
@@ -2812,6 +2812,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod themed around game: Corebound by Overcurve\n\nOriginally supposed to be an april fools version of Buried In Ice but i fucked up with deadlines\n\n\nWARNING: Mod is not going to explain its own mechanics directly so... READ THE DAMN DESCRIPTIONS OF BLOCKS please...\n"
+  },
+  {
+    "repo": "nikitos-f/signaturew",
+    "internalName": "signaturew",
+    "name": "Signature W",
+    "version": "X.1.1.A",
+    "hidden": false,
+    "author": "Creen & -Arlekino-",
+    "lastUpdated": "2026-11-11T15:18:21Z",
+    "stars": 7,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "RU: мод, ориентированный на долгое и тяжелое пвп, играющееся от глухой обороны и сильное промышленности (В будущем)\n\n\nEN: A mod focused on long and heavy PVP, played from a blind defense and a strong industry (In distant future)\n\n\n\nВступайте в наш дискорд \nJoin our discord server\n\nhttps://discord.gg/AsHckERqCW"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -3388,20 +3402,6 @@
     "description": "[#ffffff] Adv[][#e3e3e3]anced[] [#c7c7c7]Map[] [#ababab]Edi[][#8f8f8f]tor []\n\n[#e6e6e6] Next-generation complex terrain synthesis and advanced mapmaker tools[]\n[#cccccc]Maps created with this modification are[] [#ffffff]fully compatible with the original game []\n\n[#ffffff] Fea[][#c7c7c7]tu[][#8f8f8f]res:[]\n\n[#ffffff]- Adv[][#e3e3e3]anced[] [#ababab]Generators[] [#8f8f8f] -[]\n[#b3b3b3]Generators for terrain (noise, octaves, falloff, tilt, distortion), water (shallow water, shoals, depth warping), ruins (scatter and structures with rooms, corridors, and step configuration), and block rotation.[]\n\n[#ffffff]- Ter[][#e3e3e3]rain[] [#ababab]Clipboard and Schematics[] [#8f8f8f] -[]\n[#b3b3b3]Selection, copying, cutting, pasting, rotation, and flipping of terrain areas. Saving terrain templates, rectangular and shaped brushes, cliff editor, and strict 45-degree lines.[]\n\n[#ffffff]- Map[] [#e3e3e3]Art[] [#ababab]and Stencils[] [#8f8f8f] -[]\n[#b3b3b3]Converting images into structures made of terrain or colored blocks. Overlaying semi-transparent stencils on top of the map for accurate drawing.[]\n\n[#ffffff]- Rem[][#e3e3e3]oving[] [#ababab]Size Limits[] [#8f8f8f] -[]\n[#b3b3b3]The built-in unlocker module completely removes standard limits on the minimum and maximum size of created maps.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] Про[][#e3e3e3]двину[][#c7c7c7]тый[] [#ababab]Редак[][#8f8f8f]тор Карт []\n\n[#e6e6e6] Синтез сложного рельефа нового поколения и расширенные инструменты создателя карт[]\n[#cccccc]Карты, созданные с этой модификацией,[] [#ffffff]полностью совместимы с оригинальной игрой []\n\n[#ffffff] Осо[][#c7c7c7]бенно[][#8f8f8f]сти:[]\n\n[#ffffff]- Про[][#e3e3e3]двинутые[] [#ababab]Генераторы[] [#8f8f8f] -[]\n[#b3b3b3]Генераторы рельефа (шум, октавы, спад, наклон, искажение), воды (мелководье, отмели, искривление глубины), руин (разброс и структуры с комнатами, коридорами и настройкой шагов) и вращения блоков.[]\n\n[#ffffff]- Буф[][#e3e3e3]ер[] [#ababab]Ландшафта и Схемы[] [#8f8f8f] -[]\n[#b3b3b3]Выделение, копирование, вырезание, вставка, поворот и отражение участков местности. Сохранение шаблонов рельефа, прямоугольные и фигурные кисти, редактор скал и линии строго под 45 градусов.[]\n\n[#ffffff]- Кар[][#e3e3e3]тины на[] [#ababab]Карте и Трафареты[] [#8f8f8f] -[]\n[#b3b3b3]Преобразование изображений в постройки из ландшафта или цветных блоков. Наложение полупрозрачных трафаретов поверх карты для точной отрисовки.[]\n\n[#ffffff]- Сня[][#e3e3e3]тие[] [#ababab]Ограничений Размера[] [#8f8f8f] -[]\n[#b3b3b3]Встроенный модуль разблокировки полностью убирает стандартные лимиты на минимальный и максимальный размер создаваемых карт.[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff] 高级[][#e3e3e3]地图[][#c7c7c7]编辑[][#ababab]器[][#8f8f8f] []\n\n[#e6e6e6] 新一代复杂地形合成与扩展地图制作工具[]\n[#cccccc]使用此模组创建的地图[] [#ffffff]与原版游戏完全兼容 []\n\n[#ffffff] 功[][#c7c7c7]能特[][#8f8f8f]点：[]\n\n[#ffffff]- 高级[][#e3e3e3]生成[] [#ababab]器[] [#8f8f8f] -[]\n[#b3b3b3]包含地形（噪声、八度、衰减、倾斜、扭曲）、水域（浅水、浅滩、深度扭曲）、废墟（散布模式以及带有房间、走廊和步骤设置的结构）与方块旋转生成器。[]\n\n[#ffffff]- 地形[][#e3e3e3]剪贴板[] [#ababab]与蓝图[] [#8f8f8f] -[]\n[#b3b3b3]支持地形区域的框选、复制、剪切、粘贴、旋转与翻转。支持保存地形模板，提供矩形与形状画笔、悬崖编辑器以及严格 45 度角直线。[]\n\n[#ffffff]- 地图[][#e3e3e3]画与[] [#ababab]参考模板[] [#8f8f8f] -[]\n[#b3b3b3]将图像转换为由地形或彩色方块构成的建筑。在地图上方叠加半透明参考模板以进行精确绘制。[]\n\n[#ffffff]- 解除[][#e3e3e3]尺寸[] [#ababab]限制[] [#8f8f8f] -[]\n[#b3b3b3]内置解锁模块彻底移除了创建地图时的最小与最大标准尺寸限制。[]\n\n[#ffffff]───────[][#e3e3e3]───────[][#c7c7c7]───  ───[][#ababab]───────[][#8f8f8f]───────[]\n\n[#ffffff]⚠ Glo[][#e3e3e3]ry to[] [#c7c7c7]VI, Bro[][#ababab]thers and[] [#8f8f8f]Sisters! []"
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Project Farstar (Cryon)",
-    "version": "24.4.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-11-11T02:56:24Z",
-    "stars": 5,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
-  },
-  {
     "repo": "koctz34/canvases",
     "internalName": "canvases-2",
     "name": "Canvases V2",
@@ -3976,20 +3976,6 @@
     "description": "Resprites some of serpulo sprites available on vanilla mindustry, work in progress."
   },
   {
-    "repo": "justsharga/modar-sharga",
-    "internalName": "mod-ar",
-    "name": "Ark of Rebirth",
-    "version": "1.0",
-    "hidden": false,
-    "author": "sharga",
-    "lastUpdated": "2026-11-10T10:39:41Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Ark Of Rebirth or mod-AR is a mod that aim to extend the campaign by adding two more additional planets,now with comete reworks and resprites. Please note that the campaign is not tested yet after the rework and may not be playable."
-  },
-  {
     "repo": "florfir/md-proxy",
     "internalName": "md-proxy",
     "name": "Proxy Mod",
@@ -4002,6 +3988,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "idk."
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Project Farstar (Cryon)",
+    "version": "24.4.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-11-11T02:56:24Z",
+    "stars": 4,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
+  },
+  {
+    "repo": "justsharga/modar-sharga",
+    "internalName": "mod-ar",
+    "name": "Ark of Rebirth",
+    "version": "1.0",
+    "hidden": false,
+    "author": "sharga",
+    "lastUpdated": "2026-11-12T14:11:53Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Ark Of Rebirth or mod-AR is a mod that aim to extend the campaign by adding two more additional planets,now with comete reworks and resprites. Please note that the campaign is not tested yet after the rework and may not be playable."
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -4632,20 +4646,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "组合工厂QQ群:973942058\n1.2 组合普通工厂/地形加成工厂/分离机/普通钻头/挖墙钻头（含震地钻头），支持跨模组覆盖（关闭模组后原版建筑需重新解锁）\n1.3 组合发电机\n1.4 组合力墙、修复投影、超速投影、发射台\n1.5 组合仓库\n1.6 组合泵、接收台、挖墙钻\n1.7 组合逻辑处理器，蓝图里的建筑也会被替换为组合建筑\n1.8 组合炮台、组合抽水机、组合墙\n1.9 支持过剧情\n2.0 核心机多线程建造\n2.1 组合单位工厂、组合单位升级厂\n2.2 每种物品、每种液体各自独立储存（不再共用一份总量）；发电机燃料消耗与原版一致、不再一次吞掉多个燃料；组合仓库连通核心时给核心扩容；物品外送改为每 tick 一次（塞得满传送带/管道）；联机时建造菜单里的组合建筑不再消失\n2.3 新增协作组合：继承原版类、自己写了新功能的方块（js 与 java 子类）也能组合 —— 物品/液体/容量/电力/热量共享，支持跨类型组合，中间产物留在组内，点击方块可在其正上方查看整组内容；新增组合连接器与组合节点：同样能组合 js/java 子类与组合方块，支持节点激光跨距离连接，接起来的组合体共用一份库存、容量与信息面板都按整张网络算；建造武器按 E 可停掉全部线程、并优先去帮正在施工的建筑；放置组合节点时会标出可连接的组合体\n2.4更了组合石油钻井，修了一点东西\n2.5 设置里可按名字搜索、逐个开关「协作组合」（js/java 功能扩展建筑），开关立刻生效；核反应堆的发电效率按核反应堆自己的容量算（组合里塞了大容量建筑也不需要多喂燃料），效率上限 100%；组合节点不再自动连线（放下后要连谁得自己点），点已连目标即断开；组合墙血池的修复量按整组算，修复投影能把整组修满（不再一直显示破损）；修废墟时蓝图框里的建筑会被立刻全部重建；组合节点与组合连接器也能给被替换的组合建筑接上完整组合功能（组合墙接上就共享血量、拆线即拆组）；矿渣制热机等产热机对外只报自己那一份热量（多台并排不会被重复计入）；修好 Erekir 发射核心时误要铜/铅（星球默认核心没跟着换成组合核心 新增液体卸载器（从相邻建筑抽选定的液体倒给下游）。组合连接器、组合节点、液体卸载器进了塞普罗与埃里克尔两棵科技树：塞普罗用铜铅（卸载器加钢化玻璃），埃里克尔用铍钨氧化物，研究解锁；组合节点可以互相连线接力，把组合范围延伸出去\n2.6更新:组合单位\n2.7更新:炮台合体，组合单位独立\n2.8.3更新:①工厂组合（跟组合炮台一样，尽量不要太乱，串料不太好解决），②钻头组合/矿物阴影（选取需要的矿物范围之后会自动打上阴影，钻头放上去会自动排序。且每个矿物点属于一个钻头，并且满载运行）③传送带组合/叠加（建造一遍传送带后，在原本传送带上面可额外再建造4层［满5层］建造的层数会在左下角显示出来）！以上3点更新所有建造后拆除不会返还任何资源，谨慎建造"
-  },
-  {
-    "repo": "nikitos-f/signaturew",
-    "internalName": "signaturew",
-    "name": "Signature W",
-    "version": "X.1.1.A",
-    "hidden": false,
-    "author": "Creen & -Arlekino-",
-    "lastUpdated": "2026-11-11T15:18:21Z",
-    "stars": 3,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "RU: мод, ориентированный на долгое и тяжелое пвп, играющееся от глухой обороны и сильное промышленности (В будущем)\n\n\nEN: A mod focused on long and heavy PVP, played from a blind defense and a strong industry (In distant future)\n\n\n\nВступайте в наш дискорд \nJoin our discord server\n\nhttps://discord.gg/AsHckERqCW"
   },
   {
     "repo": "xpdustry/kotlin-runtime",
@@ -7602,20 +7602,6 @@
     "description": "A derelict machine-planet slowly wakes as its ancient industry runs again. Alpha build: the VESPER planet and its campaign (Play > Campaign, then VESPER). Chapter One, The Silent Basin: First Awakening, Resonance Fault and The Buried Foundry, linked by its own tech tree and the records you recover. Chapter Two opens with Deep Signal: below the basin, three relays of an ancient network must run at once, on power and resonance cores, through a synchronization. Central Control follows: split your grid between two ancient protocols, containment that holds the vents shut and recovery that brings the complex back, and reactivate it. The maps can also be played on their own (Play > Custom Game), and so can Resonance Works, a standalone map of the resonance industry: dynamos that burn resonance cores for power and containment fields that hold the pulses back."
   },
   {
-    "repo": "newxaky/test",
-    "internalName": "show-hp",
-    "name": "Show HP",
-    "version": "1.0",
-    "hidden": false,
-    "author": "newex",
-    "lastUpdated": "2026-11-09T07:13:27Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hiển thị thanh máu cho đơn vị trong 5 giây sau khi bị thương, kèm hiệu ứng vỡ khi chết."
-  },
-  {
     "repo": "ranii-reprograms/alterra",
     "internalName": "alterra",
     "name": "Alterra",
@@ -7720,7 +7706,7 @@
     "version": "v1",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-11-12T07:56:06Z",
+    "lastUpdated": "2026-11-12T14:15:33Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -7731,15 +7717,29 @@
     "repo": "xerxes-anominus/nevix",
     "internalName": "nevix",
     "name": "Nevix",
-    "version": "Beta: 0.1.0",
+    "version": "Beta: 0.1.1",
     "hidden": false,
     "author": "[#9B59D0]X[#B56BE8]e[#D86FEA]a[#FF69B4]n[]",
-    "lastUpdated": "2026-11-12T08:27:42Z",
+    "lastUpdated": "2026-11-12T16:02:15Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "Inspired by: Newex"
+  },
+  {
+    "repo": "newxaky/test",
+    "internalName": "show-hp",
+    "name": "Show HP",
+    "version": "1.0",
+    "hidden": false,
+    "author": "newex",
+    "lastUpdated": "2026-11-12T16:32:08Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hiển thị thanh máu cho đơn vị trong 5 giây sau khi bị thương, kèm hiệu ứng vỡ khi chết."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
