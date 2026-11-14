@@ -62,7 +62,7 @@
     "version": "v5.5.27-v8",
     "hidden": true,
     "author": "[#FFC2D1]S[#FFADC2]h[#FF97B3]a[#FF81A3]r[#FF6C94]l[#F45885]o[#E84375]t[#DD2F67]t[#D11A58]e[]",
-    "lastUpdated": "2026-11-10T09:05:16Z",
+    "lastUpdated": "2026-11-14T14:46:17Z",
     "stars": 260,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -370,7 +370,7 @@
     "version": "1.1 beta build-2.2",
     "hidden": false,
     "author": "Team Oct",
-    "lastUpdated": "2026-11-13T18:27:30Z",
+    "lastUpdated": "2026-11-14T13:31:23Z",
     "stars": 67,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -538,7 +538,7 @@
     "version": "2.1.3.0",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-11-14T08:36:05Z",
+    "lastUpdated": "2026-11-14T10:38:38Z",
     "stars": 50,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -874,7 +874,7 @@
     "version": "1.18",
     "hidden": true,
     "author": "minRi2",
-    "lastUpdated": "2026-10-29T01:42:57Z",
+    "lastUpdated": "2026-11-14T10:16:16Z",
     "stars": 29,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1918,6 +1918,20 @@
     "description": "Adds extra utilities to map editor."
   },
   {
+    "repo": "laohuajiofficial/unitarsenal",
+    "internalName": "unit-arsenal",
+    "name": "Unit Arsenal",
+    "version": "1.03",
+    "hidden": true,
+    "author": "LaoHuaJi",
+    "lastUpdated": "2026-06-01T19:06:36Z",
+    "stars": 11,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod which allow customize player's unit via using existing contents."
+  },
+  {
     "repo": "zaxerf1234/scheme-size-port-charo",
     "internalName": "scheme-size",
     "name": "Scheme Size Port (Charo)",
@@ -1966,7 +1980,7 @@
     "version": "101.5",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-11-13T12:52:45Z",
+    "lastUpdated": "2026-11-14T12:58:21Z",
     "stars": 11,
     "minGameVersion": "160.1",
     "hasScripts": true,
@@ -2072,20 +2086,6 @@
     "description": "[accent]MobileConsole v1.0 - Developer Tools for Mobile Players[]\n[white]📱 Full console access on your phone or tablet![]\n[yellow]⚠️ This mod is specifically designed for mobile devices where console features are normally unavailable.[]\n[red]⚠️ SINGLE-PLAYER ONLY - This mod does not work in multiplayer![]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[red]⚠️ IMPORTANT DISCLAIMERS:[]\n[yellow]• Not all commands may work on every device or game version[]\n[yellow]• Commands only work in single-player mode[]\n[yellow]• Building commands require appropriate permissions[]\n[yellow]• Use at your own risk - some commands may affect game performance[]\n[yellow]• This mod is in active development - bugs may occur[]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]📋 What Is This?[]\nMobileConsole brings developer tools to your mobile device. Build, spawn, modify, and control your game with over 20 commands optimized for touch screens.\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]🎮 How to Access:[]\n[white]In-Game:[]\n• Type [cyan]/customhelp[] in chat to see all commands\n• Type [cyan]/chelp[] for console system help\n[white]Settings Menu:[]\n• Open Settings → Developer Console\n• Tap [cyan]Open Console[] button\n[white]Quick Commands:[]\n• Type any command in chat starting with /\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🏗️ Building Commands:[]\n[cyan]/wallcore [type][] - Builds walls around your core\n[cyan]/fill     [] - Fill area with blocks\n[cyan]/clear [radius][] - Clear buildings around position\n[cyan]/conveyor    [] - Build conveyor lines\n[cyan]/powerline    [] - Create power connections\n[cyan]/wallline     [type][] - Draw wall lines\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[yellow]🔧 Modification Commands:[]\n[cyan]/upgrade  [] - Upgrade building types\n[cyan]/replace  [] - Replace blocks\n[cyan]/toggle [block][] - Enable/disable buildings\n[cyan]/repair[] - Repair all damaged buildings\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[royal]⚔️ Unit Commands:[]\n[cyan]/spawn   [x] [y][] - Spawn units\n[cyan]/healunits[] - Restore all friendly units to full health\n[cyan]/rally[] - Command units to your position\n[cyan]/killenemies [radius][] - Eliminate enemies\n[cyan]/units[] - Display unit statistics\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]⚡ Quick Actions:[]\n[cyan]/turrets[] - Toggle all turrets\n[cyan]/power[] - Display power grid statistics\n[cyan]/resources[] - Check core resources\n[cyan]/screenshot[] - Take clean screenshot\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🖥️ Console System:[]\n[cyan]/chelp[] - Show console help\n[cyan]/clear[] - Clear console logs\n[cyan]/scan[] - Scan for available commands\n[cyan]/stats[] - Show console statistics\n[cyan]/commands[] - List all detected commands\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]🎯 Features:[]\n• Command history (last 50 commands)\n• Favorites system\n• Log management (1,500 entries)\n• Search and filter functionality\n• Touch-optimized interface\n• Color-coded logs\n• Mod management system\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[white]Type [cyan]/customhelp[] in chat or open Settings → Developer Console to start![]\n[yellow]Report issues on GitHub: github.com/SamielXD/MobileConsole[]\n[white]- SamielXD[]"
   },
   {
-    "repo": "laohuajiofficial/unitarsenal",
-    "internalName": "unit-arsenal",
-    "name": "Unit Arsenal",
-    "version": "1.03",
-    "hidden": true,
-    "author": "LaoHuaJi",
-    "lastUpdated": "2026-06-01T19:06:36Z",
-    "stars": 10,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod which allow customize player's unit via using existing contents."
-  },
-  {
     "repo": "cirrusisakey/arikoth",
     "internalName": "arikoth",
     "name": "Arikoth",
@@ -2114,20 +2114,6 @@
     "description": "A plugin mod for Mindustry that gives you more control over your saves: back up and restore a whole save (maps, schematics and progress settings included), edit the maps inside a save or a backup without leaving the game, keep several independent players on one device, and sync a save between devices with a cloud save server you host yourself. It adds no game content and does not affect net multiplayer. More details in the GitHub repo."
   },
   {
-    "repo": "koctz34/modularis",
-    "internalName": "modularis",
-    "name": "Modularis",
-    "version": "0.6",
-    "hidden": false,
-    "author": "Ion - 7274",
-    "lastUpdated": "2026-11-08T16:12:31Z",
-    "stars": 10,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2140,6 +2126,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
+  },
+  {
+    "repo": "koctz34/modularis",
+    "internalName": "modularis",
+    "name": "Modularis",
+    "version": "0.6.1",
+    "hidden": false,
+    "author": "Ion - 7274",
+    "lastUpdated": "2026-11-14T13:34:40Z",
+    "stars": 10,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Novae technologiae modulares. Build your own machines using blocks and modules, and customize it however you like."
   },
   {
     "repo": "i-hope1/mod.make",
@@ -2254,6 +2254,20 @@
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
+    "repo": "routerxdd/forgotten-depths",
+    "internalName": "fd",
+    "name": "Forgotten Depths",
+    "version": "0.1A",
+    "hidden": false,
+    "author": "Unauthorized",
+    "lastUpdated": "2026-11-03T18:02:48Z",
+    "stars": 9,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod themed around game: Corebound by Overcurve\n\nOriginally supposed to be an april fools version of Buried In Ice but i fucked up with deadlines\n\n\nWARNING: Mod is not going to explain its own mechanics directly so... READ THE DAMN DESCRIPTIONS OF BLOCKS please...\n"
+  },
+  {
     "repo": "determination-wind/radial-build-menu-hud-",
     "internalName": "radial-build-menu",
     "name": "圆盘快捷建造 / Radial Build Menu",
@@ -2316,7 +2330,7 @@
     "version": "X.1.1.A",
     "hidden": false,
     "author": "Creen & -Arlekino-",
-    "lastUpdated": "2026-11-13T17:00:29Z",
+    "lastUpdated": "2026-11-14T12:40:18Z",
     "stars": 9,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -2582,7 +2596,7 @@
     "version": "0.2.1",
     "hidden": false,
     "author": "Bilibili:arknights player / Github:undefined-1026",
-    "lastUpdated": "2026-11-12T13:36:01Z",
+    "lastUpdated": "2026-11-14T14:24:40Z",
     "stars": 8,
     "minGameVersion": "160.3",
     "hasScripts": false,
@@ -2812,20 +2826,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
-  },
-  {
-    "repo": "routerxdd/forgotten-depths",
-    "internalName": "fd",
-    "name": "Forgotten Depths",
-    "version": "0.1A",
-    "hidden": false,
-    "author": "Unauthorized",
-    "lastUpdated": "2026-11-03T18:02:48Z",
-    "stars": 7,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod themed around game: Corebound by Overcurve\n\nOriginally supposed to be an april fools version of Buried In Ice but i fucked up with deadlines\n\n\nWARNING: Mod is not going to explain its own mechanics directly so... READ THE DAMN DESCRIPTIONS OF BLOCKS please...\n"
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -4410,6 +4410,20 @@
     "description": "The sun is gone guys, what do we do?"
   },
   {
+    "repo": "itsxeroc/scheme-size",
+    "internalName": "scheme-size",
+    "name": "!Scheme Size",
+    "version": "2.0.0",
+    "hidden": true,
+    "author": "Mithra\nOriginal: xzxADIxzx",
+    "lastUpdated": "2026-08-05T21:38:39Z",
+    "stars": 3,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A custom port of Scheme Size for newer Mindustry builds.\n\nStarted as a schematic size increase, now a set of QoL and admin tools: bigger schematics, building helpers, renderer options, AI, keybinds, CLaJ, and an advanced console.\n\nClient & server:\nSame jar works as a normal client mod and on a dedicated server. On a vanilla server (without this mod) you still get client QoL. If the server also has the jar, admin tools like fill, items, units, teleport and rules sync over the network - even when you are not the local host. Those actions require admin.\n\nRequires Mindustry v156+. One jar for desktop and mobile (156–159). Vanilla recommended.\n\nOriginal mod by xzxADIxzx. Port by Mithra. The original author is not involved in this port.\n\n\n - Schematic size 512\n - Building & renderer tools\n - Admin tools (optional server sync)\n - AI support\n - CLaJ, keybinds, updater\n - Advanced console & rule setter"
+  },
+  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
@@ -4662,13 +4676,27 @@
     "description": "Quick bar + tabbed menu: help builders, build planner, auto mine, auto Heal, speed boost, anti-grief with rebuild, overlays, and user detection."
   },
   {
+    "repo": "palle00/eclipse-build",
+    "internalName": "eclipse",
+    "name": "ECLIPSE",
+    "version": "0.3.0",
+    "hidden": false,
+    "author": "palle00",
+    "lastUpdated": "2026-11-13T14:20:26Z",
+    "stars": 3,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A new era of industry: deep chemical engineering, advanced materials and expanded warfare."
+  },
+  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
     "version": "4.3.9",
     "hidden": true,
     "author": "Xpdustry",
-    "lastUpdated": "2026-11-14T04:31:28Z",
+    "lastUpdated": "2026-11-14T09:52:10Z",
     "stars": 3,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -5264,20 +5292,6 @@
     "description": "该模组仍在开发中,可能有大量致命bug,请小心在战役中使用.\n项目规划:\n在原版的基础上拓展和延伸,并计划添加许多工厂、物品、单位、以及全新的战役与机制!\n\n=====\n更新日志：\n\nbeta-v0.6-f13752\n1.修复大量已知bug\n2.添加大量建筑\n3.为大量建筑绘制贴图并计划后续重制部分贴图\n|\n\n_beta-0.5.1：\n1.添加一些建筑\n2.更新大量贴图\n3.修复大量已知bug\n|\n\n_beta-0.5.1：\n1.本次更新了6种核心以及对应的核心机(贴图未制作)\n2.新增一些工厂以及为部分建筑绘制贴图\n|\n\n_beta-0.4.8：\n修复大量BUG(也不知道修上了没)\n|\n\n_beta-0.4：\n1.修复科技树关联错误的bug\n2.修复了研究钛合金冶炼炉需要先研究电磁线圈塑型机，但研究电磁线圈塑型机需要先研究钛合金的bug，因为这意味着你无法得到钛合金，但是没有钛合金就无法研究电磁线圈塑型机，没有电磁线圈塑型机就无法研究钛合金冶炼炉\n3.为大量物品和建筑添加大量贴图，在此感谢冰晶为本模组绘制的钛合金冶炼炉。部分物品配色由ai提供建议\n|\n\n_beta-0.3：\n1.完善科技树\n2.添加少许工厂\n|\n\n_beta-0.2：\n添加大量物品与大量工厂建筑\n|\n\n_beta-0.1：\n项目正式成立，添加了mod.json以及2种物品"
   },
   {
-    "repo": "itsxeroc/scheme-size",
-    "internalName": "scheme-size",
-    "name": "!Scheme Size",
-    "version": "2.0.0",
-    "hidden": true,
-    "author": "Mithra\nOriginal: xzxADIxzx",
-    "lastUpdated": "2026-08-05T21:38:39Z",
-    "stars": 2,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A custom port of Scheme Size for newer Mindustry builds.\n\nStarted as a schematic size increase, now a set of QoL and admin tools: bigger schematics, building helpers, renderer options, AI, keybinds, CLaJ, and an advanced console.\n\nClient & server:\nSame jar works as a normal client mod and on a dedicated server. On a vanilla server (without this mod) you still get client QoL. If the server also has the jar, admin tools like fill, items, units, teleport and rules sync over the network - even when you are not the local host. Those actions require admin.\n\nRequires Mindustry v156+. One jar for desktop and mobile (156–159). Vanilla recommended.\n\nOriginal mod by xzxADIxzx. Port by Mithra. The original author is not involved in this port.\n\n\n - Schematic size 512\n - Building & renderer tools\n - Admin tools (optional server sync)\n - AI support\n - CLaJ, keybinds, updater\n - Advanced console & rule setter"
-  },
-  {
     "repo": "nitison/image.msch",
     "internalName": "image-msch",
     "name": "Image.msch",
@@ -5712,6 +5726,20 @@
     "description": "Red Alert 2 battlefield announcer with the original Sophia (Zofia) voice: waves, base alerts, rally and core-threat detection, manual control marking, unit/building loss reports with callout names, production and high-value target alerts, plus a right-side event feed. 红警2索菲亚语音战场播报:波次/基地警报、敌方集结与核心威胁、单控标点、带具体类别的损失与生产播报、右侧事件卡片。"
   },
   {
+    "repo": "jovinull/vesper",
+    "internalName": "vesper",
+    "name": "Vesper",
+    "version": "0.8.1-alpha",
+    "hidden": false,
+    "author": "Jovinull",
+    "lastUpdated": "2026-11-08T14:41:50Z",
+    "stars": 2,
+    "minGameVersion": "160.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A derelict machine-planet slowly wakes as its ancient industry runs again. Alpha build: the VESPER planet and its campaign (Play > Campaign, then VESPER). Chapter One, The Silent Basin: First Awakening, Resonance Fault and The Buried Foundry, linked by its own tech tree and the records you recover. Chapter Two opens with Deep Signal: below the basin, three relays of an ancient network must run at once, on power and resonance cores, through a synchronization. Central Control follows: split your grid between two ancient protocols, containment that holds the vents shut and recovery that brings the complex back, and reactivate it. The maps can also be played on their own (Play > Custom Game), and so can Resonance Works, a standalone map of the resonance industry: dynamos that burn resonance cores for power and containment fields that hold the pulses back."
+  },
+  {
     "repo": "donatodiaz/mindustry-ai-player",
     "internalName": "ai-player",
     "name": "AI Player",
@@ -5738,20 +5766,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "FLOATING DAMAGE\nTEXT BROOO!!!!!!"
-  },
-  {
-    "repo": "palle00/eclipse-build",
-    "internalName": "eclipse",
-    "name": "ECLIPSE",
-    "version": "0.3.0",
-    "hidden": false,
-    "author": "palle00",
-    "lastUpdated": "2026-11-13T14:20:26Z",
-    "stars": 2,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A new era of industry: deep chemical engineering, advanced materials and expanded warfare."
   },
   {
     "repo": "lehanchic/factory-units",
@@ -7588,20 +7602,6 @@
     "description": "Make a beautiful world with feces."
   },
   {
-    "repo": "jovinull/vesper",
-    "internalName": "vesper",
-    "name": "Vesper",
-    "version": "0.8.1-alpha",
-    "hidden": false,
-    "author": "Jovinull",
-    "lastUpdated": "2026-11-08T14:41:50Z",
-    "stars": 1,
-    "minGameVersion": "160.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A derelict machine-planet slowly wakes as its ancient industry runs again. Alpha build: the VESPER planet and its campaign (Play > Campaign, then VESPER). Chapter One, The Silent Basin: First Awakening, Resonance Fault and The Buried Foundry, linked by its own tech tree and the records you recover. Chapter Two opens with Deep Signal: below the basin, three relays of an ancient network must run at once, on power and resonance cores, through a synchronization. Central Control follows: split your grid between two ancient protocols, containment that holds the vents shut and recovery that brings the complex back, and reactivate it. The maps can also be played on their own (Play > Custom Game), and so can Resonance Works, a standalone map of the resonance industry: dynamos that burn resonance cores for power and containment fields that hold the pulses back."
-  },
-  {
     "repo": "ranii-reprograms/alterra",
     "internalName": "alterra",
     "name": "Alterra",
@@ -7672,48 +7672,6 @@
     "description": "Machines close to each other work together as one; drills, pumps, factories, generators, reactors. A single input or output serves the whole line.\n\nv1.11.7\nDrills now accept raw items only, so crafted items like silicon can't enter them. This makes the drills uncloggable when placed alongside factories\nThis makes for neat base designs because I have ocd and I cant take it when I see them all wonky ahh\n\nv1.11.3\nFixed the drills that \"were\" letting items pass through them... but it was inconsistent.. this problem also broke my intention of being able to chain them with factories that require their inputs but they were also exporting their produced materials to the drills instead xd\n\nv1.11.1\nTurrets: chaining turrets of the same type share coolant, so one conduit cools a whole arsenal of turrets, except ammo. They still need seperate ammo inputs tho\nConveyors can now pass items through any drill in a chain, and those items flow to the chain's exit\n\nv1.10.0 - Balance update\nDrill and pump capacities lowered from 50 to their vanilla values (e.g. pneumatic drill = 10 item capacity) to keep them balanced\n\nv1.9.1 - Hotfix\nFixed long chains of factories (more than 5) not fully emptying through a single output. Products now drain toward the factory touching an output, so the far end empties too. If the output is removed or blocked for a while, the chain spreads evenly again and recovers when another output line is connected. One output line can only carry so much, so use a faster or higher storage belt if a chain holds up\n\nv1.9\nReactors: touching reactors balance their coolant, so one conduit feeds the whole row. However, fuel is never moved\nFactories: touching factories of the same type share inputs and outputs, so one pipe, conveyor and output line serve a whole row (except unit factories)\nDrills: boost liquids like water is now shared along the chain"
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-11-14T01:22:15Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
-    "repo": "skhallops/more-utils",
-    "internalName": "mass driver tiers",
-    "name": "Mass Driver Tiers",
-    "version": "1.1.00.0",
-    "hidden": false,
-    "author": "Skhall",
-    "lastUpdated": "2026-11-14T06:17:48Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds two late-game tiers of mass drivers: a thorium-powered driver with extended range, and a massive surge-alloy driver for endgame logistics."
-  },
-  {
-    "repo": "newxaky/test",
-    "internalName": "show-hp",
-    "name": "Show HP",
-    "version": "1.0",
-    "hidden": false,
-    "author": "newex",
-    "lastUpdated": "2026-11-14T06:35:42Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hiển thị thanh máu cho đơn vị trong 5 giây sau khi bị thương, kèm hiệu ứng vỡ khi chết."
-  },
-  {
     "repo": "fat-bird-owner/gier-java-side",
     "internalName": "gier-java",
     "name": "Gier: Java Side",
@@ -7742,18 +7700,60 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
+    "repo": "skhallops/more-utils",
+    "internalName": "mass driver tiers",
+    "name": "Mass Driver Tiers",
+    "version": "1.1.00.0",
+    "hidden": false,
+    "author": "Skhall",
+    "lastUpdated": "2026-11-14T09:50:18Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds two late-game tiers of mass drivers: a thorium-powered driver with extended range, and a massive surge-alloy driver for endgame logistics."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-11-14T13:36:07Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
     "repo": "xerxes-anominus/nevix",
     "internalName": "nevix",
     "name": "Nevix",
     "version": "Beta: 0.1.1.2",
     "hidden": false,
     "author": "[#9B59D0]X[#B56BE8]e[#D86FEA]a[#FF69B4]n[]",
-    "lastUpdated": "2026-11-14T07:50:26Z",
+    "lastUpdated": "2026-11-14T14:27:17Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "Nevix—a mod inspired by Newex—introduces a turret system with a vast array of upgrade options, opening up an entirely new playstyle."
+  },
+  {
+    "repo": "newxaky/test",
+    "internalName": "show-hp",
+    "name": "Show HP",
+    "version": "1.0",
+    "hidden": false,
+    "author": "newex",
+    "lastUpdated": "2026-11-14T14:35:31Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hiển thị thanh máu cho đơn vị trong 5 giây sau khi bị thương, kèm hiệu ứng vỡ khi chết."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -9128,31 +9128,31 @@
     "description": "Controlled by host"
   },
   {
-    "repo": "andrewmaiorov2010-source/sector-redirect",
-    "internalName": "sector-supply-redirect",
-    "name": "Sector Redirect: перенаправление, посадочные площадки",
-    "version": "1.0.2",
-    "hidden": true,
-    "author": "TTERARUAA",
-    "lastUpdated": "2026-11-14T08:04:52Z",
-    "stars": 0,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Redirects known active same-planet sector exports to the current campaign sector."
-  },
-  {
     "repo": "andrewmaiorov2010-source/fast-logic",
     "internalName": "logic-speed-five",
-    "name": "Fast Logic: логика, процессоры, ускорение",
-    "version": "1.3.1",
+    "name": "Fast Logic — Processor Speed",
+    "version": "1.3.2",
     "hidden": false,
     "author": "TTERARUAA",
-    "lastUpdated": "2026-11-14T08:10:12Z",
+    "lastUpdated": "2026-11-14T13:07:01Z",
     "stars": 0,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "Speeds up vanilla Micro, Logic, and Hyper Processors with independent saved 1×–15× multipliers."
+  },
+  {
+    "repo": "andrewmaiorov2010-source/sector-redirect",
+    "internalName": "sector-supply-redirect",
+    "name": "Sector Redirect — Landing Pad Supply",
+    "version": "1.0.3",
+    "hidden": true,
+    "author": "TTERARUAA",
+    "lastUpdated": "2026-11-14T13:07:36Z",
+    "stars": 0,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Redirects known active same-planet sector exports to the current campaign sector."
   }
 ]
