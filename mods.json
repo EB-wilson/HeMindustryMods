@@ -608,7 +608,7 @@
     "version": "2.4.5",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-11-13T21:20:27Z",
+    "lastUpdated": "2026-11-14T19:59:23Z",
     "stars": 45,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -4662,6 +4662,20 @@
     "description": "组合工厂QQ群:973942058\n1.2 组合普通工厂/地形加成工厂/分离机/普通钻头/挖墙钻头（含震地钻头），支持跨模组覆盖（关闭模组后原版建筑需重新解锁）\n1.3 组合发电机\n1.4 组合力墙、修复投影、超速投影、发射台\n1.5 组合仓库\n1.6 组合泵、接收台、挖墙钻\n1.7 组合逻辑处理器，蓝图里的建筑也会被替换为组合建筑\n1.8 组合炮台、组合抽水机、组合墙\n1.9 支持过剧情\n2.0 核心机多线程建造\n2.1 组合单位工厂、组合单位升级厂\n2.2 每种物品、每种液体各自独立储存（不再共用一份总量）；发电机燃料消耗与原版一致、不再一次吞掉多个燃料；组合仓库连通核心时给核心扩容；物品外送改为每 tick 一次（塞得满传送带/管道）；联机时建造菜单里的组合建筑不再消失\n2.3 新增协作组合：继承原版类、自己写了新功能的方块（js 与 java 子类）也能组合 —— 物品/液体/容量/电力/热量共享，支持跨类型组合，中间产物留在组内，点击方块可在其正上方查看整组内容；新增组合连接器与组合节点：同样能组合 js/java 子类与组合方块，支持节点激光跨距离连接，接起来的组合体共用一份库存、容量与信息面板都按整张网络算；建造武器按 E 可停掉全部线程、并优先去帮正在施工的建筑；放置组合节点时会标出可连接的组合体\n2.4更了组合石油钻井，修了一点东西\n2.5 设置里可按名字搜索、逐个开关「协作组合」（js/java 功能扩展建筑），开关立刻生效；核反应堆的发电效率按核反应堆自己的容量算（组合里塞了大容量建筑也不需要多喂燃料），效率上限 100%；组合节点不再自动连线（放下后要连谁得自己点），点已连目标即断开；组合墙血池的修复量按整组算，修复投影能把整组修满（不再一直显示破损）；修废墟时蓝图框里的建筑会被立刻全部重建；组合节点与组合连接器也能给被替换的组合建筑接上完整组合功能（组合墙接上就共享血量、拆线即拆组）；矿渣制热机等产热机对外只报自己那一份热量（多台并排不会被重复计入）；修好 Erekir 发射核心时误要铜/铅（星球默认核心没跟着换成组合核心 新增液体卸载器（从相邻建筑抽选定的液体倒给下游）。组合连接器、组合节点、液体卸载器进了塞普罗与埃里克尔两棵科技树：塞普罗用铜铅（卸载器加钢化玻璃），埃里克尔用铍钨氧化物，研究解锁；组合节点可以互相连线接力，把组合范围延伸出去\n2.6更新:组合单位\n2.7更新:炮台合体，组合单位独立\n2.8.3更新:①工厂组合（跟组合炮台一样，尽量不要太乱，串料不太好解决），②钻头组合/矿物阴影（选取需要的矿物范围之后会自动打上阴影，钻头放上去会自动排序。且每个矿物点属于一个钻头，并且满载运行）③传送带组合/叠加（建造一遍传送带后，在原本传送带上面可额外再建造4层［满5层］建造的层数会在左下角显示出来）！以上3点更新所有建造后拆除不会返还任何资源，谨慎建造"
   },
   {
+    "repo": "donatodiaz/mindustry-ai-player",
+    "internalName": "ai-player",
+    "name": "AI Player",
+    "version": "0.9.6",
+    "hidden": false,
+    "author": "donatodiaz",
+    "lastUpdated": "2026-11-09T09:29:32Z",
+    "stars": 3,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a second AI-piloted player (AI-1) and a fair autonomous co-pilot for Mindustry v8.\n\nFeatures:\n- AI-1 is a real Player entity with a name, unit and respawn, controlled by AI.\n- Miners, builders and army are spawned with real resource costs (no cheats).\n- Dynamic support for Exogenesis and New Horizon content.\n- Smart construction roles: economy, defense, power and attack.\n- Generated power, defense and powered-turret schematics; your own .msch schematics are supported through role folders.\n- Sustainable-resource checks: skips content requiring absent ore or production.\n- Optional PC-only local LLM through Ollama with RAG strategy files.\n- Natural-language orders: order построй больше турелей, order атакуй врага.\n- Compact collapsible HUD, in-game AI command console, self-learning and cleanup.\n- Outpost expansion and optional campaign sector auto-launch.\n\nCommands: /ai, /ai status, /ai calc, /ai order <текст>, /ai ask <вопрос>, /ai demolish here, /ai llm on|off, /ai setup.\n\nMIT licensed. Source: https://github.com/DonatoDiaz/mindustry-ai-player"
+  },
+  {
     "repo": "dark-matter-yt/mobile-tool",
     "internalName": "mobile-tools",
     "name": "Mobile Tools",
@@ -5600,20 +5614,6 @@
     "description": "a mod that add tier list as localization\nEnglish only\n"
   },
   {
-    "repo": "lamamega/attarax-modpack",
-    "internalName": "attarax mod-pack",
-    "name": "AttaraX Mod-Pack",
-    "version": "1.0",
-    "hidden": false,
-    "author": "AttaraX",
-    "lastUpdated": "2026-11-01T19:37:45Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry? Yes, but more!"
-  },
-  {
     "repo": "hamsterhat/oct-lib",
     "internalName": "octlib",
     "name": "Octopus Defence Library",
@@ -5726,34 +5726,6 @@
     "description": "Red Alert 2 battlefield announcer with the original Sophia (Zofia) voice: waves, base alerts, rally and core-threat detection, manual control marking, unit/building loss reports with callout names, production and high-value target alerts, plus a right-side event feed. 红警2索菲亚语音战场播报:波次/基地警报、敌方集结与核心威胁、单控标点、带具体类别的损失与生产播报、右侧事件卡片。"
   },
   {
-    "repo": "jovinull/vesper",
-    "internalName": "vesper",
-    "name": "Vesper",
-    "version": "0.8.1-alpha",
-    "hidden": false,
-    "author": "Jovinull",
-    "lastUpdated": "2026-11-08T14:41:50Z",
-    "stars": 2,
-    "minGameVersion": "160.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A derelict machine-planet slowly wakes as its ancient industry runs again. Alpha build: the VESPER planet and its campaign (Play > Campaign, then VESPER). Chapter One, The Silent Basin: First Awakening, Resonance Fault and The Buried Foundry, linked by its own tech tree and the records you recover. Chapter Two opens with Deep Signal: below the basin, three relays of an ancient network must run at once, on power and resonance cores, through a synchronization. Central Control follows: split your grid between two ancient protocols, containment that holds the vents shut and recovery that brings the complex back, and reactivate it. The maps can also be played on their own (Play > Custom Game), and so can Resonance Works, a standalone map of the resonance industry: dynamos that burn resonance cores for power and containment fields that hold the pulses back."
-  },
-  {
-    "repo": "donatodiaz/mindustry-ai-player",
-    "internalName": "ai-player",
-    "name": "AI Player",
-    "version": "0.9.6",
-    "hidden": false,
-    "author": "donatodiaz",
-    "lastUpdated": "2026-11-09T09:29:32Z",
-    "stars": 2,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a second AI-piloted player (AI-1) and a fair autonomous co-pilot for Mindustry v8.\n\nFeatures:\n- AI-1 is a real Player entity with a name, unit and respawn, controlled by AI.\n- Miners, builders and army are spawned with real resource costs (no cheats).\n- Dynamic support for Exogenesis and New Horizon content.\n- Smart construction roles: economy, defense, power and attack.\n- Generated power, defense and powered-turret schematics; your own .msch schematics are supported through role folders.\n- Sustainable-resource checks: skips content requiring absent ore or production.\n- Optional PC-only local LLM through Ollama with RAG strategy files.\n- Natural-language orders: order построй больше турелей, order атакуй врага.\n- Compact collapsible HUD, in-game AI command console, self-learning and cleanup.\n- Outpost expansion and optional campaign sector auto-launch.\n\nCommands: /ai, /ai status, /ai calc, /ai order <текст>, /ai ask <вопрос>, /ai demolish here, /ai llm on|off, /ai setup.\n\nMIT licensed. Source: https://github.com/DonatoDiaz/mindustry-ai-player"
-  },
-  {
     "repo": "capueinedaffe-cmd/float-damage-text",
     "internalName": "damage-numbers",
     "name": "Float damage text",
@@ -5766,6 +5738,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "FLOATING DAMAGE\nTEXT BROOO!!!!!!"
+  },
+  {
+    "repo": "jovinull/vesper",
+    "internalName": "vesper",
+    "name": "Vesper",
+    "version": "0.8.1-alpha",
+    "hidden": false,
+    "author": "Jovinull",
+    "lastUpdated": "2026-11-14T17:15:01Z",
+    "stars": 2,
+    "minGameVersion": "160.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A derelict machine-planet slowly wakes as its ancient industry runs again. Alpha build: the VESPER planet and its campaign (Play > Campaign, then VESPER). Chapter One, The Silent Basin: First Awakening, Resonance Fault and The Buried Foundry, linked by its own tech tree and the records you recover. Chapter Two opens with Deep Signal: below the basin, three relays of an ancient network must run at once, on power and resonance cores, through a synchronization. Central Control follows: split your grid between two ancient protocols, containment that holds the vents shut and recovery that brings the complex back, and reactivate it. The maps can also be played on their own (Play > Custom Game), and so can Resonance Works, a standalone map of the resonance industry: dynamos that burn resonance cores for power and containment fields that hold the pulses back."
+  },
+  {
+    "repo": "lamamega/attarax-modpack",
+    "internalName": "attarax mod-pack",
+    "name": "AttaraX Mod-Pack",
+    "version": "1.0",
+    "hidden": false,
+    "author": "AttaraX",
+    "lastUpdated": "2026-11-14T20:37:02Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry? Yes, but more!"
   },
   {
     "repo": "lehanchic/factory-units",
@@ -7504,20 +7504,6 @@
     "description": "Automatically adds fluid cell items for every fluid in game, including those from mods."
   },
   {
-    "repo": "lebrops/sporbels-inventions",
-    "internalName": "sporbel's inventions",
-    "name": "SporBel's Inventions",
-    "version": "1.1.6",
-    "hidden": false,
-    "author": "SporBel (aka. leBropS)",
-    "lastUpdated": "2026-11-01T20:26:53Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
     "repo": "determination-wind/betterprojectoroverlay",
     "internalName": "betterprojectoroverlay",
     "name": "BetterProjectorOverlay",
@@ -7714,20 +7700,6 @@
     "description": "Adds two late-game tiers of mass drivers: a thorium-powered driver with extended range, and a massive surge-alloy driver for endgame logistics."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-11-14T13:36:07Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "xerxes-anominus/nevix",
     "internalName": "nevix",
     "name": "Nevix",
@@ -7754,6 +7726,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Hiển thị thanh máu cho đơn vị trong 5 giây sau khi bị thương, kèm hiệu ứng vỡ khi chết."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-11-14T17:02:52Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "lebrops/sporbels-inventions",
+    "internalName": "sporbel's inventions",
+    "name": "SporBel's Inventions",
+    "version": "1.1.6",
+    "hidden": false,
+    "author": "SporBel (aka. leBropS)",
+    "lastUpdated": "2026-11-14T19:32:28Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -9154,5 +9154,33 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Redirects known active same-planet sector exports to the current campaign sector."
+  },
+  {
+    "repo": "raviraviravi98989-byte/frostnova",
+    "internalName": "frostnova",
+    "name": "Frostnova",
+    "version": "1.0.0",
+    "hidden": false,
+    "author": "raviraviravi98989-byte",
+    "lastUpdated": "2026-11-14T16:59:16Z",
+    "stars": 0,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An planet mod for Mindustry"
+  },
+  {
+    "repo": "raviraviravi98989-byte/project",
+    "internalName": "exoprosopa",
+    "name": "Exoprosopa",
+    "version": "0.96",
+    "hidden": false,
+    "author": "TnmSpiroct",
+    "lastUpdated": "2026-11-14T21:54:28Z",
+    "stars": 0,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  [#93E2EE]Exoprosopa[] adds a new planet, Frostnova, into the game.\n  Frostnova is a deceptively frozen planet. A volatile and hazardous tundra hides a dormant faction, Astral.\n  It has a fully playable campaign with 20 campaign and 11 optional maps. \n  \n  Polished content & linear campaign progression.\n  Contains over 320 pieces of unique content, including blocks, liquids, items, units and specialized guardian.\n  Pure modded without reuse any vanilla content.\n  \n  [accent]If you find any issues or want to gives suggestions\n  feel free to join the Exoprosopa Discord server.\n  Check it on my profile. My username is tnmspiroctmain[].\n  \n  [#93E2EE]Exoprosopa[] is available in the following languages:\n  - English\n  - Indonesian\n  - Russian\n  - Simplified Chinese\n\nEnjoy!"
   }
 ]
