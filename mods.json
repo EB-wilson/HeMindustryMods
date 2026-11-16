@@ -496,7 +496,7 @@
     "version": "0.51",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-11-16T14:03:48Z",
+    "lastUpdated": "2026-11-16T17:33:25Z",
     "stars": 54,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -510,7 +510,7 @@
     "version": "6.1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-11-07T18:05:47Z",
+    "lastUpdated": "2026-11-16T17:22:44Z",
     "stars": 52,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -1322,12 +1322,26 @@
     "version": "0.284",
     "hidden": false,
     "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-11-16T12:49:51Z",
+    "lastUpdated": "2026-11-16T17:39:57Z",
     "stars": 19,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
+    "repo": "topyrit/capital_progress",
+    "internalName": "capital progress",
+    "name": "CAPITAL PROGRESS",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Topyrit\nZZZ NNN",
+    "lastUpdated": "2024-08-23T11:33:16Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
   },
   {
     "repo": "thomasthings/xenacia",
@@ -1356,34 +1370,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
-  },
-  {
-    "repo": "topyrit/capital_progress",
-    "internalName": "capital progress",
-    "name": "CAPITAL PROGRESS",
-    "version": "0.1",
-    "hidden": false,
-    "author": "Topyrit\nZZZ NNN",
-    "lastUpdated": "2024-08-23T11:33:16Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
-  },
-  {
-    "repo": "blackdeluxecat/schematicparse",
-    "internalName": "schematicparse",
-    "name": "Schematic Parse",
-    "version": "4.6.0",
-    "hidden": true,
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2025-12-19T15:55:43Z",
-    "stars": 16,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
     "repo": "namakayo/astheriveregenesis",
@@ -1624,6 +1610,20 @@
     "description": "Total conversion PVP mod set in fantasy medieval times"
   },
   {
+    "repo": "blackdeluxecat/schematicparse",
+    "internalName": "schematicparse",
+    "name": "Schematic Parse",
+    "version": "4.6.0",
+    "hidden": true,
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2025-12-19T15:55:43Z",
+    "stars": 13,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
+  },
+  {
     "repo": "smolkeys/new-console-hardline",
     "internalName": "newconsole-hardline",
     "name": "New Console Hardline",
@@ -1836,16 +1836,16 @@
   {
     "repo": "sputnuc/deepsea",
     "internalName": "deepsea",
-    "name": "Project: Deep Sea (Alpha)",
-    "version": "0.2.1",
+    "name": "Project: Deep Sea",
+    "version": "0.4 (indev)",
     "hidden": false,
-    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
-    "lastUpdated": "2026-11-15T19:04:14Z",
+    "author": "[#ffd469]Sputnuc",
+    "lastUpdated": "2026-11-16T19:49:01Z",
     "stars": 12,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
-    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
+    "description": "The mod is about underwater campaign and more. \n[#4b457a]You're going TOO DEEP to come back[white] \n\nSpecial thanks to: \n [#ef75ff]Cirrusisakey (c4anide) - for many things[white] \n [#ffb969]AnDashik - some help[white] \n [#ff3d61]Skifor - some sounds[white] \n [#d488db]Scp Solverion - music[white]"
   },
   {
     "repo": "slotterleet/a-lot-of-damage",
@@ -4704,6 +4704,20 @@
     "description": "Quick bar + tabbed menu: help builders, build planner, auto mine, auto Heal, speed boost, anti-grief with rebuild, overlays, and user detection."
   },
   {
+    "repo": "newxaky/neowex",
+    "internalName": "newex",
+    "name": "NeoWex 1.0.2 J",
+    "version": "1.0.2",
+    "hidden": false,
+    "author": "XakyW56",
+    "lastUpdated": "2026-11-16T18:28:34Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "...\nÝ tưởng xây dựng 1 thế lực nhỏ ngoài không gian vũ trụ xa xôi.>> Các thành viên đội viễn chinh vô tình trôi dạt tới vũ trụ Mindustry này :o<<\n...\n    >>> Xem các thông tin chỉnh sửa cân bằng tại trang Github của tôi bằng cách nhấn vào nút >Repo<>Kho lưu trữ< bên dưới <<<"
+  },
+  {
     "repo": "leyn-pl/iconpicker",
     "internalName": "icon-picker",
     "name": "Icon Picker",
@@ -5754,20 +5768,6 @@
     "description": "Hiển thị thanh máu cho đơn vị trong 5 giây sau khi bị thương, kèm hiệu ứng vỡ khi chết."
   },
   {
-    "repo": "guritso/michat",
-    "internalName": "michat",
-    "name": "MiChat",
-    "version": "1.8.6",
-    "hidden": false,
-    "author": "guritso",
-    "lastUpdated": "2026-11-15T20:07:35Z",
-    "stars": 2,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Peer-to-peer chat over WireGuard, Tailscale, or your local LAN. Chat across separate single-player and campaign sessions without hosting the same server, share schematics, and use native chat alongside MiChat when hosting or joining a server."
-  },
-  {
     "repo": "determination-wind/ra2announcer",
     "internalName": "ra2-announcer",
     "name": "RA2 Announcer 索菲亚战场播报",
@@ -5782,18 +5782,18 @@
     "description": "Red Alert 2 battlefield announcer with the original Sophia (Zofia) voice: waves, base alerts, rally and core-threat detection, manual control marking, unit/building loss reports with callout names, production and high-value target alerts, command-mode unit watch, plus a right-side event feed. 红警2索菲亚语音战场播报:波次/基地警报、敌方集结与核心威胁、单控标点、带具体类别的损失与生产播报、指挥模式单位监控、右侧事件卡片。"
   },
   {
-    "repo": "newxaky/neowex",
-    "internalName": "newex",
-    "name": "NeoWex 1.0.2 J",
-    "version": "1.0.2",
+    "repo": "guritso/michat",
+    "internalName": "michat",
+    "name": "MiChat",
+    "version": "1.8.8",
     "hidden": false,
-    "author": "XakyW56",
-    "lastUpdated": "2026-11-16T12:25:49Z",
+    "author": "guritso",
+    "lastUpdated": "2026-11-16T17:36:10Z",
     "stars": 2,
-    "minGameVersion": "157",
+    "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
-    "description": "...\nÝ tưởng xây dựng 1 thế lực nhỏ ngoài không gian vũ trụ xa xôi.>> Các thành viên đội viễn chinh vô tình trôi dạt tới vũ trụ Mindustry này :o<<\n...\n    >>> Xem các thông tin chỉnh sửa cân bằng tại trang Github của tôi bằng cách nhấn vào nút >Repo<>Kho lưu trữ< bên dưới <<<"
+    "description": "Peer-to-peer chat over WireGuard, Tailscale, or your local LAN. Chat across separate single-player and campaign sessions without hosting the same server, share schematics, and use native chat alongside MiChat when hosting or joining a server."
   },
   {
     "repo": "lehanchic/factory-units",
@@ -7210,20 +7210,6 @@
     "description": "The Ring of Hell — a pack of 7 sectors maps"
   },
   {
-    "repo": "fallendraggon/miningaimode",
-    "internalName": "maim-java-mod",
-    "name": "MiningAIMode",
-    "version": "1.5",
-    "hidden": true,
-    "author": "FD",
-    "lastUpdated": "2026-10-03T11:05:33Z",
-    "stars": 1,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Automatic mining AI: assigns miner units to resources by quotas/crisis logic."
-  },
-  {
     "repo": "b-919/water-reflections",
     "internalName": "b919-waterreflection",
     "name": "Water Reflections Mod",
@@ -7748,7 +7734,7 @@
     "version": "Beta: 0.1.2",
     "hidden": false,
     "author": "[#9B59D0]X[#B56BE8]e[#D86FEA]a[#FF69B4]n[]",
-    "lastUpdated": "2026-11-16T06:53:22Z",
+    "lastUpdated": "2026-11-16T23:31:21Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -8918,7 +8904,7 @@
     "description": "Turn images into Mindustry canvas schematics.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "fallavalon/scheme-size-plus",
+    "repo": "kargfirtan/scheme-size-plus",
     "internalName": "scheme-size-plus",
     "name": "Size Plus (S+)",
     "version": "0.5.4",
@@ -9184,20 +9170,6 @@
     "description": "  [#93E2EE]Exoprosopa[] adds a new planet, Frostnova, into the game.\n  Frostnova is a deceptively frozen planet. A volatile and hazardous tundra hides a dormant faction, Astral.\n  It has a fully playable campaign with 20 campaign and 11 optional maps. \n  \n  Polished content & linear campaign progression.\n  Contains over 320 pieces of unique content, including blocks, liquids, items, units and specialized guardian.\n  Pure modded without reuse any vanilla content.\n  \n  [accent]If you find any issues or want to gives suggestions\n  feel free to join the Exoprosopa Discord server.\n  Check it on my profile. My username is tnmspiroctmain[].\n  \n  [#93E2EE]Exoprosopa[] is available in the following languages:\n  - English\n  - Indonesian\n  - Russian\n  - Simplified Chinese\n\nEnjoy!"
   },
   {
-    "repo": "redeagle0705/shinny-dustry",
-    "internalName": "mshaders",
-    "name": "Mindustry Shaders",
-    "version": "0.1.1",
-    "hidden": true,
-    "author": "REDEagle0705, Claude",
-    "lastUpdated": "2026-11-16T12:37:38Z",
-    "stars": 0,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks stop, metal glint, hand-drawn normal maps that light blocks by calculation, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Desktop and Android. Tested on v160.7."
-  },
-  {
     "repo": "ntt335/gamepad-support-mindustry-mod",
     "internalName": "gamepad-support-mindustry-mod",
     "name": "Gamepad Support mod",
@@ -9210,5 +9182,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Full Cross-Platform Controller Support for Mindustry v154+ (Java 17).\nNative support for Linux, Windows 10/11, macOS, and Android (including legacy versions).\nWorks out of the box with DualSense, DualShock 4, Xbox One/Series, and standard USB/Bluetooth gamepads.\n\nFeatures:\n• 3 Gameplay Modes: Normal (L2), Build (R1), and Command (L1)\n• Free Camera & Detachment: Scout anywhere on map with D-Pad; L2/L3 to snap back\n• Smart Building & Derelict Repair: Empty-cursor R2 repairs abandoned derelicts & broken plans; line build, area deconstruct, pipette, schematics\n• Full RTS Control: Box unit selection, target assignment, and command/stance cycling\n• Per-Category Stick Inversion: Separate OX/OY stick inversion for all 6 categories\n• UI & Menu Navigation: Virtual cursor with click, drag & scroll support\n• Full In-Game Settings: Rebindable buttons, sensitivity sliders, deadzone & axis tuning"
+  },
+  {
+    "repo": "redeagle0705/shinny-dustry",
+    "internalName": "mshaders",
+    "name": "Mindustry Shaders",
+    "version": "0.1.4",
+    "hidden": true,
+    "author": "REDEagle0705, Claude",
+    "lastUpdated": "2026-11-16T22:24:12Z",
+    "stars": 0,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks and units stop, metal glint, hand-drawn normal maps that light blocks by calculation, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Desktop and Android. Tested on v160.7."
   }
 ]
