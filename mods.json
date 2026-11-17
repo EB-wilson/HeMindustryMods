@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-11-16T12:43:18Z",
-    "stars": 650,
+    "stars": 651,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -636,7 +636,7 @@
     "version": "1.7.0",
     "hidden": true,
     "author": "I hope...",
-    "lastUpdated": "2026-10-24T09:58:57Z",
+    "lastUpdated": "2026-11-17T02:50:58Z",
     "stars": 43,
     "minGameVersion": "159.2",
     "hasScripts": false,
@@ -1260,6 +1260,20 @@
     "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
+    "repo": "laomoze/warhammer",
+    "internalName": "wh",
+    "name": "WarHammer",
+    "version": "beta.3.81",
+    "hidden": false,
+    "author": "[yellow]Lao[gold]Mo[goldenrod]ze",
+    "lastUpdated": "2026-11-08T15:00:32Z",
+    "stars": 20,
+    "minGameVersion": "160.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": " [accent]以战锤40k为原型的MOD[]，拥有自设模组背景和战锤或许关系不大,设定与qq群链接可以到 [accent]模组简介[]里面找\n[sky]QQ群316481519[]\n[unlaunched]贡献者:DOC-A-7244(bundles和翻译),Eipusino(java技术指导)[]\n [accent]The MOD based on Warhammer 40k[],Having a custom mod background may not necessarily relate to Warhammer， with its settings and links to the QQ group, can be found in the  [accent]mod introduction[]\n[sky]QQ group 316481519[]\nDiscord will consider adding features in its subsequent improvements\n[unlaunched]Contributors: DOC-A-7244 (bundles and translation), Eipusino (Java technical guidance)[]"
+  },
+  {
     "repo": "sporrus/randommindustry",
     "internalName": "random-mindustry",
     "name": "Random Mindustry",
@@ -1300,20 +1314,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
-  },
-  {
-    "repo": "laomoze/warhammer",
-    "internalName": "wh",
-    "name": "WarHammer",
-    "version": "beta.3.81",
-    "hidden": false,
-    "author": "[yellow]Lao[gold]Mo[goldenrod]ze",
-    "lastUpdated": "2026-11-08T15:00:32Z",
-    "stars": 19,
-    "minGameVersion": "160.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": " [accent]以战锤40k为原型的MOD[]，拥有自设模组背景和战锤或许关系不大,设定与qq群链接可以到 [accent]模组简介[]里面找\n[sky]QQ群316481519[]\n[unlaunched]贡献者:DOC-A-7244(bundles和翻译),Eipusino(java技术指导)[]\n [accent]The MOD based on Warhammer 40k[],Having a custom mod background may not necessarily relate to Warhammer， with its settings and links to the QQ group, can be found in the  [accent]mod introduction[]\n[sky]QQ group 316481519[]\nDiscord will consider adding features in its subsequent improvements\n[unlaunched]Contributors: DOC-A-7244 (bundles and translation), Eipusino (Java technical guidance)[]"
   },
   {
     "repo": "itzcraft/epsilon",
@@ -2148,7 +2148,7 @@
     "version": "[cyan] 0.4",
     "hidden": false,
     "author": "[#FC00EB]Aira <愛蘭>",
-    "lastUpdated": "2026-11-15T20:42:45Z",
+    "lastUpdated": "2026-11-17T02:02:16Z",
     "stars": 10,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -3380,7 +3380,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "幻境模组制作团队",
-    "lastUpdated": "2026-11-15T10:02:33Z",
+    "lastUpdated": "2026-11-17T06:29:53Z",
     "stars": 5,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -3988,6 +3988,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod aims to make debugging in Mindustry Logic a bit easier:[lightgray]\n\nEnhanced [accent]Vars[] screen: full precision values, sorting and filtering variables, copying variables to the clipboard.\n\n[accent]Memory[] screen for inspecting contents of memory blocks, using the same interface as the [accent]Vars[] screen.\n\nSettings for overriding instruction limit, by up to 1000 instructions, to make space for additional debugging code.\n\n[accent]Snapshots[] allow saving, reviewing and restoring the state of logic processors, memory blocks and other entities.\n\nA [accent]profiler[] for gathering statistics about program execution.\n\n[accent]Logging[]: a custom `log` instruction can create ligging messages that can be later inspected from the UI.\n\nCustom mlog instructions for performing runtime checks, logging messages, reporting errors, triggering a breakpoint, taking snaphots and managing profiling.\n\nVisual indication of stopped processors, processors executing a [accent]wait[] instruction, and failed runtime checks, directly on the map.\n\n[white]Using this mod on maps with lots of processors may impact the game's performance.[]\n\nSee the [accent]README.md[] file in the mod's GitHub repository for more information."
+  },
+  {
+    "repo": "palle00/eclipse-build",
+    "internalName": "eclipse",
+    "name": "ECLIPSE",
+    "version": "0.3.1",
+    "hidden": false,
+    "author": "palle00",
+    "lastUpdated": "2026-11-16T06:17:20Z",
+    "stars": 4,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A new era of industry: deep chemical engineering, advanced materials and expanded warfare."
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -4676,20 +4690,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "palle00/eclipse-build",
-    "internalName": "eclipse",
-    "name": "ECLIPSE",
-    "version": "0.3.1",
-    "hidden": false,
-    "author": "palle00",
-    "lastUpdated": "2026-11-16T06:17:20Z",
-    "stars": 3,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A new era of industry: deep chemical engineering, advanced materials and expanded warfare."
-  },
-  {
     "repo": "dark-matter-yt/mobile-tool",
     "internalName": "mobile-tools",
     "name": "Mobile Tools",
@@ -4710,7 +4710,7 @@
     "version": "1.0.2",
     "hidden": false,
     "author": "XakyW56",
-    "lastUpdated": "2026-11-16T18:28:34Z",
+    "lastUpdated": "2026-11-17T07:42:43Z",
     "stars": 3,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -5794,6 +5794,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Peer-to-peer chat over WireGuard, Tailscale, or your local LAN. Chat across separate single-player and campaign sessions without hosting the same server, share schematics, and use native chat alongside MiChat when hosting or joining a server."
+  },
+  {
+    "repo": "idupe/delivarica-mod",
+    "internalName": "delivarica-mod",
+    "name": "Delivarica",
+    "version": "v0.1",
+    "hidden": false,
+    "author": "\"Revision Team \"",
+    "lastUpdated": "2026-11-16T19:10:01Z",
+    "stars": 2,
+    "minGameVersion": "160.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n\nOur first full-fledged mod makes a significant contribution to the expansion of game content by adding a new planet. Despite potential technical errors or flaws. I am sure that this mod will enrich the user's gaming experience. I would appreciate any feedback that will help improve the quality of the mod.\n    \n    Authors:\n       Sprites -  Splinter  (Split) \n        Code - iÐupe\n        Maps- Yartera \n        Music- 深淵\n        \n    Special Thanks:\n        Bloody Ocean\n        Afarius\n"
   },
   {
     "repo": "lehanchic/factory-units",
@@ -7658,34 +7672,6 @@
     "description": "Machines close to each other work together as one; drills, pumps, factories, generators, reactors. A single input or output serves the whole line.\n\nv1.11.7\nDrills now accept raw items only, so crafted items like silicon can't enter them. This makes the drills uncloggable when placed alongside factories\nThis makes for neat base designs because I have ocd and I cant take it when I see them all wonky ahh\n\nv1.11.3\nFixed the drills that \"were\" letting items pass through them... but it was inconsistent.. this problem also broke my intention of being able to chain them with factories that require their inputs but they were also exporting their produced materials to the drills instead xd\n\nv1.11.1\nTurrets: chaining turrets of the same type share coolant, so one conduit cools a whole arsenal of turrets, except ammo. They still need seperate ammo inputs tho\nConveyors can now pass items through any drill in a chain, and those items flow to the chain's exit\n\nv1.10.0 - Balance update\nDrill and pump capacities lowered from 50 to their vanilla values (e.g. pneumatic drill = 10 item capacity) to keep them balanced\n\nv1.9.1 - Hotfix\nFixed long chains of factories (more than 5) not fully emptying through a single output. Products now drain toward the factory touching an output, so the far end empties too. If the output is removed or blocked for a while, the chain spreads evenly again and recovers when another output line is connected. One output line can only carry so much, so use a faster or higher storage belt if a chain holds up\n\nv1.9\nReactors: touching reactors balance their coolant, so one conduit feeds the whole row. However, fuel is never moved\nFactories: touching factories of the same type share inputs and outputs, so one pipe, conveyor and output line serve a whole row (except unit factories)\nDrills: boost liquids like water is now shared along the chain"
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.3.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-11-14T07:38:12Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
-    "repo": "skhallops/more-utils",
-    "internalName": "mass driver tiers",
-    "name": "Mass Driver Tiers",
-    "version": "1.1.00.0",
-    "hidden": false,
-    "author": "Skhall",
-    "lastUpdated": "2026-11-14T09:50:18Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds two late-game tiers of mass drivers: a thorium-powered driver with extended range, and a massive surge-alloy driver for endgame logistics."
-  },
-  {
     "repo": "fat-bird-owner/gier-java-side",
     "internalName": "gier-java",
     "name": "Gier: Java Side",
@@ -7734,12 +7720,26 @@
     "version": "Beta: 0.1.2",
     "hidden": false,
     "author": "[#9B59D0]X[#B56BE8]e[#D86FEA]a[#FF69B4]n[]",
-    "lastUpdated": "2026-11-16T23:31:21Z",
+    "lastUpdated": "2026-11-17T01:07:22Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "Nevix—a mod inspired by Newex—introduces a turret system with a vast array of upgrade options, opening up an entirely new playstyle."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.3.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-11-17T02:42:41Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -8076,20 +8076,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "shannaflenda/stronger-boss",
-    "internalName": "strongerboss",
-    "name": "Stronger Boss",
-    "version": "0.1.0",
-    "hidden": true,
-    "author": "Shannaflenda",
-    "lastUpdated": "2025-10-25T05:44:24Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Greatly enhances the boss's health and attack."
   },
   {
     "repo": "gh-ntt/morecontentmod",
@@ -9196,5 +9182,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks and units stop, metal glint, hand-drawn normal maps that light blocks by calculation, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Desktop and Android. Tested on v160.7."
+  },
+  {
+    "repo": "shannaflenda/stronger-boss",
+    "internalName": "strongerboss",
+    "name": "Stronger Boss",
+    "version": "0.1.0",
+    "hidden": true,
+    "author": "Shannaflenda",
+    "lastUpdated": "2026-11-17T01:43:36Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Greatly enhances the boss's health and attack."
   }
 ]
