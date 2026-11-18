@@ -2100,20 +2100,6 @@
     "description": "A plugin mod for Mindustry that gives you more control over your saves: back up and restore a whole save (maps, schematics and progress settings included), edit the maps inside a save or a backup without leaving the game, keep several independent players on one device, and sync a save between devices with a cloud save server you host yourself. It adds no game content and does not affect net multiplayer. More details in the GitHub repo."
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "version": "0.6.6",
-    "hidden": false,
-    "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-11-13T12:15:21Z",
-    "stars": 10,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
-  },
-  {
     "repo": "koctz34/modularis",
     "internalName": "modularis",
     "name": "Modularis",
@@ -2140,6 +2126,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[#037300]Eventide is an ambitious mod focused on creating a new campaign with its own unique lore. It takes place on a planet that once teemed with abundant, long-standing life but became a desolate wasteland following a massive catastrophe (though not one devoid of life). The planet is rich in valuable minerals and inhabited by numerous, extremely territorial life-forms.\n\n[#FF0000]Note: The mod is still in early development; many things may change in the future, such as sprites, sounds, enemies, lore, etc.\n\nArachnophobia warning for sensitive individuals.\n\nIf you would like to contribute to the mod in any way, join our Discord server."
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "version": "0.6.6",
+    "hidden": false,
+    "author": "Watermolecules and Hydroabyss",
+    "lastUpdated": "2026-11-18T12:49:10Z",
+    "stars": 10,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
     "repo": "agzam4/mindustry-mod",
@@ -3380,7 +3380,7 @@
     "version": "0.21",
     "hidden": false,
     "author": "幻境模组制作团队",
-    "lastUpdated": "2026-11-17T06:29:53Z",
+    "lastUpdated": "2026-11-18T10:44:07Z",
     "stars": 5,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -3391,10 +3391,10 @@
     "repo": "palle00/eclipse-build",
     "internalName": "eclipse",
     "name": "ECLIPSE",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "hidden": false,
     "author": "palle00",
-    "lastUpdated": "2026-11-18T09:15:40Z",
+    "lastUpdated": "2026-11-18T16:49:23Z",
     "stars": 5,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -3892,20 +3892,6 @@
     "description": "[TESTING VERSION - may contain bugs and softlocks!] A meme overhaul in the spirit of Factorio's Fun Mode: a pile of cursed-but-playable gameplay changes, each toggleable. Works in singleplayer and when hosting; joining someone else's server disables the simulation-touching curses.\n\n[ТЕСТОВАЯ ВЕРСИЯ - возможны баги и софтлоки!] Мем-переделка в духе Fun Mode для Factorio: набор безумных, но играбельных изменений геймплея, каждое из которых можно включить или выключить отдельно. Работает в одиночной игре и при хостинге; при подключении к чужому серверу механики, влияющие на симуляцию, автоматически отключаются."
   },
   {
-    "repo": "ls-hdu/multi-crafter-lib",
-    "internalName": "multi-crafter-lib",
-    "name": "MultiCrafter 库",
-    "version": "1.0.5",
-    "hidden": false,
-    "author": "LS",
-    "lastUpdated": "2026-10-20T16:15:40Z",
-    "stars": 4,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n多配方工厂\nMultiCraft\n\n\n[white]一个内含了多个支持json配置的建筑基类的库模组，包含以下内容：\n\n\n多配方工厂\n\t（支持物品，流体，电力，热量，载荷输入输出（\n对于建筑载荷的输入输出与单位载荷的输入，可以简单将其看作为种难以搬运的物品，而对于单位输出，由于能力限制，作者不得不设置成在有单位输出时强制设置单位载荷的容量为1并设置工厂的朝向以使单位可以正常输出\n（简单点讲，单位输出会让工厂（在执行那个配方时）表现的像一个serpulo式的单位工厂）\n（同时，在执行有单位输出的配方时，支持指令的控制（表现的像一个serpulo式的单位工厂一样：）\n））））\n\n\t支持为每个配方单独设置环境加成，另外，也支持将配方设置成分离器模式，此时会将配方中作为输出的物品以类分离器的行为随机输出（\n是的，只针对物品输出，你问作者为什么只处理物品？因为原版分离器就只对物品输出随机，虽然准确的讲他只能输出物品：）\n）\n\n\t（自动为每个配方生成一个虚拟建筑（以工厂本身贴图为配方虚拟建筑贴图）\n并允许为每个配方单独设置解锁条件，并会在配方有单独解锁条件时自动将其挂载在所属建筑的子节点（同时也支持手动配置、修改配方的节点位置）\n，也允许单独在地图规则中手动禁用一个配方（通过在地图规则的禁用建筑中查找这个配方并禁用它））\n\n多配方Erekir式组装厂\n\n\t（我知道这看上去有点重复，但是显然Serpulo的单位工厂跟Erekir的单位组装厂是两种建筑，如果S星的单位工厂尚且能通过用多配方工厂替代，E星的单位组装厂则只能单独处理）\n\n\t（当一个多配方工厂处于一个模块等级时，可以选择不高于当前组装厂模块等级的所有配方进行单位生产，并允许同一模块等级有多个配方）\n\n全方向物品与流体桥\n\t（这个应该不需要额外描述）\n\n流体分类器\n\t（如同物品分类器那样，不储存流体，直接运输\n（为了攻破不储存流体、同时朝两侧运输、同时运输来自不同方向的多种流体（由于多种液体不能储存在同一管道中，来自同一方向的多种液体显然是不存在的，故而未单独处理与测试）不同的问题作者尝试了很久，最终不得不使用了每帧改变运输方向运输的方式，这导致流体分类器只有360/s的流体运输速率））\n\n除了分类器之外所有类型的混装（同时运输物品与液体）的物流元件\n\t（也包括前述的全方向桥类，此外，对于溢流门，采用了路由器的方式运输流体）\n\n焚化分类器\n\t（简单点讲，是焚化炉与分类器的结合体，不过通电时所有不焚烧的物品都会朝前输出，这是特意设计的）\n\n（这是赠品）不限速度的装卸器\n\n\t（如其名字所说，能以超高速运输的装卸器，实测速度至少能到600000,不过，作为警告，显而易见，以过高速度运行的装卸器会导致游戏卡慢，甚至卡死）\n\n\t[red]（加入伟大的装卸器神教吧！！！）\n\n\n[white]A library mod containing multiple building base classes that support JSON configuration, including the following content:\n\nMultiCraft\n\t(Supports item, fluid, power, heat, and payload input/output\n(for building payload input/output and unit payload input, it can simply be treated as an item that is difficult to transport.\nFor unit output, due to capability limitations, the author has to force the unit payload capacity to 1 and set the factory's orientation\nwhen there is unit output so that units can be output normally\n(simply put, unit output makes the factory behave like a Serpulo-style UnitFactory while executing that recipe)\n(also, when executing a recipe with unit output, it supports command control\n(behaving like a Serpulo-style UnitFactory ：）\n)))))\n\n\tSupports setting environmental bonuses individually for each recipe.\nAdditionally, recipes can be set to Separator mode, in which the items output by the recipe are output randomly like a Separator\n(yes, only for item output. You ask why the author only handles items?\nBecause the vanilla Separator only randomizes item output, although to be precise, it can only output items ：）\n))\n\n\t(Automatically generates a virtual building for each recipe\n(using the factory's own sprite as the recipe virtual building's sprite)\nand allows setting unlock conditions individually for each recipe.\nWhen a recipe has its own unlock condition, it will automatically be mounted under the parent building's child node\n(manual configuration/modification of the recipe's node position is also supported).\nIt also allows manually disabling a recipe in map rules\n(by finding and disabling this recipe in the map rules' banned blocks))\n\nMultiCraft Erekir-style Assembler (I know this looks a bit repetitive, but obviously Serpulo's UnitFactory and Erekir's UnitAssembler are two different buildings.\nIf Serpulo's UnitFactory can still be replaced by MultiCraft, Erekir's UnitAssembler can only be handled separately.)\n\n\t(When a MultiCraft UnitAssembler is at a module tier, it can select all recipes up to the current assembler module tier for unit production, and multiple recipes are allowed at the same module tier.)\n\nOmnidirectional Item and Fluid Bridge\n\t(This should not need additional description.)\n\nFluid Sorter\n\t(Like an item Sorter, it does not store fluids and transports directly\n(To address the three distinct issues — no fluid storage, simultaneous bidirectional transport,\nand concurrent transport of multiple fluids from different directions，\n(As multiple fluids cannot be stored in a single conduit,\nand multiple fluids arriving from the same direction is inherently impossible,\nthis scenario was not separately implemented or tested.)\nthe author spent a long time iterating on solutions,\nand ultimately had to adopt a mechanism that alternates the transport direction every frame.\nThis limits the Fluid Sorter to a fluid transport rate of only 360/s.)\n\nAll types of mixed (transporting items and liquids simultaneously) logistics components except the Sorter\n\n\t(Also includes the aforementioned omnidirectional bridge types.\nAdditionally, for the OverflowGate, fluids are transported in a Router-like manner.)\n\nIncinerator Sorter\n\t(Simply put, it is a combination of an Incinerator and a Sorter,\nbut when powered, all items that are not incinerated are output forward. This is intentionally designed.)\n\n( This is a bonus ) Speed-Unlimited Unloader\n\t(As its name suggests,\nan Unloader that can transport at ultra-high speed. The measured speed reaches at least 600,000.\nHowever, as a warning, obviously, running an Unloader at too high a speed will cause the game to lag, or even freeze.)\n\n\t[red](Join the great Unloader cult!!!)\n\n\n[accent]特别感谢名单：\n[accent]Special thanks:\n\n[accent]·悠闲的小凡[white]（拉进交流群等）\n\n[accent]·火星人076[white]（大量工作，包括但不限于测试，实现思路提供等）\n\n[accent]·Momiji142857[white]（代码参考，部分思路来源）\n\n[accent]·AErvela[white]（代码参考，部分思路来源）\n\n[accent]·所有参与测试、提出建议和汇报错误的网友们\n       "
-  },
-  {
     "repo": "nickseal80/mindustry-time-factor-2",
     "internalName": "time-factor 2",
     "name": "Time Factor 2",
@@ -4016,6 +4002,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod aims to make debugging in Mindustry Logic a bit easier:[lightgray]\n\nEnhanced [accent]Vars[] screen: full precision values, sorting and filtering variables, copying variables to the clipboard.\n\n[accent]Memory[] screen for inspecting contents of memory blocks, using the same interface as the [accent]Vars[] screen.\n\nSettings for overriding instruction limit, by up to 1000 instructions, to make space for additional debugging code.\n\n[accent]Snapshots[] allow saving, reviewing and restoring the state of logic processors, memory blocks and other entities.\n\nA [accent]profiler[] for gathering statistics about program execution.\n\n[accent]Logging[]: a custom `log` instruction can create ligging messages that can be later inspected from the UI.\n\nCustom mlog instructions for performing runtime checks, logging messages, reporting errors, triggering a breakpoint, taking snaphots and managing profiling.\n\nVisual indication of stopped processors, processors executing a [accent]wait[] instruction, and failed runtime checks, directly on the map.\n\n[white]Using this mod on maps with lots of processors may impact the game's performance.[]\n\nSee the [accent]README.md[] file in the mod's GitHub repository for more information."
+  },
+  {
+    "repo": "ls-hdu/multi-crafter-lib",
+    "internalName": "multi-crafter-lib",
+    "name": "MultiCrafter 库",
+    "version": "1.0.5",
+    "hidden": false,
+    "author": "LS",
+    "lastUpdated": "2026-11-18T11:10:18Z",
+    "stars": 4,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n多配方工厂\nMultiCraft\n\n\n[white]一个内含了多个支持json配置的建筑基类的库模组，包含以下内容：\n\n\n多配方工厂\n\t（支持物品，流体，电力，热量，载荷输入输出（\n对于建筑载荷的输入输出与单位载荷的输入，可以简单将其看作为种难以搬运的物品，而对于单位输出，由于能力限制，作者不得不设置成在有单位输出时强制设置单位载荷的容量为1并设置工厂的朝向以使单位可以正常输出\n（简单点讲，单位输出会让工厂（在执行那个配方时）表现的像一个serpulo式的单位工厂）\n（同时，在执行有单位输出的配方时，支持指令的控制（表现的像一个serpulo式的单位工厂一样：）\n））））\n\n\t支持为每个配方单独设置环境加成，另外，也支持将配方设置成分离器模式，此时会将配方中作为输出的物品以类分离器的行为随机输出（\n是的，只针对物品输出，你问作者为什么只处理物品？因为原版分离器就只对物品输出随机，虽然准确的讲他只能输出物品：）\n）\n\n\t（自动为每个配方生成一个虚拟建筑（以工厂本身贴图为配方虚拟建筑贴图）\n并允许为每个配方单独设置解锁条件，并会在配方有单独解锁条件时自动将其挂载在所属建筑的子节点（同时也支持手动配置、修改配方的节点位置）\n，也允许单独在地图规则中手动禁用一个配方（通过在地图规则的禁用建筑中查找这个配方并禁用它））\n\n多配方Erekir式组装厂\n\n\t（我知道这看上去有点重复，但是显然Serpulo的单位工厂跟Erekir的单位组装厂是两种建筑，如果S星的单位工厂尚且能通过用多配方工厂替代，E星的单位组装厂则只能单独处理）\n\n\t（当一个多配方工厂处于一个模块等级时，可以选择不高于当前组装厂模块等级的所有配方进行单位生产，并允许同一模块等级有多个配方）\n\n全方向物品与流体桥\n\t（这个应该不需要额外描述）\n\n流体分类器\n\t（如同物品分类器那样，不储存流体，直接运输\n（为了攻破不储存流体、同时朝两侧运输、同时运输来自不同方向的多种流体（由于多种液体不能储存在同一管道中，来自同一方向的多种液体显然是不存在的，故而未单独处理与测试）不同的问题作者尝试了很久，最终不得不使用了每帧改变运输方向运输的方式，这导致流体分类器只有360/s的流体运输速率））\n\n除了分类器之外所有类型的混装（同时运输物品与液体）的物流元件\n\t（也包括前述的全方向桥类，此外，对于溢流门，采用了路由器的方式运输流体）\n\n焚化分类器\n\t（简单点讲，是焚化炉与分类器的结合体，不过通电时所有不焚烧的物品都会朝前输出，这是特意设计的）\n\n（这是赠品）不限速度的装卸器\n\n\t（如其名字所说，能以超高速运输的装卸器，实测速度至少能到600000,不过，作为警告，显而易见，以过高速度运行的装卸器会导致游戏卡慢，甚至卡死）\n\n\t[red]（加入伟大的装卸器神教吧！！！）\n\n\n[white]A library mod containing multiple building base classes that support JSON configuration, including the following content:\n\nMultiCraft\n\t(Supports item, fluid, power, heat, and payload input/output\n(for building payload input/output and unit payload input, it can simply be treated as an item that is difficult to transport.\nFor unit output, due to capability limitations, the author has to force the unit payload capacity to 1 and set the factory's orientation\nwhen there is unit output so that units can be output normally\n(simply put, unit output makes the factory behave like a Serpulo-style UnitFactory while executing that recipe)\n(also, when executing a recipe with unit output, it supports command control\n(behaving like a Serpulo-style UnitFactory ：）\n)))))\n\n\tSupports setting environmental bonuses individually for each recipe.\nAdditionally, recipes can be set to Separator mode, in which the items output by the recipe are output randomly like a Separator\n(yes, only for item output. You ask why the author only handles items?\nBecause the vanilla Separator only randomizes item output, although to be precise, it can only output items ：）\n))\n\n\t(Automatically generates a virtual building for each recipe\n(using the factory's own sprite as the recipe virtual building's sprite)\nand allows setting unlock conditions individually for each recipe.\nWhen a recipe has its own unlock condition, it will automatically be mounted under the parent building's child node\n(manual configuration/modification of the recipe's node position is also supported).\nIt also allows manually disabling a recipe in map rules\n(by finding and disabling this recipe in the map rules' banned blocks))\n\nMultiCraft Erekir-style Assembler (I know this looks a bit repetitive, but obviously Serpulo's UnitFactory and Erekir's UnitAssembler are two different buildings.\nIf Serpulo's UnitFactory can still be replaced by MultiCraft, Erekir's UnitAssembler can only be handled separately.)\n\n\t(When a MultiCraft UnitAssembler is at a module tier, it can select all recipes up to the current assembler module tier for unit production, and multiple recipes are allowed at the same module tier.)\n\nOmnidirectional Item and Fluid Bridge\n\t(This should not need additional description.)\n\nFluid Sorter\n\t(Like an item Sorter, it does not store fluids and transports directly\n(To address the three distinct issues — no fluid storage, simultaneous bidirectional transport,\nand concurrent transport of multiple fluids from different directions，\n(As multiple fluids cannot be stored in a single conduit,\nand multiple fluids arriving from the same direction is inherently impossible,\nthis scenario was not separately implemented or tested.)\nthe author spent a long time iterating on solutions,\nand ultimately had to adopt a mechanism that alternates the transport direction every frame.\nThis limits the Fluid Sorter to a fluid transport rate of only 360/s.)\n\nAll types of mixed (transporting items and liquids simultaneously) logistics components except the Sorter\n\n\t(Also includes the aforementioned omnidirectional bridge types.\nAdditionally, for the OverflowGate, fluids are transported in a Router-like manner.)\n\nIncinerator Sorter\n\t(Simply put, it is a combination of an Incinerator and a Sorter,\nbut when powered, all items that are not incinerated are output forward. This is intentionally designed.)\n\n( This is a bonus ) Speed-Unlimited Unloader\n\t(As its name suggests,\nan Unloader that can transport at ultra-high speed. The measured speed reaches at least 600,000.\nHowever, as a warning, obviously, running an Unloader at too high a speed will cause the game to lag, or even freeze.)\n\n\t[red](Join the great Unloader cult!!!)\n\n\n[accent]特别感谢名单：\n[accent]Special thanks:\n\n[accent]·悠闲的小凡[white]（拉进交流群等）\n\n[accent]·火星人076[white]（大量工作，包括但不限于测试，实现思路提供等）\n\n[accent]·Momiji142857[white]（代码参考，部分思路来源）\n\n[accent]·AErvela[white]（代码参考，部分思路来源）\n\n[accent]·所有参与测试、提出建议和汇报错误的网友们\n       "
   },
   {
     "repo": "justvi333/svapipai-mod",
@@ -4710,7 +4710,7 @@
     "version": "1.0.5",
     "hidden": false,
     "author": "XakyW56",
-    "lastUpdated": "2026-11-18T07:23:57Z",
+    "lastUpdated": "2026-11-18T17:45:50Z",
     "stars": 3,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -5726,20 +5726,6 @@
     "description": "FLOATING DAMAGE\nTEXT BROOO!!!!!!"
   },
   {
-    "repo": "lamamega/attarax-modpack",
-    "internalName": "attarax mod-pack",
-    "name": "AttaraX Mod-Pack",
-    "version": "1.0",
-    "hidden": false,
-    "author": "AttaraX",
-    "lastUpdated": "2026-11-14T20:37:02Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry? Yes, but more!"
-  },
-  {
     "repo": "jovinull/vesper",
     "internalName": "vesper",
     "name": "Vesper",
@@ -5802,12 +5788,26 @@
     "version": "v0.1",
     "hidden": false,
     "author": "\"Revision Team \"",
-    "lastUpdated": "2026-11-18T08:46:07Z",
+    "lastUpdated": "2026-11-18T10:19:17Z",
     "stars": 2,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "\n\nOur first full-fledged mod makes a significant contribution to the expansion of game content by adding a new planet. Despite potential technical errors or flaws. I am sure that this mod will enrich the user's gaming experience. I would appreciate any feedback that will help improve the quality of the mod.\n    \n    Authors:\n       Sprites -  Splinter  (Split) \n        Code - iÐupe\n        Maps- Yartera \n        Music- 深淵\n        \n    Special Thanks:\n        Bloody Ocean\n        Afarius\n"
+  },
+  {
+    "repo": "lamamega/attarax-modpack",
+    "internalName": "attarax mod-pack",
+    "name": "AttaraX Mod-Pack",
+    "version": "1.0",
+    "hidden": false,
+    "author": "AttaraX",
+    "lastUpdated": "2026-11-18T13:51:25Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry? Yes, but more!"
   },
   {
     "repo": "lehanchic/factory-units",
@@ -7644,34 +7644,6 @@
     "description": "Machines close to each other work together as one; drills, pumps, factories, generators, reactors. A single input or output serves the whole line.\n\nv1.11.7\nDrills now accept raw items only, so crafted items like silicon can't enter them. This makes the drills uncloggable when placed alongside factories\nThis makes for neat base designs because I have ocd and I cant take it when I see them all wonky ahh\n\nv1.11.3\nFixed the drills that \"were\" letting items pass through them... but it was inconsistent.. this problem also broke my intention of being able to chain them with factories that require their inputs but they were also exporting their produced materials to the drills instead xd\n\nv1.11.1\nTurrets: chaining turrets of the same type share coolant, so one conduit cools a whole arsenal of turrets, except ammo. They still need seperate ammo inputs tho\nConveyors can now pass items through any drill in a chain, and those items flow to the chain's exit\n\nv1.10.0 - Balance update\nDrill and pump capacities lowered from 50 to their vanilla values (e.g. pneumatic drill = 10 item capacity) to keep them balanced\n\nv1.9.1 - Hotfix\nFixed long chains of factories (more than 5) not fully emptying through a single output. Products now drain toward the factory touching an output, so the far end empties too. If the output is removed or blocked for a while, the chain spreads evenly again and recovers when another output line is connected. One output line can only carry so much, so use a faster or higher storage belt if a chain holds up\n\nv1.9\nReactors: touching reactors balance their coolant, so one conduit feeds the whole row. However, fuel is never moved\nFactories: touching factories of the same type share inputs and outputs, so one pipe, conveyor and output line serve a whole row (except unit factories)\nDrills: boost liquids like water is now shared along the chain"
   },
   {
-    "repo": "lebrops/sporbels-inventions",
-    "internalName": "sporbel's inventions",
-    "name": "SporBel's Inventions",
-    "version": "1.2",
-    "hidden": false,
-    "author": "SporBel (aka. leBropS)",
-    "lastUpdated": "2026-11-15T15:16:11Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many things to Mindustry for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-11-15T15:59:03Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "welloty/chichti",
     "internalName": "chichts-menu",
     "name": "ЧИЧТЫ",
@@ -7692,7 +7664,7 @@
     "version": "1.3.0",
     "hidden": true,
     "author": "xpdustry",
-    "lastUpdated": "2026-11-17T11:42:50Z",
+    "lastUpdated": "2026-11-18T13:39:50Z",
     "stars": 1,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -7706,7 +7678,7 @@
     "version": "v1",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-11-18T05:41:30Z",
+    "lastUpdated": "2026-11-18T15:09:14Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -7714,18 +7686,46 @@
     "description": "Java import of gier: revitalized."
   },
   {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-11-18T16:51:26Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
     "repo": "xerxes-anominus/nevix",
     "internalName": "nevix",
     "name": "Nevix",
-    "version": "Beta: 0.1.2",
+    "version": "Beta: 0.2.0",
     "hidden": false,
     "author": "[#9B59D0]X[#B56BE8]e[#D86FEA]a[#FF69B4]n[]",
-    "lastUpdated": "2026-11-18T07:52:59Z",
+    "lastUpdated": "2026-11-18T16:54:22Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "Nevix—a mod inspired by Newex—introduces a turret system with a vast array of upgrade options, opening up an entirely new playstyle."
+  },
+  {
+    "repo": "lebrops/sporbels-inventions",
+    "internalName": "sporbel's inventions",
+    "name": "SporBel's Inventions",
+    "version": "1.2",
+    "hidden": false,
+    "author": "SporBel (aka. leBropS)",
+    "lastUpdated": "2026-11-18T18:14:38Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many things to Mindustry for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -9142,20 +9142,6 @@
     "description": "  [#93E2EE]Exoprosopa[] adds a new planet, Frostnova, into the game.\n  Frostnova is a deceptively frozen planet. A volatile and hazardous tundra hides a dormant faction, Astral.\n  It has a fully playable campaign with 20 campaign and 11 optional maps. \n  \n  Polished content & linear campaign progression.\n  Contains over 320 pieces of unique content, including blocks, liquids, items, units and specialized guardian.\n  Pure modded without reuse any vanilla content.\n  \n  [accent]If you find any issues or want to gives suggestions\n  feel free to join the Exoprosopa Discord server.\n  Check it on my profile. My username is tnmspiroctmain[].\n  \n  [#93E2EE]Exoprosopa[] is available in the following languages:\n  - English\n  - Indonesian\n  - Russian\n  - Simplified Chinese\n\nEnjoy!"
   },
   {
-    "repo": "ntt335/gamepad-support-mindustry-mod",
-    "internalName": "gamepad-support-mindustry-mod",
-    "name": "Gamepad Support mod",
-    "version": "v1.1.0",
-    "hidden": true,
-    "author": "NTT & wareal-nah",
-    "lastUpdated": "2026-11-16T12:59:12Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Full Cross-Platform Controller Support for Mindustry v154+ (Java 17).\nNative support for Linux, Windows 10/11, macOS, and Android (including legacy versions).\nWorks out of the box with DualSense, DualShock 4, Xbox One/Series, and standard USB/Bluetooth gamepads.\n\nFeatures:\n• 3 Gameplay Modes: Normal (L2), Build (R1), and Command (L1)\n• Free Camera & Detachment: Scout anywhere on map with D-Pad; L2/L3 to snap back\n• Smart Building & Derelict Repair: Empty-cursor R2 repairs abandoned derelicts & broken plans; line build, area deconstruct, pipette, schematics\n• Full RTS Control: Box unit selection, target assignment, and command/stance cycling\n• Per-Category Stick Inversion: Separate OX/OY stick inversion for all 6 categories\n• UI & Menu Navigation: Virtual cursor with click, drag & scroll support\n• Full In-Game Settings: Rebindable buttons, sensitivity sliders, deadzone & axis tuning"
-  },
-  {
     "repo": "shannaflenda/stronger-boss",
     "internalName": "strongerboss",
     "name": "Stronger Boss",
@@ -9210,5 +9196,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Fast icon text entry with live autocomplete, full glossary, and custom many-to-many aliases."
+  },
+  {
+    "repo": "dman2210/mindustry-github-save-mod",
+    "internalName": "github-save-sync",
+    "name": "GitHub Save Sync",
+    "version": "1.1.1",
+    "hidden": false,
+    "author": "Dylan Brown",
+    "lastUpdated": "2026-11-18T16:20:55Z",
+    "stars": 0,
+    "minGameVersion": "160.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Synchronize complete Mindustry game data between devices through a private GitHub repository."
   }
 ]
