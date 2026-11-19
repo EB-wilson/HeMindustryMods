@@ -21,7 +21,7 @@
     "hidden": false,
     "author": "sk7725",
     "lastUpdated": "2026-08-16T10:44:50Z",
-    "stars": 376,
+    "stars": 377,
     "minGameVersion": "159",
     "hasScripts": false,
     "hasJava": true,
@@ -154,6 +154,20 @@
     "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
   },
   {
+    "repo": "blackdeluxecat/mi2-utilities-java",
+    "internalName": "mi2-utilities-java",
+    "name": "MI2-Utilities Java",
+    "version": "1.16.2",
+    "hidden": true,
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2026-09-13T14:37:50Z",
+    "stars": 143,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "QOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players."
+  },
+  {
     "repo": "stabu-dev/omaloon",
     "internalName": "omaloon",
     "name": "Omaloon",
@@ -166,20 +180,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An ambitious campaign expansion featuring a brand new star system.\n\n[red]⚠️ Stable Build is Outdated ⚠️[]\nThe current stable release doesn't support Mindustry v8. All new features and v8 compatibility are actively being built in [accent]Indev[] (In-Development) snapshots.\n\n[accent]How to play the v8 Indevs:[]\nThe default install button ignores pre-releases. To get the latest content:\n[gray]1.[] Tap [accent]View Releases[] in this menu.\n[gray]2.[] Select the newest [orange]indev[] version.\n[gray]3.[] Install it manually."
-  },
-  {
-    "repo": "blackdeluxecat/mi2-utilities-java",
-    "internalName": "mi2-utilities-java",
-    "name": "MI2-Utilities Java",
-    "version": "1.16.2",
-    "hidden": true,
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2026-09-13T14:37:50Z",
-    "stars": 142,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "QOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players."
   },
   {
     "repo": "eschatologue/unlimited-armament-works",
@@ -280,6 +280,20 @@
     "description": "[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
+    "repo": "meepoffaith/prog-mats-java",
+    "internalName": "",
+    "name": "Meepscellaneous Concepts",
+    "version": "30.6",
+    "hidden": false,
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
+    "lastUpdated": "2026-06-22T23:13:09Z",
+    "stars": 91,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN."
+  },
+  {
     "repo": "abomb4/super-cheat",
     "internalName": "invincible cheat mod v8",
     "name": "(v8) Invincible Cheat 无敌作弊",
@@ -292,20 +306,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
-  },
-  {
-    "repo": "meepoffaith/prog-mats-java",
-    "internalName": "",
-    "name": "Meepscellaneous Concepts",
-    "version": "30.6",
-    "hidden": false,
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
-    "lastUpdated": "2026-06-22T23:13:09Z",
-    "stars": 90,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN."
   },
   {
     "repo": "vvseangtvv/project-restoration",
@@ -2268,20 +2268,6 @@
     "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
-    "repo": "routerxdd/forgotten-depths",
-    "internalName": "fd",
-    "name": "Forgotten Depths",
-    "version": "0.1A",
-    "hidden": false,
-    "author": "Unauthorized",
-    "lastUpdated": "2026-11-03T18:02:48Z",
-    "stars": 9,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod themed around game: Corebound by Overcurve\n\nOriginally supposed to be an april fools version of Buried In Ice but i fucked up with deadlines\n\n\nWARNING: Mod is not going to explain its own mechanics directly so... READ THE DAMN DESCRIPTIONS OF BLOCKS please...\n"
-  },
-  {
     "repo": "determination-wind/radial-build-menu-hud-",
     "internalName": "radial-build-menu",
     "name": "圆盘快捷建造 / Radial Build Menu",
@@ -2350,6 +2336,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A to be produced mod"
+  },
+  {
+    "repo": "routerxdd/forgotten-depths",
+    "internalName": "fd",
+    "name": "Forgotten Depths",
+    "version": "0.1A",
+    "hidden": false,
+    "author": "Unauthorized",
+    "lastUpdated": "2026-11-18T19:14:45Z",
+    "stars": 9,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod themed around game: Corebound by Overcurve\n\nOriginally supposed to be an april fools version of Buried In Ice but i fucked up with deadlines\n\n\nWARNING: Mod is not going to explain its own mechanics directly so... READ THE DAMN DESCRIPTIONS OF BLOCKS please...\n"
   },
   {
     "repo": "p101q/snowdustry",
@@ -5810,6 +5810,20 @@
     "description": "Mindustry? Yes, but more!"
   },
   {
+    "repo": "ntt335/gamepad-support-mindustry-mod",
+    "internalName": "gamepad-support-mindustry-mod",
+    "name": "Gamepad Support mod",
+    "version": "v1.0.0",
+    "hidden": true,
+    "author": "NTT & wareal-nah",
+    "lastUpdated": "2026-11-18T19:26:00Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Full Cross-Platform Controller Support for Mindustry v154+ (Java 17).\nNative support for Linux, Windows 10/11, macOS, and Android (including legacy versions).\nWorks out of the box with DualSense, DualShock 4, Xbox One/Series, and standard USB/Bluetooth gamepads.\n\nFeatures:\n• 3 Gameplay Modes: Normal (L2), Build (R1), and Command (L1)\n• Free Camera & Detachment: Scout anywhere on map with D-Pad; L2/L3 to snap back\n• Smart Building & Derelict Repair: Empty-cursor R2 repairs abandoned derelicts & broken plans; line build, area deconstruct, pipette, schematics\n• Full RTS Control: Box unit selection, target assignment, and command/stance cycling\n• Per-Category Stick Inversion: Separate OX/OY stick inversion for all 6 categories\n• UI & Menu Navigation: Virtual cursor with click, drag & scroll support\n• Full In-Game Settings: Rebindable buttons, sensitivity sliders, deadzone & axis tuning"
+  },
+  {
     "repo": "lehanchic/factory-units",
     "internalName": "factory units",
     "name": "Factory units",
@@ -7406,20 +7420,6 @@
     "description": "A Mindustry mod that adds nodes to transport items using laser links. Desktop Only Java Mod. For 160.5"
   },
   {
-    "repo": "wang-0-1/random-enhancement",
-    "internalName": "raen",
-    "name": " 随机强化  Random Enhancement",
-    "version": "160.3.5",
-    "hidden": false,
-    "author": "WaNg-0-1",
-    "lastUpdated": "2026-10-23T11:13:25Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "一个给敌军提供随机强化的Java模组\n A Java mod that gives random buffs to the enemy army"
-  },
-  {
     "repo": "lukanin122/schemedirection",
     "internalName": "scheme-direction",
     "name": "Scheme Direction",
@@ -7658,6 +7658,20 @@
     "description": "Рофло мод-меню: настраиваемый спавн Т5, очистка своих юнитов, эффекты и шуточные события."
   },
   {
+    "repo": "redeagle0705/shinny-dustry",
+    "internalName": "mshaders",
+    "name": "Mindustry Shaders",
+    "version": "0.1.7",
+    "hidden": true,
+    "author": "REDEagle0705, Claude",
+    "lastUpdated": "2026-11-18T05:10:42Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks and units stop, metal glint, hand-drawn normal maps that light blocks and units by calculation, engines of units as streaks of light, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Desktop and Android. Tested on v160.7."
+  },
+  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -7720,12 +7734,26 @@
     "version": "1.2",
     "hidden": false,
     "author": "SporBel (aka. leBropS)",
-    "lastUpdated": "2026-11-18T18:14:38Z",
+    "lastUpdated": "2026-11-18T19:21:06Z",
     "stars": 1,
     "minGameVersion": "152",
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things to Mindustry for example aircraft or nuclear technology! Highly ambitious project."
+  },
+  {
+    "repo": "wang-0-1/random-enhancement",
+    "internalName": "raen",
+    "name": " 随机强化  Random Enhancement",
+    "version": "160.3.92",
+    "hidden": false,
+    "author": "WaNg-0-1",
+    "lastUpdated": "2026-11-18T21:16:34Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "一个给单位或子弹提供随机强化的Java模组\n A Java mod that gives random buffs to units or bullets"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -9044,20 +9072,6 @@
     "description": "Mod adds a glow and bloom lighting system to Mindustry. Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects."
   },
   {
-    "repo": "ntt335/gamepad-support-for-linux-mindustry-mod",
-    "internalName": "gamepad-support-for-linux-mindustry-mod",
-    "name": "Gamepad support for linux mindustry mod",
-    "version": "v1.3.0",
-    "hidden": true,
-    "author": "NTT",
-    "lastUpdated": "2026-11-10T12:24:44Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Native Linux controller support via /dev/input/js*.\nWorks out of the box with DualSense, DualShock 4, and Xbox controllers without external native libraries.\n\nFeatures:\n• 3 Gameplay Modes: Normal (L2), Build (R1), and Command (L1)\n• Smart Building: Line placement, area deconstruct, block pipette, and area copy/paste\n• Inventory Inspector: Deposit items (hold X) or inspect & take resources from buildings (hold O)\n• Full RTS Control: Box unit selection, target assignment, and command/stance cycling\n• UI & Menu Navigation: Virtual cursor with click & drag support"
-  },
-  {
     "repo": "voidemptiness/ghost-cost",
     "internalName": "ghost-cost",
     "name": "Ghost Cost",
@@ -9168,20 +9182,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A collection of original turrets with custom mechanics, effects and pixel art: Volt (chain lightning), Frostbite (freezing, extinguishes fires), Titan (heavy armor-piercing cannon). More turrets coming."
-  },
-  {
-    "repo": "redeagle0705/shinny-dustry",
-    "internalName": "mshaders",
-    "name": "Mindustry Shaders",
-    "version": "0.1.7",
-    "hidden": true,
-    "author": "REDEagle0705, Claude",
-    "lastUpdated": "2026-11-18T05:10:42Z",
-    "stars": 0,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks and units stop, metal glint, hand-drawn normal maps that light blocks and units by calculation, engines of units as streaks of light, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Desktop and Android. Tested on v160.7."
   },
   {
     "repo": "darkjeanne/icontype",
