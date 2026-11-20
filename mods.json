@@ -174,7 +174,7 @@
     "version": "0.1.2A Indev 8",
     "hidden": false,
     "author": "stabu",
-    "lastUpdated": "2026-11-19T11:28:48Z",
+    "lastUpdated": "2026-11-20T08:20:03Z",
     "stars": 143,
     "minGameVersion": "159.7",
     "hasScripts": false,
@@ -203,7 +203,7 @@
     "hidden": false,
     "author": "twcash",
     "lastUpdated": "2026-11-17T11:14:08Z",
-    "stars": 135,
+    "stars": 136,
     "minGameVersion": "160.7",
     "hasScripts": false,
     "hasJava": true,
@@ -510,7 +510,7 @@
     "version": "6.1",
     "hidden": false,
     "author": "Liz Aurora",
-    "lastUpdated": "2026-11-18T02:55:15Z",
+    "lastUpdated": "2026-11-20T02:53:56Z",
     "stars": 52,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -1610,20 +1610,6 @@
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
-    "repo": "smolkeys/new-console-hardline",
-    "internalName": "newconsole-hardline",
-    "name": "New Console Hardline",
-    "version": "2.3",
-    "hidden": true,
-    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
-    "lastUpdated": "2026-02-19T14:17:45Z",
-    "stars": 13,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
     "repo": "bloodmoddingocean-coder/visual_plus",
     "internalName": "vplus",
     "name": "Visual+",
@@ -1692,6 +1678,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
+  },
+  {
+    "repo": "smolkeys/new-console-hardline",
+    "internalName": "newconsole-hardline",
+    "name": "New Console Hardline",
+    "version": "2.31",
+    "hidden": true,
+    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
+    "lastUpdated": "2026-11-20T03:36:08Z",
+    "stars": 13,
+    "minGameVersion": "155.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -3374,20 +3374,6 @@
     "description": "A co-op campaign mod for shared research. Players who joined the host can request research from the research screen, and the result is applied to the current campaign."
   },
   {
-    "repo": "palle00/eclipse-build",
-    "internalName": "eclipse",
-    "name": "ECLIPSE",
-    "version": "0.5.0",
-    "hidden": false,
-    "author": "palle00",
-    "lastUpdated": "2026-11-18T16:49:23Z",
-    "stars": 5,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A new era of industry: deep chemical engineering, advanced materials and expanded warfare."
-  },
-  {
     "repo": "youming66681/magic",
     "internalName": "magic",
     "name": "幻境/magical",
@@ -3400,6 +3386,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730\n服务器:103.40.14.91:42275\n备用:114.66.28.186:45689"
+  },
+  {
+    "repo": "palle00/eclipse-build",
+    "internalName": "eclipse",
+    "name": "ECLIPSE",
+    "version": "0.5.1",
+    "hidden": false,
+    "author": "palle00",
+    "lastUpdated": "2026-11-20T07:13:27Z",
+    "stars": 5,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A new era of industry: deep chemical engineering, advanced materials and expanded warfare."
   },
   {
     "repo": "koctz34/canvases",
@@ -4010,7 +4010,7 @@
     "version": "0.12.1",
     "hidden": true,
     "author": "cardillan",
-    "lastUpdated": "2026-11-19T21:54:08Z",
+    "lastUpdated": "2026-11-20T08:20:08Z",
     "stars": 4,
     "minGameVersion": "160.5",
     "hasScripts": false,
@@ -4676,20 +4676,6 @@
     "description": "Quick bar + tabbed menu: help builders, build planner, auto mine, auto Heal, speed boost, anti-grief with rebuild, overlays, and user detection."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "version": "4.3.9",
-    "hidden": true,
-    "author": "Xpdustry",
-    "lastUpdated": "2026-11-17T12:55:47Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "itzmellory/starlight",
     "internalName": "starlight",
     "name": "Starlight",
@@ -4720,16 +4706,30 @@
   {
     "repo": "newxaky/neowex",
     "internalName": "newex",
-    "name": "NeoWex 1.0.7s J",
-    "version": "1.0.7s",
+    "name": "NeoWex 1.0.7i A",
+    "version": "1.0.7i",
     "hidden": false,
     "author": "XakyW56",
-    "lastUpdated": "2026-11-19T16:36:31Z",
+    "lastUpdated": "2026-11-20T07:24:38Z",
     "stars": 3,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": true,
     "description": "...\nÝ tưởng xây dựng 1 thế lực nhỏ ngoài không gian vũ trụ xa xôi.>> Các thành viên đội viễn chinh vô tình trôi dạt tới vũ trụ Mindustry này :o<<\n...\n    >>> Xem các thông tin chỉnh sửa cân bằng tại trang Github của tôi bằng cách nhấn vào nút >Repo<>Kho lưu trữ< bên dưới <<<"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "version": "4.3.9",
+    "hidden": true,
+    "author": "Xpdustry",
+    "lastUpdated": "2026-11-20T09:36:33Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5656,20 +5656,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "version": "0.15",
-    "hidden": false,
-    "author": "oleskiy",
-    "lastUpdated": "2026-11-04T07:48:30Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
-  },
-  {
     "repo": "determination-wind/betterterraingen-v2",
     "internalName": "betterterraingen-v2",
     "name": "Better Terrain Gen V2 / 更自然的地形生成 V2",
@@ -5810,6 +5796,20 @@
     "description": "Peer-to-peer chat over WireGuard, Tailscale, or your local LAN. Chat across separate single-player and campaign sessions without hosting the same server, share schematics, and use native chat alongside MiChat when hosting or joining a server."
   },
   {
+    "repo": "darkjeanne/icontype",
+    "internalName": "icon-type",
+    "name": "IconType",
+    "version": "1.0.0",
+    "hidden": true,
+    "author": "darkjeanne",
+    "lastUpdated": "2026-11-18T07:09:07Z",
+    "stars": 2,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Fast icon text entry with live autocomplete, full glossary, and custom many-to-many aliases."
+  },
+  {
     "repo": "lamamega/attarax-modpack",
     "internalName": "attarax mod-pack",
     "name": "AttaraX Mod-Pack",
@@ -5843,13 +5843,27 @@
     "name": "Delivarica",
     "version": "v0.1",
     "hidden": false,
-    "author": "[#e06c4f]Revision[] [#fed570]Team[] [#808080][]",
-    "lastUpdated": "2026-11-19T14:11:37Z",
+    "author": "[#e06c4f]Remind[][#fed570]Team[] [#808080][]",
+    "lastUpdated": "2026-11-20T09:24:06Z",
     "stars": 2,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#fed570]Delivarica...[][#ffffff][] Everyone loves a good campaign on a brand-new planet. We know how annoying those [#fed570]cookie-cutter JSON mods[][#ffffff][] can get, so... Our mod brings a full-fledged playable planet to the table:\n\n• [#fed570]Brand-new, unique mechanics[][#ffffff][] (WIP)\n• [#fed570]40+ sectors[][#ffffff][] (WIP)\n• [#fed570]Custom polished visuals[][#ffffff][] (WIP)\n\nWe really went all out to pack this with as much awesome gameplay as possible. As this is our team's [#fed570]first-ever Java project[][#ffffff][], we'd hugely appreciate any feedback you've got!\n\n\n[#ffffff]-[] [#fed570] AUTHORS[] [#ffffff]-[]\n\n[#ffffff][] [#787878]Splinter[]  (Split)[#ffffff][] \n[#ffffff][]i[#d6cc94]Ð[][#cfbd5b]u[][#d1b930]p[#ffca2b]e[][#ffffff][]\n[#bd0029]Charizard[][#ffffff][]\n[#0052f7]Me[][#39a5f7]ch[][#39bbf7]an[][#00f7d2]ic[][#ffffff][]\n[#6ae861]Yartera[][#ffffff][]\n[#b681db]深[][#4d2e63]淵[][#ffffff][]\n\n\n[#ffffff]-[] [#fed570] SPECIAL THANKS [#ffffff]-[]\n\n[#fed570][] [#ffffff]Bloody Ocean[]\n[#fed570][] [#ffffff]Afarius[]"
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "version": "0.15",
+    "hidden": false,
+    "author": "oleskiy",
+    "lastUpdated": "2026-11-20T09:40:38Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
   },
   {
     "repo": "lehanchic/factory-units",
@@ -7658,20 +7672,6 @@
     "description": "Рофло мод-меню: настраиваемый спавн Т5, очистка своих юнитов, эффекты и шуточные события."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.3.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-11-18T13:39:50Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "radiancestorm/mindustry-corona-borealis",
     "internalName": "corona-borealis",
     "name": "Corona Borealis",
@@ -7742,32 +7742,46 @@
     "description": "Adds many things to Mindustry for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
-    "repo": "wang-0-1/random-enhancement",
-    "internalName": "raen",
-    "name": " 随机强化  Random Enhancement",
-    "version": "160.3.101",
-    "hidden": false,
-    "author": "WaNg-0-1",
-    "lastUpdated": "2026-11-19T20:07:17Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "一个给单位或子弹提供随机强化的Java模组\n A Java mod that gives random buffs to units or bullets"
-  },
-  {
     "repo": "xerxes-anominus/nevix",
     "internalName": "nevix",
     "name": "Nevix",
-    "version": "Beta: 0.2.0",
+    "version": "Beta: 0.2.1",
     "hidden": false,
     "author": "[#9B59D0]X[#B56BE8]e[#D86FEA]a[#FF69B4]n[]",
-    "lastUpdated": "2026-11-20T00:08:40Z",
+    "lastUpdated": "2026-11-20T01:53:04Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "Nevix—a mod inspired by Newex—introduces a turret system with a vast array of upgrade options, opening up an entirely new playstyle."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.3.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-11-20T06:05:38Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "wang-0-1/random-enhancement",
+    "internalName": "raen",
+    "name": " 随机强化  Random Enhancement",
+    "version": "160.3.102",
+    "hidden": false,
+    "author": "WaNg-0-1",
+    "lastUpdated": "2026-11-20T08:49:15Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "一个给单位或子弹提供随机强化的Java模组\n A Java mod that gives random buffs to units or bullets"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -9154,20 +9168,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A collection of original turrets with custom mechanics, effects and pixel art: Volt (chain lightning), Frostbite (freezing, extinguishes fires), Titan (heavy armor-piercing cannon). More turrets coming."
-  },
-  {
-    "repo": "darkjeanne/icontype",
-    "internalName": "icon-type",
-    "name": "IconType",
-    "version": "1.0.0",
-    "hidden": true,
-    "author": "darkjeanne",
-    "lastUpdated": "2026-11-18T07:09:07Z",
-    "stars": 0,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Fast icon text entry with live autocomplete, full glossary, and custom many-to-many aliases."
   },
   {
     "repo": "dman2210/mindustry-github-save-mod",
