@@ -4004,20 +4004,6 @@
     "description": "Native database and quick before/after diff viewer for Mindustry datapatches. / 保持原版数据库显示的数据补丁与快捷差异查看器。"
   },
   {
-    "repo": "oleksiy1409liut/periodic-overhaul",
-    "internalName": "periodic",
-    "name": "periodic overhaul",
-    "version": "0.11",
-    "hidden": false,
-    "author": "oleksiy",
-    "lastUpdated": "2026-11-21T14:44:34Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
-  },
-  {
     "repo": "cardillan/mlogdevtools",
     "internalName": "mlog-assertions-8",
     "name": "Mlog Dev Tools",
@@ -4030,6 +4016,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod aims to make debugging in Mindustry Logic a bit easier:[lightgray]\n\nEnhanced [accent]Vars[] screen: full precision values, sorting and filtering variables, copying variables to the clipboard.\n\n[accent]Memory[] screen for inspecting contents of memory blocks, using the same interface as the [accent]Vars[] screen.\n\nSettings for overriding instruction limit, by up to 1000 instructions, to make space for additional debugging code.\n\n[accent]Snapshots[] allow saving, reviewing and restoring the state of logic processors, memory blocks and other entities.\n\nA [accent]profiler[] for gathering statistics about program execution.\n\n[accent]Logging[]: a custom `log` instruction creates logging messages that can be inspected from the UI.\n\nCustom mlog instructions for performing runtime checks, logging messages, reporting errors, triggering a breakpoint, taking snapshots and managing profiling.\n\nVisual indication of stopped processors, processors executing a [accent]wait[] instruction, and failed runtime checks, directly on the map.\n\n[white]Using this mod on maps with lots of processors may impact the game's performance.[]\n\nSee the [accent]README.md[] file in the mod's GitHub repository for more information."
+  },
+  {
+    "repo": "oleksiy1409liut/periodic-overhaul",
+    "internalName": "periodic",
+    "name": "periodic overhaul",
+    "version": "0.11",
+    "hidden": false,
+    "author": "oleksiy",
+    "lastUpdated": "2026-11-21T19:02:49Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
   },
   {
     "repo": "justvi333/svapipai-mod",
@@ -4738,7 +4738,7 @@
     "version": "1.0.8s",
     "hidden": false,
     "author": "XakyW56",
-    "lastUpdated": "2026-11-21T14:30:32Z",
+    "lastUpdated": "2026-11-21T18:25:07Z",
     "stars": 3,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -5852,20 +5852,6 @@
     "description": "Full Cross-Platform Controller Support for Mindustry v154+ (Java 17).\nNative support for Linux, Windows 10/11, macOS, and Android (including legacy versions).\nWorks out of the box with DualSense, DualShock 4, Xbox One/Series, and standard USB/Bluetooth gamepads.\n\nFeatures:\n• 3 Gameplay Modes: Normal (L2), Build (R1), and Command (L1)\n• Free Camera & Detachment: Scout anywhere on map with D-Pad; L2/L3 to snap back\n• Smart Building & Derelict Repair: Empty-cursor R2 repairs abandoned derelicts & broken plans; line build, area deconstruct, pipette, schematics\n• Full RTS Control: Box unit selection, target assignment, and command/stance cycling\n• Per-Category Stick Inversion: Separate OX/OY stick inversion for all 6 categories\n• UI & Menu Navigation: Virtual cursor with click, drag & scroll support\n• Full In-Game Settings: Rebindable buttons, sensitivity sliders, deadzone & axis tuning"
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "version": "0.15",
-    "hidden": false,
-    "author": "oleskiy",
-    "lastUpdated": "2026-11-20T10:48:37Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
-  },
-  {
     "repo": "idupe/delivarica-mod",
     "internalName": "delivarica-mod",
     "name": "Delivarica",
@@ -5878,6 +5864,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#fed570]Delivarica...[][#ffffff][] Everyone loves a good campaign on a brand-new planet. We know how annoying those [#fed570]cookie-cutter JSON mods[][#ffffff][] can get, so... Our mod brings a full-fledged playable planet to the table:\n\n• [#fed570]Brand-new, unique mechanics[][#ffffff][] (WIP)\n• [#fed570]40+ sectors[][#ffffff][] (WIP)\n• [#fed570]Custom polished visuals[][#ffffff][] (WIP)\n\nWe really went all out to pack this with as much awesome gameplay as possible. As this is our team's [#fed570]first-ever Java project[][#ffffff][], we'd hugely appreciate any feedback you've got!\n\n\n[#ffffff]-[] [#fed570] AUTHORS[] [#ffffff]-[]\n\n[#ffffff][] [#787878]Splinter[]  (Split)[#ffffff][] \n[#ffffff][]i[#d6cc94]Ð[][#cfbd5b]u[][#d1b930]p[#ffca2b]e[][#ffffff][]\n[#bd0029]Charizard[][#ffffff][]\n[#0052f7]Me[][#39a5f7]ch[][#39bbf7]an[][#00f7d2]ic[][#ffffff][]\n[#6ae861]Yartera[][#ffffff][]\n[#b681db]深[][#4d2e63]淵[][#ffffff][]\n\n\n[#ffffff]-[] [#fed570] SPECIAL THANKS [#ffffff]-[]\n\n[#fed570][] [#ffffff]Bloody Ocean[]\n[#fed570][] [#ffffff]Afarius[]"
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "version": "0.15",
+    "hidden": false,
+    "author": "oleskiy",
+    "lastUpdated": "2026-11-21T21:37:40Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
   },
   {
     "repo": "lehanchic/factory-units",
@@ -7776,7 +7776,7 @@
     "version": "1.2.1",
     "hidden": false,
     "author": "SporBel (aka. leBropS)",
-    "lastUpdated": "2026-11-21T15:34:05Z",
+    "lastUpdated": "2026-11-21T19:37:56Z",
     "stars": 1,
     "minGameVersion": "152",
     "hasScripts": false,
