@@ -370,7 +370,7 @@
     "version": "1.1 beta build-2.2",
     "hidden": false,
     "author": "Team Oct",
-    "lastUpdated": "2026-11-19T18:52:53Z",
+    "lastUpdated": "2026-11-20T18:58:39Z",
     "stars": 66,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -608,7 +608,7 @@
     "version": "2.4.5",
     "hidden": true,
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-11-20T15:17:23Z",
+    "lastUpdated": "2026-11-20T18:54:28Z",
     "stars": 45,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -1078,6 +1078,20 @@
     "description": "\r\n[unlaunched]A personal[white] Serpulo campaign rework. Designed to be [#6d72af]a love letter[white] for those new to this game. \r\nHas [sky]minor buffs[white] on few vanilla weak blocks.\r\nThis mod is fixed at [sky]NORMAL[white] difficulty and cannot be changed.\r\n[sky]Contains 55+[white] sectors!\r\nAll maps are Serpulo environment compatible.\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.7 -- Stage 6-1 to 6-5 added. Multiple bugfixes, added more text hints in previous sectors.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Plooey\r\n"
   },
   {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "version": "101.5",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-11-10T06:28:31Z",
+    "stars": 24,
+    "minGameVersion": "160.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n- Fluid Cells\n\n\nOptional mods:\n- TooManyItems\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\nDo not directly download ProjReind and its dependencies in mod browser. The game chooses latest version differently for Java mods and JS/JSON mods, which can lead to unmatched version or even crash.\n\nDownload every single mod from \"View Releases\" manually. Do not rely on any means of auto-download or auto-update.\n\nVersion number including a date number (xxx.x.xxxxxxxx) is for unstable test versions. Normally you shouldn't download them, do not try test versions unless you're ready."
+  },
+  {
     "repo": "lehanchic25/testplanetmindustry",
     "internalName": "test",
     "name": "Test",
@@ -1104,20 +1118,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod for rendering black holes."
-  },
-  {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "version": "101.5",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-11-10T06:28:31Z",
-    "stars": 23,
-    "minGameVersion": "160.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n- Fluid Cells\n\n\nOptional mods:\n- TooManyItems\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\nDo not directly download ProjReind and its dependencies in mod browser. The game chooses latest version differently for Java mods and JS/JSON mods, which can lead to unmatched version or even crash.\n\nDownload every single mod from \"View Releases\" manually. Do not rely on any means of auto-download or auto-update.\n\nVersion number including a date number (xxx.x.xxxxxxxx) is for unstable test versions. Normally you shouldn't download them, do not try test versions unless you're ready."
   },
   {
     "repo": "jirocab/nyfalis",
@@ -1323,7 +1323,7 @@
     "hidden": false,
     "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
     "lastUpdated": "2026-11-17T15:12:59Z",
-    "stars": 19,
+    "stars": 18,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
@@ -1400,6 +1400,20 @@
     "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
   },
   {
+    "repo": "tyt-xexebe/qol-control",
+    "internalName": "qol-control",
+    "name": "QoL Control",
+    "version": "7.12",
+    "hidden": true,
+    "author": "TyTxexebe",
+    "lastUpdated": "2026-11-04T18:27:35Z",
+    "stars": 16,
+    "minGameVersion": "159.5",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A lot of useful & QoL features\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
+  },
+  {
     "repo": "meepoffaith/hallucinogen",
     "internalName": "hallucinogen",
     "name": "Hallucinogen",
@@ -1468,20 +1482,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factory\nNOT the most balanced"
-  },
-  {
-    "repo": "tyt-xexebe/qol-control",
-    "internalName": "qol-control",
-    "name": "QoL Control",
-    "version": "7.12",
-    "hidden": true,
-    "author": "TyTxexebe",
-    "lastUpdated": "2026-11-04T18:27:35Z",
-    "stars": 15,
-    "minGameVersion": "159.5",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A lot of useful & QoL features\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
     "repo": "gmugxd/qr-mod",
@@ -1848,6 +1848,20 @@
     "description": "The mod is about underwater campaign and more. \n[#4b457a]You're going TOO DEEP to come back[white] \n\nSpecial thanks to: \n [#ef75ff]Cirrusisakey (c4anide) - for many things[white] \n [#ffb969]AnDashik - some help[white] \n [#ff3d61]Skifor - some sounds[white] \n [#d488db]Scp Solverion - music[white]"
   },
   {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "version": "101.5",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-11-17T09:14:44Z",
+    "stars": 12,
+    "minGameVersion": "160.1",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
     "repo": "slotterleet/a-lot-of-damage",
     "internalName": "alod",
     "name": "A Lot of Damage!",
@@ -1974,20 +1988,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for the rare and powerful [#bf2851]Erythronite Crystals[].\nFor centuries, Aziris has remained in the hands of the [blue]Sentinels[]. Now it is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore.\nThere isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n\n[purple] https://discord.gg/2qc4WaCreP []\n\nCurrently unavailable for mobile platforms, sorry :/"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "version": "101.5",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-11-17T09:14:44Z",
-    "stars": 11,
-    "minGameVersion": "160.1",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "redstonneur1256/mindustry-modlib",
     "internalName": "!mod-library",
     "name": "Mod Library",
@@ -2098,6 +2098,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A plugin mod for Mindustry that gives you more control over your saves: back up and restore a whole save (maps, schematics and progress settings included), edit the maps inside a save or a backup without leaving the game, keep several independent players on one device, and sync a save between devices with a cloud save server you host yourself. It adds no game content and does not affect net multiplayer. More details in the GitHub repo."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "version": "101.5",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-11-10T06:28:04Z",
+    "stars": 10,
+    "minGameVersion": "160.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, recipe data, chemical reactions, environmental blocks and planets."
   },
   {
     "repo": "koctz34/modularis",
@@ -2308,20 +2322,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
-  },
-  {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "version": "101.5",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-11-10T06:28:04Z",
-    "stars": 9,
-    "minGameVersion": "160.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, recipe data, chemical reactions, environmental blocks and planets."
   },
   {
     "repo": "nikitos-f/signaturew",
@@ -3920,20 +3920,6 @@
     "description": "Resprites some of serpulo sprites available on vanilla mindustry, work in progress."
   },
   {
-    "repo": "bowen-h0/mindustry-mod-cryon",
-    "internalName": "cryon",
-    "name": "Project Farstar (Cryon)",
-    "version": "24.4.0",
-    "hidden": false,
-    "author": "Bowen-H0",
-    "lastUpdated": "2026-11-13T18:08:14Z",
-    "stars": 4,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
-  },
-  {
     "repo": "justsharga/modar-sharga",
     "internalName": "mod-ar",
     "name": "Ark of Rebirth",
@@ -3990,20 +3976,6 @@
     "description": "Addon son ton everon worn"
   },
   {
-    "repo": "oleksiy1409liut/periodic-overhaul",
-    "internalName": "periodic",
-    "name": "periodic overhaul",
-    "version": "0.11",
-    "hidden": false,
-    "author": "oleksiy",
-    "lastUpdated": "2026-11-19T19:28:45Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
-  },
-  {
     "repo": "cardillan/mlogdevtools",
     "internalName": "mlog-assertions-8",
     "name": "Mlog Dev Tools",
@@ -4016,6 +3988,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod aims to make debugging in Mindustry Logic a bit easier:[lightgray]\n\nEnhanced [accent]Vars[] screen: full precision values, sorting and filtering variables, copying variables to the clipboard.\n\n[accent]Memory[] screen for inspecting contents of memory blocks, using the same interface as the [accent]Vars[] screen.\n\nSettings for overriding instruction limit, by up to 1000 instructions, to make space for additional debugging code.\n\n[accent]Snapshots[] allow saving, reviewing and restoring the state of logic processors, memory blocks and other entities.\n\nA [accent]profiler[] for gathering statistics about program execution.\n\n[accent]Logging[]: a custom `log` instruction can create ligging messages that can be later inspected from the UI.\n\nCustom mlog instructions for performing runtime checks, logging messages, reporting errors, triggering a breakpoint, taking snaphots and managing profiling.\n\nVisual indication of stopped processors, processors executing a [accent]wait[] instruction, and failed runtime checks, directly on the map.\n\n[white]Using this mod on maps with lots of processors may impact the game's performance.[]\n\nSee the [accent]README.md[] file in the mod's GitHub repository for more information."
+  },
+  {
+    "repo": "oleksiy1409liut/periodic-overhaul",
+    "internalName": "periodic",
+    "name": "periodic overhaul",
+    "version": "0.11",
+    "hidden": false,
+    "author": "oleksiy",
+    "lastUpdated": "2026-11-20T20:04:10Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
+  },
+  {
+    "repo": "bowen-h0/mindustry-mod-cryon",
+    "internalName": "cryon",
+    "name": "Project Farstar (Cryon)",
+    "version": "24.4.0",
+    "hidden": false,
+    "author": "Bowen-H0",
+    "lastUpdated": "2026-11-20T23:49:21Z",
+    "stars": 4,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Project Farstar (formerly Cryon Mod) is an expansion that takes you to brand new planets.\n\nThe first planet, Cryon, is a frozen world. You can carry resources to other sectors, just like in Serpulo.\n\nOver 100+ new pieces of content! Including new ores, new machines, and new units.\n\nDevelopment progress:\n- Cryon: main campaign is complete, and more content is still in development.\n- Aravis: new planet, in development.\n\n\nThanks for playing this mod!\nFeel free to report issues or suggest ideas: github bowen-H0\n\nSupported languages: English / 中文\n\nNote: This mod was renamed from \"Cryon Mod\" to \"Project Farstar\". Your saves are safe.\n\n远星计划（原名 Cryon Mod）是一个带你前往全新星球的拓展模组。\n\n第一颗星球 Cryon 是一个冰封世界。和 塞普罗 一样,你可以把资源带到其他区块。\n\n超过 100+ 种全新内容!包括新的矿石、新的机器和新的单位。\n\n开发进度:\n- Cryon:主线战役已完成,更多内容仍在开发中。\n- Aravis:全新星球,开发中。\n\n\n感谢你游玩本模组!\n欢迎反馈问题或提出建议:github bowen-H0\n\n支持语言:English / 中文\n\n注意:本模组已从 \"Cryon Mod\" 更名为 \"Project Farstar\"。你的存档不会受到影响。\n\n\nContributors:\nLSK133\nGary\n"
   },
   {
     "repo": "justvi333/svapipai-mod",
@@ -4724,7 +4724,7 @@
     "version": "1.0.8",
     "hidden": false,
     "author": "XakyW56",
-    "lastUpdated": "2026-11-20T18:09:43Z",
+    "lastUpdated": "2026-11-20T19:55:30Z",
     "stars": 3,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -5642,6 +5642,20 @@
     "description": "a mod that add tier list as localization\nEnglish only\n"
   },
   {
+    "repo": "huanxefh/fluid-cells",
+    "internalName": "fcell",
+    "name": "Fluid Cells",
+    "version": "105",
+    "hidden": false,
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-11-01T07:25:13Z",
+    "stars": 2,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Automatically adds fluid cell items for every fluid in game, including those from mods."
+  },
+  {
     "repo": "hamsterhat/oct-lib",
     "internalName": "octlib",
     "name": "Octopus Defence Library",
@@ -5858,7 +5872,7 @@
     "version": "v0.1",
     "hidden": false,
     "author": "[#e06c4f]Remind[][#fed570]Team[] [#808080][]",
-    "lastUpdated": "2026-11-20T18:15:05Z",
+    "lastUpdated": "2026-11-20T18:23:29Z",
     "stars": 2,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -7504,20 +7518,6 @@
     "description": "Мод добавляющий много нового контента."
   },
   {
-    "repo": "huanxefh/fluid-cells",
-    "internalName": "fcell",
-    "name": "Fluid Cells",
-    "version": "105",
-    "hidden": false,
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-11-01T07:25:13Z",
-    "stars": 1,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Automatically adds fluid cell items for every fluid in game, including those from mods."
-  },
-  {
     "repo": "determination-wind/betterprojectoroverlay",
     "internalName": "betterprojectoroverlay",
     "name": "BetterProjectorOverlay",
@@ -7714,20 +7714,6 @@
     "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks and units stop, metal glint, hand-drawn normal maps that light blocks and units by calculation, engines of units as streaks of light, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Desktop and Android. Tested on v160.7."
   },
   {
-    "repo": "xerxes-anominus/nevix",
-    "internalName": "nevix",
-    "name": "Nevix",
-    "version": "Beta: 0.2.1",
-    "hidden": false,
-    "author": "[#9B59D0]X[#B56BE8]e[#D86FEA]a[#FF69B4]n[]",
-    "lastUpdated": "2026-11-20T01:53:04Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Nevix—a mod inspired by Newex—introduces a turret system with a vast array of upgrade options, opening up an entirely new playstyle."
-  },
-  {
     "repo": "wang-0-1/random-enhancement",
     "internalName": "raen",
     "name": " 随机强化  Random Enhancement",
@@ -7782,6 +7768,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things to Mindustry for example aircraft or nuclear technology! Highly ambitious project."
+  },
+  {
+    "repo": "xerxes-anominus/nevix",
+    "internalName": "nevix",
+    "name": "Nevix",
+    "version": "Beta: 0.2.1",
+    "hidden": false,
+    "author": "[#9B59D0]X[#B56BE8]e[#D86FEA]a[#FF69B4]n[]",
+    "lastUpdated": "2026-11-21T00:01:48Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Nevix—a mod inspired by Newex—introduces a turret system with a vast array of upgrade options, opening up an entirely new playstyle."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
