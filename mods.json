@@ -776,7 +776,7 @@
     "version": "190000",
     "hidden": true,
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-11-21T15:47:53Z",
+    "lastUpdated": "2026-11-22T03:42:07Z",
     "stars": 34,
     "minGameVersion": "160.1",
     "hasScripts": false,
@@ -2520,18 +2520,18 @@
     "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two unfinished planets.\nThere is 1 finished act within this mod.\n\n[salmon]- Turn on lighting, weather and turn off linear filtering for the best experience.\n\n[accent]\nOptionally give a star to show your support.\n\n[lightgrey]Thanks for playing.\n:)\n"
   },
   {
-    "repo": "alecthe2nd/tantros",
-    "internalName": "tantros",
-    "name": "Tantros",
-    "version": "1.2.1",
+    "repo": "thepi14/tekton",
+    "internalName": "tekton",
+    "name": "Tekton",
+    "version": "v0.4.43",
     "hidden": false,
-    "author": "Alecthe2nd, bob26786",
-    "lastUpdated": "2026-09-29T01:35:55Z",
+    "author": "ThePi14",
+    "lastUpdated": "2026-09-28T16:01:04Z",
     "stars": 8,
-    "minGameVersion": "160.4",
+    "minGameVersion": "160.2",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
+    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, blocks, units, mechanics and hazards.\n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
   },
   {
     "repo": "sharlottes/mlogwatcher",
@@ -2602,6 +2602,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-11-08[white]"
+  },
+  {
+    "repo": "alecthe2nd/tantros",
+    "internalName": "tantros",
+    "name": "Tantros",
+    "version": "1.2.1",
+    "hidden": false,
+    "author": "Alecthe2nd, bob26786",
+    "lastUpdated": "2026-11-22T02:24:58Z",
+    "stars": 8,
+    "minGameVersion": "160.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
   },
   {
     "repo": "mitemi/blastanium",
@@ -2784,20 +2798,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": " [accent]Admin Button 2[]  - A mod with lots of features for multiplayer and singleplayer games\n\n [accent]Control panel[]: Control panel with customizable buttons\n\n [accent]Chat enhancements[]: You can customize how your chat messages look so that you can stand out\n\n [accent]Wave viewer[]: Waves can be viewed while playing\n\n [accent]Image generator[]: Generating schematics with images has never been easier\n\n [accent]AutoFill[]: A very customizable way to automatically fill buildings with items\n\n [accent]Player controller[]: Automatically control your unit\n\n [accent]Turret range[]: Range of turrets can be viewed\n\n [accent]And more[]: Lots of other features"
-  },
-  {
-    "repo": "thepi14/tekton",
-    "internalName": "tekton",
-    "name": "Tekton",
-    "version": "v0.4.43",
-    "hidden": false,
-    "author": "ThePi14",
-    "lastUpdated": "2026-09-28T16:01:04Z",
-    "stars": 7,
-    "minGameVersion": "160.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, blocks, units, mechanics and hazards.\n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
   },
   {
     "repo": "sputnuc/expansion",
@@ -7700,20 +7700,6 @@
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
-    "repo": "redeagle0705/shinny-dustry",
-    "internalName": "mshaders",
-    "name": "Mindustry Shaders",
-    "version": "0.1.8",
-    "hidden": true,
-    "author": "REDEagle0705, Claude",
-    "lastUpdated": "2026-11-19T17:11:13Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks and units stop, metal glint, hand-drawn normal maps that light blocks and units by calculation, engines of units as streaks of light, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Desktop and Android. Tested on v160.7."
-  },
-  {
     "repo": "wang-0-1/random-enhancement",
     "internalName": "raen",
     "name": " 随机强化  Random Enhancement",
@@ -7756,20 +7742,6 @@
     "description": "Java import of gier: revitalized."
   },
   {
-    "repo": "xerxes-anominus/nevix",
-    "internalName": "nevix",
-    "name": "Nevix",
-    "version": "Beta: 0.2.1",
-    "hidden": false,
-    "author": "[#9B59D0]X[#B56BE8]e[#D86FEA]a[#FF69B4]n[]",
-    "lastUpdated": "2026-11-21T10:18:13Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Nevix—a mod inspired by Newex—introduces a turret system with a vast array of upgrade options, opening up an entirely new playstyle."
-  },
-  {
     "repo": "lebrops/sporbels-inventions",
     "internalName": "sporbel's inventions",
     "name": "SporBel's Inventions",
@@ -7782,6 +7754,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things to Mindustry for example aircraft or nuclear technology! Highly ambitious project."
+  },
+  {
+    "repo": "xerxes-anominus/nevix",
+    "internalName": "nevix",
+    "name": "Nevix",
+    "version": "Beta: 0.2.1",
+    "hidden": false,
+    "author": "[#9B59D0]X[#B56BE8]e[#D86FEA]a[#FF69B4]n[]",
+    "lastUpdated": "2026-11-22T00:55:07Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Nevix—a mod inspired by Newex—introduces a turret system with a vast array of upgrade options, opening up an entirely new playstyle."
+  },
+  {
+    "repo": "redeagle0705/shinny-dustry",
+    "internalName": "mshaders",
+    "name": "Mindustry Shaders",
+    "version": "0.1.9",
+    "hidden": true,
+    "author": "REDEagle0705, Claude",
+    "lastUpdated": "2026-11-22T02:11:11Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks and units stop, metal glint, hand-drawn normal maps that light blocks and units by calculation, engines of units as streaks of light, shields like glass bubbles, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Desktop and Android. Tested on v160.7."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -9238,5 +9238,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "帮助制作 Mindustry 基础模组的游戏内工具：新建 Mod、编辑、调试武器。Modding help basically 帮助制作基础模组"
+  },
+  {
+    "repo": "amayta-xd/clasmodila-mindustry-mod",
+    "internalName": "clasmodila",
+    "name": "Clasmodila",
+    "version": "3.0.0",
+    "hidden": false,
+    "author": "[cyan]amayta_xd[]",
+    "lastUpdated": "2026-11-22T00:08:55Z",
+    "stars": 0,
+    "minGameVersion": "159.7",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A new planet marked by is ancient civilizations and wars during is history, named [accent]Clasmodila[].\nThe [accent]Sharded[] team has sent you here to retrieve information about this planet, yet you know theres more than just information.\n\nAdds a new storyline to the game where you are selected as the leader of an operation to retake control on [accent]Clasmodila[] after a new enemy, [accent]Anthalos[], decided to show up and settle their own regiment.\n[red]NOTE: THIS IS A HARD MOD[]\n[red]IMPORTANT NOTE: BETTER TO BE PLAYED ON A NEW SAVE FILE DUE TO FILE CORRUPTION IN THE FULL RELEASE (AKA COMPLETE RESPRITE AND PROPER UNIT DESING)[]"
   }
 ]
