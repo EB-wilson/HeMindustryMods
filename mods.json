@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-11-16T12:43:18Z",
-    "stars": 650,
+    "stars": 651,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -524,7 +524,7 @@
     "version": "2.1.3.1",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-11-25T07:13:27Z",
+    "lastUpdated": "2026-11-25T18:00:36Z",
     "stars": 51,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -623,7 +623,7 @@
     "hidden": true,
     "author": "electricgun",
     "lastUpdated": "2026-05-17T17:10:49Z",
-    "stars": 43,
+    "stars": 44,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -776,7 +776,7 @@
     "version": "190000",
     "hidden": true,
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-11-23T11:32:12Z",
+    "lastUpdated": "2026-11-25T15:42:40Z",
     "stars": 34,
     "minGameVersion": "160.1",
     "hasScripts": false,
@@ -1820,32 +1820,32 @@
     "description": "Additional functionality"
   },
   {
-    "repo": "sputnuc/deepsea",
-    "internalName": "deepsea",
-    "name": "Project: Deep Sea",
-    "version": "0.4 (indev)",
-    "hidden": false,
-    "author": "[#ffd469]Sputnuc",
-    "lastUpdated": "2026-11-23T16:35:20Z",
-    "stars": 12,
-    "minGameVersion": "159",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod is about underwater campaign and more. \n[#4b457a]You're going TOO DEEP to come back[white] \n\nSpecial thanks to: \n [#ef75ff]Cirrusisakey (c4anide) - for many things[white] \n [#ffb969]AnDashik - some help[white] \n [#ff3d61]Skifor - some sounds[white] \n [#d488db]Scp Solverion - music[white]"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "version": "101.5",
     "hidden": false,
     "author": "MaboroshiX",
-    "lastUpdated": "2026-11-25T03:14:48Z",
+    "lastUpdated": "2026-11-25T14:18:05Z",
     "stars": 12,
     "minGameVersion": "160.1",
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "sputnuc/deepsea",
+    "internalName": "deepsea",
+    "name": "Project: Deep Sea",
+    "version": "0.4 (indev)",
+    "hidden": false,
+    "author": "[#ffd469]Sputnuc",
+    "lastUpdated": "2026-11-25T14:32:22Z",
+    "stars": 12,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod is about underwater campaign and more. \n[#4b457a]You're going TOO DEEP to come back[white] \n\nSpecial thanks to: \n [#ef75ff]Cirrusisakey (c4anide) - for many things[white] \n [#ffb969]AnDashik - some help[white] \n [#ff3d61]Skifor - some sounds[white] \n [#d488db]Scp Solverion - music[white]"
   },
   {
     "repo": "guiymou/sakana-and-chinanago",
@@ -2308,20 +2308,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A to be produced mod"
-  },
-  {
-    "repo": "unquis/fading-revelations-remake",
-    "internalName": "fading-revelations-remake",
-    "name": "Fading Revelations Remake",
-    "version": "2.5.0",
-    "hidden": false,
-    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2026-11-21T14:10:04Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "determination-wind/radial-build-menu-hud-",
@@ -3122,6 +3108,20 @@
     "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
+    "repo": "palle00/eclipse-build",
+    "internalName": "eclipse",
+    "name": "ECLIPSE",
+    "version": "1.0.1",
+    "hidden": false,
+    "author": "palle00",
+    "lastUpdated": "2026-11-25T20:10:57Z",
+    "stars": 6,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A new era of industry: deep chemical engineering, advanced materials and expanded warfare."
+  },
+  {
     "repo": "routerxdd/eternity-case",
     "internalName": "eternity-case",
     "name": "Eternity case",
@@ -3204,20 +3204,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Similar to NeonNights"
-  },
-  {
-    "repo": "jirocab/caster-ui-java",
-    "internalName": "caster-ui-java",
-    "name": "Caster User interface",
-    "version": "5.3",
-    "hidden": true,
-    "author": "RushieWashie, WMF Industries",
-    "lastUpdated": "2026-07-04T16:36:38Z",
-    "stars": 5,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
     "repo": "determination-wind/more-details",
@@ -3374,20 +3360,6 @@
     "description": "A co-op campaign mod for shared research. Players who joined the host can request research from the research screen, and the result is applied to the current campaign."
   },
   {
-    "repo": "palle00/eclipse-build",
-    "internalName": "eclipse",
-    "name": "ECLIPSE",
-    "version": "0.5.1",
-    "hidden": false,
-    "author": "palle00",
-    "lastUpdated": "2026-11-20T07:13:27Z",
-    "stars": 5,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A new era of industry: deep chemical engineering, advanced materials and expanded warfare."
-  },
-  {
     "repo": "youming66681/magic",
     "internalName": "magic",
     "name": "幻境/magical",
@@ -3400,6 +3372,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "幻境永无止境\n模组交流群：470748556\n密码：2023730\n服务器:103.40.14.91:42275\n备用:114.66.28.186:45689"
+  },
+  {
+    "repo": "jirocab/caster-ui-java",
+    "internalName": "caster-ui-java",
+    "name": "Caster User interface",
+    "version": "5.3",
+    "hidden": true,
+    "author": "RushieWashie, WMF Industries",
+    "lastUpdated": "2026-11-25T14:51:50Z",
+    "stars": 5,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
     "repo": "koctz34/canvases",
@@ -4424,20 +4410,6 @@
     "description": "The sun is gone guys, what do we do?"
   },
   {
-    "repo": "itsxeroc/scheme-size",
-    "internalName": "scheme-size",
-    "name": "!Scheme Size",
-    "version": "2.0.0",
-    "hidden": true,
-    "author": "Mithra\nOriginal: xzxADIxzx",
-    "lastUpdated": "2026-08-05T21:38:39Z",
-    "stars": 3,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A custom port of Scheme Size for newer Mindustry builds.\n\nStarted as a schematic size increase, now a set of QoL and admin tools: bigger schematics, building helpers, renderer options, AI, keybinds, CLaJ, and an advanced console.\n\nClient & server:\nSame jar works as a normal client mod and on a dedicated server. On a vanilla server (without this mod) you still get client QoL. If the server also has the jar, admin tools like fill, items, units, teleport and rules sync over the network - even when you are not the local host. Those actions require admin.\n\nRequires Mindustry v156+. One jar for desktop and mobile (156–159). Vanilla recommended.\n\nOriginal mod by xzxADIxzx. Port by Mithra. The original author is not involved in this port.\n\n\n - Schematic size 512\n - Building & renderer tools\n - Admin tools (optional server sync)\n - AI support\n - CLaJ, keybinds, updater\n - Advanced console & rule setter"
-  },
-  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
@@ -4730,6 +4702,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "itsxeroc/scheme-size",
+    "internalName": "scheme-size",
+    "name": "!Scheme Size",
+    "version": "3.0.0",
+    "hidden": true,
+    "author": "Mithra\nOriginal: xzxADIxzx",
+    "lastUpdated": "2026-11-25T11:13:27Z",
+    "stars": 3,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A custom port of Scheme Size for newer Mindustry builds.\n\nStarted as a schematic size increase, now a set of QoL and admin tools: bigger schematics, building helpers, renderer options, AI, keybinds, CLaJ, and an advanced console.\n\nClient & server:\nSame jar works as a normal client mod and on a dedicated server. On a vanilla server (without this mod) you still get client QoL. If the server also has the jar, admin tools like fill, items, units, teleport and rules sync over the network - even when you are not the local host. Those actions require admin.\n\nRequires Mindustry v160+. One jar for desktop and mobile (v160+). Vanilla recommended.\n\nOriginal mod by xzxADIxzx. Port by Mithra. The original author is not involved in this port.\n\n\n - Schematic size 512\n - Building & renderer tools\n - Admin tools (optional server sync)\n - AI support\n - CLaJ, keybinds, updater\n - Advanced console & rule setter"
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5886,7 +5872,7 @@
     "version": "1.0.11",
     "hidden": false,
     "author": "XakyW56",
-    "lastUpdated": "2026-11-25T09:14:04Z",
+    "lastUpdated": "2026-11-25T15:48:19Z",
     "stars": 2,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -7658,20 +7644,6 @@
     "description": "A planet shrouded in arcane mystery."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-11-19T16:13:40Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -7756,20 +7728,6 @@
     "description": "Client-side Alt+WASD free camera. Home returns to player."
   },
   {
-    "repo": "gghanera/mp-sectors",
-    "internalName": "mp-sectors",
-    "name": "MP Sectors",
-    "version": "0.7.3",
-    "hidden": true,
-    "author": "GGhanera",
-    "lastUpdated": "2026-11-24T11:06:48Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Runs one campaign sector per server instance, with a shared campaign folder (sector saves, sector info, research). Server-side only. Part of the multi-sector campaign setup."
-  },
-  {
     "repo": "xerxes-anominus/jpro",
     "internalName": "java-processor",
     "name": "JProcessor",
@@ -7812,18 +7770,60 @@
     "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
   },
   {
+    "repo": "determination-wind/chineseredstone",
+    "internalName": "chineseredstone",
+    "name": "吃呢瑟",
+    "version": "1.0.1",
+    "hidden": false,
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-11-25T13:20:50Z",
+    "stars": 1,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "为 Mindustry v159 添加一种新语言「吃呢瑟」——英文经最早的非神经网络谷歌翻译成中文，再被雷石东直放站转发一遍的结果。"
+  },
+  {
     "repo": "fat-bird-owner/gier-java-side",
     "internalName": "gier-java",
     "name": "Gier: Java Side",
     "version": "v1",
     "hidden": false,
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-11-25T09:17:32Z",
+    "lastUpdated": "2026-11-25T13:26:03Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "Java import of gier: revitalized."
+  },
+  {
+    "repo": "gghanera/mp-sectors",
+    "internalName": "mp-sectors",
+    "name": "MP Sectors",
+    "version": "0.7.5",
+    "hidden": true,
+    "author": "GGhanera",
+    "lastUpdated": "2026-11-25T13:43:22Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Runs one campaign sector per server instance, with a shared campaign folder (sector saves, sector info, research). Server-side only. Part of the multi-sector campaign setup."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-11-25T15:20:51Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -9316,7 +9316,7 @@
     "version": "2.6.0",
     "hidden": false,
     "author": "AkinoxPl (Steam) / halk6000 (Discord)",
-    "lastUpdated": "2026-11-24T21:32:11Z",
+    "lastUpdated": "2026-11-25T17:34:41Z",
     "stars": 0,
     "minGameVersion": "160",
     "hasScripts": false,
