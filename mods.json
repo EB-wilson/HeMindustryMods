@@ -7,7 +7,7 @@
     "hidden": false,
     "author": "Yuria & Lao",
     "lastUpdated": "2026-11-16T12:43:18Z",
-    "stars": 649,
+    "stars": 650,
     "minGameVersion": "159.7",
     "hasScripts": false,
     "hasJava": true,
@@ -356,7 +356,7 @@
     "version": "0.96",
     "hidden": false,
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-11-24T12:07:13Z",
+    "lastUpdated": "2026-11-24T23:58:49Z",
     "stars": 75,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -370,8 +370,8 @@
     "version": "1.1 beta build-2.2",
     "hidden": false,
     "author": "Team Oct",
-    "lastUpdated": "2026-11-22T18:47:39Z",
-    "stars": 67,
+    "lastUpdated": "2026-11-24T18:52:07Z",
+    "stars": 68,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -496,7 +496,7 @@
     "version": "0.51",
     "hidden": false,
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-11-24T14:29:29Z",
+    "lastUpdated": "2026-11-24T17:20:10Z",
     "stars": 54,
     "minGameVersion": "160",
     "hasScripts": true,
@@ -1050,6 +1050,20 @@
     "description": "Standalone high-fidelity dynamic shadow system\nThe first Shadow [#fed17b]Shaders [white]for Mindustry.\n\n[crimson]!NOTE: [white]These can be quite large [gray](not recommended for low-end devices).."
   },
   {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "version": "1.5.4",
+    "hidden": true,
+    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
+    "lastUpdated": "2026-11-24T09:20:20Z",
+    "stars": 25,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
+  },
+  {
     "repo": "mindustrydagger/vanillaplus",
     "internalName": "vanillaplus",
     "name": "VanillaPlus",
@@ -1126,26 +1140,12 @@
     "version": "1.7.9",
     "hidden": false,
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2026-11-17T15:05:01Z",
+    "lastUpdated": "2026-11-24T17:06:19Z",
     "stars": 23,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
-  },
-  {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "version": "1.5.4",
-    "hidden": true,
-    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-11-24T09:20:20Z",
-    "stars": 23,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
     "repo": "dong-wo-long/enhancementunits",
@@ -4004,20 +4004,6 @@
     "description": "This mod aims to make debugging in Mindustry Logic a bit easier:[lightgray]\n\nEnhanced [accent]Vars[] screen: full precision values, sorting and filtering variables, copying variables to the clipboard.\n\n[accent]Memory[] screen for inspecting contents of memory blocks, using the same interface as the [accent]Vars[] screen.\n\nSettings for overriding instruction limit, by up to 1000 instructions, to make space for additional debugging code.\n\n[accent]Snapshots[] allow saving, reviewing and restoring the state of logic processors, memory blocks and other entities.\n\nA [accent]profiler[] for gathering statistics about program execution.\n\n[accent]Logging[]: a custom `log` instruction creates logging messages that can be inspected from the UI.\n\nCustom mlog instructions for performing runtime checks, logging messages, reporting errors, triggering a breakpoint, taking snapshots and managing profiling.\n\nVisual indication of stopped processors, processors executing a [accent]wait[] instruction, and failed runtime checks, directly on the map.\n\n[white]Using this mod on maps with lots of processors may impact the game's performance.[]\n\nSee the [accent]README.md[] file in the mod's GitHub repository for more information."
   },
   {
-    "repo": "oleksiy1409liut/periodic-overhaul",
-    "internalName": "periodic",
-    "name": "periodic overhaul",
-    "version": "0.11",
-    "hidden": false,
-    "author": "oleksiy",
-    "lastUpdated": "2026-11-23T18:05:57Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
-  },
-  {
     "repo": "florfir/md-proxy",
     "internalName": "md-proxy",
     "name": "Proxy Mod",
@@ -4030,6 +4016,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "idk."
+  },
+  {
+    "repo": "oleksiy1409liut/periodic-overhaul",
+    "internalName": "periodic",
+    "name": "periodic overhaul",
+    "version": "0.11",
+    "hidden": false,
+    "author": "oleksiy",
+    "lastUpdated": "2026-11-24T17:13:51Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
   },
   {
     "repo": "justvi333/svapipai-mod",
@@ -7616,20 +7616,6 @@
     "description": "Make a beautiful world with feces."
   },
   {
-    "repo": "akilis81x/fenadi",
-    "internalName": "fenadi",
-    "name": "Fenadi",
-    "version": "0.1",
-    "hidden": false,
-    "author": "Akilis81",
-    "lastUpdated": "2026-11-11T14:20:08Z",
-    "stars": 1,
-    "minGameVersion": "154.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
-  },
-  {
     "repo": "use-lessdev/devilized-lunarians-system",
     "internalName": "lunarians",
     "name": "Lunarians",
@@ -7770,20 +7756,6 @@
     "description": "Client-side Alt+WASD free camera. Home returns to player."
   },
   {
-    "repo": "fat-bird-owner/gier-java-side",
-    "internalName": "gier-java",
-    "name": "Gier: Java Side",
-    "version": "v1",
-    "hidden": false,
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-11-24T08:13:26Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java import of gier: revitalized."
-  },
-  {
     "repo": "gghanera/mp-sectors",
     "internalName": "mp-sectors",
     "name": "MP Sectors",
@@ -7798,20 +7770,6 @@
     "description": "Runs one campaign sector per server instance, with a shared campaign folder (sector saves, sector info, research). Server-side only. Part of the multi-sector campaign setup."
   },
   {
-    "repo": "wang-0-1/random-enhancement",
-    "internalName": "raen",
-    "name": " 随机强化  Random Enhancement",
-    "version": "160.4.11",
-    "hidden": false,
-    "author": "WaNg-0-1",
-    "lastUpdated": "2026-11-24T12:13:44Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "一个给单位或子弹提供随机强化的Java模组\n A Java mod that gives random buffs to units or bullets"
-  },
-  {
     "repo": "xerxes-anominus/jpro",
     "internalName": "java-processor",
     "name": "JProcessor",
@@ -7824,6 +7782,48 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "wang-0-1/random-enhancement",
+    "internalName": "raen",
+    "name": " 随机强化  Random Enhancement",
+    "version": "160.4.12",
+    "hidden": false,
+    "author": "WaNg-0-1",
+    "lastUpdated": "2026-11-24T15:22:28Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "一个给单位或子弹提供随机强化的Java模组\n A Java mod that gives random buffs to units or bullets"
+  },
+  {
+    "repo": "akilis81x/fenadi",
+    "internalName": "fenadi",
+    "name": "Fenadi",
+    "version": "0.1",
+    "hidden": false,
+    "author": "Akilis81",
+    "lastUpdated": "2026-11-24T15:29:13Z",
+    "stars": 1,
+    "minGameVersion": "154.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
+  },
+  {
+    "repo": "fat-bird-owner/gier-java-side",
+    "internalName": "gier-java",
+    "name": "Gier: Java Side",
+    "version": "v1",
+    "hidden": false,
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2026-11-24T16:21:53Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java import of gier: revitalized."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -9156,7 +9156,7 @@
     "description": "Controlled by host"
   },
   {
-    "repo": "andrewmaiorov2010-source/fast-logic",
+    "repo": "tteraruaa/fast-logic",
     "internalName": "logic-speed-five",
     "name": "Fast Logic — Processor Speed",
     "version": "1.3.2",
@@ -9316,7 +9316,7 @@
     "version": "2.6.0",
     "hidden": false,
     "author": "AkinoxPl (Steam) / halk6000 (Discord)",
-    "lastUpdated": "2026-11-24T07:46:36Z",
+    "lastUpdated": "2026-11-24T21:32:11Z",
     "stars": 0,
     "minGameVersion": "160",
     "hasScripts": false,
