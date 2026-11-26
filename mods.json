@@ -202,7 +202,7 @@
     "version": "4.4.4",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-11-21T10:15:51Z",
+    "lastUpdated": "2026-11-26T22:49:02Z",
     "stars": 136,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -370,7 +370,7 @@
     "version": "1.1 beta build-2.2",
     "hidden": false,
     "author": "Team Oct",
-    "lastUpdated": "2026-11-24T18:52:07Z",
+    "lastUpdated": "2026-11-26T19:26:09Z",
     "stars": 68,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1840,7 +1840,7 @@
     "version": "0.4 (indev)",
     "hidden": false,
     "author": "[#ffd469]Sputnuc",
-    "lastUpdated": "2026-11-26T12:32:10Z",
+    "lastUpdated": "2026-11-26T14:21:56Z",
     "stars": 12,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -2268,20 +2268,6 @@
     "description": "A mod that overhauls the difficulty selection mechanic with better visuals, more flexible and new unique settings.\n\nThanks to lu69159/MoreCustomSettings for the modifiers that persist for each planet and some other code."
   },
   {
-    "repo": "coriummindustry/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "version": "2.9.3",
-    "hidden": true,
-    "author": "io community",
-    "lastUpdated": "2026-10-16T12:03:05Z",
-    "stars": 9,
-    "minGameVersion": "160.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Improves your experience on the official Corium  Flood server."
-  },
-  {
     "repo": "nikitos-f/signaturew",
     "internalName": "signaturew",
     "name": "Signature W",
@@ -2336,6 +2322,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
+  },
+  {
+    "repo": "coriummindustry/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "version": "2.9.4",
+    "hidden": true,
+    "author": "io community",
+    "lastUpdated": "2026-11-26T20:28:19Z",
+    "stars": 9,
+    "minGameVersion": "160.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Improves your experience on the official Corium  Flood server."
   },
   {
     "repo": "p101q/snowdustry",
@@ -4662,20 +4662,6 @@
     "description": "FLOATING DAMAGE\nTEXT BROOO!!!!!!"
   },
   {
-    "repo": "dark-matter-yt/mobile-tool",
-    "internalName": "mobile-tools",
-    "name": "Mobile Tools",
-    "version": "3.2.2",
-    "hidden": true,
-    "author": "Dark_Matter",
-    "lastUpdated": "2026-11-16T12:33:13Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Quick bar + tabbed menu: help builders, build planner, auto mine, auto Heal, speed boost, anti-grief with rebuild, overlays, and user detection."
-  },
-  {
     "repo": "r112007/combine",
     "internalName": "combine",
     "name": "组合工厂",
@@ -4718,6 +4704,20 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
+    "repo": "redeagle0705/shinny-dustry",
+    "internalName": "mshaders",
+    "name": "Mindustry Shaders",
+    "version": "0.2.2",
+    "hidden": true,
+    "author": "REDEagle0705, Claude",
+    "lastUpdated": "2026-11-25T06:33:17Z",
+    "stars": 3,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks and units stop, metal glint, hand-drawn normal maps that light blocks and units by calculation, engines of units as streaks of light, shields like glass bubbles, explosions with shock waves and scorch marks, waves from menders, status effects shown on units, weather on the ground (rain, snow, sandstorms), heat haze, smoke shadows, slag, tar and cryofluid, day and night, lasers that burn what they hit, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Desktop and Android. Tested on v160.7."
+  },
+  {
     "repo": "itsxeroc/scheme-size",
     "internalName": "scheme-size",
     "name": "!Scheme Size",
@@ -4744,6 +4744,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "磨米机库.\n2026-11-02"
+  },
+  {
+    "repo": "dark-matter-yt/mobile-tool",
+    "internalName": "mobile-tools",
+    "name": "Mobile Tools",
+    "version": "3.2.2",
+    "hidden": true,
+    "author": "Dark_Matter",
+    "lastUpdated": "2026-11-26T14:43:56Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Quick bar + tabbed menu: help builders, build planner, auto mine, auto Heal, speed boost, anti-grief with rebuild, overlays, and user detection."
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5852,27 +5866,13 @@
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
   },
   {
-    "repo": "redeagle0705/shinny-dustry",
-    "internalName": "mshaders",
-    "name": "Mindustry Shaders",
-    "version": "0.2.2",
-    "hidden": true,
-    "author": "REDEagle0705, Claude",
-    "lastUpdated": "2026-11-25T06:33:17Z",
-    "stars": 2,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks and units stop, metal glint, hand-drawn normal maps that light blocks and units by calculation, engines of units as streaks of light, shields like glass bubbles, explosions with shock waves and scorch marks, waves from menders, status effects shown on units, weather on the ground (rain, snow, sandstorms), heat haze, smoke shadows, slag, tar and cryofluid, day and night, lasers that burn what they hit, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Desktop and Android. Tested on v160.7."
-  },
-  {
     "repo": "newxaky/neowex",
     "internalName": "newex",
     "name": "NeoWex 1.0.12 J",
     "version": "1.0.12",
     "hidden": false,
     "author": "XakyW56",
-    "lastUpdated": "2026-11-26T11:06:04Z",
+    "lastUpdated": "2026-11-26T16:01:21Z",
     "stars": 2,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -7818,7 +7818,7 @@
     "version": "0.2.2.1",
     "hidden": false,
     "author": "October",
-    "lastUpdated": "2026-11-25T15:20:51Z",
+    "lastUpdated": "2026-11-26T15:36:58Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -7832,7 +7832,7 @@
     "version": "2.6.1",
     "hidden": false,
     "author": "AkinoxPl (Steam) / halk6000 (Discord)",
-    "lastUpdated": "2026-11-26T07:44:55Z",
+    "lastUpdated": "2026-11-26T20:40:34Z",
     "stars": 1,
     "minGameVersion": "160",
     "hasScripts": false,
