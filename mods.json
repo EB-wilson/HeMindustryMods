@@ -510,7 +510,7 @@
     "version": "2.1.3.1",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-11-25T23:09:31Z",
+    "lastUpdated": "2026-11-26T08:33:12Z",
     "stars": 52,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -588,6 +588,20 @@
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "version": "2.4.5",
+    "hidden": true,
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2026-11-25T05:38:34Z",
+    "stars": 46,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link, and sending it to your friends."
+  },
+  {
     "repo": "azaria-team/azaria",
     "internalName": "hpl",
     "name": "Project HPL",
@@ -600,20 +614,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
-  },
-  {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "version": "2.4.5",
-    "hidden": true,
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-11-25T05:38:34Z",
-    "stars": 45,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link, and sending it to your friends."
   },
   {
     "repo": "electricgun/cheat-codes-mod",
@@ -776,12 +776,26 @@
     "version": "190000",
     "hidden": true,
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-11-25T15:42:40Z",
+    "lastUpdated": "2026-11-26T12:10:14Z",
     "stars": 34,
     "minGameVersion": "160.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, Random, and lock-on focus fire. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新、随机化和锁定攻击。"
+  },
+  {
+    "repo": "way-zer/contentstweaker",
+    "internalName": "contentstweaker",
+    "name": "ContentsTweaker-内容包修改器",
+    "version": "3.1.0",
+    "hidden": true,
+    "author": "WayZer",
+    "lastUpdated": "2025-10-18T15:57:37Z",
+    "stars": 33,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dynamic load custom contents patch account to server"
   },
   {
     "repo": "dong-wo-long/betterdustrymod",
@@ -810,20 +824,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
-  },
-  {
-    "repo": "way-zer/contentstweaker",
-    "internalName": "contentstweaker",
-    "name": "ContentsTweaker-内容包修改器",
-    "version": "3.1.0",
-    "hidden": true,
-    "author": "WayZer",
-    "lastUpdated": "2025-10-18T15:57:37Z",
-    "stars": 32,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Dynamic load custom contents patch account to server"
   },
   {
     "repo": "wmf-industries/expandedindustries",
@@ -1179,10 +1179,10 @@
     "repo": "determination-wind/logicsugar",
     "internalName": "logicsugar",
     "name": "Logic Sugar",
-    "version": "5.13.0",
+    "version": "5.13.1",
     "hidden": true,
     "author": "DeterMination-Wind",
-    "lastUpdated": "2026-11-21T15:17:46Z",
+    "lastUpdated": "2026-11-26T09:41:40Z",
     "stars": 22,
     "minGameVersion": "160.1",
     "hasScripts": false,
@@ -1400,6 +1400,20 @@
     "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
   },
   {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "version": "1.13",
+    "hidden": true,
+    "author": "Space",
+    "lastUpdated": "2026-11-03T13:00:34Z",
+    "stars": 16,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
+  },
+  {
     "repo": "tyt-xexebe/qol-control",
     "internalName": "qol-control",
     "name": "QoL Control",
@@ -1454,20 +1468,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
-  },
-  {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "version": "1.13",
-    "hidden": true,
-    "author": "Space",
-    "lastUpdated": "2026-11-03T13:00:34Z",
-    "stars": 15,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to customize campaign difficulty, music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "valigaming15/pyra-erekir",
@@ -1840,7 +1840,7 @@
     "version": "0.4 (indev)",
     "hidden": false,
     "author": "[#ffd469]Sputnuc",
-    "lastUpdated": "2026-11-25T14:32:22Z",
+    "lastUpdated": "2026-11-26T12:32:10Z",
     "stars": 12,
     "minGameVersion": "159",
     "hasScripts": false,
@@ -2604,6 +2604,20 @@
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-11-08[white]"
   },
   {
+    "repo": "palle00/eclipse-build",
+    "internalName": "eclipse",
+    "name": "ECLIPSE",
+    "version": "1.0.1",
+    "hidden": false,
+    "author": "palle00",
+    "lastUpdated": "2026-11-25T20:10:57Z",
+    "stars": 8,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A new era of industry: deep chemical engineering, advanced materials and expanded warfare."
+  },
+  {
     "repo": "mitemi/blastanium",
     "internalName": "blastanium",
     "name": "Blastanium",
@@ -3106,20 +3120,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
-  },
-  {
-    "repo": "palle00/eclipse-build",
-    "internalName": "eclipse",
-    "name": "ECLIPSE",
-    "version": "1.0.1",
-    "hidden": false,
-    "author": "palle00",
-    "lastUpdated": "2026-11-25T20:10:57Z",
-    "stars": 6,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A new era of industry: deep chemical engineering, advanced materials and expanded warfare."
   },
   {
     "repo": "routerxdd/eternity-case",
@@ -4494,6 +4494,20 @@
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
+    "repo": "shenqixingqioule/dawn",
+    "internalName": "破晓",
+    "name": "DAWN",
+    "version": "alpha-0-2-2",
+    "hidden": false,
+    "author": "神奇星球了",
+    "lastUpdated": "2026-10-17T03:45:42Z",
+    "stars": 3,
+    "minGameVersion": "160.7",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n\n[gray]支持语言\n\n - [red]简体中文\n\n[gray] - [red]English\n\n\n[white]致谢\n某个t3小飞机 - 核心蓝图\n白义F-061 - 战役地图 & 部分简介\n\n为了您游玩此MOD拥有更佳的体验，请使用原版Mindustry游玩(不包含MdtX、学术等辅助版本)\n\n\n[red]请在游玩此MOD前开启双击采矿！\n\n[red]Please enable Double-Tap to Mine before playing this MOD!\n\n\n[gray]GitHub开源链接: https://github.com/shenqixingqioule/DAWN"
+  },
+  {
     "repo": "momiji142857/ve-addon-momijiadd",
     "internalName": "ve-addon-momiji",
     "name": "VE Addon: MomijiAdd",
@@ -4562,20 +4576,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n"
-  },
-  {
-    "repo": "momiji142857/momijicrafterlib",
-    "internalName": "momiji-lib",
-    "name": "MomijiLib",
-    "version": "1.7.3",
-    "hidden": false,
-    "author": "[sky]Momiji142857[white]",
-    "lastUpdated": "2026-11-02T13:58:26Z",
-    "stars": 3,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "磨米机库.\n2026-11-02"
   },
   {
     "repo": "determination-wind/betterrtsformation",
@@ -4730,6 +4730,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A custom port of Scheme Size for newer Mindustry builds.\n\nStarted as a schematic size increase, now a set of QoL and admin tools: bigger schematics, building helpers, renderer options, AI, keybinds, CLaJ, and an advanced console.\n\nClient & server:\nSame jar works as a normal client mod and on a dedicated server. On a vanilla server (without this mod) you still get client QoL. If the server also has the jar, admin tools like fill, items, units, teleport and rules sync over the network - even when you are not the local host. Those actions require admin.\n\nRequires Mindustry v160+. One jar for desktop and mobile (v160+). Vanilla recommended.\n\nOriginal mod by xzxADIxzx. Port by Mithra. The original author is not involved in this port.\n\n\n - Schematic size 512\n - Building & renderer tools\n - Admin tools (optional server sync)\n - AI support\n - CLaJ, keybinds, updater\n - Advanced console & rule setter"
+  },
+  {
+    "repo": "momiji142857/momijicrafterlib",
+    "internalName": "momiji-lib",
+    "name": "MomijiLib",
+    "version": "1.7.3",
+    "hidden": false,
+    "author": "[sky]Momiji142857[white]",
+    "lastUpdated": "2026-11-26T12:27:14Z",
+    "stars": 3,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "磨米机库.\n2026-11-02"
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -5460,20 +5474,6 @@
     "description": "RU:Добавляет блок Казино: ставь одни предметы на другие, шанс зависит от ценности предметов EN:This mod add block-Casino"
   },
   {
-    "repo": "shenqixingqioule/dawn",
-    "internalName": "破晓",
-    "name": "DAWN",
-    "version": "alpha-0-2-2",
-    "hidden": false,
-    "author": "神奇星球了",
-    "lastUpdated": "2026-10-17T03:45:42Z",
-    "stars": 2,
-    "minGameVersion": "160.7",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n\n[gray]支持语言\n\n - [red]简体中文\n\n[gray] - [red]English\n\n\n[white]致谢\n某个t3小飞机 - 核心蓝图\n白义F-061 - 战役地图 & 部分简介\n\n为了您游玩此MOD拥有更佳的体验，请使用原版Mindustry游玩(不包含MdtX、学术等辅助版本)\n\n\n[red]请在游玩此MOD前开启双击采矿！\n\n[red]Please enable Double-Tap to Mine before playing this MOD!\n\n\n[gray]GitHub开源链接: https://github.com/shenqixingqioule/DAWN"
-  },
-  {
     "repo": "kernelitt/kernelit-s-advanced-schemepack",
     "internalName": "kernelit-advanced-schemepack",
     "name": "Kernelit's Advanced SchemePack",
@@ -5868,11 +5868,11 @@
   {
     "repo": "newxaky/neowex",
     "internalName": "newex",
-    "name": "NeoWex 1.0.11 J",
-    "version": "1.0.11",
+    "name": "NeoWex 1.0.12 J",
+    "version": "1.0.12",
     "hidden": false,
     "author": "XakyW56",
-    "lastUpdated": "2026-11-25T15:48:19Z",
+    "lastUpdated": "2026-11-26T11:06:04Z",
     "stars": 2,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -7826,6 +7826,20 @@
     "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
+    "repo": "halk6000/metrum-mindustry",
+    "internalName": "metrum",
+    "name": "Metrum Industry Drones",
+    "version": "2.6.1",
+    "hidden": false,
+    "author": "AkinoxPl (Steam) / halk6000 (Discord)",
+    "lastUpdated": "2026-11-26T07:44:55Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Industry, drones, fuel logistics and particle physics for a new planet."
+  },
+  {
     "repo": "lorendoscsharp/tzarbimbajava",
     "internalName": "tzarbimbajava",
     "name": "tzarbimbajava",
@@ -9072,20 +9086,6 @@
     "description": "强化生产、运输、供电、防御与基地辅助方块。"
   },
   {
-    "repo": "r112007/merge",
-    "internalName": "merge",
-    "name": "合体建筑",
-    "version": "1.1",
-    "hidden": false,
-    "author": "R",
-    "lastUpdated": "2026-11-05T15:07:27Z",
-    "stars": 0,
-    "minGameVersion": "160.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "合体建筑 / 合体钻头 / 传送带叠层（从「组合工厂 / combine」里独立出来的那一部分）\n\n入口：屏幕上的浮标 →「炮台合体」/「工厂合体」/「直接建造层数」/「发电机合体」/「矿物阴影」（五个子按钮竖排）。\n· 炮台合体：框里的炮台按数量合成一台 2x2~10x10 的合体炮台，每格一台炮台、各自开火，物品/液体/电力/热量整台共享，可以继续往里加炮台，也能拆开。\n· 工厂合体：多台工厂合成一台 side×side 的合体工厂（每格一台工厂），物品/液体/电力/热量整台共享，可以继续往里加工厂，也能解体拆回每一台。\n· 发电机合体：多台发电机合成一台 side×side 的合体发电机（每格一台发电机），燃料/冷却液共享，发电量相加，可以继续往里加或解体拆回。\n· 液体卸载器：单独加载本模组时提供，从相邻建筑抽取选定液体再倒给下游；与 combine 同时加载时使用 combine 的版本。\n· 直接建造层数：数字按钮按 1→2→3→4→5→1 循环，新建传送带/管道/卸载器/泵时直接按该层数落地，并支付相应材料。\n· 矿物阴影/合体钻头：框选矿物地板打上阴影；阴影上放下的钻头实际占地压成 1x1（挖矿仍按原钻头 size×size 算），同一片阴影里的钻头共用一个物品池和液体池。\n· 传送带/管道/卸载器/泵叠层：手持同种方块点到已造好的同种方块上叠一层（最多 5 层），速度/搬运频率/产液量按层数成倍；拖一整排就是整排各叠一层。"
-  },
-  {
     "repo": "enwelk/mindustry-replaymod",
     "internalName": "replaymod",
     "name": "ReplayMod",
@@ -9310,17 +9310,17 @@
     "description": "Higher frame rates on large bases, same game.\n\nSmooth frames: the game calculates 60 times a second (as it does at 60 fps) and only draws the frames in between, with units, players and bullets drawn between their last two positions. The game runs at the same speed; the frame rate is no longer held down by the calculation (largest campaign map: about 155 -> 550-680 fps).\n\nFaster calculations with the same results (overflow/underflow gates, item and liquid bridges, unloaders with no item set, menders, overdrive projectors): the same items go the same way, in the same order, so it stays in step with servers and players without it.\n\nEach part can be switched off in Settings > Fast Logic. Client-side, adds no content. Tested on v160.7."
   },
   {
-    "repo": "halk6000/metrum-mindustry",
-    "internalName": "metrum",
-    "name": "Metrum Industry Drones",
-    "version": "2.6.0",
+    "repo": "r112007/merge",
+    "internalName": "merge",
+    "name": "合体建筑",
+    "version": "1.1",
     "hidden": false,
-    "author": "AkinoxPl (Steam) / halk6000 (Discord)",
-    "lastUpdated": "2026-11-25T17:34:41Z",
+    "author": "R",
+    "lastUpdated": "2026-11-26T13:20:11Z",
     "stars": 0,
-    "minGameVersion": "160",
+    "minGameVersion": "160.1",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Industry, drones, fuel logistics and particle physics for a new planet."
+    "description": "合体建筑 / 合体钻头 / 传送带叠层（从「组合工厂 / combine」里独立出来的那一部分）\n\n入口：屏幕上的浮标 →「炮台合体」/「工厂合体」/「直接建造层数」/「发电机合体」/「矿物阴影」（五个子按钮竖排）。\n· 炮台合体：框里的炮台按数量合成一台 2x2~10x10 的合体炮台，每格一台炮台、各自开火，物品/液体/电力/热量整台共享，可以继续往里加炮台，也能拆开。\n· 工厂合体：多台工厂合成一台 side×side 的合体工厂（每格一台工厂），物品/液体/电力/热量整台共享，可以继续往里加工厂，也能解体拆回每一台。\n· 发电机合体：多台发电机合成一台 side×side 的合体发电机（每格一台发电机），燃料/冷却液共享，发电量相加，可以继续往里加或解体拆回。\n· 液体卸载器：单独加载本模组时提供，从相邻建筑抽取选定液体再倒给下游；与 combine 同时加载时使用 combine 的版本。\n· 直接建造层数：数字按钮按 1→2→3→4→5→1 循环，新建传送带/管道/卸载器/泵时直接按该层数落地，并支付相应材料。\n· 矿物阴影/合体钻头：框选矿物地板打上阴影；阴影上放下的钻头实际占地压成 1x1（挖矿仍按原钻头 size×size 算），同一片阴影里的钻头共用一个物品池和液体池。\n· 传送带/管道/卸载器/泵叠层：手持同种方块点到已造好的同种方块上叠一层（最多 5 层），速度/搬运频率/产液量按层数成倍；拖一整排就是整排各叠一层。"
   }
 ]
