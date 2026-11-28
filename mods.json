@@ -63,7 +63,7 @@
     "hidden": true,
     "author": "[#FFC2D1]S[#FFADC2]h[#FF97B3]a[#FF81A3]r[#FF6C94]l[#F45885]o[#E84375]t[#DD2F67]t[#D11A58]e[]",
     "lastUpdated": "2026-11-15T20:09:54Z",
-    "stars": 260,
+    "stars": 261,
     "minGameVersion": "160.7",
     "hasScripts": false,
     "hasJava": true,
@@ -202,7 +202,7 @@
     "version": "4.4.4",
     "hidden": false,
     "author": "twcash",
-    "lastUpdated": "2026-11-27T22:48:52Z",
+    "lastUpdated": "2026-11-28T07:19:15Z",
     "stars": 136,
     "minGameVersion": "160.7",
     "hasScripts": false,
@@ -510,7 +510,7 @@
     "version": "2.1.3.1",
     "hidden": false,
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-11-27T14:08:43Z",
+    "lastUpdated": "2026-11-28T06:13:49Z",
     "stars": 52,
     "minGameVersion": "160",
     "hasScripts": false,
@@ -2114,20 +2114,6 @@
     "description": "[#037300]Eventide is an ambitious mod focused on creating a new campaign with its own unique lore. It takes place on a planet that once teemed with abundant, long-standing life but became a desolate wasteland following a massive catastrophe (though not one devoid of life). The planet is rich in valuable minerals and inhabited by numerous, extremely territorial life-forms.\n\n[#FF0000]Note: The mod is still in early development; many things may change in the future, such as sprites, sounds, enemies, lore, etc.\n\nArachnophobia warning for sensitive individuals.\n\nIf you would like to contribute to the mod in any way, join our Discord server."
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "version": "0.6.6",
-    "hidden": false,
-    "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2026-11-18T12:49:10Z",
-    "stars": 10,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
-  },
-  {
     "repo": "routerxdd/forgotten-depths",
     "internalName": "fd",
     "name": "Forgotten Depths",
@@ -2168,6 +2154,34 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, recipe data, chemical reactions, environmental blocks and planets."
+  },
+  {
+    "repo": "qsbich/stell-product",
+    "internalName": "原版拓展",
+    "name": "钢铁工业",
+    "version": "beta2.5",
+    "hidden": false,
+    "author": "Lock创作室",
+    "lastUpdated": "2026-11-28T04:46:36Z",
+    "stars": 10,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "当你在在行星发射终端击退最后敌人时，他们小部分部队逃逸到了更遥远的星系，他们用极快的时间打败了原住民，当你发现他们的时候他们早已占领整个星球以及他旁边的卫星\n为维护 赛普勒斯的和平 我们决定出征 科沃德星系 铲除敌人的残党"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "version": "0.6.6",
+    "hidden": false,
+    "author": "Watermolecules and Hydroabyss",
+    "lastUpdated": "2026-11-28T05:59:25Z",
+    "stars": 10,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
     "repo": "agzam4/mindustry-mod",
@@ -2238,20 +2252,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds a procedurally generated map option with adjustable game modes including an expanding Tower Defense mode!"
-  },
-  {
-    "repo": "qsbich/stell-product",
-    "internalName": "原版拓展",
-    "name": "钢铁工业",
-    "version": "2.4.2",
-    "hidden": false,
-    "author": "Lock创作室",
-    "lastUpdated": "2026-09-12T10:37:49Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "当你在在行星发射终端击退最后敌人时，他们小部分部队逃逸到了更遥远的星球，他们用极快的时间打败了原住民，当你发现他们的时候他们早已占领整个星球以及他旁边的卫星"
   },
   {
     "repo": "justtheblazinggear/advanceddifficulties",
@@ -2607,12 +2607,12 @@
     "repo": "alecthe2nd/tantros",
     "internalName": "tantros",
     "name": "Tantros",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "hidden": false,
     "author": "Alecthe2nd, bob26786",
-    "lastUpdated": "2026-11-27T01:54:55Z",
+    "lastUpdated": "2026-11-28T03:04:40Z",
     "stars": 8,
-    "minGameVersion": "160.4",
+    "minGameVersion": "160.8",
     "hasScripts": false,
     "hasJava": true,
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
@@ -3990,32 +3990,32 @@
     "description": "idk."
   },
   {
-    "repo": "oleksiy1409liut/periodic-overhaul",
-    "internalName": "periodic",
-    "name": "periodic overhaul",
-    "version": "0.11",
-    "hidden": false,
-    "author": "oleksiy",
-    "lastUpdated": "2026-11-27T19:54:55Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
-  },
-  {
     "repo": "itzmellory/starlight",
     "internalName": "starlight",
     "name": "Starlight",
     "version": "1.0",
     "hidden": true,
     "author": "[#ffffff]⚠ eyeless[] [#b3b3b3]and[] [#666666]VI Clan []",
-    "lastUpdated": "2026-11-28T00:06:40Z",
+    "lastUpdated": "2026-11-28T03:41:13Z",
     "stars": 4,
     "minGameVersion": "160",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ffffff] Sta[][#e6e6e6]rlight[] [#b3b3b3]Hybrid Mapmaking Toolkit[] []\n\n[#cccccc]A hybrid editor combining advanced map generators, terrain editing utilities, visual tools, and workflow features inspired by Map Filter Ext, Testing Utilities, and Better Terrain Gen v2.[]\n\n[#ffffff]Maps made with Starlight remain[] [#b3b3b3]compatible with the original game.[]\n\n[#ffffff] Fea[][#cccccc]tures[]:[]\n\n[#ffffff]- Adv[][#e6e6e6]anced[] [#808080]Generators[] [#666666] -[]\n\n[#b3b3b3]Procedural terrain tools with noise, octaves, falloff, tilt, and distortion controls; water generation with shallow-water, shoal, and depth-warp options; ruin scatter and structured ruins with rooms, corridors, and step controls; and block rotation tools.[]\n\n[#ffffff]- Ter[][#e6e6e6]rain[] [#808080]Editing and Clipboard[] [#666666] -[]\n\n[#b3b3b3]Select, copy, cut, paste, rotate, and flip terrain regions. Save and reuse terrain schemes, use rectangular or shaped brushes, edit cliffs, draw strict 45-degree lines, and work with terrain-focused erase and editing tools.[]\n\n[#ffffff]- Map[][#e6e6e6]Art[], [#808080]Stencils and Image Tools[] [#666666] -[]\n\n[#b3b3b3]Convert images into map terrain or colored-block structures. Place translucent reference stencils over the map to trace or recreate artwork with precision.[]\n\n[#ffffff]- Map[][#e6e6e6]Utilities[] and Editor Workflow[] [#666666] -[]\n\n[#b3b3b3]Additional map-editor utilities and workflow enhancements, including extended editing controls and tools adapted from the UpperUi and Testing Utilities concepts.[]\n\n[#ffffff]- Map[][#e6e6e6]Filter Tools[] [#666666] -[]\n\n[#b3b3b3]Filter and map inspection features based on the Map Filter Ext concept, integrated into the hybrid toolkit.[]\n\n[#ffffff]- Rem[][#e6e6e6]oved Size Limits[] [#666666] -[]\n\n[#b3b3b3]The built-in map-size unlocker removes standard minimum and maximum size restrictions when creating maps.[]\n\n[#ffffff]───────[][#e6e6e6]───────[][#b3b3b3]───  ───[][#808080]───────[][#4d4d4d]───────[]\n\n[#ffffff] Гиб[][#e6e6e6]ридный[] [#b3b3b3]Инструментарий Карт[] []\n\n[#cccccc]Starlight объединяет генераторы карт, инструменты редактирования рельефа, визуальные утилиты и функции рабочего процесса. Вдохновлён и объединяет идеи Map Filter Ext, Testing Utilities и Better Terrain Gen v2.[]\n\n[#ffffff]Карты Starlight[] [#b3b3b3]совместимы с оригинальной игрой.[]\n\n[#ffffff] Возможности:[]\n\n[#ffffff]- Про[][#e6e6e6]двинутые генераторы[] [#808080] -[]\n\n[#b3b3b3]Процедурная генерация рельефа с настройками шума, октав, спада, наклона и искажения; генерация воды с мелководьем, отмелями и искривлением глубины; разброс руин и создание структур с комнатами, коридорами и настройкой шагов; инструменты вращения блоков.[]\n\n[#ffffff]- Ред[][#e6e6e6]актирование рельефа и буфер[] [#808080] -[]\n\n[#b3b3b3]Выделение, копирование, вырезание, вставка, поворот и отражение участков рельефа. Сохранение и повторное использование схем рельефа, прямоугольные и фигурные кисти, редактор скал, линии строго под 45 градусов и инструменты работы с рельефом.[]\n\n[#ffffff]- Мап[][#e6e6e6] арты, трафареты и изображения[] [#808080] -[]\n\n[#b3b3b3]Преобразование изображений в рельеф карты или структуры из цветных блоков. Полупрозрачные трафареты поверх карты помогают точно переносить и обводить изображения.[]\n\n[#ffffff]- Ут[][#e6e6e6]илиты и улучшения редактора[] [#808080] -[]\n\n[#b3b3b3]Дополнительные инструменты и улучшения рабочего процесса редактора карт, включая функции на основе идей UpperUi и Testing Utilities.[]\n\n[#ffffff]- Фи[][#e6e6e6]льтры карты[] [#808080] -[]\n\n[#b3b3b3]Инструменты фильтрации и анализа карты на основе концепции Map Filter Ext, интегрированные в общий гибридный набор инструментов.[]\n\n[#ffffff]- Сня[][#e6e6e6]тие ограничений размера[] [#808080] -[]\n\n[#b3b3b3]Встроенный модуль разблокировки снимает стандартные ограничения минимального и максимального размера создаваемых карт.[]\n\n[#ffffff]───────[][#e6e6e6]───────[][#b3b3b3]───  ───[][#808080]───────[][#4d4d4d]───────[]\n\n[#ffffff] 高级[][#e6e6e6]地图编辑器[] [#b3b3b3]混合工具集[] []\n\n[#cccccc]Starlight 是一款混合地图编辑工具，整合高级地图生成器、地形编辑、视觉工具与编辑流程功能。灵感及部分功能概念来自 Map Filter Ext、Testing Utilities 和 Better Terrain Gen v2。[]\n\n[#ffffff]使用 Starlight 创建的地图[] [#b3b3b3]与原版游戏兼容。[]\n\n[#ffffff] 功能介绍：[]\n\n[#ffffff]- 高级生成器[] [#808080] -[]\n\n[#b3b3b3]程序化地形生成，提供噪声、八度、衰减、倾斜和扭曲参数；水域生成支持浅水、浅滩和深度扭曲；废墟散布与带房间、走廊及步进参数的结构生成；方块旋转工具。[]\n\n[#ffffff]- 地形编辑与剪贴板[] [#808080] -[]\n\n[#b3b3b3]支持地形区域选择、复制、剪切、粘贴、旋转和翻转。可保存并复用地形方案，使用矩形及形状画笔、悬崖编辑器、严格45度直线和专用地形编辑工具。[]\n\n[#ffffff]- 地图绘图、模板与图像工具[] [#808080] -[]\n\n[#b3b3b3]将图像转换为地图地形或彩色方块结构，并通过半透明参考模板辅助精准绘制。[]\n\n[#ffffff]- 编辑器扩展工具[] [#808080] -[]\n\n[#b3b3b3]整合额外地图编辑工具与流程优化功能，包含基于 UpperUi 和 Testing Utilities 概念的扩展能力。[]\n\n[#ffffff]- 地图过滤工具[] [#808080] -[]\n\n[#b3b3b3]整合基于 Map Filter Ext 概念的地图过滤及检查功能，融入统一的混合工具集。[]\n\n[#ffffff]- 解除地图尺寸限制[] [#808080] -[]\n\n[#b3b3b3]内置解锁功能移除创建地图时的标准最小与最大尺寸限制。[]\n\n[#ffffff]───────[][#e6e6e6]───────[][#b3b3b3]───  ───[][#808080]───────[][#4d4d4d]───────[]\n\n[#ffffff]⚠ Glory to VI — Brothers and Sisters! []"
+  },
+  {
+    "repo": "oleksiy1409liut/periodic-overhaul",
+    "internalName": "periodic",
+    "name": "periodic overhaul",
+    "version": "0.11",
+    "hidden": false,
+    "author": "oleksiy",
+    "lastUpdated": "2026-11-28T08:24:06Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "inspired by the periodic madness factorio mod\nDOESNT WORK WITH VANILLA MAPS"
   },
   {
     "repo": "justvi333/svapipai-mod",
@@ -5872,7 +5872,7 @@
     "version": "1.0.12",
     "hidden": false,
     "author": "XakyW56",
-    "lastUpdated": "2026-11-28T01:01:37Z",
+    "lastUpdated": "2026-11-28T03:44:32Z",
     "stars": 2,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -7630,20 +7630,6 @@
     "description": "A planet shrouded in arcane mystery."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "version": "1.3.0",
-    "hidden": true,
-    "author": "xpdustry",
-    "lastUpdated": "2026-11-21T04:34:17Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "xerxes-anominus/nevix",
     "internalName": "nevix",
     "name": "Nevix",
@@ -7770,20 +7756,6 @@
     "description": "Logic Monitor — real-time logic & hardware inspector.\nQQGroup: 615081546\n1. Main window (yr2lm):\n  add: Pick a block to monitor\n  copy: Copy block config & code\n  paste: Paste config to target block\n  Monitor List:\n     Toggle window visibility\n     Manually refresh window\n     Remove & close window\n2. Logic Processor:\n  Variable Tools:\n     Reset @counter to zero\n     Reset debug session globally\n     Persistent entity tracer line\n     Toggle page: variables / editor\n    Search: Filter variable names\n    [Cc]: Case-sensitive\n    [W]: Whole-word match\n  Code Editor:\n     Reload block code\n     Save & commit code to block\n     Toggle single / dual-pane\n    / Pause / Resume\n     Step one instruction\n     Run to next breakpoint\n     Toggle trace panel\n  Trace Timeline:\n     Export trace log\n     Clear trace history\n    [L.. -> L..]: Auto-collapse sequential steps\n    Diff: Mark jumps & multi-variable changes\n    Click a step: Time-travel snapshot rollback\n    [<<] step#: Current snapshot indicator\n     Restore real-time state\n  Code Line:\n    Click line head: Toggle breakpoint\n    >> arrow: Live execution pointer\n    Aurora-green bar: Paused highlight & trail\n    5 micro edit buttons (non-trace mode):\n       Inline edit this line\n       Insert blank line below\n       Paste code block (jumps re-mapped)\n       Reset line to original\n       Delete this line\n3. Memory Bank & Cell:\n  Start/End index: Observation range\n  Decimals (0-10): Precision slider\n  Columns per row (1-16): Display columns slider\n  / In-place edit & save mode\n4. Message Monitor:\n  / Pause / resume capture\n   Manual refresh\n   Clear all logs\n  / Copy / delete a single log\n==========================================\n逻辑监视器 — 逻辑与硬件实时交互监视器。\n交流群: 615081546\n1.主窗口 (yr2lm):\n  add: 选取方块打开监视\n  copy: 复制方块配置与代码\n  paste: 粘贴配置至目标方块\n  方块列表:\n     窗口显示/隐藏\n     窗口手动刷新\n     移除关闭窗口\n2.逻辑块:\n  变量表:\n     将 @counter 置零\n     全局重置调试会话\n     全局常驻实体引线\n     切换变量表/编辑器\n    搜索框: 过滤变量名\n    [Cc]: 区分大小写\n    [W]: 全词匹配\n  编辑器:\n     重新读取方块代码\n     保存提交代码到方块\n     切换单双栏并排\n    / 暂停/继续执行\n     单步推演一条指令\n     运行至下一个断点\n     智能流水面板开关\n  智能流水时序:\n     导出时序追踪日志\n     清空流水历史记录\n    [L.. -> L..]: 顺序步自动折叠\n    Diff 差分: 跳转与多变量突变标记\n    点击单步: 时间旅行快照历史回溯\n    [<<] 步号: 当前快照指示\n     恢复实时运行状态\n  代码行:\n    单击行首: 切换代码行断点\n    >> 箭头: 运行态实时执行指针\n    极光绿条: 暂停态停驻高亮与光轨\n    5 个微型编辑按键 (非流水模式):\n       单行就地编辑\n       向下插入空白代码行\n       导入代码块(jump 变换)\n       还原单行初始代码\n       删除本行代码\n3.内存块 (Memory Bank 与 Cell):\n  起始/末尾下标: 观察范围输入\n  保留小数 (0-10): 精度调节滑条\n  每行个数 (1-16): 显示列数滑条\n  / 内存就地编辑与保存\n4.信息板:\n  / 暂停捕获记录\n   手动刷新消息\n   清空所有历史日志\n  / 单条复制与删除"
   },
   {
-    "repo": "halk6000/metrum-mindustry",
-    "internalName": "metrum",
-    "name": "Metrum Industry Drones",
-    "version": "2.6.1",
-    "hidden": false,
-    "author": "AkinoxPl (Steam) / halk6000 (Discord)",
-    "lastUpdated": "2026-11-27T13:43:01Z",
-    "stars": 1,
-    "minGameVersion": "160",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Industry, drones, fuel logistics and particle physics for a new planet."
-  },
-  {
     "repo": "fat-bird-owner/gier-java-side",
     "internalName": "gier-java",
     "name": "Gier: Java Side",
@@ -7796,20 +7768,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java import of gier: revitalized."
-  },
-  {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "version": "0.2.2.1",
-    "hidden": false,
-    "author": "October",
-    "lastUpdated": "2026-11-27T17:08:22Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
   },
   {
     "repo": "wang-0-1/random-enhancement",
@@ -7838,6 +7796,48 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Runs one campaign sector per server instance, with a shared campaign folder (sector saves, sector info, research). Server-side only. Part of the multi-sector campaign setup."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "version": "1.3.0",
+    "hidden": true,
+    "author": "xpdustry",
+    "lastUpdated": "2026-11-28T02:14:23Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "version": "0.2.2.1",
+    "hidden": false,
+    "author": "October",
+    "lastUpdated": "2026-11-28T03:37:11Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "这是一个基于原版赛普罗拓展而成的模组，其创作理由只是因为作者打不过主线战役"
+  },
+  {
+    "repo": "halk6000/metrum-mindustry",
+    "internalName": "metrum",
+    "name": "Metrum Industry Drones",
+    "version": "2.7.0",
+    "hidden": false,
+    "author": "AkinoxPl (Steam) / halk6000 (Discord)",
+    "lastUpdated": "2026-11-28T08:12:25Z",
+    "stars": 1,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Industry, drones, fuel logistics and particle physics for a new planet."
   },
   {
     "repo": "lorendoscsharp/tzarbimbajava",
@@ -9322,5 +9322,33 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Smart item-line placement for mixed-tech maps while preserving vanilla placement elsewhere."
+  },
+  {
+    "repo": "arcyde0078/rampant",
+    "internalName": "rampant",
+    "name": "RAMPANT",
+    "version": "0.7",
+    "hidden": true,
+    "author": "ARCYDE",
+    "lastUpdated": "2026-11-28T06:39:30Z",
+    "stars": 0,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Умный и учащийся ИИ врагов. Smarter enemy AI that learns as the game goes on."
+  },
+  {
+    "repo": "wu20100210/sector-production-overview",
+    "internalName": "sector-production-overview",
+    "name": "Sector Production Overview",
+    "version": "1.0",
+    "hidden": false,
+    "author": "123456",
+    "lastUpdated": "2026-11-28T09:20:49Z",
+    "stars": 0,
+    "minGameVersion": "160",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "在单个窗口中显示每个占领区块的资源生产速率及发射，接收速率。点击区块名称可以直接跳转到对应区块。Display the resource production rate and transmission/reception rate of each occupied block in a single window. Clicking on the block name can directly redirect to the corresponding block."
   }
 ]
